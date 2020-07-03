@@ -12,6 +12,10 @@ class Main {
     this.country = 'US';
     this.namespaces = []; // You can add here non-store namespaces e.g. ue (unreal engine market offers)
     this.perPage = 1000;
+    this.trackingStats = {
+      timeUnit: 'ms',
+    };
+    this.databasePath = `${__dirname}/database`;
     
     this.ql = new GraphQLClient('https://graphql.epicgames.com/graphql', {
       headers: {
@@ -23,7 +27,9 @@ class Main {
   }
 
   async update () {
+    let checkpointTime;
     console.log('Updating epicgames store offers...');
+    checkpointTime = Date.now();
     await this.fetchAllOffers(FetchStoreOffersQuery, {
       country: this.country,
       locale: this.language,
@@ -32,7 +38,9 @@ class Main {
     }, (result) => {
       return result && result.Catalog && result.Catalog.searchStore || {};
     });
+    this.trackingStats.fetchStoreOffersTime = Date.now() - checkpointTime;
     
+    checkpointTime = Date.now();
     for (let i = 0; i < this.namespaces.length; ++i) {
       const namespace = this.namespaces[i];
       console.log(`Updating offers for namespace ${namespace}...`);
@@ -44,8 +52,17 @@ class Main {
         return result && result.Catalog && result.Catalog.catalogOffers || {};
       });
     }
+    this.trackingStats.fetchStoreOffersByNamespaceTime = Date.now() - checkpointTime;
     
+    checkpointTime = Date.now();
     this.index();
+    this.trackingStats.indexTime = Date.now() - checkpointTime;
+    
+    this.trackingStats.fetchOffersTime = this.trackingStats.fetchStoreOffersTime + this.trackingStats.fetchStoreOffersByNamespaceTime;
+    this.trackingStats.lastUpdate = Date.now();
+    this.trackingStats.lastUpdateString = (new Date(this.trackingStats.lastUpdate)).toISOString();
+    Fs.writeFileSync(`${this.databasePath}/tracking-stats.json`, JSON.stringify(this.trackingStats, null, 2));
+
     this.sync();
   }
   
@@ -54,8 +71,7 @@ class Main {
     const namespaces = {};
     const titles = {};
     
-    const databasePath = `${__dirname}/database`;
-    const offersPath = `${databasePath}/offers`;
+    const offersPath = `${this.databasePath}/offers`;
     Fs.readdirSync(offersPath).forEach((fileName) => {
       if (fileName.substr(-5) !== '.json') return;
       try {
@@ -73,8 +89,8 @@ class Main {
       }
     });
     
-    Fs.writeFileSync(`${databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
-    Fs.writeFileSync(`${databasePath}/titles.json`, JSON.stringify(titles, null, 2));
+    Fs.writeFileSync(`${this.databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
+    Fs.writeFileSync(`${this.databasePath}/titles.json`, JSON.stringify(titles, null, 2));
   }
 
   async sync () {
