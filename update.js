@@ -45,10 +45,40 @@ class Main {
       });
     }
     
+    this.index();
     this.sync();
+  }
+  
+  index () {
+    console.log('Indexing...');
+    const namespaces = {};
+    const titles = {};
+    
+    const databasePath = `${__dirname}/database`;
+    const offersPath = `${databasePath}/offers`;
+    Fs.readdirSync(offersPath).forEach((fileName) => {
+      if (fileName.substr(-5) !== '.json') return;
+      try {
+        const offer = JSON.parse(Fs.readFileSync(`${offersPath}/${fileName}`));
+        if (offer.namespace) {
+          if (!namespaces[offer.namespace]) {
+            namespaces[offer.namespace] = [offer.id];
+          } else {
+            namespaces[offer.namespace].push(offer.id);
+          }
+        }
+        titles[offer.id] = offer.title;
+      } catch (error) {
+        console.error(error);
+      }
+    });
+    
+    Fs.writeFileSync(`${databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
+    Fs.writeFileSync(`${databasePath}/titles.json`, JSON.stringify(titles, null, 2));
   }
 
   async sync () {
+    console.log('Syncing with repo...');
     const git = SimpleGit({
       baseDir: __dirname,
       binary: 'git',
@@ -68,9 +98,12 @@ class Main {
   }
   
   saveOffer (offer) {
-    Fs.writeFile(`${__dirname}/database/offers/${offer.id}.json`, JSON.stringify(offer, null, 2), (error) => {
-      // console.log(`${offer.id} = ${!error ? 'OK' : error}`);
-    });
+    try {
+      Fs.writeFileSync(`${__dirname}/database/offers/${offer.id}.json`, JSON.stringify(offer, null, 2));
+    } catch (error) {
+      console.log(`${offer.id} = ERROR`);
+      console.error(error);
+    }
   }
 
   sleep (time) {
