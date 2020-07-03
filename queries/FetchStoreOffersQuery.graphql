@@ -1,0 +1,64 @@
+query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $sortBy: String, $sortDir: String) {
+  Catalog {
+    searchStore (
+      locale: $locale,
+      count: $count
+      start: $start
+      country: $country
+      sortBy: $sortBy
+      sortDir: $sortDir
+    ) {
+      elements {
+        isFeatured
+        collectionOfferIds
+        effectiveDate
+        creationDate
+        lastModifiedDate
+        viewableDate
+        productSlug
+        developer
+        ignoreOrder
+        freeDays
+          
+        title
+        id
+        namespace
+        description
+        longDescription
+        status
+        keyImages {
+          type
+          url
+        }
+        seller {
+          id
+          name
+        }
+        items {
+          id
+          namespace
+          developer
+        }
+        customAttributes {
+          key
+          value
+        }
+        categories {
+          path
+        }
+        linkedOfferId
+        linkedOffer {
+          customAttributes {
+            key
+            value
+          }
+        }
+      }
+      paging {
+        count
+        start
+        total
+      }
+    }
+  }
+}
