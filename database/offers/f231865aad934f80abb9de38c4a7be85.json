@@ -64,5 +64,20 @@
     }
   ],
   "linkedOfferId": "addd4e86c4d746ab86f21606bdadce7d",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Bedtime Digital Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "figment/home"
+      }
+    ]
+  }
 }

@@ -64,5 +64,20 @@
     }
   ],
   "linkedOfferId": "275d5915ebd2479f983f51025b22a1b8",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Santa Ragione"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "saturnalia/home"
+      }
+    ]
+  }
 }

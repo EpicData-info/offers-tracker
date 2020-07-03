@@ -64,5 +64,20 @@
     }
   ],
   "linkedOfferId": "fd2df056f60e4ca8a59ca5c5f0ff3395",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "assassins-creed-rogue/home"
+      }
+    ]
+  }
 }

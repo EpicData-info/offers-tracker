@@ -64,5 +64,20 @@
     }
   ],
   "linkedOfferId": "6a612192c0ed499f8c7db747b3049107",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Landfall games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "totally-accurate-battle-simulator/home"
+      }
+    ]
+  }
 }

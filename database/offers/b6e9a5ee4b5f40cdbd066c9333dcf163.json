@@ -68,5 +68,24 @@
     }
   ],
   "linkedOfferId": "69136fe1321b422f97694509ce13f442",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Good Shepherd"
+      },
+      {
+        "key": "developerName",
+        "value": "ACE Team"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-eternal-cylinder/home"
+      }
+    ]
+  }
 }

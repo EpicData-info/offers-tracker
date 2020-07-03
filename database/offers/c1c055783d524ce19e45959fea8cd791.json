@@ -68,5 +68,24 @@
     }
   ],
   "linkedOfferId": "77b658e7d3c54ee1a4692682f3709cd8",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Tripwire Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Torn Banner Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "chivalry-2/home"
+      }
+    ]
+  }
 }

@@ -72,5 +72,24 @@
     }
   ],
   "linkedOfferId": "e9428ad618aa45f4b3371b8c8c4f9de9",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "team17"
+      },
+      {
+        "key": "developerName",
+        "value": "Ghost Town Games Ltd."
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "overcooked/home"
+      }
+    ]
+  }
 }

@@ -60,5 +60,20 @@
     }
   ],
   "linkedOfferId": "49841c56d62b4490a394a7889651e948",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Grapeshot Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "atlas-mod-kit"
+      }
+    ]
+  }
 }

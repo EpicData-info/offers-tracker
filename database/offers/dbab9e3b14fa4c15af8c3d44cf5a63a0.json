@@ -64,5 +64,20 @@
     }
   ],
   "linkedOfferId": "4423a534b0ca48b885abcf23a5e27e61",
-  "linkedOffer": null
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Paper Cult"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "bloodroots/home"
+      }
+    ]
+  }
 }
