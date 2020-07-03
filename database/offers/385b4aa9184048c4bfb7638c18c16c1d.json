@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-15T10:58:00.000Z",
+  "creationDate": "2019-03-14T15:03:38.180Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "detroit-become-human/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Detroit: Become Human",
+  "id": "385b4aa9184048c4bfb7638c18c16c1d",
+  "namespace": "epic",
+  "description": "Detroit: Become Human",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Detroit_1280x1440 -1280x1440-920419904339972ae588031cf33804d8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/DBH_EGS_PORTRAIT-826x1111-8b4fd9462a05bd0bed2b8bfdfc25d923.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Detroit_1280x1440 -1280x1440-920419904339972ae588031cf33804d8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8026"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "columbine"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "detroit-become-human/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "cc097232e8584021853adf98adec1b8d"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "cc097232e8584021853adf98adec1b8d",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Quantic Dream"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "detroit-become-human"
+      }
+    ]
+  }
+}

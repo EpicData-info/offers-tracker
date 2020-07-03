@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-04T12:00:00.000Z",
+  "creationDate": "2019-11-22T03:44:44.513Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "jotun/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Jotun Valhalla Edition",
+  "id": "73d31ce034024f27917316555efd89de",
+  "namespace": "epic",
+  "description": "Jotun Valhalla Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+    "name": "Thunder Lotus Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5666"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ba3149b6d7a7488ab5cc674154458757"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jotun/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "cbbde99547d54f41b8f7bd5fc46726c5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "cbbde99547d54f41b8f7bd5fc46726c5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Thunder Lotus Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "jotun/home"
+      }
+    ]
+  }
+}

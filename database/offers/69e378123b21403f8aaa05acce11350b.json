@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-02-27T23:30:59.847Z",
+  "lastModifiedDate": "2020-03-12T14:28:38.470Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DevOpalAudience",
+  "id": "69e378123b21403f8aaa05acce11350b",
+  "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "description": "DevOpalAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
+    "name": "Akupara Games"
+  },
+  "items": [
+    {
+      "id": "e78d3107b9284854a76e0d158c84a1fa",
+      "namespace": "5645a537b6a44f6f82d122729f3253ed",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

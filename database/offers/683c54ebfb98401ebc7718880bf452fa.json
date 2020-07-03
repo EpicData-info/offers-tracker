@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-02T15:00:00.000Z",
+  "creationDate": "2020-04-23T20:29:21.773Z",
+  "lastModifiedDate": "2020-07-03T00:31:51.637Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rogue Company | Starter Pack",
+  "id": "683c54ebfb98401ebc7718880bf452fa",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "description": "Rogue Company | Starter Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-InitialStoreArt-Starter-Wishlist-Items-1200x1600-1200x1600-69ec0d68e6535f16b5c522898e9e9522.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-InitialStoreArt-Starter-Wishlist-Items-2560x1440-2560x1440-84cbc6f79fb7d86245176e58a37bd0c3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "f4876f086cfc47a48b6dcb563ea085a3",
+      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+      "developer": null
+    },
+    {
+      "id": "32b059ef8cbe4f83afba6b7045429bd5",
+      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Hi-Rez Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "consumable"
+    },
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

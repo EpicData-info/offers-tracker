@@ -1,0 +1,75 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-31T08:00:00.000Z",
+  "creationDate": "2020-02-24T18:46:21.563Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "operencia/explorers-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Operencia: The Stolen Sun - Explorer's Edition",
+  "id": "c26dcc3c828c4675b4759b031dbbbbd7",
+  "namespace": "lily",
+  "description": "Operencia: The Stolen Sun - Explorer's Edition (Base game + Explorer's Pack)",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "8456122f40074d5a84566f0a061f302b",
+      "namespace": "lily",
+      "developer": null
+    },
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
+      "namespace": "lily",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "operencia/explorers-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-01-16T08:53:00.000Z",
+  "creationDate": "2019-01-16T13:53:39.593Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.550Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "OrchidDevAudience",
+  "id": "be69c45c76b645a3abe2511e5882ea85",
+  "namespace": "orchid",
+  "description": "OrchidDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/orchid/offer/Game Icon-400x400-48c5a91e3dd80b2d0e22aebdca564982.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-340x440-c697891148fe8d980d598d1f71de9a4d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "27a50916e4d84f9bb14ff29bf95837b9",
+      "namespace": "orchid",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

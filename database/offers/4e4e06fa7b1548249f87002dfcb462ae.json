@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-10T12:00:00.000Z",
+  "creationDate": "2019-06-07T16:39:31.666Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "untitled-goose-game/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Untitled Goose Game",
+  "id": "4e4e06fa7b1548249f87002dfcb462ae",
+  "namespace": "epic",
+  "description": "Untitled Goose Game",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HouseHouse_UntitledGooseGame_S3-1280x1440-63aaed5f67d9e82f8443211c5089d2b3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_N2-2560x1440-fa34d0c12f4e4200d78e7fc8a4a95233.jpg"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - mobile-560x760-a15a55257cb3ee931962e20e6b28120c.png"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - desktop-1810x810-40297d5ce8024531a26c0e3ea920cf2e.jpg"
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/goose-logo-big-white-3000x1210-5ab9f31cb631d1f07d2b33313fdbf27a.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_IC1_SVGColourLight-1108x367-ae5e6b33b09a3924991b2ff29fd57891.png"
+    }
+  ],
+  "seller": {
+    "id": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+    "name": "Panic"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10569"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "f7e06ee3d0c1491094cc0215859f0120"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "01028a117e8845ed90e1bc859ff6d4f3"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "untitled-goose-game/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "01028a117e8845ed90e1bc859ff6d4f3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Panic"
+      },
+      {
+        "key": "developerName",
+        "value": "House House"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "untitled-goose-game/home"
+      }
+    ]
+  }
+}

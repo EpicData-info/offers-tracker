@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-23T17:48:28.292Z",
+  "lastModifiedDate": "2020-03-23T17:48:28.292Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "RobinQA",
+  "id": "2423b71dbdc7404ba2141aa2b255e61e",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "RobinQA",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/item/ESRB_Yaga-1080x516-1cfa7ef91fc86eb7e2b9641ded97875c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "735e5e54db484109becf8dacad271fc6",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

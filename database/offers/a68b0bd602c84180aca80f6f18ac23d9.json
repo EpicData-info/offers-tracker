@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-17T15:00:00.000Z",
+  "creationDate": "2019-05-05T20:51:58.531Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "observer/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": ">observer_",
+  "id": "a68b0bd602c84180aca80f6f18ac23d9",
+  "namespace": "85398892cc4544088ee87c673f95bb6f",
+  "description": ">observer_",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observer_Logo-983x742-4489f7cd745030a094e362369d5036ce.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observer_StorePortraitPromo-1280x1440-66f9fd6c33526779b58565414d6ed6c9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observer_LibraryPrimary-2560x1440-3681f1bd3abab32f8a66217b91fbadbe.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observer_StorePortraitPromo-1280x1440-66f9fd6c33526779b58565414d6ed6c9.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/offer/CodeRedemption_Observer-340x440-cd238d5fb30a6f6bafbbf89a68b8fd6d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/offer/CodeRedemption_Observer-340x440-cd238d5fb30a6f6bafbbf89a68b8fd6d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observer_LibraryPrimary-2560x1440-3681f1bd3abab32f8a66217b91fbadbe.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+    "name": "Aspyr Media, Inc."
+  },
+  "items": [
+    {
+      "id": "f890240a573942df9336eb32831dacf2",
+      "namespace": "85398892cc4544088ee87c673f95bb6f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Aspyr Media, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "observer/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

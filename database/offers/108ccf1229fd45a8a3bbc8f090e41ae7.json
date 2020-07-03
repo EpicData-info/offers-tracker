@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-02T17:00:00.000Z",
+  "creationDate": "2019-05-02T20:51:46.969Z",
+  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Observation Influencer",
+  "id": "108ccf1229fd45a8a3bbc8f090e41ae7",
+  "namespace": "allium",
+  "description": "Observation Influencer",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium",
+      "developer": null
+    },
+    {
+      "id": "12704613decb45e49e1df7add133e8e8",
+      "namespace": "allium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "NoCode"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

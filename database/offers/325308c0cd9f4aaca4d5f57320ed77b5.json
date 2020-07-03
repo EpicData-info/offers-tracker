@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-30T00:00:00.000Z",
+  "creationDate": "2019-07-26T00:04:21.974Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800/sunken-treasures",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Sunken Treasures - DLC",
+  "id": "325308c0cd9f4aaca4d5f57320ed77b5",
+  "namespace": "oregano",
+  "description": "Sunken Treasures - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS13609_EGST_BannerBundle_US_Edition_Capsule_355x150-355x150-fe8af44b9327d56fb3656c3ce34601ea.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_SunkenTreasure_wide-355x150-0953ffe8b4daea0205683620b78e2ad7.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "60464ab8a9454e25a12abc3c8c94885c",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "93b2dfd9d7604a20b1f27b2d549a4bc0",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/sunken-treasures"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

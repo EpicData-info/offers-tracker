@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-18T10:00:00.000Z",
+  "creationDate": "2019-10-18T17:41:36.125Z",
+  "lastModifiedDate": "2020-05-14T21:40:25.622Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-3/gold-weapon-skins-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands 3 - Gold Weapon Skins Pack",
+  "id": "c8966e86e2e24a6b839e58aecfc584a1",
+  "namespace": "catnip",
+  "description": "Borderlands 3 - Gold Weapon Skins Pack",
+  "longDescription": "Borderlands 3 Pre-Purchase",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/490-490x276-16b2da804626271e3cf6474ea8d0e72c86329576.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "cd4cceaa96da49bb81aeedfb110f49c5",
+      "namespace": "catnip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3/gold-weapon-skins-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

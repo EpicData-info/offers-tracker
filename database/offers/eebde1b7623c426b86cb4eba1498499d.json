@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:51:45.656Z",
+  "lastModifiedDate": "2020-05-11T15:20:29.635Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/nordic-countries ",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Nordic Countries DLC",
+  "id": "eebde1b7623c426b86cb4eba1498499d",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "Nordic Countries",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_NORDIC_Desktop-horizontal-1360x766-cdf45b2754ed1d4b442db4a7ed97450fc6963429.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "5aaac1f6f80d44049533617e06ae4f1d",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/nordic-countries "
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

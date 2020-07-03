@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-26T15:00:00.000Z",
+  "creationDate": "2020-02-18T18:32:28.054Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "tormentor-x-punisher/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tormentor x Punisher",
+  "id": "84f8d79ca9d84057ba4406d215cb6ad5",
+  "namespace": "51c19c28a7024793b9e38174d0e1634b",
+  "description": "Tormentor X Punisher",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_LANDSCAPE_IMAGE-2560x1440-444a2ed936764c3a72a90f7c103d22fa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_TxP-860x1148-c1abcfbc97426ee662119957b8a2c7c6.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_TxP-860x1148-c1abcfbc97426ee662119957b8a2c7c6.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/51c19c28a7024793b9e38174d0e1634b/offer/EGS_BIRD BATH_ATOMICROPS_LANDSCAPE_IMAGE-2560x1440-444a2ed936764c3a72a90f7c103d22fa.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/51c19c28a7024793b9e38174d0e1634b/offer/EGS_BIRD BATH_ATOMICROPS_LANDSCAPE_IMAGE-2560x1440-444a2ed936764c3a72a90f7c103d22fa.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/51c19c28a7024793b9e38174d0e1634b/offer/portrait_image_TxP-860x1148-c1abcfbc97426ee662119957b8a2c7c6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "1b4e47c527cc4a96ae72477a0e6654ce",
+      "namespace": "51c19c28a7024793b9e38174d0e1634b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "E-Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tormentor-x-punisher/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

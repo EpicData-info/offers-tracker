@@ -1,0 +1,67 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-31T19:50:00.000Z",
+  "creationDate": "2018-10-31T23:50:43.368Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-31T19:50:00.000Z",
+  "productSlug": "pixark",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "PixArk",
+  "id": "965be9bde7e84cceafb91386d260c2eb",
+  "namespace": "epic",
+  "description": "PixArk",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+    "name": "Snail Games USA"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "pixark"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pixark"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1f218730f7ab425fa436404799fa224f"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "1f218730f7ab425fa436404799fa224f",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "pixark"
+      }
+    ]
+  }
+}

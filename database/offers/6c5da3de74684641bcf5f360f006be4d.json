@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-25T15:00:00.000Z",
+  "creationDate": "2020-06-23T15:34:52.206Z",
+  "lastModifiedDate": "2020-06-25T16:04:20.968Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-3/bounty-of-blood",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands 3 Bounty of Blood",
+  "id": "6c5da3de74684641bcf5f360f006be4d",
+  "namespace": "catnip",
+  "description": "Borderlands 3 Bounty of Blood\nDLC 3",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_2560x1440-2560x1440-7e8718f8820f2ab9ee9f1f94258054e3.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_2560x1440-2560x1440-7e8718f8820f2ab9ee9f1f94258054e3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_BOUNTY_OF_BLOOD_EPIC_1200x1600-1200x1600-75069b6d8e6cfdae09c12513eaae7edc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "8c826db6e14f44aeac8816e1bd593632",
+      "namespace": "catnip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3/bounty-of-blood"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

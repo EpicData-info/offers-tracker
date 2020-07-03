@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-22T15:02:00.000Z",
+  "creationDate": "2019-01-11T14:23:20.479Z",
+  "lastModifiedDate": "2020-04-29T00:46:45.150Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "SnapdragonDevAudience",
+  "id": "1c2376e9602c48c9a238998ae4bb84e8",
+  "namespace": "snapdragon",
+  "description": "SnapdragonDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Game_Icon-400x400-732cd6de7626f196b52c3675520f704b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/m3_codeRedemption_standardedition-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/MetroExodus_GameLogo_Update-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Metro_PrimaryPromo_update-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "955df4b62aad4844b98d880f79f11fa1",
+      "namespace": "snapdragon",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

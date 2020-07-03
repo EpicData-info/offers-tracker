@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-01T17:30:00.000Z",
+  "creationDate": "2019-04-26T21:43:35.752Z",
+  "lastModifiedDate": "2020-05-18T13:54:57.451Z",
+  "viewableDate": null,
+  "productSlug": "close-to-the-sun/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Close to the Sun",
+  "id": "bfcf7ca20e57436d8cc33e6d20cbac76",
+  "namespace": "silene",
+  "description": "Close to the Sun",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+    "name": "Wired Productions"
+  },
+  "items": [
+    {
+      "id": "f2db83aa24b24cb3b54b058d65ffa073",
+      "namespace": "silene",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Wired Productions"
+    },
+    {
+      "key": "developerName",
+      "value": "Storm In A Teacup"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "close-to-the-sun/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

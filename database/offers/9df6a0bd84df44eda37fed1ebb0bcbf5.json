@@ -1,0 +1,84 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-01T08:00:00.000Z",
+  "creationDate": "2019-05-02T01:47:12.398Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-breakpoint/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ghost Recon Breakpoint Gold Edition",
+  "id": "9df6a0bd84df44eda37fed1ebb0bcbf5",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "description": "Ghost Recon Breakpoint Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/Capsule-Gold-267x150-4567a505e6ffea4e775e1a23a15af5a1005eeb06.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_GE-708x1000-1236d138776a805cd1e36f70199b914a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_GE-708x1000-1236d138776a805cd1e36f70199b914a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_GE-708x1000-1236d138776a805cd1e36f70199b914a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "5bea35ae4068456bacffd18eea5a4580",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    },
+    {
+      "id": "913d1259a5614a58a114c65dc445ce3d",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    },
+    {
+      "id": "dbff1644d9ac4f12b4e75c1a912eda59",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-breakpoint/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

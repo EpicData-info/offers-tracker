@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-04T00:00:00.000Z",
+  "creationDate": "2019-06-14T04:01:59.453Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "overcooked/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overcooked",
+  "id": "e9428ad618aa45f4b3371b8c8c4f9de9",
+  "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "description": "Overcooked",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "407abe035be74f159ae6548e85273576",
+      "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "team17"
+    },
+    {
+      "key": "developerName",
+      "value": "Ghost Town Games Ltd."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overcooked/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

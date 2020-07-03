@@ -1,0 +1,87 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-30T15:32:00.000Z",
+  "creationDate": "2019-01-24T20:40:02.914Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "subnautica-below-zero/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Subnautica Below Zero",
+  "id": "d2a9dabba02942d8a76bee6f4b6b4fdd",
+  "namespace": "epic",
+  "description": "Subnautica Below Zero",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SBZ_Hero_Landscape-2560x1450-4040d92bb659aba19937040433688207.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SBZ_Hero_Portrait-1288x1450-6e0c416453ae65849a5c82f4540daad5.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SN_BZ_Logo-960x378-5120b8ce2758ca8758ad1265f62a2a26.png"
+    }
+  ],
+  "seller": {
+    "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+    "name": "Unknown Worlds Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1399"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "foxglove"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "0bc411b8c5094761b5ead1a9b121b0c6"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "subnautica-below-zero/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "0bc411b8c5094761b5ead1a9b121b0c6",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Unknown Worlds"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "subnautica-below-zero/home"
+      }
+    ]
+  }
+}

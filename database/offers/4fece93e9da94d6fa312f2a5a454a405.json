@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-12T00:00:00.000Z",
+  "creationDate": "2019-06-12T14:02:36.100Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "gods-and-monsters",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Gods & Monsters",
+  "id": "4fece93e9da94d6fa312f2a5a454a405",
+  "namespace": "epic",
+  "description": "Gods & Monsters",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Orpheus_Epic_Library_Primary_Promo_2580x1450-2580x1450-1d54a9e3d3595a646e7bf477499e50c7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10085"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4b35838425c74992ad42e1276b2161ca"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gods-and-monsters"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e42093ff3c434f618b8f2c50039eaece"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e42093ff3c434f618b8f2c50039eaece",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "isPrepurchase",
+        "value": "true"
+      },
+      {
+        "key": "availableDate",
+        "value": "1551106800"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "gods-and-monsters"
+      }
+    ]
+  }
+}

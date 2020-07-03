@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-28T21:43:21.272Z",
+  "lastModifiedDate": "2019-12-20T15:33:58.320Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "AlewifeDevAudience",
+  "id": "010cbdfd6fcb4f66aa774fcfa674be36",
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "description": "AlewifeDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "10af750910c2416386c5f959963e5551",
+      "namespace": "764eb429792649e4a606413cd649de2c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

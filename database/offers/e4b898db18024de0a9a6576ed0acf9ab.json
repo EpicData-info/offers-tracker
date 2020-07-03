@@ -1,0 +1,86 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-03-27T10:00:00.000Z",
+  "creationDate": "2020-02-12T20:07:01.422Z",
+  "lastModifiedDate": "2020-04-29T00:38:15.867Z",
+  "viewableDate": null,
+  "productSlug": "predator-hunting-grounds/trial-weekend",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Predator: Hunting Grounds Free Trial Weekend",
+  "id": "e4b898db18024de0a9a6576ed0acf9ab",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "description": "Predator Hunting Grounds Trial",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CRE1089 PHG Trial Weekend 860x1148 02-860x1148-62790d34031dc2ea468afa06da972213.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CRE1089 PHG Trial Weekend 2560x1440 02-2560x1440-cdd3a29f87364167ebecb91ea2f4ad3c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CRE1089 PHG Trial Weekend 860x1148 02-860x1148-62790d34031dc2ea468afa06da972213.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_Trial_Weekend_2560x1440-2560x1440-cdd3a29f87364167ebecb91ea2f4ad3c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "da39f6871bfc43d4b8d482d54d13a9c3",
+      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "IllFonic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "predator-hunting-grounds/trial-weekend"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/trial"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

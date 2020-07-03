@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-07T16:00:00.000Z",
+  "creationDate": "2019-01-16T14:04:57.702Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "jackbox-party-pack-4",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack 4",
+  "id": "da763a33956745888bea060de7ecf059",
+  "namespace": "snowdrop",
+  "description": "Jackbox Party Pack 4",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Portrait Promo-1280x1420-2247bcb675d2ee1f4fa1a38429f5a08c.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game Icon_transparent-400x400-3b75a8f3aec1118703d4e7ac10fe2c64.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP4 Primary Promo-2580x1450-3d2a3596c1cbfda7acc7ffd5cccad151.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Portrait Promo-1280x1420-2247bcb675d2ee1f4fa1a38429f5a08c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snowdrop/offer/JPP4_CodeRedemption-330x440-401c71473ef35005deb3e56c000581e1.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snowdrop/offer/JPP4_CodeRedemption-330x440-401c71473ef35005deb3e56c000581e1.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP4 Primary Promo-2580x1450-3d2a3596c1cbfda7acc7ffd5cccad151.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "ec8f601a877a4b8d832a9792dbf9438e",
+      "namespace": "snowdrop",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Jackbox Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-4"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

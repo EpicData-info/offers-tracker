@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "creationDate": "2019-09-12T18:24:18.231Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "totally-reliable-delivery-service/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Reliable Delivery Service",
+  "id": "9aa227e2ba294bb1a95c95fde892eb31",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "description": "Totally Reliable Delivery Service",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "92072472858b473fa5093b228ae30105",
+      "namespace": "52b90f9a982a404781b189f6a7903226",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tinybuild LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "We're Five Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-reliable-delivery-service/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

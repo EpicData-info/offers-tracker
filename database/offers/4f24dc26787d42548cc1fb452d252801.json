@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-05T14:00:00.000Z",
+  "creationDate": "2019-02-26T16:06:54.063Z",
+  "lastModifiedDate": "2020-06-19T17:09:58.603Z",
+  "viewableDate": null,
+  "productSlug": "satisfactory",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Satisfactory",
+  "id": "4f24dc26787d42548cc1fb452d252801",
+  "namespace": "crab",
+  "description": "Satisfactory",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/crab/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Studios"
+  },
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2",
+      "namespace": "crab",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Coffee Stain Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "satisfactory"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

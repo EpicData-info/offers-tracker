@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "creationDate": "2020-04-27T18:06:59.986Z",
+  "lastModifiedDate": "2020-05-28T15:00:00.474Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-the-handsome-collection",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands: The Handsome Collection",
+  "id": "a61c6602b5784d36801d0cab73e02337",
+  "namespace": "85189f7cf7a64f86aa6aa91d81d36c08",
+  "description": "The Handsome Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S5-1360x766-f7d853a2a4573950465569300027e4bf.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S5-1360x766-f7d853a2a4573950465569300027e4bf.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S2-860x1148-3866989a6d20f8dcb14ee310fdacd8ac.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S2-860x1148-3866989a6d20f8dcb14ee310fdacd8ac.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S2-860x1148-3866989a6d20f8dcb14ee310fdacd8ac.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/85189f7cf7a64f86aa6aa91d81d36c08/offer/EGS_BorderlandsTheHandsomeCollection_GearboxSoftware_S2-860x1148-3866989a6d20f8dcb14ee310fdacd8ac.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "9aeadc7744b14bc1a948f632198f4052",
+      "namespace": "6110c92696a54f108c8e9002713ea5f9",
+      "developer": null
+    },
+    {
+      "id": "aeee0bdf01f44f9ba56751358f00850a",
+      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-the-handsome-collection"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

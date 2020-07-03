@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-26T15:00:00.000Z",
+  "creationDate": "2019-08-27T22:19:20.293Z",
+  "lastModifiedDate": "2020-04-02T01:41:42.058Z",
+  "viewableDate": null,
+  "productSlug": "lego-batman-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "LEGO® Batman™ 2: DC Super Heroes",
+  "id": "bad91db9e66044fdaf195d6a8e882cdb",
+  "namespace": "cb23c857ec0d42d89b4be34d11302959",
+  "description": "LEGO® Batman™ 2 DC Super Heroes",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-2-207x63-b74bbaed0707a101c3e8a8cea78873df.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/lego-batman-2_promo-1536x852-e28a3626558ca6cded26fa94cbdf227f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/lego_batman_2_portrait-1024x1204-04a94a4da2bd20c866f673f7af8f1eea.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/lego_batman_2_portrait-1024x1204-04a94a4da2bd20c866f673f7af8f1eea.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/offer/CodeRedemption_LegoBatman2-338x440-49fa3a3d487d7bab5b6f4cd80e6cc96f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cb23c857ec0d42d89b4be34d11302959/offer/CodeRedemption_LegoBatman2-337x440-073378d9b83b39d29a05c80a17f43ba3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/lego-batman-2_promo-1536x852-e28a3626558ca6cded26fa94cbdf227f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "name": "Warner Bros."
+  },
+  "items": [
+    {
+      "id": "633995775cfa4d8aa30ead349d8c2cf6",
+      "namespace": "cb23c857ec0d42d89b4be34d11302959",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Warner Bros."
+    },
+    {
+      "key": "developerName",
+      "value": "Traveller's Tales"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lego-batman-2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

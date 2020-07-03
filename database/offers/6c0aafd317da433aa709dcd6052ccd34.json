@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-04T11:00:00.000Z",
+  "creationDate": "2019-10-01T23:40:40.957Z",
+  "lastModifiedDate": "2020-05-14T19:36:13.299Z",
+  "viewableDate": null,
+  "productSlug": "the-crew-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Crew 2",
+  "id": "6c0aafd317da433aa709dcd6052ccd34",
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "description": "The Crew 2 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_TC2_Standard-330x440-d7078059b16d9bbad316f5b37d6ca68a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_TC2_Standard-330x440-d7078059b16d9bbad316f5b37d6ca68a.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-9361d33084144af7dee2d7d1e624b778b3ac9a57.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "4a17f4606aa9496199f598ff25a483f0",
+      "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ivory Tower"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-crew-2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

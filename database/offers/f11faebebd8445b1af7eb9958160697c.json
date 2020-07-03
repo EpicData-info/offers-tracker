@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-14T04:01:59.542Z",
+  "lastModifiedDate": "2019-09-27T23:44:50.811Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "SageDevAudience",
+  "id": "f11faebebd8445b1af7eb9958160697c",
+  "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "description": "SageDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "4c9bae2b35c34223aeddd1652f43e60d",
+      "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "team17"
+    },
+    {
+      "key": "developerName",
+      "value": "Ghost Town Games Ltd."
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

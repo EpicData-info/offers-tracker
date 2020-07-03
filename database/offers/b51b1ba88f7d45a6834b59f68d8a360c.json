@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-10T15:00:00.000Z",
+  "creationDate": "2019-10-02T02:40:20.275Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "surviving-mars",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Mars - Project Laika",
+  "id": "b51b1ba88f7d45a6834b59f68d8a360c",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "description": "Surviving Mars - Project Laika",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Landscape_Surviving_Mars_ProjectLaika-2560x1440-5ba44ca97bc0f143bbd0f1f50cd2a329.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/SM_Project-Laika-Epic-Games-Portrait-1200x1600-4f1e0523498737f5096d854c4dd28815.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/SM_Project-Laika-Epic-Games-Portrait-1200x1600-4f1e0523498737f5096d854c4dd28815.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/SM_Project-Laika-Epic-Games-Portrait-1200x1600-4f1e0523498737f5096d854c4dd28815-1200x1600-4f1e0523498737f5096d854c4dd28815.png"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "3c889bd7c1984757b93731084ca3561b",
+      "namespace": "d759128018124dcabb1fbee9bb28e178",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games AD"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-mars"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

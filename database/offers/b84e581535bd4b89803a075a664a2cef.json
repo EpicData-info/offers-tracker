@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2020-01-22T16:54:23.357Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "farming-simulator-19/farming-simulator-19-platinum-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Farming Simulator 19 - Platinum Edition",
+  "id": "b84e581535bd4b89803a075a664a2cef",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "description": "Farming Simulator 19 - Platinum Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_farming-simulator-19-platinum-edition_EGS-GIANTS-FS19-1280x1440_PlatEdition-1280x1440-371a437de706023b8c9efaf2531908733964fae5-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "de829d3c422347c594903e6d50dc0dd6",
+      "namespace": "493e9ad801e8487497fe7840cb8404bb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giants Software GmbH"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "farming-simulator-19/farming-simulator-19-platinum-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

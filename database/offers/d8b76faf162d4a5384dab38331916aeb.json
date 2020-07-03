@@ -1,0 +1,102 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-13T15:00:00.000Z",
+  "creationDate": "2020-06-09T19:08:02.678Z",
+  "lastModifiedDate": "2020-06-13T19:45:50.220Z",
+  "viewableDate": null,
+  "productSlug": "iron-harvest",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Iron Harvest Pre-Purchase",
+  "id": "d8b76faf162d4a5384dab38331916aeb",
+  "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "description": "Iron Harvest Standard Edition Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "00e562b27d3b4fef972cdbd1ca3d7fee",
+      "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+      "developer": null
+    },
+    {
+      "id": "6cd213007edd4178ba3b751702db97d4",
+      "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1598958000"
+    },
+    {
+      "key": "developerName",
+      "value": "King Art Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "iron-harvest"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

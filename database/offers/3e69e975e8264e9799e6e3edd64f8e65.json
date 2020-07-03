@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-02T16:00:00.000Z",
+  "creationDate": "2019-08-22T22:25:56.201Z",
+  "lastModifiedDate": "2020-04-27T13:34:58.811Z",
+  "viewableDate": null,
+  "productSlug": "arise-a-simple-story/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Arise: A Simple Story",
+  "id": "3e69e975e8264e9799e6e3edd64f8e65",
+  "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+  "description": "Arise A Simple Story",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_ARISE_IC1_WHITE-200x200-791a69d1f9875e505aeb468a1d8dd281.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVELOPER_ARISE_S1_KEYART-2560x1440-ab5a2fbf4a2d2573bba9eb8aeb9c69fe.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Arise_Portrait2-1280x1440-a48e80bc18bcd497eea6ccb752bcbfda.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Arise_Portrait2-1280x1440-a48e80bc18bcd497eea6ccb752bcbfda.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/offer/CodeRedemption_Arise2-340x440-9e6b5fa29b45f606d8437ab0bf5d0929.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0fb229f35a3f4eb788b05ae91419a214/offer/EGS_DEVELOPER_ARISE_SOCIAL_KEYART_LANDSCAPE-1920x1080-49fd2c6024051b1fbbbf59cd8bbd5af8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVELOPER_ARISE_S1_KEYART-2560x1440-ab5a2fbf4a2d2573bba9eb8aeb9c69fe.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "name": "Techland"
+  },
+  "items": [
+    {
+      "id": "54d289e14d374109987374e4d631d00f",
+      "namespace": "0fb229f35a3f4eb788b05ae91419a214",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Techland"
+    },
+    {
+      "key": "developerName",
+      "value": "Piccolo"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "arise-a-simple-story/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-01T08:00:00.000Z",
+  "creationDate": "2019-05-02T01:23:21.271Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-breakpoint/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon Breakpoint",
+  "id": "2385d033d11a469fa08cbae090ae97d8",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "description": "Ghost Recon Breakpoint Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Game_Logo-1000x375-f0c8b60ec9447512852ce59a468309fa.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Primary_Promo-2580x1450-8e2e6701714a95dcba3088d0464ad792.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Portrait_Promo-1280x1420-b26ff533005794b5c3c70a2b8a1f7d33.jpg"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Mobile-560x760-fbf63002af476fdda129a81a04b065e4.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Desktop-1810x810-d28f3d6406324f0b23c186c43182f838.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TGT_Screenshot_4-1920x1080-bf6d20bc25b0abb5511ab4b70cb432a0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_AGN-1529x2161-71e0358faa099cbb25dc8a54c5280be4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "913d1259a5614a58a114c65dc445ce3d",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-breakpoint/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-11T22:49:05.663Z",
+  "lastModifiedDate": "2020-04-29T00:38:36.810Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Hello Neighbor: Hide and Seek - Humble Bundle",
+  "id": "de82fb11f23b42f79f0eab849d60bfc0",
+  "namespace": "morpho",
+  "description": "Hello Neighbor: Hide and Seek - Humble Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/morpho/item/HN_HideNSeak-842x404-3551cd52f85392f8ba5ea5f2abf0d29b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionHNHS-330x440-d14dcbc2a5ec820e719dc0d252ade195.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "e68461b3d4d44c9d9e90df6bfca124cf",
+      "namespace": "morpho",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T16:00:00.000Z",
+  "creationDate": "2020-06-08T15:32:02.891Z",
+  "lastModifiedDate": "2020-06-11T15:54:59.090Z",
+  "viewableDate": null,
+  "productSlug": "windbound",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Windbound",
+  "id": "b56e237214274ff6abb11a703ded9d7b",
+  "namespace": "a47cb01bef994749ac731aa3366796e8",
+  "description": "Windbound Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_2560x1440-2560x1140-0942f3c760dc6c7862b938975f1c2c9e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_2560x1440-2560x1140-0942f3c760dc6c7862b938975f1c2c9e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a47cb01bef994749ac731aa3366796e8/offer/Wishlist_860x1148-860x1148-c3a63f1a4502fb9da688c6f91eb9a4d2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "57a7a85ef81949238f74581d16c3c9dc",
+      "namespace": "a47cb01bef994749ac731aa3366796e8",
+      "developer": null
+    },
+    {
+      "id": "b8c2743879f34eecb8f0f861e01de772",
+      "namespace": "a47cb01bef994749ac731aa3366796e8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "windbound"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

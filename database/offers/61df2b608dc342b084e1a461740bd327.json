@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-01T12:00:00.000Z",
+  "creationDate": "2019-04-09T18:27:47.694Z",
+  "lastModifiedDate": "2020-06-19T15:22:54.022Z",
+  "viewableDate": null,
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless - Arcslayer Pack",
+  "id": "61df2b608dc342b084e1a461740bd327",
+  "namespace": "jackal",
+  "description": "Dauntless - Arcslayer Pack",
+  "longDescription": "Harness the power of aetheric science with the Arcslayer Pack. Includes the following items:\n-  5,400 Platinum\n-  Arcslayer Cosmetic Armour Set\n     -  Arcslayer Helmet\n     -  Arcslayer Gauntlets\n     -  Arcslayer Jacket\n     -  Arcslayer Greaves\n-  Arcslayer Torch Lantern Skin\n-  Arcslayer Flagstaff\n-  “Arcslayer” Title\n-  Arcslayer Shield Banner Fabric\n-  Arcslayer Cipher Flare\n-  Arcslayer Cipher Sigil\n-  100 Ace Chips\n-  3 Rare Cells\n-  1 Epic Cell\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_ArcslayerPack_PortraitOffer-1200x1600-0178e94a5935fd3dca8a22f6f3786446.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_ArcslayerPack_PortraitOffer-1200x1600-0178e94a5935fd3dca8a22f6f3786446.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_ArcslayerPack_PortraitOffer-1200x1600-0178e94a5935fd3dca8a22f6f3786446.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_ArcslayerPack_LandscapeOffer-2560x1440-2e57b9844d84d883b411d65e74e5f457.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "eb30d315dbdb475a9d8facf2856f8258",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

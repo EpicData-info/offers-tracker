@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "creationDate": "2020-02-18T02:39:47.634Z",
+  "lastModifiedDate": "2020-05-26T15:00:00.285Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SMITE Ultimate God Pack",
+  "id": "82a83a7f811344d28abd352cf0b0689d",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "description": "SMITE Ultimate God Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_2560x1440-2560x1440-0b69e8c2cab5aea6b8620dd0077fc6ba.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_UltimateGodPack_860x1148-860x1148-8a0d91cd306f56681bacfdd31b8d7b06.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "20b823a61f184cac91497f7ab715fd2d",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    },
+    {
+      "id": "66ce874b8f0341198478ee1d0dc3ca40",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    },
+    {
+      "id": "8c3383782a064adb80d93816c4267b08",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Titan Forge Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

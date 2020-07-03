@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-11-18T22:10:03.453Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-origins",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Origins",
+  "id": "e5e7b5fcc99c484b85f80dbee446710a",
+  "namespace": "epic",
+  "description": "Assassin's Creed Origins AC Assassins Origin",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1-ACOD-1920x1080-e467d101a2fc554e331e23fa9ded52e5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "camellia"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "db9fd3c0420240ffbccc5141059824b3"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "db9fd3c0420240ffbccc5141059824b3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "assassins-creed-origins"
+      }
+    ]
+  }
+}

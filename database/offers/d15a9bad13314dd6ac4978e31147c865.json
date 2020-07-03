@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-05T10:55:00.000Z",
+  "creationDate": "2019-06-04T11:19:16.551Z",
+  "lastModifiedDate": "2020-04-27T15:30:34.618Z",
+  "viewableDate": null,
+  "productSlug": "falcon-age",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Falcon Age",
+  "id": "d15a9bad13314dd6ac4978e31147c865",
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "description": "Falcon Age",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PrimaryPromo-1440x810-1440x810-0d20764dc8ab543b18b5a2af267e7cd8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PortraitPromo-960x1080-960x1080-144e95628ca3d2ca48289b1b373b7398.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FalconAge_Logo-2650x905-fbc35a43de3237ce11eb360b4c2bf40e.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PortraitPromo-960x1080-960x1080-144e95628ca3d2ca48289b1b373b7398.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/offer/CodeRedemptionFalconAge-340x440-24a66c9a012c015b7b77b6af87997051.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/28dde12d84ef45b8b321dbc962c1b217/offer/CodeRedemptionFalconAge-340x440-24a66c9a012c015b7b77b6af87997051.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PrimaryPromo-1440x810-1440x810-0d20764dc8ab543b18b5a2af267e7cd8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+    "name": "Outerloop Games LLC"
+  },
+  "items": [
+    {
+      "id": "722ed22602d44a3f981a5cc3b0d40e5c",
+      "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Outerloop Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "falcon-age"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

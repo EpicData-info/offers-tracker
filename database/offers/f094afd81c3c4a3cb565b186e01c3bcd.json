@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-11T05:00:00.000Z",
+  "creationDate": "2019-08-07T20:38:47.144Z",
+  "lastModifiedDate": "2020-04-02T01:41:13.879Z",
+  "viewableDate": null,
+  "productSlug": "conarium/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Conarium",
+  "id": "f094afd81c3c4a3cb565b186e01c3bcd",
+  "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+  "description": "Conarium",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_logo-1280x289-808961952e67400ddd57f1c518943832.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "name": "Iceberg Interactive"
+  },
+  "items": [
+    {
+      "id": "8eb9fc0326344d11887d5bef1b512b82",
+      "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Iceberg Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zoetrope Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "conarium/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

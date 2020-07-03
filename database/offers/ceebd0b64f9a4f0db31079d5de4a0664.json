@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-09T11:00:00.000Z",
+  "creationDate": "2019-10-22T12:48:22.295Z",
+  "lastModifiedDate": "2020-06-08T12:16:41.251Z",
+  "viewableDate": null,
+  "productSlug": "mechwarrior-5/digital-deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "MechWarrior 5 Digital Deluxe Version",
+  "id": "ceebd0b64f9a4f0db31079d5de4a0664",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "description": "MechWarrior 5 Digital Deluxe Version",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+    "name": "Piranha Games"
+  },
+  "items": [
+    {
+      "id": "47bd531334844905b5543525953e985c",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    },
+    {
+      "id": "16d9d0fc7dd049859513ccd7e6f7c8a3",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Piranha Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mechwarrior-5/digital-deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

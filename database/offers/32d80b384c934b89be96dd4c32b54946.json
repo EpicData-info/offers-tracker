@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-06T21:57:17.062Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "mutant-year-zero",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mutant Year Zero: Road To Eden",
+  "id": "32d80b384c934b89be96dd4c32b54946",
+  "namespace": "epic",
+  "description": "Mutant Year Zero: Road To Eden",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "name": "Funcom"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "2"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4756b80eb0f74d45b77922e54052cfed"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mutant-year-zero"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "9651fd57c8a34e81949aab28a084ced7"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "9651fd57c8a34e81949aab28a084ced7",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Funcom"
+      },
+      {
+        "key": "developerName",
+        "value": "The Bearded Ladies"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "mutant-year-zero"
+      }
+    ]
+  }
+}

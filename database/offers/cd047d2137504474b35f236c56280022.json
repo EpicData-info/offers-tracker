@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-25T15:00:00.000Z",
+  "creationDate": "2020-02-21T21:05:47.299Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-rogue/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Rogue Deluxe Edition",
+  "id": "cd047d2137504474b35f236c56280022",
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "description": "Assassin's Creed Rogue Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_DeluxeEdition_Capsule_1920X1080-1920x1080-4edacabd3cf842cb084f007b6dc7df19.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_DeluxeEdition_Capsule_1920X1080-1920x1080-4edacabd3cf842cb084f007b6dc7df19.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b000071cd3bb4232b1c59311c7cd42e1",
+      "namespace": "34f7e1e275924bb6a90074920f9c1696",
+      "developer": null
+    },
+    {
+      "id": "fd1e0684d785480ca1abf0702518dd6c",
+      "namespace": "34f7e1e275924bb6a90074920f9c1696",
+      "developer": null
+    },
+    {
+      "id": "a5a0f6b8280f4c9480758ee0a3e11340",
+      "namespace": "34f7e1e275924bb6a90074920f9c1696",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-rogue/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

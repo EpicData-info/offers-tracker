@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-14T16:00:00.000Z",
+  "creationDate": "2019-09-10T14:24:53.254Z",
+  "lastModifiedDate": "2020-05-14T19:40:40.815Z",
+  "viewableDate": null,
+  "productSlug": "the-messenger/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Messenger",
+  "id": "a46b0cc96e60477cb4a5a9f024589079",
+  "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+  "description": "The Messenger",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sabotage_TheMessenger_IC1_ColorMessengerLogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_N1_2560x1440-2560x1440-1573e62aec3e4b7ebb4b36dc9493e1ca.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "fd897376fdbe448ab3e493e460f774c5",
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Sabotage Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-messenger/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

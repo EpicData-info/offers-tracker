@@ -1,0 +1,98 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-14T15:00:00.000Z",
+  "creationDate": "2020-03-20T00:38:56.086Z",
+  "lastModifiedDate": "2020-05-21T21:09:01.832Z",
+  "viewableDate": "2020-04-29T12:00:00.000Z",
+  "productSlug": "grand-theft-auto-v",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Grand Theft Auto V: Premium Edition",
+  "id": "954871df36d3456ca1face43aa5c2e62",
+  "namespace": "0584d2013f0149a791e7b9bad0eec102",
+  "description": "Grand Theft Auto V: Premium Edition , gtav, gta5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/GTAV_EGS_Artwork_2560x1440_Landscaped Store-2560x1440-79155f950f32c9790073feaccae570fb.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/0584d2013f0149a791e7b9bad0eec102/offer/Diesel_productv2_grand-theft-auto-v_home_GTAV_EGS_Artwork_1000x200_ESRB-1000x200-995c56b26d2fd05efdeb9b8e3377700a3f6ba224-1000x200-326c1cad00820a1e642def71677df201.png"
+    }
+  ],
+  "seller": {
+    "id": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+    "name": "Rockstar Games"
+  },
+  "items": [
+    {
+      "id": "3f56280a0cf64bc2b94a4bdada2ef7c8",
+      "namespace": "0584d2013f0149a791e7b9bad0eec102",
+      "developer": null
+    },
+    {
+      "id": "d1deea7746654654a69bace466402a74",
+      "namespace": "0584d2013f0149a791e7b9bad0eec102",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "VE,SA,BH,LB,QA,KW,AE,OM,CU,IR,SY"
+    },
+    {
+      "key": "com.epicgames.app.freegames.vault.slug",
+      "value": "free-games"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rockstar Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "grand-theft-auto-v"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

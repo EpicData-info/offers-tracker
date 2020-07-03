@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-18T11:00:00.000Z",
+  "creationDate": "2020-02-14T02:38:22.085Z",
+  "lastModifiedDate": "2020-05-12T19:01:30.379Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-siege/year-5-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rainbow Six Siege Year 5 - DLC",
+  "id": "4f6ec9b876a64a0b975abe3451744bb1",
+  "namespace": "carnation",
+  "description": "Rainbow Six Siege Year 5 - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_YEAR_5_PASS_EPIC_Edition_Capsule_1920x1080-1920x1080-7e2582ec85702eb0685339bb0a470b2b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_YEAR_5_PASS_EPIC_Edition_Capsule_1920x1080-1920x1080-5b39d04879b910084f5e570b9da1ab569fecea8a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "36e8cf9a09c14093a5c01dd5b84ca9fb",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "45ab2992071f471abec46c5b27e12888",
+      "namespace": "carnation",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-siege/year-5-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

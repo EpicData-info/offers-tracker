@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-24T15:00:00.000Z",
+  "creationDate": "2020-05-27T01:05:42.914Z",
+  "lastModifiedDate": "2020-06-25T15:37:12.551Z",
+  "viewableDate": null,
+  "productSlug": "missile-command-recharged",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Missile Command: Recharged",
+  "id": "890c5a23bc654a1f94993c7976b3baa2",
+  "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
+  "description": "Missile Command: Recharged",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bhpk86rgthezed539g3hb5avacecqt",
+    "name": "Atari"
+  },
+  "items": [
+    {
+      "id": "4c071f50a28b41e694172bdf04dcf804",
+      "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Atari Inc"
+    },
+    {
+      "key": "developerName",
+      "value": "Nickervision Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "missile-command-recharged"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

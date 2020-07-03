@@ -1,0 +1,71 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-10-21T14:45:53.465Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-3/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 3 Deluxe Edition",
+  "id": "b913d3e0919f411ab8cce44178bbd23c",
+  "namespace": "hellebore",
+  "description": "Far Cry 3 Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hellebore/offer/FC3_dlx-2560x1440-9ab9a351dd312a09b0124b0fabe0ce71.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hellebore/offer/FC3_Edition_Capsule_1920X1080-1920x1080-54e68db16d9ff93c16d6c9d6029624f4735676ad.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "4857b7e1690c4817a623c276d47dbc33",
+      "namespace": "hellebore",
+      "developer": null
+    },
+    {
+      "id": "8ab5095a207a46fa8b18e7c1eb440e39",
+      "namespace": "hellebore",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-3/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-21T16:00:00.000Z",
+  "creationDate": "2019-12-17T21:07:32.766Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "superhot/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SUPERHOT",
+  "id": "be60529b869c4a8dae064311aefdd1bd",
+  "namespace": "epic",
+  "description": "SUPERHOT",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+    "name": "SUPERHOT Sp. z.o.o"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8999"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "908bed122ba84c4a908ee1e14da401c3"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superhot/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "42ccb715787e47f48648159060135ef1"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "42ccb715787e47f48648159060135ef1",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "SUPERHOT Sp. z.o.o"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "superhot/home"
+      }
+    ]
+  }
+}

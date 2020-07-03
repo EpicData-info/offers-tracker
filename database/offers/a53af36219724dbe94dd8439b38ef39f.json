@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-14T15:00:00.000Z",
+  "creationDate": "2019-09-27T20:56:04.236Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs-2/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs 2 Deluxe Edition",
+  "id": "a53af36219724dbe94dd8439b38ef39f",
+  "namespace": "angelonia",
+  "description": "Watch Dogs 2 Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2Deluxe_CodeRedemption-340x440-064528f4672d199813f5d63659e57ad1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2Deluxe_CodeRedemption-340x440-064528f4672d199813f5d63659e57ad1.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-DEL-Capsule-1920x1080-4c467f4725666250363910c6eff5922ef001cd1f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Deluxe_CodeRedemption-340x440-064528f4672d199813f5d63659e57ad1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "c7b4d3700b3b4a2ea73b08bb93c2ed3c",
+      "namespace": "angelonia",
+      "developer": null
+    },
+    {
+      "id": "df5cd3b2af324cbdad45d1cc43c4fb64",
+      "namespace": "angelonia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-2/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

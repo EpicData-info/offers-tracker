@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-13T10:00:00.000Z",
+  "creationDate": "2020-01-27T23:21:07.288Z",
+  "lastModifiedDate": "2020-05-26T17:00:00.315Z",
+  "viewableDate": null,
+  "productSlug": "state-of-decay-2-juggernaut-edition/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "State of Decay 2: Juggernaut Edition",
+  "id": "73fbe4d673504c2a80261cf6bfcff20f",
+  "namespace": "11eb2ae2943641b498efb54501511b86",
+  "description": "State of Decay 2: Juggernaut Edition",
+  "longDescription": "$29.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/offer/landscape_image_2560x1440-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/11eb2ae2943641b498efb54501511b86/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
+    "name": "Microsoft"
+  },
+  "items": [
+    {
+      "id": "25c5c80cba4f4dd584644d002ac62562",
+      "namespace": "11eb2ae2943641b498efb54501511b86",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Microsoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Undead Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "state-of-decay-2-juggernaut-edition/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

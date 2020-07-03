@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-06T19:20:54.863Z",
+  "lastModifiedDate": "2020-04-29T00:46:48.559Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Spellbreak Community Skin 002",
+  "id": "240e59ce21e34ee1841196f77074f1e2",
+  "namespace": "newt",
+  "description": "Spellbreak Community Skin 002",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Spellbreak_CodeRedemption-330x440-22c224ecad08be29a17f19b99dba79e2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "16d09afee10e4623869776c8481895c1",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "creationDate": "2020-02-13T19:28:26.380Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs",
+  "id": "88be15452fea4ebf9e211deb291e8189",
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "description": "Watch Dogs Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Landscape_2560x1440-2560x1440-93e9e269fcee8681c8ded689197ebc03.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_STD_Store_Landscape_2580x1450-2580x1450-3fd07dcc02e65aca288d794c177c7512.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "1dd6d61f0c364fae972313329495657d",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

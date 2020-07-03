@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-18T00:00:00.000Z",
+  "creationDate": "2019-09-03T15:22:15.375Z",
+  "lastModifiedDate": "2020-06-18T11:59:41.937Z",
+  "viewableDate": null,
+  "productSlug": "surviving-the-aftermath/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving the Aftermath",
+  "id": "5d86405789a840328b241fd9c48c5467",
+  "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "description": "Surviving the Aftermath",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "ce82d03f65cc4f47b00f86bb9b3cb68a",
+      "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Iceflake Studios Oy"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-the-aftermath/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

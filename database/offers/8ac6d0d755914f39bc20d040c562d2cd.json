@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "creationDate": "2020-02-18T02:41:12.754Z",
+  "lastModifiedDate": "2020-05-12T15:56:22.955Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SMITE Season Pass 2020",
+  "id": "8ac6d0d755914f39bc20d040c562d2cd",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "description": "SMITE Season Pass 2020",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_2560x1440-2560x1440-157ccc1e2665ea9717eea375093eb054.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite_EGS_SeasonPass_860x1148-860x1148-9d13f76d95f235912efc2b3a866d45c5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "504bb34bbeb94ee08dd5091c02797758",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    },
+    {
+      "id": "bdefdac5331d434b83d6da4a103c12b8",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    },
+    {
+      "id": "eb79e8451a1b4e75b05a9aeec7ce85b0",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

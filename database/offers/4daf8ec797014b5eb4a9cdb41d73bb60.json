@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "creationDate": "2019-10-28T21:42:57.050Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "south-park-the-stick-of-truth/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "South Park: The Stick of Truth",
+  "id": "4daf8ec797014b5eb4a9cdb41d73bb60",
+  "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+  "description": "South Park: The Stick of Truth",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SoT-S1_BakedLogo-2560x1440-a0f25b8dce42e511dcecffe665f2e75c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "437d3c55ea17440ab822fdc9bc57d02c",
+      "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-stick-of-truth/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

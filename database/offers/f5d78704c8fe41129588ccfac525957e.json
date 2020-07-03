@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-27T16:00:00.000Z",
+  "creationDate": "2019-10-16T21:51:59.137Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-wildlands/year-1-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
+  "id": "f5d78704c8fe41129588ccfac525957e",
+  "namespace": "hyacinth",
+  "description": "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-1920x1080-2ec250118253da86f4f53be7455c5ef2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-330x440-f04e880dcb69866bed6ca5a311662596.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-908473040b098a899596c49192320227e8af56fc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "dcbf3cabf1d24457a91a35a5a7806bc8",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "7c6cd2a3df4648ada1ad79dc402cee05",
+      "namespace": "hyacinth",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands/year-1-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

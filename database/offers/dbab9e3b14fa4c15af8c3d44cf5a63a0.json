@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-11-21T21:43:18.263Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "bloodroots/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bloodroots",
+  "id": "dbab9e3b14fa4c15af8c3d44cf5a63a0",
+  "namespace": "epic",
+  "description": "Bloodroots",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6fych9fc46deb48wb6fw8th6695pnl",
+    "name": "Paper Cult"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "6090"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "25ef88acc7f34afc8ac6669e11573882"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bloodroots/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "4423a534b0ca48b885abcf23a5e27e61"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "4423a534b0ca48b885abcf23a5e27e61",
+  "linkedOffer": null
+}

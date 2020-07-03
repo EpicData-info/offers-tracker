@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-01-11T03:20:13.318Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "faeria/premium-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Premium Edition DLC",
+  "id": "32f4e6fd9b9c4993876ec24e2114578f",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "description": "Premium Edition DLC",
+  "longDescription": "13.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_PremiumEdition_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-409a104c906d032ff36c669e83a5d3f2b56938ac.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_PremiumEdition_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-d5682b86b893cfb3e05b561bd7b63c53.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-PremiumPack_Portrait-Offer-860x1148-fd607f9b1e97a11dbae5c4db0f2d6113.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-PremiumPack_Portrait-Offer-860x1148-fd607f9b1e97a11dbae5c4db0f2d6113.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "4a152cb11cbe42b18aba7bb06ac550b2",
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/premium-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

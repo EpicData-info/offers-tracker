@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-23T15:00:00.000Z",
+  "creationDate": "2019-11-05T02:24:15.016Z",
+  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Just Cause 4 Complete Edition",
+  "id": "76f7631689174b8c9194207c2e7b0eeb",
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "description": "Just Cause 4 Complete Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-2560x1440-2560x1440-bb37fa434e9ed06691e9c29471ffd1b0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "items": [
+    {
+      "id": "0b39426e73c7425689539e0d6c88701d",
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

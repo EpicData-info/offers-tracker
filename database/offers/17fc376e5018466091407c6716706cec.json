@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "creationDate": "2019-07-15T23:22:28.819Z",
+  "lastModifiedDate": "2020-05-12T18:55:07.955Z",
+  "viewableDate": null,
+  "productSlug": "this-war-of-mine/fathers-promise",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Stories - Father's Promise (ep.1) DLC",
+  "id": "17fc376e5018466091407c6716706cec",
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "description": "Stories - Father's Promise (ep.1) DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_FP_L1-2560x1440-4eccaaa7c86d42d60157daf0b36e28797e2fa376.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "name": "11 Bit Studios"
+  },
+  "items": [
+    {
+      "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "11 bit studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "this-war-of-mine/fathers-promise"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

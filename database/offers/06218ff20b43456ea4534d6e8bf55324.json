@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-13T21:35:14.192Z",
+  "lastModifiedDate": "2020-06-15T14:48:43.431Z",
+  "viewableDate": null,
+  "productSlug": "godfall",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Godfall",
+  "id": "06218ff20b43456ea4534d6e8bf55324",
+  "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+  "description": "Godfall",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S6-1200x1600-0d509fe545e8759f01ba77f337fc79d8095409f2-1200x1600-30bd1f039ba6f2120a1f3e3facbb96df.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S5-1920x1080-b7f98a1d6581af9100a03b17f77420de408c1b96-1920x1080-3496a26cbd561584e252026e7832d4d6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S6-1200x1600-0d509fe545e8759f01ba77f337fc79d8095409f2-1200x1600-30bd1f039ba6f2120a1f3e3facbb96df.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S6-1200x1600-0d509fe545e8759f01ba77f337fc79d8095409f2-1200x1600-30bd1f039ba6f2120a1f3e3facbb96df.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S6-1200x1600-0d509fe545e8759f01ba77f337fc79d8095409f2-1200x1600-30bd1f039ba6f2120a1f3e3facbb96df.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Diesel_productv2_godfall_home_EGS_Godfall_CounterplayGames_S5-1920x1080-b7f98a1d6581af9100a03b17f77420de408c1b96-1920x1080-3496a26cbd561584e252026e7832d4d6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dcmk65hvycy3kndmqvfg3yn3up87jn",
+    "name": "Gearbox Publishing"
+  },
+  "items": [
+    {
+      "id": "4d495d59eb424fc48d59d4d03f4ded6e",
+      "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Gearbox Publishing"
+    },
+    {
+      "key": "developerName",
+      "value": "Counterplay Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "godfall"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-24T05:06:19.129Z",
+  "lastModifiedDate": "2020-06-10T12:48:03.973Z",
+  "viewableDate": null,
+  "productSlug": "werewolf-the-apocalypse-earthblood/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Werewolf: The Apocalypse – Earthblood",
+  "id": "9709b4728b964be192e7212a000bc201",
+  "namespace": "9c86694776c04893bec691f13f4b60fc",
+  "description": "Werewolf: The Apocalypse – Earthblood",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S1-2560x1440-7d13adc7f997d2149605debcb457d7e6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S2-1200x1600-2e3baa62e063efbbb07dfdefa5def268.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S1-2560x1440-7d13adc7f997d2149605debcb457d7e6.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S2-1200x1600-2e3baa62e063efbbb07dfdefa5def268.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S1-2560x1440-7d13adc7f997d2149605debcb457d7e6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S2-1200x1600-2e3baa62e063efbbb07dfdefa5def268.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c86694776c04893bec691f13f4b60fc/offer/EGS_WerewolfTheApocalypseEarthblood_CyanideStudio_S2-1200x1600-2e3baa62e063efbbb07dfdefa5def268.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "ad961f9491ca4c34865c732f4a32b917",
+      "namespace": "9c86694776c04893bec691f13f4b60fc",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Cyanide Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "werewolf-the-apocalypse-earthblood/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

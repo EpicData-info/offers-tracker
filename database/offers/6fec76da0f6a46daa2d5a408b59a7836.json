@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-11T10:17:00.000Z",
+  "creationDate": "2019-03-06T15:20:51.946Z",
+  "lastModifiedDate": "2020-05-07T15:50:41.980Z",
+  "viewableDate": null,
+  "productSlug": "phoenix-point/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Phoenix Point",
+  "id": "6fec76da0f6a46daa2d5a408b59a7836",
+  "namespace": "epic",
+  "description": "Phoenix Point",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS vertical-860x1148-08e5c6a28f307d4e88ae9ed91afbdfdf.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS horizontal-2560x1440-594dcf1f7cfe9b61227616ba6781cadb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8040"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "iris"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a07d1b449fb84aa0bfacdb24ec365db5"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "phoenix-point/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a07d1b449fb84aa0bfacdb24ec365db5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Snapshot Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "phoenix-point"
+      }
+    ]
+  }
+}

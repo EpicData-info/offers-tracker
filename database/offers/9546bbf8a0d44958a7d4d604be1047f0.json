@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-03T20:05:30.438Z",
+  "lastModifiedDate": "2020-01-30T15:57:38.869Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "StellulaDevAudience",
+  "id": "9546bbf8a0d44958a7d4d604be1047f0",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "description": "StellulaDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "0dc463bae15b43879fa10d69211de9f1",
+      "namespace": "493e9ad801e8487497fe7840cb8404bb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giants Software GmbH"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

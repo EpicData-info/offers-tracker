@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-06-01T17:11:51.764Z",
+  "lastModifiedDate": "2020-06-11T15:12:29.785Z",
+  "viewableDate": null,
+  "productSlug": "ark/the-center",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK The Center",
+  "id": "237ce9ad0601415bb29d5215f8e5589d",
+  "namespace": "ark",
+  "description": "ARK The Center",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-89babcad6baf67d8543742d8de919db2.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_TheCenterARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-7542bcf9b85934d5ac62d53efeef6416.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "7cb0281930c744b588845c25f73c7f89",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/the-center"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

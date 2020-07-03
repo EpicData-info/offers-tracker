@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-18T10:00:00.000Z",
+  "creationDate": "2019-10-18T18:16:46.533Z",
+  "lastModifiedDate": "2020-05-14T21:46:17.453Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-3/retro-cosmetic-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands 3 - Retro Cosmetic Pack",
+  "id": "af733612e48943a283e0e1e1906f8baa",
+  "namespace": "catnip",
+  "description": "Borderlands 3 - Retro Cosmetic Pack",
+  "longDescription": "Content Pack 1",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_RETROPACK_EPIC_SOCIAL_490x276-490x276-6ce80321a61e70d75dce2c8c4e75cf2e425bb629.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "29da568810454587930011b042eb4ebb",
+      "namespace": "catnip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3/retro-cosmetic-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

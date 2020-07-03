@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-20T10:28:00.000Z",
+  "creationDate": "2020-03-20T14:35:07.233Z",
+  "lastModifiedDate": "2020-04-29T19:01:18.757Z",
+  "viewableDate": null,
+  "productSlug": "paladins",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Paladins",
+  "id": "308d380d8b5d4141b59d8f1722150475",
+  "namespace": "epic",
+  "description": "Paladins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "badb0ee71b474ed591ec43212547cfc8"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "paladins"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "6005be154ca94b978757989243a9ec73"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "6005be154ca94b978757989243a9ec73",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR,CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Hi-Rez Studios"
+      },
+      {
+        "key": "developerName",
+        "value": "Evil Mojo Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "paladins"
+      }
+    ]
+  }
+}

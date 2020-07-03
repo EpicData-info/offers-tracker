@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "creationDate": "2020-03-02T14:40:54.132Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "totally-reliable-delivery-service/cyberfunk",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Reliable Delivery Service Cyberfunk",
+  "id": "e20d99d8f01e4468bf4becdcf742fd0d",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "description": "Totally Reliable Delivery Service Cyberfunk",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Cyberfunk_SuperHeroArt_Titled-1920x1080-02e99ff0fd5065a7884723d4745950b8.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_cyberfunk_Cyberfunk_SuperHeroArt_Titled-1920x1080-65c6e078de994aa6c5d0292e847427f93a599dd9-1920x1080-8ea1cf0f7558afb46bfdffb827a55da2.png"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "0d7141e034004ecaad2d04185b76955c",
+      "namespace": "52b90f9a982a404781b189f6a7903226",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tinybuild LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "We're Five Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-reliable-delivery-service/cyberfunk"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

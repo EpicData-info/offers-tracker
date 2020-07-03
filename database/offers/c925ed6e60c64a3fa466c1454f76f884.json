@@ -1,0 +1,110 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-08T04:00:00.000Z",
+  "creationDate": "2019-03-15T17:22:37.417Z",
+  "lastModifiedDate": "2020-05-13T18:55:02.194Z",
+  "viewableDate": null,
+  "productSlug": "vampire-the-masquerade-bloodlines-2/unsanctioned-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampire: The Masquerade – Bloodlines 2 Unsanctioned Edition Pre-Purchase",
+  "id": "c925ed6e60c64a3fa466c1454f76f884",
+  "namespace": "nemesia",
+  "description": "Vampire: The Masquerade – Bloodlines 2 Unsanctioned Edition Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_S2-1200x1600-852c74d82b23fcabed323095f23ff781.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_G1A_00-1920x1080-d36f80e5d5f9d908f8aee9b1d1bf2ff5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_S2-1200x1600-852c74d82b23fcabed323095f23ff781.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_UnsanctionedEdition_HardsuitLabs_Editions_S2-1200x1600-852c74d82b23fcabed323095f23ff781.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "a9e8b5b1410e4a4c90a910537c9320ed",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "5cbe1bb6769a41db9d35fcd12e44a520",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "dc2902c1bbde41849e5d64760177d95d",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "e461c084de344ee3913f8617eaca61e8",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "d79391cbbeff4005ba7547fbd1302118",
+      "namespace": "nemesia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609473600"
+    },
+    {
+      "key": "developerName",
+      "value": "Hardsuit Labs Inc."
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vampire-the-masquerade-bloodlines-2/unsanctioned-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

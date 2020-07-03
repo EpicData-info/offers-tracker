@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-11-27T12:56:00.000Z",
+  "creationDate": "2018-11-27T17:57:20.657Z",
+  "lastModifiedDate": "2020-06-02T00:30:55.811Z",
+  "viewableDate": "2018-11-27T12:56:00.000Z",
+  "productSlug": "hades",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hades",
+  "id": "1c2dbeafac91424ab2dfa73c44a70b51",
+  "namespace": "epic",
+  "description": "Hades",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Hades_PrimaryPromo_Nighty_02-2580x1450-bae136fc72a0a757905b58b19bce23a6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Hades_Portrait_Promo_Nigthty_01-1280x1420-268f52370837a3a9b9e87c2d9d30eac0.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Hades_Logo_EA_Update_NightyNight-2800x1232-f29ce6b423898ede4387e2f0eedb837d.png"
+    }
+  ],
+  "seller": {
+    "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+    "name": "Supergiant Games LLC"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10595"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "min"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hades"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2ae6edb2223c4f8c97e9839b5b6497bb"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2ae6edb2223c4f8c97e9839b5b6497bb",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Supergiant Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "hades"
+      }
+    ]
+  }
+}

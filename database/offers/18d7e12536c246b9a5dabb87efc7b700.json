@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-06T12:00:00.000Z",
+  "creationDate": "2019-02-10T16:37:06.465Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-wildlands",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon Wildlands",
+  "id": "18d7e12536c246b9a5dabb87efc7b700",
+  "namespace": "hyacinth",
+  "description": "Tom Clancy's Ghost Recon® Wildlands Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_PortraitPromo-974x1080-a1bf09c22e6c1fbdf69b52bc3e4d05a7.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_Logo_White-1920x454-dcd100a1f4d6cb74421b8f703ccbfa3e.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_wide-960x540-04f590a8bf366379f6ae141162991631.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_PortraitPromo-974x1080-a1bf09c22e6c1fbdf69b52bc3e4d05a7.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-f04e880dcb69866bed6ca5a311662596.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-f04e880dcb69866bed6ca5a311662596.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_StandardCapsule-1920x1080-62b7dd9ccafb91e4303fb563b93d91589bb7ebf1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "acee2d35fdfc40d2b9964bc087f16407",
+      "namespace": "hyacinth",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,92 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2020-06-20T00:29:51.156Z",
+  "lastModifiedDate": "2020-07-02T14:43:42.186Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "productSlug": "lifeless-planet-premier-edition/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Lifeless Planet: Premier Edition",
+  "id": "8891a362aacf45e68b618eced3b4ba00",
+  "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
+  "description": "Lifeless Planet: Premier Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-256f2bc2a35049a39ceae0f57d01bb",
+    "name": "Serenity Forge"
+  },
+  "items": [
+    {
+      "id": "db20fe07e3334020a0127b3cab733cc8",
+      "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Serenity Forge"
+    },
+    {
+      "key": "developerName",
+      "value": "Stage 2 Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lifeless-planet-premier-edition/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

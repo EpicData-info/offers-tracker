@@ -1,0 +1,92 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-02T15:00:00.000Z",
+  "creationDate": "2020-01-28T07:08:54.641Z",
+  "lastModifiedDate": "2020-07-02T14:35:37.801Z",
+  "viewableDate": null,
+  "productSlug": "hue",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hue",
+  "id": "d4497261293046f58c0a429a11a7d852",
+  "namespace": "cd88d9edc5a748cfa138e467205adcac",
+  "description": "Hue",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "name": "Curve Digital"
+  },
+  "items": [
+    {
+      "id": "c6bd86d2082b44ac835bb4a1a7359b73",
+      "namespace": "cd88d9edc5a748cfa138e467205adcac",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Curve Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Fiddlesticks"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hue"
+    }
+  ],
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

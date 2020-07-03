@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-12T20:00:00.000Z",
+  "creationDate": "2020-04-02T21:15:24.698Z",
+  "lastModifiedDate": "2020-06-12T21:20:50.030Z",
+  "viewableDate": null,
+  "productSlug": "castlestorm2/demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "CastleStorm 2 Demo",
+  "id": "5da7ea1725294aab9bf839bebdb7d83a",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "description": "DoveDemoAudience",
+  "longDescription": "DoveDemoAudience",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "01c268b67c6b47b3bd83d52b7bae56b6",
+      "namespace": "ed355406eacb4633a648f682ddb492b8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Zen Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "castlestorm2/demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

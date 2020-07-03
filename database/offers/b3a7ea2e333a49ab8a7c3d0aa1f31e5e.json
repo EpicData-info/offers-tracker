@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-15T18:30:00.000Z",
+  "creationDate": "2019-01-04T19:48:37.020Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": "2019-01-15T18:30:00.000Z",
+  "productSlug": "my-time-at-portia/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "My Time at Portia",
+  "id": "b3a7ea2e333a49ab8a7c3d0aa1f31e5e",
+  "namespace": "cobra",
+  "description": "My Time at Portia",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "b1162ac1867b41f2b043510a67c6b2b7",
+      "namespace": "cobra",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Team17"
+    },
+    {
+      "key": "developerName",
+      "value": "Pathea Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "my-time-at-portia/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

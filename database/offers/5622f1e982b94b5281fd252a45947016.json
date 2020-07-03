@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-25T20:00:00.000Z",
+  "creationDate": "2019-03-15T16:15:15.814Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "control/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Control",
+  "id": "5622f1e982b94b5281fd252a45947016",
+  "namespace": "epic",
+  "description": "Control , control",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/CONTROL_logo_shadow-670x212-97909ede119fef0f36e4cf351c5c214a.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_logo-560x128-5a125b9814c241f852eb1d627574b3eb.png"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_promo4-1280x1420-bc8884619f0a9f4348c24890f6ab7dae.png"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10850"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "calluna"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "8a97a7d4d0e44523b9aa064f457627da"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "control/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "8a97a7d4d0e44523b9aa064f457627da",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Remedy Entertainment Plc"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "control/home"
+      }
+    ]
+  }
+}

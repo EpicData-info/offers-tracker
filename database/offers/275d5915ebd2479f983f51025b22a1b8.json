@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-19T20:34:51.604Z",
+  "lastModifiedDate": "2020-05-14T18:29:40.039Z",
+  "viewableDate": null,
+  "productSlug": "saturnalia/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Saturnalia",
+  "id": "275d5915ebd2479f983f51025b22a1b8",
+  "namespace": "c749cd78da34408d8434a46271f4bb79",
+  "description": "Saturnalia",
+  "longDescription": "$24.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c749cd78da34408d8434a46271f4bb79/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c749cd78da34408d8434a46271f4bb79/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+    "name": "Santa Ragione"
+  },
+  "items": [
+    {
+      "id": "dbce8ecb6923490c9404529651251216",
+      "namespace": "c749cd78da34408d8434a46271f4bb79",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Santa Ragione"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "saturnalia/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

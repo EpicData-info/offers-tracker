@@ -1,0 +1,102 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-03T14:00:00.000Z",
+  "creationDate": "2020-06-09T17:50:22.117Z",
+  "lastModifiedDate": "2020-07-03T15:00:19.486Z",
+  "viewableDate": null,
+  "productSlug": "horizon-zero-dawn-complete-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Horizon Zero Dawn™ Complete Edition",
+  "id": "e2843b77f0ef4e8ea5f640072f735cc6",
+  "namespace": "3328b08ac1c14540aa265a1a85c07839",
+  "description": "Horizon Zero Dawn Complete Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/HZN_ZDCE_Storefront_2560x1440-2560x1440-bd312be05c49cf339097777c493cb899.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/HZN_ZDCE_Storefront_2560x1440-2560x1440-bd312be05c49cf339097777c493cb899.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/EGS_HorizonZeroDawnCompleteEdition_Guerrilla_S2-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/EGS_HorizonZeroDawnCompleteEdition_Guerrilla_S2-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/EGS_HorizonZeroDawnCompleteEdition_Guerrilla_S2-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/EGS_HorizonZeroDawnCompleteEdition_Guerrilla_S2-1200x1600-d4b1057afd47f9256d8da71f2f187be4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "eeb60eb544494ed1a8dfba4c590458d1",
+      "namespace": "3328b08ac1c14540aa265a1a85c07839",
+      "developer": null
+    },
+    {
+      "id": "8d83f6f920e84714b1fa2fcb5c240c29",
+      "namespace": "3328b08ac1c14540aa265a1a85c07839",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1596808800"
+    },
+    {
+      "key": "developerName",
+      "value": "Guerrilla"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "horizon-zero-dawn-complete-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

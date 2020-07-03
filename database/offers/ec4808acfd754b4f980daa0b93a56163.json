@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-15T05:00:00.000Z",
+  "creationDate": "2018-12-19T17:33:56.789Z",
+  "lastModifiedDate": "2020-04-27T05:43:41.698Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-final-season/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: The Final Season",
+  "id": "ec4808acfd754b4f980daa0b93a56163",
+  "namespace": "ocelot",
+  "description": "The Walking Dead: Final Season",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4_GAME-LOGO_COLOR-604x431-e77f932716e72aaba71c154569dc9a29.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "0d30d98cbb4543a5bcefcb8157c16327",
+      "namespace": "ocelot",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Skybound Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-final-season/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

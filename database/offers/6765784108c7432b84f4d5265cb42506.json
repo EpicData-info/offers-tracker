@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-18T00:00:00.000Z",
+  "creationDate": "2019-03-18T04:56:35.298Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "the-sinking-city/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Sinking City",
+  "id": "6765784108c7432b84f4d5265cb42506",
+  "namespace": "epic",
+  "description": "The Sinking City",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10088"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "middlemist"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "47253abbbc8f4b3b9cb0f4da4d2e547d"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-sinking-city/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "47253abbbc8f4b3b9cb0f4da4d2e547d",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Bigben Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Frogwares"
+      },
+      {
+        "key": "SupportedPlatforms",
+        "value": "Windows"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-sinking-city"
+      }
+    ]
+  }
+}

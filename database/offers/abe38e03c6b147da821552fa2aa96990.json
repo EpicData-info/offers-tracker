@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-19T16:00:00.000Z",
+  "creationDate": "2019-11-21T18:44:16.549Z",
+  "lastModifiedDate": "2020-05-27T21:29:07.216Z",
+  "viewableDate": null,
+  "productSlug": "detroit-become-human/demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Detroit Become Human Demo",
+  "id": "abe38e03c6b147da821552fa2aa96990",
+  "namespace": "columbine",
+  "description": "Detroit Become Human Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/columbine/item/ESRB_DetroitBecomeHuman-842x404-035ba6355044f32a11b90c3396b43a6a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/columbine/offer/Detroit_PC_Carousel-1920x1080-9b7300bc5f27efe0e120dde27f4b2af7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/columbine/offer/Detroit_PC_Carousel-1920x1080-6e90610a5d314ce0c12860770cc38c1b23213000.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/columbine/offer/DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "f0fbb92811834e86872cd54c420087ce",
+      "namespace": "columbine",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "isDemo",
+      "value": "true"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "detroit-become-human/demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

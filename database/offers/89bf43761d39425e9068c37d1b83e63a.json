@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-23T19:00:00.000Z",
+  "creationDate": "2019-10-19T01:51:06.793Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "q-u-b-e-2/puzzle-pack-2",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Q.U.B.E. 2 - Puzzle Pack 2",
+  "id": "89bf43761d39425e9068c37d1b83e63a",
+  "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "description": "Q.U.B.E. 2 - Puzzle Pack 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_PP2-1920x1080-ed16f425a03f0a97a45575d33916b0edf8e42061.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack2_Portrait-860x1148-d753ed379315387a82f9ef108fd67239.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack2_Portrait-860x1148-d753ed379315387a82f9ef108fd67239.png"
+    }
+  ],
+  "seller": {
+    "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+    "name": "Ten Hut Games"
+  },
+  "items": [
+    {
+      "id": "328541acfda841f79a0470d2bd27330f",
+      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Ten Hut Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Toxic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "q-u-b-e-2/puzzle-pack-2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

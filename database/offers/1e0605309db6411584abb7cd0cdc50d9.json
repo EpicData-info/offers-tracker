@@ -1,0 +1,60 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-09T22:59:16.581Z",
+  "lastModifiedDate": "2020-05-11T15:36:57.785Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC8 - PHASE 3 Locate and Deliver",
+  "id": "1e0605309db6411584abb7cd0cdc50d9",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "DLC8 - PHASE 3 Locate and Deliver",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "d37d8b5c4b0e4e5382cb128201f15784",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-22T18:49:55.978Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "soma/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SOMA",
+  "id": "52e1d1095dad49799b3e95cc591d29f6",
+  "namespace": "epic",
+  "description": "SOMA",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "name": "Frictional Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "2015"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "8a6a94901c8248fca1f5c78931c85cbd"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "soma/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "4c0ccb5098414557a12a921d8c17acb2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "4c0ccb5098414557a12a921d8c17acb2",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Frictional Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "soma/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T00:00:00.000Z",
+  "creationDate": "2019-06-03T17:46:00.122Z",
+  "lastModifiedDate": "2020-04-02T03:02:17.901Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs-legion/ultimate-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs: Legion Ultimate Edition",
+  "id": "b6736b52c2354c94b2bb2c982b23971c",
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "description": "Watch Dogs: Legion Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "13c200217cf44b9c83b9c5f4a1932eff",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    },
+    {
+      "id": "d77e53f7886a4c618b9fa6582112330b",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    },
+    {
+      "id": "1d66b58d6bb14ae1b806c8a5d0da79a8",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    },
+    {
+      "id": "5da97d9d6bed46a8be8797f818aefea9",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    },
+    {
+      "id": "e18e70614c4e41339cbddcfce2493d48",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609473600"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-legion/ultimate-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

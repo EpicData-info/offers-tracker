@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-07-08T15:00:00.000Z",
+  "creationDate": "2019-10-08T01:37:44.788Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "q-u-b-e-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Q.U.B.E.2",
+  "id": "7b779d493edc43b7bf12dd5650dabd49",
+  "namespace": "epic",
+  "description": "Q.U.B.E.2 QUBE QUBE2 2 QU QUB",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
+    "name": "Ten Hut Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "900"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4b5f1eb366dc45f0920d397c01b291ba"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "q-u-b-e-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "0c8b6d95ff2746648ccd356dbf941c12"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "0c8b6d95ff2746648ccd356dbf941c12",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Ten Hut Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Toxic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "q-u-b-e-2"
+      }
+    ]
+  }
+}

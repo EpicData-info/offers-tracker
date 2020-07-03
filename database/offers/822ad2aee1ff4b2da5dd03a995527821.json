@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-20T15:00:00.000Z",
+  "creationDate": "2019-08-15T17:09:28.636Z",
+  "lastModifiedDate": "2020-05-26T15:12:30.448Z",
+  "viewableDate": null,
+  "productSlug": "saints-row-the-third-remastered",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Saints Row The Third Remastered",
+  "id": "822ad2aee1ff4b2da5dd03a995527821",
+  "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+  "description": "Saints Row The Third Remastered",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/SRTT_Tall-512x682-83e0de7dcccfbfdaa10f5fee5d2f1242.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/SRTT_Wide-1060x596-d7d3c2e363a215dff5a954cb82131747.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/SRTT_Tall-512x682-83e0de7dcccfbfdaa10f5fee5d2f1242.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/SRTT_Tall-512x682-83e0de7dcccfbfdaa10f5fee5d2f1242.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/Diesel_productv2_saints-row-the-third-remastered_home_Free_Games_Desktop_horizontal-1060x596-606f53e45df3fe0daefcf09f0a5e527c6bafb9cc-1060x596-facff57675176116ba956106519677ed.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3928fd8975b2437d894bbc5cd21de9a0/offer/Diesel_productv2_saints-row-the-third-remastered_home_Featured_Carousel_Mobile_vertical-510x680-e7d02c2f0366fa47ae70307fb2150f2c9f196b81-510x680-d4340d2ec1bc57821ad4acbea0ead8be.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "d60bc2d0c1874a7e94e42a513e8556c1",
+      "namespace": "3928fd8975b2437d894bbc5cd21de9a0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Sperasoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "saints-row-the-third-remastered"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

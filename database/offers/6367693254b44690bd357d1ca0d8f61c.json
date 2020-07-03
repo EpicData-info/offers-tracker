@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-03T05:00:00.000Z",
+  "creationDate": "2019-05-21T18:16:21.794Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "slime-rancher/secret-style-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Slime Rancher: Secret Style Pack",
+  "id": "6367693254b44690bd357d1ca0d8f61c",
+  "namespace": "corydalis",
+  "description": "Slime Rancher: Secret Style Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/corydalis/item/SlimeRancher-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStylePack_CodeRedemption-340x440-7de3bfa7ab2205f6165a97b81b428f9e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStylePack_CodeRedemption-340x440-7de3bfa7ab2205f6165a97b81b428f9e.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStyleDLC-Keyart_Wishlist-Landscape-2560x1440-87f4034d74fd15d2ad2915177f54ecfe.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SecretStyleDLC-Keyart_Wishlist-Portrait-860x1148-e0f50d46a461c362f103abfc45a30ee5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+    "name": "Monomi Park"
+  },
+  "items": [
+    {
+      "id": "a9e59c9f7c544834b56b689ea56cc29e",
+      "namespace": "corydalis",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Monomi Park"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "slime-rancher/secret-style-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

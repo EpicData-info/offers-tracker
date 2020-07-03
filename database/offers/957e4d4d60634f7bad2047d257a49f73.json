@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-07T14:00:00.000Z",
+  "creationDate": "2019-10-17T05:19:15.398Z",
+  "lastModifiedDate": "2020-05-08T23:02:51.829Z",
+  "viewableDate": null,
+  "productSlug": "before-we-leave",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Before We Leave",
+  "id": "957e4d4d60634f7bad2047d257a49f73",
+  "namespace": "61449320f87347a8bf02159cbf8adb7f",
+  "description": "Before We Leave",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S5-1205x900-b459c8e48cb7f5be802849a3448c1fb1.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/offer/KeyArt Epic Wishlist Landscape-2560x1440-d2aab22175a13f01815fd05b2b97552a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/offer/BeforeWeLeave_Tall-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/61449320f87347a8bf02159cbf8adb7f/offer/BeforeWeLeave_Tall-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+    "name": "Balancing Monkey Games"
+  },
+  "items": [
+    {
+      "id": "b01d78e4ca54493db0640491f7f3d1f2",
+      "namespace": "61449320f87347a8bf02159cbf8adb7f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Balancing Monkey Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Balancing Monkey Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "before-we-leave"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

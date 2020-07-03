@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-08T16:00:00.000Z",
+  "creationDate": "2019-08-01T17:29:55.602Z",
+  "lastModifiedDate": "2020-06-18T20:01:46.659Z",
+  "viewableDate": null,
+  "productSlug": "for-honor/starter-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "For Honor Starter Edition",
+  "id": "0d8f6af71ba94427a1a1aa88713e6e24",
+  "namespace": "sundrop",
+  "description": "For Honor Starter Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/sundrop/item/For-Honor-Rating-842x404-d8c5be8969e73cd52549e48359133f9b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/FH_Starter_Packshot_Product Page-259x340-1267d90c34331843c46bcbdcccbbae0b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/FH_Starter_Packshot_Product Page-259x340-1267d90c34331843c46bcbdcccbbae0b.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/FH_STARTER_Capsule_V2-1920x1080-e61584457ab41fc7c9d9ecac1aabe925266ac052.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/GameName_Wishlist_Portrait_860x1148-860x1148-b188f4aada9bfaf160125a534932d738.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "50c91c8dee6c41a0965575bc844b65ee",
+      "namespace": "sundrop",
+      "developer": null
+    },
+    {
+      "id": "987a6a55d8784f20ad8eba83969cc83f",
+      "namespace": "sundrop",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "for-honor/starter-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

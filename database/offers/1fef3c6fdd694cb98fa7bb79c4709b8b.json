@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-16T17:00:00.000Z",
+  "creationDate": "2020-01-14T21:50:02.369Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "overpass/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass",
+  "id": "1fef3c6fdd694cb98fa7bb79c4709b8b",
+  "namespace": "epic",
+  "description": "Overpass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9001"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "90c3f58497da48d789cc39bff57dc2f4"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overpass/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e3446d29202c46cdb827d35dc1fae75f"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e3446d29202c46cdb827d35dc1fae75f",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Bigben Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Zordix Racing"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "overpass/home"
+      }
+    ]
+  }
+}

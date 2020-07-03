@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-11-27T21:25:00.000Z",
+  "creationDate": "2018-11-28T02:29:10.286Z",
+  "lastModifiedDate": "2020-06-23T17:01:38.634Z",
+  "viewableDate": "2018-11-27T21:25:00.000Z",
+  "productSlug": "hades",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hades OLD",
+  "id": "2ab170b614384b408fc168e45a1fb935",
+  "namespace": "min",
+  "description": "Hades Early Access",
+  "longDescription": "No longer used.  Soundtrack is sold separately",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_EventCover_01-800x450-6d2dae89e7061a5a191d77875d2661cf.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_EventCover_01-800x450-6d2dae89e7061a5a191d77875d2661cf.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png"
+    }
+  ],
+  "seller": {
+    "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+    "name": "Supergiant Games LLC"
+  },
+  "items": [
+    {
+      "id": "3f6a236b41a649a99b4f35cbe44b556c",
+      "namespace": "min",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Supergiant Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hades"
+    }
+  ],
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

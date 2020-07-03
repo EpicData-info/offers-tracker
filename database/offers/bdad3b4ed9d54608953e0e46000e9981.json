@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-14T15:00:00.000Z",
+  "creationDate": "2019-05-14T14:53:47.565Z",
+  "lastModifiedDate": "2019-10-30T19:03:26.703Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Afterparty Pre-Purchase",
+  "id": "bdad3b4ed9d54608953e0e46000e9981",
+  "namespace": "adenium",
+  "description": "Afterparty Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_NightSchoolStudio_Afterparty_S3_1280x1420-1280x1420-bbc32f6efd9af95af60a380acdba6e1a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_NightSchoolStudio_Afterparty_S3_1280x1420-1280x1420-bbc32f6efd9af95af60a380acdba6e1a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+    "name": "Night School Studio, LLC"
+  },
+  "items": [
+    {
+      "id": "b92955d717a644c893492dda5b893de3",
+      "namespace": "adenium",
+      "developer": null
+    },
+    {
+      "id": "b3ac5c3f2d65458e941929069ed9c081",
+      "namespace": "adenium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Night School Studio, LLC"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

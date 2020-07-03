@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T11:00:00.000Z",
+  "creationDate": "2019-06-07T14:35:46.173Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "chivalry-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Chivalry 2",
+  "id": "c1c055783d524ce19e45959fea8cd791",
+  "namespace": "epic",
+  "description": "Chivalry 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Chivalry-2-Full-Brand-Colour (2)-1746x594-88f5ba869080f7b0fa7a11c13e7cf05e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5799"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "bd46d4ce259349e5bd8b3ded20274737"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "chivalry-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "77b658e7d3c54ee1a4692682f3709cd8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "77b658e7d3c54ee1a4692682f3709cd8",
+  "linkedOffer": null
+}

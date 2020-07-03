@@ -1,0 +1,67 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-31T19:45:00.000Z",
+  "creationDate": "2018-10-31T23:46:28.836Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-31T19:45:00.000Z",
+  "productSlug": "vr-funhouse",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "VR Funhouse Editor",
+  "id": "175d27fd26794bf590e5cf0d35ef4986",
+  "namespace": "epic",
+  "description": "Nvidia VR Funhouse Development Kit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/item/vrfunhouse_bg-430x250-57255897027311603ba44be29809e86b.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-defd2xb4j9vjkp63ysxzpqljrvd74d",
+    "name": "NVIDIA Lightspeed Studios"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "vrfunhouse"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vr-funhouse"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f00a248b062a4adca9360c2c7d679237"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "f00a248b062a4adca9360c2c7d679237",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "vr-funhouse"
+      }
+    ]
+  }
+}

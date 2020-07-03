@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "creationDate": "2019-06-07T02:18:16.597Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "zombie-army-4-dead-war",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Zombie Army 4: Dead War",
+  "id": "475691037f00498fa752cd9ecf258b6b",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "description": "Zombie Army 4 Dead War",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_STANDARDEDITION-900x450-d9c7708b9ce7262d605151d696ae85a1ca513d20-900x450-3228a9f6390e741fc297097869bf1cec-900x450-3228a9f6390e741fc297097869bf1cec.png"
+    }
+  ],
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "items": [
+    {
+      "id": "7e4428ebcbd048efbdb75f2cac7f2aed",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

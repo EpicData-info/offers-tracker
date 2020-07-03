@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-12T15:00:00.000Z",
+  "creationDate": "2020-03-10T17:55:34.382Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "productSlug": "the-stanley-parable/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Stanley Parable",
+  "id": "73ceed82dc1b484eb526da4fc19dbdfd",
+  "namespace": "epic",
+  "description": "The Stanley Parable",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S1-2560x1440-5f0af4355ae6d621a945ca3391d6aa71.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_S2-860x1148-e1c75d36ca3e834ed0a1249c07efc302.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheStanleyParable_GalacticCafe_IC1-200x200-15ebab2f01fa1a5d78569c42c49ef41a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
+    "name": "Galactic Cafe"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10650"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4c00c7506c4b4fa695f749bd6bb07ff6"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-stanley-parable/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ba1f4fa2618046a0a8d71588cd0c2a68"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ba1f4fa2618046a0a8d71588cd0c2a68",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Galactic Cafe"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-stanley-parable/home"
+      }
+    ]
+  }
+}

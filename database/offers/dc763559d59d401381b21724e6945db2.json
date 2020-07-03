@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-19T18:20:55.474Z",
+  "lastModifiedDate": "2020-04-02T01:42:31.940Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-quarantine/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Rainbow Six Quarantine",
+  "id": "dc763559d59d401381b21724e6945db2",
+  "namespace": "1093790870b043cdbae03d91d76d9ae6",
+  "description": "Rainbow Six Quarantine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GameName_Store_Landscape_2580x1450-2580x1450-009786d4a8eb83576b5bd96ac6320e6e.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-af047bb367e15e1efc980e2a5b4a3c23.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/R6_Portrait-Promo-1280x1420-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/R6_Portrait-Promo-1280x1420-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/offer/CodeRedemption_R6Quarantine-330x440-813ed8c865430a766fce2cbb59ad08f7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1093790870b043cdbae03d91d76d9ae6/offer/CodeRedemption_R6Quarantine-330x440-813ed8c865430a766fce2cbb59ad08f7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GameName_Store_Landscape_2580x1450-2580x1450-009786d4a8eb83576b5bd96ac6320e6e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "517f08436f634f08aa57d44d97eb19db",
+      "namespace": "1093790870b043cdbae03d91d76d9ae6",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-quarantine/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-02-14T14:47:00.000Z",
+  "creationDate": "2019-02-14T19:47:42.116Z",
+  "lastModifiedDate": "2019-08-05T08:35:09.783Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "AnemoneDevAudience",
+  "id": "750da834c5274eafa41d290683d61a33",
+  "namespace": "anemone",
+  "description": "AnemoneDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d (1)-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+    "name": "2D Boy"
+  },
+  "items": [
+    {
+      "id": "09bdb4d9104444e89aaeeab00aa2b980",
+      "namespace": "anemone",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

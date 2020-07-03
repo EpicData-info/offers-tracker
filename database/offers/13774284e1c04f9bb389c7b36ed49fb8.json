@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-30T10:00:00.000Z",
+  "creationDate": "2019-08-30T20:33:44.398Z",
+  "lastModifiedDate": "2020-05-11T18:29:40.756Z",
+  "viewableDate": null,
+  "productSlug": "wrc-8",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WRC 8 Alpine A110",
+  "id": "13774284e1c04f9bb389c7b36ed49fb8",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "description": "WRC 8 Alpine A110",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Alpine_G1_PDPPromoImage-1920x1080-8c83e9babba455ffded621803b2e7779f46a6123.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "799937cf94e0432e83f322c07be65fea",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Kylotonn"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "creationDate": "2020-01-17T18:09:06.991Z",
+  "lastModifiedDate": "2020-05-29T17:51:40.730Z",
+  "viewableDate": null,
+  "productSlug": "sid-meiers-civilization-vi/rise-and-fall",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Civilization VI : Rise and Fall",
+  "id": "381e69b45bb246f89c09997af99b76a3",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "description": "Civilization VI : Rise and Fall",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIRiseandFall_FiraxisGames_Expansion_S1-2560x1440-3f4515dfc8f8b47fd29d417b4efe8a8a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIRiseandFall_FiraxisGames_Expansion_S2-1200x1600-1d45dabeaf8acb49a956e14805fdff0d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIRiseandFall_FiraxisGames_Expansion_S2-1200x1600-1d45dabeaf8acb49a956e14805fdff0d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIRiseandFall_FiraxisGames_Expansion_S2-1200x1600-1d45dabeaf8acb49a956e14805fdff0d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "9fb983134b9148ed97c8ca0f998130c3",
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Firaxis games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sid-meiers-civilization-vi/rise-and-fall"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

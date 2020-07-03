@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-27T16:00:00.000Z",
+  "creationDate": "2019-10-16T21:33:50.592Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-wildlands/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon® Wildlands Gold Edition",
+  "id": "37fd423ca79246febe3b04e96b64de14",
+  "namespace": "hyacinth",
+  "description": "Tom Clancy's Ghost Recon® Wildlands Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y2GoldCapsule-1920x1080-6a99eacb055483840c5291124cbfd39d3864891d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "acee2d35fdfc40d2b9964bc087f16407",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "41fd6b83b830407090b71faba7fc3f2a",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "f1b32f5e94444ddfaa4ee2db7c08bbb2",
+      "namespace": "hyacinth",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

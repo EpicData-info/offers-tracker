@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T17:00:00.000Z",
+  "creationDate": "2019-01-22T20:34:43.414Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "metro-exodus/sams-story",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Exodus Sam's Story",
+  "id": "54f7ab5245ad4724a48f9fe791f0b1a8",
+  "namespace": "snapdragon",
+  "description": "Metro Exodus Sam's Story",
+  "longDescription": "DLC 2",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/MetroEx-SS_Carousel_1360x766-1360x766-2a961e21b0d89d5f25da3d599aa00457e2ba609c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "8736e6c117844aa087c74ee118a10a64",
+      "namespace": "snapdragon",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-exodus/sams-story"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

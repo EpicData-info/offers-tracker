@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-09T19:53:27.974Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "steep/x-games-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Steep X DLC",
+  "id": "472fa3282a3f47ad820013235e9b8ca2",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "description": "Steep X DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION CAPSULE_1920x1080_XGAMES_DLC-1920x1080-ff74f6bf877ee5fe9c46e5fcce513b77.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_1920x1080_XGAMES_DLC-1920x1080-a6e7e05f62cff56b04e1806cfe2bd7e4318a81cd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "f4e745339e6d40148c6118854db864e7",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    },
+    {
+      "id": "b83e4678d54d4ff5b9a5f5a5e972acb6",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "steep/x-games-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

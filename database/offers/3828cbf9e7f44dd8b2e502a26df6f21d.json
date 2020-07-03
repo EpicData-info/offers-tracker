@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-02-24T21:39:10.349Z",
+  "lastModifiedDate": "2020-02-24T21:41:34.301Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Airborne Kingdom Demo",
+  "id": "3828cbf9e7f44dd8b2e502a26df6f21d",
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "description": "Airborne Kingdom Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/CodeRedemption_Airborne-340x440-c8133063d62d28573c3b5acf1dc0cb73.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/CodeRedemption_Airborne-340x440-c8133063d62d28573c3b5acf1dc0cb73.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_WanderingBand_AirborneKingdom_Facebook_01-1920x1080-2712acb6db262f45254f72a7d6e35c1a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+    "name": "The Wandering Band LLC"
+  },
+  "items": [
+    {
+      "id": "aff331b34fac4fcfb831724494f4d0b4",
+      "namespace": "e1809e1742cb498080d8849b11a99c5a",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "The Wandering Band LLC"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

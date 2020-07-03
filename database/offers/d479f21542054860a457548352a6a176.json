@@ -1,0 +1,48 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2014-10-01T00:00:00.000Z",
+  "creationDate": "2014-10-01T23:04:10.547Z",
+  "lastModifiedDate": "2020-04-29T00:46:41.077Z",
+  "viewableDate": "2014-10-01T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test offer from engine category",
+  "id": "d479f21542054860a457548352a6a176",
+  "namespace": "SeaQA",
+  "description": "Test offer from engine category",
+  "longDescription": "Calling AdminItemResource of Catalog Service and making a POST to create an item",
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-dc32abc22b45c7ab6a291d60d51863",
+    "name": "Landy Tian"
+  },
+  "items": [
+    {
+      "id": "42fa0d48bc8f400ba98e48c753fee239",
+      "namespace": "SeaQA",
+      "developer": null
+    },
+    {
+      "id": "b9b526c0b6854ae091caf0466170f2bf",
+      "namespace": "SeaQA",
+      "developer": null
+    },
+    {
+      "id": "d28bdde489d144a684949b9b74386f34",
+      "namespace": "SeaQA",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

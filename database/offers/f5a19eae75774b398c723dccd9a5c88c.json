@@ -1,0 +1,111 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-01T08:26:00.000Z",
+  "creationDate": "2019-03-13T12:30:32.492Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "vampire-the-masquerade-bloodlines-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampire: The Masquerade – Bloodlines 2",
+  "id": "f5a19eae75774b398c723dccd9a5c88c",
+  "namespace": "epic",
+  "description": "Vampire: The Masquerade – Bloodlines 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/egs_pdx_frasier_s1_store_primary-2560x1440-dc21e0da490f2d1020a099110fb7676d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/egs_pdx_frasier_s1_store_portrait-1280x1440-c9a9383940a42585e6ebe2dccc35215d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/egs_pdx_frasier_ic1_logo_white-957x232-da6eadd3f90d17142d6ddbf5a8875f2e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10066"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "nemesia"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "HardSuit"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vampire-the-masquerade-bloodlines-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "15480de321c946ecb984fe3ccbd32579"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "15480de321c946ecb984fe3ccbd32579",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Paradox Interactive"
+      },
+      {
+        "key": "isPrepurchase",
+        "value": "true"
+      },
+      {
+        "key": "availableDate",
+        "value": "1609473600"
+      },
+      {
+        "key": "developerName",
+        "value": "Hardsuit Labs Inc."
+      },
+      {
+        "key": "SupportedPlatforms",
+        "value": "Windows"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "vampire-the-masquerade-bloodlines-2"
+      }
+    ]
+  }
+}

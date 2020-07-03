@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-25T15:00:00.000Z",
+  "creationDate": "2020-01-21T00:24:03.256Z",
+  "lastModifiedDate": "2020-07-02T15:06:28.942Z",
+  "viewableDate": null,
+  "productSlug": "stranger-things-3-the-game",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Stranger Things 3: The Game",
+  "id": "0aeb77231bf34f4a8c7aeb9307f72a38",
+  "namespace": "05279bd00f094731a273370b7c639f24",
+  "description": "Stranger Things 3: The Game",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s1-2560x1440-235931591-2560x1440-e51180d2c7c28c62795c06c97c533ba5.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s2-1200x1600-235932325-1200x1600-a10bc3ec178f5e3e5423e8f767261a51.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s2-1200x1600-235932325-1200x1600-a10bc3ec178f5e3e5423e8f767261a51.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s2-1200x1600-235932325-1200x1600-a10bc3ec178f5e3e5423e8f767261a51.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s1-2560x1440-235931591-2560x1440-e51180d2c7c28c62795c06c97c533ba5.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/05279bd00f094731a273370b7c639f24/offer/egs-strangerthings3thegame-bonusxp-s2-1200x1600-235932325-1200x1600-a10bc3ec178f5e3e5423e8f767261a51.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-56j99pafxy5hhf4ms9rthh5vxzct92",
+    "name": "En Masse Entertainment"
+  },
+  "items": [
+    {
+      "id": "569e1556d944484985d4597ca61c2fe8",
+      "namespace": "05279bd00f094731a273370b7c639f24",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "BonusXP"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "stranger-things-3-the-game"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

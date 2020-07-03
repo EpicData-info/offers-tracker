@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T11:00:00.000Z",
+  "creationDate": "2019-03-04T13:11:24.093Z",
+  "lastModifiedDate": "2020-06-15T16:42:50.900Z",
+  "viewableDate": null,
+  "productSlug": "griftlands/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Griftlands",
+  "id": "3299949f391a4dbb9e0c4b28b683992c",
+  "namespace": "phlox",
+  "description": "Griftlands",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Logo-1854x960-9201c864e7ebdf0d25db61c29fd6eb92.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo-1280x1420-dd4a52c217495ed847f43ef59d115f3a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo-1280x1420-dd4a52c217495ed847f43ef59d115f3a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alpha_Promo-2048x1152-54d1a976be4e3d14b6cdca591bc9bddc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+    "name": "Klei Entertainment"
+  },
+  "items": [
+    {
+      "id": "c7aa70a73473478d92ecc0013a3d0488",
+      "namespace": "phlox",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "griftlands/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

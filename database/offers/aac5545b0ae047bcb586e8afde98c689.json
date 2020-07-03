@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-05-11T23:35:22.203Z",
+  "lastModifiedDate": "2020-06-11T15:11:52.315Z",
+  "viewableDate": null,
+  "productSlug": "ark/aberration",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Aberration",
+  "id": "aac5545b0ae047bcb586e8afde98c689",
+  "namespace": "ark",
+  "description": "ARK Aberration",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKAberration_StudioWildcard_DLC_S1-2560x1440-9bfc2385b3619fd40ad9709d006bac9c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKAberration_StudioWildcard_DLC_S2-1200x1600-da14621020a10c5ae4f6aebac3edf952.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKAberration_StudioWildcard_DLC_S2-1200x1600-da14621020a10c5ae4f6aebac3edf952.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKAberration_StudioWildcard_DLC_S2-1200x1600-da14621020a10c5ae4f6aebac3edf952.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "1f0cfd5b87c1424c9d49a47d0732686a",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/aberration"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

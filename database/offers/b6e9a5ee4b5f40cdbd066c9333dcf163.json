@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T12:00:00.000Z",
+  "creationDate": "2019-08-29T01:41:18.931Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "the-eternal-cylinder/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Eternal Cylinder",
+  "id": "b6e9a5ee4b5f40cdbd066c9333dcf163",
+  "namespace": "epic",
+  "description": "The Eternal Cylinder",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo White-200x200-0a53b354255ef9a069aa88edcf7881f7.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
+    "name": "Good Shepherd Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9070"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "fa0c74ef7780498fb222dcd099bf82a2"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-eternal-cylinder/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "69136fe1321b422f97694509ce13f442"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "69136fe1321b422f97694509ce13f442",
+  "linkedOffer": null
+}

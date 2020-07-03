@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-27T08:00:00.000Z",
+  "creationDate": "2019-03-28T02:44:27.463Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "operencia/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Operencia: The Stolen Sun",
+  "id": "026a40a759d2474e97d57099ef8d6c75",
+  "namespace": "lily",
+  "description": "Operencia: The Stolen Sun",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Operencia_logo_color-1920x700-77a0655e21edad9d3b41001f6e75a5f2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
+      "namespace": "lily",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "operencia/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

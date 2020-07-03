@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-26T16:00:00.000Z",
+  "creationDate": "2020-01-09T20:37:27.086Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "overpass/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Deluxe Edition",
+  "id": "fe25af4272844e81bce2c469b4d6f09d",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_Overpass_MobileVertical-510x680-101a7e9adece32ccdf8e23280f053025.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_DeluxeEdition_wide-1360x766-e7892143cb332feec45a4c8603ed5471.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "345e602010834075ab1c1bb378ef10b5",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    },
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overpass/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

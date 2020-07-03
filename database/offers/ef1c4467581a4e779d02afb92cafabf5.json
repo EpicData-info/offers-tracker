@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-04T12:29:00.000Z",
+  "creationDate": "2020-02-28T19:17:09.421Z",
+  "lastModifiedDate": "2020-05-30T16:00:00.290Z",
+  "viewableDate": null,
+  "productSlug": "spellbreak",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mage DLC",
+  "id": "ef1c4467581a4e779d02afb92cafabf5",
+  "namespace": "newt",
+  "description": "Mage DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f-2560x1440-75987e837f994b0638bf99cd359e723f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "a56d4656bf574494813313dcaa2bc2b5",
+      "namespace": "newt",
+      "developer": null
+    },
+    {
+      "id": "67dd64772e7a41b28662ce4e38e1a722",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat Inc"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellbreak"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-04-12T19:35:16.049Z",
+  "lastModifiedDate": "2020-04-30T13:58:28.535Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DevBurbotAudience",
+  "id": "40339c5064f44291a8e74520a53c6f44",
+  "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "description": "DevBurbotAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+    "name": "Tencent Technology Company Limited"
+  },
+  "items": [
+    {
+      "id": "9462c030a8c448db821d6d4f276c0480",
+      "namespace": "58c35a214bbb4656a536126ad1552d42",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

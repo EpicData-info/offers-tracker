@@ -1,0 +1,58 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-06-25T13:28:00.000Z",
+  "creationDate": "2018-06-25T17:28:28.468Z",
+  "lastModifiedDate": "2020-04-29T00:38:40.567Z",
+  "viewableDate": null,
+  "productSlug": "pixark",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "PixArk",
+  "id": "1f218730f7ab425fa436404799fa224f",
+  "namespace": "pixark",
+  "description": "PixArk",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/pixarklogo-1474x1152-05711a730aff9fbf94b42ef162111664.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/pixark/offer/pixark tile-516x290-d1652d229b096efdbd5422476fddd406-516x290-edcb0ca76ab3f92bbe26d9c35ffc40a8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "9490dd48752d408aad3108677c3b4158",
+      "namespace": "pixark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pixark"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

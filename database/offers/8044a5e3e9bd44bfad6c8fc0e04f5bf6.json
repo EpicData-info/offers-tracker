@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-04-24T02:08:33.057Z",
+  "lastModifiedDate": "2020-04-30T14:53:08.787Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Levelhead (Press)",
+  "id": "8044a5e3e9bd44bfad6c8fc0e04f5bf6",
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "description": "Levelhead (Press)",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+    "name": "Butterscotch Shenanigans"
+  },
+  "items": [
+    {
+      "id": "82e8d46338484144a9720956916d517b",
+      "namespace": "d33c2a64808e434b85eb1329f65431b1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T01:00:00.000Z",
+  "creationDate": "2019-06-08T03:49:17.401Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "atomicrops/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Atomicrops",
+  "id": "da878e491ab7473cbef4a72eae64b3a3",
+  "namespace": "epic",
+  "description": "Atomicrops",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_L1_DESCRIPTION-2560x1440-442570e87bc47255740fc3099c5ea85d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_S3_DESCRIPTION-1280x1440-a85c75eb03a9f3cdea2c542fcfb27dd3.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/logo_megaton-1641x1080-0a7b833f1964efb815eddd0090c13df4.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10865"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ff1cd8b38bda4f6281879c9bdb228ff1"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "atomicrops/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2a32725d30bc4d87823d3354670376e2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2a32725d30bc4d87823d3354670376e2",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Raw Fury"
+      },
+      {
+        "key": "developerName",
+        "value": "Bird Bath Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "atomicrops/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-17T16:00:00.000Z",
+  "creationDate": "2020-02-14T17:04:24.456Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "snowrunner/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SnowRunner",
+  "id": "b7e03852188247cfa4ad64d4aea475fd",
+  "namespace": "epic",
+  "description": "SnowRunner",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_Desktop-Horizontal-1360x766-1360x766-aec1e67e70958d183bff5513a80106bc1302eaa4-1360x766-c25e9f4a45c51a067598da2374e51ac4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_snowrunner_home_SnowRunner_EpicGames_PortraitImage_860x1148-860x1148-bdf591a23e5a348671dc2a77465d0ba6c5871d68-860x1148-5a5adeae2140a3f0b5586750f70bf8e2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10550"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "2744acda6a2e493e9894b389b6564df7"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "5014d355b4684d80a095a570219c3443"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "5014d355b4684d80a095a570219c3443",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Focus Home Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Saber Interactive"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "snowrunner/home"
+      }
+    ]
+  }
+}

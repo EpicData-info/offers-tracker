@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-30T15:00:00.000Z",
+  "creationDate": "2020-03-30T16:28:30.093Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.735Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless PTR",
+  "id": "7f39641f258e4548804f24e598d2a873",
+  "namespace": "jackal",
+  "description": "Dauntless PTR",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessScorchedEarth_FullGame_LandscapeOffer_LogoTest-2560x1440-d4748c14657407b45891d1d3e17e5517-2560x1440-d4748c14657407b45891d1d3e17e5517.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_DauntlessScorchedEarth_FullGame_LandscapeOffer_LogoTest-2560x1440-d4748c14657407b45891d1d3e17e5517-2560x1440-d4748c14657407b45891d1d3e17e5517.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "876fa2c831b84981bf1fa6607e287e03",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

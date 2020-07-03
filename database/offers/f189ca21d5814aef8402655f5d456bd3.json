@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-01T09:39:00.000Z",
+  "creationDate": "2019-04-11T13:42:35.697Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "metro-exodus",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Exodus",
+  "id": "f189ca21d5814aef8402655f5d456bd3",
+  "namespace": "snapdragon",
+  "description": "Metro Exodus Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Metro_wide-960x540-adf64091db625fb296881a2ea51a5e07.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ME_Logo-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/MetroStandardCodeRedemption-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_Standard_CodeRedemption-330x440-3105fa97f84942eb8b5b0d5a7fc41846.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/snapdragon_promo-1920x1080-7203c031c983ae6d0548d5ab9ab1ab6496feeef1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "b69c1c24fe70497aa671aadb33d663a0",
+      "namespace": "snapdragon",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-exodus"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

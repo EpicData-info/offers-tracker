@@ -1,0 +1,38 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2016-07-05T00:00:00.000Z",
+  "creationDate": "2016-07-06T23:50:38.850Z",
+  "lastModifiedDate": "2017-06-20T21:00:00.838Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Fake Item",
+  "id": "ce59a5276149409fbbd4154dc46667c4",
+  "namespace": "ocn",
+  "description": "Fake Item",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "b36aee54fcb146de9e84b76fad034d08",
+      "namespace": "ocn",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T12:40:00.000Z",
+  "creationDate": "2019-01-29T17:43:43.881Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "jackbox-party-pack-5",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack 5",
+  "id": "c1a3dd40945943049efa05ccd3f8a10c",
+  "namespace": "epic",
+  "description": "The Jackbox Party Pack 5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero-2580x1450-a31ed86be178b54ce04567b1baa6184f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero_Portrait-1280x1420-4743b0b7c13a617cd491dde051168f99.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/JackboxPartyPack5_Logo-3370x1920-874b9870dc23d4d3264278edd1943e1a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "11"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "geranium"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "52cdd069045e46a79b8debe97b756a26"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "52cdd069045e46a79b8debe97b756a26",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Jackbox Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "jackbox-party-pack-5"
+      }
+    ]
+  }
+}

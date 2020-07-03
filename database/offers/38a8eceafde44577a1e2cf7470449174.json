@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-07T17:00:00.000Z",
+  "creationDate": "2019-05-07T21:00:20.673Z",
+  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Observation (Origin PC)",
+  "id": "38a8eceafde44577a1e2cf7470449174",
+  "namespace": "allium",
+  "description": "Observation (Origin PC)",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/allium/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/allium/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium",
+      "developer": null
+    },
+    {
+      "id": "7d615c13ee0f4e479bc0f511c8a08ca8",
+      "namespace": "allium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "NoCode"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

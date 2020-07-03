@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-26T15:00:00.000Z",
+  "creationDate": "2019-08-27T22:19:30.493Z",
+  "lastModifiedDate": "2020-04-02T01:41:42.679Z",
+  "viewableDate": null,
+  "productSlug": "lego-batman-3/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "LEGO® Batman™ 3: Beyond Gotham",
+  "id": "84505cf3bfd8411288bb15489ca8ed48",
+  "namespace": "83022e1b4c304addb2aadee1db854f8d",
+  "description": "LEGO® Batman™ 3 Beyond Gotham",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-3-208x64-c9d078375dddfdc6f8c54da3d4e09a75.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-3-promo-1536x864-95b599046d5092526a6862774e4d874c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-3_portrait-1024x1180-bf1ac5773d6011c98a3a831647d8677c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-3_portrait-1024x1180-bf1ac5773d6011c98a3a831647d8677c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/offer/CodeRedemption_LegoBatman3-338x440-206de8fea30396455a43bebd5c52b309.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/83022e1b4c304addb2aadee1db854f8d/offer/CodeRedemption_LegoBatman3-338x440-206de8fea30396455a43bebd5c52b309.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/lego-batman-3-promo-1536x864-95b599046d5092526a6862774e4d874c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "name": "Warner Bros."
+  },
+  "items": [
+    {
+      "id": "3b896b8190134b17b3195fc5baed2ada",
+      "namespace": "83022e1b4c304addb2aadee1db854f8d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Warner Bros."
+    },
+    {
+      "key": "developerName",
+      "value": "Traveller's Tales"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "lego-batman-3/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

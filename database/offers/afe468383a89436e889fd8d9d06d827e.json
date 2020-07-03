@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-29T16:00:00.000Z",
+  "creationDate": "2019-09-10T21:03:46.137Z",
+  "lastModifiedDate": "2020-06-03T01:55:34.443Z",
+  "viewableDate": null,
+  "productSlug": "the-talos-principle/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Talos Principle",
+  "id": "afe468383a89436e889fd8d9d06d827e",
+  "namespace": "400cc6605aee41de88f976b587a48aa0",
+  "description": "The Talos Principle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-516e2f2250c72eba7ecbee2fb5a2a26f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S1-2560x1440-c41664a17b8d7e40d02340a74123d984.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_IC1-200x72-e767099f4eacf99000a9b87af1c85f4c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-516e2f2250c72eba7ecbee2fb5a2a26f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-1280x1440-ed4a53c3bd76eddb70383025ec0f87dd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/400cc6605aee41de88f976b587a48aa0/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-1280x1440-ed4a53c3bd76eddb70383025ec0f87dd.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S1-2560x1440-c41664a17b8d7e40d02340a74123d984.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "d98225415d7a4bfe849bf155e4eb2315",
+      "namespace": "400cc6605aee41de88f976b587a48aa0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Croteam"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-talos-principle/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

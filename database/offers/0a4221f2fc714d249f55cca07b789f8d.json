@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-04-29T21:12:07.022Z",
+  "lastModifiedDate": "2020-04-29T21:38:02.762Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DaceStagingOffer",
+  "id": "0a4221f2fc714d249f55cca07b789f8d",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "description": "DaceStagingOffer",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "items": [
+    {
+      "id": "dea54639fd1d485aa97165a97875bfbb",
+      "namespace": "ace4435645d9489cacfbb422b7c1c817",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

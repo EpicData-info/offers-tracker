@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-18T16:00:00.000Z",
+  "creationDate": "2020-01-24T17:48:52.325Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-3-blood-dragon/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 3 Blood Dragon",
+  "id": "df959d76dda247a893f2c8b6d401dc26",
+  "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+  "description": "Far Cry 3 Blood Dragon",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FC3DB Portrait-1280x1440-787bce84c08e424e3d8dd75bef1e7053.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry3BloodDragon_Store_Landscape_2580x1450-2580x1450-1556da3215321118cf781f4152c11e04.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FC3DB Portrait-1280x1440-787bce84c08e424e3d8dd75bef1e7053.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8b9fc0e3ee7d478abc047d1a3596c568/offer/Diesel_productv2_far-cry-3-blood-dragon_home_FarCry3BloodDragon_Store_Landscape_2580x1450-2580x1450-dedcefb519e99c5e1c45e928c2960b3ca59ecf22-2580x1450-261647198cb9b6e13c678bab7fb1fe4f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8b9fc0e3ee7d478abc047d1a3596c568/offer/FC3DB Portrait-1280x1440-787bce84c08e424e3d8dd75bef1e7053-1280x1440-787bce84c08e424e3d8dd75bef1e7053.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry3BloodDragon_Store_Landscape_2580x1450-2580x1450-1556da3215321118cf781f4152c11e04.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "92c3f520f591477b8285418112278ea0",
+      "namespace": "8b9fc0e3ee7d478abc047d1a3596c568",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-3-blood-dragon/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

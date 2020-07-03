@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-31T13:00:00.000Z",
+  "creationDate": "2019-12-10T15:12:05.336Z",
+  "lastModifiedDate": "2020-04-27T15:26:13.489Z",
+  "viewableDate": null,
+  "productSlug": "yooka-laylee-and-the-impossible-lair/trowzers-top-tonic-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trowzer's Top Tonic Pack - DLC",
+  "id": "c12ca0e991ba422ebca39d9fe917db21",
+  "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+  "description": "Trowzer's Top Tonic Pack - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/YL&TIL_TonicsDLC_FeaturedCarouselMobileVertical-510x680-8990b899f7e2880d750597572b5c8f1d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/YL&TIL_TonicsDLC_FeaturedCarouselMobileVertical-510x680-8990b899f7e2880d750597572b5c8f1d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/Yooka-Laylee_ImpossibleLair_TTTPack_StoreAssetLandscape-2560x1440-f207da7598ab3314bae2918b1e8698c6.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/Yooka-Laylee_ImpossibleLair_TTTPack_StoreAssetPortrait-1200x1600-bd3cbe389c5d4bf5f6f9221729031e48.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "fa4adb1e772f43abaf5dd21342ec1f13",
+      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yooka-laylee-and-the-impossible-lair/trowzers-top-tonic-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

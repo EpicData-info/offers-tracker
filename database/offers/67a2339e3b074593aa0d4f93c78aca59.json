@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-01-11T03:55:06.722Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "faeria/orbs-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Orbs Pack",
+  "id": "67a2339e3b074593aa0d4f93c78aca59",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "description": "Orbs Pack",
+  "longDescription": "9.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllOrbs_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-934a3cf45ba7a09caf27d0afe0b2733509a7c1fd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllOrbs_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-3a2285f6e442ae6b1f56b1eb20e8d572.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Orbs_Portrait-Offer-860x1148-be26cfd844ab6ac7fa21688e0e8f8401.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Orbs_Portrait-Offer-860x1148-be26cfd844ab6ac7fa21688e0e8f8401.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "a7d919bd09634612b450a0152e654cc4",
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/orbs-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

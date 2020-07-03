@@ -1,0 +1,96 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-18T09:00:00.000Z",
+  "creationDate": "2019-06-05T16:48:26.533Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "shenmue-3/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Shenmue 3 Season Pass",
+  "id": "476cc5bf384348bbbcb2670eaf21ab9a",
+  "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "description": "Shenmue 3 Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Editions_CompleteDLCCollection-3840x2160-21440eb540702ed65ef480cb89d2d42ce2a42ff3.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "b4eafd935fac4fada84047333b54e7e7",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+      "developer": null
+    },
+    {
+      "id": "b23eee4fe10944abb154dd845ebb1497",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+      "developer": null
+    },
+    {
+      "id": "7659b8622b9347e7bbd477d3afb99d04",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+      "developer": null
+    },
+    {
+      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5",
+      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "YsNet"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shenmue-3/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

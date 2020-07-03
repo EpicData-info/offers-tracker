@@ -1,0 +1,61 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2017-06-29T17:57:00.000Z",
+  "creationDate": "2019-08-29T21:59:05.611Z",
+  "lastModifiedDate": "2020-05-11T18:48:06.981Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "1000 Aurum Pack",
+  "id": "f7f553bab3394349a12301e6df1b70a5",
+  "namespace": "azalea",
+  "description": "1000 Aurum Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_Currencies_offer_1000-672x1104-761d085a6392b8b7df6f6446fc17868f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_Currencies_offer_1000-672x1104-761d085a6392b8b7df6f6446fc17868f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "28a2592c23c047b9b35525c9c380e7d7",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

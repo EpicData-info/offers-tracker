@@ -1,0 +1,60 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-04-01T00:00:00.000Z",
+  "creationDate": "2019-03-18T04:52:23.777Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.816Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "MiddlemistDevAudience",
+  "id": "d7802e4ae5174bcd8020f5bfab4199d4",
+  "namespace": "middlemist",
+  "description": "MiddlemistDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "ac000fa90b7b43c3a2ec614dabdc5da0",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

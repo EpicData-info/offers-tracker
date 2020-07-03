@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "creationDate": "2020-03-19T17:54:41.562Z",
+  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
+  "viewableDate": null,
+  "productSlug": "snowrunner/true-colors-vinyl-wrap",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "True Colors Vinyl Wrap",
+  "id": "d65d6c5c2fd54c8a9483386f08ba6955",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "DLC5 - Chevorlet Kodiak C70 Skin",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Horizontal-1360x766-1360x766-61bd3300cd495230af76ddb682824efc.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "50b8164c7c7841cc9d651cf8e1316b0a",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/true-colors-vinyl-wrap"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "creationDate": "2020-04-10T21:50:11.434Z",
+  "lastModifiedDate": "2020-05-11T16:47:23.217Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Maverick Pack",
+  "id": "780ba45b7623488581b9e871d7e4faf8",
+  "namespace": "azalea",
+  "description": "Maverick Pack",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "5f196af344f6455ab898b06d4a01c440",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "acffd5919eeb4641b789e90a13d15085",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "YAGER"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-31T19:36:08.184Z",
+  "lastModifiedDate": "2020-06-02T00:39:24.950Z",
+  "viewableDate": null,
+  "productSlug": "diabotical/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "5000 coins",
+  "id": "f13ea94a77d0401f93b5569eea33c32f",
+  "namespace": "36336ee97ec543bbae85abaca618182b",
+  "description": "5000 coins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-376adequh7aazkj2cky8h6aezvju5h",
+    "name": "The GD Studio"
+  },
+  "items": [
+    {
+      "id": "37afb12542de456292c9ff075675eaa9",
+      "namespace": "36336ee97ec543bbae85abaca618182b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The GD Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "diabotical/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

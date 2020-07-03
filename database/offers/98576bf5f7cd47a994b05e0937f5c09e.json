@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "creationDate": "2019-08-08T20:30:45.883Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.491Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-odyssey/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Odyssey - Deluxe Edition",
+  "id": "98576bf5f7cd47a994b05e0937f5c09e",
+  "namespace": "clary",
+  "description": "Assassin's Creed Odyssey - Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/clary/item/AssassinsCreedOdyssey_M-842x404-e9738394c984e43957afc0fcb609276d.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_Del-330x440-b215838ec1d9937eaeb7142693dbda9e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/Boxart_708x1000-708x1000-d56eae1a2f7a9af44d9b54157b9f481e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_Deluxe_Capsule-1920x1080-cf11b292cf41adf5f3835f57c4164009a92a0224.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "154b695c533a498d98a743f92d8d7da0",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "442e2e2af1914fcc8b28e1e3b6e03c03",
+      "namespace": "clary",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

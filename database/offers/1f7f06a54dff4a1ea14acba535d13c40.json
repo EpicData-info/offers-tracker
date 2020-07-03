@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T17:00:00.000Z",
+  "creationDate": "2019-05-03T19:56:02.968Z",
+  "lastModifiedDate": "2020-05-11T18:26:24.193Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Founder's Pack 2: Explorer Pack",
+  "id": "1f7f06a54dff4a1ea14acba535d13c40",
+  "namespace": "azalea",
+  "description": "Founder's Pack 2: Explorer Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "a4c4392906284343b60915b8ff738b7c",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "022ae4076b3849babfafacbfd20bd706",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "25ec0db7bf0246f7bf05e268aefe9898",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "b782ddde066b46df9e526e7ea9d32728",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "YAGER"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

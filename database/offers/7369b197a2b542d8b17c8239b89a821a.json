@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T17:00:00.000Z",
+  "creationDate": "2019-05-03T19:57:12.896Z",
+  "lastModifiedDate": "2020-05-11T18:26:53.724Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Founder's Pack 3: Prospector Pack",
+  "id": "7369b197a2b542d8b17c8239b89a821a",
+  "namespace": "azalea",
+  "description": "Founder's Pack 3: Prospector Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "2aa2b83600da4f4e898d2b80aeefc054",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "a4c4392906284343b60915b8ff738b7c",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "25ec0db7bf0246f7bf05e268aefe9898",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "b782ddde066b46df9e526e7ea9d32728",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "f793daead0034e6fad9fd81d40c4e9d2",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "YAGER"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

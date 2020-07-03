@@ -1,0 +1,98 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-23T03:00:00.000Z",
+  "creationDate": "2019-03-16T06:35:04.064Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "the-outer-worlds/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Outer Worlds",
+  "id": "5af5633e9f1747728d4fee10988ca2b7",
+  "namespace": "rosemallow",
+  "description": "The Outer Worlds",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheOuterWorlds-logo-dropshadow (1)-5544x2422-448a144fddbb69f460cb660441011eb9.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EG_Store_The_Outer_WorldFeaturedCarousel_Mobile-510x680-d3d2295b4c276285294402d00f62c791.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Outerworlds-1360x766-74c1341fdc70510b1dd3288b58a6d2d7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeOffer_2560x1440-2560x1440-5d1eae9583dff69cde822c8674d312c5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "items": [
+    {
+      "id": "fcf496d7382341fcaf3c2b583f116e2c",
+      "namespace": "rosemallow",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Private Division"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-outer-worlds/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-07T07:00:00.000Z",
+  "creationDate": "2019-06-10T11:12:43.386Z",
+  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Beyond Two Souls Regional SKU Test",
+  "id": "3a45cca046fb4299a38ff7a92372aeb6",
+  "namespace": "lavender",
+  "description": "Beyond Two Souls Regional SKU Test",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lavender/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "1482e73b68494b3c86137b62b65567a4",
+      "namespace": "lavender",
+      "developer": null
+    },
+    {
+      "id": "5932738bb15f4ab99355f1e036eaa3a5",
+      "namespace": "lavender",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "audience"
+    },
+    {
+      "path": "developer"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

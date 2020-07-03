@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "creationDate": "2020-03-20T19:04:16.264Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-26T15:00:00.000Z",
+  "productSlug": "hob/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hob",
+  "id": "984e5e4ed4574586a2f6b4041dd13b4d",
+  "namespace": "epic",
+  "description": "Hob",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5025"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "e1067ce994e24a4abbe36247eaa26bfd"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hob/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "0823aa31fb7540db886871c5aa44dcc3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "0823aa31fb7540db886871c5aa44dcc3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Perfect World Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Runic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "hob/home"
+      }
+    ]
+  }
+}

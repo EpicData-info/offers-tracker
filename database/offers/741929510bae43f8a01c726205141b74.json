@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-10-21T18:19:27.202Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-5/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 5 Season Pass",
+  "id": "741929510bae43f8a01c726205141b74",
+  "namespace": "coriander",
+  "description": "Far Cry 5 Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/SP_Image_Hero_Carrousel-3840x2160-126d1dad33284501b87a1b603682369c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FCZ_Edition_Capsule_1920X1080-1920x1080-89d289097aaf95ba9232d0d89a2d289fcb48f696.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "e85f777d95f34665bb7d537a1ae93248",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "7522770b77b947e7bdb57579788bdb43",
+      "namespace": "coriander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-5/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

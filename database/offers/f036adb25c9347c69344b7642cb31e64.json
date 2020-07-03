@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-26T15:00:00.000Z",
+  "creationDate": "2019-08-27T22:18:11.135Z",
+  "lastModifiedDate": "2020-04-02T01:41:06.865Z",
+  "viewableDate": null,
+  "productSlug": "batman-arkham-knight/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Batman™: Arkham Knight",
+  "id": "f036adb25c9347c69344b7642cb31e64",
+  "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+  "description": "Batman™ Arkham Knight",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight-206x102-abbc3f98900fec35c91a91a5ec976771.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_promo-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_portrait-1024x1152-78f19e73d3e889c19ca24ab5af0b5fd7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_portrait-1024x1152-78f19e73d3e889c19ca24ab5af0b5fd7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/offer/CodeRedemption_ArkhamKnight-336x440-052e5c7c6439f9b7918445d91f71cb31.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e5e30c728f1947759251eb5283ffa6e3/offer/CodeRedemption_ArkhamKnight-338x440-01be1683204698260ec4faf74a897581.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-knight_promo-2048x1152-ed2be22b3f24f446534b90b122ed560d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
+    "name": "Warner Bros."
+  },
+  "items": [
+    {
+      "id": "ae43eab8317d43c9acc5a93468dadf63",
+      "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Warner Bros."
+    },
+    {
+      "key": "developerName",
+      "value": "Rocksteady Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "batman-arkham-knight/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

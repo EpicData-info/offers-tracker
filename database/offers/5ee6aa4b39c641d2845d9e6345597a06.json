@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T21:00:00.000Z",
+  "creationDate": "2020-02-06T23:20:54.097Z",
+  "lastModifiedDate": "2020-05-12T16:33:52.369Z",
+  "viewableDate": null,
+  "productSlug": "the-division-2/warlords-of-new-york-expansion",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass",
+  "id": "5ee6aa4b39c641d2845d9e6345597a06",
+  "namespace": "impala",
+  "description": "Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/WLK_Expansion_Store_Landscape_2560x1440-2560x1440-e2009b5531f911c596caa231750c2404.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONY_wide-1920x1080-1425b8d456ad5f165a86574bb6b2332c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d83e470a0f984e94add3f9a4c6c43884",
+      "namespace": "impala",
+      "developer": null
+    },
+    {
+      "id": "d1b64a07a1334a54a51151902f9fe029",
+      "namespace": "impala",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "availableDate",
+      "value": "1583244000"
+    },
+    {
+      "key": "developerName",
+      "value": "Massive Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-division-2/warlords-of-new-york-expansion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

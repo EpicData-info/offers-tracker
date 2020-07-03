@@ -1,0 +1,96 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-09T17:00:00.000Z",
+  "creationDate": "2019-12-04T22:28:40.766Z",
+  "lastModifiedDate": "2020-05-14T19:40:37.453Z",
+  "viewableDate": null,
+  "productSlug": "predator-hunting-grounds/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Predator: Hunting Grounds Pre-Purchase",
+  "id": "584b01b83de04d679c2340d8556f47f4",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "description": "Predator Hunting Ground Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CRE1089_Predator_EpicStore_2560x1440_001-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CRE1089_Predator_PSStore_STD_Banner_Art_1920x1080_001_TH-1920x1080-d2921f9b50dad7960d2b9fad22ae8d84.png"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "3df7692f0a8d49ee91859947dc371a8a",
+      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+      "developer": null
+    },
+    {
+      "id": "4ac2c6af2aef4d6aabfdd5ad98680028",
+      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1587740400"
+    },
+    {
+      "key": "developerName",
+      "value": "IllFonic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "predator-hunting-grounds/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

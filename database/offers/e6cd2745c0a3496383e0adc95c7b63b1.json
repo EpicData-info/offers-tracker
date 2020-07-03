@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2019-11-06T21:37:52.210Z",
+  "lastModifiedDate": "2020-05-14T19:36:32.140Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-syndicate/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Syndicate",
+  "id": "e6cd2745c0a3496383e0adc95c7b63b1",
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "description": "Assassins Creed Syndicate Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/STD_Edition_Capsule_1920X1080-1920x1080-cbb2a9a9ee074ce9f53c512f8eac823a6f4ee05f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "df40b68948244e0493561f2a65956f50",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-syndicate/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-13T16:00:00.000Z",
+  "creationDate": "2019-09-16T15:16:49.843Z",
+  "lastModifiedDate": "2020-05-11T18:41:40.894Z",
+  "viewableDate": null,
+  "productSlug": "the-messenger/picnic-panic",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Messenger Picnic Panic",
+  "id": "0bc90275acda4a4483c47afa0014d2ef",
+  "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+  "description": "The Messenger Picnic Panic DLC",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/Sabotage_PicnicPanic-2560x1440-0466026af367640bd29a5052f326b1e7.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/PicnicPanic_Portrait-1280x1440-f1232fd3929b62f0f6e0eecce04120c4.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_PicnicPanic_N1_2560x1440-2560x1440-6254e8d998adf976bafedb4ae4402999b63df67e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "621a04d6bf544a32951811a54f730ffb",
+      "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Sabotage Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-messenger/picnic-panic"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

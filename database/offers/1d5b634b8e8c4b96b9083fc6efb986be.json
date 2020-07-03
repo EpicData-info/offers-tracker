@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-18T10:58:00.000Z",
+  "creationDate": "2019-03-18T15:03:24.109Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "the-witness/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Witness",
+  "id": "1d5b634b8e8c4b96b9083fc6efb986be",
+  "namespace": "epic",
+  "description": "The Witness",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo_S1-2560x1444-aaba32e5541dc5c9d7d445a86c69a63f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Promo__S3-1280x1440-2162531db1b9bfe233a9752d32528982.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheWitness_Logo_Color-1634x352-761648dd715f3010a804ad5c23055215.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheWitness_FreeTile-1280x510-d27bf69266fbf919b7471c886e4a7738.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ch8uj5xq8v7rkurtr6gpx8accufw8u",
+    "name": "Thekla, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1435"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "magnolia"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-witness/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ea1854d7e3004420ba3f0759384514c6"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ea1854d7e3004420ba3f0759384514c6",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Thekla, Inc."
+      },
+      {
+        "key": "developerName",
+        "value": "Jonathan Blow"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-witness/home"
+      }
+    ]
+  }
+}

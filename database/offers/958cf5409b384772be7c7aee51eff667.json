@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "creationDate": "2020-04-28T21:49:29.072Z",
+  "lastModifiedDate": "2020-05-18T14:43:29.470Z",
+  "viewableDate": "2020-04-30T15:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed: Valhalla Ultimate Edition",
+  "id": "958cf5409b384772be7c7aee51eff667",
+  "namespace": "400347196e674de89c23cc2a7f2121db",
+  "description": "Assassin's Creed: Valhalla Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC-KINGDOM-PREORDER_ULTIMATE-EDITION_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-6492135bfe3f63a53a039ed2f5e32158.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/ACK_ULT_Wishlist_Portrait_860x1148-860x1148-30861b1b96955040d318c7f327c51d7d.jpg"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/ACK_ULT_Wishlist_Portrait_860x1148-860x1148-30861b1b96955040d318c7f327c51d7d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "11daef13d2654800b04f066ee5e030fb",
+      "namespace": "400347196e674de89c23cc2a7f2121db",
+      "developer": null
+    },
+    {
+      "id": "04e756b9792b4c2697be6a3fbea2e4cb",
+      "namespace": "400347196e674de89c23cc2a7f2121db",
+      "developer": null
+    },
+    {
+      "id": "e535e28250214bacaf82d692a11c7131",
+      "namespace": "400347196e674de89c23cc2a7f2121db",
+      "developer": null
+    },
+    {
+      "id": "a0ff81ef4daa469aa6fe9c8cff49c82c",
+      "namespace": "400347196e674de89c23cc2a7f2121db",
+      "developer": null
+    },
+    {
+      "id": "677ebf8d573548bd9a8ec6b4fadda499",
+      "namespace": "400347196e674de89c23cc2a7f2121db",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Montreal"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-10T10:00:00.000Z",
+  "creationDate": "2019-12-09T18:31:43.004Z",
+  "lastModifiedDate": "2020-05-14T19:39:46.884Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Foregone Pre-Purchase",
+  "id": "515ffd697e154f11ab4f21446503c954",
+  "namespace": "a40f6c03e1374358809ec38c999059c0",
+  "description": "Foregone Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+    "name": "Big Blue Bubble, Inc."
+  },
+  "items": [
+    {
+      "id": "49632d6d2fe2446b9736206dc7bf4098",
+      "namespace": "a40f6c03e1374358809ec38c999059c0",
+      "developer": null
+    },
+    {
+      "id": "2a6beb453e364be8b7a322a1d1319981",
+      "namespace": "a40f6c03e1374358809ec38c999059c0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Big Blue Bubble"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1582812000"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,104 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-02-05T19:45:11.682Z",
+  "lastModifiedDate": "2020-05-13T15:39:12.412Z",
+  "viewableDate": null,
+  "productSlug": "kingdom-come-deliverance/royal-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kingdom Come Deliverance Royal Edition",
+  "id": "5c729ef02bf14b0897a5e29769e60d96",
+  "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "description": "Kingdom Come Deliverance Royal Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/RE_FeaturedC_pc_1360x766-1360x766-e958f6b088494a9c839e7af85fd1a4d0c4447b43.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
+    "name": "Warhorse Studios"
+  },
+  "items": [
+    {
+      "id": "42a607b35e1b4728afbc26c88080f429",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "9bdf27679eb848cd912b1dd5a973cc0f",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "9cface5448694861879def457a3b6194",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "f608e308d6ab4abf88c45967c3405b21",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "70f6d63a1b0c4f45862a049e9ba085a9",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "f255964383d04135921876c536a0099c",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    },
+    {
+      "id": "2832745a324245079d0d2d0facd8c182",
+      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Warhorse Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/royal-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

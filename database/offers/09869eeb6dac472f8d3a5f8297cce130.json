@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-02T00:00:00.000Z",
+  "creationDate": "2019-07-26T20:01:20.279Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "for-honor/year-3-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "For Honor Year 3 DLC",
+  "id": "09869eeb6dac472f8d3a5f8297cce130",
+  "namespace": "sundrop",
+  "description": "For Honor Year 3 DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/ForHonorY3Logo-1920x1080-c221f5a58e0d082ed11b984522d3d35214b83153.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/HRO_UCS12470_EGST__Wishlist_Portrait_860x1148-860x1148-f7265851225255c57d7c7c25a4a2d6a5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "434f997424d54833916a671cf9f4ba2f",
+      "namespace": "sundrop",
+      "developer": null
+    },
+    {
+      "id": "b900a1511c194fc79a0cea499f208937",
+      "namespace": "sundrop",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "for-honor/year-3-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

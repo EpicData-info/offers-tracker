@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-09T15:00:00.000Z",
+  "creationDate": "2019-02-19T21:33:51.737Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "close-to-the-sun/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Close to the Sun",
+  "id": "5354dc63819f416a80ef712d9d410351",
+  "namespace": "epic",
+  "description": "Close to the Sun",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_1080p-1920x1080-8c8a438ac89caec5ae1b4ab1bc1e57f6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/CTTS_keyart_Portrait-1280x1420-bb3fa978410a243939f19bcb8c0d4806.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+    "name": "Wired Productions"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "silene"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "bfcf7ca20e57436d8cc33e6d20cbac76"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "close-to-the-sun/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "bfcf7ca20e57436d8cc33e6d20cbac76",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Wired Productions"
+      },
+      {
+        "key": "developerName",
+        "value": "Storm In A Teacup"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "close-to-the-sun/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-26T00:00:00.000Z",
+  "creationDate": "2019-02-28T14:15:02.157Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "control/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Control",
+  "id": "8a97a7d4d0e44523b9aa064f457627da",
+  "namespace": "calluna",
+  "description": "Control",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/CONTROL_logo_shadow-670x212-97909ede119fef0f36e4cf351c5c214a.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_logo-560x128-5a125b9814c241f852eb1d627574b3eb.png"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Portrait_promo4-1280x1420-bc8884619f0a9f4348c24890f6ab7dae.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Control_Store_Portrait_Promo_1280x1420-1280x1420-5003d1e36d0508ab62bebfa676670369.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/calluna/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/calluna/offer/CodeRedemption_Control-330x440-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Control_Store_Primary_Promo_2580x1450-2580x1450-371d5dd82a48a881145528b4781fe757.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "a844e5b523564c979b13b6677a9d4c85",
+      "namespace": "calluna",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Remedy Entertainment Plc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "control/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

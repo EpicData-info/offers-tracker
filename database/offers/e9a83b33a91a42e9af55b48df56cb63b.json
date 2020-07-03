@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "creationDate": "2019-08-08T20:39:11.775Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-odyssey/dlc-1",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Legacy of the First Blade - DLC",
+  "id": "e9a83b33a91a42e9af55b48df56cb63b",
+  "namespace": "clary",
+  "description": "Legacy of the First Blade - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_LOTFB-330x440-85b47f83b92570e76a40f8b2f8f0d0e5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-66dc48728678f248118975d2cde84aff.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_LegacyDLC_Capsule-1920x1080-0331952cbc7e0202659089c44f3842d437a4d69f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "dc05bfcc90ad4f29a09ad80c4fa96cf6",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "a5dab7795634449aa22af27033c78350",
+      "namespace": "clary",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey/dlc-1"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

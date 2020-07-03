@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "creationDate": "2020-03-07T05:22:55.995Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800/seat-of-power",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Seat of Power - DLC",
+  "id": "af3e3706de3e462ba7d6d7f59dda5467",
+  "namespace": "oregano",
+  "description": "Seat of Power - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEAT_OF_POWER_DLC_EPIC_DLC_Capsule_1920x1080-1920x1080-a38ba4166f46460ac8358988e25095df.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEAT_OF_POWER_DLC_EPIC_DLC_Capsule_1920x1080-1920x1080-a38ba4166f46460ac8358988e25095df.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "adf109829ecd4bbf8cab0e67b0871cca",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "acc5820f8fac4fd7acf2bd9194265ac2",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/seat-of-power"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

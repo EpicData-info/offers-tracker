@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-12-16T16:58:30.490Z",
+  "lastModifiedDate": "2019-12-25T15:44:03.021Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DriftfishDevAudience",
+  "id": "51eebb8342364f4f8514359de9c6bb97",
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "description": "DriftfishDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+    "name": "Landfall Games"
+  },
+  "items": [
+    {
+      "id": "83882fcb78ed431cb13cf08a14cd9c3c",
+      "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

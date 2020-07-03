@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "creationDate": "2020-02-18T03:05:34.181Z",
+  "lastModifiedDate": "2020-05-12T15:57:54.269Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "200 Gems",
+  "id": "86445b01729c4533b255dbfffbefc10a",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "description": "200 Gems",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-200Gems-860x1148-860x1148-a45e6c21ddbfb8326f02ba29407955ac.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-200Gems-2560x1440-2560x1440-a5c4b46d61958732bc61b782d2c5330c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-200Gems-860x1148-860x1148-a45e6c21ddbfb8326f02ba29407955ac.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "6af960c0ef69424e8d58195b0ede7619",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

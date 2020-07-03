@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-02-10T11:37:00.000Z",
+  "creationDate": "2019-02-10T16:38:39.108Z",
+  "lastModifiedDate": "2020-04-29T00:46:40.140Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "HyacinthDevAudience",
+  "id": "47556fe89efa4c869a5d4e5e27ec5bf5",
+  "namespace": "hyacinth",
+  "description": "HyacinthDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GamePagePromo-1920x1080-f0e23870dd6468664ad99339e75086c2.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_GameLogo-1920x454-8e94e01a4a07a0667705af81313d2f56.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "74e6fcc1ef614fb1867c05f621761d74",
+      "namespace": "hyacinth",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

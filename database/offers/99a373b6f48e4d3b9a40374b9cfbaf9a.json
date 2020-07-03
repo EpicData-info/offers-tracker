@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "creationDate": "2020-02-10T20:01:10.012Z",
+  "lastModifiedDate": "2020-05-11T16:48:09.269Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Wheels of Aurelia OST",
+  "id": "99a373b6f48e4d3b9a40374b9cfbaf9a",
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "description": "Wheels of Aurelia OST",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/OST_02_1920x1080-1920x1080-4d533fdff7742cd7b508f11fb21818ef.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+    "name": "Santa Ragione"
+  },
+  "items": [
+    {
+      "id": "97517f0e522842cbb3789fabca45681b",
+      "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Santa Ragione"
+    }
+  ],
+  "categories": [
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

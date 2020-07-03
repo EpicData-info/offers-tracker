@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-13T02:52:35.631Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "darksiders2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Darksiders II Deathinitive Edition",
+  "id": "7285f8134497432fa68378ef9efe8dc2",
+  "namespace": "091d95ea332843498122beee1a786d71",
+  "description": "Darksiders II Deathinitive Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/091d95ea332843498122beee1a786d71/offer/DS2_Horizontal-2560x1440-4a4baa74a689f0268b832d95063971a8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "f09a2795aff84e0ab501ccd1eed1c9d8",
+      "namespace": "091d95ea332843498122beee1a786d71",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Gunfire Games, Vigil Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

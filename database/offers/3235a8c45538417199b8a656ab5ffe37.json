@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-02-15T11:26:00.000Z",
+  "creationDate": "2019-02-15T16:27:08.662Z",
+  "lastModifiedDate": "2020-04-29T00:38:19.266Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "IrisDevAudience",
+  "id": "3235a8c45538417199b8a656ab5ffe37",
+  "namespace": "iris",
+  "description": "IrisDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "8d191697a975457bbaff9f2df563399a",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

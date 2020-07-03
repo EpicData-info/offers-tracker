@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-05-27T12:50:00.000Z",
+  "creationDate": "2019-05-28T17:02:42.820Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "kingdom-new-lands/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kingdom New Lands",
+  "id": "c98c8c591fdb472e97dc3169b097218a",
+  "namespace": "epic",
+  "description": "Kingdom New Lands",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/KingdomNewLands_Freetile-2578x1028-25ade94a10e6224b8b45db9a888ca794.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "53"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "0e87bed2a83c4cf6a68a7aeb43f25cf0"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-new-lands/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "80c35836c0184c1e91dde0f2a05ebbbb"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "80c35836c0184c1e91dde0f2a05ebbbb",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Raw Fury"
+      },
+      {
+        "key": "developerName",
+        "value": "noio"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "kingdom-new-lands/home"
+      }
+    ]
+  }
+}

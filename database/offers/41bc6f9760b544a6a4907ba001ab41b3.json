@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-04-01T12:29:00.000Z",
+  "creationDate": "2019-11-18T22:32:35.397Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "rayman-legends/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rayman Legends",
+  "id": "41bc6f9760b544a6a4907ba001ab41b3",
+  "namespace": "epic",
+  "description": "Rayman Legends",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RL---S1-2560x1440-dff0b62be58a38af1355b211ac66f895.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RL---S2-1280x1440-485723f393bd056975b91eaca71954cb.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Rayman_Legends_LOGO-2812x1200-beb70037bd57853efe5daa651ffd9a89.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8999"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "fc8d1547232045f6a23257cfd04ef3e8"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rayman-legends/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e31d7dadcf1c4063b69fd97af1f3c2a9"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e31d7dadcf1c4063b69fd97af1f3c2a9",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "rayman-legends/home"
+      }
+    ]
+  }
+}

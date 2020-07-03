@@ -1,0 +1,86 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-14T15:00:00.000Z",
+  "creationDate": "2019-09-27T21:02:54.316Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs-2/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs 2 - Season Pass",
+  "id": "ad839f9aa2f74087a3dd68f29bc80e0f",
+  "namespace": "angelonia",
+  "description": "Watch Dogs 2 - Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-SP-Capsule-1920x1080-cc38cd561e2a0f0a89b96a83314a100e849dd2dc.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "966e307240204fc89efae37b367489f9",
+      "namespace": "angelonia",
+      "developer": null
+    },
+    {
+      "id": "91233ac8e4f045ee80bfa850a5200426",
+      "namespace": "angelonia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-2/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

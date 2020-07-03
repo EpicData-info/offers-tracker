@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-02T04:20:42.837Z",
+  "lastModifiedDate": "2019-09-20T14:58:14.156Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "ShallotsDevAudience",
+  "id": "5f03f6a1ed264dc9b45a1d24d9993fe2",
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "description": "ShallotsDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "name": "Iceberg Interactive"
+  },
+  "items": [
+    {
+      "id": "d94e9918edc74182ac8ea9036bff26fd",
+      "namespace": "ada169f07b81464a9fc06a7d6896101d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

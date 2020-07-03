@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2010-01-01T00:02:00.000Z",
+  "creationDate": "2018-09-20T23:36:08.063Z",
+  "lastModifiedDate": "2020-06-02T00:39:21.023Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Create Item For PriceEngine",
+  "id": "a5a546df312e4808a59e2bf36bb1d1a6",
+  "namespace": "SeaQA",
+  "description": "item description",
+  "longDescription": "long item description",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "image name",
+      "url": "url"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "f722d5e3f1e84ff1b2fc2c8f032fd35e",
+      "namespace": "SeaQA",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

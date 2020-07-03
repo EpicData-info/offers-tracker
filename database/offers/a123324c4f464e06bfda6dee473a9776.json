@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-07T16:00:00.000Z",
+  "creationDate": "2019-09-10T20:58:33.734Z",
+  "lastModifiedDate": "2020-05-14T19:35:51.325Z",
+  "viewableDate": null,
+  "productSlug": "nuclear-throne/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Nuclear Throne",
+  "id": "a123324c4f464e06bfda6dee473a9776",
+  "namespace": "742f165671424189aecdfdadf5ea9755",
+  "description": "Nuclear Throne",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/CodeRedemption_NuclearThrone-330x440-c4f5333350593314b1d258369d8af3ed.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/742f165671424189aecdfdadf5ea9755/offer/LandscapeOfferImage-2560x1440-9b48837b1dea889348dbe1dc3f6c2f8b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
+    "name": "Vlambeer"
+  },
+  "items": [
+    {
+      "id": "64e79b9eea45473b8618be48d2bee997",
+      "namespace": "742f165671424189aecdfdadf5ea9755",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Vlambeer"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "nuclear-throne/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

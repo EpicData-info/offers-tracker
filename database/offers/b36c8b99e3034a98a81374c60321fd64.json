@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-24T07:49:00.000Z",
+  "creationDate": "2019-01-24T12:51:25.297Z",
+  "lastModifiedDate": "2019-08-05T08:36:42.682Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "PuffinDevAudience",
+  "id": "b36c8b99e3034a98a81374c60321fd64",
+  "namespace": "puffin",
+  "description": "PuffinDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/puffin/offer/Icon-400x400-f8988a9efb3ecb9b399c5b0fce2a4e1e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "1723f87d7d9e40a3895feacfa2aa51fa",
+      "namespace": "puffin",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Thomas Happ Games LLC"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

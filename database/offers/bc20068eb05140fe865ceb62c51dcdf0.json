@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-20T10:00:00.000Z",
+  "creationDate": "2019-09-10T19:31:42.404Z",
+  "lastModifiedDate": "2019-12-20T20:03:51.834Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yaga Bad Luck Bundle Pre-Purchase",
+  "id": "bc20068eb05140fe865ceb62c51dcdf0",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "Yaga Bad Luck Bundle Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "ceeeb54d754140068d449a3eefc15aab",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    },
+    {
+      "id": "35af7b55cc5041afbac3825c72b8e2bf",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    },
+    {
+      "id": "1fe4071bc2ae4a2fa957af651d77720d",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-10-21T18:13:21.383Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-5/dead-living-zombies-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dead Living Zombies DLC",
+  "id": "b5d51896d4a140399dbc8596947b7461",
+  "namespace": "coriander",
+  "description": "Dead Living Zombies DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5-DLC3_Edition_Capsule_1920X1080-1920x1080-0b49171392aab878d6bd201b7a068b80.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5-DLC3_Edition_Capsule_1920X1080-1920x1080-c539244047706367712360498335bbe5f64f712b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b22fa81435ba49629e1d3cbc5497e326",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "9ae7729df0fa4196881a6389aca77b86",
+      "namespace": "coriander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-5/dead-living-zombies-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

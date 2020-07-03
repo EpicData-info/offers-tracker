@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-26T14:11:00.000Z",
+  "creationDate": "2019-03-27T18:14:36.931Z",
+  "lastModifiedDate": "2019-08-05T08:36:10.165Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Dangerous Driving Press Access",
+  "id": "e30de6ab5512496db27dcf0ce5f6da97",
+  "namespace": "pansy",
+  "description": "Dangerous Driving Press Access",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_PurchaseImage-330x550-4caaf05da9c391bb631d81ebf6675062.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+    "name": "Three Fields Entertainment"
+  },
+  "items": [
+    {
+      "id": "69c000e976154250a39a10051c963321",
+      "namespace": "pansy",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Three Fields Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

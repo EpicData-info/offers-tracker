@@ -1,0 +1,127 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-12T12:00:00.000Z",
+  "creationDate": "2019-07-15T15:39:44.579Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RUNE II - God Slayer Pre-Purchase",
+  "id": "125ae16c9bde4f47bbc4cfe09907e328",
+  "namespace": "cosmos",
+  "description": "RUNE II - God Slayer Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RuneII_GodSlayer-355x150-a089a6158f064c85fcbadcfd9bc2cf1d.png"
+    }
+  ],
+  "seller": {
+    "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+    "name": "Ragnarok Game, LLC"
+  },
+  "items": [
+    {
+      "id": "70c30983cf0948e4bffc23505f232b11",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "6a7258561b324870b7961d48a6da0f23",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "4295b98260f4459eb43e3d07157ce551",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "159d92ebec254ecf8373709a99388a62",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "36e6cccc479445b1b6accf15bebfc46e",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "2f742aa604a441d1a145f70411e9d8d2",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "974e25b4bce6425d9af79cd5ffd64152",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "cc67628ab455419cb3d4ecc907febbb7",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "ed503af371e3427d852168a794b4aa3c",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "ed28fb47adf84fb38062ce7092331548",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "8e04edfe647b49b4b696ccc46681ed6a",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "2d308457739f4434b4d178273078c283",
+      "namespace": "cosmos",
+      "developer": null
+    },
+    {
+      "id": "1ca903fe199d4c3893a94b82f7ccf152",
+      "namespace": "cosmos",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1573570800"
+    },
+    {
+      "key": "developerName",
+      "value": "Human Head Studios, Inc."
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

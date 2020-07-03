@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-07-08T13:17:31.814Z",
+  "lastModifiedDate": "2019-09-27T23:49:50.834Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "PenguinDevAudience",
+  "id": "39a69623764b491ab84e1d090b716c51",
+  "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+  "description": "PenguinDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/offer/CodeRedemption_GNOG-340x440-deb4e24eac48ef2e8eb0d87d23a1727d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/offer/CodeRedemption_GNOG-340x440-deb4e24eac48ef2e8eb0d87d23a1727d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-hsgwu456e63dkkgskeusntg93gey48",
+    "name": "KO_OP"
+  },
+  "items": [
+    {
+      "id": "121a714c386c4ff88d99c5aeda2af441",
+      "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Double Fine"
+    },
+    {
+      "key": "developerName",
+      "value": "Ko-Op"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

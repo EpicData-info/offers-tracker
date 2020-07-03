@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-02-11T12:30:00.000Z",
+  "creationDate": "2019-02-11T17:31:38.826Z",
+  "lastModifiedDate": "2019-08-09T15:59:56.365Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "SundropDevAudience",
+  "id": "a3accd53f6f04db08e68b752450e4fb9",
+  "namespace": "sundrop",
+  "description": "SundropDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "f6262bea77a34aed9b97f94c2b0127ea",
+      "namespace": "sundrop",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

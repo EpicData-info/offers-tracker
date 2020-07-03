@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-02T15:23:00.000Z",
+  "creationDate": "2019-01-29T20:25:11.599Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.493Z",
+  "viewableDate": null,
+  "productSlug": "shakedown-hawaii/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Shakedown Hawaii",
+  "id": "d93a5c8e6ae9421da81f7b0162361b83",
+  "namespace": "plumeria",
+  "description": "Shakedown Hawaii",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d692.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ShakedownHawhawii-Logo-1850x761-be864661ef62ef247e8fb01692d6f21c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d692.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/plumeria/offer/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/plumeria/offer/CodeRedemtion-340x440-920657788b75b43bceb99d6edf145542.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325.png"
+    }
+  ],
+  "seller": {
+    "id": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+    "name": "Vblank Entertainment"
+  },
+  "items": [
+    {
+      "id": "41152625466f4722817d41e0981755ab",
+      "namespace": "plumeria",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Vblank Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shakedown-hawaii/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

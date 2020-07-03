@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-13T12:00:00.000Z",
+  "creationDate": "2019-06-13T18:01:48.977Z",
+  "lastModifiedDate": "2019-10-30T23:47:40.113Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Griftlands Pre-Purchase",
+  "id": "2eaa5d220fff40ce85cadc3748135452",
+  "namespace": "phlox",
+  "description": "Griftlands Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    }
+  ],
+  "seller": {
+    "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+    "name": "Klei Entertainment"
+  },
+  "items": [
+    {
+      "id": "c7aa70a73473478d92ecc0013a3d0488",
+      "namespace": "phlox",
+      "developer": null
+    },
+    {
+      "id": "8c0a42f43b4a409584e1b00026afa37f",
+      "namespace": "phlox",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

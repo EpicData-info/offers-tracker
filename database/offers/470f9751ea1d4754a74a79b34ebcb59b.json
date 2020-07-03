@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-03T18:28:27.064Z",
+  "lastModifiedDate": "2020-04-02T21:27:56.803Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "doveDevAudience",
+  "id": "470f9751ea1d4754a74a79b34ebcb59b",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "description": "doveDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "abe2516a3f044f3ba75fd208828def5b",
+      "namespace": "ed355406eacb4633a648f682ddb492b8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{]"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

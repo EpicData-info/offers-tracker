@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-11-29T20:15:00.000Z",
+  "creationDate": "2018-11-27T01:24:33.748Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2018-11-26T20:19:00.000Z",
+  "productSlug": "journey/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Journey",
+  "id": "833cc1439bec45f79e21b022c4fb5967",
+  "namespace": "epic",
+  "description": "Journey",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/JourneyLogoLanguages_1024x306-1024x306-8cdcd8293b033d483962e30e9f1163e7.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_SmallSize-2580x1450-75345be2b7101291982f1dcfcedaadbd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10284"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "lemur"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "journey/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "4e82628bda3240959b7eed18967186c8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "4e82628bda3240959b7eed18967186c8",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "thatgamecompany"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "journey/home"
+      }
+    ]
+  }
+}

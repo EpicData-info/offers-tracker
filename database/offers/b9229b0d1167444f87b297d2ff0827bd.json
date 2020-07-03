@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "creationDate": "2020-03-09T19:51:59.604Z",
+  "lastModifiedDate": "2020-07-02T14:00:25.087Z",
+  "viewableDate": null,
+  "productSlug": "conan-exiles",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Conan Exiles",
+  "id": "b9229b0d1167444f87b297d2ff0827bd",
+  "namespace": "conanexiles",
+  "description": "Conan Exiles",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S5-1920x1080-80181a084cf786f9aa8e81190f8725be.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/EGS_ConanExiles_Funcom_S6-1200x1600-5454011d5e70ab9d4a0ebe27c5054a85.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "name": "Funcom"
+  },
+  "items": [
+    {
+      "id": "8dac02d447a64fd9be5a10bc174e81f5",
+      "namespace": "conanexiles",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Funcom"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "conan-exiles"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

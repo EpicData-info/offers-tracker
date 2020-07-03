@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-12-31T18:00:00.000Z",
+  "creationDate": "2019-12-11T03:26:27.159Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "foregone/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Foregone",
+  "id": "c2f85843620d428f9bdd491f5833c6fd",
+  "namespace": "epic",
+  "description": "Foregone",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
+    "name": "Big Blue Bubble, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "788"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "a40f6c03e1374358809ec38c999059c0"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "foregone/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "aab7e770208a419286ef5fe2f9a98a60"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "aab7e770208a419286ef5fe2f9a98a60",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Big Blue Bubble"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "foregone/home"
+      }
+    ]
+  }
+}

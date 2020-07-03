@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-23T15:00:00.000Z",
+  "creationDate": "2019-11-05T02:20:32.875Z",
+  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Just Cause 4 Gold Edition",
+  "id": "5b570d99f92742cdb845ce2e0eb3619a",
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "description": "Just Cause 4 Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Gold-Edition-2560x1440-2560x1440-a8862841e80df2348c7a828b385b17e3.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Gold-Edition-860x1148-860x1148-fd96ed6de2c56540f265d9d9a4271b35.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Gold-Edition-860x1148-860x1148-fd96ed6de2c56540f265d9d9a4271b35-860x1148-fd96ed6de2c56540f265d9d9a4271b35.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "items": [
+    {
+      "id": "61036935900745918e3687b64aa323a8",
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

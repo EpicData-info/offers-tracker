@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-26T20:26:00.000Z",
+  "creationDate": "2018-11-27T01:36:26.197Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2018-11-26T20:26:00.000Z",
+  "productSlug": "outerwilds",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outer Wilds",
+  "id": "eadfe2cf37f545a3abb8ac63e961123c",
+  "namespace": "epic",
+  "description": "Outer Wilds",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/outerwilds1290x725 (1)-1290x725-930b33ddbd98f10b26d8d2bd72551095.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Outerwilds_tall-853x960-58dc805f1fe053e7cad4406d3b801f8a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10264"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "starfish"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outerwilds"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "5a1f3f34df1f4c21850b997aa08da19e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "5a1f3f34df1f4c21850b997aa08da19e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Mobius Digital"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "outerwilds"
+      }
+    ]
+  }
+}

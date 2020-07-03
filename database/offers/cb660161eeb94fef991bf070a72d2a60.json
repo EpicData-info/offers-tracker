@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-05-08T16:35:14.561Z",
+  "lastModifiedDate": "2020-05-09T00:33:35.863Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DevSiberianAudience",
+  "id": "cb660161eeb94fef991bf070a72d2a60",
+  "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "description": "DevSiberianAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+    "name": "Kalypso Media"
+  },
+  "items": [
+    {
+      "id": "c4621c987b3241ae94b1ce30753d7021",
+      "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

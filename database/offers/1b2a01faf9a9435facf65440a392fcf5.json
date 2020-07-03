@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-20T00:08:00.000Z",
+  "creationDate": "2019-03-18T04:12:03.780Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "ancestors/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ancestors The Humankind Odyssey",
+  "id": "1b2a01faf9a9435facf65440a392fcf5",
+  "namespace": "epic",
+  "description": "Ancestors The Humankind Odyssey",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PanacheDigitalGames_Ancestors_S4_1280x1440-1280x1440-4a62ef24f5cd0f4fc0d40b70b80b5869.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PanacheDigitalGames_AncestorsTheHumankindOdyssey_IC1_GameLogoDarkbg-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/PanacheDigitalGames_Ancestors-2560x1440-9e1eb937421d9e6f217c975b6b507f49.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/PanacheDigitalGames_Ancestors-2560x1440-9e1eb937421d9e6f217c975b6b507f49.jpg"
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ancestors_logo-3000x1206-32a3a2c8b1036e5d757171bfc9c960ed.png"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Ancestors_Store_Portrait_Promo4-1280x1420-a8aa4a5ab13d0586897b05e5425d3960.png"
+    }
+  ],
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10550"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "amaranth"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ancestors/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1f59e837a27a48f78c326ac943cd8441"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "1f59e837a27a48f78c326ac943cd8441",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Private Division"
+      },
+      {
+        "key": "developerName",
+        "value": "Panache Digital Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ancestors/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-11T11:00:00.000Z",
+  "creationDate": "2018-11-30T01:32:32.733Z",
+  "lastModifiedDate": "2020-05-13T20:29:18.771Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "World War Z Pre-Purchase",
+  "id": "01d2c4881dcd49348b172aeb00d15e88",
+  "namespace": "wombat",
+  "description": "World War Z Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_PurchaseImage-330x550-eb8454402edcc3955b320a1f9b393110.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "3b8aced574054341bd8046610dfbeb9e",
+      "namespace": "wombat",
+      "developer": null
+    },
+    {
+      "id": "c1ecd5ecb96745bca6a09d1028377c93",
+      "namespace": "wombat",
+      "developer": null
+    },
+    {
+      "id": "6bfa6e8187ed4caba71f9d6e2319ea50",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

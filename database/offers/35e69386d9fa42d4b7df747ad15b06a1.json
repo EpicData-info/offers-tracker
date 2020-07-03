@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "creationDate": "2020-03-26T23:41:54.921Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "productSlug": "trackmania-turbo/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trackmania Turbo",
+  "id": "35e69386d9fa42d4b7df747ad15b06a1",
+  "namespace": "epic",
+  "description": "Trackmania Turbo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8060"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "8bd4f3286d414820bc7cbcbb849b1f72"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f7246f00b7c44619974b60aa276fa606"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trackmania-turbo/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "f7246f00b7c44619974b60aa276fa606",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "trackmania-turbo"
+      }
+    ]
+  }
+}

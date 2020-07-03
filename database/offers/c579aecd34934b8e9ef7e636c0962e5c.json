@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-08T16:00:00.000Z",
+  "creationDate": "2019-01-07T21:36:15.127Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "gorogoa/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Gorogoa",
+  "id": "c579aecd34934b8e9ef7e636c0962e5c",
+  "namespace": "meerkat",
+  "description": "Gorogoa",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gorogoa_PrimaryPromo-2580x1450-deb0fc458f47db3252efd05bbb4a499f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gorogoa_PortraitPromo-1280x1420-6f82bf45db6891abb8642ca2be62b741.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/GorogoaDropShadowv2-2336x512-66e0f5c1e6e27d1b95670d267853e80c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gorogoa_PortraitPromo-1280x1420-6f82bf45db6891abb8642ca2be62b741.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/meerkat/offer/Gorogoa_PurchaseImage-330x389-9da3f48f383e214370760c27bd7baeb4.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gorogoa_PrimaryPromo-2580x1450-deb0fc458f47db3252efd05bbb4a499f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "5296da3b06b342c09bf8ac953734e248",
+      "namespace": "meerkat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Buried Signal"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gorogoa/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

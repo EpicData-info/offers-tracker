@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-12-04T00:00:00.000Z",
+  "creationDate": "2019-08-24T05:14:50.912Z",
+  "lastModifiedDate": "2020-01-24T18:43:44.600Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Paranoia Happiness is Mandatory",
+  "id": "1e1c963a7f1946f988469cf817938a1d",
+  "namespace": "52613245bcd34a8eb99078f423620a4d",
+  "description": "Paranoia Happiness is Mandatory",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/EGS_Bigben_Paranoia_Carousel1-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/52613245bcd34a8eb99078f423620a4d/offer/EGS_Bigben_Paranoia_Carousel1-2560x1440-d7def6bb186bab4a007ed5e02e39d162.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_Paranoia_L1-2048x1152-0ff9e071e3ee4b99c7bf9203ecea9561.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "6e59b4668c4b43c1a241df1088b7267a",
+      "namespace": "52613245bcd34a8eb99078f423620a4d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Black Shamrock & Cyanide"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

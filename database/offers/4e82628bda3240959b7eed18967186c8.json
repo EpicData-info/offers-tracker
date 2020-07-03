@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-05T12:00:00.000Z",
+  "creationDate": "2018-11-30T00:55:28.698Z",
+  "lastModifiedDate": "2020-04-02T01:41:39.259Z",
+  "viewableDate": "2018-11-28T19:59:00.000Z",
+  "productSlug": "journey/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Journey",
+  "id": "4e82628bda3240959b7eed18967186c8",
+  "namespace": "lemur",
+  "description": "Journey",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/JourneyLogoLanguages_1024x306-1024x306-8cdcd8293b033d483962e30e9f1163e7.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_SmallSize-2580x1450-75345be2b7101291982f1dcfcedaadbd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_tall-853x960-857c2689f49d11d93ab146d73f74e850.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lemur/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lemur/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Journey_SmallSize-2580x1450-75345be2b7101291982f1dcfcedaadbd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "cab94ef6d05c4641916346969ccd2b28",
+      "namespace": "lemur",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "thatgamecompany"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "journey/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

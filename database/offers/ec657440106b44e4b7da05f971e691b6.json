@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-20T13:00:00.000Z",
+  "creationDate": "2019-05-21T17:18:40.787Z",
+  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Observation Humble Bundle Audience",
+  "id": "ec657440106b44e4b7da05f971e691b6",
+  "namespace": "allium",
+  "description": "Observation Humble Bundle Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_PrimaryPromo-1920x1080-6dfe300a2a6e1f16410267103c8e5a2e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "f1c91cdb410446fe82bc81bd5206a20f",
+      "namespace": "allium",
+      "developer": null
+    },
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "NoCode"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

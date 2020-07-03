@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-06T18:00:00.000Z",
+  "creationDate": "2020-05-08T14:37:11.658Z",
+  "lastModifiedDate": "2020-06-15T15:37:04.020Z",
+  "viewableDate": "2020-06-06T18:00:00.000Z",
+  "productSlug": "disco-elysium",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Disco Elysium",
+  "id": "1112adb4b6af47238cbc563ae2b1c6ab",
+  "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+  "description": "Disco Elysium",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S5-1920x1080-391cc41a99becba317b849c8792098d0.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S5-1920x1080-391cc41a99becba317b849c8792098d0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff52981b1d9947978153c7a7f8bc6d90/offer/EGS_DiscoElysium_ZAUM_S2-1200x1600-88382e31b39eee25364a29821e2f86e2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-pb2pz54zd2ps62dbhl588l39prldtz",
+    "name": "ZA/UM"
+  },
+  "items": [
+    {
+      "id": "28f54f5e720a4c8ab67c4e4a0bbc1cd4",
+      "namespace": "ff52981b1d9947978153c7a7f8bc6d90",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "ZA/UM"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "disco-elysium"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

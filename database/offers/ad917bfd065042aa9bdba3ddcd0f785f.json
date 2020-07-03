@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-05-08T15:55:29.662Z",
+  "lastModifiedDate": "2019-09-27T23:25:13.389Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "terragonDevAudience",
+  "id": "ad917bfd065042aa9bdba3ddcd0f785f",
+  "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+  "description": "terragonDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
+  },
+  "items": [
+    {
+      "id": "6522f4d98a6f4cc4a2c2d9cea69708ba",
+      "namespace": "d0230ef21b1f4ef29aec0d49946912fc",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Perfect World Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Runic Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

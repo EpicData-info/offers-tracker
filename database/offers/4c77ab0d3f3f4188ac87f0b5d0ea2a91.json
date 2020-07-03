@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T16:00:00.000Z",
+  "creationDate": "2019-04-02T20:54:45.886Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-new-dawn/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry New Dawn",
+  "id": "4c77ab0d3f3f4188ac87f0b5d0ea2a91",
+  "namespace": "cumin",
+  "description": "Far Cry New Dawn Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/S1-FAR-CRY-ND-2560x1440-4d80a265186262aa9c66b252f8c60c77.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/S2-FAR-CRY-ND-1280x1440-56f859f37b378e97f4a9de08c70bd9ca.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FCB_Logo_Color_1000x375-1000x375-59a48f3b9e198802e498df61be92e27b.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/S2-FAR-CRY-ND-1280x1440-56f859f37b378e97f4a9de08c70bd9ca.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cumin/offer/STD_Image_Hero_Carrousel-2560x1440-c7c98c99027a6abca8521eae9b0c5a6a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cumin/offer/FCB_Edition_Capsule_1920X1080-1920x1080-199551cd3c7da61cf0c827b627126bf28cbef371.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "bb2072f2a4614a98b717b57ccad6ccfb",
+      "namespace": "cumin",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-new-dawn/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2049-02-18T16:00:00.000Z",
+  "creationDate": "2020-02-19T01:29:53.880Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "mount-and-blade-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mount & Blade II: Bannerlord",
+  "id": "edc039f38f614739bcbc3d6c7a04633e",
+  "namespace": "epic",
+  "description": "Mount & Blade II: Bannerlord, Mount and Blade 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
+    "name": "TaleWorlds Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10555"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "aeac94c7a11048758064b82f8f8d20ed"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mount-and-blade-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1dcce12230b64066a988c06cdd5f653e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "1dcce12230b64066a988c06cdd5f653e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "TaleWorlds Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "mount-and-blade-2/home"
+      }
+    ]
+  }
+}

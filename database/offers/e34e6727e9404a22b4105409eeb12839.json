@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-04T12:29:00.000Z",
+  "creationDate": "2020-04-09T14:56:47.871Z",
+  "lastModifiedDate": "2020-05-18T19:47:02.601Z",
+  "viewableDate": null,
+  "productSlug": "newtalphabattlemage-01",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Gold Pack 01",
+  "id": "e34e6727e9404a22b4105409eeb12839",
+  "namespace": "newt",
+  "description": "Gold Pack 01",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "fc4cbd8add2447418f70b25e3dca69d9",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "newtalphabattlemage-01"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

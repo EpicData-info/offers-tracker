@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-06-01T17:09:18.117Z",
+  "lastModifiedDate": "2020-06-11T15:12:20.354Z",
+  "viewableDate": null,
+  "productSlug": "ark/valguero",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Valguero",
+  "id": "cf4d4f7961a74902b2442336fa2f355f",
+  "namespace": "ark",
+  "description": "ARK Valguero",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-ac1543ffc6225457c0d4c8b93557d951.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ValgueroARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-f9b0a95b6536d99e18384643d8898465.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "d6edab6f34af4062aab05d0ef66c8832",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/valguero"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

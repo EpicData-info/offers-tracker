@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-12-02T09:00:00.000Z",
+  "creationDate": "2020-05-01T18:14:28.857Z",
+  "lastModifiedDate": "2020-05-01T18:14:28.857Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "World War Z GOTY Press",
+  "id": "bc514c79175347ce8c3c73ad48745f32",
+  "namespace": "wombat",
+  "description": "World War Z GOTY Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Diesel_product_ratings_WWZ-ESRB-842x404-594cfb6eef57d34c86a259ce28a7eb0c113ebf35-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_CodeRedemption-340x440-d243a578a983bf3faa0415bbf06dce82.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_CodeRedemption-340x440-d243a578a983bf3faa0415bbf06dce82.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "de6d6c1ac3614411a98d07f7ffd68d09",
+      "namespace": "wombat",
+      "developer": null
+    },
+    {
+      "id": "509d62b93e69494b84c07ec7e0b7f6b4",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

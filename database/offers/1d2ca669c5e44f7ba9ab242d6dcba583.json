@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-23T16:00:00.000Z",
+  "creationDate": "2020-03-04T16:52:16.698Z",
+  "lastModifiedDate": "2020-05-12T18:08:48.426Z",
+  "viewableDate": null,
+  "productSlug": "anodyne-2-return-to-dust/game-and-soundtrack-bundle",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anodyne 2 Game + Soundtrack",
+  "id": "1d2ca669c5e44f7ba9ab242d6dcba583",
+  "namespace": "395be8a9aed24142b30b6abb2778e995",
+  "description": "Anodyne 2 Game + Soundtrack",
+  "longDescription": "$26.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_G1C_00-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S4-510x680-94072e8ad80a101ff5cd8852dc4cc8f8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_G1C_00-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06-1920x1080-a06977c625f9cb3d1ac66fa4aed30f06.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/395be8a9aed24142b30b6abb2778e995/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S4-510x680-94072e8ad80a101ff5cd8852dc4cc8f8-510x680-94072e8ad80a101ff5cd8852dc4cc8f8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
+    "name": "Analgesic Productions"
+  },
+  "items": [
+    {
+      "id": "e07f23bf87e84d45b5bc9d93c8b8724a",
+      "namespace": "395be8a9aed24142b30b6abb2778e995",
+      "developer": null
+    },
+    {
+      "id": "ca1d191bd4564c6c95993593b9fd3fe7",
+      "namespace": "395be8a9aed24142b30b6abb2778e995",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Analgesic Productions"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anodyne-2-return-to-dust/game-and-soundtrack-bundle"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

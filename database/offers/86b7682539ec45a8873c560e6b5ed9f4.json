@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-09T15:00:00.000Z",
+  "creationDate": "2020-03-30T21:21:36.087Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-04-02T15:00:00.000Z",
+  "productSlug": "sherlock-holmes-crimes-and-punishments/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Sherlock Holmes Crimes and Punishments",
+  "id": "86b7682539ec45a8873c560e6b5ed9f4",
+  "namespace": "epic",
+  "description": "Sherlock Holmes Crimes and Punishments",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+    "name": "Frogwares"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1989"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "23f3da2016b94461a7bd7e2eb46aa0f9"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "afadb715390a4593acdca79dae94b60a"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sherlock-holmes-crimes-and-punishments/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "afadb715390a4593acdca79dae94b60a",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Frogwares"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "sherlock-holmes-crimes-and-punishments/home"
+      }
+    ]
+  }
+}

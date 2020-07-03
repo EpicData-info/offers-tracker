@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-19T16:00:00.000Z",
+  "creationDate": "2019-12-03T17:47:19.943Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "into-the-breach/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Into The Breach",
+  "id": "a08681e2143d4c218167e45d76db8de0",
+  "namespace": "5c0d568c71174cff8026db2606771d96",
+  "description": "Into The Breach",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_IC2-128x128-c12d3fbc49d67a6faee2d2e2bd7f945d.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_S4-510x680-8a865e9778acb1745f4d70a6411ac370.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+    "name": "Subset Games"
+  },
+  "items": [
+    {
+      "id": "2b19e544e510468a96a4f918a00d52e9",
+      "namespace": "5c0d568c71174cff8026db2606771d96",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Subset Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "into-the-breach/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

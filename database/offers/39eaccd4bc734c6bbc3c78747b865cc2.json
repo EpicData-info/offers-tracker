@@ -1,0 +1,41 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-27T10:31:00.000Z",
+  "creationDate": "2019-10-28T14:32:03.347Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Wombat Production Offer",
+  "id": "39eaccd4bc734c6bbc3c78747b865cc2",
+  "namespace": "wombat",
+  "description": "Wombat Production Offer",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "c70bc4ba26954e1a82b5c9cddced1ad2",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

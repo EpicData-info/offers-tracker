@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-17T00:08:56.865Z",
+  "lastModifiedDate": "2020-05-06T20:29:35.382Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "FinchDevAudience",
+  "id": "4701637131cd4793b2caac54de1d6aa9",
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "description": "FinchDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "ffbfc930af644f52a72e28ca967fea97",
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

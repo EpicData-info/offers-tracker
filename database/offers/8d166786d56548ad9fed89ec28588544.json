@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-02-24T21:22:05.110Z",
+  "lastModifiedDate": "2020-04-02T03:01:43.413Z",
+  "viewableDate": null,
+  "productSlug": "offworld-trading-company/limited-supply",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Offworld Trading Company Limited Supply DLC",
+  "id": "8d166786d56548ad9fed89ec28588544",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "description": "Offworld Trading Company Limited Supply DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "items": [
+    {
+      "id": "87bcc55b715e417f95e2826779fcc4f4",
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/limited-supply"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

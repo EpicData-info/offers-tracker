@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-18T13:26:00.000Z",
+  "creationDate": "2019-03-18T17:32:11.356Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "kine/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kine",
+  "id": "812b3f9ae5064e7fa040132fd60ceddb",
+  "namespace": "epic",
+  "description": "Kine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-na388hs5k2ak86akfejt2es246vaa2",
+    "name": "Gwen Frey"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10860"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "rose"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kine/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "dce338d41ea84680a81ad383a1f7f401"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "dce338d41ea84680a81ad383a1f7f401",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Gwen Frey"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "kine/home"
+      }
+    ]
+  }
+}

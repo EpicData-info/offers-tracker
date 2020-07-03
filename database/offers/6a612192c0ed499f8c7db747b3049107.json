@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-25T16:00:00.000Z",
+  "creationDate": "2019-12-16T16:58:30.371Z",
+  "lastModifiedDate": "2020-04-02T01:42:33.014Z",
+  "viewableDate": null,
+  "productSlug": "totally-accurate-battle-simulator/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Accurate Battle Simulator",
+  "id": "6a612192c0ed499f8c7db747b3049107",
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "description": "Totally Accurate Battle Simulator",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S1-2560x1440-6041f9e5f1e30fc01dafd9dd11999732.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+    "name": "Landfall Games"
+  },
+  "items": [
+    {
+      "id": "e36555ead0ce47e3bd7c844ce035b2ca",
+      "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Landfall games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-accurate-battle-simulator/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

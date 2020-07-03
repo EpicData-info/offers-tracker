@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-04T15:00:00.000Z",
+  "creationDate": "2020-03-24T00:47:42.402Z",
+  "lastModifiedDate": "2020-06-04T14:56:30.339Z",
+  "viewableDate": "2020-06-04T15:00:00.000Z",
+  "productSlug": "valiant-hearts/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Valiant Hearts: The Great War",
+  "id": "e3fdf1e813a54f44b71f30a411e9c23e",
+  "namespace": "8767c1c91fc847cbafbfa232c695276f",
+  "description": "Valiant Hearts: The Great War",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "54af22a65b1442b1871f42a0394eb556",
+      "namespace": "8767c1c91fc847cbafbfa232c695276f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Montpellier"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "valiant-hearts/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

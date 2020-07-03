@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-29T18:23:00.000Z",
+  "creationDate": "2019-08-29T22:25:34.470Z",
+  "lastModifiedDate": "2020-05-07T11:48:13.312Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test Currency Pack",
+  "id": "f969710192bf498186d1a364ab9a9ed7",
+  "namespace": "azalea",
+  "description": "Test Currency Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "c663705216c145ed9a65ad10d4023857",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

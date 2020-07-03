@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2037-12-17T18:00:00.000Z",
+  "creationDate": "2019-12-17T22:51:39.684Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "ape-out/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ape Out",
+  "id": "1a3d31d61b02483e9a53349f6e52681e",
+  "namespace": "epic",
+  "description": "Ape Out",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S3-1360x766-ea97ba30d154f6a543e7909cbcfb7f65.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GabeCuzzilloBennettFoddyMattBoch_APEOUT_S4-510x680-b80b1a6001781729aa30c2d3456b63fb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "7898"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "6c77bc1b5faa4ac98441ec75cca0d320"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ape-out/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "d3a6b8379b864097b2c92d14ebfab190"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "d3a6b8379b864097b2c92d14ebfab190",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "Gabe, Bennett, Matt"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ape-out/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-04T08:53:38.829Z",
+  "lastModifiedDate": "2020-04-02T01:41:12.313Z",
+  "viewableDate": null,
+  "productSlug": "chivalry-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Chivalry 2",
+  "id": "77b658e7d3c54ee1a4692682f3709cd8",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "description": "Chivalry 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Chivalry-2-Full-Brand-Colour (2)-1746x594-88f5ba869080f7b0fa7a11c13e7cf05e.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Diesel_product_peppermint_home_Chivalry2_PortraitPromo-1288x1450-9248cb8cbd654b3065c796f5a76c7e45bb5fa682-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "daad36f10acf4ff4ba663584ad0a3d9c",
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Torn Banner Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "chivalry-2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

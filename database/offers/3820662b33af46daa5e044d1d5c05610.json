@@ -1,0 +1,98 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-30T09:00:00.000Z",
+  "creationDate": "2020-06-19T15:04:36.966Z",
+  "lastModifiedDate": "2020-06-30T13:03:17.398Z",
+  "viewableDate": null,
+  "productSlug": "fuser",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Fuser",
+  "id": "3820662b33af46daa5e044d1d5c05610",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "description": "Fuser pre-purchase\nFuser",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S3-2560x1440-b4455586675901db4e37e35037f87a52.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S4-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S4-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S4-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S3-2560x1440-b4455586675901db4e37e35037f87a52.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSER_Harmonix_S4-1200x1600-402c8bfb1b21516d3e129a4b227e8fe1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "items": [
+    {
+      "id": "9b6991eafab14d20bea2b3faf91cbd11",
+      "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+      "developer": null
+    },
+    {
+      "id": "f5f217b04f454feea119c3e50227690b",
+      "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,JP,TW"
+    },
+    {
+      "key": "publisherName",
+      "value": "NCSOFT"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Harmonix Music Systems, Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fuser"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

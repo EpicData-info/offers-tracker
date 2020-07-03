@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-04T01:00:00.000Z",
+  "creationDate": "2019-06-06T19:39:05.478Z",
+  "lastModifiedDate": "2020-05-28T11:50:10.802Z",
+  "viewableDate": null,
+  "productSlug": "atomicrops/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Atomicrops",
+  "id": "2a32725d30bc4d87823d3354670376e2",
+  "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "description": "Atomicrops",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "95a9b50044414b17946f273848af608f",
+      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Bird Bath Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "atomicrops/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

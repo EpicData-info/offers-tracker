@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-10-25T21:14:20.237Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "ruiner/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RUINER",
+  "id": "a9a4ab65b8cb405198e2332795b69be6",
+  "namespace": "epic",
+  "description": "RUINER",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S1-2560x1440-f5548f0e232e2e27d0093f4aec67b8a2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_IC1-846x171-f4a25b2621539846ca33e9523975e6c5.png"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1800"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "74d82b28ab424956ac24407229fe6faa"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ruiner/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "42d063eb91874990b29f5b9a3e083673"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "42d063eb91874990b29f5b9a3e083673",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "Reikon Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ruiner/home"
+      }
+    ]
+  }
+}

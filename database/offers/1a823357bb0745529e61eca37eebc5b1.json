@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-06-29T16:24:17.030Z",
+  "lastModifiedDate": "2020-07-01T14:33:22.222Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DevSarajevoAudience",
+  "id": "1a823357bb0745529e61eca37eebc5b1",
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "description": "DevSarajevoAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "items": [
+    {
+      "id": "ff1ed1ef64e043ebb729d4b22e433bc6",
+      "namespace": "456d95ca54814c8d98db2f52346ff5de",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

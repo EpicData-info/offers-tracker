@@ -1,0 +1,98 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-29T18:11:00.000Z",
+  "creationDate": "2019-03-29T15:15:47.783Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 1800",
+  "id": "eed4647340be4921ae5547a0fe0de421",
+  "namespace": "oregano",
+  "description": "ANNO 1800 Standard Edition",
+  "longDescription": "PrePurchase Oregano Standard Edition",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Store_Primary_Promo_1860x1050_GAME-1868x1050-5a0b0930c75a4a09e9120e8c6df952bd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno1800Portrait2-1280x1420-101b24aa4b7fdf7596648edd9cc4caba.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno1800Portrait2-1280x1420-101b24aa4b7fdf7596648edd9cc4caba.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemption_Anno1800-330x440-08e0d0789e1d2be92dbc0b8527d68cb5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Icon_400x400_Anno-400x400-bda1437aa4ea0f532b819ec99f238723.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Store_Primary_Promo_1860x1050_GAME-1868x1050-5a0b0930c75a4a09e9120e8c6df952bd.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_Standard_Wide-355x150-c74361701182b62c649f887cfbfbc0b2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "fa57396db52041358c98549c10c669d4",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "a81f87f371f44fd489de7f5d96571f4a",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-07T21:46:14.596Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "falcon-age",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Falcon Age",
+  "id": "4dfe723e347f43a68084b77e5f747e81",
+  "namespace": "epic",
+  "description": "Falcon Age",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PrimaryPromo-1440x810-1440x810-0d20764dc8ab543b18b5a2af267e7cd8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PortraitPromo-960x1080-960x1080-144e95628ca3d2ca48289b1b373b7398.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FalconAge_Logo-2650x905-fbc35a43de3237ce11eb360b4c2bf40e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+    "name": "Outerloop Games LLC"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10465"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "28dde12d84ef45b8b321dbc962c1b217"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "falcon-age"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "d15a9bad13314dd6ac4978e31147c865"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "d15a9bad13314dd6ac4978e31147c865",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Outerloop Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "falcon-age"
+      }
+    ]
+  }
+}

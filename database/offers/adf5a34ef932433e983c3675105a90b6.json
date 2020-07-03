@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:36:18.127Z",
+  "lastModifiedDate": "2020-05-11T15:19:32.825Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/india",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "India DLC",
+  "id": "adf5a34ef932433e983c3675105a90b6",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "India",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_INDIA_Desktop-horizontal-1360x766-98ec32f6e522f9c7c407d0223fbad90f83c7f850.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "0e2d4ee3889149aa96855f0521f643c8",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/india"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

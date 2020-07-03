@@ -1,0 +1,104 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-11-20T23:37:51.095Z",
+  "lastModifiedDate": "2020-05-12T18:41:24.472Z",
+  "viewableDate": null,
+  "productSlug": "bundles/far-cry-new-dawn-ultimate",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry New Dawn Ultimate",
+  "id": "48d595b3d9c04e66b11558428f94d51e",
+  "namespace": "973dc60bbab8494bafcc69fd0542364a",
+  "description": "Far Cry New Dawn Ultimate",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/973dc60bbab8494bafcc69fd0542364a/offer/ULT_Image_Hero_Carrousel-3840x2160-ce196bfb32fcba155f4ab63544806384.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/973dc60bbab8494bafcc69fd0542364a/offer/Diesel_productv2_far-cry-new-dawn_home_ESRB_M_FarCryNewDawn-398x190-79f345c0eba4686d82b345bf753cffde0c196726-398x190-4e4cdac11da9217dcbf10ee825435b37.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/973dc60bbab8494bafcc69fd0542364a/offer/Diesel_productv2_far-cry-5_home_ESRB_M_FarCry5-398x190-8e977ba58e5ea46a28eb49d4d490f15f622f30d4-398x190-1a57f52425a8ecdb0a6f940ab25e5ef5.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/973dc60bbab8494bafcc69fd0542364a/offer/FCB_ULT_Edition_Capsule_1920X1080-1920x1080-0454c1e419930a7c3f1e626a502f4296ce47bf32.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "bb2072f2a4614a98b717b57ccad6ccfb",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "5de423d356784c29b719f855c9567fde",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "6c262450ee624de3bd74a3d699554b38",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "7a189738c32c4b6298c7dc3d009a363b",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "7522770b77b947e7bdb57579788bdb43",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "ee6aaa36869c40328eee99d595c1f56a",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa",
+      "namespace": "coriander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bundles/far-cry-new-dawn-ultimate"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

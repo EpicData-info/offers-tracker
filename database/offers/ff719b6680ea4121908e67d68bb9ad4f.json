@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "creationDate": "2020-03-10T19:44:39.518Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.598Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs/bad-blood-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs Bad Blood DLC",
+  "id": "ff719b6680ea4121908e67d68bb9ad4f",
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "description": "Watch Dogs Bad Blood DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-618f4f0dc2d3c4b292b0cbe414390174.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-618f4f0dc2d3c4b292b0cbe414390174.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Portrait_1280x1420 (1)-1280x1420-8eb93911a3cd62c679f2417f7bc9cb1a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "04217db9030644e68aa69821efa62739",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    },
+    {
+      "id": "29c11393fb294bd8bd0a5198418f9fab",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/bad-blood-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

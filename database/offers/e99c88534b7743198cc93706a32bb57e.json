@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "creationDate": "2020-04-07T15:52:18.216Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-04-09T15:00:00.000Z",
+  "productSlug": "just-cause-4/standard-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Just Cause 4",
+  "id": "e99c88534b7743198cc93706a32bb57e",
+  "namespace": "epic",
+  "description": "Just Cause 4",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+    "name": "Frogwares"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10559"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ba8062bdcc1342c0b78743e3c6242575"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "just-cause-4/standard-edition"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "516eb5d868f44040a13fd486c8fc0e33"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "516eb5d868f44040a13fd486c8fc0e33",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Square Enix"
+      },
+      {
+        "key": "developerName",
+        "value": "Avalanche Studios"
+      }
+    ]
+  }
+}

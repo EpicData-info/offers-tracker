@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-21T04:00:00.000Z",
+  "creationDate": "2019-03-13T12:22:35.815Z",
+  "lastModifiedDate": "2020-05-14T19:29:53.780Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampire: The Masquerade – Bloodlines 2 Standard Edition",
+  "id": "0f0b3f1bedd748f79586291ce23de9e8",
+  "namespace": "nemesia",
+  "description": "Vampire: The Masquerade – Bloodlines 2 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "e461c084de344ee3913f8617eaca61e8",
+      "namespace": "nemesia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "HardSuit"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

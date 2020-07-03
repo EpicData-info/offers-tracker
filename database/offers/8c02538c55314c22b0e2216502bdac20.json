@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-18T15:00:00.000Z",
+  "creationDate": "2020-05-13T18:57:23.591Z",
+  "lastModifiedDate": "2020-06-25T15:12:25.734Z",
+  "viewableDate": "2020-06-11T15:00:00.000Z",
+  "productSlug": "pathway",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Pathway",
+  "id": "8c02538c55314c22b0e2216502bdac20",
+  "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
+  "description": "Pathway",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S1-2560x1440-3c9cef48c884fed691d26282e4c87d19.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S2-1200x1600-10b3574cdc63baa7b1e90e04a4b6fe9e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S2-1200x1600-10b3574cdc63baa7b1e90e04a4b6fe9e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S1-2560x1440-3c9cef48c884fed691d26282e4c87d19.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S2-1200x1600-10b3574cdc63baa7b1e90e04a4b6fe9e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/eb9117fdc2a1493ba4e8a4e1d2286e2f/offer/EGS_Pathway_Robotality_S2-1200x1600-10b3574cdc63baa7b1e90e04a4b6fe9e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-63wkbbq7yx9ek36vmkhzamz3rexmu4",
+    "name": "Robotality"
+  },
+  "items": [
+    {
+      "id": "8f589457c9f64bc29eb572be49f6d44e",
+      "namespace": "eb9117fdc2a1493ba4e8a4e1d2286e2f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Chucklefish"
+    },
+    {
+      "key": "developerName",
+      "value": "Robotality"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pathway"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

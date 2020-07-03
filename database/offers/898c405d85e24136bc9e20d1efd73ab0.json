@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-24T17:00:00.000Z",
+  "creationDate": "2019-03-25T21:16:42.371Z",
+  "lastModifiedDate": "2020-04-29T00:38:19.266Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Phoenix Point Backer Build",
+  "id": "898c405d85e24136bc9e20d1efd73ab0",
+  "namespace": "iris",
+  "description": "Phoenix Point Backer Build",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png"
+    }
+  ],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "3cc732b7e5014e35847f568fcc5f0829",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

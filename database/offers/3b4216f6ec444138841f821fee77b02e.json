@@ -1,0 +1,75 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [
+    "9446ad21f4c24c9abcdc7f6b7d91b36c",
+    "eb081710a4b64e068c8881a138d9de3f"
+  ],
+  "effectiveDate": "2050-07-08T15:00:00.000Z",
+  "creationDate": "2019-10-08T02:09:18.614Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "surviving-collection",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Collection",
+  "id": "3b4216f6ec444138841f821fee77b02e",
+  "namespace": "epic",
+  "description": "Surviving Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SurvivingMars_Portrait-1280x1440-c1be7d402cea83282d8ad351d305688d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Iceflake_N1_Surviving_the_Aftermath-2560x1440-d9667e2bdaeb67be6ba51ae80fdf0649.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_Surviving_Collection_White_LOGO-2000x702-69bf31233e573407b11a02d7de37f360.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "6099"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.1",
+      "value": "9446ad21f4c24c9abcdc7f6b7d91b36c"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.2",
+      "value": "eb081710a4b64e068c8881a138d9de3f"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-collection"
+    }
+  ],
+  "categories": [
+    {
+      "path": "collections"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

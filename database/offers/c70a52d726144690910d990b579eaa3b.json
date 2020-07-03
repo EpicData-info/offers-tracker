@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [
+    "dcc78a59329543168b08b26cc9a65572",
+    "6bad44fc6dd9456081442559c51a577f",
+    "09efa4c5d30a411eb012f881802f8453"
+  ],
+  "effectiveDate": "2019-10-11T19:00:00.000Z",
+  "creationDate": "2020-03-27T16:54:05.052Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-03-19T18:10:00.000Z",
+  "productSlug": "metro-franchise",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Franchise Collection",
+  "id": "c70a52d726144690910d990b579eaa3b",
+  "namespace": "epic",
+  "description": "Metro Franchise Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.collectionOfferIds.1",
+      "value": "dcc78a59329543168b08b26cc9a65572"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.3",
+      "value": "09efa4c5d30a411eb012f881802f8453"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.2",
+      "value": "6bad44fc6dd9456081442559c51a577f"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-franchise"
+    }
+  ],
+  "categories": [
+    {
+      "path": "collections"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

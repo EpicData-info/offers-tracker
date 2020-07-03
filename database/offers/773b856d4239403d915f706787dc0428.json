@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-20T16:29:00.000Z",
+  "creationDate": "2019-03-21T20:34:23.131Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-season-two/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: Season Two",
+  "id": "773b856d4239403d915f706787dc0428",
+  "namespace": "epic",
+  "description": "The Walking Dead: Season Two",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "4"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "buttercup"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-season-two/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b4eb01e10f224126b7b4f7a56a65a6ec"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b4eb01e10f224126b7b4f7a56a65a6ec",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Skybound Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Telltale Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "walking-dead-season-two/home"
+      }
+    ]
+  }
+}

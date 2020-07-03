@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-13T04:00:00.000Z",
+  "creationDate": "2019-03-15T02:53:18.313Z",
+  "lastModifiedDate": "2020-05-13T18:52:49.528Z",
+  "viewableDate": null,
+  "productSlug": "vampire-the-masquerade-bloodlines-2/blood-moon-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampire: The Masquerade – Bloodlines 2 Blood Moon Edition",
+  "id": "5b24a7b8f9f4430889b4823fcce55ab1",
+  "namespace": "nemesia",
+  "description": "Vampire: The Masquerade – Bloodlines 2 Blood Moon Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_S2-1200x1600-f5ad8d08f0584b290cff61c4f025e51b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_G1A_00-1920x1080-04a38c312c9d926b624a91a4a6a34df1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_S2-1200x1600-f5ad8d08f0584b290cff61c4f025e51b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_BloodMoonEdition_HardsuitLabs_Editions_S2-1200x1600-f5ad8d08f0584b290cff61c4f025e51b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "d10c5588d8dc4594bb67081b321f6703",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "54867928ade648d383b6a8313f757f60",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "e461c084de344ee3913f8617eaca61e8",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "c0445ea6fa3241fa8eef3a75ffbe80c3",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "d79391cbbeff4005ba7547fbd1302118",
+      "namespace": "nemesia",
+      "developer": null
+    },
+    {
+      "id": "06489793bc014df298ebc98fe789af0e",
+      "namespace": "nemesia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Hardsuit Labs Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vampire-the-masquerade-bloodlines-2/blood-moon-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

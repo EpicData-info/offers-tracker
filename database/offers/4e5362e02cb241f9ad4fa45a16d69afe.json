@@ -1,0 +1,92 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-14T05:00:00.000Z",
+  "creationDate": "2019-10-17T23:08:29.322Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "star-wars-jedi-fallen-order/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Star Wars Jedi Fallen Order Deluxe Edition",
+  "id": "4e5362e02cb241f9ad4fa45a16d69afe",
+  "namespace": "e509c16d53714b13ba8e393966507255",
+  "description": "Star Wars Jedi Fallen Order Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/TeenRating-842x404-03a8a1dc98ab180071931c3942ee6a93.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_Deluxe_Keyart_1920x1080-1920x1080-4d6b472452a1c520eee5b000ec0ef656b781aa8a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_TALLDE-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
+    "name": "Electronic Arts"
+  },
+  "items": [
+    {
+      "id": "39a4734792344813b44d7194ce02a3af",
+      "namespace": "fn",
+      "developer": null
+    },
+    {
+      "id": "e8eb21381ef74967a28022ba70f34301",
+      "namespace": "e509c16d53714b13ba8e393966507255",
+      "developer": null
+    },
+    {
+      "id": "f5df0f7ea3534b99bccde279e84c3f3a",
+      "namespace": "e509c16d53714b13ba8e393966507255",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Electronic Arts"
+    },
+    {
+      "key": "developerName",
+      "value": "Respawn Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "star-wars-jedi-fallen-order/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

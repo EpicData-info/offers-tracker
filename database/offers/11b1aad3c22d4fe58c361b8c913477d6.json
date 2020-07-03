@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-11T17:00:00.000Z",
+  "creationDate": "2018-07-30T23:02:57.245Z",
+  "lastModifiedDate": "2019-11-13T01:18:55.072Z",
+  "viewableDate": "2019-11-11T17:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Battle Breaker Collection",
+  "id": "11b1aad3c22d4fe58c361b8c913477d6",
+  "namespace": "wex",
+  "description": "A pet and free daily chests!",
+  "longDescription": "A pet and free daily chests!",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/BB_InGame_StoreArt_Collection-512x512-03916083c870df5d62bad565313b36db.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "91551bc9f3574ce28bf6207b72d766c9",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

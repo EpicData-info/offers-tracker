@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-04T15:17:00.000Z",
+  "creationDate": "2019-02-04T20:19:27.913Z",
+  "lastModifiedDate": "2020-05-11T18:38:01.670Z",
+  "viewableDate": null,
+  "productSlug": "darksiders3/dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Darksiders III DLC - The Crucible",
+  "id": "e2180aefb2b44aa0b290377b0fd5986b",
+  "namespace": "springbok",
+  "description": "Darksiders III DLC - The Crucible",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_TheCrucibleDLC_KeyArt-2175x1285-9c5dff5431ca2330a5e3d7a93dda34e54bc77d46.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "a46ef9792391432c82cf18321a553fc8",
+      "namespace": "springbok",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Gunfire Games"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders3/dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

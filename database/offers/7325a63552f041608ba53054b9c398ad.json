@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-13T12:00:00.000Z",
+  "creationDate": "2019-06-13T19:43:47.600Z",
+  "lastModifiedDate": "2020-04-27T15:30:34.618Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Falcon Age Pre-Purchase",
+  "id": "7325a63552f041608ba53054b9c398ad",
+  "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "description": "Falcon Age Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFalconAge-340x440-24a66c9a012c015b7b77b6af87997051.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFalconAge-340x440-24a66c9a012c015b7b77b6af87997051.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
+    "name": "Outerloop Games LLC"
+  },
+  "items": [
+    {
+      "id": "722ed22602d44a3f981a5cc3b0d40e5c",
+      "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+      "developer": null
+    },
+    {
+      "id": "366ae4f5469b44abb2fad0d598dd048b",
+      "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Outerloop Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

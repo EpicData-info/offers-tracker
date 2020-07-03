@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-02-24T21:04:38.343Z",
+  "lastModifiedDate": "2020-04-02T03:01:43.213Z",
+  "viewableDate": null,
+  "productSlug": "offworld-trading-company/scenario-toolkit",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Offworld Trading Company: Scenario Toolkit DLC",
+  "id": "4aa076a3d6b845599facee6f3a4394d1",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "description": "Offworld Trading Company: Scenario Toolkit DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyScenarioToolkit_MohawkGames_DLC_IC1_A-320x180-70a625ba92dcd999242e8d1ef5fb441a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyScenarioToolkit_MohawkGames_DLC_IC1_A-320x180-70a625ba92dcd999242e8d1ef5fb441a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "items": [
+    {
+      "id": "4f98bc7d6c5e4dafa9e9d334a0c57859",
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/scenario-toolkit"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

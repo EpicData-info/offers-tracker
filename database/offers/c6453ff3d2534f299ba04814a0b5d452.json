@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-24T06:23:21.146Z",
+  "lastModifiedDate": "2019-09-05T14:59:27.594Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "StaticeDevAudience",
+  "id": "c6453ff3d2534f299ba04814a0b5d452",
+  "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "description": "StaticeDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+    "name": "Edmund McMillen, Tyler Glaiel"
+  },
+  "items": [
+    {
+      "id": "12839678edd94bda8603e7f3eb59ba24",
+      "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Edmund McMillen, Tyler Glaiel"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

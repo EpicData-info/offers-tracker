@@ -1,0 +1,41 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-07-30T00:00:00.000Z",
+  "creationDate": "2015-07-30T17:33:22.310Z",
+  "lastModifiedDate": "2017-06-20T21:00:00.816Z",
+  "viewableDate": "2015-07-30T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "OCN Fake Offer",
+  "id": "bb6b555da55b424d8fee405577586000",
+  "namespace": "ocn",
+  "description": "OCN Fake Offer",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "b36aee54fcb146de9e84b76fad034d08",
+      "namespace": "ocn",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

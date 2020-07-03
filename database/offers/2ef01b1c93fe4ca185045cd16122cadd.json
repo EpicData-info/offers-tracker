@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:34:16.935Z",
+  "lastModifiedDate": "2020-05-11T15:29:45.249Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/legendary-asia",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Legendary Asia DLC",
+  "id": "2ef01b1c93fe4ca185045cd16122cadd",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "Legendary Asia",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_ASIA_Desktop-horizontal-1360x766-95bf3675d6b451d91b1f07e65a84dc88045a6244.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_legendary-asia_Mobile-Vertical-510x680-510x680-8a0e93de65eae6fbc69d057a650a3bd3e978d49c-510x680-35e381912a30c28e9ab320daa7a257d4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_legendary-asia_Mobile-Vertical-510x680-510x680-8a0e93de65eae6fbc69d057a650a3bd3e978d49c-510x680-35e381912a30c28e9ab320daa7a257d4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "ffce00491cbc4b89852e2151d61e65b1",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/legendary-asia"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

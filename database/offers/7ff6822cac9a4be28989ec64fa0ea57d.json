@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-21T15:00:00.000Z",
+  "creationDate": "2020-05-13T21:40:49.783Z",
+  "lastModifiedDate": "2020-05-21T14:40:00.985Z",
+  "viewableDate": null,
+  "productSlug": "sid-meiers-civilization-vi/new-frontier-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Civilization VI : New Frontier Pack",
+  "id": "7ff6822cac9a4be28989ec64fa0ea57d",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "description": "Civilization VI : New Frontier Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVINewFrontierPass_FiraxisGames_Bundles_G1A_00-1920x1080-c504e671419b69a84544977d4651fa5a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVINewFrontierPass_FiraxisGames_Bundles_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVINewFrontierPass_FiraxisGames_Bundles_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVINewFrontierPass_FiraxisGames_Bundles_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "f6a36e37997d4723b104f41945e05a66",
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Firaxis Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sid-meiers-civilization-vi/new-frontier-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

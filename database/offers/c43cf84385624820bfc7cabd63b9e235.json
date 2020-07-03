@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-30T10:00:00.000Z",
+  "creationDate": "2019-08-21T22:13:24.453Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "wrc-8",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WRC 8 Legendary Car Pack",
+  "id": "c43cf84385624820bfc7cabd63b9e235",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "description": "WRC 8 Legendary Car Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8LegendaryCarPack_G1_PDPPromoImage-1920x1080-3cdffc9de9c2e70fb9289cfa9bee3328f30ba31c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "799937cf94e0432e83f322c07be65fea",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+      "developer": null
+    },
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+      "developer": null
+    },
+    {
+      "id": "d416a8c6968f48e299a8f34ef8683c27",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Kylotonn"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

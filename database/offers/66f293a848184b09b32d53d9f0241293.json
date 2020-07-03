@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "creationDate": "2019-11-20T20:56:33.093Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "south-park-the-fractured-but-whole/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "South Park: The Fractured But Whole - Season Pass",
+  "id": "66f293a848184b09b32d53d9f0241293",
+  "namespace": "764eb429792649e4a606413cd649de2c",
+  "description": "Alewife Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-c94966a5cd70cae973a9ec2ec8578f18.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-91cc2699f86e3dea93bcd853b7109f81552ef34b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "94f5fdd9b777402b9ce194bd03f674dd",
+      "namespace": "764eb429792649e4a606413cd649de2c",
+      "developer": null
+    },
+    {
+      "id": "fec644ac5b9b4a01a37d9630c390edaa",
+      "namespace": "764eb429792649e4a606413cd649de2c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN.KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-fractured-but-whole/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

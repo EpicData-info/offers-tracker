@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-20T16:34:00.000Z",
+  "creationDate": "2019-03-21T20:38:29.249Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-a-new-frontier/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: A New Frontier",
+  "id": "8e73b1f2b6ca4a69bea9dd7c3f4e3b26",
+  "namespace": "epic",
+  "description": "The Walking Dead: A New Frontier",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "begonia"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-a-new-frontier/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e18ee56df6cd425c8615e2709f8e7bb1"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e18ee56df6cd425c8615e2709f8e7bb1",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Skybound Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Telltale Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "walking-dead-a-new-frontier/home"
+      }
+    ]
+  }
+}

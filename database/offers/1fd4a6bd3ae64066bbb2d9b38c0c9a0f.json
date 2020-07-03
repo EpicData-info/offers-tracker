@@ -1,0 +1,61 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-12-31T15:00:00.000Z",
+  "creationDate": "2020-05-22T20:32:27.783Z",
+  "lastModifiedDate": "2020-05-28T14:30:39.909Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-2\t/commander-lilith",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Commander Lilith DLC",
+  "id": "1fd4a6bd3ae64066bbb2d9b38c0c9a0f",
+  "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+  "description": "Commander Lilith DLC",
+  "longDescription": "$14.99",
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "8aa4f93039434096b948e53bd6f74d3f",
+      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-2\t/commander-lilith"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

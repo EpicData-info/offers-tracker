@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-27T15:00:00.000Z",
+  "creationDate": "2020-03-18T02:55:57.416Z",
+  "lastModifiedDate": "2020-05-27T02:02:19.161Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dragon Rider Pack",
+  "id": "0f3d733abd9e483cacb6e6565a82bdc2",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "description": "Dragon Rider Pack",
+  "longDescription": "Dragon Rider Pack",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/EGS_DragonRiderPack_EvilMojoGames_AddOn_S2-860x1148-e2219fe062f5b875b48c83b441bc0069.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/EGS_DragonRiderPack_EvilMojoGames_AddOn_S1-2560x1440-8967be11d71174a5cc986ab5dfda5d16.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/EGS_DragonRiderPack_EvilMojoGames_AddOn_S2-860x1148-e2219fe062f5b875b48c83b441bc0069.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/EGS_DragonRiderPack_EvilMojoGames_AddOn_S2-860x1148-e2219fe062f5b875b48c83b441bc0069.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "61c3562acaed4212bda1cd8068604ebf",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "developer": null
+    },
+    {
+      "id": "db5bc93261094a268a53156466a4c8d9",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

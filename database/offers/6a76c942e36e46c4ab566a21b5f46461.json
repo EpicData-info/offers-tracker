@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-13T18:32:00.000Z",
+  "creationDate": "2019-02-14T23:37:02.565Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "human-resource-machine/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Human Resource Machine",
+  "id": "6a76c942e36e46c4ab566a21b5f46461",
+  "namespace": "epic",
+  "description": "Human Resource Machine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Promo-Images-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Portrait-Promo-1280x1420-0110d1430288b552736a3914c882cafa.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png"
+    }
+  ],
+  "seller": {
+    "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+    "name": "Tomorrow Corporation"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "65"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "basil"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "human-resource-machine/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "fa12d8a775a14c29863354f05999e621"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "fa12d8a775a14c29863354f05999e621",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Tomorrow Corporation"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "human-resource-machine/home"
+      }
+    ]
+  }
+}

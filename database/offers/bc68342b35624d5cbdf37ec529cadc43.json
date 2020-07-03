@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-12-05T20:35:54.794Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "before-we-leave/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Before We Leave",
+  "id": "bc68342b35624d5cbdf37ec529cadc43",
+  "namespace": "epic",
+  "description": "Before We Leave",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S4-510x680-e99086b2cd816c9110f0c43843e3f515.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BalancingMonkeyGames_BeforeWeLeave_S5-1205x900-b459c8e48cb7f5be802849a3448c1fb1.png"
+    }
+  ],
+  "seller": {
+    "id": "o-4tx8h9e6ugw2546feb637euqzbmkpa",
+    "name": "Balancing Monkey Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "61449320f87347a8bf02159cbf8adb7f"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "before-we-leave/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "957e4d4d60634f7bad2047d257a49f73"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "957e4d4d60634f7bad2047d257a49f73",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Balancing Monkey Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Balancing Monkey Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "before-we-leave"
+      }
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2019-10-22T01:22:57.318Z",
+  "lastModifiedDate": "2020-07-02T14:27:03.551Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Season Pass",
+  "id": "dd3d7baaf5654413ad11b58adf5cf7ac",
+  "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "description": "Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S1-2560x1440-ce97f079cae74a45350403bac78f5565.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "a377cf92916e4a2893d1a972bbd40669",
+      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

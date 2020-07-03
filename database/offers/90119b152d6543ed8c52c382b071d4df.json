@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-09T16:08:55.244Z",
+  "lastModifiedDate": "2019-10-18T12:58:56.589Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Manifold Garden Press",
+  "id": "90119b152d6543ed8c52c382b071d4df",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "description": "Manifold Garden Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+    "name": "William Chyr Studio"
+  },
+  "items": [
+    {
+      "id": "d8d9d58669b943f5a82fc75f32e9594b",
+      "namespace": "015763e579d4479cb1ef7780bf91804f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "William Chyr Studio"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

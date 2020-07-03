@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-20T10:00:00.000Z",
+  "creationDate": "2019-09-10T19:26:31.956Z",
+  "lastModifiedDate": "2019-12-20T20:03:23.959Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yaga Pre-Purchase",
+  "id": "80551fd72bcf45ecaa1a05950da024a4",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "Yaga Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "ceeeb54d754140068d449a3eefc15aab",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    },
+    {
+      "id": "1fe4071bc2ae4a2fa957af651d77720d",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1573570800"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

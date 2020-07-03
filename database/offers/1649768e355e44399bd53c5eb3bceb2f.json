@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-02T15:00:00.000Z",
+  "creationDate": "2019-08-01T15:37:23.254Z",
+  "lastModifiedDate": "2019-10-30T21:19:49.161Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kine Pre-Purchase",
+  "id": "1649768e355e44399bd53c5eb3bceb2f",
+  "namespace": "rose",
+  "description": "Kine Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-na388hs5k2ak86akfejt2es246vaa2",
+    "name": "Gwen Frey"
+  },
+  "items": [
+    {
+      "id": "8d31d407a7c04225ae63acff98d7780a",
+      "namespace": "rose",
+      "developer": null
+    },
+    {
+      "id": "cf47032bf60b4ec893005ebcbaf34883",
+      "namespace": "rose",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Gwen Frey"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

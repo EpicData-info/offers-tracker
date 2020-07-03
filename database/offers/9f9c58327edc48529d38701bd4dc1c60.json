@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-01T12:00:00.000Z",
+  "creationDate": "2019-04-09T18:29:19.421Z",
+  "lastModifiedDate": "2020-06-19T15:25:13.778Z",
+  "viewableDate": null,
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless - Timely Arrival Pack",
+  "id": "9f9c58327edc48529d38701bd4dc1c60",
+  "namespace": "jackal",
+  "description": "Dauntless - Timely Arrival Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_LandscapeOffer-2560x1440-a04e31f0342986ba9596f9e3c519e16b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-31T19:36:44.849Z",
+  "lastModifiedDate": "2020-06-02T00:39:24.950Z",
+  "viewableDate": null,
+  "productSlug": "diabotical/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "13,500 coins",
+  "id": "9bfa21b7b6994da59f74e8a816fcd026",
+  "namespace": "36336ee97ec543bbae85abaca618182b",
+  "description": "13,500 coins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-376adequh7aazkj2cky8h6aezvju5h",
+    "name": "The GD Studio"
+  },
+  "items": [
+    {
+      "id": "590ea6bccce341a0acd66ab107c485d4",
+      "namespace": "36336ee97ec543bbae85abaca618182b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The GD Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "diabotical/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

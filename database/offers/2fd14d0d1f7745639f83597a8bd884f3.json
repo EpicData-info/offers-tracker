@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2030-08-30T15:00:00.000Z",
+  "creationDate": "2019-08-31T02:21:35.321Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "wrc-8/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WRC 8 FIA World Rally Championship",
+  "id": "2fd14d0d1f7745639f83597a8bd884f3",
+  "namespace": "epic",
+  "description": "WRC 8 FIA World Rally Championship",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WRC8_IC1_Black-1792x406-1482e61c5ab89de8a8a6bbae3b6a62e6.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_WRC8BaseGame_G1_PDPPromoImage-2560x1440-3ffa6dbc223ad317b0a70ea03bebecb9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WRC8_Quad_S3-1280x1440-b14f9844aa4dd7d6bfdab6cf4e022b89.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10396"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "f6dcd5bf17c0469789292d1166bf91a1"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-8/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e1cd6be4e19f4248b58048c1f3154a29"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e1cd6be4e19f4248b58048c1f3154a29",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Bigben Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Kylotonn"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "wrc-8/home"
+      }
+    ]
+  }
+}

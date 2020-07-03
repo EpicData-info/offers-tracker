@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-08T16:49:00.000Z",
+  "creationDate": "2018-10-08T20:50:15.010Z",
+  "lastModifiedDate": "2020-04-29T00:46:52.268Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Satisfactory",
+  "id": "29dc519a46d341ad9abcd13d86809c8a",
+  "namespace": "crab",
+  "description": "Satisfactory",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/crab/offer/sat_off-340x440-87d85bf8e95544134940b67bf12c1822.png"
+    }
+  ],
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Studios"
+  },
+  "items": [
+    {
+      "id": "943b05b3293043daa5918278a186763f",
+      "namespace": "crab",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Coffee Stain"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-15T00:00:00.000Z",
+  "creationDate": "2019-07-15T20:21:44.582Z",
+  "lastModifiedDate": "2020-05-11T18:34:34.275Z",
+  "viewableDate": null,
+  "productSlug": "darksiders3/dlc-2",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Darksiders III DLC - Keepers of the Void",
+  "id": "1079068ba1144d60967b171b446492b2",
+  "namespace": "springbok",
+  "description": "Darksiders III DLC - Keepers of the Void",
+  "longDescription": "Darksiders III DLC - Keepers of the Void",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DLC2_Keyart-1920x1095-42760e1a67838827d98843d1b06729dc94b76703.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "8e59126e53c14346af5c48380a449281",
+      "namespace": "springbok",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Gunfire Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders3/dlc-2"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

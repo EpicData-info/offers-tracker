@@ -1,0 +1,57 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2019-10-22T01:16:36.476Z",
+  "lastModifiedDate": "2020-07-02T14:27:03.512Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Glorious Regime Prison",
+  "id": "c040255c809a4b9b8160de3f0a1c2663",
+  "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "description": "The Glorious Regime Prison",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2GloriousRegimePrison_Team17DigitalLtd_DLC_S1-2560x1440-f49dc19979a4a6241bf9323fa43e641f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2GloriousRegimePrison_Team17DigitalLtd_DLC_S2-1200x1600-6b97f98ebeeb29decefcfb6756f979d3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2GloriousRegimePrison_Team17DigitalLtd_DLC_S2-1200x1600-6b97f98ebeeb29decefcfb6756f979d3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "f462bd795cc04772b0c285349bd61cc6",
+      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

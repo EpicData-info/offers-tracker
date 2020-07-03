@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-01T15:00:00.000Z",
+  "creationDate": "2020-06-11T20:43:51.888Z",
+  "lastModifiedDate": "2020-07-01T22:01:18.422Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Club Access - 1 Year",
+  "id": "6e90248798344e65b1d025f192e4411f",
+  "namespace": "b04882669b2e495e9f747c8560488c93",
+  "description": "Club Access - 1 Year",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Store_Landscape_2580x1450-2580x1450-2a667df85fcb68dcd4eb18e8f7fd1139.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-f92748ce64501e0a258cadfb61886a53.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-f92748ce64501e0a258cadfb61886a53.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "01d234155fb446a5b700f35caa39db0f",
+      "namespace": "b04882669b2e495e9f747c8560488c93",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Nadeo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

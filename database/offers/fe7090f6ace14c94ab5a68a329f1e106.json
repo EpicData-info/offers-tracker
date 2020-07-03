@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-26T15:00:00.000Z",
+  "creationDate": "2020-03-10T19:36:44.662Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.598Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs/complete-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs Complete Edition",
+  "id": "fe7090f6ace14c94ab5a68a329f1e106",
+  "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "description": "Watch Dogs Complete Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_CE_Store_Landscape_2580x1450-2580x1450-0215add7913854f8b25590512664b78e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_CE_Store_Portrait_1280x1420-1280x1420-efaedb946c9cca8aaf0ef0d97d5a7282.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_CE_Store_Landscape_2580x1450-2580x1450-0215add7913854f8b25590512664b78e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "89ca33783a0342579c41d5abb3d111cf",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    },
+    {
+      "id": "1dd6d61f0c364fae972313329495657d",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    },
+    {
+      "id": "52fe48f721cc4137ac3f2e94e303435d",
+      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/complete-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

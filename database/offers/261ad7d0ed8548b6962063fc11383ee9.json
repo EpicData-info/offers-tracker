@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-04-17T11:00:00.000Z",
+  "creationDate": "2019-04-17T18:21:14.078Z",
+  "lastModifiedDate": "2019-10-04T11:43:31.948Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "MintDevAudience",
+  "id": "261ad7d0ed8548b6962063fc11383ee9",
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "description": "MintDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "3b4451b151c64f65843c68b7e13e37c9",
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

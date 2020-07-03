@@ -1,0 +1,98 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T21:00:00.000Z",
+  "creationDate": "2020-02-06T23:18:54.423Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": "2019-01-07T11:56:00.000Z",
+  "productSlug": "the-division-2/warlords-of-new-york-ultimate-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's The Division 2  Warlords of New York Ultimate Edition",
+  "id": "36e0852e005e498480223803427615e6",
+  "namespace": "impala",
+  "description": "Tom Clancy's The Division 2  Warlords of New York Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-250e3415cb1c6432f219a7d43fdfbb42.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/WARLOCK_STD_WARLOCK_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c115c1ac051004829345b99d2658adcb.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONYUE_wide-3840x2160-33bc7ba2f845bcab57b36ce599a452a6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d50fc6916e3d4104ae30097bc3012988",
+      "namespace": "impala",
+      "developer": null
+    },
+    {
+      "id": "db5e601f86a0497fad1ef43340af2f00",
+      "namespace": "impala",
+      "developer": null
+    },
+    {
+      "id": "30fd888bab2e4ae7a2c28f4deca31f12",
+      "namespace": "impala",
+      "developer": null
+    },
+    {
+      "id": "d1b64a07a1334a54a51151902f9fe029",
+      "namespace": "impala",
+      "developer": null
+    },
+    {
+      "id": "033be27c70aa44c58cb5245cad2865db",
+      "namespace": "impala",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "availableDate",
+      "value": "1583244000"
+    },
+    {
+      "key": "developerName",
+      "value": "Massive Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-division-2/warlords-of-new-york-ultimate-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

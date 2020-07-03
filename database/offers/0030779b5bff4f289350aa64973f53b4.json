@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-26T15:00:00.000Z",
+  "creationDate": "2020-01-27T21:09:15.704Z",
+  "lastModifiedDate": "2020-05-13T23:35:28.805Z",
+  "viewableDate": null,
+  "productSlug": "control/the-foundation",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Foundation DLC",
+  "id": "0030779b5bff4f289350aa64973f53b4",
+  "namespace": "calluna",
+  "description": "Expansion 1 - The Foundation",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/calluna/offer/Foundation_PortraitImage_860x1148-860x1148-69b77aca2e31879e9a7629ab47d88ac3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/calluna/offer/Foundation_PortraitImage_860x1148-860x1148-69b77aca2e31879e9a7629ab47d88ac3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/calluna/offer/Foundation_LandscapeImage_2560x1440-2560x1440-f45e3a881743cd321e6e978cfbfcfaee.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/calluna/offer/Foundation_PortraitImage_860x1148-860x1148-69b77aca2e31879e9a7629ab47d88ac3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "b2a3a7ec29cd493bb3dcfde6fbab6b71",
+      "namespace": "calluna",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Remedy Entertainment Plc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "control/the-foundation"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

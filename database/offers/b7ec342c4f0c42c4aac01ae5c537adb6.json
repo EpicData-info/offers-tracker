@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-18T11:00:00.000Z",
+  "creationDate": "2020-02-14T02:40:46.124Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-siege/gold-year-5-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rainbow Six Siege Gold Edition Y5",
+  "id": "b7ec342c4f0c42c4aac01ae5c537adb6",
+  "namespace": "carnation",
+  "description": "Rainbow Six Siege Gold Edition Y5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC ALL_Extra_Visuals_Description_1920x1080-1920x1080-95b8ea77643c7499f99fdafc32dc3f8c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_GE_Edition_Capsule_1920X1080-1920x1080-780f7ff331461de0d3e54072ec4464a277c63f81.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "f5e312e2a43f4a979f5c0f8374e1903f",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "e37487e107ce44ceb1a23b82cb013837",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "45ab2992071f471abec46c5b27e12888",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "db458f11048f43c2846368d166acba91",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "f013fcfb0bde42a9bf01e4656e3cfc96",
+      "namespace": "carnation",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-siege/gold-year-5-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

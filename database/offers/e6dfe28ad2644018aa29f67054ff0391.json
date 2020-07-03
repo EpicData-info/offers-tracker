@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-31T15:00:00.000Z",
+  "creationDate": "2019-10-04T22:04:58.047Z",
+  "lastModifiedDate": "2020-04-02T01:41:15.187Z",
+  "viewableDate": null,
+  "productSlug": "costume-quest/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Costume Quest",
+  "id": "e6dfe28ad2644018aa29f67054ff0391",
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "description": "Costume Quest",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DoubleFineProductions_CostumeQuest_S1-2560x1440-8fd5dffea0d4b2636b69ad6289d3eb30.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DoubleFineProductions_CostumeQuest_S2-1280x1440-172228e3a5854ebcc24601215010f6c8.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DoubleFineProductions_CostumeQuest_IC1-200x96-ba58fd803a38131e48669b856b2e58f3.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DoubleFineProductions_CostumeQuest_S2-1280x1440-172228e3a5854ebcc24601215010f6c8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/offer/CodeRedemption_CostumeQuest-340x440-f8c0886973f6c859130444ce62abb49d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/offer/CodeRedemption_CostumeQuest-340x440-f8c0886973f6c859130444ce62abb49d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DoubleFineProductions_CostumeQuest_S1-2560x1440-8fd5dffea0d4b2636b69ad6289d3eb30.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+    "name": "Double Fine"
+  },
+  "items": [
+    {
+      "id": "fb607751bc3846fd85cdeb747d57cc1d",
+      "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Double Fine"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "costume-quest/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

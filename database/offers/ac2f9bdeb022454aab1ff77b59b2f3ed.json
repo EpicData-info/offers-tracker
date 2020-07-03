@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-28T15:00:00.000Z",
+  "creationDate": "2019-04-08T19:23:25.294Z",
+  "lastModifiedDate": "2020-04-27T16:30:02.673Z",
+  "viewableDate": null,
+  "productSlug": "city-of-brass/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "City of Brass",
+  "id": "ac2f9bdeb022454aab1ff77b59b2f3ed",
+  "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+  "description": "City of Brass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_CITYOFBRASS_S1_DESCRIPTION-2560x1440-3e755e7016659f4e23e513a4042fb61e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_CITYOFBRASS_S3_DESCRIPTION-1280x1440-b700c2cc1193dd2ef3906ca918c9d627.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVELOPER_CITYOFBRASS-2000x632-cf4d58b40f749984640d203976a806f5.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_CITYOFBRASS_S3_DESCRIPTION-1280x1440-b700c2cc1193dd2ef3906ca918c9d627.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/offer/CodeRedemptionTemplateCityOfBrass-340x440-1008dfff3c6eec1a81b63271c2e88b56.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fa234e40c4d44dfa84fbcb302fef0233/offer/CodeRedemptionTemplateCityOfBrass-340x440-1008dfff3c6eec1a81b63271c2e88b56.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_CITYOFBRASS_S1_DESCRIPTION-2560x1440-3e755e7016659f4e23e513a4042fb61e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-hpdh9zjxpuz4quu95cagfzhgcavmjt",
+    "name": "Uppercut Games"
+  },
+  "items": [
+    {
+      "id": "845629c392b84c7d9e5fca49d07c434f",
+      "namespace": "fa234e40c4d44dfa84fbcb302fef0233",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Uppercut Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "city-of-brass/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

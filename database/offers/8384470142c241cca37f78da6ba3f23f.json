@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-18T11:00:00.000Z",
+  "creationDate": "2020-02-14T02:45:12.612Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-siege/deluxe-year-5-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rainbow Six Siege Deluxe Edition Y5",
+  "id": "8384470142c241cca37f78da6ba3f23f",
+  "namespace": "carnation",
+  "description": "Rainbow Six Siege Deluxe Edition Y5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Deluxe-312x440-5618390f481d185a31f130c7586e80b4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Deluxe-312x440-5618390f481d185a31f130c7586e80b4.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_DLX_Edition_Capsule_1920X1080-1920x1080-cd74f5e8cccfb5e0db869684b1bf2fa9c5a6d7a3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "f5e312e2a43f4a979f5c0f8374e1903f",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "e37487e107ce44ceb1a23b82cb013837",
+      "namespace": "carnation",
+      "developer": null
+    },
+    {
+      "id": "db458f11048f43c2846368d166acba91",
+      "namespace": "carnation",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-siege/deluxe-year-5-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

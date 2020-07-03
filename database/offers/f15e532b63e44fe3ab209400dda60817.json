@@ -1,0 +1,71 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-10-21T17:54:41.422Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-5/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 5 Gold Edition",
+  "id": "f15e532b63e44fe3ab209400dda60817",
+  "namespace": "coriander",
+  "description": "Far Cry 5 Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-871db26ab326d8b5ddb4461826be617f.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_GE_Edition_Capsule_1920X1080-1920x1080-cba18210717a2b6d1f7bb2cc8e339f3f8ca67548.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "7a189738c32c4b6298c7dc3d009a363b",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa",
+      "namespace": "coriander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-5/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

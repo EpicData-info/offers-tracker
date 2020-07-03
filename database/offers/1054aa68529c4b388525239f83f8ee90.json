@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-21T10:42:00.000Z",
+  "creationDate": "2019-11-22T15:50:40.885Z",
+  "lastModifiedDate": "2020-04-29T00:38:19.266Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "TEST DLC Content Offer",
+  "id": "1054aa68529c4b388525239f83f8ee90",
+  "namespace": "iris",
+  "description": "TEST DLC Content Offer",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_NEWPortraitPromo-1280x1420-3ebed9c3972a5710778d97b6b1018905.png"
+    }
+  ],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "0964da73fdd340a2a0cdfe9f48b1593d",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "ad441cde32d040558745626aa1641045",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "a29ba4014f384b619224f56813a3e93b",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "d975e31b7442474cb97b78fd6b1d2be0",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "2d2fec5947924cdebdee37a73fe1c45f",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "6a454a93b83a4778b35950ed29aa219a",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "fd1cc69744344cda8d78f85807d459c0",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "creationDate": "2020-03-19T17:55:46.487Z",
+  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
+  "viewableDate": null,
+  "productSlug": "snowrunner/scorched-vinyl-wrap",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Scorched Vinyl Wrap",
+  "id": "8843eb0f373d4a45a1bf57246476e730",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "DLC4 - Chevrolet CK 1500 Skin",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_ScorchedPack_EGS_Desktop-Horizontal-1360x766-1360x766-14bb764590cc299196f0af4653272b1e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_ScorchedPack_EGS_Desktop-Vertical-510x680-510x680-50de5a7106e642d211197b1c5c15fb97.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_ScorchedPack_EGS_Desktop-Vertical-510x680-510x680-50de5a7106e642d211197b1c5c15fb97.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "c1cf0a3551f3483f85e703f6308b966a",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/scorched-vinyl-wrap"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

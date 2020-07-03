@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-18T14:59:00.000Z",
+  "creationDate": "2019-06-14T15:50:45.438Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.490Z",
+  "viewableDate": null,
+  "productSlug": "limbo/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Limbo",
+  "id": "49bdb24baa564f8c92848abe14112436",
+  "namespace": "92053006068e4aa9b1ad413f72090f5e",
+  "description": "Limbo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LIBRARY PROMO_L1-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LOGO_IC1_WHITE-2000x657-85b24057bcfbd6e070644f35e6db12ec.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/offer/EGS_PLAYDEAD_LIMBO_ICON_IC2-400x400-1abf90c7e136a74d7678c78007ca3544.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/92053006068e4aa9b1ad413f72090f5e/offer/CodeRedemptionLimbo-330x440-2b1a9c7b0f05121fed69ce4fdc2bc70b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LIBRARY PROMO_L1-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+    "name": "Playdead"
+  },
+  "items": [
+    {
+      "id": "46265a00036f4b98b56670232d1d303e",
+      "namespace": "92053006068e4aa9b1ad413f72090f5e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Playdead"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "limbo/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

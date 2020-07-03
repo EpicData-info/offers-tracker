@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-05T15:00:00.000Z",
+  "creationDate": "2019-06-25T19:27:20.726Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "overcooked/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overcooked",
+  "id": "eed2eaea15864c52a7fe8c122dd6ce03",
+  "namespace": "epic",
+  "description": "Overcooked",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/undefined/offer/freeTile_Overcooked-1080x430-62f8abcca9fd789fa657ba5129f9aede.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "25"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4561b40e52584ac2bcf34bbd5c401480"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overcooked/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e9428ad618aa45f4b3371b8c8c4f9de9"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e9428ad618aa45f4b3371b8c8c4f9de9",
+  "linkedOffer": null
+}

@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "creationDate": "2020-03-03T05:14:17.238Z",
+  "lastModifiedDate": "2020-04-29T00:38:20.802Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ghost Recon Breakpoint - Trial",
+  "id": "06b424684db44814865ad59134a6d100",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "description": "Ghost Recon Breakpoint - Trial",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/GRT_UCS16420_EGST_Store_Landscape_2580x1450-2580x1450-9b0b219986e68bd32346e2cf1b0d1ffe.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/GRT_UCS16420_EGST_Edition_Capsule_1920X1080-1920x1080-4895ee23c9fc73769a88c8c1da646b6e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/GRT_UCS16420_EGST_Store_Portrait_1280x1420-1280x1420-288eef4ab42bdef66ffe5f668a36ea1b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b8e569c7ca07482892636e966ff10910",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

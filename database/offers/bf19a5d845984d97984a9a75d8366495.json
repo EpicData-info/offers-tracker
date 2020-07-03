@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-12T15:00:00.000Z",
+  "creationDate": "2020-05-04T15:29:53.472Z",
+  "lastModifiedDate": "2020-05-04T15:29:53.472Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Alien Living Gun Set",
+  "id": "bf19a5d845984d97984a9a75d8366495",
+  "namespace": "iris",
+  "description": "Alien Living Gun Set",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "d5be47e39aee440aa212603c02de7e39",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

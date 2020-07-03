@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-28T19:16:53.507Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-5/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Far Cry 5",
+  "id": "a1872bb7a6244fd4ae46c57917068b6c",
+  "namespace": "epic",
+  "description": "Far Cry 5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/FarCry5_Landscape-2560x1440-a06e007ef1ab0fac6eeb5689d11ddd91.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/FarCry5_Portrait-1280x1440-1ef85983bb8e3b9d9501e31d0068abdf.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/FarCry5_Logo_Color_1000x375-1000x375-869564d9fca4b56283d09a075bd47f44.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10400"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "coriander"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2c9dda5ae74e4c36ab5763933935888a"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-5/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2c9dda5ae74e4c36ab5763933935888a",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "far-cry-5/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-26T15:00:00.000Z",
+  "creationDate": "2020-03-26T20:00:10.235Z",
+  "lastModifiedDate": "2020-06-29T12:56:29.730Z",
+  "viewableDate": null,
+  "productSlug": "no-straight-roads/mother-and-child-demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "No Straight Roads Mother & Child Demo",
+  "id": "f59bc9edfef04314b3cf7d701618fa5d",
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "description": "No Straight Roads Mother & Child Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S2-1200x1600-d3684ae3e76999a8359dc08cbdc69108.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S1-2560x1440-7bd90e3f82dd287998dbe04d6d2cb29a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/EGS_NoStraightRoadsMotherChildDEMO_Metronomik_Demo_S2-1200x1600-d3684ae3e76999a8359dc08cbdc69108.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+    "name": "Sold Out"
+  },
+  "items": [
+    {
+      "id": "20c828d865da4e5f8276b2e910db1164",
+      "namespace": "c0783fd957634390af33808d1a1f56dd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sold-Out Software"
+    },
+    {
+      "key": "developerName",
+      "value": "Metronomik"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "no-straight-roads/mother-and-child-demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

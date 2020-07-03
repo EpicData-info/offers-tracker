@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-05-08T17:14:52.956Z",
+  "lastModifiedDate": "2020-05-08T18:39:32.368Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SiameseGeneralAudience",
+  "id": "a178c2b75e20434696533628d8fdb296",
+  "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "description": "SiameseGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
+    "name": "Kalypso Media"
+  },
+  "items": [
+    {
+      "id": "fa47d5f474dc42df9e59ec179b9d831f",
+      "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-18T15:00:00.000Z",
+  "creationDate": "2020-05-11T23:23:31.956Z",
+  "lastModifiedDate": "2020-06-23T14:30:45.208Z",
+  "viewableDate": null,
+  "productSlug": "ark/explorers-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Explorer's Edition",
+  "id": "fbda118a7d6c41b090178a4a62fa76cd",
+  "namespace": "ark",
+  "description": "ARK Explorer's Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKExplorersEdition_StudioWildcard_Bundles_S1-2560x1440-591be85ad1707b3c533af5e4e61cd0a5.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKExplorersEdition_StudioWildcard_Bundles_S2-1200x1600-6d7e3936d26f013053ff189776aaacbd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKExplorersEdition_StudioWildcard_Bundles_S2-1200x1600-6d7e3936d26f013053ff189776aaacbd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKExplorersEdition_StudioWildcard_Bundles_S2-1200x1600-6d7e3936d26f013053ff189776aaacbd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "678bdaeb0de14dd59e358100a3498753",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/explorers-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

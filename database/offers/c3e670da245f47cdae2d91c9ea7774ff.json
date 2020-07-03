@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-26T11:00:00.000Z",
+  "creationDate": "2019-03-18T20:29:58.100Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "trover-saves-the-universe/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trover Saves the Universe",
+  "id": "c3e670da245f47cdae2d91c9ea7774ff",
+  "namespace": "epic",
+  "description": "Trover Saves the Universe",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Trover_tall-853x960-c0b769b9ac8de6347085b4a3d86e33f0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Trover_wide-960x540-c3c010591feb3f8eb2af0e4b46bf05fa.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Trover_TroverLogo-1500x964-2391543655e69a5a7055bc896023f7e6.png"
+    }
+  ],
+  "seller": {
+    "id": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+    "name": "Squanch Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10590"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "sweetpea"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "abb40344af0f4425a20e1c5e57677e56"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trover-saves-the-universe/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "abb40344af0f4425a20e1c5e57677e56",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Squanch Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "trover-saves-the-universe/home"
+      }
+    ]
+  }
+}

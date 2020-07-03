@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-02T12:00:00.000Z",
+  "creationDate": "2019-07-22T19:13:35.284Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "alan-wake",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Alan Wake",
+  "id": "c9f0e06579234578aaaa0da9bf74c92e",
+  "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+  "description": "Alan Wake",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alan_Wake_logo-1800x1072-a351f555fdba8372de7b1ee5c6dc83a0.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/Alan_Wake_Game_Page_promotion_2580x1450-2580x1450-3b4f3ab0ced63b27e8a3eb4a3eb68dfd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/00b9ec358e1f46daa4f8e1194d5081d8/offer/CodeRedemption_AlanWake-330x440-b17ccebacb35402ab0df230a59d44cd3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+    "name": "Remedy Entertainment"
+  },
+  "items": [
+    {
+      "id": "2ef316070af746dfb4a5254fc9404100",
+      "namespace": "00b9ec358e1f46daa4f8e1194d5081d8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Remedy Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "alan-wake"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

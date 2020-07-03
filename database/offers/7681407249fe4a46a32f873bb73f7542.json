@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-03-18T00:00:00.000Z",
+  "creationDate": "2019-03-18T05:30:42.490Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "industries-of-titan/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Industries of Titan",
+  "id": "7681407249fe4a46a32f873bb73f7542",
+  "namespace": "epic",
+  "description": "Industries of Titan",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/IoT-OfferImage_Portrait_860x1148-860x1148-903e5ece6796820a7e5bdd82dfa5505d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/IoT-OfferImage_Landscape_2560x1440-2560x1440-da0ca42dfb21502d97539cf1a91c8dd2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+    "name": "Brace Yourself Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5010"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "protea"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a541f0935a3340c5b05a3742e0888d18"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "industries-of-titan/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a541f0935a3340c5b05a3742e0888d18",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Brace Yourself Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "industries-of-titan/home"
+      }
+    ]
+  }
+}

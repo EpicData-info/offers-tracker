@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "creationDate": "2020-03-02T14:42:56.698Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "totally-reliable-delivery-service/stunt-sets",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Reliable Delivery Service Stunt Sets",
+  "id": "efc151c8814849c281feaf94ff618535",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "description": "Totally Reliable Delivery Service Stunt Sets",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/StuntSets_SuperHeroArt_Titled-1920x1080-40b1de5cde2275ecdc70d31615ff7e12.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_stunt-sets_StuntSets_SuperHeroArt_Titled-1920x1080-3242f28d16f7ef3cf812918d2b009e7d979602d2-1920x1080-c09ceeb800e7e779fd12326606af7247.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "1816f44d5c2a49fb809ac7af2a88ac1e",
+      "namespace": "52b90f9a982a404781b189f6a7903226",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tinybuild LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "We're Five Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-reliable-delivery-service/stunt-sets"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

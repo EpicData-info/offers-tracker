@@ -1,0 +1,58 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-05-19T00:00:00.000Z",
+  "creationDate": "2015-05-20T19:19:58.059Z",
+  "lastModifiedDate": "2020-04-02T03:02:54.762Z",
+  "viewableDate": "2019-10-15T08:30:00.000Z",
+  "productSlug": "fortnite/1000-v-bucks",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "1,000 V-Bucks",
+  "id": "ede05b3c97e9475a8d9be91da65750f0",
+  "namespace": "fn",
+  "description": "Purchase 1,000 Fortnite V-Bucks. This in-game currency can be spent in both the Battle Royale PvP mode and the Save the World PvE campaign.",
+  "longDescription": "Buy 1,000 Fortnite V-Bucks, the in-game currency that can be spent in Fortnite Battle Royale, Creative, and Save the World modes. In Battle Royale and Creative you can use V-Bucks to purchase new customization items like Outfits, Gliders, Pickaxes, Emotes, and the latest season’s Battle Pass! In the Save the World co-op PvE mode, you can use V-Bucks to purchase X-Ray Llamas that contain weapon and trap schematics, plus new Heroes, and more! V-Bucks can be purchased in packs of various amounts, and you’ll receive bonus V-Bucks when you buy packs of 2,500 V-Bucks or larger.  \n\n All V-Bucks purchased on one platform may not be redeemable on other platforms.  \n\nNote: Items purchased with V-Bucks do not transfer between Battle Royale and Save the World modes.",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fn/offer/Vbuck_1000-512x512-333c05109464eb0759dbc1eb7edfc81b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/EGS_1000VBucks_1920x1080-1920x1080-874f1246563fa2e19689c280b78f9ac3ca04eadf.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "00f95653c9e04f1bbce081fa0f977618",
+      "namespace": "fn",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fortnite/1000-v-bucks"
+    }
+  ],
+  "categories": [
+    {
+      "path": "points/packs"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "points"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

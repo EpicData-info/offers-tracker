@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-28T16:00:00.000Z",
+  "creationDate": "2019-12-20T02:13:22.910Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "shadow-tactics/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Shadow Tactics",
+  "id": "6711c1797f8a44c3a4307be7e7d52592",
+  "namespace": "epic",
+  "description": "Shadow Tactics",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
+    "name": "Daedalic Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "2f215955790d456b80c291bc2feaf7f7"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shadow-tactics/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "aec117239abd49a08eddc9e75a981fa3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "aec117239abd49a08eddc9e75a981fa3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Daedalic Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Mimimi Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "shadow-tactics/home"
+      }
+    ]
+  }
+}

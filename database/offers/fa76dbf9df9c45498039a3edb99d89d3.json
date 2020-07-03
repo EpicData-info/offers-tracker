@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-08T12:00:00.000Z",
+  "creationDate": "2019-04-08T23:31:50.572Z",
+  "lastModifiedDate": "2019-08-05T08:36:10.165Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dangerous Driving - add Pre-Purchase Humble Bundle",
+  "id": "fa76dbf9df9c45498039a3edb99d89d3",
+  "namespace": "pansy",
+  "description": "Dangerous Driving - add Pre-Purchase Humble Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+    "name": "Three Fields Entertainment"
+  },
+  "items": [
+    {
+      "id": "03169a93f06e478388495722f4623e77",
+      "namespace": "pansy",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Three Fields Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

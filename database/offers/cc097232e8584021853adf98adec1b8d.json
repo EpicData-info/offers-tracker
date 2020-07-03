@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-11T13:00:00.000Z",
+  "creationDate": "2019-04-02T14:30:38.756Z",
+  "lastModifiedDate": "2020-06-18T13:31:01.656Z",
+  "viewableDate": null,
+  "productSlug": "detroit-become-human",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Detroit: Become Human",
+  "id": "cc097232e8584021853adf98adec1b8d",
+  "namespace": "columbine",
+  "description": "Detroit: Become Human",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/DBH_EGS_PORTRAIT-826x1111-8b4fd9462a05bd0bed2b8bfdfc25d923.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Detroit_1280x1440 -1280x1440-920419904339972ae588031cf33804d8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/columbine/offer/DETROIT2-860x1148-a03ac8673f779b286dcccc83dbe75249.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/columbine/offer/DETROIT2-860x1148-a03ac8673f779b286dcccc83dbe75249.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/columbine/offer/DETROIT_1-2560x1440-4fd6608a56880dc5d8e9d968517113c3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "3ebe3a6566804e19bcf7623d499e8190",
+      "namespace": "columbine",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Quantic Dream"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "detroit-become-human"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

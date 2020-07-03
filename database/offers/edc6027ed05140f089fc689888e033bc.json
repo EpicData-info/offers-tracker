@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-09T20:29:12.917Z",
+  "lastModifiedDate": "2019-10-26T02:25:49.614Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Outer Worlds Press EA Audience",
+  "id": "edc6027ed05140f089fc689888e033bc",
+  "namespace": "rosemallow",
+  "description": "The Outer Worlds Press EA Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/rosemallow/item/TOW_ESRB_M_content_m-688x366-3cad213ee7c926f03d1d88a34a4ddffd.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_FOB_PC_ESRB-1461x1840-f1accbd172759cb257d81b170cb952f0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "items": [
+    {
+      "id": "c4ac3929de5f425eaf480b05d33e16d8",
+      "namespace": "rosemallow",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

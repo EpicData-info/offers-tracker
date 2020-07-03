@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-26T15:00:00.000Z",
+  "creationDate": "2019-11-06T20:59:29.310Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "figment/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Figment",
+  "id": "addd4e86c4d746ab86f21606bdadce7d",
+  "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+  "description": "Figment",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/270e1d648a5e4060b7b441615c4da4d9/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+    "name": "Bedtime Digital Games ApS"
+  },
+  "items": [
+    {
+      "id": "f66cb777ae35406d9e83f11673fdb6b1",
+      "namespace": "270e1d648a5e4060b7b441615c4da4d9",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bedtime Digital Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "figment/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

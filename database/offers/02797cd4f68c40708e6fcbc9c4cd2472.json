@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-16T15:00:00.000Z",
+  "creationDate": "2019-10-09T22:14:32.482Z",
+  "lastModifiedDate": "2020-05-27T21:35:01.052Z",
+  "viewableDate": null,
+  "productSlug": "heavy-rain/demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Heavy Rain - Demo",
+  "id": "02797cd4f68c40708e6fcbc9c4cd2472",
+  "namespace": "aster",
+  "description": "Heavy Rain - Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HeavyRainDemo-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "a7c0fc4c36f1471aabf3426fa56fb133",
+      "namespace": "aster",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "isDemo",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Quantic Dream"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heavy-rain/demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

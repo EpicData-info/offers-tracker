@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-12-09T15:00:00.000Z",
+  "creationDate": "2019-12-09T19:44:27.112Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "surgeon-simulator-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surgeon Simulator 2",
+  "id": "c219b2235b9b4aa0b926b432d86f316d",
+  "namespace": "epic",
+  "description": "Surgeon Simulator 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xhhr8jdtcqt7uprgbpvf7g9k2vppu",
+    "name": "Bossa Studios"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "3800"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "7f1fa336313d48eca0a802170aa8dd8a"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surgeon-simulator-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "040d6aecf9cd4199abba059d5acfd600"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "040d6aecf9cd4199abba059d5acfd600",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Bossa"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "surgeon-simulator-2/home"
+      }
+    ]
+  }
+}

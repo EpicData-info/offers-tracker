@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-05T11:00:00.000Z",
+  "creationDate": "2019-08-28T14:31:58.361Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "wattam/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Wattam",
+  "id": "48436374d8f34a6da982b8aad4334534",
+  "namespace": "epic",
+  "description": "Wattam",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WATTAM-2500x938-d4bf9f5c16b6d815e730db7750c930a0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Wattam_Store_Library_Promo-2560x1440-ad8aa2a4d90cd18fbbf6eb0d4572aae2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Wattam_Store_Primary_Promo_Portrait-1280x1440-3dd94f7c632510049db7c13a748a5eec.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9075"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "lupine"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wattam/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "d80ba2f3338847d49a27d8e458d91334"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "d80ba2f3338847d49a27d8e458d91334",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Funomena, Inc."
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "wattam/home"
+      }
+    ]
+  }
+}

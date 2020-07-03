@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-03-26T01:22:59.064Z",
+  "lastModifiedDate": "2019-10-30T20:29:26.939Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trover Saves The Universe Pre-Purchase",
+  "id": "56977421bfe34830876f719463665105",
+  "namespace": "sweetpea",
+  "description": "Trover Saves The Universe Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62-330x440-4551db803c8efe6aac66d26e61640c62.png"
+    }
+  ],
+  "seller": {
+    "id": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+    "name": "Squanch Games"
+  },
+  "items": [
+    {
+      "id": "9e151a69a81a42f4b0a01b6539bf6b9b",
+      "namespace": "sweetpea",
+      "developer": null
+    },
+    {
+      "id": "7f7e428a5f704722ad7c007acc91f9d0",
+      "namespace": "sweetpea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Squanch Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-09T19:56:07.459Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "steep/rocket-wings-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Steep Rocket Wings - DLC",
+  "id": "5ba4f0c36ee94c30a45d8b0fd2143751",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "description": "Steep Rocket Wings - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROCKETWINGS_1920x1080-1920x1080-f8866a1a3349a34dbf584a501852bb2a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROCKETWINGS_1920x1080-1920x1080-7028997fa0ecf8573fc069807ec1420a38dd99c4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "ff49437e489c4b52b32bd4b4cd960978",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    },
+    {
+      "id": "9a3d6827c15a4443b712a9b80434c7fc",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "steep/rocket-wings-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

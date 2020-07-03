@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-11T17:00:00.000Z",
+  "creationDate": "2018-07-31T20:30:36.098Z",
+  "lastModifiedDate": "2019-11-13T01:17:39.362Z",
+  "viewableDate": "2019-11-11T17:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Castle Treasury",
+  "id": "7d270c7e78d3439db8afe81bcd0b6b6a",
+  "namespace": "wex",
+  "description": "Gems and items",
+  "longDescription": "Gems and items",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/StoreBannerCastletreasuryCAT-512x512-2fac1319851701d50590de9c9441e585.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "7aaaad1ac33346c698678fba3e15109b",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

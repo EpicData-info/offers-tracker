@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "creationDate": "2019-10-28T15:25:29.921Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-origins/the-curse-of-the-pharaohs",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Curse of the Pharaohs - DLC",
+  "id": "f26e44e9b357453e82be39662ded6f98",
+  "namespace": "camellia",
+  "description": "The Curse of the Pharaohs - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_TCOTP-330x440-52ad00c6d9618a0ef8557543f1dfce64.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14905_EGST_BannerBundle_CurseOfThePharaohs_US_Edition_Capsule_1920X1080-1920x1080-019c728739c810102d985df89f148f7f.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14905_EGST_BannerBundle_CurseOfThePharaohs_US_Edition_Capsule_1920X1080-1920x1080-d0beb44197a5a490168ea2366f45c6e312464962.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "6e4cbdc96af34e1ea2a4225ceceb1a59",
+      "namespace": "camellia",
+      "developer": null
+    },
+    {
+      "id": "5dfd2e8fc1224362bf9dfda0e923ee48",
+      "namespace": "camellia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins/the-curse-of-the-pharaohs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

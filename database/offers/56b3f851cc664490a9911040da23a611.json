@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "creationDate": "2019-12-05T18:21:48.206Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "gone-home/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Gone Home",
+  "id": "56b3f851cc664490a9911040da23a611",
+  "namespace": "52326e805bac4619a4a8fac165363a42",
+  "description": "Gone Home",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S3-1360x766-c3959ec4baf129daced01135bc89b1aa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_GoneHome_TheFullbrightCompany_S4-510x680-3f3615932db3d3822e5f5da78b2dcd74.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/offer/EGS_GoneHome_TheFullbrightCompany_S3-1360x766-c3959ec4baf129daced01135bc89b1aa-1360x766-c3959ec4baf129daced01135bc89b1aa.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52326e805bac4619a4a8fac165363a42/offer/EGS_GoneHome_TheFullbrightCompany_S3-1360x766-c3959ec4baf129daced01135bc89b1aa-1360x766-c3959ec4baf129daced01135bc89b1aa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3nbn496fvhxljkjn7fwgvhaq4znt37",
+    "name": "The Fullbright Company"
+  },
+  "items": [
+    {
+      "id": "a6ee83b1c34f439ebb86c386750bf615",
+      "namespace": "52326e805bac4619a4a8fac165363a42",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The Fullbright Company"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gone-home/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

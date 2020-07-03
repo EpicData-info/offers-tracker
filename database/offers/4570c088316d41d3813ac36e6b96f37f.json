@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-13T12:00:00.000Z",
+  "creationDate": "2019-06-13T18:53:06.660Z",
+  "lastModifiedDate": "2019-10-30T21:56:14.999Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Sojourn Pre-Purchase",
+  "id": "4570c088316d41d3813ac36e6b96f37f",
+  "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "description": "The Sojourn Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionSojourn-340x440-be3d03a2317f69ef303ca04f0e8d5df2.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionSojourn-340x440-be3d03a2317f69ef303ca04f0e8d5df2.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "name": "Iceberg Interactive"
+  },
+  "items": [
+    {
+      "id": "e4c406ce4e054e6691734ec263e0c6d9",
+      "namespace": "ada169f07b81464a9fc06a7d6896101d",
+      "developer": null
+    },
+    {
+      "id": "0b7d7a8e466a4a8faa9a8f25e4a86c71",
+      "namespace": "ada169f07b81464a9fc06a7d6896101d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Iceberg Interactive"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Shifting Tides"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

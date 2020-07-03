@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-10T15:00:00.000Z",
+  "creationDate": "2019-10-02T02:02:46.026Z",
+  "lastModifiedDate": "2020-05-13T20:37:04.388Z",
+  "viewableDate": null,
+  "productSlug": "surviving-mars",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Mars - Mysteries Resupply Pack",
+  "id": "4c1454a300de4397b74b22a69c6d256c",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "description": "Surviving Mars - Mysteries Resupply Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Landscape_Surviving_Mars_MysteriesSupplyPack-2560x1440-c3cd501d67b95ca044898c01ec0634bd.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MysteriesResupplyPack-860x1148-dae7a37ba93d1543982fe43cc38cf37b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MysteriesResupplyPack-860x1148-dae7a37ba93d1543982fe43cc38cf37b.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MysteriesResupplyPack-860x1148-dae7a37ba93d1543982fe43cc38cf37b-860x1148-dae7a37ba93d1543982fe43cc38cf37b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "98ea4ab4b048416591e817a650954cf3",
+      "namespace": "d759128018124dcabb1fbee9bb28e178",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games AD"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-mars"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

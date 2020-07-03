@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-27T16:00:00.000Z",
+  "creationDate": "2019-10-29T00:10:01.664Z",
+  "lastModifiedDate": "2020-05-28T16:00:48.960Z",
+  "viewableDate": null,
+  "productSlug": "bloodroots/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bloodroots",
+  "id": "4423a534b0ca48b885abcf23a5e27e61",
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "description": "Bloodroots",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main_wishlists-2560x1440-0e90a0fb64b4615fdc79080fa1ec7479.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main_wishlists-2560x1440-0e90a0fb64b4615fdc79080fa1ec7479-2560x1440-0e90a0fb64b4615fdc79080fa1ec7479.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6fych9fc46deb48wb6fw8th6695pnl",
+    "name": "Paper Cult"
+  },
+  "items": [
+    {
+      "id": "f67c84ec33d942158cf024510b4132f2",
+      "namespace": "25ef88acc7f34afc8ac6669e11573882",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Paper Cult"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bloodroots/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

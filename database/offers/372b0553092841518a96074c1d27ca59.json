@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-04-22T15:00:00.000Z",
+  "creationDate": "2019-04-22T16:55:03.303Z",
+  "lastModifiedDate": "2020-04-29T00:38:40.809Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Speedwell Dev Audience",
+  "id": "372b0553092841518a96074c1d27ca59",
+  "namespace": "c5e786eddfd041caa9984213e3f9621d",
+  "description": "Speedwell Dev Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "/api/image/preview/634dfb41662a4704890c088c93222d22"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "0981c01c148847278596b0b325168848",
+      "namespace": "c5e786eddfd041caa9984213e3f9621d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

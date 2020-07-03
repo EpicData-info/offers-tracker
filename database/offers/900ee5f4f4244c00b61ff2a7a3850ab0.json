@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-11T17:00:00.000Z",
+  "creationDate": "2018-07-31T20:17:59.710Z",
+  "lastModifiedDate": "2019-11-13T01:18:19.721Z",
+  "viewableDate": "2019-11-11T17:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Chest of Gems",
+  "id": "900ee5f4f4244c00b61ff2a7a3850ab0",
+  "namespace": "wex",
+  "description": "Gems and items",
+  "longDescription": "Gems and items",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/StoreBannerChestofgemsCAT-512x512-e6c4217ef36c0f92ae5c7b79cf4530ba.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "7b418dd5b36e44be8ef44aaa0247e76d",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

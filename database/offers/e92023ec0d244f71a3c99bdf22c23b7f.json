@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-13T12:00:00.000Z",
+  "creationDate": "2019-06-08T17:06:33.822Z",
+  "lastModifiedDate": "2020-04-27T04:15:06.304Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Outer Worlds Pre-Purchase",
+  "id": "e92023ec0d244f71a3c99bdf22c23b7f",
+  "namespace": "rosemallow",
+  "description": "The Outer Worlds Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TheOuterWorlds_CodeRedemption-340x440-b6b1d651f08bd558d8e8d7d68d12cf18.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "items": [
+    {
+      "id": "fcf496d7382341fcaf3c2b583f116e2c",
+      "namespace": "rosemallow",
+      "developer": null
+    },
+    {
+      "id": "06e6bf4c8c474a0397a8f7dafeb19e24",
+      "namespace": "rosemallow",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Private Division"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1572015600"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

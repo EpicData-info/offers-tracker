@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-09T11:00:00.000Z",
+  "creationDate": "2020-05-22T14:55:49.320Z",
+  "lastModifiedDate": "2020-06-08T12:19:12.699Z",
+  "viewableDate": null,
+  "productSlug": "mechwarrior-5/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mechwarrior 5 Modding Toolkit",
+  "id": "616d8e1ff26b4a65b14794e612da00c4",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "description": "Mechwarrior 5 Modding Toolkit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Mod-editor-icon-200x200-18ddd1e690c834a781ef4bfe09b92450.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+    "name": "Piranha Games"
+  },
+  "items": [
+    {
+      "id": "e6b52375cd6b460d9249cc1a8a3645b3",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Piranha Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mechwarrior-5/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "mods"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

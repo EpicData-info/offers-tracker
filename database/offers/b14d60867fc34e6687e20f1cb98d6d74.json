@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T16:00:00.000Z",
+  "creationDate": "2020-01-13T15:48:51.479Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "anno-2205/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 2205",
+  "id": "b14d60867fc34e6687e20f1cb98d6d74",
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "description": "Anno 2205 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-f195b18a6c4a4a2646e84deaf913a9c5b15f58c3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b8e330a69f9141d0b92643ec13a5ea1d",
+      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-2205/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

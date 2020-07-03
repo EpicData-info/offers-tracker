@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "creationDate": "2020-03-02T14:42:09.694Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "totally-reliable-delivery-service/express-package",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Reliable Delivery Service Express Package",
+  "id": "9b179a83f23c4917b473edb4e1611551",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "description": "Totally Reliable Delivery Service Fancy, Funky, & Film Ready  (renamed 3/3/2020)",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/ExpressPackage_SuperHeroArt_Titled-1920x1080-ad462d7208a75dc1da0880f71a630dc6.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_express-package_EGS_ExpressPackage_WereFiveGames_Bundles_G1A_00-1920x1080-b65c3345aae044e75f5ce566575a413e57fe17f0-1920x1080-bd9eb8a00ac87a831a377e4723f535ec.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "2fa5021c34a6453db41222f1bd53d1f3",
+      "namespace": "52b90f9a982a404781b189f6a7903226",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tinybuild LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "We're Five Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-reliable-delivery-service/express-package"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

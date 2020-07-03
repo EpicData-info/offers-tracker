@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-14T20:00:00.000Z",
+  "creationDate": "2019-03-25T21:01:35.386Z",
+  "lastModifiedDate": "2019-10-30T19:31:39.106Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Observation Pre-Purchase",
+  "id": "ff77e368e40c4cc684e0079ea0c2064c",
+  "namespace": "allium",
+  "description": "Observation Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/allium/offer/ThumbObservation-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "deec78432b0e4f929b2846c7414730c8",
+      "namespace": "allium",
+      "developer": null
+    },
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed",
+      "namespace": "allium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "maskEpicPrice",
+      "value": "true"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "No Code"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

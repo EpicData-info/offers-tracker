@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-23T15:00:00.000Z",
+  "creationDate": "2020-03-23T14:05:57.353Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "samurai-shodown-reboot/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Samurai Shodown",
+  "id": "abc8e74b4bdc4162adb4acd04f9813cd",
+  "namespace": "epic",
+  "description": "Samurai Shodown ; Samurai Shodown Reboot",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SAMURAISHODOWN_SNKCORPORATION_S2-860x1148-5d69fe40f4d47c3df84304461153e928.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SAMURAISHODOWN_SNKCORPORATION_S1-2560x1440-3944d8fd1380c786c06e63188d94f8f2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10810"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ace4435645d9489cacfbb422b7c1c817"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "samurai-shodown-reboot/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2aa893533da449c7b146c72880a414b3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2aa893533da449c7b146c72880a414b3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "SNK"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "samurai-shodown-reboot/home"
+      }
+    ]
+  }
+}

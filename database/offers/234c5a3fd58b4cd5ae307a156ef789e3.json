@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-04-29T01:09:17.556Z",
+  "lastModifiedDate": "2020-06-13T20:04:29.160Z",
+  "viewableDate": null,
+  "productSlug": "the-last-campfire",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Last Campfire",
+  "id": "234c5a3fd58b4cd5ae307a156ef789e3",
+  "namespace": "68214aaaa6f94c81a18c99fc2dc208cf",
+  "description": "The Last Campfire",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S1-2560x1440-0e5d7d8510d26845a8cae02fba2e2e68.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S2-1200x1600-01bb3bcff4278c8fb969627c5967a983.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S2-1200x1600-01bb3bcff4278c8fb969627c5967a983.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S2-1200x1600-01bb3bcff4278c8fb969627c5967a983.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S1-2560x1440-0e5d7d8510d26845a8cae02fba2e2e68.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/68214aaaa6f94c81a18c99fc2dc208cf/offer/EGS_TheLastCampfire_HelloGames_S2-1200x1600-01bb3bcff4278c8fb969627c5967a983.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2a9xrdx8muystc7vrba6lbcluv62m8",
+    "name": "Hello Games Ltd"
+  },
+  "items": [
+    {
+      "id": "dd56e761516c4fcca84359a041a03efa",
+      "namespace": "68214aaaa6f94c81a18c99fc2dc208cf",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hello Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-last-campfire"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-14T14:00:00.000Z",
+  "creationDate": "2020-06-24T20:25:56.042Z",
+  "lastModifiedDate": "2020-06-24T20:25:56.042Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Avatar x SMITE Bundle",
+  "id": "a0eccdb89180467da202e70a487f5bc1",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "description": "Avatar x SMITE Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "bdd54f2701ba4ceab19e2bb161c7fa9a",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    },
+    {
+      "id": "d67eb6020dc8404e878f0c55f1fb31aa",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Titan Forge Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

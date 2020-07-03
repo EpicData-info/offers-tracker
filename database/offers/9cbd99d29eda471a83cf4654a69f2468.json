@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-31T19:35:36.698Z",
+  "lastModifiedDate": "2020-06-02T00:39:24.950Z",
+  "viewableDate": null,
+  "productSlug": "diabotical/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "2800 coins",
+  "id": "9cbd99d29eda471a83cf4654a69f2468",
+  "namespace": "36336ee97ec543bbae85abaca618182b",
+  "description": "2800 coins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-376adequh7aazkj2cky8h6aezvju5h",
+    "name": "The GD Studio"
+  },
+  "items": [
+    {
+      "id": "80b6fecd8e984213914a708628eee6e5",
+      "namespace": "36336ee97ec543bbae85abaca618182b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The GD Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "diabotical/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

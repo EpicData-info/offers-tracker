@@ -1,0 +1,67 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-11-05T19:39:00.000Z",
+  "creationDate": "2018-11-06T00:40:12.066Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-11-05T19:39:00.000Z",
+  "productSlug": "ark",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Editor",
+  "id": "48c7f0bf6258425192032e42bbf56ae5",
+  "namespace": "epic",
+  "description": "Flavored Editor for ARK Development",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Ark__White-581x484-a285208638c26d9673c11c8ed7eb4728.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/ark_box-860x500-c2151574eae04d57b4d6246fe9efbf0f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "StudioWildcard"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ark"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "6a0dadfed285488bafec6f01f30f67d0"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "6a0dadfed285488bafec6f01f30f67d0",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ark"
+      }
+    ]
+  }
+}

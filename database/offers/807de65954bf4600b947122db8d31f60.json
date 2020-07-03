@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:48:41.667Z",
+  "lastModifiedDate": "2020-05-11T15:23:46.786Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/europe",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Expansions 1912 DLC",
+  "id": "807de65954bf4600b947122db8d31f60",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "Expansions 1912",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_europe_Mobile-Vertical-510x680-510x680-dc1f71b361d3b25992e6ad45e178498e579d0c0d-510x680-82205f909a690a795a253bcd696a9966.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_europe_Mobile-Vertical-510x680-510x680-dc1f71b361d3b25992e6ad45e178498e579d0c0d-510x680-82205f909a690a795a253bcd696a9966.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_EUROPE_Desktop-horizontal-1360x766-adb1618b6cb1abee425ea0c9fd982dc4-1360x766-adb1618b6cb1abee425ea0c9fd982dc4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "929b3a73b3af4fb79fc572a41d799a8d",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/europe"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

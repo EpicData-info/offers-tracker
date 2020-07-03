@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-13T19:25:00.000Z",
+  "creationDate": "2020-03-24T19:32:57.872Z",
+  "lastModifiedDate": "2020-06-13T19:26:47.301Z",
+  "viewableDate": null,
+  "productSlug": "mortal-shell",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mortal Shell",
+  "id": "3a92c6731e954f9d8d4ad13686589a6a",
+  "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+  "description": "Mortal Shell",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S5-1920x1080-1fcd12cd44634371bbf1f1861bd9e13b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S5-1920x1080-1fcd12cd44634371bbf1f1861bd9e13b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+    "name": "Playstack Ltd"
+  },
+  "items": [
+    {
+      "id": "cbe934b0f4ec4374a1049ba11bb4f009",
+      "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Playstack Ltd"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609426800"
+    },
+    {
+      "key": "developerName",
+      "value": "Cold Symmetry"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mortal-shell"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-07T15:00:00.000Z",
+  "creationDate": "2019-06-08T18:41:43.836Z",
+  "lastModifiedDate": "2020-04-29T00:38:16.102Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Phlox Test Audience",
+  "id": "b251bb98a2f64e8ebb060fa013e026be",
+  "namespace": "phlox",
+  "description": "Phlox Test Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/phlox/offer/CodeRedemptionGriftlands-340x440-92c02eaa2f7b24281e1f26e349841b22.png"
+    }
+  ],
+  "seller": {
+    "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+    "name": "Klei Entertainment"
+  },
+  "items": [
+    {
+      "id": "c7aa70a73473478d92ecc0013a3d0488",
+      "namespace": "phlox",
+      "developer": null
+    },
+    {
+      "id": "5c8b48ee2da5421d9747f252c2ede877",
+      "namespace": "phlox",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

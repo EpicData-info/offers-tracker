@@ -1,0 +1,86 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-04T02:00:00.000Z",
+  "creationDate": "2019-05-09T02:07:04.933Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-breakpoint/year-one-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ghost Recon Breakpoint Season Pass",
+  "id": "9f83c025517f478985b651893e011697",
+  "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "description": "Ghost Recon Breakpoint Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/GRBP_Y1Pass_Capsule-712x400-b17ae426794801760863aa3b50c9da1b30e84654.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/Boxart_708x1000-708x1000-9db03951a684c27f59044e855024de81.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/Boxart_708x1000-708x1000-9db03951a684c27f59044e855024de81.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/Boxart_708x1000-708x1000-9db03951a684c27f59044e855024de81.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "42dcb732a90a4e1f99f3738904256e20",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    },
+    {
+      "id": "dbff1644d9ac4f12b4e75c1a912eda59",
+      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-breakpoint/year-one-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-14T12:00:00.000Z",
+  "creationDate": "2020-05-06T16:04:46.255Z",
+  "lastModifiedDate": "2020-05-14T17:32:34.714Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Living Weapons Pack",
+  "id": "2104668930294acd8b38f764ec7348a6",
+  "namespace": "iris",
+  "description": "Living Weapons Pack",
+  "longDescription": "$2.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_G1A_00-1920x1080-a220c553f1d3a3e171ac0652e57b17cb.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "713cc4c1788d44498685d1498c18d8b5",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "d5be47e39aee440aa212603c02de7e39",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

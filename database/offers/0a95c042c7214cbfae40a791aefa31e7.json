@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T16:00:00.000Z",
+  "creationDate": "2019-11-20T23:37:37.589Z",
+  "lastModifiedDate": "2020-05-12T15:51:32.424Z",
+  "viewableDate": null,
+  "productSlug": "bundles/far-cry-new-dawn-complete",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry New Dawn Complete",
+  "id": "0a95c042c7214cbfae40a791aefa31e7",
+  "namespace": "aa7b6599b4144f348d1ffec80615ac0d",
+  "description": "Far Cry New Dawn Complete",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aa7b6599b4144f348d1ffec80615ac0d/offer/COMPL_Image_Hero_Carrousel-3840x2160-fd516d46b9132e82454949a4785dd58b.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aa7b6599b4144f348d1ffec80615ac0d/offer/Diesel_productv2_far-cry-new-dawn_home_ESRB_M_FarCryNewDawn-398x190-79f345c0eba4686d82b345bf753cffde0c196726-398x190-4e4cdac11da9217dcbf10ee825435b37.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aa7b6599b4144f348d1ffec80615ac0d/offer/Diesel_productv2_far-cry-5_home_ESRB_M_FarCry5-398x190-8e977ba58e5ea46a28eb49d4d490f15f622f30d4-398x190-1a57f52425a8ecdb0a6f940ab25e5ef5.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aa7b6599b4144f348d1ffec80615ac0d/offer/COMPL_Image_Hero_Carrousel-3840x2160-fd516d46b9132e82454949a4785dd58b-3840x2160-fd516d46b9132e82454949a4785dd58b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "bb2072f2a4614a98b717b57ccad6ccfb",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "5de423d356784c29b719f855c9567fde",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "7a189738c32c4b6298c7dc3d009a363b",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "ee6aaa36869c40328eee99d595c1f56a",
+      "namespace": "cumin",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bundles/far-cry-new-dawn-complete"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

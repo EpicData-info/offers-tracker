@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-05-20T02:11:37.918Z",
+  "lastModifiedDate": "2020-06-13T19:07:36.675Z",
+  "viewableDate": "2020-06-09T15:00:00.000Z",
+  "productSlug": "unexplored-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Unexplored 2: The Wayfarer's Legacy",
+  "id": "8a3b749743254bc58cdb730a54e4cc5c",
+  "namespace": "d396856ef66f4572af55519a8d2b99ed",
+  "description": "Unexplored 2: The Wayfarer's Legacy",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uyde6gc5ds8hbkqq9d9tgnpmpx2y6q",
+    "name": "Big Sugar Games"
+  },
+  "items": [
+    {
+      "id": "117c3b51353440b7b35ba2c8ba9598d9",
+      "namespace": "d396856ef66f4572af55519a8d2b99ed",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Big Sugar"
+    },
+    {
+      "key": "developerName",
+      "value": "Ludomotion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "unexplored-2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

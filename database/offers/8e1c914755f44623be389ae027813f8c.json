@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-07-01T15:00:00.000Z",
+  "creationDate": "2019-07-22T21:46:42.940Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "alan-wake",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Alan Wake",
+  "id": "8e1c914755f44623be389ae027813f8c",
+  "namespace": "epic",
+  "description": "Alan Wake",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alan_Wake_logo-1800x1072-a351f555fdba8372de7b1ee5c6dc83a0.png"
+    }
+  ],
+  "seller": {
+    "id": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
+    "name": "Remedy Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "400"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "00b9ec358e1f46daa4f8e1194d5081d8"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "alan-wake"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "c9f0e06579234578aaaa0da9bf74c92e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "c9f0e06579234578aaaa0da9bf74c92e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Remedy Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "alan-wake"
+      }
+    ]
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-05T15:00:00.000Z",
+  "creationDate": "2019-08-14T15:39:15.944Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "readyset-heroes/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ReadySet Heroes",
+  "id": "8ac0c449dda64ac2b098a5d9c6397472",
+  "namespace": "epic",
+  "description": "ReadySet Heroes",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/RSH_16x9 Banner(1920x1080)-1920x1080-61ab230bd4db313fa56668a9da33195d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RSH_16x9 Banner(1920x1080)-1920x1080-61ab230bd4db313fa56668a9da33195d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RSH Master Image Thumbnail (1024x1024)-1024x1024-740e52b0bfde3215a614c027175dc9a9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10330"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "7f498fbf0a4e43239d58eee6615ae806"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "readyset-heroes/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "9a078d3bda8a490abbe4a2aa8e9c94ee"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "9a078d3bda8a490abbe4a2aa8e9c94ee",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Sony Interactive Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Robot Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "readyset-heroes"
+      }
+    ]
+  }
+}

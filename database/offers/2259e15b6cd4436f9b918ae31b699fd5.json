@@ -1,0 +1,61 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-11T10:51:00.000Z",
+  "creationDate": "2018-12-11T15:53:29.072Z",
+  "lastModifiedDate": "2020-05-27T21:34:14.269Z",
+  "viewableDate": null,
+  "productSlug": "hello-neighbor-hide-and-seek/demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hello Neighbor: Hide and Seek Demo",
+  "id": "2259e15b6cd4436f9b918ae31b699fd5",
+  "namespace": "morpho",
+  "description": "Hello Neighbor: Hide and Seek Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "37d70869dc18486698d121ae59ddb224",
+      "namespace": "morpho",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "isDemo",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "tinyBuild"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hello-neighbor-hide-and-seek/demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-09T14:07:34.888Z",
+  "lastModifiedDate": "2019-09-27T23:45:09.678Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "BluebirdDevAudience",
+  "id": "1d586d9632ea4c66a186775477e7cdeb",
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "description": "BluebirdDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+    "name": "Polytron Corporation, Inc"
+  },
+  "items": [
+    {
+      "id": "9e1ce73dbab34868925f23a3d1ae14af",
+      "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Polytron Corporation, Inc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

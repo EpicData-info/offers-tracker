@@ -1,0 +1,57 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2019-10-22T01:09:49.229Z",
+  "lastModifiedDate": "2020-07-02T14:27:03.471Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Big Top Breakout",
+  "id": "29230f9541fa4f509febc0d4a86266e5",
+  "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "description": "Big Top Breakout",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2BigTopBreakout_Team17DigitalLtd_DLC_S1-2560x1440-20ce620ba75e48716d57d52fa748187b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2BigTopBreakout_Team17DigitalLtd_DLC_S2-1200x1600-895d3a747b3574432a0b10af184f39fc.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2BigTopBreakout_Team17DigitalLtd_DLC_S2-1200x1600-895d3a747b3574432a0b10af184f39fc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "fa7463c069a74d07aadf315df9b4e28b",
+      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

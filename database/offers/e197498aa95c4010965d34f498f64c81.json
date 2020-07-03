@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-04T16:00:00.000Z",
+  "creationDate": "2020-04-24T15:11:05.966Z",
+  "lastModifiedDate": "2020-05-14T19:40:44.364Z",
+  "viewableDate": null,
+  "productSlug": "world-war-z",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "World War Z GOTY",
+  "id": "e197498aa95c4010965d34f498f64c81",
+  "namespace": "wombat",
+  "description": "Wombat GOTY",
+  "longDescription": "Wombat GOTY",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/wombat/item/Rating_WWZ-842x404-816f6c7f1140d5d08750de13e3d81d9c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_LibraryImage-2560x1440-53e1efdd69ca0ef55fac60fc2d2f8a5b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_LibraryImage-2560x1440-53e1efdd69ca0ef55fac60fc2d2f8a5b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_PortraitImage_860x1148-860x1148-6ad932230150a3580974ba0a719bcdaa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "509d62b93e69494b84c07ec7e0b7f6b4",
+      "namespace": "wombat",
+      "developer": null
+    },
+    {
+      "id": "d7933b221e924059a1a9454488848d15",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-war-z"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

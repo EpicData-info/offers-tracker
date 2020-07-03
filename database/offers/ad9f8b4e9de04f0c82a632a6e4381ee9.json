@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-02-14T16:37:00.000Z",
+  "creationDate": "2019-02-14T21:37:38.688Z",
+  "lastModifiedDate": "2020-05-13T19:25:57.110Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SileneDevAudience",
+  "id": "ad9f8b4e9de04f0c82a632a6e4381ee9",
+  "namespace": "silene",
+  "description": "SileneDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/offer/CloseToTheSun_Thumbnail-1280x1420-6aa1506ddc57f4bf22dcf13cc690bff6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
+    "name": "Wired Productions"
+  },
+  "items": [
+    {
+      "id": "3e370671b07f435b9d4e5a3fe74437c9",
+      "namespace": "silene",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

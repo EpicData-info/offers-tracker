@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-09T11:00:00.000Z",
+  "creationDate": "2020-02-17T21:06:28.215Z",
+  "lastModifiedDate": "2020-02-17T21:12:36.572Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC1 Hoopoe Offer",
+  "id": "824bccb1f4a94c06bd9f2c4aeefa592b",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "description": "DLC1 Hoopoe Offer",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/RP_FOR_E-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/item/S2-Store-Primary-Promo-1280x1440-9ed9999a41eda751681e392016d636ba.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+    "name": "Piranha Games"
+  },
+  "items": [
+    {
+      "id": "edc16574364542a7b3ee7012f4b595fb",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Piranha Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

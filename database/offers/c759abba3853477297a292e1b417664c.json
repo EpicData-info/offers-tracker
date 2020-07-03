@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-17T15:00:00.000Z",
+  "creationDate": "2019-06-14T22:12:09.976Z",
+  "lastModifiedDate": "2020-05-27T21:35:34.956Z",
+  "viewableDate": null,
+  "productSlug": "omen-of-sorrow/demo",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Omen of Sorrow Demo",
+  "id": "c759abba3853477297a292e1b417664c",
+  "namespace": "daffodil",
+  "description": "Omen of Sorrow Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_demo-860x1148-4a1f90c44dc87bab5470b7e7755ae3ce.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_demogame-2560x1440-3f7f13f0b7bcbf6e24d3005c87fdf0e4.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_demo-860x1148-4a1f90c44dc87bab5470b7e7755ae3ce.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_demo-860x1148-4a1f90c44dc87bab5470b7e7755ae3ce.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+    "name": "AOne Games"
+  },
+  "items": [
+    {
+      "id": "fc2ad28007624ba9ba1117fbd6cdea6f",
+      "namespace": "daffodil",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isDemo",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "AOne Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "omen-of-sorrow/demo"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

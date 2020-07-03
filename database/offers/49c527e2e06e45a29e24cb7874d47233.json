@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-10T15:00:00.000Z",
+  "creationDate": "2019-10-02T02:59:22.403Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "surviving-mars",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Mars - Space Race",
+  "id": "49c527e2e06e45a29e24cb7874d47233",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "description": "Surviving Mars - Space Race",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_SpaceRace-860x1148-b2239aac51c5e308abe4a262a80ee93f.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Landscape_Surviving_Mars_SpaceRace-2560x1440-6b85b3e60a050d466a7b0431aa43d457.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_SpaceRace-860x1148-b2239aac51c5e308abe4a262a80ee93f.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_SpaceRace-860x1148-b2239aac51c5e308abe4a262a80ee93f-860x1148-b2239aac51c5e308abe4a262a80ee93f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "e87d36bacb76464ea6482d5959bd44be",
+      "namespace": "d759128018124dcabb1fbee9bb28e178",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games AD"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-mars"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

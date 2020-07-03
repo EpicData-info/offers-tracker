@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T11:44:00.000Z",
+  "creationDate": "2019-03-15T15:44:42.983Z",
+  "lastModifiedDate": "2019-10-29T12:58:52.225Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "AdeniumDevAudience",
+  "id": "bb25a2946d31423185b39a53c09e5a26",
+  "namespace": "adenium",
+  "description": "AdeniumDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/adenium/offer/EGS_NightSchoolStudio_Afterparty_IC2_400x400-400x400-fba79aa463578d60e74badc171dc8157.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png"
+    }
+  ],
+  "seller": {
+    "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+    "name": "Night School Studio, LLC"
+  },
+  "items": [
+    {
+      "id": "27983cc4603f4b00beb72de9b48d73f7",
+      "namespace": "adenium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

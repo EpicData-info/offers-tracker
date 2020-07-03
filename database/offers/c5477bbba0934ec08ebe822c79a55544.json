@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-07T03:56:29.583Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "what-the-golf",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WHAT THE GOLF?",
+  "id": "c5477bbba0934ec08ebe822c79a55544",
+  "namespace": "epic",
+  "description": "WHAT THE GOLF?",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_IC1-200x116-adb92880827ff80031a3016b6f74505b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+    "name": "Triband"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10580"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "3ade24028e9247039924d3877af0a2ea"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "what-the-golf"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "c3291802fde5400aaaabda61acd2d2b4"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "c3291802fde5400aaaabda61acd2d2b4",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Triband"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "what-the-golf"
+      }
+    ]
+  }
+}

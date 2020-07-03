@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-05-11T23:27:04.825Z",
+  "lastModifiedDate": "2020-06-11T15:11:39.981Z",
+  "viewableDate": null,
+  "productSlug": "ark/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Season Pass",
+  "id": "54afda1bc17244deaff5a4f738becf72",
+  "namespace": "ark",
+  "description": "ARK Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-53d4fc0ddeed81d89a8bbe828adf89d6.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "cf2bc883b2884b6ba91cf8b2e40a3c7d",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

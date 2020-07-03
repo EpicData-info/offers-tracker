@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-01-23T07:07:21.130Z",
+  "lastModifiedDate": "2020-05-04T19:23:01.921Z",
+  "viewableDate": null,
+  "productSlug": "offworld-trading-company/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Offworld Trading Company",
+  "id": "4531b00fcf354680bf68d138b7155fda",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "description": "Offworld Trading Company",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S4-510x680-5c715e53a4447c2dc5429fc0c76d74f6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S3-1360x766-d93f4d942f88635933d16cfc7dab4983.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S4-510x680-5c715e53a4447c2dc5429fc0c76d74f6.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/Diesel_productv2_offworld-trading-company_home_EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-39bc30160411f389f1547f9a254b934bcfd901d4-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "items": [
+    {
+      "id": "b53a041ca67a4bf58827c3d503ed1a03",
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Stardock Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Mohawk Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-21T16:00:00.000Z",
+  "creationDate": "2019-11-25T22:50:55.258Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "superhot/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SUPERHOT",
+  "id": "42ccb715787e47f48648159060135ef1",
+  "namespace": "908bed122ba84c4a908ee1e14da401c3",
+  "description": "SUPERHOT",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOTTeam_SUPERHOT_S5-1280x956-43183fb55e0501de25c6da98f46b4730.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+    "name": "SUPERHOT Sp. z.o.o"
+  },
+  "items": [
+    {
+      "id": "7fa4765648cb468089b6b95f07d697a6",
+      "namespace": "908bed122ba84c4a908ee1e14da401c3",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "SUPERHOT Sp. z.o.o"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superhot/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

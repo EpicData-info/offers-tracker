@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-09T16:00:00.000Z",
+  "creationDate": "2019-08-16T20:01:58.015Z",
+  "lastModifiedDate": "2020-06-08T12:16:41.257Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "MechWarrior 5 Deluxe Pre-Purchase",
+  "id": "1b4f07d046a2482aa918a1716e993b32",
+  "namespace": "b9def67e597b4be7a16146146a044d02",
+  "description": "MechWarrior 5 Deluxe Pre-Purchase",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Deluxe_Edition_Icon-700x300-f432ea2283c4a7a172c698cc57c087a3.png"
+    }
+  ],
+  "seller": {
+    "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
+    "name": "Piranha Games"
+  },
+  "items": [
+    {
+      "id": "28c6cf3852ff4475953f2d6f92a13360",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    },
+    {
+      "id": "09aa2ee4d88f4fb3a7f0f785cb19467e",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    },
+    {
+      "id": "16d9d0fc7dd049859513ccd7e6f7c8a3",
+      "namespace": "b9def67e597b4be7a16146146a044d02",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Piranha Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

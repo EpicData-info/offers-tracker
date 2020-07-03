@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-07T16:00:00.000Z",
+  "creationDate": "2019-09-10T21:04:09.733Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "ruiner/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RUINER",
+  "id": "42d063eb91874990b29f5b9a3e083673",
+  "namespace": "74d82b28ab424956ac24407229fe6faa",
+  "description": "RUINER",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S1-2560x1440-f5548f0e232e2e27d0093f4aec67b8a2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_IC1-846x171-f4a25b2621539846ca33e9523975e6c5.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_IC2-128x128-65cbefd7152aef82a63bc3fb29d4b505.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/Ruiner-2560x1440-cc62846c55b23dd82990820f65b4bb4e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "db6bbf18eb334e6a8108c9a1ea8ad888",
+      "namespace": "74d82b28ab424956ac24407229fe6faa",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Reikon Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ruiner/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

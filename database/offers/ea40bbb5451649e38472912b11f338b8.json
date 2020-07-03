@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-11T00:00:00.000Z",
+  "creationDate": "2019-12-11T01:58:26.547Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "the-wolf-among-us/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Wolf Among Us",
+  "id": "ea40bbb5451649e38472912b11f338b8",
+  "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "description": "The Wolf Among Us",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+    "name": "Athlon Games"
+  },
+  "items": [
+    {
+      "id": "0e1b2200810e41a6aaa3aa09e40bfdba",
+      "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Athlon Games"
+    },
+    {
+      "key": "developerName",
+      "value": "LCG Entertainment, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-wolf-among-us/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-25T15:00:00.000Z",
+  "creationDate": "2020-01-24T17:50:05.336Z",
+  "lastModifiedDate": "2020-05-14T19:36:52.248Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-rogue/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Rogue",
+  "id": "fd2df056f60e4ca8a59ca5c5f0ff3395",
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "description": "Assassin's Creed Rogue",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa (1)-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "fd1e0684d785480ca1abf0702518dd6c",
+      "namespace": "34f7e1e275924bb6a90074920f9c1696",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-rogue/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

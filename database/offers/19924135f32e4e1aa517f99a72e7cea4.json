@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "creationDate": "2019-07-09T15:35:38.382Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "moonlighter/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Moonlighter",
+  "id": "19924135f32e4e1aa517f99a72e7cea4",
+  "namespace": "bec822fb982843c3be794d440728336b",
+  "description": "Moonlighter",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_S3-1280x1440-6b0e3a622433e936274fa8866063faa1.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Moonlighter_logo-2650x600-6aabb1cc5693789fcf9831eab5af3a3c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_S3-1280x1440-6b0e3a622433e936274fa8866063faa1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/CodeRedemption_Moonlighter-340x440-20881cbadfd2e9a4b556505bbd5544f2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/CodeRedemption_Moonlighter-340x440-20881cbadfd2e9a4b556505bbd5544f2.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "name": "11 Bit Studios"
+  },
+  "items": [
+    {
+      "id": "a947e4e361604dbe993781d28080ec12",
+      "namespace": "bec822fb982843c3be794d440728336b",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "11 Bit Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Digital Sun Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "moonlighter/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

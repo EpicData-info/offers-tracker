@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-06-29T16:24:16.749Z",
+  "lastModifiedDate": "2020-07-01T14:33:22.211Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "productSlug": "the-dungeon-of-naheulbeuk",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Dungeon of Naheulbeuk",
+  "id": "4d6f7c738cb6468d8fccce3de8d5d02e",
+  "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "description": "The Dungeon of Naheulbeuk",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "items": [
+    {
+      "id": "9ef12d1bf8ee4e9296476234a8049ddf",
+      "namespace": "456d95ca54814c8d98db2f52346ff5de",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Dear Villagers"
+    },
+    {
+      "key": "developerName",
+      "value": "Artefacts Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-dungeon-of-naheulbeuk"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-27T16:00:00.000Z",
+  "creationDate": "2020-02-10T04:37:52.893Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-syndicate/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassins Creed Syndicate Gold Edition",
+  "id": "55c9c7864480492fa21f3699b7aa2cf4",
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "description": "Assassins Creed Syndicate Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/GameName_Edition_Capsule_1920X1080-1920x1080-b09a607c7a73e17e96a76aebececebe65c3700e7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "df40b68948244e0493561f2a65956f50",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    },
+    {
+      "id": "b2ce5dd6399d472eb91a9b5631dca4ab",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    },
+    {
+      "id": "d000c585f57342148677def9cd754613",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-syndicate/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

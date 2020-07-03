@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2022-02-11T10:00:00.000Z",
+  "creationDate": "2019-01-28T15:43:48.719Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "spellbreak/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Spellbreak",
+  "id": "84dd14288c424b5aa251e7ca4dd68183",
+  "namespace": "epic",
+  "description": "Spellbreak",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ProletariatInc_Spellbreak_S3-1360x766-afa07da3663cba7e0269f44cb96be8bc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "4501"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "newt"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellbreak/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b8cb052c4a114063bb484a75c580cc83"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b8cb052c4a114063bb484a75c580cc83",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Proletariat Inc"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "spellbreak"
+      }
+    ]
+  }
+}

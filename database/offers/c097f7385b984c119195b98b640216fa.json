@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-17T16:00:00.000Z",
+  "creationDate": "2020-03-27T17:08:59.741Z",
+  "lastModifiedDate": "2020-05-20T15:33:27.149Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Standard Press",
+  "id": "c097f7385b984c119195b98b640216fa",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "Standard Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/item/ESRB_NoDescriptors_UsersInteract-842x485-c55c3b08996eb8487d4a6956c84d6d66.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "f8d56d33264f49168d4b8c11648a4dab",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "availableDate",
+      "value": "1588086000"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

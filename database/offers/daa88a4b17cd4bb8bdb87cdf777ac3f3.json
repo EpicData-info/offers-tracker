@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-01T00:00:00.000Z",
+  "creationDate": "2019-08-15T16:16:20.504Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "superliminal/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Superliminal",
+  "id": "daa88a4b17cd4bb8bdb87cdf777ac3f3",
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "description": "Superliminal",
+  "longDescription": "Switch to 19.99  -  11/18  ^^",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/CodeRedemption_Superliminal-330x440-9599d175535411b4ebc8d500c43fbd68.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_16x9-2560x1440-cf7294dde9e86056dca71687ef7e3938.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+    "name": "Pillow Castle"
+  },
+  "items": [
+    {
+      "id": "3948c3bd501c46639f695782aec95d4b",
+      "namespace": "6cec00f8934146508b884b0f139d55d0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Pillow Castle"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superliminal/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T00:00:00.000Z",
+  "creationDate": "2019-10-21T17:57:58.640Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-5/hours-of-darkness-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hours Of Darkness DLC",
+  "id": "94a4faacf2b9431c87d21b644971df3f",
+  "namespace": "coriander",
+  "description": "Hours Of Darkness DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/DLC1-1920x1080-4fd9a58e556df00d01c4e189eda661d4.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/coriander/offer/DLC-1-1920x1080-a5df23c6a573ffb20e3cb2c7730f6280fb46f1e8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "a706da0b2ed54c61a85e3b298600cc6c",
+      "namespace": "coriander",
+      "developer": null
+    },
+    {
+      "id": "a45edc6c61ec45918ac29a811e5fe39f",
+      "namespace": "coriander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-5/hours-of-darkness-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

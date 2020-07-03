@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-24T17:50:05.492Z",
+  "lastModifiedDate": "2020-03-25T14:53:54.280Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "WolffishDevAudience",
+  "id": "90cb00a563ea4c0c9fad024ab25d3159",
+  "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "description": "WolffishDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "d4e1d94e03684eeca2ffb01b3460f354",
+      "namespace": "34f7e1e275924bb6a90074920f9c1696",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

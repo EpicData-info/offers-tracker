@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-04-29T21:26:31.349Z",
+  "lastModifiedDate": "2020-06-11T14:19:06.678Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC CHARACTER \"IROHA\"",
+  "id": "48cc0b8ee6e64e34bab230fd545bf443",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "description": "DLC CHARACTER \"IROHA\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERIROHA_SNKCORPORATION_DLC_S1-2560x1440-f75cccacb3894ac69221d5b5c9b37607.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERIROHA_SNKCORPORATION_DLC_S2-1200x1600-0d14955c642d9aaae8ea02cc53cc67c3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERIROHA_SNKCORPORATION_DLC_S2-1200x1600-0d14955c642d9aaae8ea02cc53cc67c3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "items": [
+    {
+      "id": "32fb38c5c5f4412c9ee8cd434cffba88",
+      "namespace": "ace4435645d9489cacfbb422b7c1c817",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SNK"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-24T16:00:00.000Z",
+  "creationDate": "2019-01-24T17:17:44.945Z",
+  "lastModifiedDate": "2020-04-29T00:38:37.172Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "YarrowDevAudience",
+  "id": "4f545d15245a4e6ab1ec20f81c4255b3",
+  "namespace": "yarrow",
+  "description": "YarrowDevAudience",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/yarrow/offer/flowericon_epic-400x400-206c132e0be4922be1fd84fc5f7df12e.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/yarrow/offer/Flower_CodeRedemption-330x440-47276d6704e36aa485fdb283ca3e8148.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "8792456550834f019360170417ab252c",
+      "namespace": "yarrow",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

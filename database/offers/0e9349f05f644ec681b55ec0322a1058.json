@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-07T16:00:00.000Z",
+  "creationDate": "2019-10-21T19:39:24.950Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-new-dawn/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry New Dawn Deluxe Edition",
+  "id": "0e9349f05f644ec681b55ec0322a1058",
+  "namespace": "cumin",
+  "description": "Far Cry New Dawn Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cumin/offer/DLX_Image_Hero_Carrousel-1920x1080-0c155bddc1cdb3e0460ee05cb41ad5da.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cumin/offer/FCND-DLX_GameName_Edition_Capsule_1920X1080-1920x1080-0b7ac91eb957aa31a75b9fa3f6e49affc7f989c1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "bb2072f2a4614a98b717b57ccad6ccfb",
+      "namespace": "cumin",
+      "developer": null
+    },
+    {
+      "id": "5de423d356784c29b719f855c9567fde",
+      "namespace": "cumin",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-new-dawn/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

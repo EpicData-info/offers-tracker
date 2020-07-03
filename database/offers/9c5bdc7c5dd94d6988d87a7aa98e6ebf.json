@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-16T15:00:00.000Z",
+  "creationDate": "2019-08-14T18:20:24.621Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "celeste/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Celeste",
+  "id": "9c5bdc7c5dd94d6988d87a7aa98e6ebf",
+  "namespace": "epic",
+  "description": "Celeste",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/IC1-1920x1589-d649a2f29c7137d610c44e9ed5c4a766.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/BG-1438x810-daf63dc13a653496e81fa6868a06f1e9.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/BG-1438x810-daf63dc13a653496e81fa6868a06f1e9.png"
+    }
+  ],
+  "seller": {
+    "id": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+    "name": "Matt Makes Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "25"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "b671fbc7be424e888c9346a9a6d3d9db"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "celeste/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "544c18ccadf8466691d8f2a335721b14"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "544c18ccadf8466691d8f2a335721b14",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Matt Makes Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "celeste/home"
+      }
+    ]
+  }
+}

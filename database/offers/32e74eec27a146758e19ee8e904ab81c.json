@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T12:00:00.000Z",
+  "creationDate": "2019-03-19T02:21:03.629Z",
+  "lastModifiedDate": "2020-05-13T20:33:56.883Z",
+  "viewableDate": null,
+  "productSlug": "the-sinking-city/home#dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Investigator Pack DLC",
+  "id": "32e74eec27a146758e19ee8e904ab81c",
+  "namespace": "middlemist",
+  "description": "Investigator Pack DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/TSC_INVESTIGATOR-2560x1440-f9e627cee2faa824493ff1a928286393ed796392.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "3ce3782bfb70481aa4868d81b38c8e03",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-sinking-city/home#dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

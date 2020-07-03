@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-04T12:29:00.000Z",
+  "creationDate": "2020-04-09T14:55:47.301Z",
+  "lastModifiedDate": "2020-05-13T20:11:14.645Z",
+  "viewableDate": null,
+  "productSlug": "newtalphabattlemage-01",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Starter Pack 01",
+  "id": "05f02ddb88104bbdb1f6a6314864e267",
+  "namespace": "newt",
+  "description": "Starter Pack 01",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "df3a39e32fa4499bbe2dcd69d506f860",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "newtalphabattlemage-01"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-10T11:24:49.827Z",
+  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Beyond Two Souls Demo Regional SKU Test",
+  "id": "e9622abb6248493c82c2fcbf372d28e3",
+  "namespace": "lavender",
+  "description": "Beyond Two Souls Demo Regional SKU Test",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_PortraitPromo-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lavender/offer/B2S_LavenderDEMO-2560x1440-4b48da4ded604842192f173afadca6a0.png"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "4710a9e344cb43739ad0d6be1f7cb3b8",
+      "namespace": "lavender",
+      "developer": null
+    },
+    {
+      "id": "6d3ab56d84624cd0a6579c8a38f47d9c",
+      "namespace": "lavender",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-30T10:00:00.000Z",
+  "creationDate": "2019-08-21T22:15:01.542Z",
+  "lastModifiedDate": "2020-05-11T18:31:49.214Z",
+  "viewableDate": null,
+  "productSlug": "wrc-8",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WRC 8 Senior Staff Members Unlock",
+  "id": "ed466507a184494898aa2b0ecf3c81cc",
+  "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "description": "WRC 8 Senior Staff Members Unlock",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Senior_G1_PDPPromoImage-1920x1080-87f318fa464d48cfff9b249d8c5c08b23a2ce3e5.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "d3d9c868997a46a7991f315b46829d27",
+      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Kylotonn"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

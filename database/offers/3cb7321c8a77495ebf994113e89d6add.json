@@ -1,0 +1,75 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-01T08:49:00.000Z",
+  "creationDate": "2019-10-09T12:51:36.584Z",
+  "lastModifiedDate": "2020-05-29T13:00:00.251Z",
+  "viewableDate": null,
+  "productSlug": "spellbreak/master-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Spellbreak Beta Master",
+  "id": "3cb7321c8a77495ebf994113e89d6add",
+  "namespace": "newt",
+  "description": "Spellbreak Beta Master",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f-2560x1440-75987e837f994b0638bf99cd359e723f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "44518fc076f94491a31a28401738e946",
+      "namespace": "newt",
+      "developer": null
+    },
+    {
+      "id": "0cced867f6d24ddb87de4093fb16fafc",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "spellbreak/master-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

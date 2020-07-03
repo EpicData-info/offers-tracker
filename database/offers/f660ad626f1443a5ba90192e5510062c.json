@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-02T00:00:00.000Z",
+  "creationDate": "2019-06-19T18:45:16.977Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "tetris-effect/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tetris® Effect",
+  "id": "f660ad626f1443a5ba90192e5510062c",
+  "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "description": "Tetris® Effect",
+  "longDescription": "Update  offer August 6th at 9:00 AM ESD",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Portrait_4-3-400x530-6635ef29a551edd516217bb27edaa986.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Landscape_16-9-520x292-ebc059b30628d3e0891edba2b29a3730.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Landscape_offer_image_16x9-2560x1440-e35824f9338fff6e8d0fc4b43ff40622.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+    "name": "Enhance, Inc."
+  },
+  "items": [
+    {
+      "id": "c83ae4285d894e738f59e76d68252aa6",
+      "namespace": "76339caf9e8e4d24b62761c736e82b42",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Enhance, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Monstars Inc. and Resonair"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tetris-effect/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

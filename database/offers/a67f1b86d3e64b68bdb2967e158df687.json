@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "creationDate": "2020-02-17T21:49:37.225Z",
+  "lastModifiedDate": "2020-05-12T16:23:28.559Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Nightmare Pack",
+  "id": "a67f1b86d3e64b68bdb2967e158df687",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "description": "Nightmare Pack",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_860x1148-860x1148-d9e8970db67af593e2247b88d378ce25.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_NightmarePack_2560x1440-2560x1440-f0ed9757728e14ad7350d17ed7b5cc93.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "aa44284c70894c8bab1a4572cc2a536d",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

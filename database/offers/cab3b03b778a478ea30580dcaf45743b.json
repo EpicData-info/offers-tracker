@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-01T14:00:00.000Z",
+  "creationDate": "2020-01-22T20:36:42.898Z",
+  "lastModifiedDate": "2020-06-19T15:22:08.294Z",
+  "viewableDate": "2019-01-30T14:50:00.000Z",
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless - 500 Platinum",
+  "id": "cab3b03b778a478ea30580dcaf45743b",
+  "namespace": "jackal",
+  "description": "Dauntless - 500 Platinum",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Platinum500_LandscapeOffer-2560x1440-885f3d858feadd4971516de44cb10a5c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "81985bf0a9c34718a4cfc38cf687de98",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "PhoenixLabs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

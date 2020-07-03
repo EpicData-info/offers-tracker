@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-03T12:00:00.000Z",
+  "creationDate": "2019-04-17T18:10:29.349Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "ghostbusters-the-video-game-remastered/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ghostbusters: The Video Game Remastered",
+  "id": "387e3e9d6a1a4812bd2e54a04eac2db9",
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "description": "Ghostbusters: The Video Game Remastered",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GhostbustersRemastered_GamePagePromo-1920x1080-624f43daa90319793c7741e44e2f34b8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GhostbustersRemastered_PortraitPromo-1288x1450-aa3c6e69b8d6500702edc6d1bb07fa00.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saber_GhostbustersRemastered_IC1-1850x782-1ad7ba4f068ae191ee923147b38f9e69.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GhostbustersRemastered_PortraitPromo-1288x1450-aa3c6e69b8d6500702edc6d1bb07fa00.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/offer/Ghostbusters_Remastered_CodeRedemption-340x440-f16d8ec56e9e8806431c3d5e40e9e0c8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d0545b136bb042fb9014e72b6af748f6/offer/Ghostbusters_Remastered_CodeRedemption-340x440-f16d8ec56e9e8806431c3d5e40e9e0c8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GhostbustersRemastered_GamePagePromo-1920x1080-624f43daa90319793c7741e44e2f34b8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "6e76a63f586e4921bf2f45db52884303",
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghostbusters-the-video-game-remastered/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-08T20:00:00.000Z",
+  "creationDate": "2019-04-08T22:14:41.301Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "dangerous-driving/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dangerous Driving",
+  "id": "a31e529d4527419c98a0d36f6ca9ce1d",
+  "namespace": "pansy",
+  "description": "Dangerous Driving",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Dangerous_Driving_logo-960x546-35fbdeb9e5c058bf6b24edfcf8ebbe8e.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/pansy/offer/ThumbDangerousDriving-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+    "name": "Three Fields Entertainment"
+  },
+  "items": [
+    {
+      "id": "11b41a353513473da1aecbc62ea237ff",
+      "namespace": "pansy",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "availableDate",
+      "value": "1554865200"
+    },
+    {
+      "key": "developerName",
+      "value": "Three Fields Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dangerous-driving/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

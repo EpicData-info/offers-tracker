@@ -1,0 +1,83 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-29T04:00:00.000Z",
+  "creationDate": "2018-11-26T16:09:51.763Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-11-26T11:08:00.000Z",
+  "productSlug": "genesis-alpha-one",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Genesis Alpha One",
+  "id": "bec351206ba240a19773d4f9b707abd2",
+  "namespace": "epic",
+  "description": "Genesis Alpha One",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S7-1360x766-1a02acd24e5a53d0bd1c3b95fa733d6f8c4847ea-1360x766-444c641053f37b9e3aac1cbd6a93fdf3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_genesis-alpha-one_home_EGS_RadiationBlue_GenesisAlphaOne_S4-510x680-90391006fac41c8fba1d0fab7ad27ed5d619caee-510x680-070cfd3d72d0026e9ffff536f9d04b9d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1350"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "puma"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "genesis-alpha-one"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1f7e992461c044b9972d0c3fb6a9277a"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "1f7e992461c044b9972d0c3fb6a9277a",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Team17"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "genesis-alpha-one"
+      }
+    ]
+  }
+}

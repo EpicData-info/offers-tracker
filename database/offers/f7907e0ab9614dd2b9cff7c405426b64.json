@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-14T16:00:00.000Z",
+  "creationDate": "2019-01-21T18:51:56.310Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "metro-exodus/expansion-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Exodus Expansion Pass",
+  "id": "f7907e0ab9614dd2b9cff7c405426b64",
+  "namespace": "snapdragon",
+  "description": "Metro Exodus Expansion Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_ExpansionPass-3840x2160-723afb6397a0bb817b6409d8d1478cd2d4432478.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "8736e6c117844aa087c74ee118a10a64",
+      "namespace": "snapdragon",
+      "developer": null
+    },
+    {
+      "id": "72d82ab50a92464ab626da48ce47a530",
+      "namespace": "snapdragon",
+      "developer": null
+    },
+    {
+      "id": "054224b4ce2846ba847f9a3a329ae2f2",
+      "namespace": "snapdragon",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-exodus/expansion-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

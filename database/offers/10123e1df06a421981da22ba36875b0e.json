@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-05-13T08:00:00.000Z",
+  "creationDate": "2019-08-01T18:00:07.290Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kine PAX Pre-Purchase",
+  "id": "10123e1df06a421981da22ba36875b0e",
+  "namespace": "rose",
+  "description": "Kine PAX Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-na388hs5k2ak86akfejt2es246vaa2",
+    "name": "Gwen Frey"
+  },
+  "items": [
+    {
+      "id": "8d31d407a7c04225ae63acff98d7780a",
+      "namespace": "rose",
+      "developer": null
+    },
+    {
+      "id": "cf47032bf60b4ec893005ebcbaf34883",
+      "namespace": "rose",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Gwen Frey"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

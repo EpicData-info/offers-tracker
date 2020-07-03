@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-19T19:50:00.000Z",
+  "creationDate": "2019-03-13T23:52:15.720Z",
+  "lastModifiedDate": "2020-05-13T19:27:28.263Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "PansyPrePurchaseAudience_test",
+  "id": "db2b019667b14def875427613839c638",
+  "namespace": "pansy",
+  "description": "PansyPrePurchaseAudience_test",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
+    "name": "Three Fields Entertainment"
+  },
+  "items": [
+    {
+      "id": "11b41a353513473da1aecbc62ea237ff",
+      "namespace": "pansy",
+      "developer": null
+    },
+    {
+      "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
+      "namespace": "pansy",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

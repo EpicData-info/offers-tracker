@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-21T08:58:00.000Z",
+  "creationDate": "2019-10-21T13:00:33.872Z",
+  "lastModifiedDate": "2019-11-12T14:57:08.068Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Superliminal Press",
+  "id": "ea45243aaca347bc9c4acce9c15c041a",
+  "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "description": "Superliminal Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+    "name": "Pillow Castle"
+  },
+  "items": [
+    {
+      "id": "c187d3ac64e74632a67374310867cc0b",
+      "namespace": "6cec00f8934146508b884b0f139d55d0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Pillow Castle"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

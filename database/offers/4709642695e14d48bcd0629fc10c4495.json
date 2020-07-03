@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-04T22:04:58.142Z",
+  "lastModifiedDate": "2019-10-31T14:33:17.748Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "VioletearDevAudience",
+  "id": "4709642695e14d48bcd0629fc10c4495",
+  "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+  "description": "VioletearDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d1479d6f93fa4e6ca4415e83a7a5d703/offer/CodeRedemption_CostumeQuest-340x440-f8c0886973f6c859130444ce62abb49d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-5a763b52xcghd2yclvn8t5jdlfhlrv",
+    "name": "Double Fine"
+  },
+  "items": [
+    {
+      "id": "bf2af0aa003d46669fb9adcb3e08590e",
+      "namespace": "d1479d6f93fa4e6ca4415e83a7a5d703",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Double Fine"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

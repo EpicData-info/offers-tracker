@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-05-11T23:33:26.891Z",
+  "lastModifiedDate": "2020-06-11T15:11:12.627Z",
+  "viewableDate": null,
+  "productSlug": "ark/scorched-earth",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ARK Scorched Earth",
+  "id": "0f54c236e4e34ac282e5b65643759e6d",
+  "namespace": "ark",
+  "description": "ARK Scorched Earth",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKScorchedEarth_StudioWildcard_DLC_S1-2560x1440-7044aba826505468a03216eca3d74304.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKScorchedEarth_StudioWildcard_DLC_S2-1200x1600-23f851460c2b6e7b489544df7b9b8621.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKScorchedEarth_StudioWildcard_DLC_S2-1200x1600-23f851460c2b6e7b489544df7b9b8621.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKScorchedEarth_StudioWildcard_DLC_S2-1200x1600-23f851460c2b6e7b489544df7b9b8621.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "62685edaa485464a9eede264496435f7",
+      "namespace": "ark",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio Wildcard"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ark/scorched-earth"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

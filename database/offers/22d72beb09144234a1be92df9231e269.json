@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-03T18:00:00.000Z",
+  "creationDate": "2019-06-04T21:54:49.421Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "enter-the-gungeon/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Enter The Gungeon",
+  "id": "22d72beb09144234a1be92df9231e269",
+  "namespace": "epic",
+  "description": "Enter The Gungeon",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EnterTheGungeon_Logo-1031x353-0ed1eeeb17a943c1706d947b1f2864c6.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/freeTile_EnterTheGungeon-900x358-9aa657e8b7fa43efd297139fd82d935e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Gungeon_StorePromo-1440x811-fcf77719c27a5d7ace555e868ea35456.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5300"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "be13f6c4fb11427fbf3313ce93b97cc0"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "enter-the-gungeon/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e820a1ab24ca4bd2b725ba33194489d4"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e820a1ab24ca4bd2b725ba33194489d4",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "Dodge Roll"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "enter-the-gungeon/home"
+      }
+    ]
+  }
+}

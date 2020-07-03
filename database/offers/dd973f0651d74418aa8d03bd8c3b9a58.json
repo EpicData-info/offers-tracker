@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-08T16:32:00.000Z",
+  "creationDate": "2018-10-08T20:33:29.869Z",
+  "lastModifiedDate": "2020-04-29T00:46:50.763Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "WrenCodeRedemptionOnly",
+  "id": "dd973f0651d74418aa8d03bd8c3b9a58",
+  "namespace": "wren",
+  "description": "WrenCodeRedemptionOnly",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wren/offer/wren2-340x440-534c3285dd299120404da9e539f4037d.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-a1fbd8413573ff7712913594c67d80ba.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "f0cacc038f734388a2983c7b7100f0f3",
+      "namespace": "wren",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "A44"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

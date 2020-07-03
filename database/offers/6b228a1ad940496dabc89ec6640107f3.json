@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-23T16:00:00.000Z",
+  "creationDate": "2020-01-14T05:14:47.540Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-01-16T16:00:00.000Z",
+  "productSlug": "the-bridge/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Bridge",
+  "id": "6b228a1ad940496dabc89ec6640107f3",
+  "namespace": "epic",
+  "description": "The Bridge",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
+    "name": "The Quantum Astrophysicists Guild"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "d5ee752640ef4cee8b7f5364410ba41f"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-bridge/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "674967c55648467ba8e9d163a27170db"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "674967c55648467ba8e9d163a27170db",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "The Quantum Astrophysicists Guild"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-bridge/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "creationDate": "2019-07-15T23:25:24.417Z",
+  "lastModifiedDate": "2020-05-12T19:00:24.636Z",
+  "viewableDate": null,
+  "productSlug": "this-war-of-mine/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Stories - Season Pass",
+  "id": "3fc5e1b7ecc94fecb3a1c0f3c6ca3243",
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "description": "Stories - Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_N3-2560x1440-651da54496761f1bddf12bfaf7b42a38fbf2029d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "name": "11 Bit Studios"
+  },
+  "items": [
+    {
+      "id": "2470356bea7b44478440fc976e114146",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    },
+    {
+      "id": "851440d850694cd2a67ff66f1ca7d1c3",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    },
+    {
+      "id": "6e2b7797a74e4a0c95fddb4dd11e650a",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    },
+    {
+      "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "11 Bit Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "this-war-of-mine/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

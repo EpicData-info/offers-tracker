@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "creationDate": "2020-04-29T21:32:18.258Z",
+  "lastModifiedDate": "2020-06-11T14:19:06.593Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SEASON PASS 1",
+  "id": "06f88b551ef94400acc80a3f76fcbdee",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "description": "SEASON PASS 1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS1_SNKCORPORATION_SeasonPass_S1-2560x1440-7bc9331c3c64b410ebbbb92b21c21719.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "items": [
+    {
+      "id": "63634fbbcbc1413db5fa17119310f945",
+      "namespace": "ace4435645d9489cacfbb422b7c1c817",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SNK"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

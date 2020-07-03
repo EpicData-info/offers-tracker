@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-30T15:11:22.781Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-3",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed III Remastered",
+  "id": "04ade1b81a304b2d9505897351d46898",
+  "namespace": "epic",
+  "description": "Assassin's Creed III Remastered",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Helix_AC3r_Logo_Vertical_White_NoCrest-2500x781-118d92fac38c11d52d6fb1cf159022d6.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10700"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "anise"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "643cba48d39d40a482df653517df0f26"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "643cba48d39d40a482df653517df0f26",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "assassins-creed-3"
+      }
+    ]
+  }
+}

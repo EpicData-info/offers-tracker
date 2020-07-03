@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-10T16:00:00.000Z",
+  "creationDate": "2018-12-02T20:59:59.409Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": "2018-12-02T16:10:00.000Z",
+  "productSlug": "what-remains-of-edith-finch/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "What Remains of Edith Finch",
+  "id": "b1f4888a7c9b4449b6bfbace4de24a9c",
+  "namespace": "badger",
+  "description": "What Remains of Edith Finch",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/badger/offer/Epic_EdithFinch_PrimaryPromo (3)-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/badger/offer/coderedemption-340x440-e1b92c827effb128fa66c0c39e65893d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badger/offer/ThumbWhatRemainsEdith-340x440-e1b92c827effb128fa66c0c39e65893d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "25ed76af7816430cbfc0f5e6d3195d56",
+      "namespace": "badger",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giant Sparrow"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "what-remains-of-edith-finch/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

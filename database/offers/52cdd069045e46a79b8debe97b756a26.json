@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-07T16:00:00.000Z",
+  "creationDate": "2019-01-16T14:10:26.156Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "jackbox-party-pack-5",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack 5",
+  "id": "52cdd069045e46a79b8debe97b756a26",
+  "namespace": "geranium",
+  "description": "Jackbox Party Pack 5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero-2580x1450-a31ed86be178b54ce04567b1baa6184f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero_Portrait-1280x1420-4743b0b7c13a617cd491dde051168f99.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/JackboxPartyPack5_Logo-3370x1920-874b9870dc23d4d3264278edd1943e1a.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero_Portrait-1280x1420-4743b0b7c13a617cd491dde051168f99.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/geranium/offer/JPP5_CodeRedemption-330x440-31fd6d61ff388d95adfce9855ce9dc74.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/geranium/offer/JPP5_CodeRedemption-330x440-31fd6d61ff388d95adfce9855ce9dc74.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack5_Hero-2580x1450-a31ed86be178b54ce04567b1baa6184f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "e4a17a3d48ae4748bbfef2eb5a0a7c09",
+      "namespace": "geranium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Jackbox Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

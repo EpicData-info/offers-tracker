@@ -1,0 +1,95 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-08T16:00:00.000Z",
+  "creationDate": "2019-01-02T17:10:23.023Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2019-01-02T11:30:00.000Z",
+  "productSlug": "what-remains-of-edith-finch/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "What Remains of Edith Finch",
+  "id": "864a0f5716984379a1714cce3769e212",
+  "namespace": "epic",
+  "description": "What Remains of Edith Finch",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/F-1-744x300-70324eaac7a755052468b7332aae8b99.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "93"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "badger"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b1f4888a7c9b4449b6bfbace4de24a9c"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "what-remains-of-edith-finch/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b1f4888a7c9b4449b6bfbace4de24a9c",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Giant Sparrow"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "what-remains-of-edith-finch/home"
+      }
+    ]
+  }
+}

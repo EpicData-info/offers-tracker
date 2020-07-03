@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-15T16:13:00.000Z",
+  "creationDate": "2019-01-15T21:15:18.162Z",
+  "lastModifiedDate": "2020-04-29T00:38:45.861Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Genesis Alpha One: Pre-purchase Only",
+  "id": "d61167b196e449aa90731ad8d95e56f2",
+  "namespace": "puma",
+  "description": "Genesis Alpha One: Pre-purchase Only",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "43ed28e577ab4c2a8cea27d6b44bba18",
+      "namespace": "puma",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

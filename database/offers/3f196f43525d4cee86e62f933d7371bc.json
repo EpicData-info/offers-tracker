@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-04T16:00:00.000Z",
+  "creationDate": "2020-04-24T15:20:10.769Z",
+  "lastModifiedDate": "2020-06-18T11:55:05.685Z",
+  "viewableDate": null,
+  "productSlug": "world-war-z/goty-edition-upgrade",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "World War Z GOTY DLC  Upgrade",
+  "id": "3f196f43525d4cee86e62f933d7371bc",
+  "namespace": "wombat",
+  "description": "World War Z GOTY DLC  Upgrade",
+  "longDescription": "WombatDLC  Upgrade Audience",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_Desktop-Horizontal-1360x766-updatev1-1360x766-3addca3f7160d1cc98bcd9abe2221e6d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ-GOTY-Edition_EpicGames_Desktop-Vertical-510x680-updatev1-510x680-ff7696791c5ccdb6edd09d78159289c2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "d7933b221e924059a1a9454488848d15",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-war-z/goty-edition-upgrade"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

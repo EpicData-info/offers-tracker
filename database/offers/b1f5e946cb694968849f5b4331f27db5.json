@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-20T13:00:00.000Z",
+  "creationDate": "2019-01-29T17:59:58.345Z",
+  "lastModifiedDate": "2020-06-18T13:39:53.958Z",
+  "viewableDate": null,
+  "productSlug": "heavy-rain/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Heavy Rain",
+  "id": "b1f5e946cb694968849f5b4331f27db5",
+  "namespace": "aster",
+  "description": "Heavy Rain",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6",
+      "namespace": "aster",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Quantic Dream"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heavy-rain/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

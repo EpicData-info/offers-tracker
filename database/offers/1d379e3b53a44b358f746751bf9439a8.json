@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T16:00:00.000Z",
+  "creationDate": "2020-01-24T20:02:04.875Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "anno-2205/ultimate-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 2205 Ultimate Edition",
+  "id": "1d379e3b53a44b358f746751bf9439a8",
+  "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "description": "Anno 2205 Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_ULT_Store_Landscape_2560x1440-2560x1440-4793982b49c00858cdae8ed1fe9f4d91.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_ULT_Edition_Capsule_1920X1080-1920x1080-0759a116c95e9072ad2ee1a442aa22650196ea7d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d3c389f2761c43838ad9baadba384b64",
+      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+      "developer": null
+    },
+    {
+      "id": "b8e330a69f9141d0b92643ec13a5ea1d",
+      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+      "developer": null
+    },
+    {
+      "id": "0457c2226e15457fb3446364503087ca",
+      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-2205/ultimate-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

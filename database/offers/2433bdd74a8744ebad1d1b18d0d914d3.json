@@ -1,0 +1,47 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2014-09-23T00:00:00.000Z",
+  "creationDate": "2014-10-20T07:44:26.259Z",
+  "lastModifiedDate": "2020-05-09T14:54:49.580Z",
+  "viewableDate": "2014-06-11T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 3,
+  "title": "elastic3 search testing",
+  "id": "2433bdd74a8744ebad1d1b18d0d914d3",
+  "namespace": "SeaQA",
+  "description": "item description",
+  "longDescription": "long item description",
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "6e8f90d95fcf4f229bb4650af562e7b1",
+      "namespace": "SeaQA",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "abc",
+      "value": "true"
+    },
+    {
+      "key": "RequirementsJson",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

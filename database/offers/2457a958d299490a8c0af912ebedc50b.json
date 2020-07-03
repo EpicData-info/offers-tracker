@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2021-04-01T08:04:00.000Z",
+  "creationDate": "2019-04-25T12:06:32.747Z",
+  "lastModifiedDate": "2020-04-29T00:46:46.197Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outer Wilds Review",
+  "id": "2457a958d299490a8c0af912ebedc50b",
+  "namespace": "starfish",
+  "description": "Outer Wilds Review",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/starfish/offer/Primary Promo-2580x1456-2580x1456-11a50f58637e268fb5fdab891bad9bc1.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/starfish/offer/OW_Logo_MainOrange-1501x700-bf592e4fe986130cee68604ec4059e03.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "a548486fcb30415195d0770fe1107d57",
+      "namespace": "starfish",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Mobius Digital"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

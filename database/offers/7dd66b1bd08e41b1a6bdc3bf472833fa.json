@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "creationDate": "2019-07-31T20:27:32.481Z",
+  "lastModifiedDate": "2020-04-27T05:46:24.604Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-definitive-series/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: The Telltale Definitive Series",
+  "id": "7dd66b1bd08e41b1a6bdc3bf472833fa",
+  "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+  "description": "TWD: The Telltale Definitive Series",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_home-1280x1440-5587580e0632a53f9e9b8b88cdf78d23.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_promo-1920x1080-3e3a455fb5a22a0456cc058cc4db6a48.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TTTWD-DS-LOGO-WHITE-360x237-c64d8e270dce97925a9e808ead4298cb.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_home-1280x1440-5587580e0632a53f9e9b8b88cdf78d23.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/offer/CodeRedemptionWalkingDeadDef-340x440-959ca5a338662797f5823a21c394b68e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b534830f4c524447bfd2266ce70cf8ab/offer/CodeRedemptionWalkingDeadDef-340x440-959ca5a338662797f5823a21c394b68e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_promo-1920x1080-3e3a455fb5a22a0456cc058cc4db6a48.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "c8f1a3b70a564dcf873ac9376e4279d2",
+      "namespace": "b534830f4c524447bfd2266ce70cf8ab",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Skybound Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-definitive-series/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

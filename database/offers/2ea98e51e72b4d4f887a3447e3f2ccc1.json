@@ -1,0 +1,116 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-19T16:00:00.000Z",
+  "creationDate": "2020-05-12T19:19:42.145Z",
+  "lastModifiedDate": "2020-05-21T04:21:33.543Z",
+  "viewableDate": "2020-05-19T16:00:00.000Z",
+  "productSlug": "mafia-trilogy",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mafia: Trilogy",
+  "id": "2ea98e51e72b4d4f887a3447e3f2ccc1",
+  "namespace": "fb06f4b5bc25417cbe7c6217cf069649",
+  "description": "Mafia: Trilogy",
+  "longDescription": "Mafia: Trilogy",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_G1A_00-1920x1080-db0edab12ad4f1ece59b4bef34514733.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_G1A_00-1920x1080-db0edab12ad4f1ece59b4bef34514733.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/EGS_MafiaTrilogy_Hangar13_S2-1200x1600-0fb438a12c5f50ade1d4dc2b1159b7a2.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/fb06f4b5bc25417cbe7c6217cf069649/offer/ESRB_2013_RP_to_Mature-1085x722-0cad007967bccb7bdd3d63f013af76a5.png"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "aeafb4b3b0944f41ad9ccbc2ed9244f4",
+      "namespace": "ee8802651a004c48999169fa32eb4903",
+      "developer": null
+    },
+    {
+      "id": "8e7aa7e207de4dbfa2b5ad83abdc4c04",
+      "namespace": "8ad9396e01f046aaa784a33f7e60dfbe",
+      "developer": null
+    },
+    {
+      "id": "dfd4cf23e21f46b080b5345bf07df306",
+      "namespace": "fb06f4b5bc25417cbe7c6217cf069649",
+      "developer": null
+    },
+    {
+      "id": "6fb042f56b8749b8897312ddd1e9ed9e",
+      "namespace": "107bd7324f39429ca4e7e9e44765d8cf",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Hangar 13"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mafia-trilogy"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

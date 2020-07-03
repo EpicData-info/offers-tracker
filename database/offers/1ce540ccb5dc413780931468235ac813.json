@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-15T16:00:00.000Z",
+  "creationDate": "2019-03-15T21:34:02.010Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2019-05-11T19:11:00.000Z",
+  "productSlug": "ghost-recon-wildlands/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon Wildlands",
+  "id": "1ce540ccb5dc413780931468235ac813",
+  "namespace": "epic",
+  "description": "Tom Clancy's Ghost Recon Wildlands",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_PortraitPromo-974x1080-a1bf09c22e6c1fbdf69b52bc3e4d05a7.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_Logo_White-1920x454-dcd100a1f4d6cb74421b8f703ccbfa3e.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/GhostReconWildlands_wide-960x540-04f590a8bf366379f6ae141162991631.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "7430"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "hyacinth"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "18d7e12536c246b9a5dabb87efc7b700"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "18d7e12536c246b9a5dabb87efc7b700",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ghost-recon-wildlands"
+      }
+    ]
+  }
+}

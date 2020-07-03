@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-03T18:28:26.931Z",
+  "lastModifiedDate": "2020-04-02T01:41:11.251Z",
+  "viewableDate": null,
+  "productSlug": "castlestorm2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "CastleStorm 2",
+  "id": "eb79d4c6811f43b9800c6ad7d8e8c40b",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "description": "CastleStorm 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/CastleStorm2_GameLogo-1850x706-0c4673550637f453f2ca3d2f854371f9.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "9f132621250b4718a3adbb81ea8b478a",
+      "namespace": "ed355406eacb4633a648f682ddb492b8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "castlestorm2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-30T15:00:00.000Z",
+  "creationDate": "2020-03-30T18:54:23.592Z",
+  "lastModifiedDate": "2020-05-11T16:52:23.227Z",
+  "viewableDate": null,
+  "productSlug": "totally-accurate-battle-simulator/bug-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "BUG DLC",
+  "id": "e944a7054ab74fdba3fbcc9f5704994c",
+  "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "description": "BUG DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
+    "name": "Landfall Games"
+  },
+  "items": [
+    {
+      "id": "2681bacf4e394c71a570980360ffb5e6",
+      "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Landfall games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "totally-accurate-battle-simulator/bug-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

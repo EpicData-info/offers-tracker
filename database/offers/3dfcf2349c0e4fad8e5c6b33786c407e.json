@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-12T17:00:00.000Z",
+  "creationDate": "2020-05-05T02:37:44.854Z",
+  "lastModifiedDate": "2020-05-12T17:56:35.717Z",
+  "viewableDate": null,
+  "productSlug": "huntdown",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Huntdown",
+  "id": "3dfcf2349c0e4fad8e5c6b33786c407e",
+  "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
+  "description": "Huntdown",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/offer/EGS_Huntdown_EasyTriggerGames_S1-2560x1440-696d4718789f2c6814ba78cb53fa1e95.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/offer/EGS_Huntdown_EasyTriggerGames_S2-860x1148-adbb33eba266dc67050f315162acd273.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/offer/EGS_Huntdown_EasyTriggerGames_S2-860x1148-adbb33eba266dc67050f315162acd273.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/offer/EGS_Huntdown_EasyTriggerGames_S1-2560x1440-696d4718789f2c6814ba78cb53fa1e95.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/78de1f402ddf486ebcbf9ba3009d6198/offer/EGS_Huntdown_EasyTriggerGames_S2-860x1148-adbb33eba266dc67050f315162acd273.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Studios"
+  },
+  "items": [
+    {
+      "id": "b81033e90d514f42b9e15b57ab91f6f8",
+      "namespace": "78de1f402ddf486ebcbf9ba3009d6198",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Coffee Stain Publishing"
+    },
+    {
+      "key": "developerName",
+      "value": "Easy Trigger Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "huntdown"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

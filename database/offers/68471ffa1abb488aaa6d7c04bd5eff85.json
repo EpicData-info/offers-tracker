@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-07T10:00:00.000Z",
+  "creationDate": "2019-06-03T13:46:21.933Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "omen-of-sorrow/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Omen of Sorrow",
+  "id": "68471ffa1abb488aaa6d7c04bd5eff85",
+  "namespace": "epic",
+  "description": "Omen of Sorrow",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+    "name": "AOne Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10100"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "daffodil"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "omen-of-sorrow/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "31c654e6b48a4d7288371cbaea5d7f61"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "31c654e6b48a4d7288371cbaea5d7f61",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "AOne Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "omen-of-sorrow"
+      }
+    ]
+  }
+}

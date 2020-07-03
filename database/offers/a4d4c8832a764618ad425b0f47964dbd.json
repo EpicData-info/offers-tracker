@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-02-24T21:31:10.568Z",
+  "lastModifiedDate": "2020-04-02T03:01:42.501Z",
+  "viewableDate": null,
+  "productSlug": "offworld-trading-company/the-europa-wager",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Offworld Trading Company: The Europa Wager",
+  "id": "a4d4c8832a764618ad425b0f47964dbd",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "description": "Offworld Trading Company: The Europa Wager",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheEuropaWager_MohawkGames_Expansion_IC1_A-320x180-812f0f9ba81cd2f7edc6183e9dd01504.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheEuropaWager_MohawkGames_Expansion_IC1_A-320x180-812f0f9ba81cd2f7edc6183e9dd01504.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "items": [
+    {
+      "id": "910c36fa625f46ba89fd361319972a28",
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/the-europa-wager"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

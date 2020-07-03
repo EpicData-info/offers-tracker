@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-30T01:00:10.518Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "nuclear-throne/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Nuclear Throne",
+  "id": "c46e7726fb6b465f8b1a749618edee64",
+  "namespace": "epic",
+  "description": "Nuclear Throne",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
+    "name": "Vlambeer"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10540"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "742f165671424189aecdfdadf5ea9755"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "nuclear-throne/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a123324c4f464e06bfda6dee473a9776"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a123324c4f464e06bfda6dee473a9776",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Vlambeer"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "nuclear-throne/home"
+      }
+    ]
+  }
+}

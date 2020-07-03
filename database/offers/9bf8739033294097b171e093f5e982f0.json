@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-10T10:00:00.000Z",
+  "creationDate": "2020-01-14T18:27:31.178Z",
+  "lastModifiedDate": "2020-05-13T20:14:18.270Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Zombie Army 4 Super Deluxe Edition Dev",
+  "id": "9bf8739033294097b171e093f5e982f0",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "description": "Zombie Army 4 Super Deluxe Edition Dev",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ZASuperDeluxe-340x440-bef0a1d2e33fec31bd654334ce16227b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_ZASuperDeluxe-340x440-bef0a1d2e33fec31bd654334ce16227b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "items": [
+    {
+      "id": "d6b2fd4dcdd449a993b473e7cf5eba1e",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "a537439bb3694303a40fb87f56a38d73",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "24d4a16cb3a94723904f816f79c0e1f0",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "1fd1b1245e3d49bab04a535e6c46cb49",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "2819da8eb4504075bcb6e017f647aabf",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "dfd0f652cbd34772ad3f938e89a45e02",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "151c63cb1b7c468ba25543cde55b5e9b",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "7e4428ebcbd048efbdb75f2cac7f2aed",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    },
+    {
+      "id": "79d206ed52224466ade4ca3289f86326",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-17T17:26:34.728Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "steep/x-games-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Steep XGames Season Pass",
+  "id": "cbab79cb3c774ad3bea17c5cb8d7b493",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "description": "Steep XGames Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_XGAMES_PASS-1920x1080-5c82189e4024c85680d744f5a12ada60.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_XGAMES_PASS-1920x1080-08e345e0ce775738a9a7e761ca624c03b36c570e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "aa063f2a5a594f05b76a95e3bd939f2f",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    },
+    {
+      "id": "fc901659657e41718c5448ada3781d39",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "steep/x-games-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-07T15:00:00.000Z",
+  "creationDate": "2020-04-12T19:35:15.924Z",
+  "lastModifiedDate": "2020-05-14T15:33:52.098Z",
+  "viewableDate": "2020-04-30T15:00:00.000Z",
+  "productSlug": "death-coming/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Death Coming",
+  "id": "1516933c27344f478d04efa7ccaa623e",
+  "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "description": "Death Coming",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
+    "name": "Tencent Technology Company Limited"
+  },
+  "items": [
+    {
+      "id": "0b1c8fccc0e248e29e363982a143c8d0",
+      "namespace": "58c35a214bbb4656a536126ad1552d42",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "NExT Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "death-coming/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

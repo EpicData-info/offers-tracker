@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-11T12:00:00.000Z",
+  "creationDate": "2019-03-18T16:22:05.168Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "kine/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Kine",
+  "id": "dce338d41ea84680a81ad383a1f7f401",
+  "namespace": "rose",
+  "description": "Kine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rose/offer/Kine_branded_16x9-2560x1440-0d9b3a600780d040b3388e7c1c581c4a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-na388hs5k2ak86akfejt2es246vaa2",
+    "name": "Gwen Frey"
+  },
+  "items": [
+    {
+      "id": "cf47032bf60b4ec893005ebcbaf34883",
+      "namespace": "rose",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Gwen Frey"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kine/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-04-01T00:00:00.000Z",
+  "creationDate": "2019-03-18T04:50:42.765Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.816Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Sinking City Test Audience",
+  "id": "cf18828dce814a09a022bcbad483af09",
+  "namespace": "middlemist",
+  "description": "The Sinking City Test Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "63774f386e7c423fb0834e40cde3ddeb",
+      "namespace": "middlemist",
+      "developer": null
+    },
+    {
+      "id": "ff661588c8f540dbbfafc57e2ef5b884",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

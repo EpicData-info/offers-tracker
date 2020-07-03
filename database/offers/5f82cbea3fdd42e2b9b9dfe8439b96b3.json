@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-01T15:00:00.000Z",
+  "creationDate": "2019-02-14T19:45:23.511Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.490Z",
+  "viewableDate": null,
+  "productSlug": "world-of-goo/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "World of Goo",
+  "id": "5f82cbea3fdd42e2b9b9dfe8439b96b3",
+  "namespace": "anemone",
+  "description": "World of Goo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/World-of-Goo-Logo-1600x898-cab258f507e04682e45e5dafbcf47f23.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d (1)-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
+    "name": "2D Boy"
+  },
+  "items": [
+    {
+      "id": "0a79aa46e68644a0b57eb0f061121ded",
+      "namespace": "anemone",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "2D Boy"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-of-goo/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

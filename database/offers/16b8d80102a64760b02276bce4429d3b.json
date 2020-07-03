@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-01T00:00:00.000Z",
+  "creationDate": "2019-06-14T18:13:11.353Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "yaga/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yaga",
+  "id": "16b8d80102a64760b02276bce4429d3b",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "Yaga",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_Primary-2560x1440-bf9599c91ef87274fc002f48af90e831.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_MainGame_EpicGamesStore_S1_Store_Primary-2560x1440-b4b65ed4de8e386c9594c0f1deb9735446f9faec.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "1fe4071bc2ae4a2fa957af651d77720d",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yaga/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

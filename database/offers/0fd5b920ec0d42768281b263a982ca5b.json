@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-07-25T17:15:02.696Z",
+  "lastModifiedDate": "2019-12-19T15:57:54.650Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "PeacockDevAudience",
+  "id": "0fd5b920ec0d42768281b263a982ca5b",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "description": "PeacockDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/CodeRedemption_ReadySet_Heroes-340x440-9d63a0a961bbff4cf9003a39b001c18e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "2b71294c3f1644f2b747a257f492160e",
+      "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Robot Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

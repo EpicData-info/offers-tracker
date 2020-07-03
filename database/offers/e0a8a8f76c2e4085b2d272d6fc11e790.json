@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-30T09:00:00.000Z",
+  "creationDate": "2020-06-09T01:05:25.093Z",
+  "lastModifiedDate": "2020-06-30T15:00:32.145Z",
+  "viewableDate": null,
+  "productSlug": "predator-hunting-grounds/samurai-predator-dlc-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Samurai Predator DLC Pack",
+  "id": "e0a8a8f76c2e4085b2d272d6fc11e790",
+  "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "description": "Samurai Predator DLC Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_2560x1440-2560x1440-5ba59d9689195271ff7fa07b606870fa.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_860x1148-860x1148-b3e884d012ffbdf20bc538f649a0ed50.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_860x1148-860x1148-b3e884d012ffbdf20bc538f649a0ed50.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_860x1148-860x1148-b3e884d012ffbdf20bc538f649a0ed50.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_860x1148-860x1148-b3e884d012ffbdf20bc538f649a0ed50.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG-DLC2_2560x1440-2560x1440-5ba59d9689195271ff7fa07b606870fa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "37679c2fc06542d7bdf12f71a26e5876",
+      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "IllFonic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "predator-hunting-grounds/samurai-predator-dlc-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

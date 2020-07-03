@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-15T12:00:00.000Z",
+  "creationDate": "2019-03-15T15:56:13.594Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "afterparty/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Afterparty",
+  "id": "2fac548ec91647e5a77b8a922bda68c7",
+  "namespace": "epic",
+  "description": "Afterparty",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PrimaryPromoImage-2580x1450-e84241696244d079283f8d2be30a254f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+    "name": "Night School Studio, LLC"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10540"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "adenium"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "afterparty/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "0a7cd03813b247fcbcb4329b8f56e8ea"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "0a7cd03813b247fcbcb4329b8f56e8ea",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Night School Studio"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "afterparty/home"
+      }
+    ]
+  }
+}

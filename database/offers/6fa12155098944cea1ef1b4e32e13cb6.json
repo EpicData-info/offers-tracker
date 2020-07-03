@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-12T12:42:00.000Z",
+  "creationDate": "2019-10-14T16:43:55.179Z",
+  "lastModifiedDate": "2020-05-13T20:01:31.274Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Spellbreak Beta",
+  "id": "6fa12155098944cea1ef1b4e32e13cb6",
+  "namespace": "newt",
+  "description": "Spellbreak Beta",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "0cced867f6d24ddb87de4093fb16fafc",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat Inc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

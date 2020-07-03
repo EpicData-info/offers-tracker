@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "creationDate": "2019-04-02T21:41:04.634Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "trials-rising",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trials Rising",
+  "id": "cb362a4d9a2d42dda1005021522ca733",
+  "namespace": "argyle",
+  "description": "Trials Rising Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TRR_UCS12460_EGST_Logo_Color_1000x375-1000x375-f67e3c301ded8255fb838257b24daf28.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TRR_Standard_Edition_Capsule_355x150-355x150-5823504fb35a2fae186c410e4d4943cc.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/argyle/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "6e6d35f7a5344277b79f9ee39e08b8db",
+      "namespace": "argyle",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trials-rising"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

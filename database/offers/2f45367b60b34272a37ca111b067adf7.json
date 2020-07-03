@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-30T10:00:00.000Z",
+  "creationDate": "2019-10-29T21:38:33.163Z",
+  "lastModifiedDate": "2020-06-19T15:27:58.608Z",
+  "viewableDate": null,
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless - The Unseen Style Pack",
+  "id": "2f45367b60b34272a37ca111b067adf7",
+  "namespace": "jackal",
+  "description": "Dauntless - The Unseen Style Pack",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_UnseenSupporter_PortraitOffer-1200x1600-2918adadcba9cbe464ab6b669c431b5a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_UnseenSupporter_PortraitOffer-1200x1600-2918adadcba9cbe464ab6b669c431b5a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_UnseenSupporter_PortraitOffer-1200x1600-2918adadcba9cbe464ab6b669c431b5a.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_UnseenSupporter_LandscapeOffer-2560x1440-dbdc28590aaea3e77e67c4b5cc661f5b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "60e66184f95f4bfc99e60d506df122e8",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-29T15:00:00.000Z",
+  "creationDate": "2019-06-14T16:20:24.838Z",
+  "lastModifiedDate": "2020-05-12T19:00:03.795Z",
+  "viewableDate": null,
+  "productSlug": "inside/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Inside",
+  "id": "73021f8411c9435e8b6f35faacdc2978",
+  "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+  "description": "Inside",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PLAYDEAD_INSIDE-PORTRAIT-1280x1440-13bf6e11eacd3d054f680f16afddf7fd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Inside_StoreFrontWide-1920x1080-6a230e0d1baafea9c8be963abe39800a.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/LIMBO_LOGO_NEW-6054x1989-f61e16b909507c909f0eb305c2b71cd1.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PLAYDEAD_INSIDE-PORTRAIT-1280x1440-13bf6e11eacd3d054f680f16afddf7fd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/13bb5776b9e1424d84ce42d9ba61c0ca/offer/CodeRedemption_INSIDE-340x440-ff7811f23232dbbd8aaadb4d8d067b83.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Inside_StoreFrontWide-1920x1080-6a230e0d1baafea9c8be963abe39800a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
+    "name": "Playdead"
+  },
+  "items": [
+    {
+      "id": "cdbf08ae1e03490e994c8d1520742bea",
+      "namespace": "13bb5776b9e1424d84ce42d9ba61c0ca",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Playdead"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "inside/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

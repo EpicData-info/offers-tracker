@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-25T15:00:00.000Z",
+  "creationDate": "2020-06-11T02:18:00.852Z",
+  "lastModifiedDate": "2020-06-25T14:58:47.456Z",
+  "viewableDate": "2020-06-25T15:00:00.000Z",
+  "productSlug": "anno-1701/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 1701: History Edition",
+  "id": "46b393b6aed04d7e962a33f2d752a3bd",
+  "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
+  "description": "Anno 1701: History Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Edition_Thumbnail_1920X1080_White-1920x1080-ed63a8590c3617e4c20fc53ce7badc03.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Edition_Thumbnail_1920X1080_White-1920x1080-ed63a8590c3617e4c20fc53ce7badc03.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/db9ef498b3fa4b26afb501ea352e3c46/offer/ANHC_1701HE_Store_Portrait_1200x1600-1200x1600-ecd2d9d62d4822dfdc21c4374ce79ae5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d9b8194da71c4237b1616c938ab37b98",
+      "namespace": "db9ef498b3fa4b26afb501ea352e3c46",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1701/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

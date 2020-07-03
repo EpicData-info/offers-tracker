@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-12T15:00:00.000Z",
+  "creationDate": "2020-03-10T17:01:05.474Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "productSlug": "watch-dogs/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs",
+  "id": "62693d9e6f7745d084810f3d0cb87ce5",
+  "namespace": "epic",
+  "description": "Watch Dogs",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Landscape_2560x1440-2560x1440-93e9e269fcee8681c8ded689197ebc03.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDOG_STD_Store_Portrait_1280x1420-1280x1420-7678e6c2b81692027935c7c2b685438d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "8060"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ecebf45065bc4993abfe0e84c40ff18e"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "88be15452fea4ebf9e211deb291e8189"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "88be15452fea4ebf9e211deb291e8189",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "watch-dogs/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T12:00:00.000Z",
+  "creationDate": "2019-06-04T16:29:58.107Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.816Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Pre-Purchase Bonus",
+  "id": "dd406bb3048a40d2a98ba2f10c1851f4",
+  "namespace": "middlemist",
+  "description": "Pre-Purchase Bonus",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "be143142bd66446e9b9ba3faac023593",
+      "namespace": "middlemist",
+      "developer": null
+    },
+    {
+      "id": "7366baa18fee41d7ab5aabb8e5521e97",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

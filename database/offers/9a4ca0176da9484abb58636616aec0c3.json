@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-31T09:48:00.000Z",
+  "creationDate": "2019-03-14T14:05:42.705Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "beyond-two-souls/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Beyond: Two Souls",
+  "id": "9a4ca0176da9484abb58636616aec0c3",
+  "namespace": "epic",
+  "description": "Beyond: Two Souls",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_GamePagePromo-2580x1450-8be348c1b8af40244d32a64c4c9881cd.JPG"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_PortraitPromo03-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_Logo-960x384-a2c6b28b3e69ca323c30612098e1d5a8.png"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10276"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "lavender"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "beyond-two-souls/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ca9e038d351d493f91f7823a175c5acf"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ca9e038d351d493f91f7823a175c5acf",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Quantic Dream"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "beyond-two-souls/home"
+      }
+    ]
+  }
+}

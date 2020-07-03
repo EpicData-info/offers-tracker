@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-24T05:00:00.000Z",
+  "creationDate": "2019-03-08T23:08:12.628Z",
+  "lastModifiedDate": "2020-04-27T05:34:25.247Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-season-two/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: Season Two",
+  "id": "b4eb01e10f224126b7b4f7a56a65a6ec",
+  "namespace": "buttercup",
+  "description": "The Walking Dead: Season Two",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0-330x440-9de93f1b1c933298c155880a17f9a0e0.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "dd0948e8f27f4d579d35affe06ef16a0",
+      "namespace": "buttercup",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Skybound Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-season-two/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

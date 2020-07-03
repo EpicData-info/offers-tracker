@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-04T10:00:00.000Z",
+  "creationDate": "2019-02-21T17:37:53.910Z",
+  "lastModifiedDate": "2020-04-27T05:24:06.425Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outward Pre-Purchase",
+  "id": "2b90b6a9d8dd4c36a0a87bef71db63b8",
+  "namespace": "viola",
+  "description": "Outward Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "4dbfd9eaa642467aac29ec201b496d1c",
+      "namespace": "viola",
+      "developer": null
+    },
+    {
+      "id": "78e91fdb733f4c55a3527ab7c8b8d956",
+      "namespace": "viola",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Nine Dots Studio"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

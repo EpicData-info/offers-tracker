@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-01T10:00:00.000Z",
+  "creationDate": "2019-11-04T18:50:00.603Z",
+  "lastModifiedDate": "2020-05-11T17:55:10.492Z",
+  "viewableDate": null,
+  "productSlug": "phoenix-point/blood-and-titanium",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC 1 - Blood and Titanium",
+  "id": "d5f8b9de382b4fa49598bc56e5e2f691",
+  "namespace": "iris",
+  "description": "Blood and Titanium Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/Blood-and-Titanium-16.9-no-date-2560x1440-b51ae7b3d7f7904b7ad8919dc2c5e90d79f5abd0.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/offer/PhoenixPoint_CodeRedemption-340x440-8ddd13489c7216a86f4cfa9e96452981-340x440-8ddd13489c7216a86f4cfa9e96452981.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "4873bcab9c9d4ff98c6d5debc71313cc",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "phoenix-point/blood-and-titanium"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-02T08:58:00.000Z",
+  "creationDate": "2019-09-13T13:08:20.840Z",
+  "lastModifiedDate": "2019-09-13T13:08:20.840Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Untitled Goose Game Press",
+  "id": "54dc0ba3c4b14a669022325707f38801",
+  "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+  "description": "Untitled Goose Game Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_CodeRedemption-340x440-1223df5223c67e2c1b55590b5e565f60-340x440-1223df5223c67e2c1b55590b5e565f60.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_CodeRedemption-340x440-1223df5223c67e2c1b55590b5e565f60-340x440-1223df5223c67e2c1b55590b5e565f60.png"
+    }
+  ],
+  "seller": {
+    "id": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
+    "name": "Panic"
+  },
+  "items": [
+    {
+      "id": "b235b966e8834537bb643da57f328638",
+      "namespace": "f7e06ee3d0c1491094cc0215859f0120",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Panic"
+    },
+    {
+      "key": "developerName",
+      "value": "House House"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-11T17:00:00.000Z",
+  "creationDate": "2018-07-31T19:58:23.787Z",
+  "lastModifiedDate": "2019-11-13T18:00:34.079Z",
+  "viewableDate": "2019-11-11T17:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Pouch of Gems",
+  "id": "00d74de590684ba9adf5e71842edbc7b",
+  "namespace": "wex",
+  "description": "Gems and items",
+  "longDescription": "Gems and items",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/StoreBannerpouchofgemsCAT-512x512-18e479ab84f6ade5d668b2299ff85889.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "5d704f68866c482c9e6a0e663d6ba06b",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "mtx packages"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-13T18:00:00.000Z",
+  "creationDate": "2019-10-11T15:40:09.642Z",
+  "lastModifiedDate": "2020-04-09T21:08:29.653Z",
+  "viewableDate": null,
+  "productSlug": "battle-breakers/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Battle Breakers",
+  "id": "dfefaf7a3c87444bbed16f58d62fd78d",
+  "namespace": "wex",
+  "description": "Battle Breakers",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Logo_BattleBreakers_Final-1920x1080-fcce375b2d2c0b41fd2d6dcff0f09779.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/offer/EG_Store_BattleBreakers_Vertical-420x560-ee34bc3a723731505fb5dea834678013.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/BB_EGS_Launcher_M1-800x800-c50edffc0884ac941473548f4c02597c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "e458e71024404176addca212860f9ef2",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Epic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "battle-breakers/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

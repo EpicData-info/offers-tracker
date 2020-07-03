@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "creationDate": "2019-10-17T18:38:20.358Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "hob/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hob",
+  "id": "0823aa31fb7540db886871c5aa44dcc3",
+  "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+  "description": "Hob",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
+  },
+  "items": [
+    {
+      "id": "84b86c9e65f74297baafd880965657d2",
+      "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Perfect World Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Runic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hob/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

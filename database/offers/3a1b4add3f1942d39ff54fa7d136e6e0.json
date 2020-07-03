@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-07T11:00:00.000Z",
+  "creationDate": "2019-02-07T12:56:29.119Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "thimbleweed-park/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Thimbleweed Park",
+  "id": "3a1b4add3f1942d39ff54fa7d136e6e0",
+  "namespace": "epic",
+  "description": "Thimbleweed Park",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1280x1420-ea08c54042600c5b471e03efe4815c12.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TWPlogo_colour-633x239-bb8751a3b2b3ca51c52f6e5b7c31f049.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/ThimbleweedPark_freeTile-960x383-fd6eae65476510a6efcc7bd938d09e60.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Thimbleweed_wide-900x506-dc368991d68fff2fb6ff71fbc5868bc6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
+    "name": "Terrible Toybox, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "550"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "tulip"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f0b60db562384b70bfe441f1965736d9"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thimbleweed-park/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "f0b60db562384b70bfe441f1965736d9",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Terrible Toybox, Inc."
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "thimbleweed-park/home"
+      }
+    ]
+  }
+}

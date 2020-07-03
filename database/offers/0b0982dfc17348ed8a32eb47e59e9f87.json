@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-26T17:41:00.000Z",
+  "creationDate": "2019-03-08T22:46:12.745Z",
+  "lastModifiedDate": "2020-04-29T00:46:51.293Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "BloodrootDevAudience",
+  "id": "0b0982dfc17348ed8a32eb47e59e9f87",
+  "namespace": "bloodroot",
+  "description": "BloodrootDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bloodroot/offer/TWD1_CodeRedemption-330x440-9118b664f4cb9dfab8cbbc40ee757730.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bloodroot/offer/TWD1_CodeRedemption-MRating-400x634-85b507ffc222a30ca8f35bddc326b8ca.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "014f95a3ab3248e18f711803e6955122",
+      "namespace": "bloodroot",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,58 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-02-18T14:48:00.000Z",
+  "creationDate": "2019-02-18T19:49:08.188Z",
+  "lastModifiedDate": "2020-04-29T00:46:50.385Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "CorydalisDevAudience",
+  "id": "3478bd124b1649aaa4114a90224deaee",
+  "namespace": "corydalis",
+  "description": "CorydalisDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/Slime-Rancher_Game-Icon-400x400-38f64e82c5c7b0dd11a4c60a0ef2b3be.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_Logo-4000x1527-4464ca1018834321dfcad9ef70fd984c.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_PrimaryPromo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/corydalis/offer/SlimeRancher_CodeRedemption-340x440-1fa08fcea64a85d6c182415b62a63565.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+    "name": "Monomi Park"
+  },
+  "items": [
+    {
+      "id": "f7c81f0b26414d03a74ddc95898a8805",
+      "namespace": "corydalis",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

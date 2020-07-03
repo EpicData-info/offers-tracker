@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-10T21:53:12.926Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-odyssey",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Odyssey",
+  "id": "f835527adf3e42c489e8606f957f1007",
+  "namespace": "epic",
+  "description": "Assassin's Creed Odyssey",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/ACOD_Landscape-1920x1080-734f63b35bbe770ceffdd0b4f6f5c46d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/ACOD_Portrait-552x576-64d0966bcf63c374163a5b920f68b253.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-4b231fbb71b558fb044cd99ae7973405.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10721"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "clary"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "9e32f311abd24c4aa4c7f9c5dce25e75"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "9e32f311abd24c4aa4c7f9c5dce25e75",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "assassins-creed-odyssey/home"
+      }
+    ]
+  }
+}

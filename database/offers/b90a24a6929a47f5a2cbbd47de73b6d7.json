@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-30T18:00:00.000Z",
+  "creationDate": "2020-01-30T16:31:47.828Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "days-of-war/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Days of War Editor",
+  "id": "b90a24a6929a47f5a2cbbd47de73b6d7",
+  "namespace": "epic",
+  "description": "Days of War Editor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DrivenArts_DaysofWarMapEditor_S2-860x1148-6bc859e38a027d56efba949d44e53485.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DrivenArts_DaysofWarMapEditor_S3-1360x766-e9727b383efa18484077e30d0ae29538.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bze36gesds8y2gh28jtdheg24v422w",
+    "name": "Driven Arts"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "100000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "dcaca38045a049b2b50fba8a4dac4407"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "days-of-war/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "bc5f7e2b085044578a191eb1e2d7f9be"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "bc5f7e2b085044578a191eb1e2d7f9be",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Driven Arts"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "days-of-war/home"
+      }
+    ]
+  }
+}

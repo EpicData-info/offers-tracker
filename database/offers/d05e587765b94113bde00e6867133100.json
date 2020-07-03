@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-19T19:09:18.070Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "arise-a-simple-story/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Arise: A Simple Story",
+  "id": "d05e587765b94113bde00e6867133100",
+  "namespace": "epic",
+  "description": "Arise: A Simple Story",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_ARISE_IC1_WHITE-200x200-791a69d1f9875e505aeb468a1d8dd281.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVELOPER_ARISE_S1_KEYART-2560x1440-ab5a2fbf4a2d2573bba9eb8aeb9c69fe.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Arise_Portrait2-1280x1440-a48e80bc18bcd497eea6ccb752bcbfda.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "name": "Techland"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10565"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "0fb229f35a3f4eb788b05ae91419a214"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "arise-a-simple-story/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "3e69e975e8264e9799e6e3edd64f8e65"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "3e69e975e8264e9799e6e3edd64f8e65",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Techland"
+      },
+      {
+        "key": "developerName",
+        "value": "Piccolo"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "arise-a-simple-story/home"
+      }
+    ]
+  }
+}

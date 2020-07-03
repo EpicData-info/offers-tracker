@@ -1,0 +1,90 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-23T09:00:00.000Z",
+  "creationDate": "2020-02-11T17:04:52.363Z",
+  "lastModifiedDate": "2020-05-14T18:09:02.012Z",
+  "viewableDate": null,
+  "productSlug": "dread-nautical/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dread Nautical",
+  "id": "7842c4d68a75475eb2367b30d12b8b8c",
+  "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "description": "Dread Nautical Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "dc58bfb8ee144995bd565a1726f520ef",
+      "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Zen Studios"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1588179600"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dread-nautical/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

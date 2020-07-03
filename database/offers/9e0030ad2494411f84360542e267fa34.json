@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2025-03-01T15:19:00.000Z",
+  "creationDate": "2019-03-04T20:22:31.141Z",
+  "lastModifiedDate": "2020-04-29T00:38:45.478Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RUNE II",
+  "id": "9e0030ad2494411f84360542e267fa34",
+  "namespace": "cosmos",
+  "description": "RUNE II",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    }
+  ],
+  "seller": {
+    "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+    "name": "Human Head Studios, Inc."
+  },
+  "items": [
+    {
+      "id": "159d92ebec254ecf8373709a99388a62",
+      "namespace": "cosmos",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Human Head Studios, Inc."
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

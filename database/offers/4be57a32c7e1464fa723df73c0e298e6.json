@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-04-01T20:27:00.000Z",
+  "creationDate": "2020-03-27T20:55:17.252Z",
+  "lastModifiedDate": "2020-05-22T12:50:21.461Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Maneater Retail",
+  "id": "4be57a32c7e1464fa723df73c0e298e6",
+  "namespace": "turtle",
+  "description": "Maneater Retail",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Portrait_860x1148-860x1148-9dccefd6c1b580ff98ebd769637ba38c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "51805ef548764d089637111377ed1714",
+      "namespace": "turtle",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Tripwire"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

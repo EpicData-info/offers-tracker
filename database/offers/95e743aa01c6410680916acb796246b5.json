@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-14T00:00:00.000Z",
+  "creationDate": "2018-11-29T23:21:51.529Z",
+  "lastModifiedDate": "2020-05-06T20:28:24.760Z",
+  "viewableDate": null,
+  "productSlug": "darksiders3",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Darksiders III",
+  "id": "95e743aa01c6410680916acb796246b5",
+  "namespace": "springbok",
+  "description": "Darksiders III",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/springbok/item/Primary_Promo2-2580x1456-f4e5599e662277ab74bd924adc2b13f2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_Horizontal-2560x1440-417a54a752a7aecb70c340872fc77e74.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "cd95e989ab994d439b41ad4dbb80a856",
+      "namespace": "springbok",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Gunfire Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

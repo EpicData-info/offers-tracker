@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-04T15:00:00.000Z",
+  "creationDate": "2020-04-30T23:23:07.796Z",
+  "lastModifiedDate": "2020-06-04T14:56:27.251Z",
+  "viewableDate": "2020-06-04T15:00:00.000Z",
+  "productSlug": "child-of-light/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Child of Light: Ultimate Edition",
+  "id": "7981b6d8a37142b9aed96155b93ff8da",
+  "namespace": "72688fa8862442c8867c8b22bd8957b6",
+  "description": "Child of Light: Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/ChildOfLight_Store_Landscape_2560x1440-2560x1440-70597a5d95ecec1c72d95a236241574c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/ChildOfLight_Store_PORTRAIT_1200x1600-1200x1600-1ed9dcf6794e4d27e6568edac30f574d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/ChildOfLight_Store_PORTRAIT_1200x1600-1200x1600-1ed9dcf6794e4d27e6568edac30f574d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/COL_Store_Portrait_1280x1420-1280x1420-1c0d427990159383f6bd6a79399a4f7e.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/ChildOfLight_Store_Landscape_2560x1440-2560x1440-70597a5d95ecec1c72d95a236241574c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/72688fa8862442c8867c8b22bd8957b6/offer/ChildOfLight_Store_PORTRAIT_1200x1600-1200x1600-1ed9dcf6794e4d27e6568edac30f574d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "759c7a88825d44fcaff84e8f123d0502",
+      "namespace": "72688fa8862442c8867c8b22bd8957b6",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "child-of-light/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

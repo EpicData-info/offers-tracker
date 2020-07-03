@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-04T19:00:00.000Z",
+  "creationDate": "2019-08-02T02:00:28.299Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-definitive-series/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: The Telltale Definitive Series",
+  "id": "3f06ceed10004ee5a7db58235449cfb9",
+  "namespace": "epic",
+  "description": "The Walking Dead: The Telltale Definitive Series",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_home-1280x1440-5587580e0632a53f9e9b8b88cdf78d23.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/cuckoo_promo-1920x1080-3e3a455fb5a22a0456cc058cc4db6a48.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TTTWD-DS-LOGO-WHITE-360x237-c64d8e270dce97925a9e808ead4298cb.png"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10448"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "b534830f4c524447bfd2266ce70cf8ab"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-definitive-series/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "7dd66b1bd08e41b1a6bdc3bf472833fa"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "7dd66b1bd08e41b1a6bdc3bf472833fa",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Skybound Entertainment"
+      },
+      {
+        "key": "developerName",
+        "value": "Telltale Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "walking-dead-definitive-series/home"
+      }
+    ]
+  }
+}

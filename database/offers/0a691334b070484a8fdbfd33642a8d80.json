@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-06T11:00:00.000Z",
+  "creationDate": "2019-06-07T15:09:06.163Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "the-sojourn/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Sojourn",
+  "id": "0a691334b070484a8fdbfd33642a8d80",
+  "namespace": "epic",
+  "description": "The Sojourn",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ICEBERG_THE-SOJOURN_S3_KEYART-1138x1280-c24b1cba504adf1f679bced2feee8567.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheSojourn_Logo_White_Shadow-1920x879-3a7bc87f37dd0059f11691533701bf1f.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheSojourn_StorePromo-1440x810-2ca5aca20db18c69c75264477ee21e04.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "name": "Iceberg Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10540"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ada169f07b81464a9fc06a7d6896101d"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-sojourn/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "265ae8cbed404648b0fddf253ffc44eb"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "265ae8cbed404648b0fddf253ffc44eb",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Iceberg Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Shifting Tides"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-sojourn/home"
+      }
+    ]
+  }
+}

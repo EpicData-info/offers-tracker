@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "creationDate": "2020-01-09T22:50:24.360Z",
+  "lastModifiedDate": "2020-05-20T15:35:54.422Z",
+  "viewableDate": null,
+  "productSlug": "snowrunner/premium-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SnowRunner Premium Edition",
+  "id": "e13fb4f27d2d4008980f3566f6ee05be",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "SnowRunner Premium Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_PremiumEdition_EpicGames_Desktop-Horizontal-1360x766-1360x766-38ba3d24f767a40f6dde3f00d5bee45fbe83a878-1360x766-5f619f7a15420eb2894ef24e1e6a5c64.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "6992654ef5a545c1adba1e6c6f74d5d9",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    },
+    {
+      "id": "7b23f1e576ff442ab2d2a0e6b8a2dfcd",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/premium-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

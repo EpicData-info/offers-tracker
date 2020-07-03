@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T16:00:00.000Z",
+  "creationDate": "2019-01-28T20:47:51.249Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.481Z",
+  "viewableDate": "2019-01-30T13:20:00.000Z",
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless",
+  "id": "e64af2d6202d4b64b86abe428250dbff",
+  "namespace": "jackal",
+  "description": "Dauntless",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "75cf1b4f9d2d45bbbd96579b476f5198",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

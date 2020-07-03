@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-11T09:00:00.000Z",
+  "creationDate": "2020-03-18T18:34:50.347Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.175Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Oleander Dev Game",
+  "id": "e1b3ca453bf5409a853de5d0d2f9b185",
+  "namespace": "oleander",
+  "description": "Oleander Dev Game",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games S.r.l."
+  },
+  "items": [
+    {
+      "id": "1434d9b5e822411abcfb0ae2a1c89efa",
+      "namespace": "oleander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

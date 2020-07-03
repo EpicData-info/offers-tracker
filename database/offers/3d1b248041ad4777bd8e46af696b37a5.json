@@ -1,0 +1,76 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "creationDate": "2020-01-09T21:02:37.530Z",
+  "lastModifiedDate": "2020-05-13T19:56:42.575Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Standard Edition Pre-Purchase",
+  "id": "3d1b248041ad4777bd8e46af696b37a5",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Standard Edition Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "0cc51a090b004445b4240103e77b8cba",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    },
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1582819200"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

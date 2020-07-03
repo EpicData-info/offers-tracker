@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-16T16:00:00.000Z",
+  "creationDate": "2020-01-07T22:27:55.022Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "horace/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Horace",
+  "id": "0cbd1a647ba945fba3d793b150ee5a7d",
+  "namespace": "epic",
+  "description": "Horace",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_G1A_01-1920x1080-12c8bea4a4abedacf097f3e508f11594.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_S4-510x680-918a0ee1690fce9749105a6c4f5eb384.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "100000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "8aa6e526d2864c108f219747ad7011e5"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "horace/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "54e4974ff09e457ea24de17a37a1eca7"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "54e4974ff09e457ea24de17a37a1eca7",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "horace/home"
+      }
+    ]
+  }
+}

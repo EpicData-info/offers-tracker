@@ -1,0 +1,64 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-27T22:07:00.000Z",
+  "creationDate": "2019-09-27T02:20:21.794Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "atlas-mod-kit",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Atlas Mod Kit",
+  "id": "1d5a23ba86f447b690af427b50df7763",
+  "namespace": "epic",
+  "description": "Atlas Mod Kit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/IC1-512x512-c9fa29d8cb6b6f781f4e62c9a59af163.png"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "StudioWildcard"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "96ccba8fe8e649dfa6f96cee11e625e1"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "49841c56d62b4490a394a7889651e948"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "atlas-mod-kit"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "49841c56d62b4490a394a7889651e948",
+  "linkedOffer": null
+}

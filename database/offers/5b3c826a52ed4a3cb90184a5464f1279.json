@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-11T12:25:00.000Z",
+  "creationDate": "2019-02-04T17:29:09.270Z",
+  "lastModifiedDate": "2020-05-12T23:47:06.554Z",
+  "viewableDate": "2019-02-11T10:31:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Spellbreak Alpha Mage",
+  "id": "5b3c826a52ed4a3cb90184a5464f1279",
+  "namespace": "newt",
+  "description": "Spellbreak Alpha Mage",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S2-1280x1440-a9189c129f7bd69bc4b91b6b7f797766.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "items": [
+    {
+      "id": "ab3dd14e34624c8dbb6de40ca49a0369",
+      "namespace": "newt",
+      "developer": null
+    },
+    {
+      "id": "ecc534f182974a7bbeecfd4dcfaa19bf",
+      "namespace": "newt",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

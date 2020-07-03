@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-11-28T13:06:00.000Z",
+  "creationDate": "2018-11-28T18:07:00.135Z",
+  "lastModifiedDate": "2020-04-29T00:38:36.810Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "MorphoCodeRedemptionOnly",
+  "id": "0a4b437d7ffc411bb42d391a6a8ed2b0",
+  "namespace": "morpho",
+  "description": "MorphoCodeRedemptionOnly",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "60517ad2be01459eb8d56af55ec755bb",
+      "namespace": "morpho",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

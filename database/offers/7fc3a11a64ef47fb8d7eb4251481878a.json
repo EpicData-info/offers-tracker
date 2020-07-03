@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-19T16:00:00.000Z",
+  "creationDate": "2020-03-16T20:57:02.770Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "dread-nautical/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dread Nautical",
+  "id": "7fc3a11a64ef47fb8d7eb4251481878a",
+  "namespace": "epic",
+  "description": "Dread Nautical",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10755"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "30bf97ae13f74c3d87c9f3fe04d507ba"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "availableDate",
+      "value": "1588179600"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dread-nautical/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "7842c4d68a75475eb2367b30d12b8b8c"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "7842c4d68a75475eb2367b30d12b8b8c",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Zen Studios"
+      },
+      {
+        "key": "isPrepurchase",
+        "value": "true"
+      },
+      {
+        "key": "availableDate",
+        "value": "1588179600"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "dread-nautical/home"
+      }
+    ]
+  }
+}

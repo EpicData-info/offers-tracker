@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-30T16:00:00.000Z",
+  "creationDate": "2019-10-09T19:04:47.967Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "farming-simulator-19/platinum-expansion",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Platinum Expansion DLC",
+  "id": "f8554704641d4a2995077d54caf299ce",
+  "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "description": "Platinum Expansion DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_platinum-expansion_EGS-GIANTS-FS19-860x1148_PlatExpansion-860x1148-8f4178a4023b6da8c75eb59766a3d5e86f98caf7-860x1148-35221e72408c15a59b76f244187677c4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "09c68e8acd7b408f89026de1f32f07a4",
+      "namespace": "493e9ad801e8487497fe7840cb8404bb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giants Software GmbH"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "farming-simulator-19/platinum-expansion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

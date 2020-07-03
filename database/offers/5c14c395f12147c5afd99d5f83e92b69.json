@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T00:00:00.000Z",
+  "creationDate": "2019-04-04T01:52:28.496Z",
+  "lastModifiedDate": "2020-04-29T00:38:41.786Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Dill Dev Access",
+  "id": "5c14c395f12147c5afd99d5f83e92b69",
+  "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+  "description": "Dill Dev Access",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Transistor_About-1000x840-85db29d6095a4c7ddd195d5998a311f9.png"
+    }
+  ],
+  "seller": {
+    "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+    "name": "Supergiant Games LLC"
+  },
+  "items": [
+    {
+      "id": "dd3a0be06cdf4445a894523d614e7843",
+      "namespace": "bc81d1e7d1794d3a94e4dbf26e92166d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Supergiant Games LLC"
+    }
+  ],
+  "categories": [
+    {
+      "path": "application"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

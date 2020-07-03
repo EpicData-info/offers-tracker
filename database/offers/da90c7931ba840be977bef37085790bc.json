@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-27T16:00:00.000Z",
+  "creationDate": "2019-10-16T21:35:15.503Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "ghost-recon-wildlands/ultimate-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon® Wildlands Ultimate Edition",
+  "id": "da90c7931ba840be977bef37085790bc",
+  "namespace": "hyacinth",
+  "description": "Tom Clancy's Ghost Recon® Wildlands Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_UltimateCapsule-1920x1080-1920x1080-83f3c62737b4d8f134c3a6d1ecf46960.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-330x440-f04e880dcb69866bed6ca5a311662596.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_UltimateCapsule-1920x1080-28ca0c187ca79a9edd8bf0f4161b717aca885ddf.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "7c6cd2a3df4648ada1ad79dc402cee05",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "acee2d35fdfc40d2b9964bc087f16407",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "41fd6b83b830407090b71faba7fc3f2a",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "f1b32f5e94444ddfaa4ee2db7c08bbb2",
+      "namespace": "hyacinth",
+      "developer": null
+    },
+    {
+      "id": "9b7b9d0004c04385b6e512cc50a088ee",
+      "namespace": "hyacinth",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands/ultimate-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

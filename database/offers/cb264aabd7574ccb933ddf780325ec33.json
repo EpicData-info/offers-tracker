@@ -1,0 +1,66 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2017-01-17T14:02:00.000Z",
+  "creationDate": "2017-01-17T19:03:47.890Z",
+  "lastModifiedDate": "2020-04-29T00:38:49.483Z",
+  "viewableDate": "2017-01-17T10:41:00.000Z",
+  "productSlug": "robo-recall",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Robo Recall Mod Kit",
+  "id": "cb264aabd7574ccb933ddf780325ec33",
+  "namespace": "odin",
+  "description": "Odin Editor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/logo_RR_white-384x100-9c25ec0e5d809814699475d183cb08f7.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/fb_rr-1920x1080-5f7d6bc442e88fa501f9279fd3c903c8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/odin/offer/thumbnail1-1500x843-ef7b9837a78805fa0f2864fc9bcdb4b1-1500x843-06bb66075842c760862a7b467793abc8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "577992887048448fa933f9c645680d43",
+      "namespace": "odin",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "robo-recall"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

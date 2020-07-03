@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-03T14:00:00.000Z",
+  "creationDate": "2019-09-03T17:08:45.735Z",
+  "lastModifiedDate": "2020-04-10T14:35:22.948Z",
+  "viewableDate": null,
+  "productSlug": "ashen/dlc1",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Nightstorm Isle - DLC",
+  "id": "cf6f3f919d2748ac8f5f189d57200129",
+  "namespace": "wren",
+  "description": "Nightstorm Isle - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/wren/offer/NightstormIsle_Landscape_2560x1440-2560x1440-052f4bec86970b527c884f6b487edc03.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "4c01dfdcdcd14595a8581217f5f0a255",
+      "namespace": "wren",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "A44"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ashen/dlc1"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

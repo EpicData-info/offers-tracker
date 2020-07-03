@@ -1,0 +1,135 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-09T23:22:00.000Z",
+  "creationDate": "2018-10-10T03:23:54.334Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-09T23:22:00.000Z",
+  "productSlug": "unreal-tournament",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Unreal Tournament",
+  "id": "633632da85674f4fbf2201d4750abb4b",
+  "namespace": "epic",
+  "description": "Unreal Tournament",
+  "longDescription": "Thank you for your interest in Unreal Tournament! UT is in open development as a collaboration between Epic Games, Unreal Tournament fans and Unreal Engine 4 developers.\n<a id=\"StandardURL\" href=\"http://forums.unrealtournament.com/\">Visit Our Forums</>",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/item/uttemp_bluebadge-100x100-6d94c6bd87d3db80f98508d966d2ab85.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Battle-Breakers-576x360-10b2a8d914b337e1940e8dcd9395960b.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Fortnite-576x360-ada5dd0333eda4d911947b289e304d35.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_Unreal-Tournament-576x360-8b2e4c9d24ab5aacdec87815472da9dd.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/wide_Paragon-960x600-169e898543dd1e4d80a1906b7165c83a.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_shadow-complex-remastered-580x326-77a23415e5de3d74263afebd46538f68.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_ark-630x357-51843896a5fdb9426a953bb02ad0a857.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_squad-576x324-c375324caa7381f7d6491510864a99b9.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/ut/item/small_vrfunhouse-576x324-b695c8ee9cfa1160961376ab96ed4c7b.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/vertical logo-515x166-cbec624e33e710ec31c4567e70cf4d50.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/UT_BG1-1920x1080-8cdaa270830ad508e3671859c19cf5b8.jpg"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/epic/offer/Robo_Recall_sale-960x600-e3880968afac0c113d5c8252c29e6020.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/epic/offer/Conan_sale-960x540-0cd5dac9cd525b3ce08e49726fd9e318.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/epic/offer/Conan_sale-960x540-0cd5dac9cd525b3ce08e49726fd9e318.png"
+    },
+    {
+      "type": "Sale",
+      "url": "https://cdn1.epicgames.com/epic/offer/DeadByDaylight_sale-960x394-3be5e82f597360a18680fa5e6476706c.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "1"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ut"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "unreal-tournament"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "9a85e064672249f6976b92c2d8db56b5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "9a85e064672249f6976b92c2d8db56b5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "developerName",
+        "value": "Epic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "unreal-tournament"
+      }
+    ]
+  }
+}

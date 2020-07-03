@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-12T12:34:00.000Z",
+  "creationDate": "2018-12-12T17:35:08.731Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Wombat Dev Access",
+  "id": "db88567ad49b4a2997140942dfdfae02",
+  "namespace": "wombat",
+  "description": "Wombat Dev Access",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wombat/offer/WWZ_CodeRedemption-340x440-d243a578a983bf3faa0415bbf06dce82.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/wwz_logo_400x400-400x400-cdbe8a4526d2ef1a48c6fc1348c3120b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "d750fc622476493687dba41e08662b59",
+      "namespace": "wombat",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

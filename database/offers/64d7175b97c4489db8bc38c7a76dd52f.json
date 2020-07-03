@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "creationDate": "2020-01-29T00:05:36.150Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-4/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 4 Gold Edition",
+  "id": "64d7175b97c4489db8bc38c7a76dd52f",
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "description": "Far Cry 4 Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_GE_Edition_Capsule_1920X1080-1920x1080-b1d8dd2b38d0930805fee4a29320aaa2542c3c2b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b356a981f1fc40ee90740638885a727b",
+      "namespace": "cf87285950ba492bbdc370b9d265ea36",
+      "developer": null
+    },
+    {
+      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d",
+      "namespace": "cf87285950ba492bbdc370b9d265ea36",
+      "developer": null
+    },
+    {
+      "id": "a86d85f4213743e1abea80a1b6c7022c",
+      "namespace": "cf87285950ba492bbdc370b9d265ea36",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-4/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

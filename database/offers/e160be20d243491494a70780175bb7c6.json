@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-16T15:45:18.722Z",
+  "lastModifiedDate": "2020-03-16T17:23:13.398Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Lorikeet Soundtrack",
+  "id": "e160be20d243491494a70780175bb7c6",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "description": "Lorikeet Soundtrack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+    "name": "William Chyr Studio"
+  },
+  "items": [
+    {
+      "id": "7b619209092445b1ad975c05be58c9cc",
+      "namespace": "015763e579d4479cb1ef7780bf91804f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "William Chyr Studio"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

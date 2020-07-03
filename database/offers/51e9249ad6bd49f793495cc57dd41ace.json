@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-29T17:46:00.000Z",
+  "creationDate": "2019-08-29T21:48:59.300Z",
+  "lastModifiedDate": "2020-01-08T14:40:58.268Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test Pack 1",
+  "id": "51e9249ad6bd49f793495cc57dd41ace",
+  "namespace": "azalea",
+  "description": "Test Pack 1",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "59ba2394f33a4861a7773d7ebc8b5fe4",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,67 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-31T19:51:00.000Z",
+  "creationDate": "2018-10-31T23:51:24.187Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-31T19:51:00.000Z",
+  "productSlug": "battalion",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Battalion Dev Kit",
+  "id": "0e9f89ca0e4a44e78fb78a631ca1acef",
+  "namespace": "epic",
+  "description": "Battalion Dev Kit",
+  "longDescription": "Battalion Dev Kit",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Battalion_White-1033x180-f562db10b88ded01020b53607965571d.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/battalion1944_box-960x540-9f8c1ba45e70585f7b88c53406704aee.png"
+    }
+  ],
+  "seller": {
+    "id": "o-b96x3l6b69aappk38dnub4g5kzq47e",
+    "name": "Bulkhead Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "battalion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "battalion"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "fc81c913519d44dfb645abb2d2db26b7"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "fc81c913519d44dfb645abb2d2db26b7",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "battalion"
+      }
+    ]
+  }
+}

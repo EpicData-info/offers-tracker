@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-28T09:00:00.000Z",
+  "creationDate": "2019-03-11T18:16:59.551Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "journey-to-the-savage-planet/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Journey To The Savage Planet",
+  "id": "a83256b3ec964282b11324a107e446d3",
+  "namespace": "epic",
+  "description": "Journey To The Savage Planet",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Primary promo-2580x1450-8f87796564b7043f5c2ca309de77b7f7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_promo_NEW-1280x1420-ca328189f3781b7d4a422d8ad5a5d422.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/journey-to-the-savage-planet_logo-1850x1295-3a4f6f17c17be2f7ff8ba6085866d4ad.png"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10355"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "oleander"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1dbc4cac67ba46e39a2582dd18221a66"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "journey-to-the-savage-planet/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "1dbc4cac67ba46e39a2582dd18221a66",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Typhoon Studios"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "journey-to-the-savage-planet/home"
+      }
+    ]
+  }
+}

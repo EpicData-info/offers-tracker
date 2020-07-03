@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:35:13.632Z",
+  "lastModifiedDate": "2020-05-11T15:30:45.265Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/pennsylvania",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Pennsylvania DLC",
+  "id": "9930c0abe42f44dda4149f3d0a378508",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "Pennsylvania",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_PENNSYLVANIA_Desktop-horizontal-1360x766-7fed63328694a6a237d0a8e82f257fc1c0341e66.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "4c2f0c959f424731b90414bd408b0cc5",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/pennsylvania"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

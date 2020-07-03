@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-16T16:00:00.000Z",
+  "creationDate": "2019-10-03T16:37:52.771Z",
+  "lastModifiedDate": "2020-04-28T20:22:08.871Z",
+  "viewableDate": null,
+  "productSlug": "horace/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Horace",
+  "id": "54e4974ff09e457ea24de17a37a1eca7",
+  "namespace": "8aa6e526d2864c108f219747ad7011e5",
+  "description": "Horace",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "a6213179206a4b62b73b9bec0c41ccf1",
+      "namespace": "8aa6e526d2864c108f219747ad7011e5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "horace/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

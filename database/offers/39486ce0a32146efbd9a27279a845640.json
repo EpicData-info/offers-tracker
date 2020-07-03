@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2019-12-04T18:27:53.055Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-syndicate/jack-the-ripper",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassins Creed Syndicate Jack the Ripper",
+  "id": "39486ce0a32146efbd9a27279a845640",
+  "namespace": "c9be94273fe244c08032ca493ad87434",
+  "description": "Assassins Creed Syndicate Jack the Ripper",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC3_Edition_Capsule_1920X1080-1920x1080-fecc7d13f23c46d1a24e626ecbc32a72940bda47.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "b7c8221dfd5c41c59428e47b6da0f21d",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    },
+    {
+      "id": "8685d3472834454c83edd7cbe471bb55",
+      "namespace": "c9be94273fe244c08032ca493ad87434",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-syndicate/jack-the-ripper"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

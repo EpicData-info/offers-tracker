@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "creationDate": "2019-10-18T01:57:09.917Z",
+  "lastModifiedDate": "2020-04-29T18:51:24.370Z",
+  "viewableDate": null,
+  "productSlug": "paladins",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Paladins",
+  "id": "6005be154ca94b978757989243a9ec73",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "description": "Paladins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "0346d1ff3b004a7187f1610ad0046d7c",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Evil Mojo Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "paladins"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

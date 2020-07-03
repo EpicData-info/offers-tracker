@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-04-24T01:06:05.346Z",
+  "lastModifiedDate": "2020-04-24T01:23:34.945Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "OstrichPreviewAudience",
+  "id": "d897bd2135b2479b979da2cc049706e3",
+  "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+  "description": "OstrichPreviewAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/413361d2d5db4912ac2dfbcf27a38141/offer/CodeRedemption_Ooblets-340x440-aa238e743113669296c8c6ef3c331603.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
+    "name": "Glumberland"
+  },
+  "items": [
+    {
+      "id": "0d176b06a3344d4c95eb516cdbc5b269",
+      "namespace": "413361d2d5db4912ac2dfbcf27a38141",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Glumberland"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

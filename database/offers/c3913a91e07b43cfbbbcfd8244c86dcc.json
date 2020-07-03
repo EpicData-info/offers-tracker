@@ -1,0 +1,106 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-11T12:00:00.000Z",
+  "creationDate": "2019-09-11T16:52:41.200Z",
+  "lastModifiedDate": "2020-05-14T21:51:54.420Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-3/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands 3 Season Pass",
+  "id": "c3913a91e07b43cfbbbcfd8244c86dcc",
+  "namespace": "catnip",
+  "description": "Borderlands 3 Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_B3_SeasonPass-340x440-09cba32f1f9c1461192fc56bbd98300c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_B3_SeasonPass-340x440-09cba32f1f9c1461192fc56bbd98300c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/Diesel_productv2_borderlands-3_season-pass_BL3_SEASONPASS_Hero-3840x2160-4411e63a005a43811a2bc516ae7ec584598fd4aa-3840x2160-b8988ebb0f3d9159671e8968af991f30.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_B3_SeasonPass-340x440-09cba32f1f9c1461192fc56bbd98300c-340x440-09cba32f1f9c1461192fc56bbd98300c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "e9fdc1a9f47b4a5e8e63841c15de2b12",
+      "namespace": "catnip",
+      "developer": null
+    },
+    {
+      "id": "ff8e1152ddf742b68f9ac0cecd378917",
+      "namespace": "catnip",
+      "developer": null
+    },
+    {
+      "id": "939e660825764e208938ab4f26b4da56",
+      "namespace": "catnip",
+      "developer": null
+    },
+    {
+      "id": "3a6a3f9b351b4b599808df3267669b83",
+      "namespace": "catnip",
+      "developer": null
+    },
+    {
+      "id": "ab030a9f53f3428fb2baf2ddbb0bb5ac",
+      "namespace": "catnip",
+      "developer": null
+    },
+    {
+      "id": "8c826db6e14f44aeac8816e1bd593632",
+      "namespace": "catnip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SA"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

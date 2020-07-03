@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-01-11T03:25:44.868Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "faeria/resurgence",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Resurgence DLC",
+  "id": "381e1eb3e34944d58b2e9cdcecd8f020",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "description": "Resurgence DLC",
+  "longDescription": "13.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Resurgence_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-22d402a0326df208511f646eda8f689f2ecd5238.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Resurgence_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-e34d2dbef428b3355bd81148adda2e27.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Resurgence_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-2376fe784ad0f509727c3fbccef4bbf6.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Resurgence_Portrait-Offer-840x1148-86e378e6bd00de3692aef35c80c37781.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "a961a7923baf4a72878901d61e17a3ab",
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/resurgence"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

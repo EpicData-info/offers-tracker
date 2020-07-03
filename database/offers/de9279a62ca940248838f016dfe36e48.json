@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-12-04T10:59:00.000Z",
+  "creationDate": "2018-12-06T03:18:36.258Z",
+  "lastModifiedDate": "2020-04-29T00:46:52.268Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Satisfactory",
+  "id": "de9279a62ca940248838f016dfe36e48",
+  "namespace": "crab",
+  "description": "Satisfactory",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/item/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/item/Satisfactory_GameLogo-01-1508x270-4d7086d38e0ea6dc152ce1c7a3d923cb.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1288x1450-64ab5a9df84466cba65c0632b6c2587f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1456-5d555f56d733aed084d5612071018c9d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Studios"
+  },
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2",
+      "namespace": "crab",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Coffee Stain"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

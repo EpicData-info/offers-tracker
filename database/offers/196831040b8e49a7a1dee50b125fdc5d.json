@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-19T17:41:00.000Z",
+  "creationDate": "2019-08-19T21:45:36.864Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "abzu/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ABZU",
+  "id": "196831040b8e49a7a1dee50b125fdc5d",
+  "namespace": "epic",
+  "description": "ABZU",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "23"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "7af7476ff9eb4a8d9cd9d6486224de76"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "abzu/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "dedd448c38d947ab90291540f183378b"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "dedd448c38d947ab90291540f183378b",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Giant Squid"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "abzu/home"
+      }
+    ]
+  }
+}

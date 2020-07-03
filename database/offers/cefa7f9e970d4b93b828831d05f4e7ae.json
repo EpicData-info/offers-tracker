@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-02-25T19:50:47.920Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-02-26T16:00:00.000Z",
+  "productSlug": "gonner/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "GoNNER",
+  "id": "cefa7f9e970d4b93b828831d05f4e7ae",
+  "namespace": "epic",
+  "description": "GoNNER",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S1_DESCRIPTION-2560x1440-06254a47f26133e9c50c36b9ba5a4539.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_S2_DESCRIPTION-1280x1440-27d8b7fa65e5b130cbcf759a6c1204a9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_ART_IN_HEART_GONNER_IC1_DESCRIPTION-1500x500-1e41f75b20f643158b9f78a80b3ffc2c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10721"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "109273d8719f46b9b89cb912a6649e5c"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "bef777f5e5e74f6a942384638c41cc51"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gonner/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "bef777f5e5e74f6a942384638c41cc51",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Raw Fury"
+      },
+      {
+        "key": "developerName",
+        "value": "Art in Heart"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "gonner/home"
+      }
+    ]
+  }
+}

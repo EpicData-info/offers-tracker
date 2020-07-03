@@ -1,0 +1,61 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-29T17:51:00.000Z",
+  "creationDate": "2019-08-29T21:52:32.787Z",
+  "lastModifiedDate": "2020-01-08T15:00:00.091Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test Pack 3",
+  "id": "6ae8ccfb4f714219a76ac172e778341c",
+  "namespace": "azalea",
+  "description": "Test Pack 3",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "4b4fc4b7b9f64730a83e6fb6893a8b2a",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "5789713a36bf4cd3b7d1b841ac2fc738",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "798661e7eb634bee956a0ff0f07df61b",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-28T13:00:00.000Z",
+  "creationDate": "2020-02-18T21:49:47.745Z",
+  "lastModifiedDate": "2020-05-28T14:00:00.264Z",
+  "viewableDate": null,
+  "productSlug": "sludge-life/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Sludge Life",
+  "id": "13f7f3e05e91444585e9be24b59fe536",
+  "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "description": "Sludge Life",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "d2ca9714bd8d44ea82541c5208edf85b",
+      "namespace": "158a0eaa18574bb39347c04286d118c7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Terri Vellmann & Doseone"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sludge-life/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

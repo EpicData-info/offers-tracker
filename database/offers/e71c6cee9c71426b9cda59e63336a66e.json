@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "creationDate": "2019-09-03T21:07:43.654Z",
+  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
+  "viewableDate": null,
+  "productSlug": "zombie-army-4-dead-war/undercover-karl",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Undercover Karl Outfit",
+  "id": "e71c6cee9c71426b9cda59e63336a66e",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "description": "Undercover Karl Outfit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_UNDERCOVERKARLDLC_KEYREDEMPTION-860x1180-ce7f3476c6f6b23c532187cb08e18b09.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_UNDERCOVERKARLDLC_KEYREDEMPTION-860x1180-ce7f3476c6f6b23c532187cb08e18b09-860x1180-ce7f3476c6f6b23c532187cb08e18b09.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_UNDERCOVERKARLDLC_KEYREDEMPTION-860x1180-ce7f3476c6f6b23c532187cb08e18b09-860x1180-ce7f3476c6f6b23c532187cb08e18b09.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_UNDERCOVERKARLOUTFIT-900x450-bd8f72781567b12137b8133d146fec43-900x450-bd8f72781567b12137b8133d146fec43.png"
+    }
+  ],
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "items": [
+    {
+      "id": "a537439bb3694303a40fb87f56a38d73",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/undercover-karl"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

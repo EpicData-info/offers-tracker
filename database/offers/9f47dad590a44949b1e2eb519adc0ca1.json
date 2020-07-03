@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-19T00:00:00.000Z",
+  "creationDate": "2020-02-18T21:28:30.255Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-siege/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rainbow Six Siege",
+  "id": "9f47dad590a44949b1e2eb519adc0ca1",
+  "namespace": "carnation",
+  "description": "Rainbow Six Siege Standard Edition Y5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC-ALL_Extra_Visuals_Description_1920x1080-1920x1080-b9d9a232e21f0792765111e8e3b0861a9b4fb5b8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "db458f11048f43c2846368d166acba91",
+      "namespace": "carnation",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-siege/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

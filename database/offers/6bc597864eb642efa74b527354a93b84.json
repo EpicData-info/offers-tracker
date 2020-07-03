@@ -1,0 +1,63 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-31T19:51:00.000Z",
+  "creationDate": "2018-10-31T23:52:04.735Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-31T19:51:00.000Z",
+  "productSlug": "showmaker",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Showmaker Dev Kit",
+  "id": "6bc597864eb642efa74b527354a93b84",
+  "namespace": "epic",
+  "description": "Showmaker Dev Kit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/showmaker_White-3738x459-873fe388632f69e28e63f1d16270273c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-6scaa9jsj4mnlnn4dgcvdekny3xcag",
+    "name": "Preapp Partners"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "showmaker"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "showmaker"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "7178958ecc57448b88812b2a22cb228b"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "7178958ecc57448b88812b2a22cb228b",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "showmaker"
+      }
+    ]
+  }
+}

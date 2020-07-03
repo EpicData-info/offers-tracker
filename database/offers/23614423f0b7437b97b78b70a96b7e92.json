@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-11T00:00:00.000Z",
+  "creationDate": "2019-07-12T21:26:47.744Z",
+  "lastModifiedDate": "2020-07-02T18:38:01.157Z",
+  "viewableDate": null,
+  "productSlug": "manifold-garden/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Manifold Garden",
+  "id": "23614423f0b7437b97b78b70a96b7e92",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "description": "Manifold Garden",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+    "name": "William Chyr Studio"
+  },
+  "items": [
+    {
+      "id": "3b417973d16d4ffa88c972599d2f5dd3",
+      "namespace": "015763e579d4479cb1ef7780bf91804f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "William Chyr Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "manifold-garden/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

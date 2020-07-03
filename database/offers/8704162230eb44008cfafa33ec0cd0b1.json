@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:41:54.887Z",
+  "lastModifiedDate": "2020-05-11T15:07:20.092Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/germany",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Germany DLC",
+  "id": "8704162230eb44008cfafa33ec0cd0b1",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "Germany",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/GERMANY-1360x766-f4f5dca65e4f26ac66d320ff089126b8bac7c01a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_germany_Mobile-Vertical-510x680-510x680-29eed5e85a725428763eb9df7fba65a4136bfd8f-510x680-42f70b6b137632c9ce2accf2622ce131.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_germany_Mobile-Vertical-510x680-510x680-29eed5e85a725428763eb9df7fba65a4136bfd8f-510x680-42f70b6b137632c9ce2accf2622ce131.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "2a38d9c89c99491b99962f9320c7e3d0",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/germany"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

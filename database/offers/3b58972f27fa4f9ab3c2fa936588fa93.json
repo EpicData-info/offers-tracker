@@ -1,0 +1,41 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-11-21T22:49:35.986Z",
+  "lastModifiedDate": "2020-06-24T18:59:33.591Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC 1",
+  "id": "3b58972f27fa4f9ab3c2fa936588fa93",
+  "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "description": "Specialist Pack DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "809028df1fd6432f835b3cf0ae9c27d4",
+      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

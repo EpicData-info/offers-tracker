@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-04T11:00:00.000Z",
+  "creationDate": "2019-11-27T21:43:02.722Z",
+  "lastModifiedDate": "2020-05-12T15:51:48.361Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Crew 2 Trial",
+  "id": "a28b2aa9c98748a88a883a88378a9ca1",
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "description": "The Crew 2 Trial",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "26ac4eac5d764edbb4cdc1e1e880a263",
+      "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ivory Tower"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games/trial"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

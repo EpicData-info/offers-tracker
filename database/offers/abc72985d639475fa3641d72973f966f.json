@@ -1,0 +1,65 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-04T18:00:00.000Z",
+  "creationDate": "2020-02-25T13:51:45.745Z",
+  "lastModifiedDate": "2020-04-02T03:01:43.597Z",
+  "viewableDate": null,
+  "productSlug": "offworld-trading-company/conspicuous-comsumption",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Offworld Trading Company: Conspicuous Consumption DLC",
+  "id": "abc72985d639475fa3641d72973f966f",
+  "namespace": "e8882546f28e4832af823c646aed232e",
+  "description": "Offworld Trading Company: Conspicuous Consumption DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "items": [
+    {
+      "id": "a43bd1b21cce43bca9dda988d8899db8",
+      "namespace": "e8882546f28e4832af823c646aed232e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/conspicuous-comsumption"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

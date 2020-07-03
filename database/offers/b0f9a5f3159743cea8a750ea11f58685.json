@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-24T05:00:00.000Z",
+  "creationDate": "2019-03-25T15:48:10.559Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "walking-dead-michonne/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Walking Dead: Michonne",
+  "id": "b0f9a5f3159743cea8a750ea11f58685",
+  "namespace": "epic",
+  "description": "The Walking Dead: Michonne",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_DieselGameLogo-400x265-252ca2378fe46f3292f994eabea2d3ea.png"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "890"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "fennel"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "walking-dead-michonne/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "96fc42dfd48f4689afa8ddf5227198d5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "96fc42dfd48f4689afa8ddf5227198d5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Skybound Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Telltale Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "walking-dead-michonne/home"
+      }
+    ]
+  }
+}

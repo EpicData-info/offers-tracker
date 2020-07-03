@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-23T15:17:04.498Z",
+  "lastModifiedDate": "2019-09-23T15:17:04.498Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "CastleStorm 2 Alpha",
+  "id": "e5147de67176405389fe937870453e5a",
+  "namespace": "ed355406eacb4633a648f682ddb492b8",
+  "description": "CastleStorm 2 Alpha",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "items": [
+    {
+      "id": "fad7395f2afa449b99aed0946be8140f",
+      "namespace": "ed355406eacb4633a648f682ddb492b8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "creationDate": "2020-03-16T20:13:53.086Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "levelhead/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Levelhead",
+  "id": "2c38503c83df4fd4ae7cd9c3a8a50ce8",
+  "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "description": "Levelhead",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+    "name": "Butterscotch Shenanigans"
+  },
+  "items": [
+    {
+      "id": "e645bf00f4864e4aba3dae980b4c9209",
+      "namespace": "d33c2a64808e434b85eb1329f65431b1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Butterscotch Shenanigans"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "levelhead/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-11T10:00:00.000Z",
+  "creationDate": "2018-11-27T01:06:23.366Z",
+  "lastModifiedDate": "2020-05-13T15:35:51.211Z",
+  "viewableDate": "2018-11-26T20:11:00.000Z",
+  "productSlug": "world-war-z/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "World War Z",
+  "id": "fc0961b1743c40f39447c6a27c3f0dd3",
+  "namespace": "epic",
+  "description": "World War Z",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/wwz_logo_1-391x171-18a47f7e832316d745e65c64d200ab8b.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WWZ Portrait-865x960-9f5446b7c1f3d9a2d860dfb096900f8c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WWZ Promo-960x540-961ae66fcc3a546a55f82b2daeff8b5d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10380"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "wombat"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "world-war-z/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e197498aa95c4010965d34f498f64c81"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e197498aa95c4010965d34f498f64c81",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Saber Interactive"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "world-war-z"
+      }
+    ]
+  }
+}

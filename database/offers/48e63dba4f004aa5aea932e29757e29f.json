@@ -1,0 +1,38 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-10-08T00:00:00.000Z",
+  "creationDate": "2015-10-08T06:52:14.671Z",
+  "lastModifiedDate": "2020-04-29T00:46:41.077Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test to promote offer to public",
+  "id": "48e63dba4f004aa5aea932e29757e29f",
+  "namespace": "SeaQA",
+  "description": "Test to promote offer to public",
+  "longDescription": "Test to promote offer to public",
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": null,
+    "name": "Kallie Olli"
+  },
+  "items": [
+    {
+      "id": "7b9de2aabbbd440ab92709678800dc9c",
+      "namespace": "SeaQA",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "testing"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

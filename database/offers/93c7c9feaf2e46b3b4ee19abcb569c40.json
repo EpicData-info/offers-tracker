@@ -1,0 +1,83 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-17T00:00:00.000Z",
+  "creationDate": "2020-03-17T16:56:33.305Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-17T00:00:00.000Z",
+  "productSlug": "insurgency-sandstorm-mod-tools",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Insurgency: Sandstorm - Mod Tools & Editor",
+  "id": "93c7c9feaf2e46b3b4ee19abcb569c40",
+  "namespace": "epic",
+  "description": "Insurgency: Sandstorm - Mod Tools & Editor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_InsurgencySandstormModToolsEditor_NewWorldInteractive_S1-2560x1440-5e3c175f6c598dd5f95172fe14ba01ae.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_InsurgencySandstormModToolsEditor_NewWorldInteractive_IC1-200x200-5cc1a644d375fde95ddcec33faa9568d.png"
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_InsurgencySandstormModToolsEditor_NewWorldInteractive_S2-860x1148-72b3fc5e2d58db0aea6af6f4dcee9e8f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_InsurgencySandstormModToolsEditor_NewWorldInteractive_S2-860x1148-72b3fc5e2d58db0aea6af6f4dcee9e8f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_InsurgencySandstormModToolsEditor_NewWorldInteractive_S1-2560x1440-5e3c175f6c598dd5f95172fe14ba01ae.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-25b82132af7e43b283b89c66def23a",
+    "name": "New World Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "94cec4802e954a6c9579e29e8b817f3a"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "insurgency-sandstorm-mod-tools"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "3040b13256b4463dae6358738d62d5e5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "3040b13256b4463dae6358738d62d5e5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "developerName",
+        "value": "New World Interactive"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "insurgency-sandstorm-mod-tools"
+      }
+    ]
+  }
+}

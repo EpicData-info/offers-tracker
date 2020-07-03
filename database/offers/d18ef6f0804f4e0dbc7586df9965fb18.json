@@ -1,0 +1,91 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-20T23:13:00.000Z",
+  "creationDate": "2018-10-10T03:17:19.490Z",
+  "lastModifiedDate": "2020-04-08T18:07:15.114Z",
+  "viewableDate": "2018-10-20T23:13:00.000Z",
+  "productSlug": "shadow-complex",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Shadow Complex Remastered",
+  "id": "d18ef6f0804f4e0dbc7586df9965fb18",
+  "namespace": "epic",
+  "description": "ShadowComplexRemastered",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/shadown_logo-548x552-907ea59706669232c47ceb46ac71956b-548x552-907ea59706669232c47ceb46ac71956b.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EpicStore_Medium_NoLogo_1288x1450-1288x1450-784edc73d4f0d6b1fb992b9dcbd64c83.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/epic/offer/StarLogosmall-short-400x430-825bf96a0909d12f61b05df735fc4b91-400x430-825bf96a0909d12f61b05df735fc4b91.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/vprwide-960x540-ab9c6c9f4d2d7b8438047fcb8972876f.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/sc_box-960x600-58208cea939e082c7d6cb1e4fc24b92a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "2"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "vpr"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shadow-complex"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "497cdc35842e458ca10a1edae95ae181"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "497cdc35842e458ca10a1edae95ae181",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Epic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "shadow-complex"
+      }
+    ]
+  }
+}

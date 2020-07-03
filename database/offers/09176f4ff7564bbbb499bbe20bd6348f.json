@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2017-09-20T13:00:00.000Z",
+  "creationDate": "2017-05-16T20:01:43.170Z",
+  "lastModifiedDate": "2020-06-17T07:17:15.598Z",
+  "viewableDate": "2017-09-20T13:00:00.000Z",
+  "productSlug": "fortnite",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Fortnite",
+  "id": "09176f4ff7564bbbb499bbe20bd6348f",
+  "namespace": "fn",
+  "description": "Fortnite",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S3_2560x1440-2560x1440-d86c767e553abfe463f0451a18afbd16.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S4_1200x1600-1200x1600-2f8962a1b58ac78537cb85bb5bc033c1.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_Thumbnail-576x576-78a4c2140ed2fa633c0df9ee3dcbca39.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S1_2560x1440-2560x1440-8a072649c6998da7f046ddfa8ba92995.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S2_1200x1600-1200x1600-a39a6070e97ea0938d60ca3b19cbbe7b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "48ff3f41680e403bb2717737f68731c5",
+      "namespace": "fn",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Epic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fortnite"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

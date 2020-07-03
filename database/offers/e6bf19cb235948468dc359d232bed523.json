@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T12:00:00.000Z",
+  "creationDate": "2019-05-23T16:37:13.191Z",
+  "lastModifiedDate": "2020-05-13T20:34:11.566Z",
+  "viewableDate": null,
+  "productSlug": "the-sinking-city/home#dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Chicago Organ Grinder",
+  "id": "e6bf19cb235948468dc359d232bed523",
+  "namespace": "middlemist",
+  "description": "Chicago Organ Grinder",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BIGBEN_Standard-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/TSC_GUN-2560x1440-469205b012d9c3d8fc27b7f229290d620a7440a1.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "be143142bd66446e9b9ba3faac023593",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-sinking-city/home#dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

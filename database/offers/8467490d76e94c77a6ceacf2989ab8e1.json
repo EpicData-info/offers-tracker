@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-07-24T21:49:28.840Z",
+  "lastModifiedDate": "2019-10-25T12:50:03.829Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "HeatherDevAudience",
+  "id": "8467490d76e94c77a6ceacf2989ab8e1",
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "description": "HeatherDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+    "name": "Rockstar Games"
+  },
+  "items": [
+    {
+      "id": "2e472f01629f4e2e975db5b4febae8dc",
+      "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Rockstar Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

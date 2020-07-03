@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-11-29T20:22:00.000Z",
+  "creationDate": "2018-11-30T01:22:51.481Z",
+  "lastModifiedDate": "2020-04-29T00:38:35.276Z",
+  "viewableDate": null,
+  "productSlug": "super-meat-boy-forever",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Super Meat Boy Forever",
+  "id": "7fa6db20cbb14558a8ed6146a1b33628",
+  "namespace": "moose",
+  "description": "Super Meat Boy Forever",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMBF_Logo-792x314-ef8346d1de89ea4bb77178778eb4fb26.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMBF_PortraitPromo-1288x1450-cd06de90cc95aebe671eb17bc4f8f9b5-1288x1450-0348b35fb4aaa317927822e5b9af13a4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMBF_PrimaryPromo-2580x1456-52f1cbe2c2d2fb24f28e7e565a316ccd-2580x1456-c6cd23df9bb4587b4ab449cb4448b453-2580x1456-85dc3f1f59d6dab371621adedee5e355.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMBF_PortraitPromo-1288x1450-cd06de90cc95aebe671eb17bc4f8f9b5-1288x1450-0348b35fb4aaa317927822e5b9af13a4.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/moose/offer/SMBF_PrimaryPromo-2580x1456-52f1cbe2c2d2fb24f28e7e565a316ccd-2580x1456-c6cd23df9bb4587b4ab449cb4448b453.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/moose/offer/SuperMeatBoyForever_CodeRedemption-330x440-ecc3ee730dc347e60f4d3933269d81c7.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/moose/offer/SMBF_PrimaryPromo-2580x1456-52f1cbe2c2d2fb24f28e7e565a316ccd-2580x1456-c6cd23df9bb4587b4ab449cb4448b453-2580x1456-c6cd23df9bb4587b4ab449cb4448b453.png"
+    }
+  ],
+  "seller": {
+    "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+    "name": "Team Meat"
+  },
+  "items": [
+    {
+      "id": "3ffce83043a54e3a859271a43aa78507",
+      "namespace": "moose",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Team Meat"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "super-meat-boy-forever"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

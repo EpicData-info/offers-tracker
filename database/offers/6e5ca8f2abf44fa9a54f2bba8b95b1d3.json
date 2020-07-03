@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-26T15:00:00.000Z",
+  "creationDate": "2019-09-24T19:18:27.768Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "minit/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Minit",
+  "id": "6e5ca8f2abf44fa9a54f2bba8b95b1d3",
+  "namespace": "epic",
+  "description": "Minit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Minit-2578x1028-7f50d57b860cf02768c979eb35715b2d.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_L1_library_promo-2560x1440-c051f2ac59e585262f03b233c18b8304.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_S2_store_promo_portrait-1280x1440-39ff6477e8f475577b0a751035ef4a4a.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-b739c4e7e9c9f802bcc400ac58f16c5b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "45"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "43605e89e49d438485298819a7ef17b4"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "minit/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "c3bb66a9e2064fa580597cee86cbc1df"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "c3bb66a9e2064fa580597cee86cbc1df",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "JW, Kitty, Jukio, and Dom"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "minit/home"
+      }
+    ]
+  }
+}

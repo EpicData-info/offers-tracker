@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "creationDate": "2019-11-05T02:33:01.135Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Just Cause 4 Expansion Pass",
+  "id": "3ee95e2f62ae481990cca174f7f9e5de",
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "description": "Just Cause 4 Expansion Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Expansion-Pass-2560x1440-2560x1440-4bf9c65de2f1d0b5f3da6f2bde22bd3a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Expansion-Pass-860x1148-860x1148-45837094623c995500e989a0afc081c7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Expansion-Pass-860x1148-860x1148-45837094623c995500e989a0afc081c7-860x1148-45837094623c995500e989a0afc081c7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "items": [
+    {
+      "id": "8d4b615788274ceba22fc3764c25a0d6",
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

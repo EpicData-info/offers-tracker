@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-04T09:00:00.000Z",
+  "creationDate": "2019-02-25T18:39:47.687Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "outward/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outward",
+  "id": "8806877c1c0d426ba71cb2a7a5e836ec",
+  "namespace": "epic",
+  "description": "Outward",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_horizontal-520x292-4d1bf4d3f14cdc7899dc29a8db05dd6f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_vertical-400x530-1b6ef1bdbb5317926d22e25e6327c54d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5011"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "viola"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outward/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e2495be2de784cba8355e436b1e185e8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e2495be2de784cba8355e436b1e185e8",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Deep Silver"
+      },
+      {
+        "key": "developerName",
+        "value": "Nine Dots Studio"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "outward/home"
+      }
+    ]
+  }
+}

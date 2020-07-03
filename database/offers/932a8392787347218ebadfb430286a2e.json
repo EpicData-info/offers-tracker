@@ -1,0 +1,99 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "creationDate": "2019-08-08T20:32:37.047Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-odyssey/ultimate-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Odyssey - Ultimate Edition",
+  "id": "932a8392787347218ebadfb430286a2e",
+  "namespace": "clary",
+  "description": "Assassin's Creed Odyssey - Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/clary/item/AssassinsCreedOdyssey_M-842x404-e9738394c984e43957afc0fcb609276d.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_Ult-330x440-efcbc8fd6d67a605464021d0c651df57.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/Boxart_708x1000-708x1000-dd9adab6e08d7dc59abd371737e6e036.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_Ultimate_Capsule-1920x1080-4beb4cff92eb08d59b75ffb6ac54cafb0ea2ba77.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "9495b39881344258ac66fed713407ba7",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "154b695c533a498d98a743f92d8d7da0",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "ee8454da25fd4020a369d60f38f28992",
+      "namespace": "anise",
+      "developer": null
+    },
+    {
+      "id": "59a44fdb47694c5ca355b48598bcb456",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "442e2e2af1914fcc8b28e1e3b6e03c03",
+      "namespace": "clary",
+      "developer": null
+    },
+    {
+      "id": "b4092088f3ab4e6c8af30abeb33eebf9",
+      "namespace": "clary",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey/ultimate-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

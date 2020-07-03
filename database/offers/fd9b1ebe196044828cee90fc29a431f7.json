@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-29T16:00:00.000Z",
+  "creationDate": "2019-11-26T16:34:10.206Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2019-12-28T15:50:00.000Z",
+  "productSlug": "the-talos-principle/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Talos Principle",
+  "id": "fd9b1ebe196044828cee90fc29a431f7",
+  "namespace": "epic",
+  "description": "The Talos Principle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S2-1280x1440-516e2f2250c72eba7ecbee2fb5a2a26f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_S1-2560x1440-c41664a17b8d7e40d02340a74123d984.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Croteam_TheTalosPrinciple_IC1-200x72-e767099f4eacf99000a9b87af1c85f4c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "400cc6605aee41de88f976b587a48aa0"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-talos-principle/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "afe468383a89436e889fd8d9d06d827e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "afe468383a89436e889fd8d9d06d827e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "Croteam"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-talos-principle/home"
+      }
+    ]
+  }
+}

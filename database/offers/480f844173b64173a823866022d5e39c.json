@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-20T20:19:50.811Z",
+  "lastModifiedDate": "2020-01-20T20:19:50.811Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bloodroots Press",
+  "id": "480f844173b64173a823866022d5e39c",
+  "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "description": "Bloodroots Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6fych9fc46deb48wb6fw8th6695pnl",
+    "name": "Paper Cult"
+  },
+  "items": [
+    {
+      "id": "f67c84ec33d942158cf024510b4132f2",
+      "namespace": "25ef88acc7f34afc8ac6669e11573882",
+      "developer": null
+    },
+    {
+      "id": "a233411dd8f746b0834ab1b076753179",
+      "namespace": "25ef88acc7f34afc8ac6669e11573882",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Paper Cult"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

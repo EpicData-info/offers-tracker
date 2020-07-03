@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "creationDate": "2019-12-16T21:14:42.589Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "towerfall-ascension/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "TowerFall Ascension",
+  "id": "99c0e480aa634b11be54bd02b018ee1c",
+  "namespace": "epic",
+  "description": "TowerFall Ascension",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MattMakesGames_TowerFall_S4-510x680-23e38145d628e5686c9b9ca20589f21d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MattMakesGames_TowerFall_G1C_00-1920x1080-392f023a86c14fc47df342a2c209c17b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-82l4kr2zqqhkqqa6mkut4pjx9lma3h",
+    "name": "Matt Makes Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "2009"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "8e66d3f552b448afb1889c32ac855fc9"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "towerfall-ascension/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "14f7d8fdd5a44768b8aad40c6a5ae018"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "14f7d8fdd5a44768b8aad40c6a5ae018",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Matt Makes Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "towerfall-ascension/home"
+      }
+    ]
+  }
+}

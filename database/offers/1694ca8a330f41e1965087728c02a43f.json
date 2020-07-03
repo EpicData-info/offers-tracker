@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-10T18:16:52.210Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "yaga/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yaga",
+  "id": "1694ca8a330f41e1965087728c02a43f",
+  "namespace": "epic",
+  "description": "Yaga",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_Primary-2560x1440-bf9599c91ef87274fc002f48af90e831.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10555"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "bec57b5341ad4294b005a7dd18691419"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yaga/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "16b8d80102a64760b02276bce4429d3b"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "16b8d80102a64760b02276bce4429d3b",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "publisherName",
+        "value": "Versus Evil"
+      },
+      {
+        "key": "developerName",
+        "value": "Breadcrumbs"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "yaga/home"
+      }
+    ]
+  }
+}

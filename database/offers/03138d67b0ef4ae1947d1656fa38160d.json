@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T12:31:00.000Z",
+  "creationDate": "2019-01-29T17:33:56.287Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "jackbox-party-pack-4",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack 4",
+  "id": "03138d67b0ef4ae1947d1656fa38160d",
+  "namespace": "epic",
+  "description": "The Jackbox Party Pack 4",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Portrait Promo-1280x1420-2247bcb675d2ee1f4fa1a38429f5a08c.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game Icon_transparent-400x400-3b75a8f3aec1118703d4e7ac10fe2c64.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP4 Primary Promo-2580x1450-3d2a3596c1cbfda7acc7ffd5cccad151.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "snowdrop"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "da763a33956745888bea060de7ecf059"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-4"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "da763a33956745888bea060de7ecf059",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Jackbox Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "jackbox-party-pack-4"
+      }
+    ]
+  }
+}

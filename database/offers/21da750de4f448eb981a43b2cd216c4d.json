@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T14:25:00.000Z",
+  "creationDate": "2019-01-29T19:44:30.799Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "drawful-2",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Drawful 2",
+  "id": "21da750de4f448eb981a43b2cd216c4d",
+  "namespace": "epic",
+  "description": "Drawful 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "23"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "daisy"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a95fc18c1d7846b2833f9d42d5d9c658"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "drawful-2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a95fc18c1d7846b2833f9d42d5d9c658",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Jackbox Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "drawful-2"
+      }
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "creationDate": "2020-03-16T16:10:41.171Z",
+  "lastModifiedDate": "2020-05-07T15:00:12.200Z",
+  "viewableDate": "2020-04-23T15:00:00.000Z",
+  "productSlug": "crashlands/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Crashlands",
+  "id": "50c1f8b00eff4eb68b474bf57a2bf7bc",
+  "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+  "description": "Crashlands",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S1-2560x1440-2971f9f3be6e0b5b7e69818577240f54.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S1-2560x1440-2971f9f3be6e0b5b7e69818577240f54.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1b8a504ec52d4430b65cca2990ad6c7f/offer/EGS_Crashlands_ButterscotchShenanigans_S2-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3-860x1148-e6c8ea92aee1ce922cd67bc9355e0ea3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
+    "name": "Butterscotch Shenanigans"
+  },
+  "items": [
+    {
+      "id": "c20237aaea0a4c3da6b61957ebbce9f3",
+      "namespace": "1b8a504ec52d4430b65cca2990ad6c7f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Butterscotch Shenanigans"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "crashlands/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

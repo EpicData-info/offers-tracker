@@ -1,0 +1,92 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-21T22:00:00.000Z",
+  "creationDate": "2019-03-19T02:04:08.177Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "the-sinking-city/necronomicon-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Sinking City Necronomicon Edition",
+  "id": "6d41453a02a04beca556a36ceff43855",
+  "namespace": "middlemist",
+  "description": "The Sinking City Necronomicon Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "63774f386e7c423fb0834e40cde3ddeb",
+      "namespace": "middlemist",
+      "developer": null
+    },
+    {
+      "id": "dedda7d8eafc4b29bfbac110f43dcacf",
+      "namespace": "middlemist",
+      "developer": null
+    },
+    {
+      "id": "3ce3782bfb70481aa4868d81b38c8e03",
+      "namespace": "middlemist",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Frogwares"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-sinking-city/necronomicon-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

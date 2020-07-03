@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-26T16:00:00.000Z",
+  "creationDate": "2019-12-07T05:27:29.819Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "faster-than-light/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Faster Than Light",
+  "id": "18a61bb469a04bf0bceff64e36219e13",
+  "namespace": "epic",
+  "description": "Faster Than Light",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S3-1360x766-15ef01276cd5af80502befbea772aef3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S4-510x680-d7dc55fdf50128a3f3a8f7a8e770b631.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_IC1-200x200-7c03cdcea4b4fe781c576203488c92b6.png"
+    }
+  ],
+  "seller": {
+    "id": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
+    "name": "Subset Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "78"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "f7dc1618d0bd4810a61f50d44333900e"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faster-than-light/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "61b641c3702f4770ac525101b39f0063"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "61b641c3702f4770ac525101b39f0063",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Subset Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "faster-than-light/home"
+      }
+    ]
+  }
+}

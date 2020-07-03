@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-09T16:00:00.000Z",
+  "creationDate": "2020-01-04T02:38:23.636Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "sundered-eldritch-edition/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Sundered Eldritch Edition",
+  "id": "a1dc8e1eae69492d8af58ffc87b37fd2",
+  "namespace": "epic",
+  "description": "Sundered Eldritch Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
+    "name": "Thunder Lotus Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5989"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "ca8077d80493497188e0ca5bca3ebe60"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sundered-eldritch-edition/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f6aee57bdd3445d4973bbbb639e8e8d5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "f6aee57bdd3445d4973bbbb639e8e8d5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Thunder Lotus"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "sundered-eldritch-edition/home"
+      }
+    ]
+  }
+}

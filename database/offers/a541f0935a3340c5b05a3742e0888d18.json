@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-14T15:00:00.000Z",
+  "creationDate": "2019-03-18T05:25:27.711Z",
+  "lastModifiedDate": "2020-06-02T18:00:05.384Z",
+  "viewableDate": null,
+  "productSlug": "industries-of-titan/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Industries of Titan",
+  "id": "a541f0935a3340c5b05a3742e0888d18",
+  "namespace": "protea",
+  "description": "Industries of Titan",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_OfferImage_2560x1440-2560x1440-b850a1d7c7d7e9cdfc643a8684a4b596.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_OfferImage_2560x1440-2560x1440-b850a1d7c7d7e9cdfc643a8684a4b596.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT-Update1_CapsuleImage_1200x1600-1200x1600-6db2512e084b709b77cbd3bc61b6206b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
+    "name": "Brace Yourself Games"
+  },
+  "items": [
+    {
+      "id": "813d4f7d95bb4debbd9e3e0612c71b5c",
+      "namespace": "protea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Brace Yourself Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "industries-of-titan/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

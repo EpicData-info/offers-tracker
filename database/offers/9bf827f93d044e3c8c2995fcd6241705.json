@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-07-12T21:26:47.821Z",
+  "lastModifiedDate": "2019-10-18T12:58:56.589Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "LorikeetDevAudience",
+  "id": "9bf827f93d044e3c8c2995fcd6241705",
+  "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "description": "LorikeetDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
+    "name": "William Chyr Studio"
+  },
+  "items": [
+    {
+      "id": "f47b1a9fbcd34709ba0f59d2178d4fc3",
+      "namespace": "015763e579d4479cb1ef7780bf91804f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "William Chyr Studio"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

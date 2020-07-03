@@ -1,0 +1,57 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2019-10-22T01:20:30.144Z",
+  "lastModifiedDate": "2020-07-02T14:27:03.532Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Wicked Ward",
+  "id": "b42bfda0f28446c0a0e93e74911e4379",
+  "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "description": "Wicked Ward",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2WickedWard_Team17DigitalLtd_DLC_S1-2560x1440-c8e8d53fc81606c388e423f0995dbb08.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2WickedWard_Team17DigitalLtd_DLC_S2-1200x1600-83535b6f568dbfdc2a674a0adeae0ddc.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2WickedWard_Team17DigitalLtd_DLC_S2-1200x1600-83535b6f568dbfdc2a674a0adeae0ddc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "72620675f0e549f39d8e28b77fb88303",
+      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

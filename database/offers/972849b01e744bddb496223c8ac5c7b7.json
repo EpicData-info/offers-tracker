@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-14T00:00:00.000Z",
+  "creationDate": "2019-06-03T15:04:21.511Z",
+  "lastModifiedDate": "2020-04-23T18:33:34.230Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs-legion",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs: Legion",
+  "id": "972849b01e744bddb496223c8ac5c7b7",
+  "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "description": "Watch Dogs: Legion Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-d3c8cb7bd3bf9de59d241c0aa401a966.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d77e53f7886a4c618b9fa6582112330b",
+      "namespace": "0a84818055e740a7be21a2e5b6162703",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609473600"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-legion"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

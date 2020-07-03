@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-08T15:00:00.000Z",
+  "creationDate": "2020-03-02T14:34:14.311Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Totally Reliable Delivery Service Deluxe Edition",
+  "id": "ec247631278d4ccda3eebb9f0ffb3391",
+  "namespace": "52b90f9a982a404781b189f6a7903226",
+  "description": "Totally Reliable Delivery Service Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/DeluxeEdition_SuperHeroArt_Titled-1920x1080-b42eeb723496bf61219a1e38e40f1190.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_deluxe-edition_EGS_TotallyReliableDeliveryServiceDeluxeEdition_WereFiveGames_Editions_G1A_00-1920x1080-5f858985bb86b08461163dd080c316164cffb0a5-1920x1080-4132fa5f66c74f510fd76dfa6ac6e2ea.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "67ef4a99ae664966bc3da58fdf731d36",
+      "namespace": "52b90f9a982a404781b189f6a7903226",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tinybuild LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "We're Five Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

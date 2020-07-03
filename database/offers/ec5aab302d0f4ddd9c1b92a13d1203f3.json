@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "creationDate": "2020-02-17T21:17:12.362Z",
+  "lastModifiedDate": "2020-05-12T16:19:51.992Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "400 Crystals",
+  "id": "ec5aab302d0f4ddd9c1b92a13d1203f3",
+  "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "description": "400 Crystals",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_2560x1440-2560x1440-51d9a88b490c070262d4b7313d098e25.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_860x1148-860x1148-15799902934091d138b25b7f5217768d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_400Crystals_2560x1440-2560x1440-51d9a88b490c070262d4b7313d098e25.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "eb577099b8954053992ff40c176f3436",
+      "namespace": "badb0ee71b474ed591ec43212547cfc8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

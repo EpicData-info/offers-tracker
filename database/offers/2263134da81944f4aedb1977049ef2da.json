@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "creationDate": "2019-07-10T17:36:07.133Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "this-war-of-mine/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "This War of Mine",
+  "id": "2263134da81944f4aedb1977049ef2da",
+  "namespace": "91189432bbad4478afd611edff7f0339",
+  "description": "This War of Mine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_TWOM_S3-1280x1440-05072c2b43427a358c5bd0306840179c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_TWOM_IC2-400x400-bd7b04915cccc18df7d5a81c8716fbb0.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_TWOM_S3-1280x1440-05072c2b43427a358c5bd0306840179c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionThisWarofMine-340x440-4bf7e48149df5b4668ec329c13c7d692.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_TWOM_L1-2560x1440-d08b1d2f6ebc1963f159db8debf35990.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
+    "name": "11 Bit Studios"
+  },
+  "items": [
+    {
+      "id": "22892fe45ef14770803d678b2a94a6e9",
+      "namespace": "91189432bbad4478afd611edff7f0339",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "11 Bit Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "this-war-of-mine/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

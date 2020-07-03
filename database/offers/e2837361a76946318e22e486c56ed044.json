@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-10-17T20:24:13.337Z",
+  "lastModifiedDate": "2020-05-11T15:28:10.572Z",
+  "viewableDate": null,
+  "productSlug": "ticket-to-ride/france",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "France DLC",
+  "id": "e2837361a76946318e22e486c56ed044",
+  "namespace": "b4d9169e1b8548f2babec33107253309",
+  "description": "France DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_FRANCE_Desktop-horizontal-1360x766-16e2d1fa16c5d62c35e51e66e03358470e5c9fd7.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_france_Mobile-Vertical-510x680-510x680-4b0eca4f3c3850505a74fe767016d3cc3eff5480-510x680-df46987c62576a77d793a35efbd84ccd.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_france_Mobile-Vertical-510x680-510x680-4b0eca4f3c3850505a74fe767016d3cc3eff5480-510x680-df46987c62576a77d793a35efbd84ccd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "cc5553ae67664091a8ad553021dd2c9f",
+      "namespace": "b4d9169e1b8548f2babec33107253309",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Asmodee Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Days of Wonder"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ticket-to-ride/france"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

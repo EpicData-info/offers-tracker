@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-31T15:00:00.000Z",
+  "creationDate": "2019-10-01T23:32:54.379Z",
+  "lastModifiedDate": "2020-06-02T22:17:09.550Z",
+  "viewableDate": null,
+  "productSlug": "soma/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SOMA",
+  "id": "4c0ccb5098414557a12a921d8c17acb2",
+  "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+  "description": "SOMA",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
+    "name": "Frictional Games"
+  },
+  "items": [
+    {
+      "id": "fdf06e7fedfd4644ba70aa09f8b61a63",
+      "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frictional Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "soma/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

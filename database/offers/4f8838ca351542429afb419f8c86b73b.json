@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-02T15:00:00.000Z",
+  "creationDate": "2020-03-07T05:23:41.889Z",
+  "lastModifiedDate": "2020-06-02T15:01:32.179Z",
+  "viewableDate": "2020-06-02T15:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bright Harvest - DLC",
+  "id": "4f8838ca351542429afb419f8c86b73b",
+  "namespace": "oregano",
+  "description": "Bright Harvest - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Store_Landscape_2580x1450-2580x1450-68e28f40d51aece7c0eb61062162b18a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "4ad09db8de8b4cec9221f5b253a57f30",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "a8f33e397cd14165bc0d749e379fa4db",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

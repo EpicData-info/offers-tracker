@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-12-03T09:00:00.000Z",
+  "creationDate": "2019-12-03T14:03:16.348Z",
+  "lastModifiedDate": "2019-12-17T13:42:35.883Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "BatfishDevAudience",
+  "id": "431aae17eb3042a19cddd607accc4c81",
+  "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "description": "BatfishDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+    "name": "Athlon Games"
+  },
+  "items": [
+    {
+      "id": "578266fce6094d3b9daeb4e6db3521c7",
+      "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Athlon Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

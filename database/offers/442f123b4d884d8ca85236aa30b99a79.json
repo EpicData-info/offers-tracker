@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-22T00:00:00.000Z",
+  "creationDate": "2019-08-09T14:07:34.776Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "fez/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Fez",
+  "id": "442f123b4d884d8ca85236aa30b99a79",
+  "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "description": "Fez",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
+    "name": "Polytron Corporation, Inc"
+  },
+  "items": [
+    {
+      "id": "8914dc9a7f43416da4941898fce9a98f",
+      "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Polytron Corporation, Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fez/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

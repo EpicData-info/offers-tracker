@@ -1,0 +1,102 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-18T17:08:00.000Z",
+  "creationDate": "2019-03-18T21:12:01.963Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "the-outer-worlds/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Outer Worlds",
+  "id": "7cd546797aed4d969037f8055fadf37e",
+  "namespace": "epic",
+  "description": "The Outer Worlds",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheOuterWorlds-logo-dropshadow (1)-5544x2422-448a144fddbb69f460cb660441011eb9.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EG_Store_The_Outer_WorldFeaturedCarousel_Mobile-510x680-d3d2295b4c276285294402d00f62c791.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Outerworlds-1360x766-74c1341fdc70510b1dd3288b58a6d2d7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-245nen5xp8jy6rg4q8u796thhyc42c",
+    "name": "Obsidian Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10575"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "rosemallow"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-outer-worlds/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "5af5633e9f1747728d4fee10988ca2b7"
+    }
+  ],
+  "categories": [
+    {
+      "path": "takeover"
+    },
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "5af5633e9f1747728d4fee10988ca2b7",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Private Division"
+      },
+      {
+        "key": "developerName",
+        "value": "Obsidian Entertainment"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-outer-worlds/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-18T11:00:00.000Z",
+  "creationDate": "2019-02-18T20:10:08.705Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "slime-rancher/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Slime Rancher",
+  "id": "847e61b98a844df193979f6dcad6cfa2",
+  "namespace": "epic",
+  "description": "Slime Rancher",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Primary-Promo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Portrait-Promo-1280x1420-aca38e046b5272b458e75462a604d977.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SR_logo-1850x706-d737baad725b40b8722e243b4a54d797.png"
+    }
+  ],
+  "seller": {
+    "id": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
+    "name": "Monomi Park"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10032"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "corydalis"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "cd44981c3cea431a9a203ff94b132994"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "slime-rancher/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "cd44981c3cea431a9a203ff94b132994",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Monomi Park"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "slime-rancher/home"
+      }
+    ]
+  }
+}

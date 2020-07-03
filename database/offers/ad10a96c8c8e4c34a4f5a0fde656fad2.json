@@ -1,0 +1,71 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-02T10:23:00.000Z",
+  "creationDate": "2020-01-10T18:49:00.695Z",
+  "lastModifiedDate": "2020-05-11T18:18:42.190Z",
+  "viewableDate": null,
+  "productSlug": "thecycle/scout-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Founder's Pack: Scout Pack",
+  "id": "ad10a96c8c8e4c34a4f5a0fde656fad2",
+  "namespace": "azalea",
+  "description": "Founder's Pack: Scout Pack",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_scout-pack_FP_Tier1_info_D-2560x1440-c7d62e0fda69f6688577c3cb816fc9a17378e778-2560x1440-364407a722b97334eb05c68ce8536313.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "9702ba32bc67427a894c1db0f9ae8935",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thecycle/scout-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,91 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-08T16:00:00.000Z",
+  "creationDate": "2019-01-08T01:58:39.400Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2019-01-08T11:00:00.000Z",
+  "productSlug": "donut-county/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Donut County",
+  "id": "fb95dc6d2c8f43479322bcef0826561c",
+  "namespace": "epic",
+  "description": "Donut County",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_wide-2580x1450-5d1fd3bd3eaa17af5b1ddac07d2d8fd4.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_Logo-1500x750-002f74002599cc462c46023138892ff3.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "290"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "kestrel"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2ae91a1e97f848f7bd51c2cfbec61a0e"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "donut-county/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2ae91a1e97f848f7bd51c2cfbec61a0e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Ben Esposito"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "donut-county/home"
+      }
+    ]
+  }
+}

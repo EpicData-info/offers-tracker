@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2025-03-01T15:23:00.000Z",
+  "creationDate": "2019-03-04T20:24:10.675Z",
+  "lastModifiedDate": "2020-04-29T00:38:45.478Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Cosmos Dev Access",
+  "id": "0467a3e5ea024d5c8a9161aa9d0022c2",
+  "namespace": "cosmos",
+  "description": "Cosmos Dev Access",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
+    }
+  ],
+  "seller": {
+    "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+    "name": "Human Head Studios, Inc."
+  },
+  "items": [
+    {
+      "id": "845468f052e7420ca24e51ab4c66a7a6",
+      "namespace": "cosmos",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Human Head Studios, Inc."
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

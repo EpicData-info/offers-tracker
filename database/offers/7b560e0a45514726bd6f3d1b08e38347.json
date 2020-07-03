@@ -1,0 +1,103 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-08-28T19:02:42.484Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "no-straight-roads/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "No Straight Roads",
+  "id": "7b560e0a45514726bd6f3d1b08e38347",
+  "namespace": "epic",
+  "description": "No Straight Roads",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/NSR LOGO_GAME-1454x896-4d48ff1aa309a74adc30a7cbea007032.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/NSRKeyArt1-602x338-fda3b865ae59a174c116afc3d172ea97.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Roads_Portrait_Promo-1280x1420-a9082960bc397daebc8db95f04fc4e92.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+    "name": "Sold Out"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10350"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "c0783fd957634390af33808d1a1f56dd"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609473600"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "no-straight-roads/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "db30d79fa6cd43c3a9a99bb28a663bb4"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "db30d79fa6cd43c3a9a99bb28a663bb4",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Sold-Out Software"
+      },
+      {
+        "key": "availableDate",
+        "value": "1609473600"
+      },
+      {
+        "key": "isPrepurchase",
+        "value": "true"
+      },
+      {
+        "key": "developerName",
+        "value": "Metronomik"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "no-straight-roads/home"
+      }
+    ]
+  }
+}

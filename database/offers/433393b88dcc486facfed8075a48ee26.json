@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-13T18:25:00.000Z",
+  "creationDate": "2019-07-12T21:27:32.574Z",
+  "lastModifiedDate": "2020-06-13T18:52:04.384Z",
+  "viewableDate": null,
+  "productSlug": "airborne-kingdom/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Airborne Kingdom",
+  "id": "433393b88dcc486facfed8075a48ee26",
+  "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "description": "Airborne Kingdom",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S1-2560x1440-622868d9ba16337834baa187c1293188.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e1809e1742cb498080d8849b11a99c5a/offer/EGS_AirborneKingdom_TheWanderingBan_S2-860x1148-73860673400d93eddfef753655cc55cf.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
+    "name": "The Wandering Band LLC"
+  },
+  "items": [
+    {
+      "id": "336302cf43084b47bf08cb9b7cc7b7ce",
+      "namespace": "e1809e1742cb498080d8849b11a99c5a",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609426800"
+    },
+    {
+      "key": "developerName",
+      "value": "The Wandering Band LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "airborne-kingdom/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "creationDate": "2019-10-28T15:24:24.601Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-origins/the-hidden-ones",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Hidden Ones - DLC",
+  "id": "9eab5a9e35034038b04952bf5aa44f41",
+  "namespace": "camellia",
+  "description": "The Hidden Ones - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_THO-330x440-eba176052a1d47510c30d016d915ea2e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-e1bc3a244ef2cfddefe896c817d5072d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-1422c66daafd794cc27570dd692ed82255b07633.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "1f3273a8902542a699288308fed2e1a2",
+      "namespace": "camellia",
+      "developer": null
+    },
+    {
+      "id": "46c78cf106374960a0b04d9dfa34daae",
+      "namespace": "camellia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins/the-hidden-ones"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

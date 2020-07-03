@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-11-13T00:00:00.000Z",
+  "creationDate": "2015-11-13T19:18:04.642Z",
+  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "viewableDate": "2015-11-13T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Taye - Omega Armor",
+  "id": "ff5ab2e3cc3a4e00890de68ba6653b22",
+  "namespace": "ut",
+  "description": "Omega Armor from Shadow Complex in Unreal Tournament.",
+  "longDescription": "A special version of the Omega Armor from Shadow Complex for use with the Thundercrash character Taye in Unreal Tournament.",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Thumb01-250x300-8402f7460295740473df0693ab2e0300.png"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_ItemBanner01-1400x300-eb22bdcc361155723ab964da565e8254.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Screen01-1920x1080-718d75f9f09671a55859460afb3bd614.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Screen02-1920x1080-069675b28d461e303d2c2d6c4ff890b7.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Screen03-1920x1080-2335f97a32d9759e76d5bf74bd4be900.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Screen04-1920x1080-5cb9fe0b455e8f72def0560d2b9fc03e.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/OmegaArmor_Screen05-1920x1080-37b1cfb8c37acb8a379be60bb81f7746.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "a18ab3a3eb6644b7842750fc7613ec01",
+      "namespace": "ut",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "assets/props"
+    },
+    {
+      "path": "assets"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

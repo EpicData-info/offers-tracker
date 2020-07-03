@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-30T15:58:00.000Z",
+  "creationDate": "2019-02-13T14:52:01.048Z",
+  "lastModifiedDate": "2019-11-26T20:04:07.964Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Oxygen Not Included",
+  "id": "905a6cdc931e4e64ade4010bac69d64c",
+  "namespace": "lotus",
+  "description": "Oxygen Not Included General Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+    "name": "Klei Entertainment"
+  },
+  "items": [
+    {
+      "id": "f897961856684c219ddab17303285e97",
+      "namespace": "lotus",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

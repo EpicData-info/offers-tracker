@@ -1,0 +1,88 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-20T13:00:00.000Z",
+  "creationDate": "2019-05-20T13:14:49.957Z",
+  "lastModifiedDate": "2019-10-30T21:30:23.924Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outer Wilds Pre-Purchase",
+  "id": "846f74486bb44f249beaccb64d0dc3a3",
+  "namespace": "starfish",
+  "description": "Outer Wilds Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/starfish/item/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/starfish/item/OuterWilds_PrimaryPromo-1290x725-930b33ddbd98f10b26d8d2bd72551095.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/starfish/offer/OuterWilds_PurchaseImage-330x392-58510f71e9a971873ad6250a45ccba48.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/starfish/offer/OuterWilds_PurchaseImage-330x392-58510f71e9a971873ad6250a45ccba48.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "58986732c8db4a5898cbeb8f7a57b028",
+      "namespace": "starfish",
+      "developer": null
+    },
+    {
+      "id": "0effc974d9ae4800be975a6ea889cfcc",
+      "namespace": "starfish",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1559271600"
+    },
+    {
+      "key": "AvailableDate",
+      "value": "1559271600"
+    },
+    {
+      "key": "developerName",
+      "value": "Mobius Digital"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

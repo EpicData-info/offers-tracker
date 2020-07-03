@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-02-18T15:16:25.391Z",
+  "lastModifiedDate": "2020-06-19T18:06:01.691Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DevAzuriteAudience",
+  "id": "1d903f3a849045db9a7d9e3552459314",
+  "namespace": "1c4745021d4243a783b459d928b9088f",
+  "description": "DevAzuriteAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "items": [
+    {
+      "id": "53b32623629f4bc9ae82e05edf17df69",
+      "namespace": "1c4745021d4243a783b459d928b9088f",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

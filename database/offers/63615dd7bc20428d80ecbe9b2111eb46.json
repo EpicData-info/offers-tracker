@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "creationDate": "2020-04-07T16:27:54.400Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Just Cause 4 Gold Gear Pack",
+  "id": "63615dd7bc20428d80ecbe9b2111eb46",
+  "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "description": "Just Cause 4 Gold Gear Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/EGS_JustCause4GoldEdition_AvalancheStudios_Editions_S2-860x1148-a24c730c724205e5d627dc35fa668b24.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/EGS_JustCause4GoldEdition_AvalancheStudios_Editions_S2-860x1148-a24c730c724205e5d627dc35fa668b24.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/EGS_JustCause4GoldEdition_AvalancheStudios_Editions_IC1_A-320x180-41587c02f0e4ac82272d036a98550cc2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
+    "name": "Square Enix"
+  },
+  "items": [
+    {
+      "id": "4d5a3e2f742747af87eee0976dcc66d2",
+      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

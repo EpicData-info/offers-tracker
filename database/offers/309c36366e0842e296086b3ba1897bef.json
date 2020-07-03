@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-18T12:23:00.000Z",
+  "creationDate": "2019-03-18T16:23:51.136Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RoseDevAudience",
+  "id": "309c36366e0842e296086b3ba1897bef",
+  "namespace": "rose",
+  "description": "RoseDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-na388hs5k2ak86akfejt2es246vaa2",
+    "name": "Gwen Frey"
+  },
+  "items": [
+    {
+      "id": "fd44126cc95e4bf2bfe07c24f9913423",
+      "namespace": "rose",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

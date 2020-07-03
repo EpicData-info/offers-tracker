@@ -1,0 +1,118 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-12T10:00:00.000Z",
+  "creationDate": "2019-08-30T14:25:01.885Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-3",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Borderlands 3",
+  "id": "dd845909e1504c048c14499eab60ec62",
+  "namespace": "catnip",
+  "description": "Borderlands 3 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Oak_Logo_Standard-720x209-8373e0df5612a9952fe79defb32e1322.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S1-2560x1440-1c145fa688be08d2dc18375762b94fd5.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S2-1280x1440-4e2e8a65b68229dc833cf5c4773f23c4.jpg"
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BL3_TakeoverBug-687x601-63a6057a2b5b5f206296b77dfe0f51ec.png"
+    },
+    {
+      "type": "TakeoverLogoSmall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Mobile_Bug-460x110-216959dd20117b56fa1f49dd3fa70b47.png"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Borderlands3_Takeover_Desktop-1810x810-6b404d89ad053aecd51cd09adfb875c5.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EN_EGS_Launcher_Takeover_Borderlands_S2-1280x1440-4e2e8a65b68229dc833cf5c4773f23c4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_Standard-340x440-61fa40b7bf06109676b7501e00de2f26.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/Diesel_product_catnip_Oak_StandardEdition_N1-2560x1440-462318f36bee20de4412e111ef72dc62.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "4d089f4488ee4719ae8defeab579c255",
+      "namespace": "fn",
+      "developer": null
+    },
+    {
+      "id": "c204662afac64acd8a2117590be477da",
+      "namespace": "catnip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "maskEpicPrice",
+      "value": "true"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

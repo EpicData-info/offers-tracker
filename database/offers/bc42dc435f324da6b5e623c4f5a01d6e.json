@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-13T15:00:00.000Z",
+  "creationDate": "2019-04-22T16:56:12.743Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "metro-last-light-redux",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro: Last Light Redux",
+  "id": "bc42dc435f324da6b5e623c4f5a01d6e",
+  "namespace": "c5e786eddfd041caa9984213e3f9621d",
+  "description": "Metro: Last Light Redux",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Game_Logo_MetroLL-Redux-2-1405x800-ec83b03aee77d67518e84b19de861cd2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "41882b7ee75447d8be3d2b2dc986d30f",
+      "namespace": "c5e786eddfd041caa9984213e3f9621d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-last-light-redux"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

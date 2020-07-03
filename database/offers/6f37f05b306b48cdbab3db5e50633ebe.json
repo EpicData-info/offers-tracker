@@ -1,0 +1,83 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-30T15:51:00.000Z",
+  "creationDate": "2019-01-28T20:53:53.816Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2019-01-30T13:20:00.000Z",
+  "productSlug": "dauntless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless",
+  "id": "6f37f05b306b48cdbab3db5e50633ebe",
+  "namespace": "epic",
+  "description": "Dauntless",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S3-1360x766-f6001a460af951b3cdbb1bf562159348.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10620"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "jackal"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dauntless/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e64af2d6202d4b64b86abe428250dbff"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e64af2d6202d4b64b86abe428250dbff",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Phoenix Labs"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "dauntless/home"
+      }
+    ]
+  }
+}

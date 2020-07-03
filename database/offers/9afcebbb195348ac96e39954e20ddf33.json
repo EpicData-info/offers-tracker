@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-17T15:00:00.000Z",
+  "creationDate": "2019-01-04T20:01:54.644Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "vampyr",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampyr",
+  "id": "9afcebbb195348ac96e39954e20ddf33",
+  "namespace": "nautilus",
+  "description": "Vampyr",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_GamePromoImage_2580x1450_v2-2580x1450-22d6b6547b3f7d5ddf4442d09dd7e776.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Logo_Vampyr_Black-1850x336-5fdcf92f64fba5c1d6b13c18dbab3214.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/nautilus/offer/Vampyr_GamePromoImage_2580x1450-2580x1450-0208519a31e6905ceb22015cf715ebd1.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nautilus/offer/Vampyr_CodeRedemption-330x440-a34971c26aa4b66b28942efdce787a48.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nautilus/offer/Vampyr_CodeRedemption-330x440-a34971c26aa4b66b28942efdce787a48.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_GamePromoImage_2580x1450_v2-2580x1450-22d6b6547b3f7d5ddf4442d09dd7e776.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "85e9b9f3045b4ca192c040c2951a70db",
+      "namespace": "nautilus",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vampyr"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

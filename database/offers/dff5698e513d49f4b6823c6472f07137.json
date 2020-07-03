@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-02T00:00:00.000Z",
+  "creationDate": "2019-07-08T13:17:31.723Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.493Z",
+  "viewableDate": null,
+  "productSlug": "gnog/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "GNOG",
+  "id": "dff5698e513d49f4b6823c6472f07137",
+  "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+  "description": "GNOG",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GNOG_L1_2560_key-2560x1440-d1e483d28548d9fb82c67180e3c841c0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GNOG_S2_1280_key-1280x1440-e1d28aa71dea168b721f3e1b567065bd.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GNOG_IC1_logo_color-200x200-28cc1efa170a24e71ed7cffe7e0666d2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GNOG_S2_1280_key-1280x1440-e1d28aa71dea168b721f3e1b567065bd.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/offer/CodeRedemption_GNOG-340x440-deb4e24eac48ef2e8eb0d87d23a1727d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/19078740fbcc4eada59a5a4ae7b3724c/offer/CodeRedemption_GNOG-340x440-deb4e24eac48ef2e8eb0d87d23a1727d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GNOG_L1_2560_key-2560x1440-d1e483d28548d9fb82c67180e3c841c0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-hsgwu456e63dkkgskeusntg93gey48",
+    "name": "KO_OP"
+  },
+  "items": [
+    {
+      "id": "b09a7f18d153421da075d9a0d92daccf",
+      "namespace": "19078740fbcc4eada59a5a4ae7b3724c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Double Fine"
+    },
+    {
+      "key": "developerName",
+      "value": "Ko-Op"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gnog/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

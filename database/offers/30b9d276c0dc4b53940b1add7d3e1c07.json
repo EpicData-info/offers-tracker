@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-05-21T01:11:02.338Z",
+  "lastModifiedDate": "2020-06-04T14:34:57.573Z",
+  "viewableDate": null,
+  "productSlug": "overcooked",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overcooked",
+  "id": "30b9d276c0dc4b53940b1add7d3e1c07",
+  "namespace": "d5241c76f178492ea1540fce45616757",
+  "description": "Overcooked",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "VaultClosed",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EpicVault_Clean_OPEN_V10_LightsON-1920x1080-75e6d0636a6083944570a1c6f94ead4f.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/Store Secondary Promo-2560x1440-effd7f6cdb7779e2daa0070bb9e1e683.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/Store Secondary Promo - Portrait-1080x1439-2f06606a0ec12ebc5c51e406dc4f601e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "8341d7c7e4534db7848cc428aa4cbe5a",
+      "namespace": "d5241c76f178492ea1540fce45616757",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.freegames.vault.close",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.freegames.vault.slug",
+      "value": "free-games"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Team17"
+    },
+    {
+      "key": "com.epicgames.app.freegames.vault.open",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Ghost Town Games Ltd."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overcooked"
+    }
+  ],
+  "categories": [
+    {
+      "path": "freegames/vaulted"
+    },
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

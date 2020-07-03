@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-29T18:11:00.000Z",
+  "creationDate": "2019-04-23T17:20:00.301Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800/deluxe-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 1800 Deluxe Pack",
+  "id": "ce2e1de7c52b4909a98b1201ddb0b22d",
+  "namespace": "oregano",
+  "description": "Anno 1800 Deluxe Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_DeluxePack_Wide-355x150-c7155d69a6d066850498ebc962b52bcf.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "c1cbb98b4e37475eaba61fc268a22fd7",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "d708a30677524d199d6c89f97677d354",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/deluxe-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

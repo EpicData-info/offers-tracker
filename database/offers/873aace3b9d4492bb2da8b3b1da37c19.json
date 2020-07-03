@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-12-01T18:00:00.000Z",
+  "creationDate": "2019-03-14T14:57:27.075Z",
+  "lastModifiedDate": "2019-12-11T23:12:25.775Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "ColumbineDevAudience",
+  "id": "873aace3b9d4492bb2da8b3b1da37c19",
+  "namespace": "columbine",
+  "description": "ColumbineDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/columbine/offer/003_DETROIT_CODEREDEMPTION-340x440-cb780dc13c0bcb26dde9d6cd21f78aba.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/columbine/offer/001_DETROIT_ICON-400x400-89235dc9bca813586e778f735e08364e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "6c76514f8aaa41dea2366491d329a808",
+      "namespace": "columbine",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

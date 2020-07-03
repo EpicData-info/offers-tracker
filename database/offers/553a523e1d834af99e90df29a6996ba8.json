@@ -1,0 +1,84 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-02T10:31:00.000Z",
+  "creationDate": "2019-10-04T14:32:57.808Z",
+  "lastModifiedDate": "2020-05-11T17:47:34.868Z",
+  "viewableDate": null,
+  "productSlug": "thecycle/prospector-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Founder's Pack: Prospector Pack",
+  "id": "553a523e1d834af99e90df29a6996ba8",
+  "namespace": "azalea",
+  "description": "Founder's Pack: Prospector Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_prospector-pack_FP_Tier3_info_D-2560x1440-29596c90716cdf4aae58ce64e5d16a8c49e2f409-2560x1440-d3902131974e4249e9196f616b2f4ede.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "2aa2b83600da4f4e898d2b80aeefc054",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "4b4fc4b7b9f64730a83e6fb6893a8b2a",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "798661e7eb634bee956a0ff0f07df61b",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thecycle/prospector-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

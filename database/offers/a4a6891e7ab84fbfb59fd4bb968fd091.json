@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-11T06:05:00.000Z",
+  "creationDate": "2018-12-11T11:05:42.840Z",
+  "lastModifiedDate": "2020-04-29T00:46:50.763Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "WrenStaging",
+  "id": "a4a6891e7ab84fbfb59fd4bb968fd091",
+  "namespace": "wren",
+  "description": "WrenStaging",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wren/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667-2580x1450-6dec56493dce61dd88c7e80052294667.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/wren/offer/AshenLog_1024x269-1024x269-8e32ab9392f4144ecbaf2595baa64849-1024x269-8e32ab9392f4144ecbaf2595baa64849.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-a1fbd8413573ff7712913594c67d80ba.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "a58322b8682f4e1d9fde15fa7b354836",
+      "namespace": "wren",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "A44"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

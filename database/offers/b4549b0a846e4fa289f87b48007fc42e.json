@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-07T16:00:00.000Z",
+  "creationDate": "2019-01-16T13:52:56.412Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "jackbox-party-pack-3",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack 3",
+  "id": "b4549b0a846e4fa289f87b48007fc42e",
+  "namespace": "orchid",
+  "description": "Jackbox Party Pack 3",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-340x440-c697891148fe8d980d598d1f71de9a4d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-330x440-545a7dae85c5e413e08c0e5a1dc5e726.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "42dae6ad75084c93aeb37e2bbed120df",
+      "namespace": "orchid",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Jackbox Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

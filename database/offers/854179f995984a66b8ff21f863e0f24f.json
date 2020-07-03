@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-14T18:16:03.917Z",
+  "lastModifiedDate": "2019-09-27T23:48:32.431Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "DuckDevAudience",
+  "id": "854179f995984a66b8ff21f863e0f24f",
+  "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "description": "DuckDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "2ba0eadb907f48cdbe6a1905c800042b",
+      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Gambrinous"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

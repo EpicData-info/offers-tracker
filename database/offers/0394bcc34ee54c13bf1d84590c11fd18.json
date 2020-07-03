@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-19T15:00:00.000Z",
+  "creationDate": "2019-02-27T18:34:41.499Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "rollercoaster-tycoon-adventures/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RollerCoaster Tycoon Adventures",
+  "id": "0394bcc34ee54c13bf1d84590c11fd18",
+  "namespace": "canna",
+  "description": "RollerCoaster Tycoon Adventures",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RCTA_Logo-2580x1450-58f63b43913fe30cde0f03b5c9f50e4c.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bhpk86rgthezed539g3hb5avacecqt",
+    "name": "Atari"
+  },
+  "items": [
+    {
+      "id": "87aea61261d74fd09359b0caf1f3f1c6",
+      "namespace": "canna",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Atari"
+    },
+    {
+      "key": "developerName",
+      "value": "Nvizzio Creations"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rollercoaster-tycoon-adventures/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

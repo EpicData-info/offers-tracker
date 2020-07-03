@@ -1,0 +1,72 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-16T21:00:00.000Z",
+  "creationDate": "2019-08-15T18:24:16.074Z",
+  "lastModifiedDate": "2020-04-27T06:02:31.748Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ghostbusters Remastered Pre-Purchase",
+  "id": "dbd5195a7b7a44d3887febb323756036",
+  "namespace": "d0545b136bb042fb9014e72b6af748f6",
+  "description": "Ghostbusters Remastered Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_GhostBusters-340x440-f16d8ec56e9e8806431c3d5e40e9e0c8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_GhostBusters-340x440-f16d8ec56e9e8806431c3d5e40e9e0c8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
+    "name": "Saber Interactive"
+  },
+  "items": [
+    {
+      "id": "6e76a63f586e4921bf2f45db52884303",
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "developer": null
+    },
+    {
+      "id": "6f1e176f7b6340fba18065452e21dede",
+      "namespace": "d0545b136bb042fb9014e72b6af748f6",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

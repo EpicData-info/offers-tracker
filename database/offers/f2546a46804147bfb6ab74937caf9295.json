@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-24T16:00:00.000Z",
+  "creationDate": "2019-01-15T15:47:30.842Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": "2019-01-23T11:38:00.000Z",
+  "productSlug": "jackbox-party-pack-1",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Jackbox Party Pack",
+  "id": "f2546a46804147bfb6ab74937caf9295",
+  "namespace": "feverfew",
+  "description": "Jackbox Party Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP1_Portrait Promo-1280x1420-534a67fd74249b0b9c2b66422c9e6c5c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/tjbpp1_store-1290x725-01d7473784eb701cdf3e3fbcdbdc435c.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/JPP1_GameLogo-1800x978-6e1309321ac6e03c6e09c8b6834a0ca9.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP1_Portrait Promo-1280x1420-534a67fd74249b0b9c2b66422c9e6c5c.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/feverfew/offer/TJBPP1_coderedem-340x440-0d90df773bb3daa2c7cdf76c9368d00e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/feverfew/offer/JPP1_CodeRedemption-330x440-d4264fd6b969ff816725500d1e3eaaf4.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/tjbpp1_store-1290x725-01d7473784eb701cdf3e3fbcdbdc435c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "items": [
+    {
+      "id": "8736dc20cad7477d9c9d9473d1a7dcbd",
+      "namespace": "feverfew",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Jackbox Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-1"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

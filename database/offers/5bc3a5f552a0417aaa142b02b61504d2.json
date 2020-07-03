@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-10T15:00:00.000Z",
+  "creationDate": "2019-10-02T02:28:17.715Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "viewableDate": null,
+  "productSlug": "surviving-mars",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Mars - Marsvision Song Contest",
+  "id": "5bc3a5f552a0417aaa142b02b61504d2",
+  "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "description": "Surviving Mars - Marsvision Song Contest",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MarsvivionSongContest-860x1148-d5cc8cc2f6b38d0a69c953f5101ba451.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Landscape_Surviving_Mars_MarsvisionSongContest-2560x1440-6f2bb03737233b843791f65d504f8229.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MarsvivionSongContest-860x1148-d5cc8cc2f6b38d0a69c953f5101ba451.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/Wishlist_Portrait_SurvivingMars_MarsvivionSongContest-860x1148-d5cc8cc2f6b38d0a69c953f5101ba451-860x1148-d5cc8cc2f6b38d0a69c953f5101ba451.png"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "427404a3dfca47018ebf50851e528ef8",
+      "namespace": "d759128018124dcabb1fbee9bb28e178",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive AB"
+    },
+    {
+      "key": "developerName",
+      "value": "Haemimont Games AD"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-mars"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

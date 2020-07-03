@@ -1,0 +1,86 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-24T10:29:00.000Z",
+  "creationDate": "2019-01-29T15:30:09.407Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "metro-2033-redux/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro: 2033 Redux",
+  "id": "0dfa5a4398bb44c8b1ac34e5f248fab9",
+  "namespace": "petunia",
+  "description": "Metro: 2033 Redux",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PrimaryPromo-2580x1450-8c072539860d03f840797542a2873570.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/petunia/offer/Metro2033_CodeRedemption-340x440-da9dad9def478a87c85e006f7a2e6bef.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PrimaryPromo-2580x1450-8c072539860d03f840797542a2873570.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "c31030e542f246e299305209352aac2b",
+      "namespace": "petunia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-2033-redux/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

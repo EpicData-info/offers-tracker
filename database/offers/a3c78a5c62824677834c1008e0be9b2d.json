@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-04T05:00:00.000Z",
+  "creationDate": "2019-07-24T21:49:28.720Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "red-dead-redemption-2",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Red Dead Redemption 2",
+  "id": "a3c78a5c62824677834c1008e0be9b2d",
+  "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "description": "Red Dead Redemption 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_2560x1440-2560x1440-473f1475daed7424ce5a56d90b56ab68.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
+    "name": "Rockstar Games"
+  },
+  "items": [
+    {
+      "id": "1f562a66ac554a40a33e291fc191ea60",
+      "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Rockstar Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "red-dead-redemption-2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

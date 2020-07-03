@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-09T17:00:00.000Z",
+  "creationDate": "2020-05-07T00:52:28.416Z",
+  "lastModifiedDate": "2020-05-09T16:55:40.966Z",
+  "viewableDate": "2020-05-09T17:00:00.000Z",
+  "productSlug": "thimbleweed-park/delores",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Delores: A Thimbleweed Park mini-adventure",
+  "id": "fabaacbc88864d4ea40ab569ad4e480e",
+  "namespace": "tulip",
+  "description": "Delores: A Thimbleweed Park mini-adventure",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
+    "name": "Terrible Toybox, Inc."
+  },
+  "items": [
+    {
+      "id": "c8e0e6a355a244dfba4ba3f0a24f0607",
+      "namespace": "tulip",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Terrible Toybox, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thimbleweed-park/delores"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

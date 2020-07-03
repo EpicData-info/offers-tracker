@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-31T16:00:00.000Z",
+  "creationDate": "2019-12-05T22:10:17.830Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "yooka-laylee-and-the-impossible-lair/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yooka-Laylee and the Impossible Lair",
+  "id": "7ab1f8e424a044db8f8ee6ae394c2f88",
+  "namespace": "epic",
+  "description": "Yooka-Laylee and the Impossible Lair",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10500"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "fa11862b1cfd42e3b3c6395af46efe3e"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yooka-laylee-and-the-impossible-lair/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "617b64a9631c4df0a66ea8fca480d2b9"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "617b64a9631c4df0a66ea8fca480d2b9",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Team17 Digital Ltd"
+      },
+      {
+        "key": "developerName",
+        "value": "Playtonic Games Ltd."
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "yooka-laylee-and-the-impossible-lair/home"
+      }
+    ]
+  }
+}

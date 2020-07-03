@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-28T18:44:59.830Z",
+  "lastModifiedDate": "2020-02-27T15:58:08.210Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Standard Ediiton - Retail",
+  "id": "b5054fb547ea4e469ffc8bb94407ff27",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Standard Ediiton - Retail",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_Portrait_Image-860x1148-8cd7d9f16ff40f77021d88ff9b2611ae.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Old_EGS_Bigben_OVERPASS_FullGame_DesktopHorizontal-1360x766-3dc29ccdca7577ef4232c24f189bb962.JPG"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

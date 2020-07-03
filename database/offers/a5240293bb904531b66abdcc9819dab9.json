@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2024-12-05T14:00:00.000Z",
+  "creationDate": "2019-12-05T19:31:17.467Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "the-wolf-among-us/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Wolf Among Us",
+  "id": "a5240293bb904531b66abdcc9819dab9",
+  "namespace": "epic",
+  "description": "The Wolf Among Us",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
+    "name": "Athlon Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "24"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "a8f9fb4a881e47b489715f18f7d08e2f"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-wolf-among-us/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ea40bbb5451649e38472912b11f338b8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ea40bbb5451649e38472912b11f338b8",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Athlon Games"
+      },
+      {
+        "key": "developerName",
+        "value": "LCG Entertainment, Inc."
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-wolf-among-us/home"
+      }
+    ]
+  }
+}

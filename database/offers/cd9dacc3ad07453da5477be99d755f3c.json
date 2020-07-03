@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-17T17:03:28.918Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "steep/road-to-the-olympics-dlc",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Steep: Road to the Olypmics - DLC",
+  "id": "cd9dacc3ad07453da5477be99d755f3c",
+  "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "description": "Steep: Road to the Olypmics - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROAD_TO_OLYMP_1920x1080-1920x1080-a7c74c17af78662dca2e747d677deaf8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROAD_TO_OLYMP_1920x1080-1920x1080-013842b3e1f49db6d815f2bbf89bee070c0842e0.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "5d0cfda892d542a089341ca744aaafee",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    },
+    {
+      "id": "10196f27081c477f93d46257fff4a884",
+      "namespace": "a646020cb93b4ea995cda70647bbe001",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "steep/road-to-the-olympics-dlc"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

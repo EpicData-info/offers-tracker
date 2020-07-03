@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-05-09T08:00:00.000Z",
+  "creationDate": "2019-05-09T12:42:02.894Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2019-06-10T18:36:00.000Z",
+  "productSlug": "ghost-recon-breakpoint/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's Ghost Recon Breakpoint",
+  "id": "ba4b7ba700b6432690f78c5cf27f6d4e",
+  "namespace": "epic",
+  "description": "Tom Clancy's Ghost Recon Breakpoint",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Game_Logo-1000x375-f0c8b60ec9447512852ce59a468309fa.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Primary_Promo-2580x1450-8e2e6701714a95dcba3088d0464ad792.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Portrait_Promo-1280x1420-b26ff533005794b5c3c70a2b8a1f7d33.jpg"
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Mobile-560x760-fbf63002af476fdda129a81a04b065e4.jpg"
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Desktop-1810x810-d28f3d6406324f0b23c186c43182f838.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10610"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "2dbd2f64abdc4bbab077424d5c85e01b"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-breakpoint/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "2385d033d11a469fa08cbae090ae97d8"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "2385d033d11a469fa08cbae090ae97d8",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "ghost-recon-breakpoint/home"
+      }
+    ]
+  }
+}

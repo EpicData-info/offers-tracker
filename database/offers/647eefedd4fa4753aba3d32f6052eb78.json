@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-07T20:38:47.229Z",
+  "lastModifiedDate": "2019-09-27T23:41:53.355Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "CanaryDevAudience",
+  "id": "647eefedd4fa4753aba3d32f6052eb78",
+  "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+  "description": "CanaryDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
+    "name": "Iceberg Interactive"
+  },
+  "items": [
+    {
+      "id": "0006beb097ad4c31b837680bf6a524f1",
+      "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Iceberg Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zoetrope Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

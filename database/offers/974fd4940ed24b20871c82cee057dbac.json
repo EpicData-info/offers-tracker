@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-16T16:00:00.000Z",
+  "creationDate": "2019-01-22T20:33:30.150Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "metro-exodus/the-two-colonels",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Exodus The Two Colonels",
+  "id": "974fd4940ed24b20871c82cee057dbac",
+  "namespace": "snapdragon",
+  "description": "Metro Exodus The Two Colonels",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "054224b4ce2846ba847f9a3a329ae2f2",
+      "namespace": "snapdragon",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "4A Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-exodus/the-two-colonels"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

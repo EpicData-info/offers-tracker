@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T18:00:00.000Z",
+  "creationDate": "2019-06-09T21:48:10.539Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "solar-ash-kingdom/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Solar Ash Kingdom",
+  "id": "e7b9b16e9adb436fb020ae33f4195ce4",
+  "namespace": "epic",
+  "description": "Solar Ash Kingdom",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Solar-Ash-Kingdom_Promo-2560x1440-06a38dd5b3d314beab3dd8e84687393e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SolarAshKingdomPortraitTemp-260x360-aa2bafd84794601939e96b3eec7fdd05.jpeg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "150"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "fe5a2e3e842a4394938a81f3308df2ed"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "solar-ash-kingdom/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "7aa335f58cc34d3abd6559c35f12596e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "7aa335f58cc34d3abd6559c35f12596e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Annapurna Interactive"
+      },
+      {
+        "key": "developerName",
+        "value": "Heart Machine"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "solar-ash-kingdom/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-17T16:00:00.000Z",
+  "creationDate": "2020-03-24T15:23:35.974Z",
+  "lastModifiedDate": "2020-05-20T15:33:27.148Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SnowRunner Press",
+  "id": "622958739e5144609de5a11f9b297d03",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "SnowRunner Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "0ca78d1857a4411b98bf5af87815bcfa",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "availableDate",
+      "value": "1588086000"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

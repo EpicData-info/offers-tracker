@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-05-20T17:00:00.000Z",
+  "creationDate": "2019-08-27T20:38:22.372Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "the-end-is-nigh/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The End is Nigh",
+  "id": "f77ae52ec98e4c218ca7a0da76c1eb93",
+  "namespace": "epic",
+  "description": "The End is Nigh",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game Logo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
+    "name": "Edmund McMillen, Tyler Glaiel"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "7500"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "530eeeaffca14275a451d7cff61ee6bb"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-end-is-nigh/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "498e04695bbd4376ab574a103a4f36dd"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "498e04695bbd4376ab574a103a4f36dd",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Edmund McMillen, Tyler Glaiel"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-end-is-nigh/home"
+      }
+    ]
+  }
+}

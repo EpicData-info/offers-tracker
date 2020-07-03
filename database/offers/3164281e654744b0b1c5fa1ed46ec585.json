@@ -1,0 +1,75 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-08-28T14:53:16.247Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "superliminal/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Superliminal",
+  "id": "3164281e654744b0b1c5fa1ed46ec585",
+  "namespace": "epic",
+  "description": "Superliminal",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
+    "name": "Pillow Castle"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9080"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "6cec00f8934146508b884b0f139d55d0"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superliminal/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "daa88a4b17cd4bb8bdb87cdf777ac3f3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "daa88a4b17cd4bb8bdb87cdf777ac3f3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "developerName",
+        "value": "Pillow Castle"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "superliminal/home"
+      }
+    ]
+  }
+}

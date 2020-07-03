@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-18T16:04:00.000Z",
+  "creationDate": "2019-03-18T20:05:41.041Z",
+  "lastModifiedDate": "2019-08-05T08:35:12.120Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "SweetpeaDevAudience",
+  "id": "6b254e9a37c84662a238690e10db6d2f",
+  "namespace": "sweetpea",
+  "description": "SweetpeaDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/EGS_Squanchgames_Trover_IC1_TroverLogoCOLOR-2100x1350-1875996b828b2a68eebb4fe1ffc3fcef.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/EGS_SquanchGames_Trover_G1_TroverSpace-2560x1440-1f227c1a69b1856b8ba3bb4d9febbe12.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/EGS_SquanchGames_Trover_IC2_TroverIcon-400x400-74ffa8f76bc4caac976f7be3da1e66e6.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sweetpea/offer/CodeRedemption_TSTU-330x440-4551db803c8efe6aac66d26e61640c62.png"
+    }
+  ],
+  "seller": {
+    "id": "o-n2p7jejpaawba9jzcfpryscpj3uh6w",
+    "name": "Squanch Games"
+  },
+  "items": [
+    {
+      "id": "cf4e61d93806483e9a728ce6f2bf6022",
+      "namespace": "sweetpea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Squanch Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

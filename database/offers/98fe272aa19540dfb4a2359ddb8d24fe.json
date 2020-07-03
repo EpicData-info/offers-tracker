@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-11-29T20:59:18.254Z",
+  "lastModifiedDate": "2020-06-11T20:57:34.138Z",
+  "viewableDate": null,
+  "productSlug": "bugsnax",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bugsnax",
+  "id": "98fe272aa19540dfb4a2359ddb8d24fe",
+  "namespace": "c42b08b655c04a64a0535331629d4b6d",
+  "description": "Bugsnax",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S1-2560x1440-e8fb4a4d8548784716ef3d5ed04f9f35.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S2-1200x1600-6f62f8d62e2b6fcb00960d51b43e16ba.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S2-1200x1600-6f62f8d62e2b6fcb00960d51b43e16ba.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S2-1200x1600-6f62f8d62e2b6fcb00960d51b43e16ba.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S1-2560x1440-e8fb4a4d8548784716ef3d5ed04f9f35.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c42b08b655c04a64a0535331629d4b6d/offer/EGS_Bugsnax_YoungHorses_S2-1200x1600-6f62f8d62e2b6fcb00960d51b43e16ba.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-k56sdfrwfdbyv3dbp64sa6jpbvz8cy",
+    "name": "Young Horses Games"
+  },
+  "items": [
+    {
+      "id": "e5d50693b8aa4976a3e41db3396eb927",
+      "namespace": "c42b08b655c04a64a0535331629d4b6d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Young Horses"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bugsnax"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

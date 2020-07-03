@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-10T09:00:00.000Z",
+  "creationDate": "2020-01-26T22:44:13.921Z",
+  "lastModifiedDate": "2020-03-18T18:54:42.797Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Journey To The Savage Planet Retail Offer",
+  "id": "5ccf0659e00b4ea8b8b2e75a51c1167b",
+  "namespace": "oleander",
+  "description": "Journey To The Savage Planet",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "7086e30cad7744a88254de26685177b0",
+      "namespace": "oleander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Typhoon Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

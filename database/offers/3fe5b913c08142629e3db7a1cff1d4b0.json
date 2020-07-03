@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-07-08T16:00:00.000Z",
+  "creationDate": "2020-01-27T21:15:14.509Z",
+  "lastModifiedDate": "2020-05-06T20:24:01.277Z",
+  "viewableDate": null,
+  "productSlug": "control/awe",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Control DLC 3 - A",
+  "id": "3fe5b913c08142629e3db7a1cff1d4b0",
+  "namespace": "calluna",
+  "description": "Expansion 2 - AWE",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Control-330x440-1d64eca071c7ad6f9d3171c9c05c681a.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/calluna/offer/Expansions_AWE_P34_1920x1080-1920x1080-24600140c0165c029ad81a6543b8013df950671d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "7e02316e6eaa4e9c920c3a9629ad7dc8",
+      "namespace": "calluna",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,HK,MO,TW"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Remedy Entertainment Plc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "control/awe"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-17T07:15:00.000Z",
+  "creationDate": "2019-06-19T11:18:01.602Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2019-06-17T07:15:00.000Z",
+  "productSlug": "last-day-of-june/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Last Day of June",
+  "id": "090f31551275474fa2c70e821ac79493",
+  "namespace": "epic",
+  "description": "Last Day of June",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/freeTile_LastDayOfJune-1080x430-4754a0dd6401d7fe12cd9f3e0553e395.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_Artwork_LOGO-1328x967-04d99362a1da2b2425bd5d63a63d2f4c.png"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "5000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4fd85a772cd5471aa5e38efcaa0d6f24"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "last-day-of-june/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "3f9b7d87d6ea4ac1bb26d49683bd7064"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "3f9b7d87d6ea4ac1bb26d49683bd7064",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "505 Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Ovosonico"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "last-day-of-june/home"
+      }
+    ]
+  }
+}

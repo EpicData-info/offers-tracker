@@ -1,0 +1,99 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-09T17:00:00.000Z",
+  "creationDate": "2020-03-07T01:18:07.326Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800/complete-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ANNO 1800 Complete Edition",
+  "id": "4399cd68a5e643348279689d4fa9c928",
+  "namespace": "oregano",
+  "description": "ANNO 1800 Complete Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_COMPLETE_EDITION_EPIC_Edition_Capsule_1920x1080-1920x1080-ae51e2caed84e042a7c7629cfa86944e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_COMPLETE_EDITION_EPIC_Edition_Capsule_1920x1080-1920x1080-ae51e2caed84e042a7c7629cfa86944e.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800-330x440-330x440-08e0d0789e1d2be92dbc0b8527d68cb5.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "c1cbb98b4e37475eaba61fc268a22fd7",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "3a9071eaf3c743e495c94379e04ae522",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "a81f87f371f44fd489de7f5d96571f4a",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "ecbe7967343941b0801f9283760ded3c",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "7b94a26aa46a486c9e00b1a0dae91d6c",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "9c9fd375c29940eb8e5c6204aefae201",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/complete-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

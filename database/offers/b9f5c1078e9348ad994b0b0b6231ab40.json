@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-11-08T20:33:32.350Z",
+  "lastModifiedDate": "2020-05-11T17:13:27.521Z",
+  "viewableDate": null,
+  "productSlug": "carcassonne/winter-and-gingerbread-man",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Carcassonne - Winter and Gingerbread Man",
+  "id": "b9f5c1078e9348ad994b0b0b6231ab40",
+  "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "description": "Carcassonne - Winter and Gingerbread Man",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minW-510x680-0812a2c16fb327af972bad6d1936a01c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Desktop-horizontal-1360x766-min-1360x766-28c225ee5083d66577dbec255b1901ec6e8e101a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minW-510x680-0812a2c16fb327af972bad6d1936a01c-510x680-0812a2c16fb327af972bad6d1936a01c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minW-510x680-0812a2c16fb327af972bad6d1936a01c-510x680-0812a2c16fb327af972bad6d1936a01c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "fb2ff0aa7fd84dd6b23712c7870bfad5",
+      "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Asmodee"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "carcassonne/winter-and-gingerbread-man"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

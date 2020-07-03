@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-13T18:00:00.000Z",
+  "creationDate": "2019-08-24T05:04:21.813Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "bee-simulator/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bee Simulator",
+  "id": "7f981fff99e44998bf0de031eec36925",
+  "namespace": "b69961c88cb446a395ace83341dd94cc",
+  "description": "Bee Simulator",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_S2_Store_Primary_Promo-1280x1440-252835ff190484d0fea40728c5bbea13.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_S2_Store_Primary_Promo-1280x1440-252835ff190484d0fea40728c5bbea13.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/offer/CodeRedemption_BeeSim-340x440-ba1b89045ded1df163270604bc06f51d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/offer/CodeRedemption_BeeSim-340x440-ba1b89045ded1df163270604bc06f51d.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b69961c88cb446a395ace83341dd94cc/offer/BeeSimulator_Wishlist_Landscape-2560x1440-978577bb6caf69a7937bc532b2748567.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "e7795976724043c2a1c72d1bd8a3ede3",
+      "namespace": "b69961c88cb446a395ace83341dd94cc",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "VARSAV Game Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bee-simulator/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

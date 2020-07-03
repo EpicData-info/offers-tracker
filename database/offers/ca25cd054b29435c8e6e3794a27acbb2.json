@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-17T18:26:58.230Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "everything/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Everything",
+  "id": "ca25cd054b29435c8e6e3794a27acbb2",
+  "namespace": "epic",
+  "description": "Everything",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-1802x705-42c0173386db45ca262f22df51684c05.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Everything-1200x476-601c1959709ae514658fea4723012316.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png"
+    }
+  ],
+  "seller": {
+    "id": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+    "name": "David OReilly"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "2019"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "854ca270c7f04fe483212a35811e9189"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "everything/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "11c4b859bfd143d798bf84b8cfe1964f"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "11c4b859bfd143d798bf84b8cfe1964f",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "David OReilly"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "everything/home"
+      }
+    ]
+  }
+}

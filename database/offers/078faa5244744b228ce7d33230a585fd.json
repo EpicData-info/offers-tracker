@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-24T15:00:00.000Z",
+  "creationDate": "2020-04-29T21:27:09.908Z",
+  "lastModifiedDate": "2020-06-24T15:18:26.050Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "DLC CHARACTER \"WARDEN\"",
+  "id": "078faa5244744b228ce7d33230a585fd",
+  "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "description": "DLC CHARACTER \"WARDEN\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S1-2560x1440-0f4c5dd13f94310708bd776b21913626.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
+    "name": "SNK CORPORATION"
+  },
+  "items": [
+    {
+      "id": "e7f26d04da3b4872942602d0f46bd643",
+      "namespace": "ace4435645d9489cacfbb422b7c1c817",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SNK"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

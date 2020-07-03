@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-11T17:12:00.000Z",
+  "creationDate": "2019-01-14T22:13:43.173Z",
+  "lastModifiedDate": "2020-04-29T00:46:38.935Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Walking Dead The Final Season Support a Creator",
+  "id": "f9bca717fb9d4a31be81b4be5329fc75",
+  "namespace": "ocelot",
+  "description": "The Walking Dead The Final Season Support a Creator",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/item/WD4-PORTRAIT-PROMO-1280x1420-223b26a43ddb24d89ea04dd9fe7a65ca.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
+    "name": "Skybound Interactive"
+  },
+  "items": [
+    {
+      "id": "c762d679def54fbf965aa49cff934130",
+      "namespace": "ocelot",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Skybound Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Telltale Games"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

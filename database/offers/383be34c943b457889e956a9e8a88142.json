@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-07T11:00:00.000Z",
+  "creationDate": "2019-03-04T21:44:12.613Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "oxenfree/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Oxenfree",
+  "id": "383be34c943b457889e956a9e8a88142",
+  "namespace": "epic",
+  "description": "Oxenfree",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_GamePagePromo_2580x1450-2580x1450-67e364067e5e51125d7d3343ff65e042.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_PortraitPromo_1280x1420-1280x1420-65a3d43d6c6a0c31280ee641bffd5ca6.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree Logo white-2813x331-81e2009bce66ae73bf8c3eb873d7abe6.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/Oxenfree_FreeTile_Now-Apr04-2578x1028-97795331d2d723d4919b001563ca098e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+    "name": "Night School Studio, LLC"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "80"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "hibiscus"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "oxenfree/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ebf5f23b876944f89d140750e756585d"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ebf5f23b876944f89d140750e756585d",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "developerName",
+        "value": "Night School Studio"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "oxenfree/home"
+      }
+    ]
+  }
+}

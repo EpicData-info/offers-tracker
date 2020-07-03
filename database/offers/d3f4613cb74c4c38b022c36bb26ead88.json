@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "creationDate": "2019-12-13T02:51:13.739Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "darksiders/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Darksiders Warmastered Edition",
+  "id": "d3f4613cb74c4c38b022c36bb26ead88",
+  "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+  "description": "Darksiders Warmastered Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/DS1_Horizontal-2560x1440-f66774d1e72fe2c34bcc01311d5f654e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "55f94d75dec54c919e2b4461519637bf",
+      "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "KAIKO, Vigil Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

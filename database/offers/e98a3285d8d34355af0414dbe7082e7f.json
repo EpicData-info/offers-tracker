@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-02-04T15:26:00.000Z",
+  "creationDate": "2019-02-04T20:27:32.384Z",
+  "lastModifiedDate": "2020-04-29T00:38:49.725Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "LotusReleaseAudience",
+  "id": "e98a3285d8d34355af0414dbe7082e7f",
+  "namespace": "lotus",
+  "description": "LotusReleaseAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_GameIcon-400x400-0ca35ebc6f717bb02db4a46d0b596dd3.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
+    "name": "Klei Entertainment"
+  },
+  "items": [
+    {
+      "id": "33c5abdd7eb04b6d8b89facfe926c978",
+      "namespace": "lotus",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Klei Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

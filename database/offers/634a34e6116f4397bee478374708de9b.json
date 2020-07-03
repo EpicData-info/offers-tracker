@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-11T16:00:00.000Z",
+  "creationDate": "2020-02-10T20:01:18.091Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2019-05-29T18:18:00.000Z",
+  "productSlug": "anno-2205/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 2205",
+  "id": "634a34e6116f4397bee478374708de9b",
+  "namespace": "epic",
+  "description": "Anno 2205",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10320"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "cbbb7e8728a3476f97e44f3856c3cb13"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-2205/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b14d60867fc34e6687e20f1cb98d6d74"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b14d60867fc34e6687e20f1cb98d6d74",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "developerName",
+        "value": "Blue Byte"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "anno-2205/home"
+      }
+    ]
+  }
+}

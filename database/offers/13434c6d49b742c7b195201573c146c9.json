@@ -1,0 +1,91 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-28T16:00:00.000Z",
+  "creationDate": "2018-12-05T00:20:44.261Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-12-04T19:26:00.000Z",
+  "productSlug": "super-meat-boy/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Super Meat Boy",
+  "id": "13434c6d49b742c7b195201573c146c9",
+  "namespace": "epic",
+  "description": "Super Meat Boy",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PortraitPromo2-1288x1450-5da0584e428210413b9bd5e2b8f43a21.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PrimaryPromo2-2580x1456-df869e78d3d69fd36efb938501176bc0.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Logo_SMB_Original2-2526x780-f5a5990cdd6c400ba744591b7327edfa.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/smbcard1-744x300-17df1723e2b17231071a5d1ec912424f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
+    "name": "Team Meat"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "191"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "buffalo"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "58f2e8dff4a84c5796ebcbdd5d10fe34"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "super-meat-boy/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "58f2e8dff4a84c5796ebcbdd5d10fe34",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Team Meat"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "super-meat-boy/home"
+      }
+    ]
+  }
+}

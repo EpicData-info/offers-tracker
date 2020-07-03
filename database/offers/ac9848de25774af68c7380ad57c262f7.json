@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-15T12:00:00.000Z",
+  "creationDate": "2019-04-15T22:02:21.793Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.190Z",
+  "viewableDate": null,
+  "productSlug": "anno-1800/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Anno 1800 Season Pass",
+  "id": "ac9848de25774af68c7380ad57c262f7",
+  "namespace": "oregano",
+  "description": "Anno 1800 Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_CodeRedemptionImage-330x440-08e0d0789e1d2be92dbc0b8527d68cb5.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_GameIcon_400x400-400x400-bda1437aa4ea0f532b819ec99f238723.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_SeasonPass_Landscape_2580x1450-2580x1450-2580x1450-6148699817169d44dac204774c629842.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "3a9071eaf3c743e495c94379e04ae522",
+      "namespace": "oregano",
+      "developer": null
+    },
+    {
+      "id": "d53d165e2ee14a14b0fb40b215260bf1",
+      "namespace": "oregano",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

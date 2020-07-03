@@ -1,0 +1,67 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-10-31T19:49:00.000Z",
+  "creationDate": "2018-10-31T23:49:56.785Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": "2018-10-31T19:49:00.000Z",
+  "productSlug": "conan-exiles",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Conan Exiles Dev Kit",
+  "id": "866602da89894aa89a0726adf5aa6d6a",
+  "namespace": "epic",
+  "description": "Conan Exiles Dev Kit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/conan_box-860x500-4476ab2b7dc69eeead0027ea4b40b8a5.png"
+    }
+  ],
+  "seller": {
+    "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "name": "Funcom"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "conanexiles"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "conan-exiles"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1bf1c664fc664ac88733e46da2297f8e"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "1bf1c664fc664ac88733e46da2297f8e",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "conan-exiles"
+      }
+    ]
+  }
+}

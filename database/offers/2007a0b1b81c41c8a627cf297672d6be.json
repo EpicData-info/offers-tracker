@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-06-14T18:13:11.431Z",
+  "lastModifiedDate": "2019-11-12T14:00:08.028Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "RobinDevAudience",
+  "id": "2007a0b1b81c41c8a627cf297672d6be",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "RobinDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/CodeRedemption_Yaga-340x440-2f43c8e5f57e91cc8b63a9f548d1ec6d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "a82c3c5f0d864dd794501ec121fb7a16",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

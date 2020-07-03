@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-15T17:00:00.000Z",
+  "creationDate": "2019-01-08T02:39:13.508Z",
+  "lastModifiedDate": "2020-05-15T17:33:58.953Z",
+  "viewableDate": "2019-01-07T11:54:00.000Z",
+  "productSlug": "the-division-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Division 2",
+  "id": "f2dfe3f792734ee8a614a97131318db8",
+  "namespace": "impala",
+  "description": "Tom Clancy's The Division 2 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_Portrait-Promo-(2)-1280x1420-19a6b9b120b24529d92ed1d87f1185455ceb84aa-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TCTD2_Logo_Color-1000x375-6fd59444b232a262056d9bc9b7579cff.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_Portrait-Promo-(2)-1280x1420-19a6b9b120b24529d92ed1d87f1185455ceb84aa-1280x1420-4f0c658d399e26d7120aa6b04d4f77a0.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-9cd6702080ca3ae5b2d5d371f8b78e73.jpg"
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-9fcf32a003e9836ce2bc18fcf053b6d41a0f8c64-2580x1450-f784f5581ef2409cdf99b44ce7535de5.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/Game-Page-Promo-2580x1450-99fd67a6a935b8c2436385b0c54e6f92-2580x1450-99fd67a6a935b8c2436385b0c54e6f92.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-9cd6702080ca3ae5b2d5d371f8b78e73-340x440-9cd6702080ca3ae5b2d5d371f8b78e73.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "db5e601f86a0497fad1ef43340af2f00",
+      "namespace": "impala",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Massive Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-division-2/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

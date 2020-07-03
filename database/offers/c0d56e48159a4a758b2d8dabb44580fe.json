@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-18T10:00:00.000Z",
+  "creationDate": "2019-11-25T22:41:09.890Z",
+  "lastModifiedDate": "2020-05-13T20:51:23.856Z",
+  "viewableDate": null,
+  "productSlug": "readyset-heroes/free-trial",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "ReadySet Heroes Free Trial",
+  "id": "c0d56e48159a4a758b2d8dabb44580fe",
+  "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+  "description": "ReadySet Heroes Free Trial",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/item/ESRB_ReadySet-842x404-7f94c3fc84835f24b6e7728427b999b0.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/Free-Trial-Banner-1250x703-2c35a66b84a43efb747ab437e2396300.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/Free-Trial-Banner-Tall-860x1148-e734c9e565c6447c49cac65ef096481c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7f498fbf0a4e43239d58eee6615ae806/offer/RSH_16x9 Banner(1920x1080)-1920x1080-61ab230bd4db313fa56668a9da33195d-1920x1080-61ab230bd4db313fa56668a9da33195d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
+    "name": "Sony Interactive Entertainment"
+  },
+  "items": [
+    {
+      "id": "18509583d4f94f169e9b8f7a12939ebb",
+      "namespace": "7f498fbf0a4e43239d58eee6615ae806",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sony Interactive Entertainment"
+    },
+    {
+      "key": "developerName",
+      "value": "Robot Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "readyset-heroes/free-trial"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

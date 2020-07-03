@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-12-14T16:00:00.000Z",
+  "creationDate": "2018-11-29T23:29:48.658Z",
+  "lastModifiedDate": "2020-04-02T01:42:11.630Z",
+  "viewableDate": "2018-11-28T19:45:00.000Z",
+  "productSlug": "subnautica",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Subnautica",
+  "id": "9ac2b841932448aeb5fc370907c8c0b3",
+  "namespace": "jaguar",
+  "description": "Subnautica",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_logo_1024x138-1024x138-734df7a072e1a28f69d51fff7942b7bc.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/Subnautica_CodeRedemption-330x440-2e26adbced31295cda18beb3c502c407.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
+    "name": "Unknown Worlds Entertainment"
+  },
+  "items": [
+    {
+      "id": "7e5369e3011744fabe5408c6af531063",
+      "namespace": "jaguar",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Unknown Worlds"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "subnautica"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

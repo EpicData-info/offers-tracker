@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-13T22:28:15.015Z",
+  "lastModifiedDate": "2020-05-19T21:39:55.293Z",
+  "viewableDate": "2020-05-15T16:00:00.000Z",
+  "productSlug": "mafia-ii-definitive-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Mafia II: Definitive Edition",
+  "id": "7e235e4287d94ebe9b73bbc5c9380a34",
+  "namespace": "107bd7324f39429ca4e7e9e44765d8cf",
+  "description": "Mafia II: Definitive Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S1-2560x1440-a5359699d0d061a7f817a6c65a85f92d8734a89c-2560x1440-7fa568a2fb0ea968b7cb7e16a43dd35b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S2-1200x1600-4cbc94d86b3b82ef8a532fa96a2f28145dae0713-1200x1600-f2cdf5d42079674921f4a36e0254e088.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S2-1200x1600-4cbc94d86b3b82ef8a532fa96a2f28145dae0713-1200x1600-f2cdf5d42079674921f4a36e0254e088.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S2-1200x1600-4cbc94d86b3b82ef8a532fa96a2f28145dae0713-1200x1600-f2cdf5d42079674921f4a36e0254e088.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S1-2560x1440-a5359699d0d061a7f817a6c65a85f92d8734a89c-2560x1440-7fa568a2fb0ea968b7cb7e16a43dd35b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/Diesel_productv2_mafia-ii-definitive-edition_home_EGS_MafiaIIDefinitiveEdition_RedKiteGames_S2-1200x1600-4cbc94d86b3b82ef8a532fa96a2f28145dae0713-1200x1600-f2cdf5d42079674921f4a36e0254e088.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/107bd7324f39429ca4e7e9e44765d8cf/offer/ESRB_MafiaII-842x404-c989989dcf8a83d3cb4e1e19db4cb342.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "7381ef56115b4bc0978c3872b590f097",
+      "namespace": "107bd7324f39429ca4e7e9e44765d8cf",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Hangar 13"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mafia-ii-definitive-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

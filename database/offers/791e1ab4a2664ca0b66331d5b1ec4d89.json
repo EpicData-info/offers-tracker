@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-23T15:00:00.000Z",
+  "creationDate": "2019-06-06T19:54:40.846Z",
+  "lastModifiedDate": "2020-04-29T22:08:31.099Z",
+  "viewableDate": null,
+  "productSlug": "auto-chess/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Auto Chess",
+  "id": "791e1ab4a2664ca0b66331d5b1ec4d89",
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "description": "Auto Chess",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-portrait-1280x1440-af5c1a2e01a45aceacbb2d0dfd9355f4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-LOGO-339x129-730a07c18c3f7f159abf6592873bbc55.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-portrait-1280x1440-af5c1a2e01a45aceacbb2d0dfd9355f4.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/CodeRedemption_Autochess-340x437-e4674ae799f335430624c05da2c03d2c.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/CodeRedemption_Autochess-340x437-e4674ae799f335430624c05da2c03d2c.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Autochess-promo-2560x1440-f041c389dafd6ff1466999a9bf804f3c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+    "name": "Dragonest Game"
+  },
+  "items": [
+    {
+      "id": "d1882300c6b7406bbc1c54e3e7f6c502",
+      "namespace": "37baf50c268d47779020d73143bb02b0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Dragonest Game"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "auto-chess/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,70 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "creationDate": "2019-09-03T22:09:18.585Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "trials-rising/sixty-six",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trials Rising Sixty-Six DLC",
+  "id": "c7deb381e344466ab51fed71a9bf2477",
+  "namespace": "argyle",
+  "description": "Trials Rising Sixty-Six DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TR_66_DLC_Capsule_355x150-355x150-b193b3ec636b3b7bc312b527eeee5873.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/argyle/offer/Diesel_productv2_trials-rising_sixty-six_TRR_UCS14017_EGST_BannerBundle_RT66_US_GameName_Store_Landscape_2580x1450-2580x1450-fcf17f4ffed414ba2f7adf54d888aee173ca8eba-2580x1450-c068a5fb7b89d4e88ada02f4df4e17a2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "0dc35b99fd1c44b3bb1c62310141b0cd",
+      "namespace": "argyle",
+      "developer": null
+    },
+    {
+      "id": "6ce5cfe2944c4589bdd1a3096473e764",
+      "namespace": "argyle",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trials-rising/sixty-six"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-31T10:20:00.000Z",
+  "creationDate": "2019-03-14T14:24:47.173Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "heavy-rain/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Heavy Rain",
+  "id": "9dd87f45b11b40cbabf382a6dd1f71fd",
+  "namespace": "epic",
+  "description": "Heavy Rain",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_GAMEPAGE_PROMOIMAGE-2580x1450-e0f4b3c529d3d52b8ca27aaa312d2faa.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/001_HEAVYRAIN_STOREPORTRAIT-1280x1420-ebf00856b579e7862182118d30139c8d.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/HeavyRain_Logo-1850x304-ec8f52cec09a80616d999851098de28e.png"
+    }
+  ],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10315"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "aster"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heavy-rain/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b1f5e946cb694968849f5b4331f27db5"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b1f5e946cb694968849f5b4331f27db5",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Quantic Dream"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "heavy-rain/home"
+      }
+    ]
+  }
+}

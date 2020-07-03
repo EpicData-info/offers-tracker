@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "creationDate": "2020-01-09T19:35:48.615Z",
+  "lastModifiedDate": "2020-05-11T17:07:09.428Z",
+  "viewableDate": null,
+  "productSlug": "overpass/drive-with-style",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Drive With Style Pack",
+  "id": "e0ad7091e21342af9d2b4558a90f5b4d",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Drive With Style Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_MobileVertical-510x680-864df1d1b80f2b255d203a39cc29faaf.JPG"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_DesktopHorizontal-1360x766-9f2c33093a91b877cf986b9c8d61b13c.JPG"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_Style_Wide-1360x766-3edddab60d1643b7f7b58595c2ba9b88.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "28d83f1e438241a5928c97b541d498b0",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overpass/drive-with-style"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

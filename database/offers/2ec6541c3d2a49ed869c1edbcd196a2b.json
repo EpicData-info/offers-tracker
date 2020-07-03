@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-06-02T15:15:34.268Z",
+  "lastModifiedDate": "2020-07-03T12:40:18.365Z",
+  "viewableDate": "2020-07-03T13:00:00.000Z",
+  "productSlug": "demon-turf",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Demon Turf",
+  "id": "2ec6541c3d2a49ed869c1edbcd196a2b",
+  "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+  "description": "Demon Turf",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S5-1920x1080-c09db5839bf7849cf9b08ff7c8b3a6bc.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S5-1920x1080-c09db5839bf7849cf9b08ff7c8b3a6bc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3e7e7c2bc1644a25a99b3a4c4ef1ff33/offer/EGS_DemonTurf_Fabraz_S6-1200x1600-e20159aab1337b05fb4cbc9b8158d230.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-458ql9emykk38kpq6fh5qhfb52efyx",
+    "name": "Fabraz LLC"
+  },
+  "items": [
+    {
+      "id": "a2da9caf845d40fb9f14ed59b57ef09b",
+      "namespace": "3e7e7c2bc1644a25a99b3a4c4ef1ff33",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Fabraz"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "demon-turf"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

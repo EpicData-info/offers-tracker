@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-09T14:00:00.000Z",
+  "creationDate": "2020-04-02T21:46:13.982Z",
+  "lastModifiedDate": "2020-06-09T16:00:14.021Z",
+  "viewableDate": "2020-06-09T14:00:00.000Z",
+  "productSlug": "rimworld/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "RimWorld",
+  "id": "4eb4eaeb9f344519b934036051b38f29",
+  "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "description": "RimWorld",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-hsdwarj24e4ntqdnvu83854narhusv",
+    "name": "Ludeon Studios"
+  },
+  "items": [
+    {
+      "id": "76cc56614cb24bfa8eb0ad8e10275602",
+      "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ludeon Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rimworld/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

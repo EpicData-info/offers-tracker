@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-11-28T14:09:00.000Z",
+  "creationDate": "2018-11-28T19:09:45.015Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "ashen",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ashen",
+  "id": "32a37ec072474cf4a621d0ce28505f36",
+  "namespace": "wren",
+  "description": "Ashen",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Store_Ashen_logo-1850x461-09ebf4211fbf9acf6203b383f985216b.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wren/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/offer/Ashen_PurchaseImage-330x390-87c78443c03416cc4dec9dd9a0ac8239.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/wren/offer/Ashen_Landscape_2560x1440-2560x1440-f19f88cf4b60fd83c8c9cae10948931f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "f0cacc038f734388a2983c7b7100f0f3",
+      "namespace": "wren",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "A44"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ashen"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

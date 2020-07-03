@@ -1,0 +1,41 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-09-16T00:00:00.000Z",
+  "creationDate": "2015-09-17T22:39:25.896Z",
+  "lastModifiedDate": "2020-04-29T00:46:41.077Z",
+  "viewableDate": "2015-09-16T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Test Item Anita",
+  "id": "e92c5ed8215447e29680b93a00d16029",
+  "namespace": "SeaQA",
+  "description": "test item Anita descr",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-48fdeb720e4875863337a6f5bb8c48",
+    "name": "harinirao testtttttt"
+  },
+  "items": [
+    {
+      "id": "bf12a3b8c97a431abaaff49b41ae7f30",
+      "namespace": "SeaQA",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/testing"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

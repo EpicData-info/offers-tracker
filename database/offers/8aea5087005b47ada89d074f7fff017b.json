@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-01-11T03:50:54.725Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "faeria/cardbacks-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Cardbacks Pack",
+  "id": "8aea5087005b47ada89d074f7fff017b",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "description": "Cardbacks Pack",
+  "longDescription": "9.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllCardbacks_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-fa4958d053aa612997c189bf6d92e6816a063fe3.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllCardbacks_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-46260ef992a0e88f5d0f9f0a4f6dc644.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllCardbacks_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-4bdccc15abf83b47340e275c376f4632.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Cardbacks_Portrait-Offer-860x1148-e239bc59d0fc0524e8c2807f4e9c85ce.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "b0b4f92ee2fc4b908914864067375b56",
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/cardbacks-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

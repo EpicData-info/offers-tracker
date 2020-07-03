@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-23T15:00:00.000Z",
+  "creationDate": "2019-12-10T22:07:00.494Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-04-16T15:00:00.000Z",
+  "productSlug": "for-the-king/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "For The King",
+  "id": "55e88d9d4c864d53ba3a03f58222ed24",
+  "namespace": "epic",
+  "description": "For The King",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_for-the-king_EGS_IronOakGames_ForTheKing_G1C_00-1920x1080-fe6c412cac9a22dd1a9df2eeab05d0a3cd34761b-1920x1080-60e45fce935660131ba319296fe00037.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_for-the-king_EGS_IronOakGames_ForTheKing_S4-510x680-124fa65abe75469a705800f43aaa481fcc0ae8df-510x680-226ea06223a3a31c31c242834bb6878f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
+    "name": "Curve Digital"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "3000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "4492ce99b4124b74a0bb83f78b3d70b8"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "for-the-king/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "7ad72dc39d624bbd912c195daad10d00"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "7ad72dc39d624bbd912c195daad10d00",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Curve Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "IronOak Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "for-the-king/home"
+      }
+    ]
+  }
+}

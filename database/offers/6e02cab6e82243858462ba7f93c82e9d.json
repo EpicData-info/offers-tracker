@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-01T15:00:00.000Z",
+  "creationDate": "2019-08-24T04:42:54.442Z",
+  "lastModifiedDate": "2020-07-01T22:04:10.203Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "productSlug": "trackmania/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Trackmania",
+  "id": "6e02cab6e82243858462ba7f93c82e9d",
+  "namespace": "b04882669b2e495e9f747c8560488c93",
+  "description": "Trackmania",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Landscape_2560x1440-2560x1440-e748deac61ee274e1ef8faa5f40b03cd.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Landscape_2560x1440-2560x1440-e748deac61ee274e1ef8faa5f40b03cd.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_StarterEdition_Store_Portrait_1200x1600-1200x1600-1200x1600-9afa6ef84b3de2468fee739e79942e91.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "4e1475312e8a44f4b815c66a4847d76b",
+      "namespace": "b04882669b2e495e9f747c8560488c93",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Nadeo"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trackmania/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

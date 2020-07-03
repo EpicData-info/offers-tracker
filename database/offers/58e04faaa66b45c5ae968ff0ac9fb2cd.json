@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-17T21:44:52.582Z",
+  "lastModifiedDate": "2019-09-19T15:08:43.297Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "MerganserDevAudience",
+  "id": "58e04faaa66b45c5ae968ff0ac9fb2cd",
+  "namespace": "4d1607defb8840cdb849d47d012b249b",
+  "description": "MerganserDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "cc9ea6f01ad84a588aee6f9fecffc8be",
+      "namespace": "83022e1b4c304addb2aadee1db854f8d",
+      "developer": null
+    },
+    {
+      "id": "e7b88726011f4c3a83aef972b67404a8",
+      "namespace": "cb23c857ec0d42d89b4be34d11302959",
+      "developer": null
+    },
+    {
+      "id": "ab09d6415f2340bd8fdd3b9bfcc28382",
+      "namespace": "843c8ce683474448bb104a9651e8f325",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

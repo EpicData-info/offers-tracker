@@ -1,0 +1,74 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2015-02-10T00:00:00.000Z",
+  "creationDate": "2015-02-10T21:21:20.652Z",
+  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "viewableDate": "2015-02-10T00:00:00.000Z",
+  "productSlug": "unreal-tournament",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Unreal Tournament",
+  "id": "9a85e064672249f6976b92c2d8db56b5",
+  "namespace": "ut",
+  "description": "<a id=\"StandardURL\" href=\"http://www.unrealtournament.com/\">Spotlight - Tutorials, Features, and Videos</>",
+  "longDescription": "Thank you for your interest in Unreal Tournament! UT is in open development as a collaboration between Epic Games, Unreal Tournament fans and Unreal Engine 4 developers.\n<a id=\"StandardURL\" href=\"http://forums.unrealtournament.com/\">Visit Our Forums</>",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/vertical logo-515x166-cbec624e33e710ec31c4567e70cf4d50.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/UT_BG1-1920x1080-8cdaa270830ad508e3671859c19cf5b8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ut/offer/NewB_TPBG02-2048x1152-1826500511-2048x1152-5e6cce4cfd852bda96140ad568f2e12d-2048x1152-5e6cce4cfd852bda96140ad568f2e12d.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "b8538c739273426aa35a98220e258d55",
+      "namespace": "ut",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Epic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "unreal-tournament"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

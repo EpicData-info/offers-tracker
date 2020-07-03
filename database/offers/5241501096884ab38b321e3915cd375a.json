@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "creationDate": "2020-04-14T13:58:58.387Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-03-05T05:00:00.000Z",
+  "productSlug": "old-world/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Old World",
+  "id": "5241501096884ab38b321e3915cd375a",
+  "namespace": "epic",
+  "description": "Old World",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_old-world_home_EGS_OldWorld_MohawkGames_S1-2560x1440-b2b7d5436374de13881d5aca86aa2ea19dc75a81-2560x1440-eca50cb4eba754a41c780d7433d064ae.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_old-world_home_EGS_OldWorld_MohawkGames_S2-860x1148-c5753d77759eb31dcb6296682fa9184da0ad2cc6-860x1148-23f01b5a5ac3f986f88804adbecc2164.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-uw2qbn4nh26vxscergml2f7du26bvk",
+    "name": "Mohawk Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "18009"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "07f4a7dd3c884e5d87e9a209716962ca"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "availableDate",
+      "value": "1598875200"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "old-world/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a99fdf6e130547229f0c62ea6a282fbf"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a99fdf6e130547229f0c62ea6a282fbf",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "KR"
+      },
+      {
+        "key": "publisherName",
+        "value": "Mohawk Games"
+      },
+      {
+        "key": "isPrepurchase",
+        "value": "true"
+      },
+      {
+        "key": "availableDate",
+        "value": "1588690800"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "old-world"
+      }
+    ]
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "creationDate": "2020-01-11T03:47:25.000Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "faeria/avatars-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Avatars Pack",
+  "id": "8c471a47f40c4ed2aa30dcf0601b7aa7",
+  "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "description": "Avatars Pack",
+  "longDescription": "9.99",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllAvatars_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-eb5ec25a9857026c63526ccfc4e3b87440a2066c.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllAvatars_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-44e39e3147baba59ddc5fd73828326e2.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_AllAvatars_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-0d470f125a0cce0c7004d3a229cdafbf.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Avatars_Portrait-Offer-860x1148-7ee6ad190b1f128ace4c220f1cf62e7f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "ba63d35a8a944b8cb07efa40daa5e364",
+      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/avatars-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

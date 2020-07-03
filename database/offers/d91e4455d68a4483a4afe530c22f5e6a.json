@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-04T16:00:00.000Z",
+  "creationDate": "2019-03-04T20:28:42.128Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "rune-2/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rune II",
+  "id": "d91e4455d68a4483a4afe530c22f5e6a",
+  "namespace": "epic",
+  "description": "Rune 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/510x680-510x680-a8ffffcc77efa3eba9dc19cbfa043c7f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/1360x766-1360x766-a182e19ca442354278094d960f139fe6.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
+    "name": "Ragnarok Game, LLC"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10480"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "cosmos"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ragnarok Game LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "Human Head Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rune-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "ce274c51740c4bc189fc4701e41b5584"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "ce274c51740c4bc189fc4701e41b5584",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "developerName",
+        "value": "Ragnarok Game, LLC"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "rune-2"
+      }
+    ]
+  }
+}

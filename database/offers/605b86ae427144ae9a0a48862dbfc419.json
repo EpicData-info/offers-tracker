@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-19T12:00:00.000Z",
+  "creationDate": "2019-04-19T19:03:33.792Z",
+  "lastModifiedDate": "2019-10-30T20:41:02.537Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Shakedown: Hawaii PrePurchase",
+  "id": "605b86ae427144ae9a0a48862dbfc419",
+  "namespace": "plumeria",
+  "description": "Shakedown: Hawaii PrePurchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/plumeria/offer/ShakedownHawaii_PurchaseImage-330x550-aa99ef8d0fe5c6c96f971e23741cb6ac.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
+    "name": "Vblank Entertainment"
+  },
+  "items": [
+    {
+      "id": "bb38deec730a42a799808bdb33cb3969",
+      "namespace": "plumeria",
+      "developer": null
+    },
+    {
+      "id": "41152625466f4722817d41e0981755ab",
+      "namespace": "plumeria",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Vblank Entertainment"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

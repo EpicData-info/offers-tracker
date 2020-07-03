@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-10T02:49:42.076Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-rogue/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Rogue",
+  "id": "1d04edde32fd4871923193c369ba58c2",
+  "namespace": "epic",
+  "description": "Assassin's Creed Rogue",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10721"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "34f7e1e275924bb6a90074920f9c1696"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "fd2df056f60e4ca8a59ca5c5f0ff3395"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-rogue/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "fd2df056f60e4ca8a59ca5c5f0ff3395",
+  "linkedOffer": null
+}

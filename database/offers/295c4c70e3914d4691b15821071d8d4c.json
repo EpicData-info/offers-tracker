@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-05T17:00:00.000Z",
+  "creationDate": "2019-08-15T19:53:36.001Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "mtg-arena/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Magic The Gathering Arena",
+  "id": "295c4c70e3914d4691b15821071d8d4c",
+  "namespace": "epic",
+  "description": "Magic The Gathering Arena マジック MTG",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_IC1_WHITE-260x200-2398d066e3fc892e44d8aabbbba911ed.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+    "name": "Wizards of the Coast"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9085"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "5fdcc0dc67294af3be740f362bd976fd"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,KR,HK,MO,TW,TH,VN,ID,PH,MY,SG,KH,LA,BN,MM"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mtg-arena/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "e8c01dff9a524977a2e51c5831155a91"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "e8c01dff9a524977a2e51c5831155a91",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN,KR,HK,MO,TW,TH,VN,ID,PH,MY,SG,KH,LA,BN,MM"
+      },
+      {
+        "key": "developerName",
+        "value": "Wizards of the Coast"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "mtg-arena/home"
+      }
+    ]
+  }
+}

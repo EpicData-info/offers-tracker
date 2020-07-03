@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-01-17T23:15:28.040Z",
+  "lastModifiedDate": "2020-06-02T17:28:15.337Z",
+  "viewableDate": null,
+  "productSlug": "a-total-war-saga-troy",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "A Total War Saga: TROY",
+  "id": "4fc245c9e77a4560a31e0dc77e89d716",
+  "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+  "description": "A Total War Saga: TROY",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "items": [
+    {
+      "id": "110700eec1124f78b064e66bb6c30f1c",
+      "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA"
+    },
+    {
+      "key": "developerName",
+      "value": "CREATIVE ASSEMBLY"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "a-total-war-saga-troy"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

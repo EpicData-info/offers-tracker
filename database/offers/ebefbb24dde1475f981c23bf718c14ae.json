@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-16T07:00:00.000Z",
+  "creationDate": "2019-12-12T04:15:26.116Z",
+  "lastModifiedDate": "2020-06-16T11:59:41.038Z",
+  "viewableDate": null,
+  "productSlug": "outward/the-soroboreans",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Soroboreans",
+  "id": "ebefbb24dde1475f981c23bf718c14ae",
+  "namespace": "viola",
+  "description": "The Soroboreans Audience",
+  "longDescription": "The Soroboreans",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_2560x1440-2560x1140-b3e63dcca13fb9299e2f55f3dd35a60d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "c2f40668607c4be79a3e341c0190ce1e",
+      "namespace": "viola",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Nine Dots Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outward/the-soroboreans"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

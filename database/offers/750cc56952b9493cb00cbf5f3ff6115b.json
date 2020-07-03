@@ -1,0 +1,100 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-30T06:00:00.000Z",
+  "creationDate": "2020-06-25T20:07:52.636Z",
+  "lastModifiedDate": "2020-06-30T13:00:35.795Z",
+  "viewableDate": null,
+  "productSlug": "fuser/vip-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Fuser VIP Edition",
+  "id": "750cc56952b9493cb00cbf5f3ff6115b",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "description": "Fuser VIP Edition  pre-purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S1-2560x1440-d651fd9efadcc3ba526e61b49ba40aad.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S2-1200x1600-2e8a29e7780109ba104a2fafbf864d97.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6af58339c2424644988e0fb83dfd9bd5/offer/EGS_FUSERVIPEdition_HarmonixMusicSystemsInc_Editions_S1-2560x1440-d651fd9efadcc3ba526e61b49ba40aad.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "items": [
+    {
+      "id": "9b6991eafab14d20bea2b3faf91cbd11",
+      "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+      "developer": null
+    },
+    {
+      "id": "f5f217b04f454feea119c3e50227690b",
+      "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+      "developer": null
+    },
+    {
+      "id": "d7d693bd8a2c4a4685467c1adb091b4c",
+      "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,JP,TW"
+    },
+    {
+      "key": "publisherName",
+      "value": "NCSOFT"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Harmonix Music Systems, Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fuser/vip-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

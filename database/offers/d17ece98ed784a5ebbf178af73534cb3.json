@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "creationDate": "2019-09-03T20:32:50.231Z",
+  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
+  "viewableDate": null,
+  "productSlug": "zombie-army-4-dead-war/solid-gold-weapon-skins",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Solid Gold Weapon Skins",
+  "id": "d17ece98ed784a5ebbf178af73534cb3",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "description": "Weapons Skin 1 Gold",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_SOLIDGOLDWEAPONSKINS-900x450-51fa5cfd7de0b5d4c585b15674dabdc6-900x450-51fa5cfd7de0b5d4c585b15674dabdc6.png"
+    }
+  ],
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "items": [
+    {
+      "id": "79d206ed52224466ade4ca3289f86326",
+      "namespace": "dfd2530e80e4425d801913b0879be444",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/solid-gold-weapon-skins"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

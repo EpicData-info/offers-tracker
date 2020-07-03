@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "creationDate": "2020-01-17T18:09:53.277Z",
+  "lastModifiedDate": "2020-05-29T17:51:33.992Z",
+  "viewableDate": null,
+  "productSlug": "sid-meiers-civilization-vi/gathering-storm",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Civilization VI : Gathering Storm",
+  "id": "ead2024942c444b9a2299fdd3245e807",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "description": "Civilization VI : Gathering Storm",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S1-2560x1440-aa072ce4040791138639201ef017758c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "6ca81c7f823b4394ac84c086133c8627",
+      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Firaxis games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sid-meiers-civilization-vi/gathering-storm"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

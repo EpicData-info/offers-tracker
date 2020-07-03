@@ -1,0 +1,75 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-02T10:23:00.000Z",
+  "creationDate": "2019-10-04T14:26:14.130Z",
+  "lastModifiedDate": "2020-05-11T18:46:47.182Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Founder's Pack: ScoutPack",
+  "id": "146d38b2dd354de7908ad6034daebe61",
+  "namespace": "azalea",
+  "description": "Founder's Pack: ScoutPack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_scout-pack_FP_Tier1_info_D-2560x1440-c7d62e0fda69f6688577c3cb816fc9a17378e778-2560x1440-364407a722b97334eb05c68ce8536313.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "80318b116ba14200ad67025376d2ed15",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "b782ddde066b46df9e526e7ea9d32728",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "9702ba32bc67427a894c1db0f9ae8935",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-04-01T12:00:00.000Z",
+  "creationDate": "2019-04-08T18:51:35.412Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.511Z",
+  "viewableDate": "2019-04-01T14:50:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dauntless - 1,000 (+150 Bonus) Platinum",
+  "id": "f0a07e491655435c966aeceb9a4f040a",
+  "namespace": "jackal",
+  "description": "Dauntless - 1,000 (+150 Bonus) Platinum",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S3-1360x766-f6001a460af951b3cdbb1bf562159348-1360x766-f6001a460af951b3cdbb1bf562159348.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S4-510x680-e555c4296ba40636fd72db5ce5f56a95-510x680-e555c4296ba40636fd72db5ce5f56a95.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
+    "name": "Phoenix Labs"
+  },
+  "items": [
+    {
+      "id": "7dc6f4bb6f0e4d56b64c976211164e4f",
+      "namespace": "jackal",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

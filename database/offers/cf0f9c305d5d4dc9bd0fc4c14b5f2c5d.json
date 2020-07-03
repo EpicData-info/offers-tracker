@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-20T15:00:00.000Z",
+  "creationDate": "2018-11-30T01:28:02.630Z",
+  "lastModifiedDate": "2020-05-22T13:21:18.060Z",
+  "viewableDate": null,
+  "productSlug": "maneater",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Maneater",
+  "id": "cf0f9c305d5d4dc9bd0fc4c14b5f2c5d",
+  "namespace": "turtle",
+  "description": "Maneater",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Portrait_860x1148-860x1148-9dccefd6c1b580ff98ebd769637ba38c.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Landscape_2560x1440-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Maneater_EGS_Landscape-2560x1440-cf27e86a8daeeb2915a49a8b4c954dbd.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/turtle/offer/ManEater_860x1148V2 (2)-860x1148-48b03ebe57bf02e8d7c8f95e1407be5d.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/turtle/offer/Diesel_productv2_maneater_EGS_Maneater_TripwireInteractive_RA1-409x193-7f3ac41ce53375897d010ff116d6353aa0691627-409x193-3e530b35c68bb3fea53ab52043411325.png"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "51805ef548764d089637111377ed1714",
+      "namespace": "turtle",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Tripwire"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "maneater"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

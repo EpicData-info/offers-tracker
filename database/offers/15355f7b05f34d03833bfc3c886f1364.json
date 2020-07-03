@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-10-14T17:26:53.692Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "rainbow-six-quarantine/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Tom Clancy's Rainbow Six Quarantine",
+  "id": "15355f7b05f34d03833bfc3c886f1364",
+  "namespace": "epic",
+  "description": "Tom Clancy's Rainbow Six Quarantine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/GameName_Store_Landscape_2580x1450-2580x1450-009786d4a8eb83576b5bd96ac6320e6e.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-af047bb367e15e1efc980e2a5b4a3c23.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/R6_Portrait-Promo-1280x1420-1280x1420-fce0fc8cf0aaf9d523553c1c3719d26c.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10665"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "1093790870b043cdbae03d91d76d9ae6"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rainbow-six-quarantine/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "dc763559d59d401381b21724e6945db2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "dc763559d59d401381b21724e6945db2",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "rainbow-six-quarantine/home"
+      }
+    ]
+  }
+}

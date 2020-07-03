@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "creationDate": "2020-01-09T21:04:45.365Z",
+  "lastModifiedDate": "2020-05-13T19:56:16.035Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Deluxe Edition Pre-Purchase",
+  "id": "621018656f584f5f8a569a8be531ac8f",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Deluxe Edition Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_Overpass_MobileVertical-510x680-101a7e9adece32ccdf8e23280f053025.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Overpass_DesktopHorizontal-1360x766-8f99ba72dfbff47153fdec87b66ce21d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "345e602010834075ab1c1bb378ef10b5",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    },
+    {
+      "id": "0cc51a090b004445b4240103e77b8cba",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    },
+    {
+      "id": "508964795add4b538323d9d0157cbfab",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

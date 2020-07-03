@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-04T11:00:00.000Z",
+  "creationDate": "2019-11-27T21:39:23.342Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "the-crew-2/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Crew 2 Season Pass",
+  "id": "411776ca8f3b43c5939dcd08658734e6",
+  "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "description": "The Crew 2 Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_SeasonPass-330x440-407721b8bbfec0d13a45cdb86d09a5ff.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CREW2_UCS12479_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-a6a858c7a6c500942e6baa8c9cbc4b10.jpg"
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CREW2_UCS12479_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-5e74ee730431a295f7fc6aafc03c35290291ffc5.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "31845441f06044dd81917b97d2f4d737",
+      "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+      "developer": null
+    },
+    {
+      "id": "d52964dfe4ed4f2994ab915670116778",
+      "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-crew-2/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

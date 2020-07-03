@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2020-06-16T21:55:48.669Z",
+  "lastModifiedDate": "2020-07-02T14:36:09.293Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "productSlug": "killing-floor-2/digital-deluxe-upgrade",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Digital Deluxe Upgrade",
+  "id": "7a7d370c85074a32a0e0fd1d8b110a49",
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "description": "This product requires the base game Killing Floor 2. The KF2 Digital Deluxe Edition upgrade includes: Additional characters & cosmetic items, Killing Floor 2 Soundtrack, Killing Floor 2 Digital Artbook.",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "edfcce492c5a4e918f186c0cb191476d",
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "killing-floor-2/digital-deluxe-upgrade"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

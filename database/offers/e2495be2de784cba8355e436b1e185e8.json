@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-25T20:00:00.000Z",
+  "creationDate": "2019-03-26T02:18:08.156Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "viewableDate": null,
+  "productSlug": "outward/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Outward",
+  "id": "e2495be2de784cba8355e436b1e185e8",
+  "namespace": "viola",
+  "description": "Outward",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_horizontal-520x292-4d1bf4d3f14cdc7899dc29a8db05dd6f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_vertical-400x530-1b6ef1bdbb5317926d22e25e6327c54d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_vertical-400x530-1b6ef1bdbb5317926d22e25e6327c54d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Blades_Desktop_horizontal-520x292-4d1bf4d3f14cdc7899dc29a8db05dd6f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "4dbfd9eaa642467aac29ec201b496d1c",
+      "namespace": "viola",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Nine Dots Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outward/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

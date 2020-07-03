@@ -1,0 +1,41 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-06-03T22:36:23.286Z",
+  "lastModifiedDate": "2020-06-04T03:38:07.103Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "TEST 2499 USD cents",
+  "id": "f539b31161be4a5d97315aeff4850e85",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "description": "test",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "dd1e498971ae425aa62ce1bd53cb2cdf",
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

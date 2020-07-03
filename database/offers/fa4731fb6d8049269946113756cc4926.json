@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2020-02-05T17:20:35.524Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-02-06T16:00:00.000Z",
+  "productSlug": "aztez/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Aztez",
+  "id": "fa4731fb6d8049269946113756cc4926",
+  "namespace": "epic",
+  "description": "Aztez",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TeamColorblind_Aztez_S3-1360x766-0669c902194e64ef9c59ba1349ff1927.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TeamColorblind_Aztez_S2-860x1148-0d2b32f59c7ce18bdb7f2c538c4cb3fa.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ndzqj36dmhqmfklcq44yywpgfnbmbd",
+    "name": "Team Colorblind"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "11009"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "5b325322a4c04b9e9e780b9a1e9b2d70"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "aztez/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "8b620ab6eaad4c6182d44f07830fd8f6"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "8b620ab6eaad4c6182d44f07830fd8f6",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Team Colorblind"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "aztez/home"
+      }
+    ]
+  }
+}

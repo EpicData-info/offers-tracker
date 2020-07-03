@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2016-11-07T00:00:00.000Z",
+  "creationDate": "2016-11-02T18:35:02.175Z",
+  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "viewableDate": "2016-11-07T00:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Batrankus",
+  "id": "1c8727b528b34520bd75f08cc99e1426",
+  "namespace": "ut",
+  "description": "DM-Batrankus",
+  "longDescription": "Once main hub of an ancient water distribution system, this site is now completely adapted for the Tournament. Happy Fragging!",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Featured",
+      "url": "https://cdn1.epicgames.com/ut/offer/Featured_Batrankus-600x600-dbae1c5ccca080d24dc79219e03176fa.png"
+    },
+    {
+      "type": "NewFeatured",
+      "url": "https://cdn1.epicgames.com/ut/offer/NewFeatured_Batrankus-1400x300-d2bd741f6ab940504a8fc8017a34885c.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/Screenshot_Batrankus_01-1920x1080-bf4ce823af3672dfbf75b9d543357e8e.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/Screenshot_Batrankus_04-1920x1080-524ee5d3a9683216d1b15b30292f9421.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/Screenshot_Batrankus_05-1920x1080-70c65fe84a782784bb6863e8d79319b4.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ut/offer/Thumbnail_Batrankus-300x250-3b2dd9034545d82b1057557795748fde.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/Screenshot_Batrankus_02-1920x1080-2f30d2bddfed8a57ebcae6f7e8b2a1f8.png"
+    },
+    {
+      "type": "Screenshot",
+      "url": "https://cdn1.epicgames.com/ut/offer/Screenshot_Batrankus_03-1920x1080-d5d477c45e6149c9fb1b8ec6643fbd53.png"
+    }
+  ],
+  "seller": {
+    "id": "o-eedfeea24e4472a3e067a52f6cb26a",
+    "name": "Oscar Crego"
+  },
+  "items": [
+    {
+      "id": "d8ac8a7ce06d44ab8e6b7284184e556e",
+      "namespace": "ut",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "Type",
+      "value": "Map"
+    }
+  ],
+  "categories": [
+    {
+      "path": "assets"
+    },
+    {
+      "path": "assets/environments"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

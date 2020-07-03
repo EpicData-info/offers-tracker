@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-26T08:00:00.000Z",
+  "creationDate": "2019-03-25T22:37:45.859Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "observation/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Observation",
+  "id": "0b81a29f7d1f4a9f9705a672db6ce172",
+  "namespace": "epic",
+  "description": "Observation",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observation_PrimaryPromo-1920x1080-6dfe300a2a6e1f16410267103c8e5a2e.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observation_PortraitPromo-960x1080-ec0f60994d154b3d0bc2c4226427bbeb.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Observation_Logo_Color-2496x560-b4b1a805027ea44d3e5018fe13036576.png"
+    }
+  ],
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10350"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "allium"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "observation/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "112d4a6bbc254c7fb58ca5597e40f093"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "112d4a6bbc254c7fb58ca5597e40f093",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Devolver Digital"
+      },
+      {
+        "key": "developerName",
+        "value": "No Code"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "observation/home"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "creationDate": "2020-01-09T19:32:58.199Z",
+  "lastModifiedDate": "2020-05-11T15:26:50.362Z",
+  "viewableDate": null,
+  "productSlug": "overpass/smart-start-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Overpass Smart Start Pack",
+  "id": "bb109591258c470688216b30c46a82a7",
+  "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "description": "Overpass Smart Start Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_MobileVertical-510x680-fc6df2c6cc485712dc9698ebeaa09278.JPG"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_DesktopHorizontal-1360x766-54bff302a49cd48e212a6ae70fd1bd06.JPG"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_SmartStart_Wide-1360x766-52c9454f06ba3a428e1674e059bdbec2.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "a5097138baa746b193c704ef623362da",
+      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Bigben Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Zordix Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "overpass/smart-start-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

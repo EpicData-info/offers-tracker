@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-02-12T13:19:46.055Z",
+  "lastModifiedDate": "2020-04-02T14:30:08.046Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "CuskDevAudience",
+  "id": "51bd8993c52b4026ba979b20eab91cda",
+  "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "description": "CuskDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
+    "name": "Frogwares"
+  },
+  "items": [
+    {
+      "id": "530ef59227e243fd910b988bee8173a9",
+      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

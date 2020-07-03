@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-29T18:00:00.000Z",
+  "creationDate": "2019-03-29T22:59:46.028Z",
+  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "LavenderDenuvoAudience",
+  "id": "b712d5ebc9c04f2d94932d3aeea49539",
+  "namespace": "lavender",
+  "description": "LavenderDenuvoAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-m8v47d762atphw94knus7ezawefpcu",
+    "name": "Quantic Dream"
+  },
+  "items": [
+    {
+      "id": "a5c2c2420a1e4085ac44f03f2e7a47a2",
+      "namespace": "lavender",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

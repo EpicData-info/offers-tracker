@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-15T16:09:00.000Z",
+  "creationDate": "2019-01-14T21:10:23.956Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.993Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "My Time at Portia Support a Creator",
+  "id": "bb21e60c34c84911929b66471c6c7374",
+  "namespace": "cobra",
+  "description": "My Time at Portia Support a Creator",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cobra/offer/thumbnail-1280x1420-2de5d547aea33add70bc80e602dab622.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cobra/offer/codredemption-340x440-1665373c5f20effd5fa20b2010c9d06a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "items": [
+    {
+      "id": "bc10cbba4e454b918bbc4bfa846248e9",
+      "namespace": "cobra",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

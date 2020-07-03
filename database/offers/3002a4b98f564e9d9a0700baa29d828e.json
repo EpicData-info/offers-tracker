@@ -1,0 +1,80 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [
+    "21eb73afb3b34940a2f41799f378f6ac",
+    "6a76c942e36e46c4ab566a21b5f46461",
+    "2621e3f77bcc4a868ce1ec2b32da6632"
+  ],
+  "effectiveDate": "2019-04-25T08:00:00.000Z",
+  "creationDate": "2019-04-25T18:28:42.549Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "the-tomorrow-corporation-collection",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Tomorrow Corporation Collection",
+  "id": "3002a4b98f564e9d9a0700baa29d828e",
+  "namespace": "epic",
+  "description": "The Tomorrow Corporation Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow Corporation Collection Matchstick Logo-812x227-3f1f304ad2114705194ac398d39c69a4.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow-Corporation-Collection-Matchstick-v2-1280x1420-2a6b6cc45b4f34648152474f2c11743a.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Primary-Promo v2-2580x1450-a27f0d69904c773820d28f919c69ae0a.png"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10340"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.1",
+      "value": "21eb73afb3b34940a2f41799f378f6ac"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.3",
+      "value": "2621e3f77bcc4a868ce1ec2b32da6632"
+    },
+    {
+      "key": "com.epicgames.app.collectionOfferIds.2",
+      "value": "6a76c942e36e46c4ab566a21b5f46461"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-tomorrow-corporation-collection"
+    }
+  ],
+  "categories": [
+    {
+      "path": "collections"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

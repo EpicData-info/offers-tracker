@@ -1,0 +1,51 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-02-25T15:11:00.000Z",
+  "creationDate": "2019-01-28T20:12:44.832Z",
+  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "LilyDevAudience",
+  "id": "9e89a6de9e4e4eca9977a526dc6892c5",
+  "namespace": "lily",
+  "description": "LilyDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_GameIcon-400x400-c94586c5240b4f82d5da21be06c80586.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "4c4d392098a448c78863ebee65e3a9f6",
+      "namespace": "lily",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

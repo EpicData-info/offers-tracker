@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-19T15:00:00.000Z",
+  "creationDate": "2019-02-28T13:50:23.808Z",
+  "lastModifiedDate": "2020-04-21T14:03:57.628Z",
+  "viewableDate": null,
+  "productSlug": "omen-of-sorrow",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Omen of Sorrow",
+  "id": "31c654e6b48a4d7288371cbaea5d7f61",
+  "namespace": "daffodil",
+  "description": "Omen of Sorrow",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
+    "name": "AOne Games"
+  },
+  "items": [
+    {
+      "id": "ef85d0a70ed74fd3a9e5805e56b6d29c",
+      "namespace": "daffodil",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "AOne Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "omen-of-sorrow"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

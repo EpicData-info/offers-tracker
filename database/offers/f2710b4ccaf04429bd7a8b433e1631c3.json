@@ -1,0 +1,64 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-17T21:45:07.459Z",
+  "lastModifiedDate": "2019-09-19T14:25:14.954Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "OwletDevAudience",
+  "id": "f2710b4ccaf04429bd7a8b433e1631c3",
+  "namespace": "86ce9e7a94704e8eb1f9dbe16310e701",
+  "description": "OwletDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "8fca582343ea4fac833c01645e9a8ed8",
+      "namespace": "5f7c811695f14b8fa3a8e1ea35713d23",
+      "developer": null
+    },
+    {
+      "id": "3bf409de231942939863585fa403e1f0",
+      "namespace": "e5e30c728f1947759251eb5283ffa6e3",
+      "developer": null
+    },
+    {
+      "id": "4ac490598d5b4ed7947b3fdd630d6ed2",
+      "namespace": "40c34bea9cd0460589c867f6a7246342",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-01T19:10:35.054Z",
+  "lastModifiedDate": "2019-09-27T23:37:58.622Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "PelicanDevAudience",
+  "id": "e744b6d58d55472da946fa08a8f034a3",
+  "namespace": "854ca270c7f04fe483212a35811e9189",
+  "description": "PelicanDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
+    "name": "David OReilly"
+  },
+  "items": [
+    {
+      "id": "da97a9da36914bbfa6db00f1d61d05f6",
+      "namespace": "854ca270c7f04fe483212a35811e9189",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "David OReilly"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-21T16:00:00.000Z",
+  "creationDate": "2019-10-23T17:42:31.295Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "bad-north/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Bad North",
+  "id": "ac5e4e5e2f024e2f9831baac251e0d46",
+  "namespace": "aa5ef9d2f8394731a034504c562e292c",
+  "description": "Bad North Jotunn Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLECONCEPT_BADNORTH_IC1_DESCRIPTION-2048x717-fbc885ca496d2f6819acaf515c6cfae2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BAD_NORTH_Promo-2560x1440-2834d69532da43f798e77c06031ba3a5.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BadNorth_Portrait-1280x1440-e5595cb37c9d97c9081360c393eba1b7.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "items": [
+    {
+      "id": "b316ffa52de14d4dbbf1482a0747c0f3",
+      "namespace": "aa5ef9d2f8394731a034504c562e292c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Plausible Concept"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "bad-north/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

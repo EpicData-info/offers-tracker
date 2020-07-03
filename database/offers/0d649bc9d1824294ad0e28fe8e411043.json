@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-27T16:00:00.000Z",
+  "creationDate": "2019-08-07T17:13:48.701Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "hyper-light-drifter/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hyper Light Drifter",
+  "id": "0d649bc9d1824294ad0e28fe8e411043",
+  "namespace": "epic",
+  "description": "Hyper Light Drifter",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HeartMachine_HyperLightDrifter_Social_Landscape-1920x1080-311a8f7f974fdf4d1fb94284601abffc.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HeartMachine_HyperLightDrifter_S2_StorePrimaryPromo_Portrait-1280x1440-5f0395b1be0e4b71c45ad057e0243cec.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HeartMachine_HyperLightDrifter_IC1_Logo_White-1316x720-e8c1800fcc3481465e34432c0ce5ab6f.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/Hyper_Freetile-1080x430-ec3e0ef5c88af98755e3ae305f524ef1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-sa7ewerl9ha4ddzrjkjac7rh8sjgyc",
+    "name": "Heart Machine"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "3"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "62d6f15b1bb345f6a42585b4c8c847a0"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hyper-light-drifter/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "4e7c7a4652c247ab8019906f7d60739c"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "4e7c7a4652c247ab8019906f7d60739c",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "developerName",
+        "value": "Heart Machine"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "hyper-light-drifter/home"
+      }
+    ]
+  }
+}

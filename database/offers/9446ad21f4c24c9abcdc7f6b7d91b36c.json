@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-03T15:00:00.000Z",
+  "creationDate": "2019-10-02T00:23:39.482Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "surviving-mars/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Surviving Mars",
+  "id": "9446ad21f4c24c9abcdc7f6b7d91b36c",
+  "namespace": "epic",
+  "description": "Surviving Mars",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_SurvivingMars2-1200x479-ac322dec8cf31ef671e8bd681974a0c7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S1_Store Primary Promo (Landscape)-2560x1440-ef059cb5bccdef0947c508db16e4a14a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S2_Store Primary Promo (Portrait)-1280x1440-0eaf5ed168d8aadd7f63c808765e9021.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "9909"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "d759128018124dcabb1fbee9bb28e178"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "surviving-mars/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "39516a5b66d04b75b25a810e593b0a97"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "39516a5b66d04b75b25a810e593b0a97",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Paradox Interactive AB"
+      },
+      {
+        "key": "developerName",
+        "value": "Haemimont Games AD"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "surviving-mars"
+      }
+    ]
+  }
+}

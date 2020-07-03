@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "creationDate": "2019-11-08T20:34:15.129Z",
+  "lastModifiedDate": "2020-05-11T17:13:00.282Z",
+  "viewableDate": null,
+  "productSlug": "carcassonne/traders-and-builders",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Carcassonne - Traders & Builders",
+  "id": "dc78638c8f104bcb967ea4e0baede9a4",
+  "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "description": "Carcassonne - Traders & Builders",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minT-510x680-814f0f7c5461f8c997f318861290ee6e.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Desktop-horizontal-1360x766-min-1360x766-ef928b2bd56c858f910db6e64d4a301e164fad10.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minT-510x680-814f0f7c5461f8c997f318861290ee6e-510x680-814f0f7c5461f8c997f318861290ee6e.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-minT-510x680-814f0f7c5461f8c997f318861290ee6e-510x680-814f0f7c5461f8c997f318861290ee6e.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
+    "name": "Asmodee"
+  },
+  "items": [
+    {
+      "id": "e3bf7d5a8fa84975bdf84ba9718c5115",
+      "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Asmodee"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "carcassonne/traders-and-builders"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

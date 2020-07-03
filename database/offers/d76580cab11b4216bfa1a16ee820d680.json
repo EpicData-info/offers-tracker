@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-30T16:00:00.000Z",
+  "creationDate": "2019-12-18T23:06:27.851Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "hello-neighbor/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hello Neighbor",
+  "id": "d76580cab11b4216bfa1a16ee820d680",
+  "namespace": "helloneighbor",
+  "description": "Hello Neighbor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/helloneighbor/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/helloneighbor/offer/EGS_DynamicPixels_HelloNeighbor_S4-510x680-09f69dd598670e106f801668fbc31760.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DynamicPixels_HelloNeighbor_S7-1360x766-52e8b99d3c35840b10322e9ad0465a08.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "items": [
+    {
+      "id": "5dc8181899434dcbba188006a48ad52d",
+      "namespace": "helloneighbor",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "tinyBuild"
+    },
+    {
+      "key": "developerName",
+      "value": "Dynamic Pixels"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hello-neighbor/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

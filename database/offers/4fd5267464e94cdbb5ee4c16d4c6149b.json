@@ -1,0 +1,71 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-20T20:46:50.870Z",
+  "lastModifiedDate": "2020-03-20T20:51:37.142Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Chivalry 2 - Testing",
+  "id": "4fd5267464e94cdbb5ee4c16d4c6149b",
+  "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "description": "Chivalry 2 - Testing",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660-860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist Portrait -860x1148-7dc5fac63862874e86ebbbdaa6683660-860x1148-7dc5fac63862874e86ebbbdaa6683660.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "9672c5021ca94b35b4071a5c040812d8",
+      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Torn Banner Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

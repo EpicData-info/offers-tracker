@@ -1,0 +1,81 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "creationDate": "2020-02-10T20:00:28.633Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "viewableDate": null,
+  "productSlug": "wheels-of-aurelia/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Wheels of Aurelia",
+  "id": "ae212a8d9bda47228596f6ce38e5c597",
+  "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "description": "Wheels of Aurelia",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S3-1360x766-f545997d49707e2e13987b7af855b9a1.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S4-510x680-ba00b4c445cd80287aadda1075554063.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S3-1360x766-f545997d49707e2e13987b7af855b9a1.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S4-510x680-ba00b4c445cd80287aadda1075554063.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S3-1360x766-f545997d49707e2e13987b7af855b9a1.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
+    "name": "Santa Ragione"
+  },
+  "items": [
+    {
+      "id": "4e6489e8fa544a128a7a5c7554869afe",
+      "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Santa Ragione"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wheels-of-aurelia/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,68 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "creationDate": "2020-03-14T04:15:04.438Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": "2020-03-19T15:00:00.000Z",
+  "productSlug": "figment/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Figment",
+  "id": "f231865aad934f80abb9de38c4a7be85",
+  "namespace": "epic",
+  "description": "Figment",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
+    "name": "Bedtime Digital Games ApS"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10800"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "270e1d648a5e4060b7b441615c4da4d9"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "figment/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "addd4e86c4d746ab86f21606bdadce7d"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "addd4e86c4d746ab86f21606bdadce7d",
+  "linkedOffer": null
+}

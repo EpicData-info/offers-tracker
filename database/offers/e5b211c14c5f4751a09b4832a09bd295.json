@@ -1,0 +1,67 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-03-06T16:00:00.000Z",
+  "creationDate": "2019-03-06T14:13:03.996Z",
+  "lastModifiedDate": "2020-06-19T17:09:58.606Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Satisfactory Pre-Purchase",
+  "id": "e5b211c14c5f4751a09b4832a09bd295",
+  "namespace": "crab",
+  "description": "Satisfactory Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/crab/offer/Satisfactory_GameLogo-1920x459-5f61794ee125fd7ed1582887325c7ed0.png"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S2_Update1KeyArt-2560x1440-806be3347a375a0d81455eb3c8e64f2f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/offer/EGS_COFFEESTAIN_SATISFACTORY_S3_Update1KeyArt-1280x1440-aa1587cde6c5f2ab6973941937f80007.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
+    "name": "Coffee Stain Studios"
+  },
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2",
+      "namespace": "crab",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "isPrePurchase",
+      "value": "true"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Coffee Stain Studios"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

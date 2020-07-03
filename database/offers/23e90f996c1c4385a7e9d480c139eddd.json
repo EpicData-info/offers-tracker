@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-10-14T15:00:00.000Z",
+  "creationDate": "2019-09-27T20:58:25.318Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "viewableDate": null,
+  "productSlug": "watch-dogs-2/gold-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Watch Dogs 2 Gold Edition",
+  "id": "23e90f996c1c4385a7e9d480c139eddd",
+  "namespace": "angelonia",
+  "description": "Watch Dogs 2 Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-gold-Capsule-1920x1080-cbd24776f4e0d305dab327fb98304e52d5740323.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d1e7e0ad31bb46788243403ec49352d0",
+      "namespace": "angelonia",
+      "developer": null
+    },
+    {
+      "id": "c7b4d3700b3b4a2ea73b08bb93c2ed3c",
+      "namespace": "angelonia",
+      "developer": null
+    },
+    {
+      "id": "df5cd3b2af324cbdad45d1cc43c4fb64",
+      "namespace": "angelonia",
+      "developer": null
+    },
+    {
+      "id": "966e307240204fc89efae37b367489f9",
+      "namespace": "angelonia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-2/gold-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

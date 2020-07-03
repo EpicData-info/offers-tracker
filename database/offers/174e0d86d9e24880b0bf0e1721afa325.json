@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-07-19T14:00:00.000Z",
+  "creationDate": "2019-07-12T20:40:17.039Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "tetris-effect/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tetris® Effect",
+  "id": "174e0d86d9e24880b0bf0e1721afa325",
+  "namespace": "epic",
+  "description": "Tetris® Effect",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Portrait_4-3-400x530-6635ef29a551edd516217bb27edaa986.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Landscape_16-9-520x292-ebc059b30628d3e0891edba2b29a3730.png"
+    }
+  ],
+  "seller": {
+    "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
+    "name": "Enhance, Inc."
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10243"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "76339caf9e8e4d24b62761c736e82b42"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tetris-effect/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f660ad626f1443a5ba90192e5510062c"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "f660ad626f1443a5ba90192e5510062c",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Enhance, Inc."
+      },
+      {
+        "key": "developerName",
+        "value": "Monstars Inc. and Resonair"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "tetris-effect/home"
+      }
+    ]
+  }
+}

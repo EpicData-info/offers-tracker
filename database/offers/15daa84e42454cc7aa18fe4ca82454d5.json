@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-05-20T18:23:14.769Z",
+  "lastModifiedDate": "2019-12-06T21:49:17.272Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "stargazerDevAudience",
+  "id": "15daa84e42454cc7aa18fe4ca82454d5",
+  "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "description": "stargazerDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+    "name": "Wizards of the Coast"
+  },
+  "items": [
+    {
+      "id": "c5463348c57d40cc8d6e31180832a0d2",
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Wizards of the Coast"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

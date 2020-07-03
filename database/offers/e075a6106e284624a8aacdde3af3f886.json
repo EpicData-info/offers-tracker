@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-08T01:00:00.000Z",
+  "creationDate": "2019-11-14T23:00:23.395Z",
+  "lastModifiedDate": "2020-04-21T15:33:04.477Z",
+  "viewableDate": null,
+  "productSlug": "hades/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Hades Soundtrack",
+  "id": "e075a6106e284624a8aacdde3af3f886",
+  "namespace": "min",
+  "description": "Hades Soundtrack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Hades_CodeRedemption-330x440-330x440-5c3659a989e35d0fd78b5db27a5b6fee.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Hades_CodeRedemption-330x440-330x440-5c3659a989e35d0fd78b5db27a5b6fee.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/min/offer/Z-xE8GhQ-1920x1080-7935cec24fead89fa58888868990a715bcc60619.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_CodeRedemption-330x440-330x440-5c3659a989e35d0fd78b5db27a5b6fee-330x440-5c3659a989e35d0fd78b5db27a5b6fee.png"
+    }
+  ],
+  "seller": {
+    "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
+    "name": "Supergiant Games LLC"
+  },
+  "items": [
+    {
+      "id": "b8027699678a42ca8d72ac18d9da3834",
+      "namespace": "min",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Supergiant Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hades/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

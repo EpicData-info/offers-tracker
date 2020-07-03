@@ -1,0 +1,83 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-08-01T10:00:00.000Z",
+  "creationDate": "2019-09-10T19:36:02.635Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "viewableDate": null,
+  "productSlug": "yaga/bad-luck-bundle",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Yaga Bad Luck Bundle",
+  "id": "1d574536d8984326bb5c85c01cb0860c",
+  "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "description": "Yaga Bad Luck Bundle",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_BadLuckBundle_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-85dde523739f366206ceec257d45576bc0e872e1.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "35af7b55cc5041afbac3825c72b8e2bf",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    },
+    {
+      "id": "1fe4071bc2ae4a2fa957af651d77720d",
+      "namespace": "bec57b5341ad4294b005a7dd18691419",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Versus Evil"
+    },
+    {
+      "key": "developerName",
+      "value": "Breadcrumbs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "yaga/bad-luck-bundle"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

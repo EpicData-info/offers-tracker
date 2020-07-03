@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-12-25T10:30:00.000Z",
+  "creationDate": "2019-01-22T15:31:22.583Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": null,
+  "productSlug": "metro-exodus/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Metro Exodus",
+  "id": "dcc78a59329543168b08b26cc9a65572",
+  "namespace": "epic",
+  "description": "Metro Exodus",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/epic/offer/M3_Game_Icon-400x400-732cd6de7626f196b52c3675520f704b.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Metro_wide-960x540-adf64091db625fb296881a2ea51a5e07.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ME_Logo-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10355"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "snapdragon"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "metro-exodus/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "f189ca21d5814aef8402655f5d456bd3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "f189ca21d5814aef8402655f5d456bd3",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Deep Silver"
+      },
+      {
+        "key": "developerName",
+        "value": "4A Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "metro-exodus"
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-12T15:00:00.000Z",
+  "creationDate": "2019-11-22T15:20:27.043Z",
+  "lastModifiedDate": "2020-05-04T15:25:59.435Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "TESTING Living Offer",
+  "id": "9c1add1baf634e64b54753c81d1bdc85",
+  "namespace": "iris",
+  "description": "TESTING Living Offer",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
+    "name": "Snapshot Games"
+  },
+  "items": [
+    {
+      "id": "713cc4c1788d44498685d1498c18d8b5",
+      "namespace": "iris",
+      "developer": null
+    },
+    {
+      "id": "d5be47e39aee440aa212603c02de7e39",
+      "namespace": "iris",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

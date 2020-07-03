@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-20T15:00:00.000Z",
+  "creationDate": "2019-02-14T03:58:07.776Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "rebel-galaxy/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Rebel Galaxy",
+  "id": "73f7ee3f9e5540ff963573b9c3b08744",
+  "namespace": "weaver",
+  "description": "Rebel Galaxy",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/rebelgalaxy_portrait_promo-1280x1420-4f5b9dbb724d125887fd01654dfdb1a9.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/rebelgalaxy_primary_promo-2580x1450-45040669e872f9911a6083934e07c822.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/gamelogo_colored-1205x484-e4c0fcc9be3764dfb707ca93a1c4eba6.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/rebelgalaxy_portrait_promo-1280x1420-4f5b9dbb724d125887fd01654dfdb1a9.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/weaver/offer/rebelgalaxy_primary_promo-2580x1450-45040669e872f9911a6083934e07c822.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/weaver/offer/RebelGalaxy_CodeRedemption-330x440-8f73ef3b125a2d8b6cbf18d0648bbb5a.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/rebelgalaxy_primary_promo-2580x1450-45040669e872f9911a6083934e07c822.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7kk95dlwa9mep5kfkubrgmp9qkwbt4",
+    "name": "Double Damage Games, Inc"
+  },
+  "items": [
+    {
+      "id": "d9dd9d39d2844a87bd652568cb554463",
+      "namespace": "weaver",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Double Damage Games, Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rebel-galaxy/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

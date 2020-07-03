@@ -1,0 +1,58 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2018-03-06T15:16:00.000Z",
+  "creationDate": "2018-03-06T20:17:32.231Z",
+  "lastModifiedDate": "2020-04-29T00:38:47.034Z",
+  "viewableDate": null,
+  "productSlug": "dark-and-light",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Dark and Light Editor",
+  "id": "74447ad08cc34e2e8ca18a2651abacae",
+  "namespace": "darkandlight",
+  "description": "Dark and Light Editor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/darkandlight/offer/Diesel_product_darkandlight_HighresScreenshot00057-1920x1080-2b389915fee892d321685d7c14298fbab047de43-1920x1080-b8c5c7c66ab8d1d01e2c3cde1702a8a6.png"
+    }
+  ],
+  "seller": {
+    "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
+    "name": "Snail Games USA"
+  },
+  "items": [
+    {
+      "id": "d9e2844f41154a6986b9ef6d11811726",
+      "namespace": "darkandlight",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dark-and-light"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "creationDate": "2020-01-24T17:49:46.957Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "viewableDate": null,
+  "productSlug": "far-cry-4/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry 4",
+  "id": "c071ea77ba2f4983b4515eae0f4216b6",
+  "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "description": "Far Cry 4 Standard Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_Landscape-2580x1450-37f8f0733b7b6e8d4a0cd954b673040b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCyr4_Logo-1000x375-8bb6806a29c603338ed13ce8e470fde2.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-661bb793018c8394b042857e0eb42f8d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Store_Portrait_Promo_1280x1420-1280x1420-e360ecdd12735b75de7be92a8e337db2.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-9a994fc970e32d3eaa8b54612112b466182ab521.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d",
+      "namespace": "cf87285950ba492bbdc370b9d265ea36",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-4/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

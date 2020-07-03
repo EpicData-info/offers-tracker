@@ -1,0 +1,43 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-11T17:00:00.000Z",
+  "creationDate": "2018-07-31T19:39:56.257Z",
+  "lastModifiedDate": "2019-11-13T01:16:41.636Z",
+  "viewableDate": "2019-11-11T17:00:00.000Z",
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Master of the Hoard",
+  "id": "2be4ab85c1ae42bab895be28ab6cb99e",
+  "namespace": "wex",
+  "description": "A unique pet and more!",
+  "longDescription": "A unique pet and more!",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/BB_InGame_StoreArt_Collection-512x512-03916083c870df5d62bad565313b36db.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "items": [
+    {
+      "id": "15cd3d5ce3c14b11904bc1c8a07d4081",
+      "namespace": "wex",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "account_upgrades"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

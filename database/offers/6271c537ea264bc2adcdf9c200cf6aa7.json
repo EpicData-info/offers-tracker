@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-06-16T17:00:00.000Z",
+  "creationDate": "2020-05-27T15:14:30.807Z",
+  "lastModifiedDate": "2020-06-16T16:47:09.793Z",
+  "viewableDate": null,
+  "productSlug": "desperados-3",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Desperados III",
+  "id": "6271c537ea264bc2adcdf9c200cf6aa7",
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "description": "Desperados III",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/desperados_keyart-10461x5900-9ad6b7f55152fa266112d7de9eebb26f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/desperados_keyart-10461x5900-9ad6b7f55152fa266112d7de9eebb26f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-Portrait-1539x1829-635d99688e941fb2f8c288600bc0fba2.png"
+    }
+  ],
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "items": [
+    {
+      "id": "ae5110dbf1e3408abc50b73e836f036f",
+      "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Mimimi Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "desperados-3"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

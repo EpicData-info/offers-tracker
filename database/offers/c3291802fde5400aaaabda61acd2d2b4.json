@@ -1,0 +1,89 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-09-20T00:00:00.000Z",
+  "creationDate": "2019-06-06T19:46:46.969Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.492Z",
+  "viewableDate": null,
+  "productSlug": "what-the-golf",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WHAT THE GOLF?",
+  "id": "c3291802fde5400aaaabda61acd2d2b4",
+  "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "description": "WHAT THE GOLF?",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_IC1-200x116-adb92880827ff80031a3016b6f74505b.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-336x440-c095cc95e78e60ebe6e175ee5ae4f087.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-337x440-91469e9b23a1fd884377bdbc8a65dc73.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
+    "name": "Triband"
+  },
+  "items": [
+    {
+      "id": "0b51ffdcb7f144fcac978008e0d3399c",
+      "namespace": "3ade24028e9247039924d3877af0a2ea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Triband"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "what-the-golf"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

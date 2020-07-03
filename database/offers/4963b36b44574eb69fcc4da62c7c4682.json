@@ -1,0 +1,78 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "creationDate": "2020-05-22T20:30:19.192Z",
+  "lastModifiedDate": "2020-05-28T14:30:39.909Z",
+  "viewableDate": null,
+  "productSlug": "borderlands-2 /ultra-hd-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Ultra HD Texture Pack",
+  "id": "4963b36b44574eb69fcc4da62c7c4682",
+  "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+  "description": "Ultra HD Texture Pack",
+  "longDescription": "Ultra HD Texture Pack",
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_IC1_A-320x180-3578903b4ae29b5443d2587862ef0713.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_S2-1200x1600-cded5587c40dfd68097dd1fcaa589a8a.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_S2-1200x1600-cded5587c40dfd68097dd1fcaa589a8a.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2UltraHDTexturePack_GearboxSoftware_AddOn_S2-1200x1600-cded5587c40dfd68097dd1fcaa589a8a.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "items": [
+    {
+      "id": "fb34344b2e4d4a59ad8c860acb7fda52",
+      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-2 /ultra-hd-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

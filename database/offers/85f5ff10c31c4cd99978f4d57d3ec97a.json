@@ -1,0 +1,88 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "creationDate": "2019-08-17T00:08:56.801Z",
+  "lastModifiedDate": "2020-07-02T14:36:09.275Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "productSlug": "killing-floor-2",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Killing Floor 2",
+  "id": "85f5ff10c31c4cd99978f4d57d3ec97a",
+  "namespace": "affc33b82405457595a032f00284abd2",
+  "description": "Killing Floor 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
+    "name": "Tripwire Interactive"
+  },
+  "items": [
+    {
+      "id": "9b211a4c84354cdc8a6c1095f85a6cc6",
+      "namespace": "affc33b82405457595a032f00284abd2",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Tripwire Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "killing-floor-2"
+    }
+  ],
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

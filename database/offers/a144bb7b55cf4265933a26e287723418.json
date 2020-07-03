@@ -1,0 +1,79 @@
+{
+  "isFeatured": true,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-10T08:00:00.000Z",
+  "creationDate": "2019-05-10T14:17:54.009Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "viewableDate": null,
+  "productSlug": "diesel-brothers-truck-building-simulator-editor/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Diesel Brothers Truck Building Simulator Editor",
+  "id": "a144bb7b55cf4265933a26e287723418",
+  "namespace": "epic",
+  "description": "Diesel Brothers Truck Building Simulator Editor",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/undefined/offer/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061.png"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LOGO_DB_TBS_white-3617x949-1e2111c089563b39f1b5aec008b10e9f.png"
+    }
+  ],
+  "seller": {
+    "id": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
+    "name": "Code Horizon"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "72dda1cee6e040c1bbce452bd501e0a7"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "diesel-brothers-truck-building-simulator-editor/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "1a0876c3c1994c50ae6e3231999a0dcf"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    }
+  ],
+  "linkedOfferId": "1a0876c3c1994c50ae6e3231999a0dcf",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "developerName",
+        "value": "Code Horizon"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "diesel-brothers-truck-building-simulator-editor/home"
+      }
+    ]
+  }
+}

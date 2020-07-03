@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-02-12T16:00:00.000Z",
+  "creationDate": "2020-01-11T05:42:54.885Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "viewableDate": "2020-02-12T16:00:00.000Z",
+  "productSlug": "faeria/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Faeria",
+  "id": "5e3b900f8d94451da887991be469bcaa",
+  "namespace": "epic",
+  "description": "Faeria",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_G1_PDP_ApprovedPublic-2560x1440-9da1f89656945e127527b66fa181bd0ebdba2777-2560x1440-d899fd6d9b4f1f3e769556254860f5af.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-38174ba7980de3ae44a051244d9d89bb54db1a75-1280x1440-ea987a8abe2f87647fa8a80fe80a26b7.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-3731x1958-fb7663423b1fdc5e80bff21120c73ea04b66dc52-3731x1958-4a47bf2efc3dc30801d1f4657e63e0ed.png"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "788"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "f9c2aedaff8442b286fbd026948b9f09"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "a141915f0de3494791151b205a712cda"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "a141915f0de3494791151b205a712cda",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Versus Evil"
+      },
+      {
+        "key": "developerName",
+        "value": "Abrakam"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "faeria"
+      }
+    ]
+  }
+}

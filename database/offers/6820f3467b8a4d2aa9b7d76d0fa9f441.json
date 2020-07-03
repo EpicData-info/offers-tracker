@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-05-13T08:00:00.000Z",
+  "creationDate": "2019-05-02T19:22:07.969Z",
+  "lastModifiedDate": "2020-04-02T01:42:23.106Z",
+  "viewableDate": null,
+  "productSlug": "the-pathless/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "The Pathless",
+  "id": "6820f3467b8a4d2aa9b7d76d0fa9f441",
+  "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "description": "The Pathless",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ThePathlessLogo-2650x671-c2b3413fdb59ddeb44a369f1850009f3.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "items": [
+    {
+      "id": "3a8c57519e1845aa97f6b874bbee6be1",
+      "namespace": "a9dad8af015a422eb89a5f88e6def923",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giant Squid"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-pathless/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-06-21T14:59:00.000Z",
+  "creationDate": "2019-06-03T21:00:18.022Z",
+  "lastModifiedDate": "2020-04-02T01:41:41.275Z",
+  "viewableDate": "2019-06-18T07:21:00.000Z",
+  "productSlug": "last-day-of-june/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Last Day of June",
+  "id": "3f9b7d87d6ea4ac1bb26d49683bd7064",
+  "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "description": "Last Day of June",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_Artwork_LOGO-1328x967-04d99362a1da2b2425bd5d63a63d2f4c.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games S.r.l."
+  },
+  "items": [
+    {
+      "id": "6f497455242046ca86887eedfd8b62b6",
+      "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "505 Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Ovosonico"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "last-day-of-june/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

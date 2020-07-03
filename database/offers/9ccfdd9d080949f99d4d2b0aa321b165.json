@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-05-13T08:00:00.000Z",
+  "creationDate": "2019-02-14T22:26:04.071Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.491Z",
+  "viewableDate": null,
+  "productSlug": "little-inferno/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Little Inferno",
+  "id": "9ccfdd9d080949f99d4d2b0aa321b165",
+  "namespace": "clover",
+  "description": "Little Inferno",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Logo-1400x802-e9c146217acdc3bbd05da2d8497233ab.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/clover/offer/LI_promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clover/offer/icon_LI-400x400-6e0f53fd7f4850f9f6467eb24b24c126.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clover/offer/CodeRedemption_LittleInferno-330x440-52bded7c3f188aec2e1035f021f02b76.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
+    "name": "Tomorrow Corporation"
+  },
+  "items": [
+    {
+      "id": "e0a252835b8241db9a1c1838d534dcea",
+      "namespace": "clover",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Tomorrow Corporation"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "little-inferno/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-03T17:00:00.000Z",
+  "creationDate": "2019-06-13T21:04:20.315Z",
+  "lastModifiedDate": "2020-06-18T17:53:58.076Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Cyberpunk 2077",
+  "id": "5e0277378de542ce9bf891d2f919d6c8",
+  "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+  "description": "Cyberpunk 2077",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/CYBERPUNK2077_CodeRedemption-340x440-b3562d895a2f054f83182419bf6ad598.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/CYBERPUNK2077_CodeRedemption-340x440-b3562d895a2f054f83182419bf6ad598.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
+    "name": "CD PROJEKT RED"
+  },
+  "items": [
+    {
+      "id": "3f0e402b13894701a037972dfe533506",
+      "namespace": "77f2b98e2cef40c8a7437518bf420e47",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "CD PROJEKT RED"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

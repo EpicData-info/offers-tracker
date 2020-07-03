@@ -1,0 +1,59 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-30T17:19:12.003Z",
+  "lastModifiedDate": "2019-11-05T20:59:21.126Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Afterparty Press",
+  "id": "472674cef87443aab40b15a50a63ed55",
+  "namespace": "adenium",
+  "description": "Afterparty Press",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157-400x400-fba79aa463578d60e74badc171dc8157.png"
+    }
+  ],
+  "seller": {
+    "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
+    "name": "Night School Studio, LLC"
+  },
+  "items": [
+    {
+      "id": "0113432cfa334bacb051806c4731aebc",
+      "namespace": "adenium",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Night School Studio"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

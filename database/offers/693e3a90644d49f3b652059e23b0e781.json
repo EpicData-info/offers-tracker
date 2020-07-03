@@ -1,0 +1,63 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-03-26T19:57:48.961Z",
+  "lastModifiedDate": "2020-03-26T19:59:20.328Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "No Straight Roads Demo",
+  "id": "693e3a90644d49f3b652059e23b0e781",
+  "namespace": "c0783fd957634390af33808d1a1f56dd",
+  "description": "No Straight Roads Demo",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
+    "name": "Sold Out"
+  },
+  "items": [
+    {
+      "id": "62653217af1d4cdb80b2aa973d6a8eef",
+      "namespace": "c0783fd957634390af33808d1a1f56dd",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Sold-Out Software"
+    },
+    {
+      "key": "developerName",
+      "value": "Metronomik"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

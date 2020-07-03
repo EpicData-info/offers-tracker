@@ -1,0 +1,87 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T10:56:00.000Z",
+  "creationDate": "2019-12-04T16:03:12.146Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "viewableDate": null,
+  "productSlug": "the-crew-2/home",
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "The Crew 2",
+  "id": "49abc68c4a364704824736002f065600",
+  "namespace": "epic",
+  "description": "The Crew 2",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-TC2-1280x1440-93c82474c04d9f96218202d425973483.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CREW2_UCS12476_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-3ddf7e01cdabcb15cb44393a486c22b3.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10000"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "599d248ca46b45a8b40a3b4e484712cb"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-crew-2/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "6c0aafd317da433aa709dcd6052ccd34"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "6c0aafd317da433aa709dcd6052ccd34",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "CN"
+      },
+      {
+        "key": "publisherName",
+        "value": "Ubisoft"
+      },
+      {
+        "key": "developerName",
+        "value": "Ivory Tower"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "the-crew-2/home"
+      }
+    ]
+  }
+}

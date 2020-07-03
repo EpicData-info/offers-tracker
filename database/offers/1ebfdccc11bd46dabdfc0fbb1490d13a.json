@@ -1,0 +1,95 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-06-24T18:00:00.000Z",
+  "creationDate": "2019-06-24T21:36:51.700Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "torchlight/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Torchlight",
+  "id": "1ebfdccc11bd46dabdfc0fbb1490d13a",
+  "namespace": "epic",
+  "description": "Torchlight",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Torchlight_Promo-2560x1440-d6647c60a7e202abc7c89c7fb945a45b.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Torchlight_Logo-1800x900-b5aad2e378bed7eb1f4d880e352e1b47.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Torchlight_Portrait-1280x1440-fa2d9c01c3c43b5e3221b6cf1ff717bc.png"
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/freeTile_Torchlight1080x430-1080x430-bbbeffe2507547dccd5a3c2686b91fdc.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "20"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "d0230ef21b1f4ef29aec0d49946912fc"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "torchlight/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "4019722ac05540b69f172d5182468175"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "4019722ac05540b69f172d5182468175",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "[]"
+      },
+      {
+        "key": "publisherName",
+        "value": "Perfect World Games"
+      },
+      {
+        "key": "developerName",
+        "value": "Runic Games"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "torchlight/home"
+      }
+    ]
+  }
+}

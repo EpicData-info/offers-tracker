@@ -1,0 +1,77 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "creationDate": "2020-03-19T17:57:35.888Z",
+  "lastModifiedDate": "2020-05-20T15:49:52.620Z",
+  "viewableDate": null,
+  "productSlug": "snowrunner/high-roller-pack",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "High Roller Pack",
+  "id": "1b9b304316db47ddad75de113a66b8fd",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "description": "DLC2 - KHAN 39 Marshall + skin",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Horizontal-1360x766-1360x766-ccba4abc3e00e2768041041ae93a33fa.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "items": [
+    {
+      "id": "ba715352339e4369b24bbdbfec8c9d8d",
+      "namespace": "2744acda6a2e493e9894b389b6564df7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/high-roller-pack"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

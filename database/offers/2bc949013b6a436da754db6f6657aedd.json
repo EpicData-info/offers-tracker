@@ -1,0 +1,73 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "creationDate": "2020-02-18T03:11:40.812Z",
+  "lastModifiedDate": "2020-05-12T15:58:24.845Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "8000 Gems",
+  "id": "2bc949013b6a436da754db6f6657aedd",
+  "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "description": "8000 Gems",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-8000Gems-860x1148-860x1148-615479f7dd475d6cb00efa5072b09856.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-8000Gems-2560x1440-2560x1440-ebd0dc6986a9a5cecf2441bab3596807.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-8000Gems-860x1148-860x1148-615479f7dd475d6cb00efa5072b09856.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "items": [
+    {
+      "id": "d7fa27fcf61944b580e93cf39b446f89",
+      "namespace": "076207fa2b5c4803a636af606c3c28b7",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

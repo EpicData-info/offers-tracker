@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "creationDate": "2019-07-31T18:50:05.568Z",
+  "lastModifiedDate": "2020-04-29T00:46:37.964Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Lootboy Pack",
+  "id": "45847c651225422f8e0cd798c75e1aab",
+  "namespace": "azalea",
+  "description": "Lootboy Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/azalea/item/Diesel_product_ratings_RP_FOR_T_M-842x404-e685858d6f01213bedf5b2abec53be94.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
+    }
+  ],
+  "seller": {
+    "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
+    "name": "YAGER"
+  },
+  "items": [
+    {
+      "id": "d46257b3d7fc42f691caebaf1f43b11b",
+      "namespace": "azalea",
+      "developer": null
+    },
+    {
+      "id": "84fb788cf8d543f29a7267fb37a86a32",
+      "namespace": "azalea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

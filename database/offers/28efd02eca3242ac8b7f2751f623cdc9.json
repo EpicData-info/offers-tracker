@@ -1,0 +1,55 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-11T09:00:00.000Z",
+  "creationDate": "2019-03-11T20:00:07.939Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.175Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "Oleander Dev Access",
+  "id": "28efd02eca3242ac8b7f2751f623cdc9",
+  "namespace": "oleander",
+  "description": "Oleander Dev Access",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_JTSP-330x440-213c07937aea3c9837424bad25f57f22.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/kindred_rocket-400x400-4cd9d793c178449af102ecd7d8b029c3.png"
+    }
+  ],
+  "seller": {
+    "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
+    "name": "505 Games S.r.l."
+  },
+  "items": [
+    {
+      "id": "7e3a535e9df94fc9b9053e89b748d0c0",
+      "namespace": "oleander",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

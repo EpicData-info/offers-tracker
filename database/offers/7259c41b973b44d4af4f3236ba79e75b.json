@@ -1,0 +1,91 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "creationDate": "2019-09-04T15:13:18.838Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "viewableDate": null,
+  "productSlug": "cardpocalypse/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Cardpocalypse",
+  "id": "7259c41b973b44d4af4f3236ba79e75b",
+  "namespace": "epic",
+  "description": "Cardpocalypse",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Cardpocalypse_Logo-WithLight-1843x659-3386ddc5eb8023b982b17ff53fd56275.png"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Cardpocalypse_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic_v2 (1)-1280x1440-ecb2dc25cc10ada5474a6537d8eb9e63.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Cardpocalypse_MainGame_EpicGamesStore_S1_Store_Primary_ApprovedPublic_v2 (1)-2560x1440-087d3b5beab2e67bd3f07c5af96dcb44.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
+    "name": "Versus Evil"
+  },
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "namespace": "epic",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.weight",
+      "value": "10555"
+    },
+    {
+      "key": "com.epicgames.app.offerNs",
+      "value": "2bfd5ca43ef443739ada168e017e1b78"
+    },
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "cardpocalypse/home"
+    },
+    {
+      "key": "com.epicgames.app.offerId",
+      "value": "b467b7d3570e44c0b84e59475f4a5636"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "linkedOfferId": "b467b7d3570e44c0b84e59475f4a5636",
+  "linkedOffer": {
+    "customAttributes": [
+      {
+        "key": "com.epicgames.app.blacklist",
+        "value": "{}"
+      },
+      {
+        "key": "publisherName",
+        "value": "Versus Evil"
+      },
+      {
+        "key": "developerName",
+        "value": "Gambrinous"
+      },
+      {
+        "key": "com.epicgames.app.productSlug",
+        "value": "cardpocalypse/home"
+      }
+    ]
+  }
+}

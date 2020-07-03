@@ -1,0 +1,60 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-01-07T12:00:00.000Z",
+  "creationDate": "2020-01-08T17:11:50.346Z",
+  "lastModifiedDate": "2020-05-12T18:21:56.217Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Silver Pack",
+  "id": "f9a0d5f3b04c48cc976d23f4c607e495",
+  "namespace": "37baf50c268d47779020d73143bb02b0",
+  "description": "Silver Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/2560X1440-2560x1440-f766cb41f82456b617bdc816d1814901.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/37baf50c268d47779020d73143bb02b0/offer/1200x1600-1200x1600-5cf35c0e90ea6f266577be0d40f48761.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-y5r3t7krqueavr2f5gk9g8g7pfmtsf",
+    "name": "Dragonest Game"
+  },
+  "items": [
+    {
+      "id": "4296ee87349c49f8b2b3d0dca2436188",
+      "namespace": "37baf50c268d47779020d73143bb02b0",
+      "developer": null
+    }
+  ],
+  "customAttributes": [],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

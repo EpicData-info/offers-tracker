@@ -1,0 +1,79 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "creationDate": "2019-10-28T15:20:38.941Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "viewableDate": null,
+  "productSlug": "assassins-creed-origins/deluxe-edition",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Assassin's Creed Origins Deluxe Edition",
+  "id": "855b9b1f91b0439089395bbaab1b6e4b",
+  "namespace": "camellia",
+  "description": "Assassin's Creed Origins Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_Deluxe-330x440-89597566f1e34c3e240dec977b819617.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-37cf9b2d74a694a3a24da2fe5cd6efd3.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-025b96cc01367a79ddc2dd4a0ffa88d129db9170.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "d57ccd8e249546378ae2b5f5a0e2381d",
+      "namespace": "camellia",
+      "developer": null
+    },
+    {
+      "id": "9e995dee13a74adb99f6cda0cefdac7a",
+      "namespace": "camellia",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins/deluxe-edition"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
