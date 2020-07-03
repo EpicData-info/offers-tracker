@@ -1,3 +1,4 @@
+require('dotenv').config({ path: `${__dirname}/.env` });
 const Fs = require('fs');
 const SimpleGit = require('simple-git');
 const { GraphQLClient } = require('graphql-request');
@@ -10,6 +11,7 @@ class Main {
     this.language = 'en';
     this.country = 'US';
     this.namespaces = []; // You can add here non-store namespaces e.g. ue (unreal engine market offers)
+    this.perPage = 1000;
     
     this.ql = new GraphQLClient('https://graphql.epicgames.com/graphql', {
       headers: {
@@ -51,8 +53,18 @@ class Main {
       baseDir: __dirname,
       binary: 'git',
     });
-    const add = git.add([`${__dirname}/database/.`]);
-    console.dir(add);
+    await git.addConfig('hub.protocol', 'https');
+    await git.checkoutBranch('master');
+    await git.add([`${__dirname}/database/.`]);
+    const status = await git.status();
+    const changesCount = status.created.length + status.modified.length + status.deleted.length + status.renamed.length;
+    if (changesCount === 0) return;
+    const commitMessage = `Update - ${Math.floor(Date.now() / 1000)}`;
+    await git.commit(commitMessage);
+    await git.removeRemote('origin');
+    await git.addRemote('origin', process.env.GIT_REMOTE);
+    await git.push(['-u', 'origin', 'master']);
+    console.log(`Changes has commited to repo with message ${commitMessage}`);
   }
   
   saveOffer (offer) {
@@ -61,18 +73,26 @@ class Main {
     });
   }
 
+  sleep (time) {
+    return new Promise((resolve) => {
+      const sto = setTimeout(() => {
+        clearTimeout(sto);
+        resolve();
+      }, time);
+    });
+  }
+
   async fetchAllOffers (query, params, resultSelector) {
-    const elements = [];
     let paging = {};
     do {
-      const result = await this.fetchOffers(query, params, resultSelector, paging.start, paging.count);
+      const result = await this.fetchOffers(query, params, resultSelector, paging.start, paging.count || this.perPage);
       paging = result.paging;
       paging.start += paging.count;
       for (let i = 0; i < result.elements.length; ++i) {
         const element = result.elements[i];
         this.saveOffer(element);
       }
-    } while (paging.start - 1000 < paging.total - paging.count);
+    } while (paging.start - this.perPage < paging.total - paging.count);
   }
 
   async fetchOffers (query, params, resultSelector, start = 0, count = 1000) {
@@ -84,12 +104,15 @@ class Main {
       });
       result = resultSelector(result);
       return result;
-    } catch (err) {
-      console.dir(err);
-      if(!err.response.data) {
-        console.dir(err);
-        if (err.response && err.response.errors) console.log(JSON.stringify(err.response.errors, null, 2));
-      }else data = err.response.data;
+    } catch (error) {
+      if (error.response) {
+        console.log(JSON.stringify(error.response, null, 2));
+        console.log('Next attempt in 5s...');
+        await this.sleep(5000);
+        return this.fetchOffers(...arguments);
+      } else {
+        throw new Error(error);
+      }
     }
   }
 }

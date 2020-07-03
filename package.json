@@ -11,6 +11,7 @@
     "url": "https://kysune.me"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
     "graphql-request": "1.8.2",
     "simple-git": "^2.11.0"
   }
