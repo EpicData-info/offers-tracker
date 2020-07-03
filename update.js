@@ -3,8 +3,8 @@ const Fs = require('fs');
 const SimpleGit = require('simple-git');
 const { GraphQLClient } = require('graphql-request');
 
-const FetchStoreOffersQuery = Fs.readFileSync('./queries/FetchStoreOffersQuery.graphql', 'utf8');
-const FetchStoreOffersByNamespaceQuery = Fs.readFileSync('./queries/FetchStoreOffersByNamespaceQuery.graphql', 'utf8');
+const FetchStoreOffersQuery = Fs.readFileSync(`${__dirname}/queries/FetchStoreOffersQuery.graphql`, 'utf8');
+const FetchStoreOffersByNamespaceQuery = Fs.readFileSync(`${__dirname}/queries/FetchStoreOffersByNamespaceQuery.graphql`, 'utf8');
 
 class Main {
   constructor () {
