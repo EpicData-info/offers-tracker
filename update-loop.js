@@ -15,7 +15,7 @@ function run () {
   process.on('exit', async () => {
     if (invoked) return;
     invoked = true;
-    await sleep(1000);
+    await sleep(10000);
     run();
   });
 }
