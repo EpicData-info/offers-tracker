@@ -78,6 +78,7 @@ class Main {
   }
 
   async sync () {
+    if (!process.env.GIT_REMOTE) return;
     console.log('Syncing with repo...');
     const git = SimpleGit({
       baseDir: __dirname,
