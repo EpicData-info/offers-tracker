@@ -59,7 +59,7 @@ class Main {
     const status = await git.status();
     const changesCount = status.created.length + status.modified.length + status.deleted.length + status.renamed.length;
     if (changesCount === 0) return;
-    const commitMessage = `Update - ${Math.floor(Date.now() / 1000)}`;
+    const commitMessage = `Update - ${new Date().toISOString()}`;
     await git.commit(commitMessage);
     await git.removeRemote('origin');
     await git.addRemote('origin', process.env.GIT_REMOTE);
