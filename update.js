@@ -106,9 +106,15 @@ class Main {
       return result;
     } catch (error) {
       if (error.response) {
+        if (error.response.data) {
+          const result = resultSelector(error.response.data);
+          if (result && result.elements && result.paging) {
+            return result;
+          }
+        }
         console.log(JSON.stringify(error.response, null, 2));
-        console.log('Next attempt in 5s...');
-        await this.sleep(5000);
+        console.log('Next attempt in 1s...');
+        await this.sleep(1000);
         return this.fetchOffers(...arguments);
       } else {
         throw new Error(error);
