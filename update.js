@@ -84,6 +84,7 @@ class Main {
           }
         }
         titles[offer.id] = offer.title;
+        const thumbnailImage = Array.isArray(offer.keyImages) && offer.keyImages.find(img => img.type === 'Thumbnail');
         list.push([
           offer.id,
           offer.namespace,
@@ -92,6 +93,8 @@ class Main {
           offer.seller && offer.seller.name || '',
           offer.creationDate && Math.floor((new Date(offer.creationDate)).getTime() / 1000) || 0,
           offer.lastModifiedDate && Math.floor((new Date(offer.lastModifiedDate)).getTime() / 1000) || 0,
+          thumbnailImage && thumbnailImage.url || '',
+          offer.productSlug || '',
         ]);
       } catch (error) {
         console.error(error);
