@@ -1,9 +1,9 @@
 {
   "isFeatured": false,
   "collectionOfferIds": [],
-  "effectiveDate": "2019-01-01T01:00:00.000Z",
+  "effectiveDate": "2020-02-26T07:00:00.000Z",
   "creationDate": "2019-11-22T20:46:59.391Z",
-  "lastModifiedDate": "2020-05-14T19:39:46.881Z",
+  "lastModifiedDate": "2020-07-06T13:49:18.590Z",
   "viewableDate": null,
   "productSlug": "foregone/home",
   "developer": null,
@@ -17,28 +17,28 @@
   "status": "ACTIVE",
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S5-1920x1080-b92831431aa732b9996c99c5419711e2.jpg"
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg"
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S5-1920x1080-b92831431aa732b9996c99c5419711e2.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a40f6c03e1374358809ec38c999059c0/offer/EGS_Foregone_BigBlueBubble_S6-1200x1600-48824e208dcf5f4a692a8804f0f7d441.jpg"
     }
   ],
   "seller": {
