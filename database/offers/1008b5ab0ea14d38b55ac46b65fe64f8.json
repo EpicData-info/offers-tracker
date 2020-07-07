@@ -1,0 +1,93 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-08-24T05:12:21.034Z",
+  "lastModifiedDate": "2020-07-07T17:27:35.529Z",
+  "viewableDate": "2020-07-07T18:00:00.000Z",
+  "productSlug": "vampire-the-masquerade-swansong/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Vampire: The Masquerade – Swansong",
+  "id": "1008b5ab0ea14d38b55ac46b65fe64f8",
+  "namespace": "91b9a3ac7cda40718addd961fddfadca",
+  "description": "Vampire: The Masquerade – Swansong",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "beb6faac3b9540079a0fd20f7306c7a7",
+      "namespace": "91b9a3ac7cda40718addd961fddfadca",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "Big Bad Wolf"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vampire-the-masquerade-swansong/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
