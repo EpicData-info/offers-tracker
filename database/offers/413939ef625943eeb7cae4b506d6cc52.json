@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-06T00:00:00.000Z",
+  "creationDate": "2020-06-29T22:01:44.241Z",
+  "lastModifiedDate": "2020-07-07T16:49:51.194Z",
+  "viewableDate": "2020-07-07T17:00:00.000Z",
+  "productSlug": "wrc-9",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "WRC 9 FIA World Rally Championship",
+  "id": "413939ef625943eeb7cae4b506d6cc52",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "description": "WRC 9 FIA World Rally Championship",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "items": [
+    {
+      "id": "0e10e74d8e4a437ea7c2ed81b9e7638e",
+      "namespace": "9cf250606722448887fa1447b1d9da06",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "KT Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-9"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
