@@ -1,28 +1,24 @@
 {
   "isFeatured": false,
   "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-14T23:43:16.171Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.411Z",
+  "effectiveDate": "2099-01-01T13:47:00.000Z",
+  "creationDate": "2020-01-09T18:49:14.274Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.631Z",
   "viewableDate": null,
   "productSlug": null,
   "developer": null,
   "ignoreOrder": false,
   "freeDays": 0,
-  "title": "BK",
-  "id": "771f304c8a334b318338795efb1b3f08",
+  "title": "The Cycle PTS",
+  "id": "8db4c889bf9f4090a21962f0349f3037",
   "namespace": "azalea",
-  "description": "BK",
+  "description": "The Cycle PTS",
   "longDescription": null,
   "status": "ACTIVE",
   "keyImages": [
     {
       "type": "ESRB",
       "url": "https://cdn1.epicgames.com/azalea/item/Diesel_product_ratings_RP_FOR_T_M_AO-842x404-ab4400e0f80829e7c317311ccf7988d92a7cb55c-842x404-e685858d6f01213bedf5b2abec53be94.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
     }
   ],
   "seller": {
@@ -31,12 +27,7 @@
   },
   "items": [
     {
-      "id": "5cd8871eb877473197e609ab02a251fa",
-      "namespace": "azalea",
-      "developer": null
-    },
-    {
-      "id": "1077d5a06eaf43d3bd4f81fbc3679bf8",
+      "id": "0eb06213deca403286de43c4940f7203",
       "namespace": "azalea",
       "developer": null
     }
