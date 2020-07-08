@@ -3,7 +3,7 @@
   "collectionOfferIds": [],
   "effectiveDate": "2019-10-02T10:23:00.000Z",
   "creationDate": "2020-01-10T18:49:00.695Z",
-  "lastModifiedDate": "2020-05-11T18:18:42.190Z",
+  "lastModifiedDate": "2020-07-08T12:41:34.150Z",
   "viewableDate": null,
   "productSlug": "thecycle/scout-pack",
   "developer": null,
@@ -17,16 +17,20 @@
   "status": "ACTIVE",
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_scout-pack_FP_Tier1_info_D-2560x1440-c7d62e0fda69f6688577c3cb816fc9a17378e778-2560x1440-364407a722b97334eb05c68ce8536313.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-340x440-025af08795b0b918ea20b39b850c830b.png"
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_scout-pack_FP_Tier1_info_D-2560x1440-c7d62e0fda69f6688577c3cb816fc9a17378e778-2560x1440-364407a722b97334eb05c68ce8536313.jpg"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     }
   ],
   "seller": {

@@ -3,7 +3,7 @@
   "collectionOfferIds": [],
   "effectiveDate": "2019-10-02T10:27:00.000Z",
   "creationDate": "2019-10-04T14:29:58.619Z",
-  "lastModifiedDate": "2020-05-13T20:13:12.596Z",
+  "lastModifiedDate": "2020-07-08T12:41:33.979Z",
   "viewableDate": null,
   "productSlug": "thecycle/explorer-pack",
   "developer": null,
@@ -17,16 +17,20 @@
   "status": "ACTIVE",
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_explorer-pack_FP_Tier2_info_D-2560x1440-ce97ce0355261f6b398c118c23ea02bd68c4c523-2560x1440-fc5ff93bf5837381120d84af2b3ecc5c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/azalea/offer/Diesel_product_thecycle_explorer-pack_FP_Tier2_info_D-2560x1440-ce97ce0355261f6b398c118c23ea02bd68c4c523-2560x1440-fc5ff93bf5837381120d84af2b3ecc5c.jpg"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
     }
   ],
   "seller": {
