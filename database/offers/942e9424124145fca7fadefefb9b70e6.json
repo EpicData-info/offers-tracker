@@ -1,0 +1,85 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2020-06-03T17:22:00.160Z",
+  "lastModifiedDate": "2020-07-09T15:32:26.406Z",
+  "viewableDate": "2020-07-09T16:00:00.000Z",
+  "productSlug": "superhot-mind-control-delete",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SUPERHOT: Mind Control Delete",
+  "id": "942e9424124145fca7fadefefb9b70e6",
+  "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+  "description": "SUPERHOT: Mind Control Delete",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
+    "name": "SUPERHOT Sp. z.o.o"
+  },
+  "items": [
+    {
+      "id": "97089b1d5e324e1eb7f975938c036dba",
+      "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SUPERHOT Team"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superhot-mind-control-delete"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
