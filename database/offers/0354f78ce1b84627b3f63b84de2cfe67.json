@@ -3,7 +3,7 @@
   "collectionOfferIds": [],
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "creationDate": "2020-04-13T20:27:13.319Z",
-  "lastModifiedDate": "2020-07-01T21:10:30.126Z",
+  "lastModifiedDate": "2020-07-09T14:57:59.628Z",
   "viewableDate": null,
   "productSlug": null,
   "developer": null,
@@ -47,7 +47,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -60,13 +60,7 @@
   ],
   "categories": [
     {
-      "path": "addons"
-    },
-    {
       "path": "games"
-    },
-    {
-      "path": "addons/consumable"
     },
     {
       "path": "applications"
