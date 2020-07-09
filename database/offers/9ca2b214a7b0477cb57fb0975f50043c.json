@@ -1,21 +1,46 @@
 {
   "isFeatured": false,
   "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2020-07-16T15:00:00.000Z",
   "creationDate": "2020-05-12T21:19:14.372Z",
-  "lastModifiedDate": "2020-07-09T12:29:56.976Z",
-  "viewableDate": null,
-  "productSlug": null,
+  "lastModifiedDate": "2020-07-09T14:33:48.361Z",
+  "viewableDate": "2020-07-09T15:00:00.000Z",
+  "productSlug": "torchlight-2",
   "developer": null,
   "ignoreOrder": false,
   "freeDays": 0,
-  "title": "AlabasterGeneralAudience",
+  "title": "Torchlight II",
   "id": "9ca2b214a7b0477cb57fb0975f50043c",
   "namespace": "8432511ef63b489b843d21ff486a0355",
-  "description": "AlabasterGeneralAudience",
+  "description": "Torchlight II , Torchlight 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S2-1200x1600-39504450e62136e79307e2493e48ef8d.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8432511ef63b489b843d21ff486a0355/offer/EGS_TorchlightII_RunicGames_S3-2560x1440-d8785a9ad9572e68e45d5a9471e4b81b.jpg"
+    }
+  ],
   "seller": {
     "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
     "name": "Perfect World"
@@ -34,16 +59,29 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Perfect World Games"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Runic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "torchlight-2"
     }
   ],
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
