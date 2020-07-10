@@ -1,0 +1,82 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2019-01-02T00:00:00.000Z",
+  "creationDate": "2019-08-29T22:54:31.641Z",
+  "lastModifiedDate": "2020-07-09T18:01:07.860Z",
+  "viewableDate": null,
+  "productSlug": "atlas-mod-kit",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Atlas Mod Kit",
+  "id": "49841c56d62b4490a394a7889651e948",
+  "namespace": "96ccba8fe8e649dfa6f96cee11e625e1",
+  "description": "Atlas Mod Kit",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg"
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/IC1-512x512-c9fa29d8cb6b6f781f4e62c9a59af163.png"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/96ccba8fe8e649dfa6f96cee11e625e1/offer/Atlas_Promo-2560x1440-81cac00265cf28ee53cf2d9b192f0293-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
+    "name": "Studio Wildcard"
+  },
+  "items": [
+    {
+      "id": "35cc51553a9d406798e02d063c18ea43",
+      "namespace": "96ccba8fe8e649dfa6f96cee11e625e1",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Grapeshot Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "atlas-mod-kit"
+    }
+  ],
+  "categories": [
+    {
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
