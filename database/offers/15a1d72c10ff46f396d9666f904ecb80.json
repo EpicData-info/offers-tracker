@@ -1,0 +1,97 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-12T20:00:00.000Z",
+  "creationDate": "2020-07-03T00:05:17.799Z",
+  "lastModifiedDate": "2020-07-12T20:26:48.785Z",
+  "viewableDate": "2020-07-12T20:00:00.000Z",
+  "productSlug": "far-cry-6/home",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Far Cry® 6",
+  "id": "15a1d72c10ff46f396d9666f904ecb80",
+  "namespace": "b4565296c22549e4830c13bc7506642d",
+  "description": "Far Cry® 6",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Landscape_2560x1440-2560x1440-827a9d1823ad230a0ea5a2efc7936370.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Landscape_2560x1440-2560x1440-827a9d1823ad230a0ea5a2efc7936370.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b4565296c22549e4830c13bc7506642d/offer/TETRA_PREORDER_STANDARD EDITION_EPIC_Store_Portrait_1200x1600-1200x1600-ca8b802ff13813c37a44ebf68d0946a2.png"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "9d915ff014a0450ba2ce722995ffe752",
+      "namespace": "b4565296c22549e4830c13bc7506642d",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1613660400"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Toronto"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-6/home"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
