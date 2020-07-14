@@ -1,11 +1,11 @@
 {
   "isFeatured": false,
   "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "effectiveDate": "2020-07-14T13:00:00.000Z",
   "creationDate": "2019-11-06T17:18:24.509Z",
-  "lastModifiedDate": "2020-07-09T23:02:15.885Z",
+  "lastModifiedDate": "2020-07-14T13:59:57.955Z",
   "viewableDate": null,
-  "productSlug": null,
+  "productSlug": "death-stranding/home",
   "developer": null,
   "ignoreOrder": false,
   "freeDays": 0,
@@ -23,6 +23,22 @@
     {
       "type": "CodeRedemption_340x440",
       "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440-098f41b9ec3aa4489e085ed2110f3818.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg"
     }
   ],
   "seller": {
@@ -49,11 +65,21 @@
     {
       "key": "developerName",
       "value": "Kojima Productions"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "death-stranding/home"
     }
   ],
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
