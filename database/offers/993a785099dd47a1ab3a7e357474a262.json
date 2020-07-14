@@ -1,0 +1,94 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2020-07-14T15:00:00.000Z",
+  "creationDate": "2020-06-15T15:29:58.580Z",
+  "lastModifiedDate": "2020-07-14T16:01:56.413Z",
+  "viewableDate": "2020-07-14T15:00:00.000Z",
+  "productSlug": "the-division/season-pass",
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "Tom Clancy's The Division Season Pass",
+  "id": "993a785099dd47a1ab3a7e357474a262",
+  "namespace": "03ecca4e19a9483aa05b3d99948c43ce",
+  "description": "Tom Clancy's The Division Season Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Edition_Thumbnail_1920X1080-1920x1080-4bc91a6478227fb89aa38024af7fed77.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Store_Portrait_1280x1420-1200x1600-d72da66f0d987fcbc8e11dea773f6de8.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Store_Landscape_2560x1440-2560x1440-53dea81fbac2e794b8eedabc621b59e3.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Store_Portrait_1280x1420-1200x1600-d72da66f0d987fcbc8e11dea773f6de8.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/TCRPG_SP_Store_Portrait_1200x1600-1200x1600-d72da66f0d987fcbc8e11dea773f6de8.jpg"
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/03ecca4e19a9483aa05b3d99948c43ce/offer/GameName_Store_Portrait_1280x1420-1200x1600-d72da66f0d987fcbc8e11dea773f6de8.jpg"
+    }
+  ],
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "items": [
+    {
+      "id": "669044ba8d484b289cd955d479e1f666",
+      "namespace": "03ecca4e19a9483aa05b3d99948c43ce",
+      "developer": null
+    },
+    {
+      "id": "c7a5648bdba84ac2bfb774bfac207b7e",
+      "namespace": "03ecca4e19a9483aa05b3d99948c43ce",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Massive Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-division/season-pass"
+    }
+  ],
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
