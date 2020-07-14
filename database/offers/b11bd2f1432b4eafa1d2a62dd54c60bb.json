@@ -3,7 +3,7 @@
   "collectionOfferIds": [],
   "effectiveDate": "2020-07-02T15:00:00.000Z",
   "creationDate": "2020-04-23T20:34:51.643Z",
-  "lastModifiedDate": "2020-07-02T18:59:43.423Z",
+  "lastModifiedDate": "2020-07-13T18:18:19.668Z",
   "viewableDate": null,
   "productSlug": null,
   "developer": null,
@@ -76,16 +76,7 @@
       "path": "addons"
     },
     {
-      "path": "consumable"
-    },
-    {
-      "path": "bundles"
-    },
-    {
-      "path": "bundles/addons"
-    },
-    {
-      "path": "addons/consumable"
+      "path": "addons/durable"
     }
   ],
   "linkedOfferId": null,
