@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-09-12T18:24:06.864Z",
+  "lastModifiedDate": "2020-07-15T19:18:56.514Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "title": "BlackpollDevAudience",
+  "id": "434f409b18c540ffa0aa5176594bfeee",
+  "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
+  "description": "BlackpollDevAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "5d966ec85c0c42ef89e2963a5804498e",
+      "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": ""
+    },
+    {
+      "key": "developerName",
+      "value": ""
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
