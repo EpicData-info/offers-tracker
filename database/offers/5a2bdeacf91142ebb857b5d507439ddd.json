@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-01T15:32:00.000Z",
+  "creationDate": "2020-03-30T19:43:30.411Z",
+  "lastModifiedDate": "2020-07-15T00:37:21.177Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "500 Credits",
+  "id": "5a2bdeacf91142ebb857b5d507439ddd",
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "description": "500 Credits",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+    "name": "Psyonix"
+  },
+  "items": [
+    {
+      "id": "691ef058f7c24bb4bd5507903d8f2f8b",
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}

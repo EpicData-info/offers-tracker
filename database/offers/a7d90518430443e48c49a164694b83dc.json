@@ -1,0 +1,50 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2050-03-01T15:32:00.000Z",
+  "creationDate": "2020-03-30T19:51:00.637Z",
+  "lastModifiedDate": "2020-07-15T00:36:47.315Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "100 Tokens",
+  "id": "a7d90518430443e48c49a164694b83dc",
+  "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "description": "100 Tokens",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
+    "name": "Psyonix"
+  },
+  "items": [
+    {
+      "id": "2f781d8caf3e43958ffcba59ddbc8d6a",
+      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
