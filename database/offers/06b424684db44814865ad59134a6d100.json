@@ -3,7 +3,7 @@
   "collectionOfferIds": [],
   "effectiveDate": "2020-07-16T15:00:00.000Z",
   "creationDate": "2020-03-03T05:14:17.238Z",
-  "lastModifiedDate": "2020-07-16T14:49:59.886Z",
+  "lastModifiedDate": "2020-07-16T15:27:14.775Z",
   "viewableDate": null,
   "productSlug": null,
   "developer": null,
@@ -23,6 +23,10 @@
     {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/HeroBanner_3840x2160_EN-3840x2160-24280765b963c7c7ca1c77e5dd10e90c.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/IM-POP-UP_EN-1200x1600-11461b51e66067f263c36e08bbd07aed.jpg"
     }
   ],
   "seller": {
