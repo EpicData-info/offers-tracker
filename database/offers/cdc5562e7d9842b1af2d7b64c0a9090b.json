@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-11T16:00:00.000Z",
-  "creationDate": "2020-01-24T20:02:58.670Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "anno-2205/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anno 2205 Season Pass",
   "id": "cdc5562e7d9842b1af2d7b64c0a9090b",
   "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "title": "Anno 2205 Season Pass",
   "description": "Anno 2205 Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_SP_Edition_Capsule_1920X1080-1920x1080-44f964210ec0c5870ec256e16c6c1194.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_SP_Edition_Capsule_1920X1080-1920x1080-7e894e35670113e91026b57a36eabf21b4df7084.jpg"
-    }
-  ],
+  "productSlug": "anno-2205/season-pass",
+  "urlSlug": "gulperseasonpass",
+  "creationDate": "2020-01-24T20:02:58.670Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-02-11T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "0457c2226e15457fb3446364503087ca",
-      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
-      "developer": null
-    },
-    {
-      "id": "212f9267f346464da2aacc4b0d1786d8",
-      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-2205/season-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-2205/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_SP_Edition_Capsule_1920X1080-1920x1080-44f964210ec0c5870ec256e16c6c1194.jpg",
+      "md5": "44f964210ec0c5870ec256e16c6c1194",
+      "size": 415979,
+      "uploadedDate": "2020-02-11T04:47:56.726Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_SP_Edition_Capsule_1920X1080-1920x1080-7e894e35670113e91026b57a36eabf21b4df7084.jpg",
+      "md5": "812484436279f4887eb9eacc3d83d2fe",
+      "size": 332263,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "0457c2226e15457fb3446364503087ca"
+    },
+    {
+      "id": "212f9267f346464da2aacc4b0d1786d8"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-23T17:00:00.000Z",
-  "creationDate": "2020-05-27T15:23:44.226Z",
-  "lastModifiedDate": "2020-07-01T19:34:23.908Z",
-  "viewableDate": "2020-06-23T17:00:00.000Z",
-  "productSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "id": "764efdf6ab3e4b50856ace9afd3dcc6e",
   "namespace": "b3d490d845c040ee82fd02f400ab0efc",
+  "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "description": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SB_BfBB-KEY_ART-11253x6000-89f4a3ad42544743411af84e37ec4986.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SB_BfBB-KEY_ART-11253x6000-89f4a3ad42544743411af84e37ec4986.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg"
-    }
-  ],
+  "productSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
+  "urlSlug": "cyllenegeneralaudience",
+  "creationDate": "2020-05-27T15:23:44.226Z",
+  "lastModifiedDate": "2020-07-01T19:34:23.908Z",
+  "effectiveDate": "2020-06-23T17:00:00.000Z",
+  "viewableDate": "2020-06-23T17:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6e86a1a5b594444d860ece29878c08a8",
-      "namespace": "b3d490d845c040ee82fd02f400ab0efc",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-16T14:24:42.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +129,66 @@
       "value": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SB_BfBB-KEY_ART-11253x6000-89f4a3ad42544743411af84e37ec4986.jpg",
+      "md5": "89f4a3ad42544743411af84e37ec4986",
+      "size": 3714161,
+      "uploadedDate": "2020-06-15T22:25:49.324Z",
+      "width": 11253,
+      "height": 6000
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SB_BfBB-KEY_ART-11253x6000-89f4a3ad42544743411af84e37ec4986.jpg",
+      "md5": "89f4a3ad42544743411af84e37ec4986",
+      "size": 3714161,
+      "uploadedDate": "2020-06-15T22:26:04.130Z",
+      "width": 11253,
+      "height": 6000
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
+      "md5": "2f2eff0c423e7eaa3248500d67e3ba63",
+      "size": 492522,
+      "uploadedDate": "2020-07-01T19:33:34.250Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
+      "md5": "2f2eff0c423e7eaa3248500d67e3ba63",
+      "size": 492522,
+      "uploadedDate": "2020-07-01T19:33:45.314Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
+      "md5": "2f2eff0c423e7eaa3248500d67e3ba63",
+      "size": 492522,
+      "uploadedDate": "2020-07-01T19:33:56.514Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b3d490d845c040ee82fd02f400ab0efc/offer/SpongebobPortrait-1200x1600-2f2eff0c423e7eaa3248500d67e3ba63.jpg",
+      "md5": "2f2eff0c423e7eaa3248500d67e3ba63",
+      "size": 492522,
+      "uploadedDate": "2020-07-01T19:34:10.411Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6e86a1a5b594444d860ece29878c08a8"
+    }
+  ],
+  "catalogNs": null
 }

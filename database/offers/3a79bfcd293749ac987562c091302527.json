@@ -1,55 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-28T21:52:58.274Z",
-  "lastModifiedDate": "2020-06-13T19:38:56.347Z",
-  "viewableDate": null,
-  "productSlug": "twin-mirror/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Twin Mirror",
   "id": "3a79bfcd293749ac987562c091302527",
   "namespace": "f7d5c4e850874d2c9fa043e9516a7a49",
+  "title": "Twin Mirror",
   "description": "Twin Mirror",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S1-2560x1440-b56e785ffd1729a116533fe3c3ddae34.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S1-2560x1440-b56e785ffd1729a116533fe3c3ddae34.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg"
-    }
-  ],
+  "productSlug": "twin-mirror/home",
+  "urlSlug": "marblegeneralaudience",
+  "creationDate": "2020-02-28T21:52:58.274Z",
+  "lastModifiedDate": "2020-06-13T19:38:56.347Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-eysjucd4z2lxwlzrkttjmmjxcu26a3",
     "name": "DONTNOD"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b352837728ae44cdade9231698e41d7a",
-      "namespace": "f7d5c4e850874d2c9fa043e9516a7a49",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1127",
+      "name": "INVESTIGATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2020-06-15T15:37:04.186Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +89,66 @@
       "value": "twin-mirror/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S1-2560x1440-b56e785ffd1729a116533fe3c3ddae34.jpg",
+      "md5": "b56e785ffd1729a116533fe3c3ddae34",
+      "size": 572534,
+      "uploadedDate": "2020-05-28T03:15:50.545Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S1-2560x1440-b56e785ffd1729a116533fe3c3ddae34.jpg",
+      "md5": "b56e785ffd1729a116533fe3c3ddae34",
+      "size": 572534,
+      "uploadedDate": "2020-05-28T03:16:22.721Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg",
+      "md5": "b9d98e951918102b7223833ca6325707",
+      "size": 369465,
+      "uploadedDate": "2020-05-28T03:16:31.017Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg",
+      "md5": "b9d98e951918102b7223833ca6325707",
+      "size": 369465,
+      "uploadedDate": "2020-05-28T03:16:38.770Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg",
+      "md5": "b9d98e951918102b7223833ca6325707",
+      "size": 369465,
+      "uploadedDate": "2020-05-28T03:16:48.095Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f7d5c4e850874d2c9fa043e9516a7a49/offer/EGS_TwinMirror_DONTNODEntertainment_S2-1200x1600-b9d98e951918102b7223833ca6325707.jpg",
+      "md5": "b9d98e951918102b7223833ca6325707",
+      "size": 369465,
+      "uploadedDate": "2020-05-28T03:16:57.652Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b352837728ae44cdade9231698e41d7a"
+    }
+  ],
+  "catalogNs": null
 }

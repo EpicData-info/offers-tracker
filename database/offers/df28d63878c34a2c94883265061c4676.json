@@ -1,48 +1,99 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-01T08:46:00.000Z",
-  "creationDate": "2019-10-09T12:49:04.217Z",
-  "lastModifiedDate": "2020-05-29T13:00:00.252Z",
-  "viewableDate": null,
-  "productSlug": "spellbreak/battlemage-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Spellbreak Beta Battlemage",
   "id": "df28d63878c34a2c94883265061c4676",
   "namespace": "newt",
+  "title": "Spellbreak Beta Battlemage",
   "description": "Spellbreak Beta Battlemage",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f-2560x1440-75987e837f994b0638bf99cd359e723f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg"
-    }
-  ],
+  "productSlug": "spellbreak/battlemage-pack",
+  "urlSlug": "spellbreak-beta-battlemage",
+  "creationDate": "2019-10-09T12:49:04.217Z",
+  "lastModifiedDate": "2020-05-29T13:00:00.252Z",
+  "effectiveDate": "2019-10-01T08:46:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
     "name": "Proletariat, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "285cef97ced843bcbf7cf1a3ba0bd5dd",
-      "namespace": "newt",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "0cced867f6d24ddb87de4093fb16fafc",
-      "namespace": "newt",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-06-17T07:17:15.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -59,17 +110,42 @@
       "value": "spellbreak/battlemage-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S1-2560x1440-75987e837f994b0638bf99cd359e723f-2560x1440-75987e837f994b0638bf99cd359e723f.jpg",
+      "md5": "75987e837f994b0638bf99cd359e723f",
+      "size": 439488,
+      "uploadedDate": "2020-02-27T19:34:15.081Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg",
+      "md5": "7554fbe28edb464bc5447618e65202dd",
+      "size": 111107,
+      "uploadedDate": "2020-04-20T22:09:31.917Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_ProletariatInc_Spellbreak_S4-510x680-7554fbe28edb464bc5447618e65202dd-510x680-7554fbe28edb464bc5447618e65202dd.jpg",
+      "md5": "7554fbe28edb464bc5447618e65202dd",
+      "size": 111107,
+      "uploadedDate": "2020-04-20T22:09:54.215Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "285cef97ced843bcbf7cf1a3ba0bd5dd"
+    },
+    {
+      "id": "0cced867f6d24ddb87de4093fb16fafc"
+    }
+  ],
+  "catalogNs": null
 }

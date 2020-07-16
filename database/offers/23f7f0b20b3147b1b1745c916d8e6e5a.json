@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-11-15T14:03:00.000Z",
-  "creationDate": "2018-11-15T19:04:10.501Z",
-  "lastModifiedDate": "2020-04-29T00:38:41.042Z",
-  "viewableDate": "2018-11-15T14:03:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "MinNightly",
   "id": "23f7f0b20b3147b1b1745c916d8e6e5a",
   "namespace": "min",
+  "title": "MinNightly",
   "description": "MinNightly",
   "longDescription": "MinNightly",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "minnightly",
+  "creationDate": "2018-11-15T19:04:10.501Z",
+  "lastModifiedDate": "2020-04-29T00:38:41.042Z",
+  "effectiveDate": "2018-11-15T14:03:00.000Z",
+  "viewableDate": "2018-11-15T14:03:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
     "name": "Supergiant Games LLC"
   },
-  "items": [
-    {
-      "id": "5e12a24365634025bcfe8fcb6f87d940",
-      "namespace": "min",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "5e12a24365634025bcfe8fcb6f87d940"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-09-12T18:10:13.851Z",
-  "lastModifiedDate": "2020-01-06T17:52:07.818Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "MoaDevAudience",
   "id": "fd4ea2ca32564d259effc3acf0057184",
   "namespace": "ca8077d80493497188e0ca5bca3ebe60",
+  "title": "MoaDevAudience",
   "description": "MoaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "moadevaudience",
+  "creationDate": "2019-09-12T18:10:13.851Z",
+  "lastModifiedDate": "2020-01-06T17:52:07.818Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0532848c852449f283ec16c7330aaa88",
-      "namespace": "ca8077d80493497188e0ca5bca3ebe60",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "0532848c852449f283ec16c7330aaa88"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

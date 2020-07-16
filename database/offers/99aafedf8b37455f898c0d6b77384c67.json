@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-23T23:00:00.000Z",
-  "creationDate": "2019-11-12T23:31:21.431Z",
-  "lastModifiedDate": "2020-06-05T13:41:41.499Z",
-  "viewableDate": null,
-  "productSlug": "predator-hunting-grounds/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Predator Hunting Grounds",
   "id": "99aafedf8b37455f898c0d6b77384c67",
   "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
+  "title": "Predator Hunting Grounds",
   "description": "Predator Hunting Grounds",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreWide-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreWide-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_Tall-1280x1440-21060c43debce23ca17d694f67298b03.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg"
-    }
-  ],
+  "productSlug": "predator-hunting-grounds/home",
+  "urlSlug": "predator-hunting-grounds",
+  "creationDate": "2019-11-12T23:31:21.431Z",
+  "lastModifiedDate": "2020-06-05T13:41:41.499Z",
+  "effectiveDate": "2020-04-23T23:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-sby9x4c2zlm5mb2z5r9ajue9pcqfs5",
     "name": "Sony Interactive Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3df7692f0a8d49ee91859947dc371a8a",
-      "namespace": "5a82d5954a1943d79dc6b49cde2fe972",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1090",
+      "name": "TACTICAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:03.235Z",
+      "updated": "2020-05-14T19:40:37.643Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "predator-hunting-grounds/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/Predator_Portrait-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "size": 483818,
+      "uploadedDate": "2019-12-09T18:34:15.711Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreWide-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
+      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
+      "size": 633252,
+      "uploadedDate": "2020-04-23T23:14:37.533Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreWide-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
+      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
+      "size": 633252,
+      "uploadedDate": "2020-04-23T23:15:37.568Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
+      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
+      "size": 633252,
+      "uploadedDate": "2020-04-23T23:15:52.115Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_Tall-1280x1440-21060c43debce23ca17d694f67298b03.jpg",
+      "md5": "21060c43debce23ca17d694f67298b03",
+      "size": 483818,
+      "uploadedDate": "2020-04-23T23:16:37.940Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/5a82d5954a1943d79dc6b49cde2fe972/offer/PHG_StoreTall-2560x1440-e62fa18a59b9ae27cd6ce93eb7935c6c.jpg",
+      "md5": "e62fa18a59b9ae27cd6ce93eb7935c6c",
+      "size": 633252,
+      "uploadedDate": "2020-04-23T23:17:09.699Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3df7692f0a8d49ee91859947dc371a8a"
+    }
+  ],
+  "catalogNs": null
 }

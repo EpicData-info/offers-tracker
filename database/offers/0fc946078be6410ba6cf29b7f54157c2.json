@@ -1,59 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-13T22:17:12.371Z",
-  "lastModifiedDate": "2020-05-19T21:38:23.137Z",
-  "viewableDate": "2020-05-19T16:00:00.000Z",
-  "productSlug": "mafia-iii-definitive-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mafia III: Definitive Edition",
   "id": "0fc946078be6410ba6cf29b7f54157c2",
   "namespace": "8ad9396e01f046aaa784a33f7e60dfbe",
+  "title": "Mafia III: Definitive Edition",
   "description": "Mafia III: Definitive Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S1-2560x1440-0bde8ac203073e97ea2e1eba51541b7b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S1-2560x1440-0bde8ac203073e97ea2e1eba51541b7b.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/ESRB_MafiaIII-842x485-3e67dddd6c73d0faf0ba80af0ed5f636.jpg"
-    }
-  ],
+  "productSlug": "mafia-iii-definitive-edition",
+  "urlSlug": "ametrinegeneralaudience",
+  "creationDate": "2020-03-13T22:17:12.371Z",
+  "lastModifiedDate": "2020-05-19T21:38:23.137Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-05-19T16:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8eab6e45eb0346d8b276a62c06f39138",
-      "namespace": "8ad9396e01f046aaa784a33f7e60dfbe",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +105,75 @@
       "value": "mafia-iii-definitive-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S1-2560x1440-0bde8ac203073e97ea2e1eba51541b7b.jpg",
+      "md5": "0bde8ac203073e97ea2e1eba51541b7b",
+      "size": 490782,
+      "uploadedDate": "2020-05-18T19:07:36.426Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S1-2560x1440-0bde8ac203073e97ea2e1eba51541b7b.jpg",
+      "md5": "0bde8ac203073e97ea2e1eba51541b7b",
+      "size": 490782,
+      "uploadedDate": "2020-05-18T19:08:03.292Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg",
+      "md5": "5090188980551261df50e7897fe43f90",
+      "size": 823026,
+      "uploadedDate": "2020-05-18T19:08:34.342Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg",
+      "md5": "5090188980551261df50e7897fe43f90",
+      "size": 823026,
+      "uploadedDate": "2020-05-18T19:08:48.156Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg",
+      "md5": "5090188980551261df50e7897fe43f90",
+      "size": 823026,
+      "uploadedDate": "2020-05-18T19:09:07.720Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/EGS_MafiaIIIDefinitiveEdition_Hangar13_S2-1200x1600-5090188980551261df50e7897fe43f90.jpg",
+      "md5": "5090188980551261df50e7897fe43f90",
+      "size": 823026,
+      "uploadedDate": "2020-05-18T19:09:27.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/ESRB_MafiaIII-842x485-3e67dddd6c73d0faf0ba80af0ed5f636.jpg",
+      "md5": "3e67dddd6c73d0faf0ba80af0ed5f636",
+      "size": 151004,
+      "uploadedDate": "2020-05-19T14:56:09.306Z",
+      "width": 842,
+      "height": 485
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8eab6e45eb0346d8b276a62c06f39138"
+    }
+  ],
+  "catalogNs": null
 }

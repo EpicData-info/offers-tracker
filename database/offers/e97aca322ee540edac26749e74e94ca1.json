@@ -1,59 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2019-08-24T05:55:37.079Z",
-  "lastModifiedDate": "2020-04-20T19:39:21.195Z",
-  "viewableDate": null,
-  "productSlug": "ticket-to-ride/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ticket to Ride",
   "id": "e97aca322ee540edac26749e74e94ca1",
   "namespace": "b4d9169e1b8548f2babec33107253309",
+  "title": "Ticket to Ride",
   "description": "Ticket to Ride",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S1-2560x1440-f18b9b93ad45e3e17e0b71f6d0371299.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_IC1-200x200-37d6b821c4818741a2a00bc972b63501.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S1-2560x1440-f18b9b93ad45e3e17e0b71f6d0371299.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg"
-    }
-  ],
+  "productSlug": "ticket-to-ride/home",
+  "urlSlug": "towheegeneralaudience",
+  "creationDate": "2019-08-24T05:55:37.079Z",
+  "lastModifiedDate": "2020-04-20T19:39:21.195Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1aa8c69686e14fbca198d9910423570d",
-      "namespace": "b4d9169e1b8548f2babec33107253309",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +105,75 @@
       "value": "ticket-to-ride/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S1-2560x1440-f18b9b93ad45e3e17e0b71f6d0371299.jpg",
+      "md5": "f18b9b93ad45e3e17e0b71f6d0371299",
+      "size": 328214,
+      "uploadedDate": "2020-01-23T20:20:37.392Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
+      "md5": "0c94d10d429d03f6d28655e967a62e9e",
+      "size": 315558,
+      "uploadedDate": "2020-01-23T20:20:50.954Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_IC1-200x200-37d6b821c4818741a2a00bc972b63501.png",
+      "md5": "37d6b821c4818741a2a00bc972b63501",
+      "size": 49464,
+      "uploadedDate": "2020-01-23T20:21:15.511Z",
+      "width": 200,
+      "height": 200
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
+      "md5": "0c94d10d429d03f6d28655e967a62e9e",
+      "size": 315558,
+      "uploadedDate": "2020-01-23T20:20:50.954Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
+      "md5": "0c94d10d429d03f6d28655e967a62e9e",
+      "size": 315558,
+      "uploadedDate": "2020-01-23T22:10:39.582Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DaysofWonder_TickettoRide_S1-2560x1440-f18b9b93ad45e3e17e0b71f6d0371299.jpg",
+      "md5": "f18b9b93ad45e3e17e0b71f6d0371299",
+      "size": 328214,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/EGS_DaysofWonder_TickettoRide_S2-1280x1440-0c94d10d429d03f6d28655e967a62e9e-1280x1440-0c94d10d429d03f6d28655e967a62e9e.jpg",
+      "md5": "0c94d10d429d03f6d28655e967a62e9e",
+      "size": 315558,
+      "uploadedDate": "2020-04-20T19:39:13.097Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1aa8c69686e14fbca198d9910423570d"
+    }
+  ],
+  "catalogNs": null
 }

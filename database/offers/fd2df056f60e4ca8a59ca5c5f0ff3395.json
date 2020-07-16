@@ -1,51 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-25T15:00:00.000Z",
-  "creationDate": "2020-01-24T17:50:05.336Z",
-  "lastModifiedDate": "2020-05-14T19:36:52.248Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-rogue/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Rogue",
   "id": "fd2df056f60e4ca8a59ca5c5f0ff3395",
   "namespace": "34f7e1e275924bb6a90074920f9c1696",
+  "title": "Assassin's Creed Rogue",
   "description": "Assassin's Creed Rogue",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa (1)-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png"
-    }
-  ],
+  "productSlug": "assassins-creed-rogue/home",
+  "urlSlug": "wolffishgeneralaudience",
+  "creationDate": "2020-01-24T17:50:05.336Z",
+  "lastModifiedDate": "2020-05-14T19:36:52.248Z",
+  "effectiveDate": "2020-03-25T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fd1e0684d785480ca1abf0702518dd6c",
-      "namespace": "34f7e1e275924bb6a90074920f9c1696",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +113,57 @@
       "value": "assassins-creed-rogue/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg",
+      "md5": "2e3c9cdfd312bb0f063e991982c5ff57",
+      "size": 1139152,
+      "uploadedDate": "2020-03-10T02:49:30.547Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png",
+      "md5": "5cba5dab889312a3ee8e0cb414f1ebaa",
+      "size": 3504605,
+      "uploadedDate": "2020-03-10T02:49:38.974Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png",
+      "md5": "5cba5dab889312a3ee8e0cb414f1ebaa",
+      "size": 3504605,
+      "uploadedDate": "2020-03-10T02:49:38.974Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Landscape_2580x1450-2580x1450-2e3c9cdfd312bb0f063e991982c5ff57.jpg",
+      "md5": "2e3c9cdfd312bb0f063e991982c5ff57",
+      "size": 1139152,
+      "uploadedDate": "2020-03-28T16:54:47.593Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/34f7e1e275924bb6a90074920f9c1696/offer/ACRG_Store_Portrait_1280x1420-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa (1)-1280x1420-5cba5dab889312a3ee8e0cb414f1ebaa.png",
+      "md5": "5cba5dab889312a3ee8e0cb414f1ebaa",
+      "size": 3504605,
+      "uploadedDate": "2020-04-20T13:55:07.921Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fd1e0684d785480ca1abf0702518dd6c"
+    }
+  ],
+  "catalogNs": null
 }

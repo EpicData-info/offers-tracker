@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-01T16:00:00.000Z",
-  "creationDate": "2019-12-19T21:49:08.783Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "darksiders2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders II Deathinitive Edition",
   "id": "4530e0cba368471fbee9107df203c2e4",
   "namespace": "epic",
+  "title": "Darksiders II Deathinitive Edition",
   "description": "Darksiders II Deathinitive Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg"
-    }
-  ],
+  "productSlug": "darksiders2/home",
+  "urlSlug": "darksiders-ii-deathinitive-edition",
+  "creationDate": "2019-12-19T21:49:08.783Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": "7285f8134497432fa68378ef9efe8dc2",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +112,30 @@
       "value": "7285f8134497432fa68378ef9efe8dc2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-aaf0b5a36c066638e2b3f0ebcf2885e0.jpg",
+      "md5": "aaf0b5a36c066638e2b3f0ebcf2885e0",
+      "size": 778591,
+      "uploadedDate": "2019-12-19T21:46:47.542Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-79de1e63157da0a0af69d207703cec0a.jpg",
+      "md5": "79de1e63157da0a0af69d207703cec0a",
+      "size": 276640,
+      "uploadedDate": "2019-12-19T21:46:57.529Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "7285f8134497432fa68378ef9efe8dc2",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "THQ Nordic"
-      },
-      {
-        "key": "developerName",
-        "value": "Gunfire Games, Vigil Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "darksiders2/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

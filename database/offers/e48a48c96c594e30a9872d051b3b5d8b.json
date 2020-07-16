@@ -1,55 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-30T16:00:00.000Z",
-  "creationDate": "2019-10-03T20:05:30.348Z",
-  "lastModifiedDate": "2020-07-15T16:44:55.918Z",
-  "viewableDate": null,
-  "productSlug": "farming-simulator-19",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Farming Simulator 19",
   "id": "e48a48c96c594e30a9872d051b3b5d8b",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "title": "Farming Simulator 19",
   "description": "Farming Simulator 19",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3.jpg"
-    }
-  ],
+  "productSlug": "farming-simulator-19",
+  "urlSlug": "stellulageneralaudience",
+  "creationDate": "2019-10-03T20:05:30.348Z",
+  "lastModifiedDate": "2020-07-15T16:44:55.918Z",
+  "effectiveDate": "2020-01-30T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "71f715473dea4f8ebe5b215b408f77c1",
-      "namespace": "493e9ad801e8487497fe7840cb8404bb",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +120,66 @@
       "value": "farming-simulator-19"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+      "md5": "71df4a510f82c42cebe1b1861d2f77a3",
+      "size": 208762,
+      "uploadedDate": "2020-01-21T19:27:49.055Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg",
+      "md5": "4c1c6da4e849066b899c43bed7614c6c",
+      "size": 163179,
+      "uploadedDate": "2020-01-21T19:27:56.953Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+      "md5": "71df4a510f82c42cebe1b1861d2f77a3",
+      "size": 208762,
+      "uploadedDate": "2020-01-21T19:27:49.055Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3-1360x766-4c1c6da4e849066b899c43bed7614c6c.jpg",
+      "md5": "4c1c6da4e849066b899c43bed7614c6c",
+      "size": 163179,
+      "uploadedDate": "2020-01-22T18:43:27.577Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_EGS-GIANTS-FS19-860x1148_Standard-860x1148-a464360aa738f506399aff4c95d0a9c7021dee5f-860x1148-71df4a510f82c42cebe1b1861d2f77a3.jpg",
+      "md5": "71df4a510f82c42cebe1b1861d2f77a3",
+      "size": 208762,
+      "uploadedDate": "2020-01-22T18:43:36.537Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_Standard-1360x766-3ff704f0c5b6993465dbbeb797b181e9acf313e3.jpg",
+      "md5": "4c1c6da4e849066b899c43bed7614c6c",
+      "size": 163179,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "71f715473dea4f8ebe5b215b408f77c1"
+    }
+  ],
+  "catalogNs": null
 }

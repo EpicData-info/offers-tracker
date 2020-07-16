@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-23T05:00:00.000Z",
-  "creationDate": "2019-03-08T18:35:32.662Z",
-  "lastModifiedDate": "2020-04-27T05:40:42.698Z",
-  "viewableDate": null,
-  "productSlug": "walking-dead-a-new-frontier/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Walking Dead: A New Frontier",
   "id": "e18ee56df6cd425c8615e2709f8e7bb1",
   "namespace": "begonia",
+  "title": "The Walking Dead: A New Frontier",
   "description": "The Walking Dead: A New Frontier",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg"
-    }
-  ],
+  "productSlug": "walking-dead-a-new-frontier/home",
+  "urlSlug": "begonia",
+  "creationDate": "2019-03-08T18:35:32.662Z",
+  "lastModifiedDate": "2020-04-27T05:40:42.698Z",
+  "effectiveDate": "2019-03-23T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e10d3f8c67824b2ca084fb8e609951fe",
-      "namespace": "begonia",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "walking-dead-a-new-frontier/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg",
+      "md5": "f049413e8200bd6cffe66b1927df50f2",
+      "size": 121974,
+      "uploadedDate": "2019-03-25T22:32:38.174Z",
+      "width": 1068,
+      "height": 601
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg",
+      "md5": "735634f8d4978572669ddb3176e1e6ac",
+      "size": 111292,
+      "uploadedDate": "2019-03-25T22:33:22.429Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD3-Logo-600x425-d59ca44ca424e139ab104c4bfbacde84.png",
+      "md5": "d59ca44ca424e139ab104c4bfbacde84",
+      "size": 275514,
+      "uploadedDate": "2019-03-26T03:32:36.934Z",
+      "width": 600,
+      "height": 425
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1280x1440-1280x1440-735634f8d4978572669ddb3176e1e6ac.jpg",
+      "md5": "735634f8d4978572669ddb3176e1e6ac",
+      "size": 111292,
+      "uploadedDate": "2019-03-25T22:33:22.429Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png",
+      "md5": "e2be4cfbef4806a30b82ae1a42d4ca80",
+      "size": 91143,
+      "uploadedDate": "2019-03-26T02:06:43.075Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/begonia/offer/TWD3_CodeRedemption-330x440-e2be4cfbef4806a30b82ae1a42d4ca80-330x440-e2be4cfbef4806a30b82ae1a42d4ca80.png",
+      "md5": "e2be4cfbef4806a30b82ae1a42d4ca80",
+      "size": 91143,
+      "uploadedDate": "2019-04-23T20:27:27.902Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD3_1068x601-1068x601-f049413e8200bd6cffe66b1927df50f2.jpg",
+      "md5": "f049413e8200bd6cffe66b1927df50f2",
+      "size": 121974,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1068,
+      "height": 601
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e10d3f8c67824b2ca084fb8e609951fe"
+    }
+  ],
+  "catalogNs": null
 }

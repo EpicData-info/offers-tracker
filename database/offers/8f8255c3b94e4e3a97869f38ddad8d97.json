@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-03T18:49:17.372Z",
-  "lastModifiedDate": "2020-07-14T19:02:30.258Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC 12",
   "id": "8f8255c3b94e4e3a97869f38ddad8d97",
   "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "title": "DLC 12",
   "description": "Digital Deluxe Edition Upgrade",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dlc-11",
+  "creationDate": "2020-03-03T18:49:17.372Z",
+  "lastModifiedDate": "2020-07-14T19:02:30.258Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "ff90291521e14dc2bb8b41f8d993419a",
-      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ff90291521e14dc2bb8b41f8d993419a"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,51 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2015-02-10T00:00:00.000Z",
-  "creationDate": "2015-02-10T21:21:20.652Z",
-  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
-  "viewableDate": "2015-02-10T00:00:00.000Z",
-  "productSlug": "unreal-tournament",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Unreal Tournament",
   "id": "9a85e064672249f6976b92c2d8db56b5",
   "namespace": "ut",
+  "title": "Unreal Tournament",
   "description": "<a id=\"StandardURL\" href=\"http://www.unrealtournament.com/\">Spotlight - Tutorials, Features, and Videos</>",
   "longDescription": "Thank you for your interest in Unreal Tournament! UT is in open development as a collaboration between Epic Games, Unreal Tournament fans and Unreal Engine 4 developers.\n<a id=\"StandardURL\" href=\"http://forums.unrealtournament.com/\">Visit Our Forums</>",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/vertical logo-515x166-cbec624e33e710ec31c4567e70cf4d50.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/UT_BG1-1920x1080-8cdaa270830ad508e3671859c19cf5b8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ut/offer/NewB_TPBG02-2048x1152-1826500511-2048x1152-5e6cce4cfd852bda96140ad568f2e12d-2048x1152-5e6cce4cfd852bda96140ad568f2e12d.png"
-    }
-  ],
+  "productSlug": "unreal-tournament",
+  "urlSlug": "unreal-tournament",
+  "creationDate": "2015-02-10T21:21:20.652Z",
+  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "effectiveDate": "2015-02-10T00:00:00.000Z",
+  "viewableDate": "2015-02-10T00:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b8538c739273426aa35a98220e258d55",
-      "namespace": "ut",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,17 +109,57 @@
       "value": "unreal-tournament"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/vertical logo-515x166-cbec624e33e710ec31c4567e70cf4d50.png",
+      "md5": "cbec624e33e710ec31c4567e70cf4d50",
+      "size": 23073,
+      "uploadedDate": "2018-11-28T23:56:43.078Z",
+      "width": 515,
+      "height": 166
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/UT_BG1-1920x1080-8cdaa270830ad508e3671859c19cf5b8.jpg",
+      "md5": "8cdaa270830ad508e3671859c19cf5b8",
+      "size": 164377,
+      "uploadedDate": "2018-12-05T03:26:26.825Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png",
+      "md5": "ed40e50751feef504834d9c3536a723c",
+      "size": 286687,
+      "uploadedDate": "2019-03-27T15:52:49.110Z",
+      "width": 853,
+      "height": 960
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ut_port_tall-853x960-ed40e50751feef504834d9c3536a723c.png",
+      "md5": "ed40e50751feef504834d9c3536a723c",
+      "size": 286687,
+      "uploadedDate": "2019-03-27T15:52:49.110Z",
+      "width": 853,
+      "height": 960
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ut/offer/NewB_TPBG02-2048x1152-1826500511-2048x1152-5e6cce4cfd852bda96140ad568f2e12d-2048x1152-5e6cce4cfd852bda96140ad568f2e12d.png",
+      "md5": "5e6cce4cfd852bda96140ad568f2e12d",
+      "size": 1116075,
+      "uploadedDate": "2020-03-06T19:41:44.965Z",
+      "width": 2048,
+      "height": 1152
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b8538c739273426aa35a98220e258d55"
+    }
+  ],
+  "catalogNs": null
 }

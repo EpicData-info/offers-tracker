@@ -1,59 +1,126 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-04T16:00:00.000Z",
-  "creationDate": "2020-01-24T17:49:46.957Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "far-cry-4/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Far Cry 4",
   "id": "c071ea77ba2f4983b4515eae0f4216b6",
   "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "title": "Far Cry 4",
   "description": "Far Cry 4 Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_Landscape-2580x1450-37f8f0733b7b6e8d4a0cd954b673040b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCyr4_Logo-1000x375-8bb6806a29c603338ed13ce8e470fde2.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-661bb793018c8394b042857e0eb42f8d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Store_Portrait_Promo_1280x1420-1280x1420-e360ecdd12735b75de7be92a8e337db2.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-9a994fc970e32d3eaa8b54612112b466182ab521.jpg"
-    }
-  ],
+  "productSlug": "far-cry-4/home",
+  "urlSlug": "tautoggeneralaudience",
+  "creationDate": "2020-01-24T17:49:46.957Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d",
-      "namespace": "cf87285950ba492bbdc370b9d265ea36",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +137,75 @@
       "value": "far-cry-4/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_Landscape-2580x1450-37f8f0733b7b6e8d4a0cd954b673040b.jpg",
+      "md5": "37f8f0733b7b6e8d4a0cd954b673040b",
+      "size": 375271,
+      "uploadedDate": "2020-02-18T15:17:31.450Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png",
+      "md5": "7f5a58952620e42b2b72eb884acf7713",
+      "size": 969336,
+      "uploadedDate": "2020-02-18T15:17:40.345Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCyr4_Logo-1000x375-8bb6806a29c603338ed13ce8e470fde2.png",
+      "md5": "8bb6806a29c603338ed13ce8e470fde2",
+      "size": 31195,
+      "uploadedDate": "2020-02-18T15:18:10.310Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/FarCry4_S2-BANNER-1280x1440-1280x1440-7f5a58952620e42b2b72eb884acf7713.png",
+      "md5": "7f5a58952620e42b2b72eb884acf7713",
+      "size": 969336,
+      "uploadedDate": "2020-02-18T15:17:40.345Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-661bb793018c8394b042857e0eb42f8d.jpg",
+      "md5": "661bb793018c8394b042857e0eb42f8d",
+      "size": 445827,
+      "uploadedDate": "2020-02-03T17:55:52.972Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Store_Portrait_Promo_1280x1420-1280x1420-e360ecdd12735b75de7be92a8e337db2.jpg",
+      "md5": "e360ecdd12735b75de7be92a8e337db2",
+      "size": 1328777,
+      "uploadedDate": "2020-02-03T17:56:03.573Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_STD_Edition_Capsule_1920X1080-1920x1080-9a994fc970e32d3eaa8b54612112b466182ab521.jpg",
+      "md5": "975521045c75fd9189f2f0098203a312",
+      "size": 210780,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d"
+    }
+  ],
+  "catalogNs": null
 }

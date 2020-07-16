@@ -1,38 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2016-03-28T00:00:00.000Z",
-  "creationDate": "2016-03-29T02:21:55.149Z",
-  "lastModifiedDate": "2020-02-04T18:38:55.834Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Golden Gem Chest",
   "id": "d4964baa304d4d419be379d472a03bc9",
   "namespace": "wex",
+  "title": "Golden Gem Chest",
   "description": "Golden Gem Chest",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "golden-gem-chest",
+  "creationDate": "2016-03-29T02:21:55.149Z",
+  "lastModifiedDate": "2020-02-04T18:38:55.834Z",
+  "effectiveDate": "2016-03-28T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "d0198f23861c483f8d1e4c5373bc02fa",
-      "namespace": "wex",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "mtx packages"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d0198f23861c483f8d1e4c5373bc02fa"
+    }
+  ],
+  "catalogNs": null
 }

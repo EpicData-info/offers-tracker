@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2022-02-21T12:38:00.000Z",
-  "creationDate": "2019-02-21T17:40:03.475Z",
-  "lastModifiedDate": "2020-04-29T00:38:18.815Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "ViolaDevAudience",
   "id": "2ce930211af24673869ba8d010b4ffd0",
   "namespace": "viola",
+  "title": "ViolaDevAudience",
   "description": "ViolaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "violadevaudience",
+  "creationDate": "2019-02-21T17:40:03.475Z",
+  "lastModifiedDate": "2020-04-29T00:38:18.815Z",
+  "effectiveDate": "2022-02-21T12:38:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "dc64e4961c70483d856e80cfc10a732b",
-      "namespace": "viola",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "Nine Dots Studio"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "dc64e4961c70483d856e80cfc10a732b"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

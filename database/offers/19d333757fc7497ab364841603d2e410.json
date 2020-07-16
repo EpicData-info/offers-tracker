@@ -1,47 +1,96 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-11T15:00:00.000Z",
-  "creationDate": "2020-05-11T23:31:26.315Z",
-  "lastModifiedDate": "2020-06-11T15:11:21.627Z",
-  "viewableDate": null,
-  "productSlug": "ark/genesis-season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "ARK Genesis Season Pass",
   "id": "19d333757fc7497ab364841603d2e410",
   "namespace": "ark",
+  "title": "ARK Genesis Season Pass",
   "description": "ARK Genesis Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-1dff4f517cccbfffa5d66d12a9b8acc6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg"
-    }
-  ],
+  "productSlug": "ark/genesis-season-pass",
+  "urlSlug": "apatitegenesissp-01",
+  "creationDate": "2020-05-11T23:31:26.315Z",
+  "lastModifiedDate": "2020-06-11T15:11:21.627Z",
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
     "name": "Studio Wildcard"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "cd487143cd9148de964a4965b660e110",
-      "namespace": "ark",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,14 +111,48 @@
       "value": "ark/genesis-season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-1dff4f517cccbfffa5d66d12a9b8acc6.jpg",
+      "md5": "1dff4f517cccbfffa5d66d12a9b8acc6",
+      "size": 999161,
+      "uploadedDate": "2020-06-01T16:28:14.673Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg",
+      "md5": "769c735a6bafd98eef937cd391bff8e0",
+      "size": 1019043,
+      "uploadedDate": "2020-06-01T16:28:27.148Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg",
+      "md5": "769c735a6bafd98eef937cd391bff8e0",
+      "size": 1019043,
+      "uploadedDate": "2020-06-01T16:28:37.022Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKGenesisSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-769c735a6bafd98eef937cd391bff8e0.jpg",
+      "md5": "769c735a6bafd98eef937cd391bff8e0",
+      "size": 1019043,
+      "uploadedDate": "2020-06-01T16:28:49.998Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "cd487143cd9148de964a4965b660e110"
+    }
+  ],
+  "catalogNs": null
 }

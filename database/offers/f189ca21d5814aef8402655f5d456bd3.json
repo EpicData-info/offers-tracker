@@ -1,63 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-01T09:39:00.000Z",
-  "creationDate": "2019-04-11T13:42:35.697Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "metro-exodus",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Exodus",
   "id": "f189ca21d5814aef8402655f5d456bd3",
   "namespace": "snapdragon",
+  "title": "Metro Exodus",
   "description": "Metro Exodus Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Metro_wide-960x540-adf64091db625fb296881a2ea51a5e07.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/ME_Logo-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/MetroStandardCodeRedemption-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_Standard_CodeRedemption-330x440-3105fa97f84942eb8b5b0d5a7fc41846.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/snapdragon_promo-1920x1080-7203c031c983ae6d0548d5ab9ab1ab6496feeef1.jpg"
-    }
-  ],
+  "productSlug": "metro-exodus",
+  "urlSlug": "metro-exodus-standard-edition",
+  "creationDate": "2019-04-11T13:42:35.697Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-04-01T09:39:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b69c1c24fe70497aa671aadb33d663a0",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +129,84 @@
       "value": "metro-exodus"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png",
+      "md5": "485ff4ae038c7eed3a7b359bcc9c677a",
+      "size": 273835,
+      "uploadedDate": "2019-03-27T16:32:03.594Z",
+      "width": 618,
+      "height": 700
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Metro_wide-960x540-adf64091db625fb296881a2ea51a5e07.jpg",
+      "md5": "adf64091db625fb296881a2ea51a5e07",
+      "size": 183764,
+      "uploadedDate": "2019-03-27T16:32:12.020Z",
+      "width": 960,
+      "height": 540
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ME_Logo-2850x1450-b14f454728dc4a768250d3bd6f6bb05f.png",
+      "md5": "b14f454728dc4a768250d3bd6f6bb05f",
+      "size": 605487,
+      "uploadedDate": "2020-03-16T16:02:40.740Z",
+      "width": 2850,
+      "height": 1450
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MetroExodus_tall-618x700-485ff4ae038c7eed3a7b359bcc9c677a.png",
+      "md5": "485ff4ae038c7eed3a7b359bcc9c677a",
+      "size": 273835,
+      "uploadedDate": "2019-03-27T16:32:03.594Z",
+      "width": 618,
+      "height": 700
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/snapdragon/item/MetroExodus_PrimaryPromo-2580x1450-0e5b7a55fb64f2b4ab1a46455a9293e0.jpg",
+      "md5": "0e5b7a55fb64f2b4ab1a46455a9293e0",
+      "size": 580337,
+      "uploadedDate": "2019-02-15T05:04:32.130Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/MetroStandardCodeRedemption-330x440-f6c6f4a56befc8ebab8e9546a6b699cf.png",
+      "md5": "f6c6f4a56befc8ebab8e9546a6b699cf",
+      "size": 222029,
+      "uploadedDate": "2019-04-11T13:41:30.281Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/ME_Standard_CodeRedemption-330x440-3105fa97f84942eb8b5b0d5a7fc41846.png",
+      "md5": "3105fa97f84942eb8b5b0d5a7fc41846",
+      "size": 117370,
+      "uploadedDate": "2019-04-24T14:09:31.555Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/snapdragon_promo-1920x1080-7203c031c983ae6d0548d5ab9ab1ab6496feeef1.jpg",
+      "md5": "83e916a843aeb418c56793bd8fc5fac6",
+      "size": 336445,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b69c1c24fe70497aa671aadb33d663a0"
+    }
+  ],
+  "catalogNs": null
 }

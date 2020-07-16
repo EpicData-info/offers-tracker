@@ -1,51 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-16T07:00:00.000Z",
-  "creationDate": "2019-12-12T04:15:26.116Z",
-  "lastModifiedDate": "2020-06-16T11:59:41.038Z",
-  "viewableDate": null,
-  "productSlug": "outward/the-soroboreans",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Soroboreans",
   "id": "ebefbb24dde1475f981c23bf718c14ae",
   "namespace": "viola",
+  "title": "The Soroboreans",
   "description": "The Soroboreans Audience",
   "longDescription": "The Soroboreans",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_2560x1440-2560x1140-b3e63dcca13fb9299e2f55f3dd35a60d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg"
-    }
-  ],
+  "productSlug": "outward/the-soroboreans",
+  "urlSlug": "dlc1-audience",
+  "creationDate": "2019-12-12T04:15:26.116Z",
+  "lastModifiedDate": "2020-06-16T11:59:41.038Z",
+  "effectiveDate": "2020-06-16T07:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c2f40668607c4be79a3e341c0190ce1e",
-      "namespace": "viola",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +105,57 @@
       "value": "outward/the-soroboreans"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png",
+      "md5": "766e1685d1d3c093153c9e27b0550ede",
+      "size": 54206,
+      "uploadedDate": "2019-04-23T21:14:37.645Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_2560x1440-2560x1140-b3e63dcca13fb9299e2f55f3dd35a60d.jpg",
+      "md5": "b3e63dcca13fb9299e2f55f3dd35a60d",
+      "size": 857567,
+      "uploadedDate": "2020-05-27T18:11:50.578Z",
+      "width": 2560,
+      "height": 1140
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg",
+      "md5": "ccb5039eb0d0843afe5e45e92b61dbbe",
+      "size": 906285,
+      "uploadedDate": "2020-05-27T18:12:01.873Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg",
+      "md5": "ccb5039eb0d0843afe5e45e92b61dbbe",
+      "size": 906285,
+      "uploadedDate": "2020-05-27T18:12:30.336Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward-TS_Wishlist_860x1148-860x1148-ccb5039eb0d0843afe5e45e92b61dbbe.jpg",
+      "md5": "ccb5039eb0d0843afe5e45e92b61dbbe",
+      "size": 906285,
+      "uploadedDate": "2020-05-27T18:12:46.427Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c2f40668607c4be79a3e341c0190ce1e"
+    }
+  ],
+  "catalogNs": null
 }

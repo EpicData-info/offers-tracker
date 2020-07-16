@@ -1,5 +1,25 @@
 {
+  "id": "4870b255aec642ca9cfd801a211626e8",
+  "namespace": "epic",
+  "title": "Spring Sale 2020",
+  "description": "Spring Sale 2020",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "spring-sale-2020",
+  "urlSlug": "spring-sale",
+  "creationDate": "2020-03-25T16:25:05.746Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-11-17T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "linkedOfferId": "c3291802fde5400aaaabda61acd2d2b4",
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "26788f6304b749639f1797b56de09a2e",
     "beb8a791e88c40609f6b99ae59df128b",
@@ -128,32 +148,14 @@
     "c5477bbba0934ec08ebe822c79a55544",
     "ef91dfe239c34d6982962b8ed7575ff8"
   ],
-  "effectiveDate": "2019-11-17T11:00:00.000Z",
-  "creationDate": "2020-03-25T16:25:05.746Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "spring-sale-2020",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Spring Sale 2020",
-  "id": "4870b255aec642ca9cfd801a211626e8",
-  "namespace": "epic",
-  "description": "Spring Sale 2020",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [],
-  "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
-  },
-  "items": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
-      "namespace": "epic",
-      "developer": null
+      "path": "collections"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.collectionOfferIds.30",
@@ -672,26 +674,11 @@
       "value": "6f535e05446742a8961d2f231e6e7410"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c"
     }
   ],
-  "linkedOfferId": "c3291802fde5400aaaabda61acd2d2b4",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Triband"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "what-the-golf"
-      }
-    ]
-  }
+  "catalogNs": null
 }

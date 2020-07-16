@@ -1,51 +1,54 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-30T16:00:00.000Z",
-  "creationDate": "2019-10-09T19:04:47.967Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "farming-simulator-19/platinum-expansion",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Platinum Expansion DLC",
   "id": "f8554704641d4a2995077d54caf299ce",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "title": "Platinum Expansion DLC",
   "description": "Platinum Expansion DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_platinum-expansion_EGS-GIANTS-FS19-860x1148_PlatExpansion-860x1148-8f4178a4023b6da8c75eb59766a3d5e86f98caf7-860x1148-35221e72408c15a59b76f244187677c4.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg"
-    }
-  ],
+  "productSlug": "farming-simulator-19/platinum-expansion",
+  "urlSlug": "stellula-dlc-audience",
+  "creationDate": "2019-10-09T19:04:47.967Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2020-01-30T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "09c68e8acd7b408f89026de1f32f07a4",
-      "namespace": "493e9ad801e8487497fe7840cb8404bb",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +69,57 @@
       "value": "farming-simulator-19/platinum-expansion"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_platinum-expansion_EGS-GIANTS-FS19-860x1148_PlatExpansion-860x1148-8f4178a4023b6da8c75eb59766a3d5e86f98caf7-860x1148-35221e72408c15a59b76f244187677c4.jpg",
+      "md5": "35221e72408c15a59b76f244187677c4",
+      "size": 254361,
+      "uploadedDate": "2020-01-23T14:47:59.644Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg",
+      "md5": "20d9c1b02e27c8a3dedf027b90f9302b",
+      "size": 300867,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatExpansion-1360x766-bec1562579f8593d0d252f99ffc1d7c8a0785ba7.jpg",
+      "md5": "20d9c1b02e27c8a3dedf027b90f9302b",
+      "size": 300867,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg",
+      "md5": "35221e72408c15a59b76f244187677c4",
+      "size": 254361,
+      "uploadedDate": "2020-04-10T13:49:08.969Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmSim_PlatExp_Tall-860x1148-35221e72408c15a59b76f244187677c4.jpg",
+      "md5": "35221e72408c15a59b76f244187677c4",
+      "size": 254361,
+      "uploadedDate": "2020-04-10T13:49:24.943Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "09c68e8acd7b408f89026de1f32f07a4"
+    }
+  ],
+  "catalogNs": null
 }

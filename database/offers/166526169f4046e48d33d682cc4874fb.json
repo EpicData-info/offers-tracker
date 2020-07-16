@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-04-01T11:49:00.000Z",
-  "creationDate": "2018-12-17T16:51:51.611Z",
-  "lastModifiedDate": "2020-04-29T00:38:44.786Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "KestrelDevAudience",
   "id": "166526169f4046e48d33d682cc4874fb",
   "namespace": "kestrel",
+  "title": "KestrelDevAudience",
   "description": "KestrelDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "kestreldevaudience",
+  "creationDate": "2018-12-17T16:51:51.611Z",
+  "lastModifiedDate": "2020-04-29T00:38:44.786Z",
+  "effectiveDate": "2050-04-01T11:49:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ef3e715abe72457e81c673248c36c5af",
-      "namespace": "kestrel",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -37,14 +42,11 @@
       "value": "Annapurna Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ef3e715abe72457e81c673248c36c5af"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-11T05:00:00.000Z",
-  "creationDate": "2019-08-07T20:38:47.144Z",
-  "lastModifiedDate": "2020-04-02T01:41:13.879Z",
-  "viewableDate": null,
-  "productSlug": "conarium/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Conarium",
   "id": "f094afd81c3c4a3cb565b186e01c3bcd",
   "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
+  "title": "Conarium",
   "description": "Conarium",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_logo-1280x289-808961952e67400ddd57f1c518943832.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg"
-    }
-  ],
+  "productSlug": "conarium/home",
+  "urlSlug": "canarygeneralaudience",
+  "creationDate": "2019-08-07T20:38:47.144Z",
+  "lastModifiedDate": "2020-04-02T01:41:13.879Z",
+  "effectiveDate": "2019-09-11T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
     "name": "Iceberg Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8eb9fc0326344d11887d5bef1b512b82",
-      "namespace": "6ac9ddab8e604e3ba2d4ea01e8f9fa7d",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +129,75 @@
       "value": "conarium/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_logo-1280x289-808961952e67400ddd57f1c518943832.png",
+      "md5": "808961952e67400ddd57f1c518943832",
+      "size": 83568,
+      "uploadedDate": "2019-08-31T02:36:58.633Z",
+      "width": 1280,
+      "height": 289
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg",
+      "md5": "112f1d2927e025fc13dd56d32a50b9f9",
+      "size": 146128,
+      "uploadedDate": "2019-08-31T02:37:12.547Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg",
+      "md5": "1816c55faaff53c195166404e056ffbd",
+      "size": 91575,
+      "uploadedDate": "2019-08-31T02:37:24.400Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_portrait-1280x1440-1816c55faaff53c195166404e056ffbd.jpg",
+      "md5": "1816c55faaff53c195166404e056ffbd",
+      "size": 91575,
+      "uploadedDate": "2019-08-31T02:37:24.400Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg",
+      "md5": "52c9e869bfeeb511896e9f2cf0f3a3cb",
+      "size": 123437,
+      "uploadedDate": "2019-09-03T18:13:55.195Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6ac9ddab8e604e3ba2d4ea01e8f9fa7d/offer/CodeRedemption_Template-340x440-52c9e869bfeeb511896e9f2cf0f3a3cb.jpg",
+      "md5": "52c9e869bfeeb511896e9f2cf0f3a3cb",
+      "size": 123437,
+      "uploadedDate": "2019-09-03T18:14:01.550Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CONARIUM_promo-2560x1440-112f1d2927e025fc13dd56d32a50b9f9.jpg",
+      "md5": "112f1d2927e025fc13dd56d32a50b9f9",
+      "size": 146128,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8eb9fc0326344d11887d5bef1b512b82"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-19T16:00:00.000Z",
-  "creationDate": "2019-12-03T17:47:19.943Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "into-the-breach/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Into The Breach",
   "id": "a08681e2143d4c218167e45d76db8de0",
   "namespace": "5c0d568c71174cff8026db2606771d96",
+  "title": "Into The Breach",
   "description": "Into The Breach",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_IC2-128x128-c12d3fbc49d67a6faee2d2e2bd7f945d.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_S4-510x680-8a865e9778acb1745f4d70a6411ac370.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg"
-    }
-  ],
+  "productSlug": "into-the-breach/home",
+  "urlSlug": "blobfishgeneralaudience",
+  "creationDate": "2019-12-03T17:47:19.943Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-12-19T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
     "name": "Subset Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2b19e544e510468a96a4f918a00d52e9",
-      "namespace": "5c0d568c71174cff8026db2606771d96",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "into-the-breach/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
+      "md5": "dba55f96ffe7af34552ed2215f921bdc",
+      "size": 472146,
+      "uploadedDate": "2019-12-07T03:45:17.235Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+      "md5": "22e899c71d5a2bf7bc9353cc3f6e46d2",
+      "size": 395319,
+      "uploadedDate": "2019-12-07T03:45:29.722Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_IC1-200x200-49a3bf4ab351e9aa255e2e52c8368346.png",
+      "md5": "49a3bf4ab351e9aa255e2e52c8368346",
+      "size": 15583,
+      "uploadedDate": "2019-12-07T03:45:46.904Z",
+      "width": 200,
+      "height": 200
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S2-1280x1440-22e899c71d5a2bf7bc9353cc3f6e46d2.jpg",
+      "md5": "22e899c71d5a2bf7bc9353cc3f6e46d2",
+      "size": 395319,
+      "uploadedDate": "2019-12-07T03:45:29.722Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_IC2-128x128-c12d3fbc49d67a6faee2d2e2bd7f945d.png",
+      "md5": "c12d3fbc49d67a6faee2d2e2bd7f945d",
+      "size": 17270,
+      "uploadedDate": "2019-12-07T03:42:50.505Z",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5c0d568c71174cff8026db2606771d96/offer/EGS_SubsetGames_IntotheBreach_S4-510x680-8a865e9778acb1745f4d70a6411ac370.jpg",
+      "md5": "8a865e9778acb1745f4d70a6411ac370",
+      "size": 236757,
+      "uploadedDate": "2019-12-07T03:43:00.811Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_IntotheBreach_S1-2560x1440-dba55f96ffe7af34552ed2215f921bdc.jpg",
+      "md5": "dba55f96ffe7af34552ed2215f921bdc",
+      "size": 472146,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2b19e544e510468a96a4f918a00d52e9"
+    }
+  ],
+  "catalogNs": null
 }

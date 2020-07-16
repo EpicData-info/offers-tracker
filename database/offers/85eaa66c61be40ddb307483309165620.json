@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-10-29T00:10:01.751Z",
-  "lastModifiedDate": "2020-02-28T16:00:08.011Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "PochardDevAudience",
   "id": "85eaa66c61be40ddb307483309165620",
   "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "title": "PochardDevAudience",
   "description": "PochardDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "pocharddevaudience",
+  "creationDate": "2019-10-29T00:10:01.751Z",
+  "lastModifiedDate": "2020-02-28T16:00:08.011Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a2bbf88ae8984535916c289613a7b6e6",
-      "namespace": "25ef88acc7f34afc8ac6669e11573882",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "a2bbf88ae8984535916c289613a7b6e6"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

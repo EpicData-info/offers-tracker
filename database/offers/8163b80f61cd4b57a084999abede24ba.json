@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-18T00:00:00.000Z",
-  "creationDate": "2019-03-18T04:03:24.818Z",
-  "lastModifiedDate": "2020-04-27T04:11:11.108Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ancestors: The Humankind Odyssey Pre-Purchase",
   "id": "8163b80f61cd4b57a084999abede24ba",
   "namespace": "amaranth",
+  "title": "Ancestors: The Humankind Odyssey Pre-Purchase",
   "description": "Ancestors: The Humankind Odyssey Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "amaranthgeneralaudience",
+  "creationDate": "2019-03-18T04:03:24.818Z",
+  "lastModifiedDate": "2020-04-27T04:11:11.108Z",
+  "effectiveDate": "2019-06-18T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
     "name": "Private Division"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8dda8e3d68a94a02ad1c6f6d8fa5cc75",
-      "namespace": "amaranth",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,14 +50,30 @@
       "value": "Panache Digital Games"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png",
+      "md5": "6a3f6376dd574528443e600c6c20556c",
+      "size": 283235,
+      "uploadedDate": "2019-05-23T18:32:47.759Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/amaranth/offer/CodeRedemptionTemplate_Ancestors-340x440-6a3f6376dd574528443e600c6c20556c.png",
+      "md5": "6a3f6376dd574528443e600c6c20556c",
+      "size": 283235,
+      "uploadedDate": "2019-05-23T18:32:56.325Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8dda8e3d68a94a02ad1c6f6d8fa5cc75"
+    }
+  ],
+  "catalogNs": null
 }

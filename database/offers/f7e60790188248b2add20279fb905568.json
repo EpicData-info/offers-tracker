@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "creationDate": "2020-01-04T06:23:32.562Z",
-  "lastModifiedDate": "2020-05-13T21:00:42.284Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/a-womans-lot",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "A Woman's Lot",
   "id": "f7e60790188248b2add20279fb905568",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "A Woman's Lot",
   "description": "A Woman's Lot",
   "longDescription": "Classic DLC",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/2560x1440_WL-2560x1440-b46d69463cdcd0bb495898316c1b692b.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/a-womans-lot",
+  "urlSlug": "a-woman-s-lot",
+  "creationDate": "2020-01-04T06:23:32.562Z",
+  "lastModifiedDate": "2020-05-13T21:00:42.284Z",
+  "effectiveDate": "2020-02-13T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
-    {
-      "id": "42a607b35e1b4728afbc26c88080f429",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Warhorse Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/a-womans-lot"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,108 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Warhorse Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/a-womans-lot"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-02-05T18:43:05.862Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/2560x1440_WL-2560x1440-b46d69463cdcd0bb495898316c1b692b.jpg",
+      "md5": "b46d69463cdcd0bb495898316c1b692b",
+      "size": 1827192,
+      "uploadedDate": "2020-02-24T20:49:54.945Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T15:21:23.228Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T15:21:32.051Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "42a607b35e1b4728afbc26c88080f429"
+    }
+  ],
+  "catalogNs": null
 }

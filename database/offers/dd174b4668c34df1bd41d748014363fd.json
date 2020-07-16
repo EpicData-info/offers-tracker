@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-10-18T01:57:10.004Z",
-  "lastModifiedDate": "2020-04-29T00:38:36.503Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "AntbirdDevAudience",
   "id": "dd174b4668c34df1bd41d748014363fd",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "AntbirdDevAudience",
   "description": "AntbirdDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "antbirddevaudience",
+  "creationDate": "2019-10-18T01:57:10.004Z",
+  "lastModifiedDate": "2020-04-29T00:38:36.503Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b322c085c7804f94b2d48d7b917fe354",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "{}"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "b322c085c7804f94b2d48d7b917fe354"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

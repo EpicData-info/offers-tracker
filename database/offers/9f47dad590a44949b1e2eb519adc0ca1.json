@@ -1,63 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-19T00:00:00.000Z",
-  "creationDate": "2020-02-18T21:28:30.255Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "rainbow-six-siege/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Rainbow Six Siege",
   "id": "9f47dad590a44949b1e2eb519adc0ca1",
   "namespace": "carnation",
+  "title": "Rainbow Six Siege",
   "description": "Rainbow Six Siege Standard Edition Y5",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC-ALL_Extra_Visuals_Description_1920x1080-1920x1080-b9d9a232e21f0792765111e8e3b0861a9b4fb5b8.jpg"
-    }
-  ],
+  "productSlug": "rainbow-six-siege/home",
+  "urlSlug": "carnationgeneraly5audience",
+  "creationDate": "2020-02-18T21:28:30.255Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-08-19T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "db458f11048f43c2846368d166acba91",
-      "namespace": "carnation",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +113,84 @@
       "value": "rainbow-six-siege/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075.jpg",
+      "md5": "98dab23be171fab753c54e811fecf075",
+      "size": 283768,
+      "uploadedDate": "2019-08-16T23:58:21.111Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
+      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
+      "size": 190772,
+      "uploadedDate": "2019-08-16T23:58:33.434Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/R6S_Logo_Color_1000x375-1000x375-8e2b21c06400f36fae8d6a6695cd7155.png",
+      "md5": "8e2b21c06400f36fae8d6a6695cd7155",
+      "size": 24730,
+      "uploadedDate": "2019-08-16T23:58:44.512Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-7ae4d9785fcb96b0ef214654210a0e3e.jpg",
+      "md5": "7ae4d9785fcb96b0ef214654210a0e3e",
+      "size": 190772,
+      "uploadedDate": "2019-08-16T23:58:33.434Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg",
+      "md5": "13056fa642ff879148895f147afaf6c8",
+      "size": 41586,
+      "uploadedDate": "2019-08-20T01:13:59.699Z",
+      "width": 311,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/CodeRedemptionR6S_Generic_Packshot_Standard-311x440-13056fa642ff879148895f147afaf6c8.jpg",
+      "md5": "13056fa642ff879148895f147afaf6c8",
+      "size": 41586,
+      "uploadedDate": "2019-08-20T01:14:10.311Z",
+      "width": 311,
+      "height": 440
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png",
+      "md5": "75ee5be4802354e80b9041728c4343cb",
+      "size": 66389,
+      "uploadedDate": "2019-11-21T13:14:58.302Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/RAINBOW_SIX_SIEGE_STANDARD_PC-ALL_Extra_Visuals_Description_1920x1080-1920x1080-b9d9a232e21f0792765111e8e3b0861a9b4fb5b8.jpg",
+      "md5": "26cec7c60c08f3a5f9c4527ac0175129",
+      "size": 198660,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "db458f11048f43c2846368d166acba91"
+    }
+  ],
+  "catalogNs": null
 }

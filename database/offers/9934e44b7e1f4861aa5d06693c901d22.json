@@ -1,79 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-28T15:00:00.000Z",
-  "creationDate": "2020-02-18T02:56:21.601Z",
-  "lastModifiedDate": "2020-05-26T15:00:00.286Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SMITE Digital Deluxe Edition 2020",
   "id": "9934e44b7e1f4861aa5d06693c901d22",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "SMITE Digital Deluxe Edition 2020",
   "description": "SMITE Digital Deluxe Edition 2020",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_860x1148-860x1148-2cc7f3123284e65f6541f1c5ccd18553.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_860x1148-860x1148-2cc7f3123284e65f6541f1c5ccd18553.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_2560x1440-2560x1440-c4402eb06f887108d63db64efe28f832.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "digital-deluxe",
+  "creationDate": "2020-02-18T02:56:21.601Z",
+  "lastModifiedDate": "2020-05-26T15:00:00.286Z",
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "10fd79420a354bf9a887d4f1f88b7c5a",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    },
-    {
-      "id": "504bb34bbeb94ee08dd5091c02797758",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    },
-    {
-      "id": "20b823a61f184cac91497f7ab715fd2d",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    },
-    {
-      "id": "bdefdac5331d434b83d6da4a103c12b8",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    },
-    {
-      "id": "8c3383782a064adb80d93816c4267b08",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "{}"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -88,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_860x1148-860x1148-2cc7f3123284e65f6541f1c5ccd18553.jpg",
+      "md5": "2cc7f3123284e65f6541f1c5ccd18553",
+      "size": 231401,
+      "uploadedDate": "2020-04-29T19:19:58.583Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_860x1148-860x1148-2cc7f3123284e65f6541f1c5ccd18553.jpg",
+      "md5": "2cc7f3123284e65f6541f1c5ccd18553",
+      "size": 231401,
+      "uploadedDate": "2020-04-29T19:20:08.321Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_DigitalDeluxe_2560x1440-2560x1440-c4402eb06f887108d63db64efe28f832.jpg",
+      "md5": "c4402eb06f887108d63db64efe28f832",
+      "size": 527502,
+      "uploadedDate": "2020-04-29T19:20:15.613Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "10fd79420a354bf9a887d4f1f88b7c5a"
+    },
+    {
+      "id": "504bb34bbeb94ee08dd5091c02797758"
+    },
+    {
+      "id": "20b823a61f184cac91497f7ab715fd2d"
+    },
+    {
+      "id": "bdefdac5331d434b83d6da4a103c12b8"
+    },
+    {
+      "id": "8c3383782a064adb80d93816c4267b08"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-21T22:51:54.052Z",
-  "lastModifiedDate": "2020-07-14T19:02:30.264Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC 3",
   "id": "97e3b98902594a9ea0d0337352f22c21",
   "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "title": "DLC 3",
   "description": "Homeland Security Cosmetic DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dlc-02",
+  "creationDate": "2019-11-21T22:51:54.052Z",
+  "lastModifiedDate": "2020-07-14T19:02:30.264Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "fbb9067ad3ee4037ad1fbe9e6ff50988",
-      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fbb9067ad3ee4037ad1fbe9e6ff50988"
+    }
+  ],
+  "catalogNs": null
 }

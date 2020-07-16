@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-04-01T11:34:00.000Z",
-  "creationDate": "2018-12-12T16:35:00.330Z",
-  "lastModifiedDate": "2020-05-22T12:50:21.461Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Turtle Dev Access",
   "id": "6a3bb4698aed450c89cd75e507f0780d",
   "namespace": "turtle",
+  "title": "Turtle Dev Access",
   "description": "Turtle Dev Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/turtle/offer/maneaterIcon-1288x1450-70f0440a1a5f0f416aa4257fedf5be40.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/turtle/offer/maneaterIcon-1288x1450-70f0440a1a5f0f416aa4257fedf5be40.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "turtledevaudience",
+  "creationDate": "2018-12-12T16:35:00.330Z",
+  "lastModifiedDate": "2020-05-22T12:50:21.461Z",
+  "effectiveDate": "2050-04-01T11:34:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
-    {
-      "id": "56d28000ef1f4f5686687aa4cef5aae5",
-      "namespace": "turtle",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -45,6 +31,32 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/turtle/offer/maneaterIcon-1288x1450-70f0440a1a5f0f416aa4257fedf5be40.jpg",
+      "md5": "70f0440a1a5f0f416aa4257fedf5be40",
+      "size": 369977,
+      "uploadedDate": "2019-10-24T01:51:11.314Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/turtle/offer/maneaterIcon-1288x1450-70f0440a1a5f0f416aa4257fedf5be40.jpg",
+      "md5": "70f0440a1a5f0f416aa4257fedf5be40",
+      "size": 369977,
+      "uploadedDate": "2019-10-24T01:51:19.002Z",
+      "width": 1288,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "56d28000ef1f4f5686687aa4cef5aae5"
+    }
+  ],
+  "catalogNs": null
 }

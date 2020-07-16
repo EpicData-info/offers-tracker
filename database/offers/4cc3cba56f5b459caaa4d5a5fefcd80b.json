@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-07T18:06:40.534Z",
-  "lastModifiedDate": "2019-10-30T18:12:18.890Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "WoodpeckerDevAudience",
   "id": "4cc3cba56f5b459caaa4d5a5fefcd80b",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "title": "WoodpeckerDevAudience",
   "description": "WoodpeckerDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "woodpeckerdevaudience",
+  "creationDate": "2019-08-07T18:06:40.534Z",
+  "lastModifiedDate": "2019-10-30T18:12:18.890Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "145d30846f2a452a8f44e22a5e09bbd3",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "{}"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "145d30846f2a452a8f44e22a5e09bbd3"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

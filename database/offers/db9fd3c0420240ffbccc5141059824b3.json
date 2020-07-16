@@ -1,59 +1,126 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-27T16:00:00.000Z",
-  "creationDate": "2019-02-08T21:59:22.834Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-origins",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Origins",
   "id": "db9fd3c0420240ffbccc5141059824b3",
   "namespace": "camellia",
+  "title": "Assassin's Creed Origins",
   "description": "Assassin's Creed Origins",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S1-ACOD-1920x1080-e467d101a2fc554e331e23fa9ded52e5.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACORating-842x404-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_Standard-330x440-8d4fb4c5e90d59330f9f3aa2ac7d87da.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/S2-ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12001_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-1fc629970a67d3ec95dbce7f08c0a790c0263482.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-origins",
+  "urlSlug": "camelliageneralaudience",
+  "creationDate": "2019-02-08T21:59:22.834Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d57ccd8e249546378ae2b5f5a0e2381d",
-      "namespace": "camellia",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-16T14:24:42.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +137,75 @@
       "value": "assassins-creed-origins"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg",
+      "md5": "621a727d381ffe0cffe869c1e23bc741",
+      "size": 251487,
+      "uploadedDate": "2019-11-18T22:08:03.972Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1-ACOD-1920x1080-e467d101a2fc554e331e23fa9ded52e5.jpg",
+      "md5": "e467d101a2fc554e331e23fa9ded52e5",
+      "size": 229334,
+      "uploadedDate": "2019-11-18T22:08:18.155Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2_ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg",
+      "md5": "621a727d381ffe0cffe869c1e23bc741",
+      "size": 251487,
+      "uploadedDate": "2019-11-18T22:08:03.972Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACORating-842x404-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "size": 76578,
+      "uploadedDate": "2019-11-26T18:04:22.177Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_Standard-330x440-8d4fb4c5e90d59330f9f3aa2ac7d87da.jpg",
+      "md5": "8d4fb4c5e90d59330f9f3aa2ac7d87da",
+      "size": 157887,
+      "uploadedDate": "2019-11-26T18:05:11.315Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/S2-ACOD-1280x1440-621a727d381ffe0cffe869c1e23bc741.jpg",
+      "md5": "621a727d381ffe0cffe869c1e23bc741",
+      "size": 251487,
+      "uploadedDate": "2019-11-26T18:05:26.740Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12001_EGST_BannerBundle_STD_US_Edition_Capsule_1920X1080-1920x1080-1fc629970a67d3ec95dbce7f08c0a790c0263482.jpg",
+      "md5": "220d61d8dcf06d37810ecd5ab11b4a81",
+      "size": 216670,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d57ccd8e249546378ae2b5f5a0e2381d"
+    }
+  ],
+  "catalogNs": null
 }

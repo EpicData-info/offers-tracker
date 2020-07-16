@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-15T05:00:00.000Z",
-  "creationDate": "2019-03-18T20:26:17.906Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.666Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "ArtemisiaDevAudience",
   "id": "0721a905ac6c4655be020a965fcf735b",
   "namespace": "artemisia",
+  "title": "ArtemisiaDevAudience",
   "description": "ArtemisiaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "artemisiageneralaudience",
+  "creationDate": "2019-03-18T20:26:17.906Z",
+  "lastModifiedDate": "2020-04-29T00:46:34.666Z",
+  "effectiveDate": "2019-03-15T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fbc8f270120c4391928919f27bfe3ba2",
-      "namespace": "artemisia",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Ubisoft Entertainment"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "fbc8f270120c4391928919f27bfe3ba2"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,59 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-24T15:00:00.000Z",
-  "creationDate": "2019-05-05T20:52:24.736Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "layers-of-fear/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Layers of Fear",
   "id": "6467d7c966244e40a72d776ea430f357",
   "namespace": "04467b70295342a79381467353f23955",
+  "title": "Layers of Fear",
   "description": "Layers of Fear",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_Logo_Color-983x742-886dac16239fb58014ba143dc0dd6e0c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/offer/CodeRedemption_LayersOfFear-340x440-be97c0fbfef05dfd13d594eb5cbe82aa.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/offer/CodeRedemption_LayersOfFear-340x440-be97c0fbfef05dfd13d594eb5cbe82aa.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg"
-    }
-  ],
+  "productSlug": "layers-of-fear/home",
+  "urlSlug": "cilantrogeneralaudience",
+  "creationDate": "2019-05-05T20:52:24.736Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-10-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
     "name": "Aspyr Media, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "93f7525ce451493b89fed907c873c57d",
-      "namespace": "04467b70295342a79381467353f23955",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1127",
+      "name": "INVESTIGATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2020-06-15T15:37:04.186Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +132,75 @@
       "value": "layers-of-fear/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg",
+      "md5": "10b6c8c187c44653d566ec079b030e85",
+      "size": 207106,
+      "uploadedDate": "2019-05-21T12:49:36.063Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg",
+      "md5": "61daf14a7bf8e9c71650cadff259d386",
+      "size": 143618,
+      "uploadedDate": "2019-05-21T12:49:50.105Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_Logo_Color-983x742-886dac16239fb58014ba143dc0dd6e0c.png",
+      "md5": "886dac16239fb58014ba143dc0dd6e0c",
+      "size": 91767,
+      "uploadedDate": "2019-05-21T12:50:02.046Z",
+      "width": 983,
+      "height": 742
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg",
+      "md5": "61daf14a7bf8e9c71650cadff259d386",
+      "size": 143618,
+      "uploadedDate": "2019-05-21T12:49:50.105Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/offer/CodeRedemption_LayersOfFear-340x440-be97c0fbfef05dfd13d594eb5cbe82aa.jpg",
+      "md5": "be97c0fbfef05dfd13d594eb5cbe82aa",
+      "size": 56493,
+      "uploadedDate": "2019-10-16T22:47:23.370Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/04467b70295342a79381467353f23955/offer/CodeRedemption_LayersOfFear-340x440-be97c0fbfef05dfd13d594eb5cbe82aa.jpg",
+      "md5": "be97c0fbfef05dfd13d594eb5cbe82aa",
+      "size": 56493,
+      "uploadedDate": "2019-10-16T22:47:37.824Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg",
+      "md5": "10b6c8c187c44653d566ec079b030e85",
+      "size": 207106,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "93f7525ce451493b89fed907c873c57d"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "creationDate": "2020-02-26T15:27:40.660Z",
-  "lastModifiedDate": "2020-04-14T14:01:57.243Z",
-  "viewableDate": null,
-  "productSlug": "offworld-trading-company",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Offworld Trading Company: Soundtrack DLC",
   "id": "1c2cc5ef7619434bb58f9d92ef3f1b67",
   "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Offworld Trading Company: Soundtrack DLC",
   "description": "Offworld Trading Company: Soundtrack DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg"
-    }
-  ],
+  "productSlug": "offworld-trading-company",
+  "urlSlug": "snappersoundtrack",
+  "creationDate": "2020-02-26T15:27:40.660Z",
+  "lastModifiedDate": "2020-04-14T14:01:57.243Z",
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "items": [
-    {
-      "id": "216ebbc155d84484b109b01125ab92a3",
-      "namespace": "e8882546f28e4832af823c646aed232e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "offworld-trading-company"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -60,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg",
+      "md5": "cf8031f2b372f12329cfb768a0a2ba61",
+      "size": 48952,
+      "uploadedDate": "2020-03-05T15:42:25.423Z",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg",
+      "md5": "cf8031f2b372f12329cfb768a0a2ba61",
+      "size": 48952,
+      "uploadedDate": "2020-03-05T15:42:33.842Z",
+      "width": 320,
+      "height": 180
+    }
+  ],
+  "items": [
+    {
+      "id": "216ebbc155d84484b109b01125ab92a3"
+    }
+  ],
+  "catalogNs": null
 }

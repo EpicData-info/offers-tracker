@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2020-01-11T03:32:02.609Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "faeria/chronicles-of-gagana",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Chronicles of Gagana DLC",
   "id": "c1b8be24533542949115c43cbca26114",
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "title": "Chronicles of Gagana DLC",
   "description": "Chronicles of Gagana DLC",
   "longDescription": "13.99",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_COG_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-44f6ca041352b226906a9e1231e7f22106c99b22.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_COG_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-33f3a236db64336f2dad867a54cb369f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg"
-    }
-  ],
+  "productSlug": "faeria/chronicles-of-gagana",
+  "urlSlug": "dlc5",
+  "creationDate": "2020-01-11T03:32:02.609Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
-    {
-      "id": "b3eb5332493d43ab99341e33463714d2",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "faeria/chronicles-of-gagana"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,55 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/chronicles-of-gagana"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_COG_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-44f6ca041352b226906a9e1231e7f22106c99b22.jpg",
+      "md5": "ecfe00ffd4a229f030a2eeeb47631c69",
+      "size": 418790,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_COG_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-33f3a236db64336f2dad867a54cb369f.jpg",
+      "md5": "33f3a236db64336f2dad867a54cb369f",
+      "size": 836399,
+      "uploadedDate": "2020-02-13T15:39:45.354Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg",
+      "md5": "8892e42988d4d5aa613ca47cd3ea13d2",
+      "size": 280766,
+      "uploadedDate": "2020-04-15T16:20:14.379Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Chronicles_Portrait-Offer-860x1148-8892e42988d4d5aa613ca47cd3ea13d2.jpg",
+      "md5": "8892e42988d4d5aa613ca47cd3ea13d2",
+      "size": 280766,
+      "uploadedDate": "2020-04-15T16:20:30.933Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "b3eb5332493d43ab99341e33463714d2"
+    }
+  ],
+  "catalogNs": null
 }

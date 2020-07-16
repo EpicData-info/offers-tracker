@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-01T00:00:00.000Z",
-  "creationDate": "2019-06-14T18:13:11.353Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "yaga/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Yaga",
   "id": "16b8d80102a64760b02276bce4429d3b",
   "namespace": "bec57b5341ad4294b005a7dd18691419",
+  "title": "Yaga",
   "description": "Yaga",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_Primary-2560x1440-bf9599c91ef87274fc002f48af90e831.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_MainGame_EpicGamesStore_S1_Store_Primary-2560x1440-b4b65ed4de8e386c9594c0f1deb9735446f9faec.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
-    }
-  ],
+  "productSlug": "yaga/home",
+  "urlSlug": "yagageneralaudience",
+  "creationDate": "2019-06-14T18:13:11.353Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-11-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1fe4071bc2ae4a2fa957af651d77720d",
-      "namespace": "bec57b5341ad4294b005a7dd18691419",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1333",
+      "name": "ACTION RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2020-07-06T13:49:18.799Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "yaga/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
+      "md5": "19d2291a8636b3ce1f246d68045411d8",
+      "size": 476971,
+      "uploadedDate": "2019-11-15T19:56:43.583Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_Primary-2560x1440-bf9599c91ef87274fc002f48af90e831.jpg",
+      "md5": "bf9599c91ef87274fc002f48af90e831",
+      "size": 118942,
+      "uploadedDate": "2019-11-23T03:11:34.338Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
+      "md5": "19d2291a8636b3ce1f246d68045411d8",
+      "size": 476971,
+      "uploadedDate": "2019-11-15T19:56:43.583Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_MainGame_EpicGamesStore_S1_Store_Primary-2560x1440-b4b65ed4de8e386c9594c0f1deb9735446f9faec.jpg",
+      "md5": "bf9599c91ef87274fc002f48af90e831",
+      "size": 118942,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
+      "md5": "19d2291a8636b3ce1f246d68045411d8",
+      "size": 476971,
+      "uploadedDate": "2020-04-20T15:17:49.969Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec57b5341ad4294b005a7dd18691419/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
+      "md5": "19d2291a8636b3ce1f246d68045411d8",
+      "size": 476971,
+      "uploadedDate": "2020-04-20T15:18:09.088Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1fe4071bc2ae4a2fa957af651d77720d"
+    }
+  ],
+  "catalogNs": null
 }

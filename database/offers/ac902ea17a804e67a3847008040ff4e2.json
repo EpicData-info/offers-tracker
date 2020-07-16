@@ -1,57 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-05T17:00:00.000Z",
-  "creationDate": "2019-01-08T02:41:10.364Z",
-  "lastModifiedDate": "2020-05-12T18:39:17.451Z",
-  "viewableDate": "2019-01-07T11:56:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy's The Division 2 Gold Edition",
   "id": "ac902ea17a804e67a3847008040ff4e2",
   "namespace": "impala",
+  "title": "Tom Clancy's The Division 2 Gold Edition",
   "description": "Tom Clancy's The Division 2 Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-f6a684a17f39b9a7ef78f8b945c66fbc.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/gold-1527x2808-36183b0941f50ff42e9d9aac97891933.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "impalagoldaudience",
+  "creationDate": "2019-01-08T02:41:10.364Z",
+  "lastModifiedDate": "2020-05-12T18:39:17.451Z",
+  "effectiveDate": "2019-06-05T17:00:00.000Z",
+  "viewableDate": "2019-01-07T11:56:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "db5e601f86a0497fad1ef43340af2f00",
-      "namespace": "impala",
-      "developer": null
-    },
-    {
-      "id": "b5a4cf14f176476e904d0bb101fcb5f2",
-      "namespace": "impala",
-      "developer": null
-    },
-    {
-      "id": "033be27c70aa44c58cb5245cad2865db",
-      "namespace": "impala",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -63,6 +34,43 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-f6a684a17f39b9a7ef78f8b945c66fbc.jpg",
+      "md5": "f6a684a17f39b9a7ef78f8b945c66fbc",
+      "size": 86148,
+      "uploadedDate": "2019-01-09T15:08:54.543Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/gold-1527x2808-36183b0941f50ff42e9d9aac97891933.jpg",
+      "md5": "36183b0941f50ff42e9d9aac97891933",
+      "size": 526850,
+      "uploadedDate": "2019-02-10T17:25:23.077Z",
+      "width": 1527,
+      "height": 2808
+    }
+  ],
+  "items": [
+    {
+      "id": "db5e601f86a0497fad1ef43340af2f00"
+    },
+    {
+      "id": "b5a4cf14f176476e904d0bb101fcb5f2"
+    },
+    {
+      "id": "033be27c70aa44c58cb5245cad2865db"
+    }
+  ],
+  "catalogNs": null
 }

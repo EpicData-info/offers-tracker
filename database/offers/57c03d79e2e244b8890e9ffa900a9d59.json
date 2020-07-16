@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-05T15:00:00.000Z",
-  "creationDate": "2019-11-06T01:30:31.262Z",
-  "lastModifiedDate": "2019-12-06T21:46:13.873Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "9200 Gems",
   "id": "57c03d79e2e244b8890e9ffa900a9d59",
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "title": "9200 Gems",
   "description": "9200 Gems",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "9200-gems",
+  "creationDate": "2019-11-06T01:30:31.262Z",
+  "lastModifiedDate": "2019-12-06T21:46:13.873Z",
+  "effectiveDate": "2050-08-05T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
     "name": "Wizards of the Coast"
   },
-  "items": [
-    {
-      "id": "85dfb257945f418fbd59301edbbff1e9",
-      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "85dfb257945f418fbd59301edbbff1e9"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-14T12:00:00.000Z",
-  "creationDate": "2019-03-19T02:21:03.629Z",
-  "lastModifiedDate": "2020-05-13T20:33:56.883Z",
-  "viewableDate": null,
-  "productSlug": "the-sinking-city/home#dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Investigator Pack DLC",
   "id": "32e74eec27a146758e19ee8e904ab81c",
   "namespace": "middlemist",
+  "title": "Investigator Pack DLC",
   "description": "Investigator Pack DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/TSC_INVESTIGATOR-2560x1440-f9e627cee2faa824493ff1a928286393ed796392.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
-    }
-  ],
+  "productSlug": "the-sinking-city/home#dlc",
+  "urlSlug": "investigator-pack-dlc",
+  "creationDate": "2019-03-19T02:21:03.629Z",
+  "lastModifiedDate": "2020-05-13T20:33:56.883Z",
+  "effectiveDate": "2019-06-14T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3ce3782bfb70481aa4868d81b38c8e03",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +133,48 @@
       "value": "the-sinking-city/home#dlc"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Standard_G2-840x1000-ba36ff60d4a74fb8e32254c580673817.png",
+      "md5": "ba36ff60d4a74fb8e32254c580673817",
+      "size": 401713,
+      "uploadedDate": "2019-04-25T18:34:26.409Z",
+      "width": 840,
+      "height": 1000
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/TSC_INVESTIGATOR-2560x1440-f9e627cee2faa824493ff1a928286393ed796392.jpg",
+      "md5": "a2416208726b9e384f14953a786b585c",
+      "size": 289128,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg",
+      "md5": "b7234aa1d26c5ce83c95b2097e8442ad",
+      "size": 119290,
+      "uploadedDate": "2020-04-20T21:42:48.769Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg",
+      "md5": "b7234aa1d26c5ce83c95b2097e8442ad",
+      "size": 119290,
+      "uploadedDate": "2020-04-20T21:42:58.225Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3ce3782bfb70481aa4868d81b38c8e03"
+    }
+  ],
+  "catalogNs": null
 }

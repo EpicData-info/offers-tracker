@@ -1,43 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-06-01T00:00:00.000Z",
-  "creationDate": "2019-06-06T22:39:21.919Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "shenmue-3/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shenmue III",
   "id": "4045372b7cc449b3bcfbe4af8d31bf10",
   "namespace": "epic",
+  "title": "Shenmue III",
   "description": "Shenmue III",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game-Logo_ShenmueIII-3168x692-b925655b198cf955c0802f4581faf6a3.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Shenmue3_primarypromo-2580x1450-a41324c9123d644b2dc480c0caf6aaf2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Shenmue3_portraitpromo-1280x1420-1e524e5b26f65dfb4dcd44d3a7821419.jpg"
-    }
-  ],
+  "productSlug": "shenmue-3/home",
+  "urlSlug": "shenmue-ii",
+  "creationDate": "2019-06-06T22:39:21.919Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-06-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": "30e0d1b99ced430b825239b395ff140c",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +96,39 @@
       "value": "30e0d1b99ced430b825239b395ff140c"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game-Logo_ShenmueIII-3168x692-b925655b198cf955c0802f4581faf6a3.png",
+      "md5": "b925655b198cf955c0802f4581faf6a3",
+      "size": 170164,
+      "uploadedDate": "2019-06-06T22:36:50.222Z",
+      "width": 3168,
+      "height": 692
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Shenmue3_primarypromo-2580x1450-a41324c9123d644b2dc480c0caf6aaf2.jpg",
+      "md5": "a41324c9123d644b2dc480c0caf6aaf2",
+      "size": 498092,
+      "uploadedDate": "2019-06-06T22:36:32.685Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Shenmue3_portraitpromo-1280x1420-1e524e5b26f65dfb4dcd44d3a7821419.jpg",
+      "md5": "1e524e5b26f65dfb4dcd44d3a7821419",
+      "size": 315411,
+      "uploadedDate": "2019-06-06T22:36:41.711Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": "30e0d1b99ced430b825239b395ff140c",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Deep Silver"
-      },
-      {
-        "key": "developerName",
-        "value": "YsNet"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "shenmue-3/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

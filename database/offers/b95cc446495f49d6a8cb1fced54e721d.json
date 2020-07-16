@@ -1,39 +1,95 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "creationDate": "2020-02-22T01:11:11.711Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2020-03-05T05:00:00.000Z",
-  "productSlug": "anodyne-2-return-to-dust/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anodyne 2: Return to Dust",
   "id": "b95cc446495f49d6a8cb1fced54e721d",
   "namespace": "epic",
+  "title": "Anodyne 2: Return to Dust",
   "description": "Anodyne 2: Return to Dust",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S1-2560x1440-7e931f46d3a81041abe36c78ab25bb2b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S2-860x1148-aac459f705d6d93488ac320c6433bdd3.jpg"
-    }
-  ],
+  "productSlug": "anodyne-2-return-to-dust/home",
+  "urlSlug": "anodyne-2-return-to-dust",
+  "creationDate": "2020-02-22T01:11:11.711Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "viewableDate": "2020-03-05T05:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-lj8mtqmxvzj3vay37vhmwu2ptycae8",
     "name": "Analgesic Productions"
   },
-  "items": [
+  "linkedOfferId": "69d2af5db6994e2db61d70810ce563af",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +114,30 @@
       "value": "anodyne-2-return-to-dust/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S1-2560x1440-7e931f46d3a81041abe36c78ab25bb2b.jpg",
+      "md5": "7e931f46d3a81041abe36c78ab25bb2b",
+      "size": 454808,
+      "uploadedDate": "2020-02-22T01:10:53.024Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Anodyne2ReturntoDust_AnalgesicProductions_S2-860x1148-aac459f705d6d93488ac320c6433bdd3.jpg",
+      "md5": "aac459f705d6d93488ac320c6433bdd3",
+      "size": 432085,
+      "uploadedDate": "2020-02-22T01:11:02.865Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "69d2af5db6994e2db61d70810ce563af",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Analgesic Productions"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "anodyne-2-return-to-dust/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

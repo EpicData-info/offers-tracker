@@ -1,61 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2019-10-22T01:22:57.318Z",
-  "lastModifiedDate": "2020-07-10T17:17:11.989Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Season Pass",
   "id": "dd3d7baaf5654413ad11b58adf5cf7ac",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "title": "Season Pass",
   "description": "Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S1-2560x1440-ce97f079cae74a45350403bac78f5565.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "season-pass",
+  "creationDate": "2019-10-22T01:22:57.318Z",
+  "lastModifiedDate": "2020-07-10T17:17:11.989Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
-    {
-      "id": "72620675f0e549f39d8e28b77fb88303",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
-    },
-    {
-      "id": "a377cf92916e4a2893d1a972bbd40669",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
-    },
-    {
-      "id": "89867f8b0e79421698e4705a72a48b49",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
-    },
-    {
-      "id": "fa7463c069a74d07aadf315df9b4e28b",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -67,6 +34,50 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S1-2560x1440-ce97f079cae74a45350403bac78f5565.jpg",
+      "md5": "ce97f079cae74a45350403bac78f5565",
+      "size": 747765,
+      "uploadedDate": "2020-06-11T06:29:46.428Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg",
+      "md5": "890275a364a60087d54a8aa606deea69",
+      "size": 564923,
+      "uploadedDate": "2020-06-11T06:29:59.363Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2SeasonPass_Team17DigitalLtd_SeasonPass_S2-1200x1600-890275a364a60087d54a8aa606deea69.jpg",
+      "md5": "890275a364a60087d54a8aa606deea69",
+      "size": 564923,
+      "uploadedDate": "2020-06-11T06:30:12.693Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "72620675f0e549f39d8e28b77fb88303"
+    },
+    {
+      "id": "a377cf92916e4a2893d1a972bbd40669"
+    },
+    {
+      "id": "89867f8b0e79421698e4705a72a48b49"
+    },
+    {
+      "id": "fa7463c069a74d07aadf315df9b4e28b"
+    }
+  ],
+  "catalogNs": null
 }

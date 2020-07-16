@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-07-10T14:45:28.117Z",
-  "lastModifiedDate": "2020-05-28T15:30:16.481Z",
-  "viewableDate": null,
-  "productSlug": "borderlands-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Borderlands 2",
   "id": "529b04a9c9094cc4b87e9149c4726fc0",
   "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
+  "title": "Borderlands 2",
   "description": "Borderlands 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S1-2560x1440-e4f153cd792f973e00583178d8408128.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S1-2560x1440-e4f153cd792f973e00583178d8408128.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg"
-    }
-  ],
+  "productSlug": "borderlands-2",
+  "urlSlug": "dodogeneralaudience",
+  "creationDate": "2019-07-10T14:45:28.117Z",
+  "lastModifiedDate": "2020-05-28T15:30:16.481Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "aeee0bdf01f44f9ba56751358f00850a",
-      "namespace": "f4a7772a4da24870a3ea6dfb8aeac662",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +129,66 @@
       "value": "borderlands-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S1-2560x1440-e4f153cd792f973e00583178d8408128.jpg",
+      "md5": "e4f153cd792f973e00583178d8408128",
+      "size": 495970,
+      "uploadedDate": "2020-05-27T18:48:41.584Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+      "md5": "5fac54ddb8789d5c4bf354100058ca67",
+      "size": 472912,
+      "uploadedDate": "2020-05-27T18:48:48.395Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+      "md5": "5fac54ddb8789d5c4bf354100058ca67",
+      "size": 472912,
+      "uploadedDate": "2020-05-27T18:49:12.983Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+      "md5": "5fac54ddb8789d5c4bf354100058ca67",
+      "size": 472912,
+      "uploadedDate": "2020-05-27T18:49:23.771Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S1-2560x1440-e4f153cd792f973e00583178d8408128.jpg",
+      "md5": "e4f153cd792f973e00583178d8408128",
+      "size": 495970,
+      "uploadedDate": "2020-05-27T18:49:33.138Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f4a7772a4da24870a3ea6dfb8aeac662/offer/EGS_Borderlands2_GearboxSoftware_S2-860x1148-5fac54ddb8789d5c4bf354100058ca67.jpg",
+      "md5": "5fac54ddb8789d5c4bf354100058ca67",
+      "size": 472912,
+      "uploadedDate": "2020-05-27T18:49:44.068Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "aeee0bdf01f44f9ba56751358f00850a"
+    }
+  ],
+  "catalogNs": null
 }

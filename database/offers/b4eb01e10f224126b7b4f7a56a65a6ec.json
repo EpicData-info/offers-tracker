@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-24T05:00:00.000Z",
-  "creationDate": "2019-03-08T23:08:12.628Z",
-  "lastModifiedDate": "2020-04-27T05:34:25.247Z",
-  "viewableDate": null,
-  "productSlug": "walking-dead-season-two/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Walking Dead: Season Two",
   "id": "b4eb01e10f224126b7b4f7a56a65a6ec",
   "namespace": "buttercup",
+  "title": "The Walking Dead: Season Two",
   "description": "The Walking Dead: Season Two",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0-330x440-9de93f1b1c933298c155880a17f9a0e0.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg"
-    }
-  ],
+  "productSlug": "walking-dead-season-two/home",
+  "urlSlug": "buttercupgeneralaudience",
+  "creationDate": "2019-03-08T23:08:12.628Z",
+  "lastModifiedDate": "2020-04-27T05:34:25.247Z",
+  "effectiveDate": "2019-03-24T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "dd0948e8f27f4d579d35affe06ef16a0",
-      "namespace": "buttercup",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "walking-dead-season-two/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg",
+      "md5": "6a556758c201a1d526899c4484931158",
+      "size": 136798,
+      "uploadedDate": "2019-03-25T22:56:25.951Z",
+      "width": 1068,
+      "height": 600
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg",
+      "md5": "fe5ee549a3df9700211402f32a48c592",
+      "size": 181981,
+      "uploadedDate": "2019-03-25T22:56:58.539Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD2-Logo-color-600x423-5a1d11160df9d58de031094c6391668b.png",
+      "md5": "5a1d11160df9d58de031094c6391668b",
+      "size": 234435,
+      "uploadedDate": "2019-03-26T03:28:20.422Z",
+      "width": 600,
+      "height": 423
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWD2_GameBoxTall-1280x1440-fe5ee549a3df9700211402f32a48c592.jpg",
+      "md5": "fe5ee549a3df9700211402f32a48c592",
+      "size": 181981,
+      "uploadedDate": "2019-03-25T22:56:58.539Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0.png",
+      "md5": "9de93f1b1c933298c155880a17f9a0e0",
+      "size": 100177,
+      "uploadedDate": "2019-03-26T01:53:54.057Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/buttercup/offer/TWD2_CodeRedemption-330x440-9de93f1b1c933298c155880a17f9a0e0-330x440-9de93f1b1c933298c155880a17f9a0e0.png",
+      "md5": "9de93f1b1c933298c155880a17f9a0e0",
+      "size": 100177,
+      "uploadedDate": "2019-04-23T20:17:12.982Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TWD2_PrimaryPromo_GameBoxWide-1068x600-6a556758c201a1d526899c4484931158.jpg",
+      "md5": "6a556758c201a1d526899c4484931158",
+      "size": 136798,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1068,
+      "height": 600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "dd0948e8f27f4d579d35affe06ef16a0"
+    }
+  ],
+  "catalogNs": null
 }

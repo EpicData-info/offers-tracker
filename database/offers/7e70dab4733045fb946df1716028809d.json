@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-09-16T20:45:33.784Z",
-  "lastModifiedDate": "2019-09-16T20:49:48.478Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "ValkyrieDevAudience",
   "id": "7e70dab4733045fb946df1716028809d",
   "namespace": "d00c0abafa064bdcb28aa78f705b5716",
+  "title": "ValkyrieDevAudience",
   "description": "ValkyrieDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "valkyriedevaudience",
+  "creationDate": "2019-09-16T20:45:33.784Z",
+  "lastModifiedDate": "2019-09-16T20:49:48.478Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1fee465a18ba4e28a6842a914f3142b3",
-      "namespace": "d00c0abafa064bdcb28aa78f705b5716",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "1fee465a18ba4e28a6842a914f3142b3"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,64 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-19T15:00:00.000Z",
-  "creationDate": "2020-03-10T19:43:23.329Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "watch-dogs/access-granted-dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Watch Dogs Access Granted Pack DLC",
   "id": "a6d6dd654d33438b98d8910b616419ff",
   "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "title": "Watch Dogs Access Granted Pack DLC",
   "description": "Watch Dogs Access Granted Pack DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-70d525b6a2356129e7be652a4a7fa7ad.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-70d525b6a2356129e7be652a4a7fa7ad.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Portrait_1280x1420-1280x1420-79d9b654217c341282efea3af336d04c.png"
-    }
-  ],
+  "productSlug": "watch-dogs/access-granted-dlc",
+  "urlSlug": "jasperaccessgranteddlcaudience",
+  "creationDate": "2020-03-10T19:43:23.329Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "d77246e243244febae75c4ab004dbdac",
-      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
-      "developer": null
-    },
-    {
-      "id": "5c28699cfc2e495ea7b000fa6f11f3b8",
-      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "watch-dogs/access-granted-dlc"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -73,6 +37,62 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/access-granted-dlc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg",
+      "md5": "2e363bffdd57ed8fe6f5cb493e1ac58e",
+      "size": 43676,
+      "uploadedDate": "2020-03-10T03:34:17.023Z",
+      "width": 398,
+      "height": 190
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-70d525b6a2356129e7be652a4a7fa7ad.jpg",
+      "md5": "70d525b6a2356129e7be652a4a7fa7ad",
+      "size": 1046858,
+      "uploadedDate": "2020-03-18T22:12:59.617Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Landscape_2580x1450-2580x1450-70d525b6a2356129e7be652a4a7fa7ad.jpg",
+      "md5": "70d525b6a2356129e7be652a4a7fa7ad",
+      "size": 1046858,
+      "uploadedDate": "2020-03-18T22:13:12.096Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WatchDogs_Store_Portrait_1280x1420-1280x1420-79d9b654217c341282efea3af336d04c.png",
+      "md5": "79d9b654217c341282efea3af336d04c",
+      "size": 1945096,
+      "uploadedDate": "2020-03-18T22:13:35.784Z",
+      "width": 1280,
+      "height": 1420
+    }
+  ],
+  "items": [
+    {
+      "id": "d77246e243244febae75c4ab004dbdac"
+    },
+    {
+      "id": "5c28699cfc2e495ea7b000fa6f11f3b8"
+    }
+  ],
+  "catalogNs": null
 }

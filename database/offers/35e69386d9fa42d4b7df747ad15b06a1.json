@@ -1,39 +1,57 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-02T15:00:00.000Z",
-  "creationDate": "2020-03-26T23:41:54.921Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": "2020-03-12T15:00:00.000Z",
-  "productSlug": "trackmania-turbo/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Trackmania Turbo",
   "id": "35e69386d9fa42d4b7df747ad15b06a1",
   "namespace": "epic",
+  "title": "Trackmania Turbo",
   "description": "Trackmania Turbo",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png"
-    }
-  ],
+  "productSlug": "trackmania-turbo/home",
+  "urlSlug": "trackmania-turbo",
+  "creationDate": "2020-03-26T23:41:54.921Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "viewableDate": "2020-03-12T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": "f7246f00b7c44619974b60aa276fa606",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +76,30 @@
       "value": "trackmania-turbo/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Landscape_2580x1450-2580x1450-83d02c833425736410c8d9a95b2164b9.png",
+      "md5": "83d02c833425736410c8d9a95b2164b9",
+      "size": 8220320,
+      "uploadedDate": "2020-03-26T23:42:41.026Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TM2C_Store_Portrait_1280x1420-1280x1420-4cd4eff606caa725b4c1eb43735d41b8.png",
+      "md5": "4cd4eff606caa725b4c1eb43735d41b8",
+      "size": 3941452,
+      "uploadedDate": "2020-03-26T23:42:52.497Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": "f7246f00b7c44619974b60aa276fa606",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "CN"
-      },
-      {
-        "key": "developerName",
-        "value": "Ubisoft"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "trackmania-turbo"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

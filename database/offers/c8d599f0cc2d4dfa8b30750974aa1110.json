@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-14T17:00:00.000Z",
-  "creationDate": "2020-02-21T16:19:42.554Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.756Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Gunslinger Pack",
   "id": "c8d599f0cc2d4dfa8b30750974aa1110",
   "namespace": "azalea",
+  "title": "Gunslinger Pack",
   "description": "Gunslinger Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/azalea/item/RebelGalaxyOutlaw-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "founders-pack-04",
+  "creationDate": "2020-02-21T16:19:42.554Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.756Z",
+  "effectiveDate": "2019-06-14T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
-    {
-      "id": "338d8b49d80d4c13ac680ffcc5e40b25",
-      "namespace": "azalea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "developerName",
-      "value": "YAGER"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,50 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "YAGER"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/azalea/item/RebelGalaxyOutlaw-842x404-e25740f35341fe9c4da2f6d8fc4aa9e6.png",
+      "md5": "e25740f35341fe9c4da2f6d8fc4aa9e6",
+      "size": 66425,
+      "uploadedDate": "2019-06-20T19:00:17.910Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png",
+      "md5": "6891fea57cfa2f8d73f903dba3d8f8fd",
+      "size": 928701,
+      "uploadedDate": "2020-02-26T02:39:01.854Z",
+      "width": 672,
+      "height": 1104
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png",
+      "md5": "6891fea57cfa2f8d73f903dba3d8f8fd",
+      "size": 928701,
+      "uploadedDate": "2020-02-26T02:39:17.408Z",
+      "width": 672,
+      "height": 1104
+    }
+  ],
+  "items": [
+    {
+      "id": "338d8b49d80d4c13ac680ffcc5e40b25"
+    }
+  ],
+  "catalogNs": null
 }

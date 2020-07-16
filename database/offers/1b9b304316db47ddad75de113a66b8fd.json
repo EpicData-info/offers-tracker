@@ -1,43 +1,80 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-27T15:00:00.000Z",
-  "creationDate": "2020-03-19T17:57:35.888Z",
-  "lastModifiedDate": "2020-05-20T15:49:52.620Z",
-  "viewableDate": null,
-  "productSlug": "snowrunner/high-roller-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "High Roller Pack",
   "id": "1b9b304316db47ddad75de113a66b8fd",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "High Roller Pack",
   "description": "DLC2 - KHAN 39 Marshall + skin",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Horizontal-1360x766-1360x766-ccba4abc3e00e2768041041ae93a33fa.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg"
-    }
-  ],
+  "productSlug": "snowrunner/high-roller-pack",
+  "urlSlug": "mayflowerdlc1audience-04",
+  "creationDate": "2020-03-19T17:57:35.888Z",
+  "lastModifiedDate": "2020-05-20T15:49:52.620Z",
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ba715352339e4369b24bbdbfec8c9d8d",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +95,39 @@
       "value": "snowrunner/high-roller-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Horizontal-1360x766-1360x766-ccba4abc3e00e2768041041ae93a33fa.jpg",
+      "md5": "ccba4abc3e00e2768041041ae93a33fa",
+      "size": 271609,
+      "uploadedDate": "2020-04-21T22:21:56.617Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg",
+      "md5": "53e34b80a775f76dea337f6bfd63ce68",
+      "size": 112866,
+      "uploadedDate": "2020-04-21T22:22:05.270Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_HighRollerPack_EGS_Desktop-Vertical-510x680-510x680-53e34b80a775f76dea337f6bfd63ce68.jpg",
+      "md5": "53e34b80a775f76dea337f6bfd63ce68",
+      "size": 112866,
+      "uploadedDate": "2020-04-21T22:22:15.096Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ba715352339e4369b24bbdbfec8c9d8d"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-15T09:42:00.000Z",
-  "creationDate": "2019-02-15T14:44:41.580Z",
-  "lastModifiedDate": "2020-04-29T00:46:45.150Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Exodus Pre-Purchase Digital Extras",
   "id": "f171af3bf98e420a973a5c220e7aa074",
   "namespace": "snapdragon",
+  "title": "Metro Exodus Pre-Purchase Digital Extras",
   "description": "Metro Exodus Pre-Purchase Digital Extras",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "metro-exodus-pre-purchase-digital-extras",
+  "creationDate": "2019-02-15T14:44:41.580Z",
+  "lastModifiedDate": "2020-04-29T00:46:45.150Z",
+  "effectiveDate": "2019-02-15T09:42:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
-    {
-      "id": "b22e115e4ef94d1cbc15c864025eab66",
-      "namespace": "snapdragon",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,18 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "b22e115e4ef94d1cbc15c864025eab66"
+    }
+  ],
+  "catalogNs": null
 }

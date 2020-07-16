@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-04T11:19:16.847Z",
-  "lastModifiedDate": "2019-09-27T23:48:58.180Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "ParrotDevAudience",
   "id": "c59adfb0238a4adea0c537ccff8637c6",
   "namespace": "28dde12d84ef45b8b321dbc962c1b217",
+  "title": "ParrotDevAudience",
   "description": "ParrotDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "parrotdevaudience",
+  "creationDate": "2019-06-04T11:19:16.847Z",
+  "lastModifiedDate": "2019-09-27T23:48:58.180Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
     "name": "Outerloop Games LLC"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "433c3821fdba4d4f9d5410dc5e094eb8",
-      "namespace": "28dde12d84ef45b8b321dbc962c1b217",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "433c3821fdba4d4f9d5410dc5e094eb8"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

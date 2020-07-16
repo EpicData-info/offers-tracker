@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-25T15:00:00.000Z",
-  "creationDate": "2020-06-16T12:19:23.076Z",
-  "lastModifiedDate": "2020-07-02T15:06:00.957Z",
-  "viewableDate": null,
-  "productSlug": "aer-memories-of-old",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "AER Memories of Old",
   "id": "ddbac5b8afd64e36a63d6904e0ef7e41",
   "namespace": "f3720f53cccb4a20841a392a8ea0457f",
+  "title": "AER Memories of Old",
   "description": "AER Memories of Old",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S4-1200x1600-5be9e6012419c8fce4e0daf19be84703.jpg"
-    }
-  ],
+  "productSlug": "aer-memories-of-old",
+  "urlSlug": "gargeneralaudience",
+  "creationDate": "2020-06-16T12:19:23.076Z",
+  "lastModifiedDate": "2020-07-02T15:06:00.957Z",
+  "effectiveDate": "2020-06-25T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
     "name": "Daedalic Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e3528b43021a48f3b66fdab5baf4ee5e",
-      "namespace": "f3720f53cccb4a20841a392a8ea0457f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "aer-memories-of-old"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg",
+      "md5": "72330b37a0acda88398b4c73cbbaf4f0",
+      "size": 925978,
+      "uploadedDate": "2020-06-17T21:42:17.582Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+      "md5": "54da10a6ade9e99d9a469d5ee1c4a5e1",
+      "size": 638902,
+      "uploadedDate": "2020-06-17T21:42:28.008Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+      "md5": "54da10a6ade9e99d9a469d5ee1c4a5e1",
+      "size": 638902,
+      "uploadedDate": "2020-06-17T21:42:38.011Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S2-1200x1600-54da10a6ade9e99d9a469d5ee1c4a5e1.jpg",
+      "md5": "54da10a6ade9e99d9a469d5ee1c4a5e1",
+      "size": 638902,
+      "uploadedDate": "2020-06-17T21:42:47.967Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S3-2560x1440-72330b37a0acda88398b4c73cbbaf4f0.jpg",
+      "md5": "72330b37a0acda88398b4c73cbbaf4f0",
+      "size": 925978,
+      "uploadedDate": "2020-06-17T21:42:58.654Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f3720f53cccb4a20841a392a8ea0457f/offer/EGS_AERMemoriesofOld_ForgottenKey_S4-1200x1600-5be9e6012419c8fce4e0daf19be84703.jpg",
+      "md5": "5be9e6012419c8fce4e0daf19be84703",
+      "size": 640060,
+      "uploadedDate": "2020-06-17T21:43:10.299Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e3528b43021a48f3b66fdab5baf4ee5e"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,37 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-26T19:54:29.559Z",
-  "lastModifiedDate": "2020-06-15T14:37:21.960Z",
-  "viewableDate": null,
-  "productSlug": "offworld-trading-company/gold-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Offworld Trading Company Gold Edition",
   "id": "fa5584e7b5394eb688f1033c9c30fc09",
   "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Offworld Trading Company Gold Edition",
   "description": "Offworld Trading Company Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyGoldEdition_MohawkGames_Editions_G1A_00-1920x1080-2180130f614c4eca833e84ad105d9201-1920x1080-2180130f614c4eca833e84ad105d9201.jpg"
-    }
-  ],
+  "productSlug": "offworld-trading-company/gold-edition",
+  "urlSlug": "snappergoldaudience",
+  "creationDate": "2020-02-26T19:54:29.559Z",
+  "lastModifiedDate": "2020-06-15T14:37:21.960Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "64c769665bbd4cf69cc28bdaf971522a",
-      "namespace": "e8882546f28e4832af823c646aed232e",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -46,17 +49,21 @@
       "value": "offworld-trading-company/gold-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyGoldEdition_MohawkGames_Editions_G1A_00-1920x1080-2180130f614c4eca833e84ad105d9201-1920x1080-2180130f614c4eca833e84ad105d9201.jpg",
+      "md5": "2180130f614c4eca833e84ad105d9201",
+      "size": 552007,
+      "uploadedDate": "2020-03-10T23:44:21.835Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "64c769665bbd4cf69cc28bdaf971522a"
+    }
+  ],
+  "catalogNs": null
 }

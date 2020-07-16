@@ -1,51 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-30T15:00:00.000Z",
-  "creationDate": "2020-04-28T17:48:55.805Z",
-  "lastModifiedDate": "2020-05-18T14:43:18.244Z",
-  "viewableDate": "2020-04-29T15:00:00.000Z",
-  "productSlug": "assassins-creed-valhalla/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed: Valhalla",
   "id": "d6b4c22c5360465aaf3d9a0161fad210",
   "namespace": "400347196e674de89c23cc2a7f2121db",
+  "title": "Assassin's Creed: Valhalla",
   "description": "Assassin's Creed: Valhalla",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png"
-    }
-  ],
+  "productSlug": "assassins-creed-valhalla/home",
+  "urlSlug": "kingdomgeneralaudience",
+  "creationDate": "2020-04-28T17:48:55.805Z",
+  "lastModifiedDate": "2020-05-18T14:43:18.244Z",
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "viewableDate": "2020-04-29T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "11daef13d2654800b04f066ee5e030fb",
-      "namespace": "400347196e674de89c23cc2a7f2121db",
-      "developer": null
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +113,57 @@
       "value": "assassins-creed-valhalla/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg",
+      "md5": "485fe17203671386c71bde8110886c7d",
+      "size": 480507,
+      "uploadedDate": "2020-04-29T22:17:34.256Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
+      "md5": "288120c5573756cb988b6c1968cebd86",
+      "size": 981676,
+      "uploadedDate": "2020-04-29T22:17:46.195Z",
+      "width": 640,
+      "height": 854
     },
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Wide_3840x2160-3840x2160-485fe17203671386c71bde8110886c7d.jpg",
+      "md5": "485fe17203671386c71bde8110886c7d",
+      "size": 480507,
+      "uploadedDate": "2020-04-29T22:18:06.419Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
+      "md5": "288120c5573756cb988b6c1968cebd86",
+      "size": 981676,
+      "uploadedDate": "2020-04-29T22:18:15.424Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/400347196e674de89c23cc2a7f2121db/offer/AC KINGDOM PREORDER_STANDARD EDITION_EPIC_Key_Art_Portrait_640x854-640x854-288120c5573756cb988b6c1968cebd86.png",
+      "md5": "288120c5573756cb988b6c1968cebd86",
+      "size": 981676,
+      "uploadedDate": "2020-04-29T22:18:22.478Z",
+      "width": 640,
+      "height": 854
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "11daef13d2654800b04f066ee5e030fb"
+    }
+  ],
+  "catalogNs": null
 }

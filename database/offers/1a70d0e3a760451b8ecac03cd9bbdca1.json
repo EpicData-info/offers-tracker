@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-21T03:54:54.839Z",
-  "lastModifiedDate": "2019-12-13T04:23:52.921Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Cobbler",
   "id": "1a70d0e3a760451b8ecac03cd9bbdca1",
   "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "title": "Cobbler",
   "description": "Cobbler",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S4-510x680-ad876d35b43cbe995d1bd9af3c2bd021.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "cobblergeneralaudience",
+  "creationDate": "2019-11-21T03:54:54.839Z",
+  "lastModifiedDate": "2019-12-13T04:23:52.921Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
     "name": "Athlon Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "969764a75d9e44b4bca9dab30e570f8e",
-      "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,14 +46,30 @@
       "value": "LCG Entertainment, Inc."
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+      "md5": "087d32300cf450fb5f1f1582c7b831fc",
+      "size": 345673,
+      "uploadedDate": "2019-12-05T19:33:34.837Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S4-510x680-ad876d35b43cbe995d1bd9af3c2bd021.jpg",
+      "md5": "ad876d35b43cbe995d1bd9af3c2bd021",
+      "size": 373159,
+      "uploadedDate": "2019-12-05T19:35:43.447Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "969764a75d9e44b4bca9dab30e570f8e"
+    }
+  ],
+  "catalogNs": null
 }

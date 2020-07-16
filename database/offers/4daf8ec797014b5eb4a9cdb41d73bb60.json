@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-10-28T21:42:57.050Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-stick-of-truth/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "South Park: The Stick of Truth",
   "id": "4daf8ec797014b5eb4a9cdb41d73bb60",
   "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
+  "title": "South Park: The Stick of Truth",
   "description": "South Park: The Stick of Truth",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SoT-S1_BakedLogo-2560x1440-a0f25b8dce42e511dcecffe665f2e75c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-stick-of-truth/home",
+  "urlSlug": "alligatorgeneralaudience",
+  "creationDate": "2019-10-28T21:42:57.050Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "437d3c55ea17440ab822fdc9bc57d02c",
-      "namespace": "8f8bddb3ff464536984ce8e945cb5f8c",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "south-park-the-stick-of-truth/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
+      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
+      "size": 407085,
+      "uploadedDate": "2019-11-19T02:14:56.194Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
+      "md5": "36d981676a51f199c0c7206b3cd33c09",
+      "size": 504756,
+      "uploadedDate": "2019-11-19T02:15:05.401Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png",
+      "md5": "14e92c2c7de77f23e3fca026bf84b903",
+      "size": 245010,
+      "uploadedDate": "2019-12-20T16:20:20.021Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
+      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
+      "size": 407085,
+      "uploadedDate": "2019-11-19T02:14:56.194Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SoT-S1_BakedLogo-2560x1440-a0f25b8dce42e511dcecffe665f2e75c.jpg",
+      "md5": "a0f25b8dce42e511dcecffe665f2e75c",
+      "size": 1254096,
+      "uploadedDate": "2019-12-16T18:45:52.899Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
+      "md5": "36d981676a51f199c0c7206b3cd33c09",
+      "size": 504756,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "437d3c55ea17440ab822fdc9bc57d02c"
+    }
+  ],
+  "catalogNs": null
 }

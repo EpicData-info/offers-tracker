@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-09-10T21:03:46.207Z",
-  "lastModifiedDate": "2019-12-29T14:55:38.235Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "BustardDevAudience",
   "id": "98d8eb6337a145a884aaff3eb2c2d7b1",
   "namespace": "400cc6605aee41de88f976b587a48aa0",
+  "title": "BustardDevAudience",
   "description": "BustardDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "bustarddevaudience",
+  "creationDate": "2019-09-10T21:03:46.207Z",
+  "lastModifiedDate": "2019-12-29T14:55:38.235Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "597b9dd76dea43fc91c2e18124a514c1",
-      "namespace": "400cc6605aee41de88f976b587a48aa0",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "597b9dd76dea43fc91c2e18124a514c1"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,51 +1,63 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2020-01-22T16:54:23.357Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "farming-simulator-19/farming-simulator-19-platinum-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Farming Simulator 19 - Platinum Edition",
   "id": "b84e581535bd4b89803a075a664a2cef",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
+  "title": "Farming Simulator 19 - Platinum Edition",
   "description": "Farming Simulator 19 - Platinum Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_farming-simulator-19-platinum-edition_EGS-GIANTS-FS19-1280x1440_PlatEdition-1280x1440-371a437de706023b8c9efaf2531908733964fae5-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg"
-    }
-  ],
+  "productSlug": "farming-simulator-19/farming-simulator-19-platinum-edition",
+  "urlSlug": "stelluaplatinumaudience",
+  "creationDate": "2020-01-22T16:54:23.357Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "de829d3c422347c594903e6d50dc0dd6",
-      "namespace": "493e9ad801e8487497fe7840cb8404bb",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,17 +78,57 @@
       "value": "farming-simulator-19/farming-simulator-19-platinum-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/Diesel_productv2_farming-simulator-19_home_farming-simulator-19-platinum-edition_EGS-GIANTS-FS19-1280x1440_PlatEdition-1280x1440-371a437de706023b8c9efaf2531908733964fae5-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg",
+      "md5": "80f257ddbfcfb05110b62dfa4f4a0b97",
+      "size": 298912,
+      "uploadedDate": "2020-01-23T14:47:08.062Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg",
+      "md5": "87dea55085cd9e222170bc48e776020d",
+      "size": 163974,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/EGS-GIANTS-FS19-1360x766_PlatEdition-1360x766-1070fd68f40106f797fb38b012002e2385daf5b1.jpg",
+      "md5": "87dea55085cd9e222170bc48e776020d",
+      "size": 163974,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg",
+      "md5": "80f257ddbfcfb05110b62dfa4f4a0b97",
+      "size": 298912,
+      "uploadedDate": "2020-04-10T13:45:42.455Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/493e9ad801e8487497fe7840cb8404bb/offer/FarmingSim10_Tall-1280x1440-80f257ddbfcfb05110b62dfa4f4a0b97.jpg",
+      "md5": "80f257ddbfcfb05110b62dfa4f4a0b97",
+      "size": 298912,
+      "uploadedDate": "2020-04-10T13:46:54.828Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "de829d3c422347c594903e6d50dc0dd6"
+    }
+  ],
+  "catalogNs": null
 }

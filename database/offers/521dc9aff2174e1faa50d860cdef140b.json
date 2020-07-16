@@ -1,43 +1,45 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-12-17T13:31:00.000Z",
-  "creationDate": "2018-12-17T18:32:19.270Z",
-  "lastModifiedDate": "2020-04-29T00:38:43.151Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Meerkat",
   "id": "521dc9aff2174e1faa50d860cdef140b",
   "namespace": "meerkat",
+  "title": "Meerkat",
   "description": "Meerkat",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "meerkat",
+  "creationDate": "2018-12-17T18:32:19.270Z",
+  "lastModifiedDate": "2020-04-29T00:38:43.151Z",
+  "effectiveDate": "2018-12-17T13:31:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "663b064743294d098047cb76ebfd4242",
-      "namespace": "meerkat",
-      "developer": null
+      "path": "games"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "KR,CN"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "663b064743294d098047cb76ebfd4242"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

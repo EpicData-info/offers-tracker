@@ -1,5 +1,25 @@
 {
+  "id": "34364954b4ac415e9a4768fef3bf7099",
+  "namespace": "epic",
+  "title": "Raw Fury",
+  "description": "Raw Fury",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "raw-fury-collection",
+  "urlSlug": "raw-fury-collection",
+  "creationDate": "2020-03-24T20:30:52.066Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-01-25T15:25:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "c98c8c591fdb472e97dc3169b097218a",
     "cefa7f9e970d4b93b828831d05f4e7ae",
@@ -7,30 +27,87 @@
     "29da6edd4d6a44b1bf09b2a711c72cde",
     "da878e491ab7473cbef4a72eae64b3a3"
   ],
-  "effectiveDate": "2019-01-25T15:25:00.000Z",
-  "creationDate": "2020-03-24T20:30:52.066Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "raw-fury-collection",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Raw Fury",
-  "id": "34364954b4ac415e9a4768fef3bf7099",
-  "namespace": "epic",
-  "description": "Raw Fury",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [],
-  "seller": {
-    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
-    "name": "Raw Fury"
-  },
-  "items": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "collections"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -59,11 +136,11 @@
       "value": "raw-fury-collection"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

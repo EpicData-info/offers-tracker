@@ -1,55 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-28T13:00:00.000Z",
-  "creationDate": "2020-02-18T21:49:47.745Z",
-  "lastModifiedDate": "2020-05-28T14:00:00.264Z",
-  "viewableDate": null,
-  "productSlug": "sludge-life/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sludge Life",
   "id": "13f7f3e05e91444585e9be24b59fe536",
   "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "title": "Sludge Life",
   "description": "Sludge Life",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg"
-    }
-  ],
+  "productSlug": "sludge-life/home",
+  "urlSlug": "morganitegeneralaudience",
+  "creationDate": "2020-02-18T21:49:47.745Z",
+  "lastModifiedDate": "2020-05-28T14:00:00.264Z",
+  "effectiveDate": "2020-05-28T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d2ca9714bd8d44ea82541c5208edf85b",
-      "namespace": "158a0eaa18574bb39347c04286d118c7",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +81,66 @@
       "value": "sludge-life/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+      "size": 234275,
+      "uploadedDate": "2020-02-26T15:16:21.936Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg",
+      "md5": "d9ff8e9ba3ea57e017f1e7b94290d290",
+      "size": 508632,
+      "uploadedDate": "2020-02-26T15:16:31.964Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+      "size": 234275,
+      "uploadedDate": "2020-02-26T15:16:21.936Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S1-2560x1440-d9ff8e9ba3ea57e017f1e7b94290d290.jpg",
+      "md5": "d9ff8e9ba3ea57e017f1e7b94290d290",
+      "size": 508632,
+      "uploadedDate": "2020-02-26T15:18:31.168Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+      "size": 234275,
+      "uploadedDate": "2020-02-26T15:19:06.709Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFE_TerriVellmannDoseone_S2-860x1148-7f59d1693efaf43bbab23d485b8d7a68-860x1148-7f59d1693efaf43bbab23d485b8d7a68.jpg",
+      "md5": "7f59d1693efaf43bbab23d485b8d7a68",
+      "size": 234275,
+      "uploadedDate": "2020-05-25T15:00:48.353Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d2ca9714bd8d44ea82541c5208edf85b"
+    }
+  ],
+  "catalogNs": null
 }

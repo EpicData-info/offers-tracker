@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-10-28T21:43:21.201Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-fractured-but-whole",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "South Park: The Fractured But Whole",
   "id": "b0f6e38a93634a3bbfa3200c47379558",
   "namespace": "764eb429792649e4a606413cd649de2c",
+  "title": "South Park: The Fractured But Whole",
   "description": "South Park: The Fractured But Whole Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SPFB_UCS12473_EGST_Neg_1000x375-1000x375-5551374af35891ad6529dff819a4e53d.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S1-2560x1440-c39875130a3c5528771fe933431c6763.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12473_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-c4d4951934c85ae067043dd48d590ce5.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12473_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-78fc8a9836e039dff9c76e019f81f3f5d84c6344.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-fractured-but-whole",
+  "urlSlug": "alewifegeneralaudience",
+  "creationDate": "2019-10-28T21:43:21.201Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "55988df2b7934fa292fd6b6fe2495c0e",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "south-park-the-fractured-but-whole"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "size": 467198,
+      "uploadedDate": "2019-11-19T02:19:41.185Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SPFB_UCS12473_EGST_Neg_1000x375-1000x375-5551374af35891ad6529dff819a4e53d.png",
+      "md5": "5551374af35891ad6529dff819a4e53d",
+      "size": 117944,
+      "uploadedDate": "2019-11-19T02:19:52.594Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S1-2560x1440-c39875130a3c5528771fe933431c6763.jpg",
+      "md5": "c39875130a3c5528771fe933431c6763",
+      "size": 314261,
+      "uploadedDate": "2019-11-19T02:20:01.983Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "size": 467198,
+      "uploadedDate": "2019-11-19T02:19:41.185Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12473_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-c4d4951934c85ae067043dd48d590ce5.jpg",
+      "md5": "c4d4951934c85ae067043dd48d590ce5",
+      "size": 479384,
+      "uploadedDate": "2019-12-16T19:00:08.190Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12473_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-78fc8a9836e039dff9c76e019f81f3f5d84c6344.jpg",
+      "md5": "778632cc5489a3df5d180542b2baddc3",
+      "size": 230259,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "55988df2b7934fa292fd6b6fe2495c0e"
+    }
+  ],
+  "catalogNs": null
 }

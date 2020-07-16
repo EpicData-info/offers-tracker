@@ -1,39 +1,96 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-11T10:17:00.000Z",
-  "creationDate": "2019-03-06T15:20:51.946Z",
-  "lastModifiedDate": "2020-05-07T15:50:41.980Z",
-  "viewableDate": null,
-  "productSlug": "phoenix-point/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Phoenix Point",
   "id": "6fec76da0f6a46daa2d5a408b59a7836",
   "namespace": "epic",
+  "title": "Phoenix Point",
   "description": "Phoenix Point",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS vertical-860x1148-08e5c6a28f307d4e88ae9ed91afbdfdf.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS horizontal-2560x1440-594dcf1f7cfe9b61227616ba6781cadb.jpg"
-    }
-  ],
+  "productSlug": "phoenix-point/home",
+  "urlSlug": "phoenix-point",
+  "creationDate": "2019-03-06T15:20:51.946Z",
+  "lastModifiedDate": "2020-05-07T15:50:41.980Z",
+  "effectiveDate": "2019-03-11T10:17:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "items": [
+  "linkedOfferId": "a07d1b449fb84aa0bfacdb24ec365db5",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +115,30 @@
       "value": "phoenix-point/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS vertical-860x1148-08e5c6a28f307d4e88ae9ed91afbdfdf.jpg",
+      "md5": "08e5c6a28f307d4e88ae9ed91afbdfdf",
+      "size": 417427,
+      "uploadedDate": "2020-05-07T15:50:27.727Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/PP key art EGS horizontal-2560x1440-594dcf1f7cfe9b61227616ba6781cadb.jpg",
+      "md5": "594dcf1f7cfe9b61227616ba6781cadb",
+      "size": 858221,
+      "uploadedDate": "2020-05-07T15:50:36.895Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "a07d1b449fb84aa0bfacdb24ec365db5",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Snapshot Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "phoenix-point"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

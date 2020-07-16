@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-04T12:29:00.000Z",
-  "creationDate": "2020-04-09T15:00:09.127Z",
-  "lastModifiedDate": "2020-05-18T19:47:47.832Z",
-  "viewableDate": null,
-  "productSlug": "newtalphabattlemage-01",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Gold Pack 04",
   "id": "a0b73502c124439586a824fe75dc7a47",
   "namespace": "newt",
+  "title": "Gold Pack 04",
   "description": "Gold Pack 04",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png"
-    }
-  ],
+  "productSlug": "newtalphabattlemage-01",
+  "urlSlug": "newtalphabattlemage-08",
+  "creationDate": "2020-04-09T15:00:09.127Z",
+  "lastModifiedDate": "2020-05-18T19:47:47.832Z",
+  "effectiveDate": "2019-02-04T12:29:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
     "name": "Proletariat, Inc."
   },
-  "items": [
-    {
-      "id": "12954d29568e412da4912347f6a02997",
-      "namespace": "newt",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "newtalphabattlemage-01"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -60,6 +37,36 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "newtalphabattlemage-01"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/newt/item/ESRB_Spellbreak-842x404-fce4fa7233ed80170a8e36079d1e1bde.png",
+      "md5": "fce4fa7233ed80170a8e36079d1e1bde",
+      "size": 51194,
+      "uploadedDate": "2019-04-23T19:23:42.731Z",
+      "width": 842,
+      "height": 404
+    }
+  ],
+  "items": [
+    {
+      "id": "12954d29568e412da4912347f6a02997"
+    }
+  ],
+  "catalogNs": null
 }

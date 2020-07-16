@@ -1,59 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-19T13:00:00.000Z",
-  "creationDate": "2019-01-29T17:41:33.268Z",
-  "lastModifiedDate": "2020-06-18T13:44:18.401Z",
-  "viewableDate": null,
-  "productSlug": "beyond-two-souls/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Beyond: Two Souls",
   "id": "ca9e038d351d493f91f7823a175c5acf",
   "namespace": "lavender",
+  "title": "Beyond: Two Souls",
   "description": "Beyond: Two Souls",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_GamePagePromo-2580x1450-8be348c1b8af40244d32a64c4c9881cd.JPG"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_PortraitPromo03-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_Logo-960x384-a2c6b28b3e69ca323c30612098e1d5a8.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND_1-2560x1440-78243e22ac01cc0262fcd84df9af6f18.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa.jpg"
-    }
-  ],
+  "productSlug": "beyond-two-souls/home",
+  "urlSlug": "lavendergeneralaudience",
+  "creationDate": "2019-01-29T17:41:33.268Z",
+  "lastModifiedDate": "2020-06-18T13:44:18.401Z",
+  "effectiveDate": "2019-07-19T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1482e73b68494b3c86137b62b65567a4",
-      "namespace": "lavender",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +101,75 @@
       "value": "beyond-two-souls/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_GamePagePromo-2580x1450-8be348c1b8af40244d32a64c4c9881cd.JPG",
+      "md5": "8be348c1b8af40244d32a64c4c9881cd",
+      "size": 128334,
+      "uploadedDate": "2019-03-14T14:27:45.520Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_PortraitPromo03-1280x1420-5c246b28fdc821c471257c69db3f5dd7.jpg",
+      "md5": "5c246b28fdc821c471257c69db3f5dd7",
+      "size": 113550,
+      "uploadedDate": "2019-03-14T14:27:53.306Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Beyond_Logo-960x384-a2c6b28b3e69ca323c30612098e1d5a8.png",
+      "md5": "a2c6b28b3e69ca323c30612098e1d5a8",
+      "size": 52763,
+      "uploadedDate": "2019-03-27T16:01:34.410Z",
+      "width": 960,
+      "height": 384
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg",
+      "md5": "73f2454b4ae736f840f253d9d0c46888",
+      "size": 60477,
+      "uploadedDate": "2019-03-19T22:33:41.922Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND_1-2560x1440-78243e22ac01cc0262fcd84df9af6f18.jpg",
+      "md5": "78243e22ac01cc0262fcd84df9af6f18",
+      "size": 624144,
+      "uploadedDate": "2020-02-28T14:13:57.135Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa.jpg",
+      "md5": "1e66455c8afe406002542c681abcd2fa",
+      "size": 243634,
+      "uploadedDate": "2020-04-09T17:17:08.849Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/BEYOND2-860x1148-1e66455c8afe406002542c681abcd2fa.jpg",
+      "md5": "1e66455c8afe406002542c681abcd2fa",
+      "size": 243634,
+      "uploadedDate": "2020-04-09T17:17:19.035Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1482e73b68494b3c86137b62b65567a4"
+    }
+  ],
+  "catalogNs": null
 }

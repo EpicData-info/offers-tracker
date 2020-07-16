@@ -1,48 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-08T17:50:01.744Z",
-  "lastModifiedDate": "2019-08-16T23:23:51.905Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Pheasant Gold Edition",
   "id": "346b156c865c49da9ffbb9523105fcb1",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
+  "title": "Pheasant Gold Edition",
   "description": "Pheasant Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "pheasantgoldaudience",
+  "creationDate": "2019-06-08T17:50:01.744Z",
+  "lastModifiedDate": "2019-08-16T23:23:51.905Z",
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "b2aaf50259434c8c9e5aaf8a00354414",
-      "namespace": "4b35838425c74992ad42e1276b2161ca",
-      "developer": null
-    },
-    {
-      "id": "0679f61321564625b2cd4ed131c571a5",
-      "namespace": "4b35838425c74992ad42e1276b2161ca",
-      "developer": null
-    },
-    {
-      "id": "bdaf567541354a6da53b20e7f28a2ac5",
-      "namespace": "4b35838425c74992ad42e1276b2161ca",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -51,6 +31,24 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "b2aaf50259434c8c9e5aaf8a00354414"
+    },
+    {
+      "id": "0679f61321564625b2cd4ed131c571a5"
+    },
+    {
+      "id": "bdaf567541354a6da53b20e7f28a2ac5"
+    }
+  ],
+  "catalogNs": null
 }

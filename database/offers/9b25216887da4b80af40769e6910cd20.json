@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-11-28T16:50:00.000Z",
-  "creationDate": "2018-11-28T21:51:19.875Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "hello-neighbor-hide-and-seek/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Hello Neighbor Hide & Seek",
   "id": "9b25216887da4b80af40769e6910cd20",
   "namespace": "morpho",
+  "title": "Hello Neighbor Hide & Seek",
   "description": "Hello Neighbor Hide and Seek",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/hnhs_logo-1013x682-4dca9e4b97d7480d76e741c728a534fd.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/morpho/offer/HelloNeighbor_Thumb-1288x1441-7d96c2c379d1f5e860d6f9757b41db05.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg"
-    }
-  ],
+  "productSlug": "hello-neighbor-hide-and-seek/home",
+  "urlSlug": "hello-neighbor-hide-and-seek",
+  "creationDate": "2018-11-28T21:51:19.875Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2018-11-28T16:50:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "60517ad2be01459eb8d56af55ec755bb",
-      "namespace": "morpho",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "hello-neighbor-hide-and-seek/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/hnhs_logo-1013x682-4dca9e4b97d7480d76e741c728a534fd.png",
+      "md5": "4dca9e4b97d7480d76e741c728a534fd",
+      "size": 111893,
+      "uploadedDate": "2018-12-17T20:16:40.539Z",
+      "width": 1013,
+      "height": 682
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+      "md5": "5afef6f77959d34a4b70e95410cc6277",
+      "size": 118310,
+      "uploadedDate": "2018-12-17T20:16:52.829Z",
+      "width": 644,
+      "height": 725
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg",
+      "md5": "d93ca0022031d0baa3c42cf7e6621181",
+      "size": 208885,
+      "uploadedDate": "2019-03-27T17:19:18.724Z",
+      "width": 960,
+      "height": 540
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HN_HS_Portrait-644x725-5afef6f77959d34a4b70e95410cc6277.jpg",
+      "md5": "5afef6f77959d34a4b70e95410cc6277",
+      "size": 118310,
+      "uploadedDate": "2018-12-17T20:16:52.829Z",
+      "width": 644,
+      "height": 725
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/morpho/offer/HelloNeighbor_Thumb-1288x1441-7d96c2c379d1f5e860d6f9757b41db05.png",
+      "md5": "7d96c2c379d1f5e860d6f9757b41db05",
+      "size": 1444841,
+      "uploadedDate": "2019-05-02T15:24:26.022Z",
+      "width": 1288,
+      "height": 1441
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/hn_hs_wide-960x540-d93ca0022031d0baa3c42cf7e6621181.jpg",
+      "md5": "d93ca0022031d0baa3c42cf7e6621181",
+      "size": 208885,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 960,
+      "height": 540
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "60517ad2be01459eb8d56af55ec755bb"
+    }
+  ],
+  "catalogNs": null
 }

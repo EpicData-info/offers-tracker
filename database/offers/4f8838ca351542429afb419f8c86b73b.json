@@ -1,68 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-02T15:00:00.000Z",
-  "creationDate": "2020-03-07T05:23:41.889Z",
-  "lastModifiedDate": "2020-06-02T15:01:32.179Z",
-  "viewableDate": "2020-06-02T15:00:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bright Harvest - DLC",
   "id": "4f8838ca351542429afb419f8c86b73b",
   "namespace": "oregano",
+  "title": "Bright Harvest - DLC",
   "description": "Bright Harvest - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Store_Landscape_2580x1450-2580x1450-68e28f40d51aece7c0eb61062162b18a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "bh-dlc",
+  "creationDate": "2020-03-07T05:23:41.889Z",
+  "lastModifiedDate": "2020-06-02T15:01:32.179Z",
+  "effectiveDate": "2020-06-02T15:00:00.000Z",
+  "viewableDate": "2020-06-02T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "4ad09db8de8b4cec9221f5b253a57f30",
-      "namespace": "oregano",
-      "developer": null
-    },
-    {
-      "id": "a8f33e397cd14165bc0d749e379fa4db",
-      "namespace": "oregano",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "developerName",
-      "value": "Blue Byte"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -77,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Blue Byte"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Store_Landscape_2580x1450-2580x1450-68e28f40d51aece7c0eb61062162b18a.jpg",
+      "md5": "68e28f40d51aece7c0eb61062162b18a",
+      "size": 487434,
+      "uploadedDate": "2020-05-27T21:50:40.244Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg",
+      "md5": "c32c5702f34141328c32d94cf38be45d",
+      "size": 493541,
+      "uploadedDate": "2020-05-27T21:50:47.154Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg",
+      "md5": "c32c5702f34141328c32d94cf38be45d",
+      "size": 493541,
+      "uploadedDate": "2020-05-27T21:50:56.279Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_BrightHarvest_Wishlist_Portrait_860x1148-860x1148-c32c5702f34141328c32d94cf38be45d.jpg",
+      "md5": "c32c5702f34141328c32d94cf38be45d",
+      "size": 493541,
+      "uploadedDate": "2020-05-27T21:51:03.508Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "4ad09db8de8b4cec9221f5b253a57f30"
+    },
+    {
+      "id": "a8f33e397cd14165bc0d749e379fa4db"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-26T23:51:38.292Z",
-  "lastModifiedDate": "2019-12-13T04:23:52.922Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CobblerDevAudience",
   "id": "9a6d4bb9893249dd861437d9623c65d0",
   "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "title": "CobblerDevAudience",
   "description": "CobblerDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "cobblerdevaudience-02",
+  "creationDate": "2019-11-26T23:51:38.292Z",
+  "lastModifiedDate": "2019-12-13T04:23:52.922Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
     "name": "Athlon Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d58b6200917d412b882c5863855801f5",
-      "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d58b6200917d412b882c5863855801f5"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

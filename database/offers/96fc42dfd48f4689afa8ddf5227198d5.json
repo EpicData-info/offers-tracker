@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-24T16:00:00.000Z",
-  "creationDate": "2019-03-22T22:16:32.002Z",
-  "lastModifiedDate": "2020-04-27T05:37:09.927Z",
-  "viewableDate": null,
-  "productSlug": "walking-dead-michonne/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Walking Dead: Michonne",
   "id": "96fc42dfd48f4689afa8ddf5227198d5",
   "namespace": "fennel",
+  "title": "The Walking Dead: Michonne",
   "description": "The Walking Dead: Michonne",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_DieselGameLogo-400x265-252ca2378fe46f3292f994eabea2d3ea.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fennel/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fennel/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775-340x383-321bfd2d9db6630fea6e42d867f77775.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg"
-    }
-  ],
+  "productSlug": "walking-dead-michonne/home",
+  "urlSlug": "fennel",
+  "creationDate": "2019-03-22T22:16:32.002Z",
+  "lastModifiedDate": "2020-04-27T05:37:09.927Z",
+  "effectiveDate": "2019-03-24T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "f2b3912eaafe4a96b01531ffee1398bc",
-      "namespace": "fennel",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "walking-dead-michonne/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg",
+      "md5": "cb095137a6c756cc1efe4b27d3a048ff",
+      "size": 146777,
+      "uploadedDate": "2019-03-25T22:41:17.984Z",
+      "width": 1068,
+      "height": 601
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg",
+      "md5": "05fb51874d0ce6c4b16fa69edcae1cc4",
+      "size": 99834,
+      "uploadedDate": "2019-03-26T03:33:24.679Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_DieselGameLogo-400x265-252ca2378fe46f3292f994eabea2d3ea.png",
+      "md5": "252ca2378fe46f3292f994eabea2d3ea",
+      "size": 47218,
+      "uploadedDate": "2019-03-26T03:34:29.926Z",
+      "width": 400,
+      "height": 265
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDM_GameBoxTall-1280x1440-05fb51874d0ce6c4b16fa69edcae1cc4.jpg",
+      "md5": "05fb51874d0ce6c4b16fa69edcae1cc4",
+      "size": 99834,
+      "uploadedDate": "2019-03-26T03:33:24.679Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fennel/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775.png",
+      "md5": "321bfd2d9db6630fea6e42d867f77775",
+      "size": 66936,
+      "uploadedDate": "2019-03-22T22:32:39.785Z",
+      "width": 340,
+      "height": 383
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fennel/offer/EGS_SKYBOUND_TWDMICHONNE_CodeRedemption-340x383-321bfd2d9db6630fea6e42d867f77775-340x383-321bfd2d9db6630fea6e42d867f77775.png",
+      "md5": "321bfd2d9db6630fea6e42d867f77775",
+      "size": 66936,
+      "uploadedDate": "2019-04-23T20:37:05.505Z",
+      "width": 340,
+      "height": 383
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_SKYBOUND_TWDMICHONNE_GameBoxWide-1068x601-cb095137a6c756cc1efe4b27d3a048ff.jpg",
+      "md5": "cb095137a6c756cc1efe4b27d3a048ff",
+      "size": 146777,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1068,
+      "height": 601
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "f2b3912eaafe4a96b01531ffee1398bc"
+    }
+  ],
+  "catalogNs": null
 }

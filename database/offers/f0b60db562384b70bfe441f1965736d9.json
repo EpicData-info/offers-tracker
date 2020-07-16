@@ -1,59 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-21T16:00:00.000Z",
-  "creationDate": "2019-02-01T15:06:58.183Z",
-  "lastModifiedDate": "2020-05-11T17:00:00.285Z",
-  "viewableDate": null,
-  "productSlug": "thimbleweed-park/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Thimbleweed Park",
   "id": "f0b60db562384b70bfe441f1965736d9",
   "namespace": "tulip",
+  "title": "Thimbleweed Park",
   "description": "Thimbleweed Park",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1280x1420-ea08c54042600c5b471e03efe4815c12.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TWPlogo_colour-633x239-bb8751a3b2b3ca51c52f6e5b7c31f049.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Thimbleweed_wide-900x506-dc368991d68fff2fb6ff71fbc5868bc6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1280x1420-ea08c54042600c5b471e03efe4815c12.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/tulip/offer/ThimbleweedPark_CodeRedemption-330x440-e52d7f1fb714be05d845332f7670598f.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/tulip/offer/ThimbleweedPark_CodeRedemption-330x440-e52d7f1fb714be05d845332f7670598f.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Thimbleweed_wide-900x506-dc368991d68fff2fb6ff71fbc5868bc6.jpg"
-    }
-  ],
+  "productSlug": "thimbleweed-park/home",
+  "urlSlug": "tulipgeneralaudience",
+  "creationDate": "2019-02-01T15:06:58.183Z",
+  "lastModifiedDate": "2020-05-11T17:00:00.285Z",
+  "effectiveDate": "2019-02-21T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
     "name": "Terrible Toybox, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "225d21a7e8374b00b0fd093930cef001",
-      "namespace": "tulip",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +140,75 @@
       "value": "thimbleweed-park/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1280x1420-ea08c54042600c5b471e03efe4815c12.jpg",
+      "md5": "ea08c54042600c5b471e03efe4815c12",
+      "size": 277601,
+      "uploadedDate": "2019-02-07T12:53:38.221Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TWPlogo_colour-633x239-bb8751a3b2b3ca51c52f6e5b7c31f049.png",
+      "md5": "bb8751a3b2b3ca51c52f6e5b7c31f049",
+      "size": 77272,
+      "uploadedDate": "2019-02-07T12:53:50.491Z",
+      "width": 633,
+      "height": 239
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Thimbleweed_wide-900x506-dc368991d68fff2fb6ff71fbc5868bc6.jpg",
+      "md5": "dc368991d68fff2fb6ff71fbc5868bc6",
+      "size": 298420,
+      "uploadedDate": "2019-03-27T16:42:52.402Z",
+      "width": 900,
+      "height": 506
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PortraitPromo-1280x1420-ea08c54042600c5b471e03efe4815c12.jpg",
+      "md5": "ea08c54042600c5b471e03efe4815c12",
+      "size": 277601,
+      "uploadedDate": "2019-02-07T12:53:38.221Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/tulip/offer/ThimbleweedPark_CodeRedemption-330x440-e52d7f1fb714be05d845332f7670598f.png",
+      "md5": "e52d7f1fb714be05d845332f7670598f",
+      "size": 92782,
+      "uploadedDate": "2019-02-07T12:29:38.200Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/tulip/offer/ThimbleweedPark_CodeRedemption-330x440-e52d7f1fb714be05d845332f7670598f.png",
+      "md5": "e52d7f1fb714be05d845332f7670598f",
+      "size": 92782,
+      "uploadedDate": "2019-04-24T14:44:18.770Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Thimbleweed_wide-900x506-dc368991d68fff2fb6ff71fbc5868bc6.jpg",
+      "md5": "dc368991d68fff2fb6ff71fbc5868bc6",
+      "size": 298420,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 900,
+      "height": 506
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "225d21a7e8374b00b0fd093930cef001"
+    }
+  ],
+  "catalogNs": null
 }

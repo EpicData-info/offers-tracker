@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-10T17:00:00.000Z",
-  "creationDate": "2019-09-04T16:29:54.334Z",
-  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
-  "viewableDate": null,
-  "productSlug": "anno-1800/the-passage",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Passage - DLC",
   "id": "23e8696ece13459584b49d0d7674e348",
   "namespace": "oregano",
+  "title": "The Passage - DLC",
   "description": "The Passage - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC3_Logo_Color_747x375-747x375-ebd3a15879b7e5b490cb5052c5efdd92.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_ThePassage_Wide-2580x1450-65274a27500ae6bfe00b2cf34f10b528.jpg"
-    }
-  ],
+  "productSlug": "anno-1800/the-passage",
+  "urlSlug": "pass-dlc",
+  "creationDate": "2019-09-04T16:29:54.334Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "effectiveDate": "2019-12-10T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "429c86086d07452fbb40bfbe5f93f2db",
-      "namespace": "oregano",
-      "developer": null
-    },
-    {
-      "id": "229be690f1f245d5911873721e3dce06",
-      "namespace": "oregano",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/the-passage"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/the-passage"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC3_Logo_Color_747x375-747x375-ebd3a15879b7e5b490cb5052c5efdd92.png",
+      "md5": "ebd3a15879b7e5b490cb5052c5efdd92",
+      "size": 56252,
+      "uploadedDate": "2019-12-10T02:12:13.731Z",
+      "width": 747,
+      "height": 375
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_ThePassage_Wide-2580x1450-65274a27500ae6bfe00b2cf34f10b528.jpg",
+      "md5": "65274a27500ae6bfe00b2cf34f10b528",
+      "size": 487936,
+      "uploadedDate": "2020-03-06T17:08:15.134Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "429c86086d07452fbb40bfbe5f93f2db"
+    },
+    {
+      "id": "229be690f1f245d5911873721e3dce06"
+    }
+  ],
+  "catalogNs": null
 }

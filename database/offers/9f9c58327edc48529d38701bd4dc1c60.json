@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-01T12:00:00.000Z",
-  "creationDate": "2019-04-09T18:29:19.421Z",
-  "lastModifiedDate": "2020-06-19T15:25:13.778Z",
-  "viewableDate": null,
-  "productSlug": "dauntless/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dauntless - Timely Arrival Pack",
   "id": "9f9c58327edc48529d38701bd4dc1c60",
   "namespace": "jackal",
+  "title": "Dauntless - Timely Arrival Pack",
   "description": "Dauntless - Timely Arrival Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_LandscapeOffer-2560x1440-a04e31f0342986ba9596f9e3c519e16b.jpg"
-    }
-  ],
+  "productSlug": "dauntless/home",
+  "urlSlug": "jackal-timely-arrival",
+  "creationDate": "2019-04-09T18:29:19.421Z",
+  "lastModifiedDate": "2020-06-19T15:25:13.778Z",
+  "effectiveDate": "2019-04-01T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Arrive on time and in style with the Timely Arrival Pack. Includes the following items:\n\n-  1,000 Platinum\n-  “Timely Arrival” Arrival Emote\n-  50 Ace Chips\n-  3 Common Cells\n-  2 Rare Cells\n- Tonics Bundle\n\nPlatinum is an in-game currency that can be used to purchase weapon and armour skins, arrival emotes, banner customizations, and more. You can also use it to upgrade your Hunt Pass.",
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e",
-      "namespace": "jackal",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "dauntless/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg",
+      "md5": "6b70dad37aae17f4d68f0f379549ed41",
+      "size": 242785,
+      "uploadedDate": "2020-06-19T15:24:29.252Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg",
+      "md5": "6b70dad37aae17f4d68f0f379549ed41",
+      "size": 242785,
+      "uploadedDate": "2020-06-19T15:24:46.974Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/durable"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_PortraitOffer-1200x1600-6b70dad37aae17f4d68f0f379549ed41.jpg",
+      "md5": "6b70dad37aae17f4d68f0f379549ed41",
+      "size": 242785,
+      "uploadedDate": "2020-06-19T15:24:54.627Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_TimelyArrival_LandscapeOffer-2560x1440-a04e31f0342986ba9596f9e3c519e16b.jpg",
+      "md5": "a04e31f0342986ba9596f9e3c519e16b",
+      "size": 456526,
+      "uploadedDate": "2020-06-19T15:25:06.626Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6ac2d32ab8374bf3adf4ae1fe2728b1e"
+    }
+  ],
+  "catalogNs": null
 }

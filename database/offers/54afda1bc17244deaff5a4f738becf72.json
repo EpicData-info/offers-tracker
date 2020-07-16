@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-11T15:00:00.000Z",
-  "creationDate": "2020-05-11T23:27:04.825Z",
-  "lastModifiedDate": "2020-06-11T15:11:39.981Z",
-  "viewableDate": null,
-  "productSlug": "ark/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "ARK Season Pass",
   "id": "54afda1bc17244deaff5a4f738becf72",
   "namespace": "ark",
+  "title": "ARK Season Pass",
   "description": "ARK Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-53d4fc0ddeed81d89a8bbe828adf89d6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg"
-    }
-  ],
+  "productSlug": "ark/season-pass",
+  "urlSlug": "ark-season-pass",
+  "creationDate": "2020-05-11T23:27:04.825Z",
+  "lastModifiedDate": "2020-06-11T15:11:39.981Z",
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
     "name": "Studio Wildcard"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "cf2bc883b2884b6ba91cf8b2e40a3c7d",
-      "namespace": "ark",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "ark/season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S1-2560x1440-53d4fc0ddeed81d89a8bbe828adf89d6.jpg",
+      "md5": "53d4fc0ddeed81d89a8bbe828adf89d6",
+      "size": 1007968,
+      "uploadedDate": "2020-06-01T16:55:17.535Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+      "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+      "size": 991243,
+      "uploadedDate": "2020-06-01T16:55:27.417Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+      "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+      "size": 991243,
+      "uploadedDate": "2020-06-01T16:55:37.849Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_ARKSeasonPass_StudioWildcard_SeasonPass_S2-1200x1600-99404c44ac8fb17f8961f3bc6111a27f.jpg",
+      "md5": "99404c44ac8fb17f8961f3bc6111a27f",
+      "size": 991243,
+      "uploadedDate": "2020-06-01T16:55:47.652Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "cf2bc883b2884b6ba91cf8b2e40a3c7d"
+    }
+  ],
+  "catalogNs": null
 }

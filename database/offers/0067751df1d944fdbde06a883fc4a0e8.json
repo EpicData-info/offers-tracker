@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-17T15:00:00.000Z",
-  "creationDate": "2020-01-13T15:49:35.214Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "uno/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Uno",
   "id": "0067751df1d944fdbde06a883fc4a0e8",
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "title": "Uno",
   "description": "Uno - Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/UNO - S1 BANNERS-2560x1440-016401d01dc8efe5d5d20cff54f1218c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/GameName_Newsfeed_Game_Icon_400x400-400x400-20e6cec6b1510826e616e41c3a99ff02.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/GameName_Store_Landscape_2560x1440-2560x1440-43068caa839fc392e6bb54e0daf2e8a8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/GameName_Store_Landscape_2560x1440-2560x1440-43068caa839fc392e6bb54e0daf2e8a8.jpg"
-    }
-  ],
+  "productSlug": "uno/home",
+  "urlSlug": "hussargeneralaudience",
+  "creationDate": "2020-01-13T15:49:35.214Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2020-03-17T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d8129f675506413db22c74b44ee6f9e6",
-      "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "CARD GAME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2020-06-15T16:42:51.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "uno/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/UNO - S1 BANNERS-2560x1440-016401d01dc8efe5d5d20cff54f1218c.jpg",
+      "md5": "016401d01dc8efe5d5d20cff54f1218c",
+      "size": 334849,
+      "uploadedDate": "2020-03-16T23:21:49.035Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
+      "md5": "a43c9c1eff3b99f3024eee11256e306b",
+      "size": 204074,
+      "uploadedDate": "2020-03-16T23:22:03.704Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/GameName_Newsfeed_Game_Icon_400x400-400x400-20e6cec6b1510826e616e41c3a99ff02.png",
+      "md5": "20e6cec6b1510826e616e41c3a99ff02",
+      "size": 120290,
+      "uploadedDate": "2020-03-16T23:22:17.986Z",
+      "width": 400,
+      "height": 400
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/UNO S2 -BANNERS-1280x1440-a43c9c1eff3b99f3024eee11256e306b.jpg",
+      "md5": "a43c9c1eff3b99f3024eee11256e306b",
+      "size": 204074,
+      "uploadedDate": "2020-03-16T23:22:03.704Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/GameName_Store_Landscape_2560x1440-2560x1440-43068caa839fc392e6bb54e0daf2e8a8.jpg",
+      "md5": "43068caa839fc392e6bb54e0daf2e8a8",
+      "size": 416430,
+      "uploadedDate": "2020-03-16T22:52:56.871Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca93b6d41a4e41af864942d8f0a2a826/offer/GameName_Store_Landscape_2560x1440-2560x1440-43068caa839fc392e6bb54e0daf2e8a8.jpg",
+      "md5": "43068caa839fc392e6bb54e0daf2e8a8",
+      "size": 416430,
+      "uploadedDate": "2020-03-16T22:53:10.534Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d8129f675506413db22c74b44ee6f9e6"
+    }
+  ],
+  "catalogNs": null
 }

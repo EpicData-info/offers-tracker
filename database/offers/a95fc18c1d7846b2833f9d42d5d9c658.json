@@ -1,59 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-07T14:22:00.000Z",
-  "creationDate": "2019-01-29T19:23:16.790Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "drawful-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Drawful 2",
   "id": "a95fc18c1d7846b2833f9d42d5d9c658",
   "namespace": "daisy",
+  "title": "Drawful 2",
   "description": "Drawful 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg"
-    }
-  ],
+  "productSlug": "drawful-2",
+  "urlSlug": "daisygeneralaudience",
+  "creationDate": "2019-01-29T19:23:16.790Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-02-07T14:22:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2beff842041947bdb6f1dba9f6c871cc",
-      "namespace": "daisy",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +128,75 @@
       "value": "drawful-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Logo-1180x1035-ac2814fad78ad10f96a37ffc6ca4cf9d.png",
+      "md5": "ac2814fad78ad10f96a37ffc6ca4cf9d",
+      "size": 112577,
+      "uploadedDate": "2019-02-05T16:06:30.869Z",
+      "width": 1180,
+      "height": 1035
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg",
+      "md5": "0fb79148be5e4c7d08901d27b7051e2c",
+      "size": 348727,
+      "uploadedDate": "2019-02-05T16:06:53.013Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg",
+      "md5": "2ca9ae619e18388a96eaabcbb0a1af55",
+      "size": 179055,
+      "uploadedDate": "2019-02-05T16:08:48.380Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Portrait-1280x1420-2ca9ae619e18388a96eaabcbb0a1af55.jpg",
+      "md5": "2ca9ae619e18388a96eaabcbb0a1af55",
+      "size": 179055,
+      "uploadedDate": "2019-02-05T16:08:48.380Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg",
+      "md5": "334699afca713a058eb5643da9984c56",
+      "size": 75339,
+      "uploadedDate": "2019-02-06T15:44:45.282Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daisy/offer/D2_CodeRedemption-340x440-334699afca713a058eb5643da9984c56.jpg",
+      "md5": "334699afca713a058eb5643da9984c56",
+      "size": 75339,
+      "uploadedDate": "2019-04-23T20:29:00.179Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Drawful2_Hero_Landscape-2580x1450-0fb79148be5e4c7d08901d27b7051e2c.jpg",
+      "md5": "0fb79148be5e4c7d08901d27b7051e2c",
+      "size": 348727,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2beff842041947bdb6f1dba9f6c871cc"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-12T19:00:00.000Z",
-  "creationDate": "2019-06-13T22:50:24.114Z",
-  "lastModifiedDate": "2020-04-29T00:38:42.006Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Detroit Become Human Press Audience",
   "id": "071884ab226d4211aa9670b208765245",
   "namespace": "columbine",
+  "title": "Detroit Become Human Press Audience",
   "description": "Detroit Become Human Press Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "detroit-become-human-press-audience",
+  "creationDate": "2019-06-13T22:50:24.114Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.006Z",
+  "effectiveDate": "2019-06-12T19:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
-    {
-      "id": "d06994b57f8d4487a39d259b9e88bbb4",
-      "namespace": "columbine",
-      "developer": null
-    },
-    {
-      "id": "3ebe3a6566804e19bcf7623d499e8190",
-      "namespace": "columbine",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -46,6 +31,21 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d06994b57f8d4487a39d259b9e88bbb4"
+    },
+    {
+      "id": "3ebe3a6566804e19bcf7623d499e8190"
+    }
+  ],
+  "catalogNs": null
 }

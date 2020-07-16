@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-07-10T15:34:04.784Z",
-  "lastModifiedDate": "2020-05-28T15:04:20.707Z",
-  "viewableDate": null,
-  "productSlug": "borderlands-the-pre-sequel",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Borderlands: The Pre-Sequel",
   "id": "e7721247ab594e6883daa66e8dae9506",
   "namespace": "6110c92696a54f108c8e9002713ea5f9",
+  "title": "Borderlands: The Pre-Sequel",
   "description": "Borderlands: The Pre-Sequel",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg"
-    }
-  ],
+  "productSlug": "borderlands-the-pre-sequel",
+  "urlSlug": "turkeygeneralaudience",
+  "creationDate": "2019-07-10T15:34:04.784Z",
+  "lastModifiedDate": "2020-05-28T15:04:20.707Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9aeadc7744b14bc1a948f632198f4052",
-      "namespace": "6110c92696a54f108c8e9002713ea5f9",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +129,66 @@
       "value": "borderlands-the-pre-sequel"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg",
+      "md5": "0e1682595bdaab7a226149a5154c426e",
+      "size": 498996,
+      "uploadedDate": "2020-05-22T19:07:55.553Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+      "md5": "f2cb4bbd853d7c73918bb26c99d1baae",
+      "size": 474615,
+      "uploadedDate": "2020-05-22T19:08:05.910Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+      "md5": "f2cb4bbd853d7c73918bb26c99d1baae",
+      "size": 474615,
+      "uploadedDate": "2020-05-22T19:08:26.682Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Wide-2560x1440-0e1682595bdaab7a226149a5154c426e.jpg",
+      "md5": "0e1682595bdaab7a226149a5154c426e",
+      "size": 498996,
+      "uploadedDate": "2020-05-22T19:08:39.920Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+      "md5": "f2cb4bbd853d7c73918bb26c99d1baae",
+      "size": 474615,
+      "uploadedDate": "2020-05-22T19:08:53.948Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6110c92696a54f108c8e9002713ea5f9/offer/EGS_BorderlandsThePreSequel_Tall-860x1148-f2cb4bbd853d7c73918bb26c99d1baae.jpg",
+      "md5": "f2cb4bbd853d7c73918bb26c99d1baae",
+      "size": 474615,
+      "uploadedDate": "2020-05-22T19:09:04.553Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9aeadc7744b14bc1a948f632198f4052"
+    }
+  ],
+  "catalogNs": null
 }

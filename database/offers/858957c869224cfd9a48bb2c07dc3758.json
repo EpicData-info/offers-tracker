@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-08T16:26:06.458Z",
-  "creationDate": "2020-06-08T16:26:06.523Z",
-  "lastModifiedDate": "2020-06-08T16:26:06.523Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "shaveta12 General Audience",
   "id": "858957c869224cfd9a48bb2c07dc3758",
   "namespace": "22ff1e32170b41599dbd53663b5549a9",
+  "title": "shaveta12 General Audience",
   "description": "shaveta12 General Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "shaveta12-general-audience",
+  "creationDate": "2020-06-08T16:26:06.523Z",
+  "lastModifiedDate": "2020-06-08T16:26:06.523Z",
+  "effectiveDate": "2020-06-08T16:26:06.458Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-c4fxgkfc32rhm693y8ymmatlrg9b37",
     "name": "Shaveta12"
   },
-  "items": [
-    {
-      "id": "fae2835c79384e02841ba593ab034dfa",
-      "namespace": "22ff1e32170b41599dbd53663b5549a9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -39,6 +34,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fae2835c79384e02841ba593ab034dfa"
+    }
+  ],
+  "catalogNs": null
 }

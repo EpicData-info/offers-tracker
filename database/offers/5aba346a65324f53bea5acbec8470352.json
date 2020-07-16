@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-12T16:00:00.000Z",
-  "creationDate": "2019-06-21T14:06:03.870Z",
-  "lastModifiedDate": "2020-05-13T20:34:41.634Z",
-  "viewableDate": null,
-  "productSlug": "the-escapists/santas-sweatshop",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Santa's Sweatshop",
   "id": "5aba346a65324f53bea5acbec8470352",
   "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "title": "Santa's Sweatshop",
   "description": "Santa's Sweatshop",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_Team17DigitalLtd_TheEscapistsSantasSweatshop_G1A_00-1920x1080-07d406a9fba5a5d15d4db491971fb5b9dd5be014.jpg"
-    }
-  ],
+  "productSlug": "the-escapists/santas-sweatshop",
+  "urlSlug": "peony-dlc-04",
+  "creationDate": "2019-06-21T14:06:03.870Z",
+  "lastModifiedDate": "2020-05-13T20:34:41.634Z",
+  "effectiveDate": "2019-12-12T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
-    {
-      "id": "d7ae5d5b89374f98a3a38c5ef19afec1",
-      "namespace": "61bc780f42f84fe29e6dfee957ab82de",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-escapists/santas-sweatshop"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -56,6 +37,37 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists/santas-sweatshop"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png",
+      "md5": "0806e4a2ff09009a68dd36f55eb9b10a",
+      "size": 278372,
+      "uploadedDate": "2019-12-02T17:18:17.237Z",
+      "width": 1000,
+      "height": 840
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_Team17DigitalLtd_TheEscapistsSantasSweatshop_G1A_00-1920x1080-07d406a9fba5a5d15d4db491971fb5b9dd5be014.jpg",
+      "md5": "587d172fa8d578c2c4efe38f7dde32ee",
+      "size": 253368,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "d7ae5d5b89374f98a3a38c5ef19afec1"
+    }
+  ],
+  "catalogNs": null
 }

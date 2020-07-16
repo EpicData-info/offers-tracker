@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-07T21:46:14.596Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "falcon-age",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Falcon Age",
   "id": "4dfe723e347f43a68084b77e5f747e81",
   "namespace": "epic",
+  "title": "Falcon Age",
   "description": "Falcon Age",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PrimaryPromo-1440x810-1440x810-0d20764dc8ab543b18b5a2af267e7cd8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PortraitPromo-960x1080-960x1080-144e95628ca3d2ca48289b1b373b7398.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/FalconAge_Logo-2650x905-fbc35a43de3237ce11eb360b4c2bf40e.png"
-    }
-  ],
+  "productSlug": "falcon-age",
+  "urlSlug": "falcon-age",
+  "creationDate": "2019-06-07T21:46:14.596Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jp8nn3fnwlecen2ew5l6fv8agjzaf7",
     "name": "Outerloop Games LLC"
   },
-  "items": [
+  "linkedOfferId": "d15a9bad13314dd6ac4978e31147c865",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1179",
+      "name": "VR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:47.428Z",
+      "updated": "2020-04-09T17:11:19.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +124,39 @@
       "value": "d15a9bad13314dd6ac4978e31147c865"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PrimaryPromo-1440x810-1440x810-0d20764dc8ab543b18b5a2af267e7cd8.jpg",
+      "md5": "0d20764dc8ab543b18b5a2af267e7cd8",
+      "size": 184872,
+      "uploadedDate": "2019-06-07T21:40:50.105Z",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_product_parrot_home_FalconAge_PortraitPromo-960x1080-960x1080-144e95628ca3d2ca48289b1b373b7398.jpg",
+      "md5": "144e95628ca3d2ca48289b1b373b7398",
+      "size": 138187,
+      "uploadedDate": "2019-06-07T21:40:58.745Z",
+      "width": 960,
+      "height": 1080
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/FalconAge_Logo-2650x905-fbc35a43de3237ce11eb360b4c2bf40e.png",
+      "md5": "fbc35a43de3237ce11eb360b4c2bf40e",
+      "size": 232371,
+      "uploadedDate": "2019-08-02T18:23:17.524Z",
+      "width": 2650,
+      "height": 905
     }
   ],
-  "linkedOfferId": "d15a9bad13314dd6ac4978e31147c865",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "developerName",
-        "value": "Outerloop Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "falcon-age"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

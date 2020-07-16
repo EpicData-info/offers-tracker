@@ -1,67 +1,87 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-23T03:00:00.000Z",
-  "creationDate": "2019-03-16T06:35:04.064Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "the-outer-worlds/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Outer Worlds",
   "id": "5af5633e9f1747728d4fee10988ca2b7",
   "namespace": "rosemallow",
+  "title": "The Outer Worlds",
   "description": "The Outer Worlds",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/TheOuterWorlds-logo-dropshadow (1)-5544x2422-448a144fddbb69f460cb660441011eb9.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg"
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EG_Store_The_Outer_WorldFeaturedCarousel_Mobile-510x680-d3d2295b4c276285294402d00f62c791.jpg"
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Outerworlds-1360x766-74c1341fdc70510b1dd3288b58a6d2d7.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeOffer_2560x1440-2560x1440-5d1eae9583dff69cde822c8674d312c5.jpg"
-    }
-  ],
+  "productSlug": "the-outer-worlds/home",
+  "urlSlug": "rosemallowgeneralaudience",
+  "creationDate": "2019-03-16T06:35:04.064Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-10-23T03:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
     "name": "Private Division"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fcf496d7382341fcaf3c2b583f116e2c",
-      "namespace": "rosemallow",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -82,17 +102,93 @@
       "value": "the-outer-worlds/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheOuterWorlds-logo-dropshadow (1)-5544x2422-448a144fddbb69f460cb660441011eb9.png",
+      "md5": "448a144fddbb69f460cb660441011eb9",
+      "size": 812312,
+      "uploadedDate": "2019-09-25T23:38:31.507Z",
+      "width": 5544,
+      "height": 2422
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg",
+      "md5": "116966cde61a85e23878e43b37e3d364",
+      "size": 304561,
+      "uploadedDate": "2019-09-25T23:41:02.633Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
+      "size": 241075,
+      "uploadedDate": "2019-09-25T23:42:51.293Z",
+      "width": 1280,
+      "height": 1140
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EG_Store_The_Outer_WorldFeaturedCarousel_Mobile-510x680-d3d2295b4c276285294402d00f62c791.jpg",
+      "md5": "d3d2295b4c276285294402d00f62c791",
+      "size": 517668,
+      "uploadedDate": "2019-10-24T20:23:06.091Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Outerworlds-1360x766-74c1341fdc70510b1dd3288b58a6d2d7.jpg",
+      "md5": "74c1341fdc70510b1dd3288b58a6d2d7",
+      "size": 1477184,
+      "uploadedDate": "2019-10-25T14:30:38.199Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
+      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
+      "size": 241075,
+      "uploadedDate": "2019-09-25T23:42:51.293Z",
+      "width": 1280,
+      "height": 1140
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
+      "md5": "68201d88144e1fb2fb55398a0114ea4b",
+      "size": 113481,
+      "uploadedDate": "2019-10-24T00:50:19.754Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
+      "md5": "68201d88144e1fb2fb55398a0114ea4b",
+      "size": 113481,
+      "uploadedDate": "2019-10-24T00:50:31.030Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeOffer_2560x1440-2560x1440-5d1eae9583dff69cde822c8674d312c5.jpg",
+      "md5": "5d1eae9583dff69cde822c8674d312c5",
+      "size": 4495357,
+      "uploadedDate": "2020-03-12T22:29:22.855Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fcf496d7382341fcaf3c2b583f116e2c"
+    }
+  ],
+  "catalogNs": null
 }

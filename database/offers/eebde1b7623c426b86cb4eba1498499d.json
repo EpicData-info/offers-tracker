@@ -1,43 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2019-10-17T20:51:45.656Z",
-  "lastModifiedDate": "2020-05-11T15:20:29.635Z",
-  "viewableDate": null,
-  "productSlug": "ticket-to-ride/nordic-countries ",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Nordic Countries DLC",
   "id": "eebde1b7623c426b86cb4eba1498499d",
   "namespace": "b4d9169e1b8548f2babec33107253309",
+  "title": "Nordic Countries DLC",
   "description": "Nordic Countries",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_NORDIC_Desktop-horizontal-1360x766-cdf45b2754ed1d4b442db4a7ed97450fc6963429.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg"
-    }
-  ],
+  "productSlug": "ticket-to-ride/nordic-countries ",
+  "urlSlug": "nordic-countries-dlc",
+  "creationDate": "2019-10-17T20:51:45.656Z",
+  "lastModifiedDate": "2020-05-11T15:20:29.635Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "5aaac1f6f80d44049533617e06ae4f1d",
-      "namespace": "b4d9169e1b8548f2babec33107253309",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,20 +101,39 @@
       "value": "ticket-to-ride/nordic-countries "
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_NORDIC_Desktop-horizontal-1360x766-cdf45b2754ed1d4b442db4a7ed97450fc6963429.jpg",
+      "md5": "fbf6c3b29f0317f64043c42eb93e41c5",
+      "size": 251505,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg",
+      "md5": "a595b7c016c0546aa8990084e3db7ceb",
+      "size": 61084,
+      "uploadedDate": "2020-04-20T20:05:52.522Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_nordic-countries_Mobile-Vertical-510x680-510x680-d2a2a9a9c0c2398a806af003c3b230e05ac9f158-510x680-a595b7c016c0546aa8990084e3db7ceb.jpg",
+      "md5": "a595b7c016c0546aa8990084e3db7ceb",
+      "size": 61084,
+      "uploadedDate": "2020-04-20T20:06:07.334Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "5aaac1f6f80d44049533617e06ae4f1d"
+    }
+  ],
+  "catalogNs": null
 }

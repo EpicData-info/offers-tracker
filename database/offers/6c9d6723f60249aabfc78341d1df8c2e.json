@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2017-03-01T10:45:00.000Z",
-  "creationDate": "2017-03-02T02:46:52.794Z",
-  "lastModifiedDate": "2020-04-29T00:46:41.077Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "ChuckTestFreeOfferChange",
   "id": "6c9d6723f60249aabfc78341d1df8c2e",
   "namespace": "SeaQA",
+  "title": "ChuckTestFreeOfferChange",
   "description": "ChuckTestFreeOffer",
   "longDescription": "ChuckTestFreeOffer",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "chucktestfreeoffer",
+  "creationDate": "2017-03-02T02:46:52.794Z",
+  "lastModifiedDate": "2020-04-29T00:46:41.077Z",
+  "effectiveDate": "2017-03-01T10:45:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "00cb903628564e2e8f234b509c32afb5",
-      "namespace": "SeaQA",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "ChuckTestFreeOffer",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "assets"
@@ -36,6 +31,13 @@
       "path": "assets/testing"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "00cb903628564e2e8f234b509c32afb5"
+    }
+  ],
+  "catalogNs": null
 }

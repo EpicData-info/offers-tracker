@@ -1,57 +1,111 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-21T22:00:00.000Z",
-  "creationDate": "2019-03-19T02:04:08.177Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "the-sinking-city/necronomicon-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Sinking City Necronomicon Edition",
   "id": "6d41453a02a04beca556a36ceff43855",
   "namespace": "middlemist",
+  "title": "The Sinking City Necronomicon Edition",
   "description": "The Sinking City Necronomicon Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg"
-    }
-  ],
+  "productSlug": "the-sinking-city/necronomicon-edition",
+  "urlSlug": "the-sinking-city-necronomicon-edition",
+  "creationDate": "2019-03-19T02:04:08.177Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-06-21T22:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "63774f386e7c423fb0834e40cde3ddeb",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "dedda7d8eafc4b29bfbac110f43dcacf",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "3ce3782bfb70481aa4868d81b38c8e03",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -76,17 +130,54 @@
       "value": "the-sinking-city/necronomicon-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png",
+      "md5": "6b8997ce9a9bb8484607e46ed616bf16",
+      "size": 378912,
+      "uploadedDate": "2019-04-25T18:25:49.664Z",
+      "width": 840,
+      "height": 1000
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png",
+      "md5": "6b8997ce9a9bb8484607e46ed616bf16",
+      "size": 378912,
+      "uploadedDate": "2019-04-25T18:25:56.611Z",
+      "width": 840,
+      "height": 1000
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_BIGBEN_Necronomicon_G2-840x1000-6b8997ce9a9bb8484607e46ed616bf16-840x1000-6b8997ce9a9bb8484607e46ed616bf16.png",
+      "md5": "6b8997ce9a9bb8484607e46ed616bf16",
+      "size": 378912,
+      "uploadedDate": "2020-04-20T21:36:39.197Z",
+      "width": 840,
+      "height": 1000
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/middlemist/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg",
+      "md5": "58bab67d7de7857c0554d074cb4cf6a0",
+      "size": 372258,
+      "uploadedDate": "2020-04-20T21:36:59.038Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "63774f386e7c423fb0834e40cde3ddeb"
+    },
+    {
+      "id": "dedda7d8eafc4b29bfbac110f43dcacf"
+    },
+    {
+      "id": "3ce3782bfb70481aa4868d81b38c8e03"
+    }
+  ],
+  "catalogNs": null
 }

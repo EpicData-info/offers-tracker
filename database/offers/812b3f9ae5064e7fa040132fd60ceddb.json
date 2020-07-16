@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-18T13:26:00.000Z",
-  "creationDate": "2019-03-18T17:32:11.356Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "kine/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kine",
   "id": "812b3f9ae5064e7fa040132fd60ceddb",
   "namespace": "epic",
+  "title": "Kine",
   "description": "Kine",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
-    }
-  ],
+  "productSlug": "kine/home",
+  "urlSlug": "kine",
+  "creationDate": "2019-03-18T17:32:11.356Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-03-18T13:26:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "items": [
+  "linkedOfferId": "dce338d41ea84680a81ad383a1f7f401",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +112,39 @@
       "value": "dce338d41ea84680a81ad383a1f7f401"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg",
+      "md5": "dbae2448ed2180f3a70ddcb16a285d3a",
+      "size": 238561,
+      "uploadedDate": "2019-03-18T17:27:50.719Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
+      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
+      "size": 19522,
+      "uploadedDate": "2019-08-14T19:43:13.175Z",
+      "width": 1181,
+      "height": 651
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
+      "md5": "d6654569827accce959ef0f9c97b0da8",
+      "size": 151630,
+      "uploadedDate": "2019-09-17T22:04:57.669Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "dce338d41ea84680a81ad383a1f7f401",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Gwen Frey"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "kine/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

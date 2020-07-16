@@ -1,63 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-12-14T00:00:00.000Z",
-  "creationDate": "2018-11-29T23:21:51.529Z",
-  "lastModifiedDate": "2020-05-06T20:28:24.760Z",
-  "viewableDate": null,
-  "productSlug": "darksiders3",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders III",
   "id": "95e743aa01c6410680916acb796246b5",
   "namespace": "springbok",
+  "title": "Darksiders III",
   "description": "Darksiders III",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/springbok/item/Primary_Promo2-2580x1456-f4e5599e662277ab74bd924adc2b13f2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_Horizontal-2560x1440-417a54a752a7aecb70c340872fc77e74.jpg"
-    }
-  ],
+  "productSlug": "darksiders3",
+  "urlSlug": "darksiders",
+  "creationDate": "2018-11-29T23:21:51.529Z",
+  "lastModifiedDate": "2020-05-06T20:28:24.760Z",
+  "effectiveDate": "2018-12-14T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "cd95e989ab994d439b41ad4dbb80a856",
-      "namespace": "springbok",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +117,84 @@
       "value": "darksiders3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+      "md5": "864bba556f317c24eb047db8ee19a260",
+      "size": 178886,
+      "uploadedDate": "2018-12-06T21:37:09.089Z",
+      "width": 1288,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg",
+      "md5": "0df0d90a521994e320793355832a5924",
+      "size": 248248,
+      "uploadedDate": "2019-03-27T17:12:40.868Z",
+      "width": 960,
+      "height": 542
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png",
+      "md5": "84fba9f14ba587a4b067bd14de325479",
+      "size": 24085,
+      "uploadedDate": "2019-04-08T13:59:23.392Z",
+      "width": 1500,
+      "height": 281
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+      "md5": "864bba556f317c24eb047db8ee19a260",
+      "size": 178886,
+      "uploadedDate": "2018-12-06T21:37:09.089Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/springbok/item/Primary_Promo2-2580x1456-f4e5599e662277ab74bd924adc2b13f2.jpg",
+      "md5": "f4e5599e662277ab74bd924adc2b13f2",
+      "size": 3186075,
+      "uploadedDate": "2018-11-29T23:19:05.024Z",
+      "width": 2580,
+      "height": 1456
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/springbok/offer/coderedemption-340x440-e43ab51858d0c4fdcb74a63590343ef5.jpg",
+      "md5": "e43ab51858d0c4fdcb74a63590343ef5",
+      "size": 78086,
+      "uploadedDate": "2018-12-14T15:50:37.903Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+      "md5": "acb9ad88419d3f09a2d29b582324161f",
+      "size": 100477,
+      "uploadedDate": "2019-04-23T20:31:46.362Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_Horizontal-2560x1440-417a54a752a7aecb70c340872fc77e74.jpg",
+      "md5": "417a54a752a7aecb70c340872fc77e74",
+      "size": 3640850,
+      "uploadedDate": "2020-02-28T13:51:24.078Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "cd95e989ab994d439b41ad4dbb80a856"
+    }
+  ],
+  "catalogNs": null
 }

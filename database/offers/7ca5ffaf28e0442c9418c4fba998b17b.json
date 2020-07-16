@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-19T23:26:04.837Z",
-  "lastModifiedDate": "2020-06-19T23:35:12.456Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "BucharestGeneralAudience",
   "id": "7ca5ffaf28e0442c9418c4fba998b17b",
   "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
+  "title": "BucharestGeneralAudience",
   "description": "BucharestGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "bucharestgeneralaudience",
+  "creationDate": "2020-06-19T23:26:04.837Z",
+  "lastModifiedDate": "2020-06-19T23:35:12.456Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-hk767x3yr4tfhk2ghy35fq5dnueqdg",
     "name": "Tactic Studios Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c45ac5765ba34669b23c96cec14f4c3c",
-      "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c45ac5765ba34669b23c96cec14f4c3c"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

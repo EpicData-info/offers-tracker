@@ -1,51 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-09T17:00:00.000Z",
-  "creationDate": "2020-05-07T00:52:28.416Z",
-  "lastModifiedDate": "2020-05-09T16:55:40.966Z",
-  "viewableDate": "2020-05-09T17:00:00.000Z",
-  "productSlug": "thimbleweed-park/delores",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Delores: A Thimbleweed Park mini-adventure",
   "id": "fabaacbc88864d4ea40ab569ad4e480e",
   "namespace": "tulip",
+  "title": "Delores: A Thimbleweed Park mini-adventure",
   "description": "Delores: A Thimbleweed Park mini-adventure",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg"
-    }
-  ],
+  "productSlug": "thimbleweed-park/delores",
+  "urlSlug": "deloresgeneralaudience",
+  "creationDate": "2020-05-07T00:52:28.416Z",
+  "lastModifiedDate": "2020-05-09T16:55:40.966Z",
+  "effectiveDate": "2020-05-09T17:00:00.000Z",
+  "viewableDate": "2020-05-09T17:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-phlj6meuxqgdhss58gcqnj86br8xrt",
     "name": "Terrible Toybox, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c8e0e6a355a244dfba4ba3f0a24f0607",
-      "namespace": "tulip",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +125,57 @@
       "value": "thimbleweed-park/delores"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg",
+      "md5": "a282575c156f41cf03a022cb28ef2477",
+      "size": 3387000,
+      "uploadedDate": "2020-05-07T00:52:23.340Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg",
+      "md5": "64fd63efe1c62acf2375b5edc2cfaf7b",
+      "size": 5373889,
+      "uploadedDate": "2020-05-07T00:53:12.516Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_2560x2440_v1-2560x1440-a282575c156f41cf03a022cb28ef2477.jpg",
+      "md5": "438462c63e8f076012cd96d0bf892495",
+      "size": 3387000,
+      "uploadedDate": "2020-05-07T00:53:42.883Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg",
+      "md5": "872d5c5089c8fdd39a89fafbc47508f7",
+      "size": 5373889,
+      "uploadedDate": "2020-05-07T00:53:58.860Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/tulip/offer/Delores_Epic_1200x1600_v1-1200x1600-64fd63efe1c62acf2375b5edc2cfaf7b.jpg",
+      "md5": "872d5c5089c8fdd39a89fafbc47508f7",
+      "size": 5373889,
+      "uploadedDate": "2020-05-07T00:54:10.816Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c8e0e6a355a244dfba4ba3f0a24f0607"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-03T19:01:25.772Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "bee-simulator/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bee Simulator",
   "id": "511a8c736f3b40159ecf0c5c1e1f5ba1",
   "namespace": "epic",
+  "title": "Bee Simulator",
   "description": "Bee Simulator",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_S2_Store_Primary_Promo-1280x1440-252835ff190484d0fea40728c5bbea13.jpg"
-    }
-  ],
+  "productSlug": "bee-simulator/home",
+  "urlSlug": "bee-simulator",
+  "creationDate": "2019-10-03T19:01:25.772Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": "7f981fff99e44998bf0de031eec36925",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "7f981fff99e44998bf0de031eec36925"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_IC1_GameLogo-200x110-a8585fbe9746c4572d086f59fe3ff8bf.png",
+      "md5": "a8585fbe9746c4572d086f59fe3ff8bf",
+      "size": 10828,
+      "uploadedDate": "2019-10-03T18:55:21.658Z",
+      "width": 200,
+      "height": 110
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_L1_Library_Promo-2560x1440-2eb98aa8b29f111801f44b1d2cc9e4a0.jpg",
+      "md5": "2eb98aa8b29f111801f44b1d2cc9e4a0",
+      "size": 288331,
+      "uploadedDate": "2019-10-03T18:55:43.724Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bigben_BeeSimulator_S2_Store_Primary_Promo-1280x1440-252835ff190484d0fea40728c5bbea13.jpg",
+      "md5": "252835ff190484d0fea40728c5bbea13",
+      "size": 212361,
+      "uploadedDate": "2019-10-03T18:55:55.807Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "7f981fff99e44998bf0de031eec36925",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Bigben Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "VARSAV Game Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "bee-simulator/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

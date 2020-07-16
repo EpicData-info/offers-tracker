@@ -1,51 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-11T16:00:00.000Z",
-  "creationDate": "2020-01-13T15:48:51.479Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "anno-2205/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anno 2205",
   "id": "b14d60867fc34e6687e20f1cb98d6d74",
   "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
+  "title": "Anno 2205",
   "description": "Anno 2205 Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-f195b18a6c4a4a2646e84deaf913a9c5b15f58c3.jpg"
-    }
-  ],
+  "productSlug": "anno-2205/home",
+  "urlSlug": "gulpergeneralaudience",
+  "creationDate": "2020-01-13T15:48:51.479Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-02-11T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b8e330a69f9141d0b92643ec13a5ea1d",
-      "namespace": "cbbb7e8728a3476f97e44f3856c3cb13",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +129,57 @@
       "value": "anno-2205/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
+      "md5": "674b207081b22977440cc3dab2f21098",
+      "size": 549009,
+      "uploadedDate": "2020-02-10T19:59:41.179Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png",
+      "md5": "1fdbd4d9b00e5bd8d76c4e41f443314a",
+      "size": 2882805,
+      "uploadedDate": "2020-02-10T19:59:54.029Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Anno2205Portrait-1280x1420-1fdbd4d9b00e5bd8d76c4e41f443314a.png",
+      "md5": "1fdbd4d9b00e5bd8d76c4e41f443314a",
+      "size": 2882805,
+      "uploadedDate": "2020-02-10T19:59:54.029Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
+      "md5": "674b207081b22977440cc3dab2f21098",
+      "size": 549009,
+      "uploadedDate": "2020-02-11T04:45:24.557Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-f195b18a6c4a4a2646e84deaf913a9c5b15f58c3.jpg",
+      "md5": "19f638dff143a81f3243d2e49fd8034e",
+      "size": 283827,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b8e330a69f9141d0b92643ec13a5ea1d"
+    }
+  ],
+  "catalogNs": null
 }

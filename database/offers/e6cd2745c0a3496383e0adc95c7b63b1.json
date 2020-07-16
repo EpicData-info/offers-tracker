@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2019-11-06T21:37:52.210Z",
-  "lastModifiedDate": "2020-05-14T19:36:32.140Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-syndicate/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Syndicate",
   "id": "e6cd2745c0a3496383e0adc95c7b63b1",
   "namespace": "c9be94273fe244c08032ca493ad87434",
+  "title": "Assassin's Creed Syndicate",
   "description": "Assassins Creed Syndicate Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/STD_Edition_Capsule_1920X1080-1920x1080-cbb2a9a9ee074ce9f53c512f8eac823a6f4ee05f.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-syndicate/home",
+  "urlSlug": "albacoregeneralaudience",
+  "creationDate": "2019-11-06T21:37:52.210Z",
+  "lastModifiedDate": "2020-05-14T19:36:32.140Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "df40b68948244e0493561f2a65956f50",
-      "namespace": "c9be94273fe244c08032ca493ad87434",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "assassins-creed-syndicate/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-02-13T04:25:10.477Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg",
+      "md5": "d38ba6341ab707a6ec99c4f921d8a9bc",
+      "size": 853469,
+      "uploadedDate": "2020-02-13T04:25:25.237Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-02-13T04:25:10.477Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACS-STD-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc-2560x1440-d38ba6341ab707a6ec99c4f921d8a9bc.jpg",
+      "md5": "d38ba6341ab707a6ec99c4f921d8a9bc",
+      "size": 853469,
+      "uploadedDate": "2020-02-17T15:43:33.454Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-02-17T15:43:43.043Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/STD_Edition_Capsule_1920X1080-1920x1080-cbb2a9a9ee074ce9f53c512f8eac823a6f4ee05f.jpg",
+      "md5": "0f8b359cb4bfb1db17131197aeed0313",
+      "size": 58613,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "df40b68948244e0493561f2a65956f50"
+    }
+  ],
+  "catalogNs": null
 }

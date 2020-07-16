@@ -1,64 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-22T15:00:00.000Z",
-  "creationDate": "2019-08-08T20:39:11.775Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-odyssey/dlc-1",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Legacy of the First Blade - DLC",
   "id": "e9a83b33a91a42e9af55b48df56cb63b",
   "namespace": "clary",
+  "title": "Legacy of the First Blade - DLC",
   "description": "Legacy of the First Blade - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_LOTFB-330x440-85b47f83b92570e76a40f8b2f8f0d0e5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-66dc48728678f248118975d2cde84aff.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_LegacyDLC_Capsule-1920x1080-0331952cbc7e0202659089c44f3842d437a4d69f.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-odyssey/dlc-1",
+  "urlSlug": "clary-dlc",
+  "creationDate": "2019-08-08T20:39:11.775Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "dc05bfcc90ad4f29a09ad80c4fa96cf6",
-      "namespace": "clary",
-      "developer": null
-    },
-    {
-      "id": "a5dab7795634449aa22af27033c78350",
-      "namespace": "clary",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "assassins-creed-odyssey/dlc-1"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -73,6 +37,57 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey/dlc-1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_LOTFB-330x440-85b47f83b92570e76a40f8b2f8f0d0e5.jpg",
+      "md5": "85b47f83b92570e76a40f8b2f8f0d0e5",
+      "size": 68565,
+      "uploadedDate": "2019-08-17T01:16:24.036Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-66dc48728678f248118975d2cde84aff.jpg",
+      "md5": "66dc48728678f248118975d2cde84aff",
+      "size": 44833,
+      "uploadedDate": "2019-08-17T01:16:53.819Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_LegacyDLC_Capsule-1920x1080-0331952cbc7e0202659089c44f3842d437a4d69f.jpg",
+      "md5": "21bd22e89d4f7032b674e90f0d5d7228",
+      "size": 62714,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "dc05bfcc90ad4f29a09ad80c4fa96cf6"
+    },
+    {
+      "id": "a5dab7795634449aa22af27033c78350"
+    }
+  ],
+  "catalogNs": null
 }

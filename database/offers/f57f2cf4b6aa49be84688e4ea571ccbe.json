@@ -1,47 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-28T15:00:00.000Z",
-  "creationDate": "2019-10-18T01:53:04.996Z",
-  "lastModifiedDate": "2020-07-14T16:20:44.508Z",
-  "viewableDate": "2020-04-28T15:00:00.000Z",
-  "productSlug": "smite",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SMITE",
   "id": "f57f2cf4b6aa49be84688e4ea571ccbe",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "SMITE",
   "description": "SMITE",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Landscape_2560x1440-2560x1440-c1e6730e466d15049980c11d99399880.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg"
-    }
-  ],
+  "productSlug": "smite",
+  "urlSlug": "greenbulgeneralaudience",
+  "creationDate": "2019-10-18T01:53:04.996Z",
+  "lastModifiedDate": "2020-07-14T16:20:44.508Z",
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "viewableDate": "2020-04-28T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "824c0955d3cb43bdb6ca522d476f6a21",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-07-14T16:20:44.681Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +93,48 @@
       "value": "smite"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
+      "md5": "3b72c575b65f8e3553f11d6205a6ccad",
+      "size": 241872,
+      "uploadedDate": "2020-07-14T16:20:11.045Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Landscape_2560x1440-2560x1440-c1e6730e466d15049980c11d99399880.jpg",
+      "md5": "c1e6730e466d15049980c11d99399880",
+      "size": 391539,
+      "uploadedDate": "2020-07-14T16:20:20.003Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
+      "md5": "3b72c575b65f8e3553f11d6205a6ccad",
+      "size": 241872,
+      "uploadedDate": "2020-07-14T16:20:28.253Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/SMITE_EGS_7.7_AvatarAang_Portrait_860x1148-860x1148-3b72c575b65f8e3553f11d6205a6ccad.jpg",
+      "md5": "3b72c575b65f8e3553f11d6205a6ccad",
+      "size": 241872,
+      "uploadedDate": "2020-07-14T16:20:38.286Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "824c0955d3cb43bdb6ca522d476f6a21"
+    }
+  ],
+  "catalogNs": null
 }

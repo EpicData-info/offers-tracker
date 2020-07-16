@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-01-28T07:08:54.826Z",
-  "lastModifiedDate": "2020-07-02T14:32:39.388Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "HerringDevAudience",
   "id": "08e8b5b088f549459fefc510f15bfbe6",
   "namespace": "cd88d9edc5a748cfa138e467205adcac",
+  "title": "HerringDevAudience",
   "description": "HerringDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "herringdevaudience",
+  "creationDate": "2020-01-28T07:08:54.826Z",
+  "lastModifiedDate": "2020-07-02T14:32:39.388Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
     "name": "Curve Digital"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fe7751a7a05448c4acbbcde2d4bb0bb9",
-      "namespace": "cd88d9edc5a748cfa138e467205adcac",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "fe7751a7a05448c4acbbcde2d4bb0bb9"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

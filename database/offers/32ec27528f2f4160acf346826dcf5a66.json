@@ -1,47 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-28T13:00:00.000Z",
-  "creationDate": "2020-05-22T20:00:21.707Z",
-  "lastModifiedDate": "2020-05-28T13:21:51.084Z",
-  "viewableDate": null,
-  "productSlug": "sludge-life/ost",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sludge Life OST",
   "id": "32ec27528f2f4160acf346826dcf5a66",
   "namespace": "158a0eaa18574bb39347c04286d118c7",
+  "title": "Sludge Life OST",
   "description": "Sludge Life OST",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S1-2560x1440-762c5f5c8de4020569a7cc013d7f7415.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg"
-    }
-  ],
+  "productSlug": "sludge-life/ost",
+  "urlSlug": "morganitegeneralaudience-01",
+  "creationDate": "2020-05-22T20:00:21.707Z",
+  "lastModifiedDate": "2020-05-28T13:21:51.084Z",
+  "effectiveDate": "2020-05-28T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c051a641d597458098a6329d05b3356f",
-      "namespace": "158a0eaa18574bb39347c04286d118c7",
-      "developer": null
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +81,48 @@
       "value": "sludge-life/ost"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "digitalextras"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg",
+      "md5": "fd8cbc399532c5b4d61b8e1bba5d9363",
+      "size": 1021676,
+      "uploadedDate": "2020-05-25T15:45:03.017Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S1-2560x1440-762c5f5c8de4020569a7cc013d7f7415.jpg",
+      "md5": "762c5f5c8de4020569a7cc013d7f7415",
+      "size": 1024770,
+      "uploadedDate": "2020-05-25T15:45:24.886Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "digitalextras/soundtrack"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg",
+      "md5": "fd8cbc399532c5b4d61b8e1bba5d9363",
+      "size": 1021676,
+      "uploadedDate": "2020-05-25T15:45:43.628Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/158a0eaa18574bb39347c04286d118c7/offer/EGS_SLUDGELIFEOST_Doseone_DigitalExtras_S2-1200x1600-fd8cbc399532c5b4d61b8e1bba5d9363.jpg",
+      "md5": "fd8cbc399532c5b4d61b8e1bba5d9363",
+      "size": 1021676,
+      "uploadedDate": "2020-05-25T15:46:00.388Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c051a641d597458098a6329d05b3356f"
+    }
+  ],
+  "catalogNs": null
 }

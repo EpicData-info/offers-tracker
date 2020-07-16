@@ -1,5 +1,25 @@
 {
+  "id": "be9455d5fa9e4e1f92c803287e21081c",
+  "namespace": "epic",
+  "title": "For the Love of the Games",
+  "description": "For the Love of the Games",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "for-the-love-of-the-games",
+  "urlSlug": "for-the-love-of-the-games",
+  "creationDate": "2020-02-03T21:29:44.095Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-10-11T19:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "78d8c7226d8b422bb68c00a3f2971acb",
     "26788f6304b749639f1797b56de09a2e",
@@ -79,32 +99,14 @@
     "75804ef64d96446fb250a691fbd6654d",
     "456b1db2807544d596c6b8b4d415d538"
   ],
-  "effectiveDate": "2019-10-11T19:00:00.000Z",
-  "creationDate": "2020-02-03T21:29:44.095Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "for-the-love-of-the-games",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "For the Love of the Games",
-  "id": "be9455d5fa9e4e1f92c803287e21081c",
-  "namespace": "epic",
-  "description": "For the Love of the Games",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [],
-  "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
-  },
-  "items": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
-      "namespace": "epic",
-      "developer": null
+      "path": "collections"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.collectionOfferIds.30",
@@ -419,11 +421,11 @@
       "value": "15a6c7220ba045448aeaed7e7c2f9a1f"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

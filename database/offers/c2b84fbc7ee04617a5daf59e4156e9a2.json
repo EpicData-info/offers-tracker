@@ -1,43 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-14T19:15:15.071Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "jackbox-party-pack-6/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Jackbox Party Pack 6",
   "id": "c2b84fbc7ee04617a5daf59e4156e9a2",
   "namespace": "epic",
+  "title": "The Jackbox Party Pack 6",
   "description": "The Jackbox Party Pack 6",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_S2-1280x1440-8f39977a92dcf52192b5c235840104ec.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_S1-2560x1440-2f34578afe36d88a536777d98bfca0b9.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_IC1-200x200-9fb5a6cf02e8cefd1a47d9d64ce352e9.png"
-    }
-  ],
+  "productSlug": "jackbox-party-pack-6/home",
+  "urlSlug": "the-jackbox-party-pack",
+  "creationDate": "2019-10-14T19:15:15.071Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "items": [
+  "linkedOfferId": "101424838a68468d8da192f3644e61d4",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +127,39 @@
       "value": "101424838a68468d8da192f3644e61d4"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_S2-1280x1440-8f39977a92dcf52192b5c235840104ec.jpg",
+      "md5": "8f39977a92dcf52192b5c235840104ec",
+      "size": 161558,
+      "uploadedDate": "2019-10-14T19:11:59.154Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_S1-2560x1440-2f34578afe36d88a536777d98bfca0b9.jpg",
+      "md5": "2f34578afe36d88a536777d98bfca0b9",
+      "size": 252493,
+      "uploadedDate": "2019-10-14T19:12:07.350Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_JackboxGamesInc_TheJackboxPartyPack6_IC1-200x200-9fb5a6cf02e8cefd1a47d9d64ce352e9.png",
+      "md5": "9fb5a6cf02e8cefd1a47d9d64ce352e9",
+      "size": 15579,
+      "uploadedDate": "2019-10-14T19:12:17.447Z",
+      "width": 200,
+      "height": 200
     }
   ],
-  "linkedOfferId": "101424838a68468d8da192f3644e61d4",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Jackbox Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "jackbox-party-pack-6/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

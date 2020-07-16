@@ -1,53 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-08-21T22:11:38.893Z",
-  "lastModifiedDate": "2019-09-05T07:45:56.691Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "A Collector's Edition Retail",
   "id": "124f453548ad4fd688c7e0bc96cdcafb",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "title": "A Collector's Edition Retail",
   "description": "A Collector's Edition (Retail)",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "a-collector-s-edition-retail",
+  "creationDate": "2019-08-21T22:11:38.893Z",
+  "lastModifiedDate": "2019-09-05T07:45:56.691Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
-    {
-      "id": "d3d9c868997a46a7991f315b46829d27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "94de2397bf644f75827591858fdc6d26",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "799937cf94e0432e83f322c07be65fea",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "abbbc39fbfef4a01a07117629e729da6",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "d416a8c6968f48e299a8f34ef8683c27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -56,6 +31,25 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d3d9c868997a46a7991f315b46829d27"
+    },
+    {
+      "id": "94de2397bf644f75827591858fdc6d26"
+    },
+    {
+      "id": "799937cf94e0432e83f322c07be65fea"
+    },
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6"
+    },
+    {
+      "id": "d416a8c6968f48e299a8f34ef8683c27"
+    }
+  ],
+  "catalogNs": null
 }

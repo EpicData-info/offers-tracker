@@ -1,63 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-09T14:00:00.000Z",
-  "creationDate": "2020-05-08T20:21:03.080Z",
-  "lastModifiedDate": "2020-06-09T16:00:14.046Z",
-  "viewableDate": "2020-06-09T14:00:00.000Z",
-  "productSlug": "rimworld/royalty-dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RimWorld Royalty DLC",
   "id": "09629ec2882445d8a52ffe1adef2e76d",
   "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "title": "RimWorld Royalty DLC",
   "description": "RimWorld Royalty DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S1-2560x1440-c2d988da3d4ae505be7bc9739515a3ed.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg"
-    }
-  ],
+  "productSlug": "rimworld/royalty-dlc",
+  "urlSlug": "ironstonedlc01audience",
+  "creationDate": "2020-05-08T20:21:03.080Z",
+  "lastModifiedDate": "2020-06-09T16:00:14.046Z",
+  "effectiveDate": "2020-06-09T14:00:00.000Z",
+  "viewableDate": "2020-06-09T14:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-hsdwarj24e4ntqdnvu83854narhusv",
     "name": "Ludeon Studios"
   },
-  "items": [
-    {
-      "id": "f97846ee07fb442d8f1a586842a28c45",
-      "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    },
-    {
-      "key": "publisherName",
-      "value": "Ludeon Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rimworld/royalty-dlc"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -72,6 +37,63 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ludeon Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rimworld/royalty-dlc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
+      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
+      "size": 644061,
+      "uploadedDate": "2020-06-08T18:06:35.493Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S1-2560x1440-c2d988da3d4ae505be7bc9739515a3ed.jpg",
+      "md5": "c2d988da3d4ae505be7bc9739515a3ed",
+      "size": 819956,
+      "uploadedDate": "2020-06-08T18:06:49.074Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
+      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
+      "size": 644061,
+      "uploadedDate": "2020-06-08T18:07:08.617Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_Royalty_LudeonStudios_DLC_S2-1200x1600-e6e2d5dbcbecf38f58579f10e96550f2.jpg",
+      "md5": "e6e2d5dbcbecf38f58579f10e96550f2",
+      "size": 644061,
+      "uploadedDate": "2020-06-08T18:07:22.862Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f97846ee07fb442d8f1a586842a28c45"
+    }
+  ],
+  "catalogNs": null
 }

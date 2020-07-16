@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-13T06:00:00.000Z",
-  "creationDate": "2019-09-10T21:22:54.445Z",
-  "lastModifiedDate": "2020-05-11T18:21:37.469Z",
-  "viewableDate": null,
-  "productSlug": "cardpocalypse/soundtrack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Cardpocalypse Soundtrack",
   "id": "6e2183399bc64ce3aa86a5a9f42e74d6",
   "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "title": "Cardpocalypse Soundtrack",
   "description": "Cardpocalypse Soundtrack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_Soundtrack_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-3a7d0f4c59b908737a6becfbd461c2808a479f4d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg"
-    }
-  ],
+  "productSlug": "cardpocalypse/soundtrack",
+  "urlSlug": "duck-soundtrack",
+  "creationDate": "2019-09-10T21:22:54.445Z",
+  "lastModifiedDate": "2020-05-11T18:21:37.469Z",
+  "effectiveDate": "2019-09-13T06:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8012c7eb15e944e38b5a64e6f5802fd8",
-      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
-      "developer": null
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "digitalextras/soundtrack"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "CARD GAME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2020-06-15T16:42:51.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +117,48 @@
       "value": "cardpocalypse/soundtrack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "digitalextras"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_Soundtrack_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-3a7d0f4c59b908737a6becfbd461c2808a479f4d.jpg",
+      "md5": "86d33d9e04f4e1abbd6899a636d99611",
+      "size": 549492,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg",
+      "md5": "a30c885a019b7a176652fdcb6339d787",
+      "size": 358711,
+      "uploadedDate": "2020-04-14T16:17:57.837Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "digitalextras/soundtrack"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg",
+      "md5": "a30c885a019b7a176652fdcb6339d787",
+      "size": 358711,
+      "uploadedDate": "2020-04-14T16:18:20.082Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/Cardpocalypse_ST_Portrait-Offer-860x1148-a30c885a019b7a176652fdcb6339d787.jpg",
+      "md5": "a30c885a019b7a176652fdcb6339d787",
+      "size": 358711,
+      "uploadedDate": "2020-04-14T16:18:34.314Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8012c7eb15e944e38b5a64e6f5802fd8"
+    }
+  ],
+  "catalogNs": null
 }

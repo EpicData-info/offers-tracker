@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "creationDate": "2020-01-28T15:04:29.077Z",
-  "lastModifiedDate": "2020-05-13T20:57:56.814Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/ost-atmospheres-and-additionals",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "OST Atmospheres & Additionals",
   "id": "fad78152c13144a3a5d5d7740b39c6c8",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "OST Atmospheres & Additionals",
   "description": "OST Atmospheres & Additionals",
   "longDescription": "Classic DLC",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_OSTAtmospheresAdditionals_IC1-200x200-5680b845a3311745344ca477e673013deb3ed8bf.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/ost-atmospheres-and-additionals",
+  "urlSlug": "sound-track-01",
+  "creationDate": "2020-01-28T15:04:29.077Z",
+  "lastModifiedDate": "2020-05-13T20:57:56.814Z",
+  "effectiveDate": "2020-02-13T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
-    {
-      "id": "5ac64ec930e643429eee62920dbffc60",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Warhorse Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/ost-atmospheres-and-additionals"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "digitalextras"
@@ -68,6 +37,108 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Warhorse Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/ost-atmospheres-and-additionals"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-02-13T15:20:49.222Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_OSTAtmospheresAdditionals_IC1-200x200-5680b845a3311745344ca477e673013deb3ed8bf.png",
+      "md5": "b22d69bd87b01adf1654a7c8dcc0de55",
+      "size": 8349,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T15:10:24.986Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T15:10:52.339Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "5ac64ec930e643429eee62920dbffc60"
+    }
+  ],
+  "catalogNs": null
 }

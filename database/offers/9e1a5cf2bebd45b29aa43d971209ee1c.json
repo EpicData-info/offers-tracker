@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-21T22:54:25.748Z",
-  "lastModifiedDate": "2020-07-14T19:02:30.272Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC 5",
   "id": "9e1a5cf2bebd45b29aa43d971209ee1c",
   "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "title": "DLC 5",
   "description": "Southern Style Cosmetic DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dlc-04",
+  "creationDate": "2019-11-21T22:54:25.748Z",
+  "lastModifiedDate": "2020-07-14T19:02:30.272Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "c03953bfd14247d2aaee0e748e503e90",
-      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c03953bfd14247d2aaee0e748e503e90"
+    }
+  ],
+  "catalogNs": null
 }

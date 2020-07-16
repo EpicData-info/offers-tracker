@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-09-16T21:00:04.462Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "batman-arkham-city/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Batman™: Arkham City - Game of the Year Edition",
   "id": "9602d3adbf28458284215cda7f224b28",
   "namespace": "epic",
+  "title": "Batman™: Arkham City - Game of the Year Edition",
   "description": "Batman™: Arkham City - Game of the Year Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city-211x147-1cbd73df12315f6e365fece90479e25c.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city_promo-1920x1069-a9df1792f1f418d4269c1e42033c9602.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-city_portrait-1258x1440-c502194fea40db03d838fa0368b67427.jpg"
-    }
-  ],
+  "productSlug": "batman-arkham-city/home",
+  "urlSlug": "batman-arkham-city-game-of-the-year-edition",
+  "creationDate": "2019-09-16T21:00:04.462Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
     "name": "Warner Bros."
   },
-  "items": [
+  "linkedOfferId": "1d96b05c04804b4e8df4b376e3c1c490",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-06-24T15:18:26.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "1d96b05c04804b4e8df4b376e3c1c490"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city-211x147-1cbd73df12315f6e365fece90479e25c.png",
+      "md5": "1cbd73df12315f6e365fece90479e25c",
+      "size": 24062,
+      "uploadedDate": "2019-09-16T20:57:35.152Z",
+      "width": 211,
+      "height": 147
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman_arkham_city_promo-1920x1069-a9df1792f1f418d4269c1e42033c9602.jpg",
+      "md5": "a9df1792f1f418d4269c1e42033c9602",
+      "size": 250758,
+      "uploadedDate": "2019-09-16T20:58:55.921Z",
+      "width": 1920,
+      "height": 1069
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-city_portrait-1258x1440-c502194fea40db03d838fa0368b67427.jpg",
+      "md5": "c502194fea40db03d838fa0368b67427",
+      "size": 292427,
+      "uploadedDate": "2019-09-16T20:59:41.927Z",
+      "width": 1258,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "1d96b05c04804b4e8df4b376e3c1c490",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Warner Bros."
-      },
-      {
-        "key": "developerName",
-        "value": "Rocksteady Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "batman-arkham-city/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

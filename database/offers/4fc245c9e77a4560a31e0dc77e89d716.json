@@ -1,55 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-01-17T23:15:28.040Z",
-  "lastModifiedDate": "2020-07-09T16:39:14.273Z",
-  "viewableDate": null,
-  "productSlug": "a-total-war-saga-troy",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "A Total War Saga: TROY",
   "id": "4fc245c9e77a4560a31e0dc77e89d716",
   "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+  "title": "A Total War Saga: TROY",
   "description": "In this legendary age, heroes walk the earth. In an act that shocks the world, audacious Paris, prince of Troy, elopes with the beautiful queen of Sparta. As they sail away, King Menelaus curses her name. He vows to bring his wife home – whatever the cost",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg"
-    }
-  ],
+  "productSlug": "a-total-war-saga-troy",
+  "urlSlug": "a-total-war-saga-troy",
+  "creationDate": "2020-01-17T23:15:28.040Z",
+  "lastModifiedDate": "2020-07-09T16:39:14.273Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
     "name": "SEGA of Europe"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "110700eec1124f78b064e66bb6c30f1c",
-      "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +93,66 @@
       "value": "a-total-war-saga-troy"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg",
+      "md5": "3b37fecb384738a6fd0fff56b22d311d",
+      "size": 474667,
+      "uploadedDate": "2020-05-28T19:05:16.685Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg",
+      "md5": "4dc6b4bb1c8958b13c60e4346ad31288",
+      "size": 228149,
+      "uploadedDate": "2020-05-28T19:05:26.110Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg",
+      "md5": "4dc6b4bb1c8958b13c60e4346ad31288",
+      "size": 228149,
+      "uploadedDate": "2020-05-28T19:05:34.528Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg",
+      "md5": "4dc6b4bb1c8958b13c60e4346ad31288",
+      "size": 228149,
+      "uploadedDate": "2020-05-28T19:05:42.052Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S1-2560x1440-3b37fecb384738a6fd0fff56b22d311d.jpg",
+      "md5": "3b37fecb384738a6fd0fff56b22d311d",
+      "size": 474667,
+      "uploadedDate": "2020-05-28T19:05:51.189Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/EGS_TotalWarSagaTROY_CREATIVEASSEMBLY_S2-1200x1600-4dc6b4bb1c8958b13c60e4346ad31288.jpg",
+      "md5": "4dc6b4bb1c8958b13c60e4346ad31288",
+      "size": 228149,
+      "uploadedDate": "2020-05-28T19:06:04.718Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "110700eec1124f78b064e66bb6c30f1c"
+    }
+  ],
+  "catalogNs": null
 }

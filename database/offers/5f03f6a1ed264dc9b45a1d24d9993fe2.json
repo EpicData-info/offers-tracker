@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-02T04:20:42.837Z",
-  "lastModifiedDate": "2019-09-20T14:58:14.156Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "ShallotsDevAudience",
   "id": "5f03f6a1ed264dc9b45a1d24d9993fe2",
   "namespace": "ada169f07b81464a9fc06a7d6896101d",
+  "title": "ShallotsDevAudience",
   "description": "ShallotsDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "shallotsdevaudience",
+  "creationDate": "2019-06-02T04:20:42.837Z",
+  "lastModifiedDate": "2019-09-20T14:58:14.156Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ftmts7pjfvdywkby885rdzl4hdbtys",
     "name": "Iceberg Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d94e9918edc74182ac8ea9036bff26fd",
-      "namespace": "ada169f07b81464a9fc06a7d6896101d",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d94e9918edc74182ac8ea9036bff26fd"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

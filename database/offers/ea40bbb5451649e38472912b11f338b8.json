@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-11T00:00:00.000Z",
-  "creationDate": "2019-12-11T01:58:26.547Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "the-wolf-among-us/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Wolf Among Us",
   "id": "ea40bbb5451649e38472912b11f338b8",
   "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
+  "title": "The Wolf Among Us",
   "description": "The Wolf Among Us",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg"
-    }
-  ],
+  "productSlug": "the-wolf-among-us/home",
+  "urlSlug": "cobblergeneralaudience-01",
+  "creationDate": "2019-12-11T01:58:26.547Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-12-11T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
     "name": "Athlon Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0e1b2200810e41a6aaa3aa09e40bfdba",
-      "namespace": "a8f9fb4a881e47b489715f18f7d08e2f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +105,66 @@
       "value": "the-wolf-among-us/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+      "md5": "087d32300cf450fb5f1f1582c7b831fc",
+      "size": 345673,
+      "uploadedDate": "2019-12-05T19:28:40.512Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg",
+      "md5": "3d592297f8f96e8699f46ce34a7f5b10",
+      "size": 453521,
+      "uploadedDate": "2019-12-05T19:28:50.929Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg",
+      "md5": "3d592297f8f96e8699f46ce34a7f5b10",
+      "size": 453521,
+      "uploadedDate": "2019-12-05T19:28:50.929Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+      "md5": "087d32300cf450fb5f1f1582c7b831fc",
+      "size": 345673,
+      "uploadedDate": "2019-12-11T21:47:06.579Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a8f9fb4a881e47b489715f18f7d08e2f/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S2-1280x1440-3d592297f8f96e8699f46ce34a7f5b10.jpg",
+      "md5": "3d592297f8f96e8699f46ce34a7f5b10",
+      "size": 453521,
+      "uploadedDate": "2019-12-11T21:47:19.311Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LCGEntertainmentInc_TheWolfAmongUs_S1-2560x1440-087d32300cf450fb5f1f1582c7b831fc.jpg",
+      "md5": "087d32300cf450fb5f1f1582c7b831fc",
+      "size": 345673,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0e1b2200810e41a6aaa3aa09e40bfdba"
+    }
+  ],
+  "catalogNs": null
 }

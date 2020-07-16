@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-16T15:45:18.722Z",
-  "lastModifiedDate": "2020-03-16T17:23:13.398Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Lorikeet Soundtrack",
   "id": "e160be20d243491494a70780175bb7c6",
   "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "title": "Lorikeet Soundtrack",
   "description": "Lorikeet Soundtrack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "lorikeetsoundtrack",
+  "creationDate": "2020-03-16T15:45:18.722Z",
+  "lastModifiedDate": "2020-03-16T17:23:13.398Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
     "name": "William Chyr Studio"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7b619209092445b1ad975c05be58c9cc",
-      "namespace": "015763e579d4479cb1ef7780bf91804f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "William Chyr Studio"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
+      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
+      "size": 232757,
+      "uploadedDate": "2019-08-28T15:04:42.366Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
+      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
+      "size": 232757,
+      "uploadedDate": "2019-08-28T15:04:49.616Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7b619209092445b1ad975c05be58c9cc"
+    }
+  ],
+  "catalogNs": null
 }

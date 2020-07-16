@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-21T16:00:00.000Z",
-  "creationDate": "2019-10-23T17:42:31.295Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "bad-north/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bad North",
   "id": "ac5e4e5e2f024e2f9831baac251e0d46",
   "namespace": "aa5ef9d2f8394731a034504c562e292c",
+  "title": "Bad North",
   "description": "Bad North Jotunn Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLECONCEPT_BADNORTH_IC1_DESCRIPTION-2048x717-fbc885ca496d2f6819acaf515c6cfae2.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BAD_NORTH_Promo-2560x1440-2834d69532da43f798e77c06031ba3a5.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BadNorth_Portrait-1280x1440-e5595cb37c9d97c9081360c393eba1b7.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg"
-    }
-  ],
+  "productSlug": "bad-north/home",
+  "urlSlug": "chivesgeneralaudience",
+  "creationDate": "2019-10-23T17:42:31.295Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-11-21T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b316ffa52de14d4dbbf1482a0747c0f3",
-      "namespace": "aa5ef9d2f8394731a034504c562e292c",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "bad-north/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg",
+      "md5": "8cf30174676a62d6fc4cec752174b46a",
+      "size": 133381,
+      "uploadedDate": "2019-11-09T05:02:33.569Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg",
+      "md5": "6a9c3b1a0ada38c498fa3b93a28b5d1f",
+      "size": 427802,
+      "uploadedDate": "2019-11-09T05:02:50.345Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLECONCEPT_BADNORTH_IC1_DESCRIPTION-2048x717-fbc885ca496d2f6819acaf515c6cfae2.png",
+      "md5": "fbc885ca496d2f6819acaf515c6cfae2",
+      "size": 310906,
+      "uploadedDate": "2019-11-09T05:03:20.589Z",
+      "width": 2048,
+      "height": 717
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BadNorth_Portrait-1280x1440-8cf30174676a62d6fc4cec752174b46a.jpg",
+      "md5": "8cf30174676a62d6fc4cec752174b46a",
+      "size": 133381,
+      "uploadedDate": "2019-11-09T05:02:33.569Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BAD_NORTH_Promo-2560x1440-2834d69532da43f798e77c06031ba3a5.jpg",
+      "md5": "2834d69532da43f798e77c06031ba3a5",
+      "size": 76190,
+      "uploadedDate": "2019-11-13T19:04:31.268Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aa5ef9d2f8394731a034504c562e292c/offer/BadNorth_Portrait-1280x1440-e5595cb37c9d97c9081360c393eba1b7.jpg",
+      "md5": "e5595cb37c9d97c9081360c393eba1b7",
+      "size": 40674,
+      "uploadedDate": "2019-11-13T19:04:43.203Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAUSIBLE_CONCEPT_BAD_NORTH_G1_DESCRIPTION-2560x1440-6a9c3b1a0ada38c498fa3b93a28b5d1f.jpg",
+      "md5": "6a9c3b1a0ada38c498fa3b93a28b5d1f",
+      "size": 427802,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b316ffa52de14d4dbbf1482a0747c0f3"
+    }
+  ],
+  "catalogNs": null
 }

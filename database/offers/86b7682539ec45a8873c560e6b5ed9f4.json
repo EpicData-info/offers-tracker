@@ -1,39 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-09T15:00:00.000Z",
-  "creationDate": "2020-03-30T21:21:36.087Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": "2020-04-02T15:00:00.000Z",
-  "productSlug": "sherlock-holmes-crimes-and-punishments/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sherlock Holmes Crimes and Punishments",
   "id": "86b7682539ec45a8873c560e6b5ed9f4",
   "namespace": "epic",
+  "title": "Sherlock Holmes Crimes and Punishments",
   "description": "Sherlock Holmes Crimes and Punishments",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg"
-    }
-  ],
+  "productSlug": "sherlock-holmes-crimes-and-punishments/home",
+  "urlSlug": "sherlock-holmes-crimes-and-punishments",
+  "creationDate": "2020-03-30T21:21:36.087Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-04-09T15:00:00.000Z",
+  "viewableDate": "2020-04-02T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
     "name": "Frogwares"
   },
-  "items": [
+  "linkedOfferId": "afadb715390a4593acdca79dae94b60a",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +124,30 @@
       "value": "sherlock-holmes-crimes-and-punishments/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "size": 127703,
+      "uploadedDate": "2020-03-30T21:21:17.000Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg",
+      "md5": "e2e6caa7637328254a763d4900ea8fa3",
+      "size": 116385,
+      "uploadedDate": "2020-03-30T21:21:27.783Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": "afadb715390a4593acdca79dae94b60a",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Frogwares"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "sherlock-holmes-crimes-and-punishments/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

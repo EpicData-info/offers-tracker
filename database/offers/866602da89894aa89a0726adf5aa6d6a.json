@@ -1,39 +1,45 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-10-31T19:49:00.000Z",
-  "creationDate": "2018-10-31T23:49:56.785Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-10-31T19:49:00.000Z",
-  "productSlug": "conan-exiles",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Conan Exiles Dev Kit",
   "id": "866602da89894aa89a0726adf5aa6d6a",
   "namespace": "epic",
+  "title": "Conan Exiles Dev Kit",
   "description": "Conan Exiles Dev Kit",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/conan_box-860x500-4476ab2b7dc69eeead0027ea4b40b8a5.png"
-    }
-  ],
+  "productSlug": "conan-exiles",
+  "urlSlug": "conan-exiles-dev-kit",
+  "creationDate": "2018-10-31T23:49:56.785Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-10-31T19:49:00.000Z",
+  "viewableDate": "2018-10-31T19:49:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
     "name": "Funcom"
   },
-  "items": [
+  "linkedOfferId": "1bf1c664fc664ac88733e46da2297f8e",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "engines"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -50,18 +56,30 @@
       "value": "1bf1c664fc664ac88733e46da2297f8e"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Conan_White-1114x302-833450058e1c6ebbf005f6aab50ae6ff.png",
+      "md5": "833450058e1c6ebbf005f6aab50ae6ff",
+      "size": 44193,
+      "uploadedDate": "2018-11-14T00:46:46.402Z",
+      "width": 1114,
+      "height": 302
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/conan_box-860x500-4476ab2b7dc69eeead0027ea4b40b8a5.png",
+      "md5": "4476ab2b7dc69eeead0027ea4b40b8a5",
+      "size": 193187,
+      "uploadedDate": "2019-03-27T17:15:07.950Z",
+      "width": 860,
+      "height": 500
     }
   ],
-  "linkedOfferId": "1bf1c664fc664ac88733e46da2297f8e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "conan-exiles"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

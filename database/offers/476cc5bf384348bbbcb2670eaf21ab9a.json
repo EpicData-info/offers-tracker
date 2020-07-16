@@ -1,62 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-18T09:00:00.000Z",
-  "creationDate": "2019-06-05T16:48:26.533Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "shenmue-3/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shenmue 3 Season Pass",
   "id": "476cc5bf384348bbbcb2670eaf21ab9a",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "title": "Shenmue 3 Season Pass",
   "description": "Shenmue 3 Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Editions_CompleteDLCCollection-3840x2160-21440eb540702ed65ef480cb89d2d42ce2a42ff3.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png"
-    }
-  ],
+  "productSlug": "shenmue-3/season-pass",
+  "urlSlug": "shenmue-3-season-pass",
+  "creationDate": "2019-06-05T16:48:26.533Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-11-18T09:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b4eafd935fac4fada84047333b54e7e7",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "b23eee4fe10944abb154dd845ebb1497",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "7659b8622b9347e7bbd477d3afb99d04",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "addons/durable"
     },
     {
-      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -77,20 +117,57 @@
       "value": "shenmue-3/season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2019-06-05T16:46:47.672Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2019-06-05T16:47:01.110Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Editions_CompleteDLCCollection-3840x2160-21440eb540702ed65ef480cb89d2d42ce2a42ff3.jpg",
+      "md5": "0dac76256f549d13080eec9dd228e9a0",
+      "size": 743668,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2020-05-13T17:59:44.471Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b4eafd935fac4fada84047333b54e7e7"
+    },
+    {
+      "id": "b23eee4fe10944abb154dd845ebb1497"
+    },
+    {
+      "id": "7659b8622b9347e7bbd477d3afb99d04"
+    },
+    {
+      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5"
+    }
+  ],
+  "catalogNs": null
 }

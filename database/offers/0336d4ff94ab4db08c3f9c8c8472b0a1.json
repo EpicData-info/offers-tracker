@@ -1,42 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-01T23:00:00.000Z",
-  "creationDate": "2019-07-15T23:36:07.586Z",
-  "lastModifiedDate": "2020-04-27T13:42:44.908Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "BeyondTSPPTEST",
   "id": "0336d4ff94ab4db08c3f9c8c8472b0a1",
   "namespace": "lavender",
+  "title": "BeyondTSPPTEST",
   "description": "BeyondTSPPTEST",
   "longDescription": "Grants the TEST audience for Pre Purchase and General at launch",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "beyondtspptest",
+  "creationDate": "2019-07-15T23:36:07.586Z",
+  "lastModifiedDate": "2020-04-27T13:42:44.908Z",
+  "effectiveDate": "2050-07-01T23:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7e7c8ffd975544878d0454c01d1b6fc4",
-      "namespace": "lavender",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "cc1e38f006924a0a85dd82c5aacec142",
-      "namespace": "lavender",
-      "developer": null
-    },
-    {
-      "id": "5932738bb15f4ab99355f1e036eaa3a5",
-      "namespace": "lavender",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +50,17 @@
       "value": "Quantic Dream"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "7e7c8ffd975544878d0454c01d1b6fc4"
     },
     {
-      "path": "applications"
+      "id": "cc1e38f006924a0a85dd82c5aacec142"
+    },
+    {
+      "id": "5932738bb15f4ab99355f1e036eaa3a5"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

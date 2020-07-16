@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-01-01T00:00:00.000Z",
-  "creationDate": "2019-07-31T18:50:05.568Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.402Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Lootboy Pack",
   "id": "45847c651225422f8e0cd798c75e1aab",
   "namespace": "azalea",
+  "title": "Lootboy Pack",
   "description": "Lootboy Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/azalea/item/Diesel_product_ratings_RP_FOR_T_M-842x404-e685858d6f01213bedf5b2abec53be94.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "lootboy-pack",
+  "creationDate": "2019-07-31T18:50:05.568Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.402Z",
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
-    {
-      "id": "d46257b3d7fc42f691caebaf1f43b11b",
-      "namespace": "azalea",
-      "developer": null
-    },
-    {
-      "id": "84fb788cf8d543f29a7267fb37a86a32",
-      "namespace": "azalea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -54,6 +31,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/azalea/item/Diesel_product_ratings_RP_FOR_T_M-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "size": 55379,
+      "uploadedDate": "2019-06-28T13:05:20.125Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:33:24.461Z",
+      "width": 2149,
+      "height": 2756
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:33:34.147Z",
+      "width": 2149,
+      "height": 2756
+    }
+  ],
+  "items": [
+    {
+      "id": "d46257b3d7fc42f691caebaf1f43b11b"
+    },
+    {
+      "id": "84fb788cf8d543f29a7267fb37a86a32"
+    }
+  ],
+  "catalogNs": null
 }

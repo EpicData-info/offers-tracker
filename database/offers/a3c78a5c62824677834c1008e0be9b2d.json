@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-04T05:00:00.000Z",
-  "creationDate": "2019-07-24T21:49:28.720Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "red-dead-redemption-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Red Dead Redemption 2",
   "id": "a3c78a5c62824677834c1008e0be9b2d",
   "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
+  "title": "Red Dead Redemption 2",
   "description": "Red Dead Redemption 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_2560x1440-2560x1440-473f1475daed7424ce5a56d90b56ab68.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg"
-    }
-  ],
+  "productSlug": "red-dead-redemption-2",
+  "urlSlug": "heathergeneralaudience",
+  "creationDate": "2019-07-24T21:49:28.720Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-11-04T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dhz7kpvrvqngzdpnx5vn3jrljj53ca",
     "name": "Rockstar Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1f562a66ac554a40a33e291fc191ea60",
-      "namespace": "b30b6d1b4dfd4dcc93b5490be5e094e5",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "red-dead-redemption-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_2560x1440-2560x1440-473f1475daed7424ce5a56d90b56ab68.jpg",
+      "md5": "473f1475daed7424ce5a56d90b56ab68",
+      "size": 479210,
+      "uploadedDate": "2020-01-24T05:05:11.403Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg",
+      "md5": "b4c2210ee0c3c3b843a8de399bfe7f5c",
+      "size": 492695,
+      "uploadedDate": "2020-01-24T05:05:28.320Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RDR2PC1227_Epic Games_860x1148-860x1148-b4c2210ee0c3c3b843a8de399bfe7f5c.jpg",
+      "md5": "b4c2210ee0c3c3b843a8de399bfe7f5c",
+      "size": 492695,
+      "uploadedDate": "2020-01-24T05:05:28.320Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg",
+      "md5": "bbedae852bbd73b7bc6dccb21df166b6",
+      "size": 137918,
+      "uploadedDate": "2019-11-05T13:38:03.452Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/CodeRedemption_RedDead2-340x440-bbedae852bbd73b7bc6dccb21df166b6.jpg",
+      "md5": "bbedae852bbd73b7bc6dccb21df166b6",
+      "size": 137918,
+      "uploadedDate": "2019-11-05T13:38:11.138Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b30b6d1b4dfd4dcc93b5490be5e094e5/offer/RDR2476298253_Epic_Games_Wishlist_RDR2_2560x1440_V01-2560x1440-2a9ebe1f7ee202102555be202d5632ec.jpg",
+      "md5": "2a9ebe1f7ee202102555be202d5632ec",
+      "size": 3453135,
+      "uploadedDate": "2020-03-12T22:27:12.445Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1f562a66ac554a40a33e291fc191ea60"
+    }
+  ],
+  "catalogNs": null
 }

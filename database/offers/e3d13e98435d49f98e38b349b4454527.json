@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-13T01:23:22.316Z",
-  "lastModifiedDate": "2020-02-13T01:28:44.527Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "MagentaDevAudience",
   "id": "e3d13e98435d49f98e38b349b4454527",
   "namespace": "0f0b930a0f3d4fe7aece94faa58b5318",
+  "title": "MagentaDevAudience",
   "description": "MagentaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "magentadevaudience",
+  "creationDate": "2020-02-13T01:23:22.316Z",
+  "lastModifiedDate": "2020-02-13T01:28:44.527Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
     "name": "Epic Test Organization"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c92faca10de34084b2e2aa2f8fe3fe3d",
-      "namespace": "0f0b930a0f3d4fe7aece94faa58b5318",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c92faca10de34084b2e2aa2f8fe3fe3d"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

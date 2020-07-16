@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-20T02:11:37.918Z",
-  "lastModifiedDate": "2020-06-13T19:07:36.675Z",
-  "viewableDate": "2020-06-09T15:00:00.000Z",
-  "productSlug": "unexplored-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Unexplored 2: The Wayfarer's Legacy",
   "id": "8a3b749743254bc58cdb730a54e4cc5c",
   "namespace": "d396856ef66f4572af55519a8d2b99ed",
+  "title": "Unexplored 2: The Wayfarer's Legacy",
   "description": "Unexplored 2: The Wayfarer's Legacy",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg"
-    }
-  ],
+  "productSlug": "unexplored-2/home",
+  "urlSlug": "gurnardgeneralaudience",
+  "creationDate": "2020-05-20T02:11:37.918Z",
+  "lastModifiedDate": "2020-06-13T19:07:36.675Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-06-09T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-uyde6gc5ds8hbkqq9d9tgnpmpx2y6q",
     "name": "Big Sugar Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "117c3b51353440b7b35ba2c8ba9598d9",
-      "namespace": "d396856ef66f4572af55519a8d2b99ed",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "unexplored-2/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg",
+      "md5": "705198b295fe144bd8e9962ed821c2a2",
+      "size": 215881,
+      "uploadedDate": "2020-06-10T03:20:41.022Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg",
+      "md5": "334c821d40244a9ececa59f968b0b25d",
+      "size": 188882,
+      "uploadedDate": "2020-06-10T03:20:46.859Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S1-2560x1440-2560x1440-705198b295fe144bd8e9962ed821c2a2.jpg",
+      "md5": "705198b295fe144bd8e9962ed821c2a2",
+      "size": 215881,
+      "uploadedDate": "2020-06-10T03:20:57.590Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg",
+      "md5": "334c821d40244a9ececa59f968b0b25d",
+      "size": 188882,
+      "uploadedDate": "2020-06-10T03:21:08.050Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg",
+      "md5": "334c821d40244a9ececa59f968b0b25d",
+      "size": 188882,
+      "uploadedDate": "2020-06-10T03:21:15.091Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d396856ef66f4572af55519a8d2b99ed/offer/Unexplored2TheWayfarersLegacy_Ludomotion_S2-1200x1600-1200x1600-334c821d40244a9ececa59f968b0b25d.jpg",
+      "md5": "334c821d40244a9ececa59f968b0b25d",
+      "size": 188882,
+      "uploadedDate": "2020-06-10T03:21:22.919Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "117c3b51353440b7b35ba2c8ba9598d9"
+    }
+  ],
+  "catalogNs": null
 }

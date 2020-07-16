@@ -1,67 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-01T00:00:00.000Z",
-  "creationDate": "2019-08-15T16:16:20.504Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "superliminal/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Superliminal",
   "id": "daa88a4b17cd4bb8bdb87cdf777ac3f3",
   "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "title": "Superliminal",
   "description": "Superliminal",
   "longDescription": "Switch to 19.99  -  11/18  ^^",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/CodeRedemption_Superliminal-330x440-9599d175535411b4ebc8d500c43fbd68.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_16x9-2560x1440-cf7294dde9e86056dca71687ef7e3938.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg"
-    }
-  ],
+  "productSlug": "superliminal/home",
+  "urlSlug": "widgeongeneralaudience",
+  "creationDate": "2019-08-15T16:16:20.504Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-11-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
     "name": "Pillow Castle"
   },
-  "items": [
-    {
-      "id": "3948c3bd501c46639f695782aec95d4b",
-      "namespace": "6cec00f8934146508b884b0f139d55d0",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Pillow Castle"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "superliminal/home"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -76,6 +37,138 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Pillow Castle"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "superliminal/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg",
+      "md5": "af698741bb5bc3c41fc7eea112a53da2",
+      "size": 110941,
+      "uploadedDate": "2019-11-07T00:23:22.225Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg",
+      "md5": "d95af007580c8bfc08afd9d5633c33bf",
+      "size": 350760,
+      "uploadedDate": "2019-11-22T17:51:28.858Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/CodeRedemption_Superliminal-330x440-9599d175535411b4ebc8d500c43fbd68.jpg",
+      "md5": "9599d175535411b4ebc8d500c43fbd68",
+      "size": 16383,
+      "uploadedDate": "2019-11-07T00:08:31.999Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_16x9-2560x1440-cf7294dde9e86056dca71687ef7e3938.jpg",
+      "md5": "cf7294dde9e86056dca71687ef7e3938",
+      "size": 1371856,
+      "uploadedDate": "2020-02-28T22:22:58.041Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg",
+      "md5": "c7e7ddb321726412492143a56ddee8f5",
+      "size": 559753,
+      "uploadedDate": "2020-04-09T16:56:45.367Z",
+      "width": 860,
+      "height": 1147
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6cec00f8934146508b884b0f139d55d0/offer/Superliminal_Wishlist_3x4-860x1147-c7e7ddb321726412492143a56ddee8f5.jpg",
+      "md5": "c7e7ddb321726412492143a56ddee8f5",
+      "size": 559753,
+      "uploadedDate": "2020-04-09T16:56:55.124Z",
+      "width": 860,
+      "height": 1147
+    }
+  ],
+  "items": [
+    {
+      "id": "3948c3bd501c46639f695782aec95d4b"
+    }
+  ],
+  "catalogNs": null
 }

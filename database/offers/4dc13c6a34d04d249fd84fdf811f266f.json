@@ -1,51 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-29T00:00:00.000Z",
-  "creationDate": "2020-01-27T15:04:37.963Z",
-  "lastModifiedDate": "2020-05-14T18:09:02.014Z",
-  "viewableDate": null,
-  "productSlug": "dread-nautical/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dread Nautical",
   "id": "4dc13c6a34d04d249fd84fdf811f266f",
   "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
+  "title": "Dread Nautical",
   "description": "Dread Nautical",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg"
-    }
-  ],
+  "productSlug": "dread-nautical/home",
+  "urlSlug": "opahgeneralaudience",
+  "creationDate": "2020-01-27T15:04:37.963Z",
+  "lastModifiedDate": "2020-05-14T18:09:02.014Z",
+  "effectiveDate": "2020-04-29T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "615ace27a9894621a767eb59a31cbe14",
-      "namespace": "30bf97ae13f74c3d87c9f3fe04d507ba",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +89,57 @@
       "value": "dread-nautical/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "size": 438638,
+      "uploadedDate": "2020-03-20T19:29:19.814Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "size": 359599,
+      "uploadedDate": "2020-03-20T19:29:47.267Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "size": 359599,
+      "uploadedDate": "2020-04-29T15:06:02.033Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S1-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340-2560x1440-541b2817a7acf4fb4c71dd31b6e3e340.jpg",
+      "md5": "541b2817a7acf4fb4c71dd31b6e3e340",
+      "size": 438638,
+      "uploadedDate": "2020-04-29T15:06:14.073Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/30bf97ae13f74c3d87c9f3fe04d507ba/offer/EGS_DradNautical_ZenStudios_S2-860x1148-c0f2aef20a80be1aa32f424bfe82810f-860x1148-c0f2aef20a80be1aa32f424bfe82810f.jpg",
+      "md5": "c0f2aef20a80be1aa32f424bfe82810f",
+      "size": 359599,
+      "uploadedDate": "2020-04-29T15:06:28.786Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "615ace27a9894621a767eb59a31cbe14"
+    }
+  ],
+  "catalogNs": null
 }

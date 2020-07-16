@@ -1,50 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-29T18:11:00.000Z",
-  "creationDate": "2019-04-23T17:20:00.301Z",
-  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
-  "viewableDate": null,
-  "productSlug": "anno-1800/deluxe-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anno 1800 Deluxe Pack",
   "id": "ce2e1de7c52b4909a98b1201ddb0b22d",
   "namespace": "oregano",
+  "title": "Anno 1800 Deluxe Pack",
   "description": "Anno 1800 Deluxe Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_DeluxePack_Wide-355x150-c7155d69a6d066850498ebc962b52bcf.jpg"
-    }
-  ],
+  "productSlug": "anno-1800/deluxe-pack",
+  "urlSlug": "anno1800-deluxe-pack",
+  "creationDate": "2019-04-23T17:20:00.301Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "effectiveDate": "2019-05-29T18:11:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c1cbb98b4e37475eaba61fc268a22fd7",
-      "namespace": "oregano",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "d708a30677524d199d6c89f97677d354",
-      "namespace": "oregano",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -63,20 +56,42 @@
       "value": "anno-1800/deluxe-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png",
+      "md5": "d307fbc660cf5802c46d4f6bfad116fd",
+      "size": 229431,
+      "uploadedDate": "2019-04-23T17:19:35.194Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Anno1800DeluxePack_CodeRedemptionImage-330x440-330x440-d307fbc660cf5802c46d4f6bfad116fd.png",
+      "md5": "d307fbc660cf5802c46d4f6bfad116fd",
+      "size": 229431,
+      "uploadedDate": "2019-04-23T17:19:48.237Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_DeluxePack_Wide-355x150-c7155d69a6d066850498ebc962b52bcf.jpg",
+      "md5": "c7155d69a6d066850498ebc962b52bcf",
+      "size": 31948,
+      "uploadedDate": "2020-03-06T16:59:56.332Z",
+      "width": 355,
+      "height": 150
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c1cbb98b4e37475eaba61fc268a22fd7"
+    },
+    {
+      "id": "d708a30677524d199d6c89f97677d354"
+    }
+  ],
+  "catalogNs": null
 }

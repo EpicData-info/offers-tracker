@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-19T12:00:00.000Z",
-  "creationDate": "2019-03-04T20:57:08.473Z",
-  "lastModifiedDate": "2020-06-02T00:30:55.811Z",
-  "viewableDate": null,
-  "productSlug": "shakedown-hawaii/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shakedown Hawaii",
   "id": "97cc2fd7d63446b8a97d04eac3fa6481",
   "namespace": "epic",
+  "title": "Shakedown Hawaii",
   "description": "Shakedown Hawaii",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d692.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325.png"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/ShakedownHawhawii-Logo-1850x761-be864661ef62ef247e8fb01692d6f21c.png"
-    }
-  ],
+  "productSlug": "shakedown-hawaii/home",
+  "urlSlug": "shakedown-hawaii",
+  "creationDate": "2019-03-04T20:57:08.473Z",
+  "lastModifiedDate": "2020-06-02T00:30:55.811Z",
+  "effectiveDate": "2019-04-19T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-xyhkq3r6skdr6tbhalgcbp3264asl3",
     "name": "Vblank Entertainment"
   },
-  "items": [
+  "linkedOfferId": "d93a5c8e6ae9421da81f7b0162361b83",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +124,39 @@
       "value": "d93a5c8e6ae9421da81f7b0162361b83"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_SH_1280x1420_Alt_1-1280x1420-07fbe7847c3a580b7f68d30245f4d692.png",
+      "md5": "07fbe7847c3a580b7f68d30245f4d692",
+      "size": 472075,
+      "uploadedDate": "2019-05-16T15:51:23.100Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SH_StreetScene_Carjack_Crop_Wide-1800x1013-45ef216a455fba424059f0a68b723325.png",
+      "md5": "45ef216a455fba424059f0a68b723325",
+      "size": 532853,
+      "uploadedDate": "2019-05-16T15:51:37.182Z",
+      "width": 1800,
+      "height": 1013
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ShakedownHawhawii-Logo-1850x761-be864661ef62ef247e8fb01692d6f21c.png",
+      "md5": "be864661ef62ef247e8fb01692d6f21c",
+      "size": 54936,
+      "uploadedDate": "2019-08-02T19:12:10.545Z",
+      "width": 1850,
+      "height": 761
     }
   ],
-  "linkedOfferId": "d93a5c8e6ae9421da81f7b0162361b83",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "developerName",
-        "value": "Vblank Entertainment"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "shakedown-hawaii/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

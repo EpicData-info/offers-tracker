@@ -1,59 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-20T00:00:00.000Z",
-  "creationDate": "2019-06-06T19:46:46.969Z",
-  "lastModifiedDate": "2020-04-16T15:00:00.492Z",
-  "viewableDate": null,
-  "productSlug": "what-the-golf",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "WHAT THE GOLF?",
   "id": "c3291802fde5400aaaabda61acd2d2b4",
   "namespace": "3ade24028e9247039924d3877af0a2ea",
+  "title": "WHAT THE GOLF?",
   "description": "WHAT THE GOLF?",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_IC1-200x116-adb92880827ff80031a3016b6f74505b.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-336x440-c095cc95e78e60ebe6e175ee5ae4f087.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-337x440-91469e9b23a1fd884377bdbc8a65dc73.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg"
-    }
-  ],
+  "productSlug": "what-the-golf",
+  "urlSlug": "storkgeneralaudience",
+  "creationDate": "2019-06-06T19:46:46.969Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.492Z",
+  "effectiveDate": "2019-09-20T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-lnl9dagny4g6432q7delvkhfqzwcnx",
     "name": "Triband"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0b51ffdcb7f144fcac978008e0d3399c",
-      "namespace": "3ade24028e9247039924d3877af0a2ea",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +116,75 @@
       "value": "what-the-golf"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg",
+      "md5": "c31b928f04aeed91c2f9de6577fc1fc7",
+      "size": 300319,
+      "uploadedDate": "2019-10-01T22:20:44.610Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg",
+      "md5": "57e28856824bd25450d8c3c108aebc14",
+      "size": 179547,
+      "uploadedDate": "2019-10-01T22:21:04.009Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_IC1-200x116-adb92880827ff80031a3016b6f74505b.png",
+      "md5": "adb92880827ff80031a3016b6f74505b",
+      "size": 16589,
+      "uploadedDate": "2019-10-01T22:21:25.862Z",
+      "width": 200,
+      "height": 116
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S2-1280x1440-57e28856824bd25450d8c3c108aebc14.jpg",
+      "md5": "57e28856824bd25450d8c3c108aebc14",
+      "size": 179547,
+      "uploadedDate": "2019-10-01T22:21:04.009Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-336x440-c095cc95e78e60ebe6e175ee5ae4f087.jpg",
+      "md5": "c095cc95e78e60ebe6e175ee5ae4f087",
+      "size": 31310,
+      "uploadedDate": "2019-09-17T17:11:47.639Z",
+      "width": 336,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3ade24028e9247039924d3877af0a2ea/offer/CodeRedemption_WHATTHEGOLF-337x440-91469e9b23a1fd884377bdbc8a65dc73.jpg",
+      "md5": "91469e9b23a1fd884377bdbc8a65dc73",
+      "size": 31428,
+      "uploadedDate": "2019-09-17T17:12:16.711Z",
+      "width": 337,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Triband_WHATTHEGOLF_S1-2560x1440-c31b928f04aeed91c2f9de6577fc1fc7.jpg",
+      "md5": "c31b928f04aeed91c2f9de6577fc1fc7",
+      "size": 300319,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0b51ffdcb7f144fcac978008e0d3399c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-29T10:26:00.000Z",
-  "creationDate": "2019-01-29T15:27:17.767Z",
-  "lastModifiedDate": "2020-05-13T20:56:30.587Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Petunia: Press Audience",
   "id": "187cd3de96644d2ba9029c01edc13737",
   "namespace": "petunia",
+  "title": "Petunia: Press Audience",
   "description": "Petunia: Press Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "petunia-pressaudience",
+  "creationDate": "2019-01-29T15:27:17.767Z",
+  "lastModifiedDate": "2020-05-13T20:56:30.587Z",
+  "effectiveDate": "2099-01-29T10:26:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
-    {
-      "id": "372fdd881a254a24b984a18cc4acaa68",
-      "namespace": "petunia",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "372fdd881a254a24b984a18cc4acaa68"
+    }
+  ],
+  "catalogNs": null
 }

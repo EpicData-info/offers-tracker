@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "creationDate": "2020-02-25T13:54:21.225Z",
-  "lastModifiedDate": "2020-04-02T03:01:44.108Z",
-  "viewableDate": null,
-  "productSlug": "offworld-trading-company/the-ceres-initiative",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Offworld Trading Company: The Ceres Initiative DLC",
   "id": "260b9b8e19d04e78ba5840995d64c089",
   "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Offworld Trading Company: The Ceres Initiative DLC",
   "description": "Offworld Trading Company: The Ceres Initiative DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg"
-    }
-  ],
+  "productSlug": "offworld-trading-company/the-ceres-initiative",
+  "urlSlug": "snapperceres",
+  "creationDate": "2020-02-25T13:54:21.225Z",
+  "lastModifiedDate": "2020-04-02T03:01:44.108Z",
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "items": [
-    {
-      "id": "917daeae46bf45f2b86543840ef2bb73",
-      "namespace": "e8882546f28e4832af823c646aed232e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "offworld-trading-company/the-ceres-initiative"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -60,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/the-ceres-initiative"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg",
+      "md5": "f4cd6ee626fc88793e4dcb90a517fd10",
+      "size": 66293,
+      "uploadedDate": "2020-03-05T15:37:31.910Z",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg",
+      "md5": "f4cd6ee626fc88793e4dcb90a517fd10",
+      "size": 66293,
+      "uploadedDate": "2020-03-05T15:37:39.976Z",
+      "width": 320,
+      "height": 180
+    }
+  ],
+  "items": [
+    {
+      "id": "917daeae46bf45f2b86543840ef2bb73"
+    }
+  ],
+  "catalogNs": null
 }

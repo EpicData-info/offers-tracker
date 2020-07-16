@@ -1,51 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-02T15:00:00.000Z",
-  "creationDate": "2019-10-17T18:38:20.358Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "hob/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Hob",
   "id": "0823aa31fb7540db886871c5aa44dcc3",
   "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
+  "title": "Hob",
   "description": "Hob",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg"
-    }
-  ],
+  "productSlug": "hob/home",
+  "urlSlug": "lyrebirdgeneralaudience",
+  "creationDate": "2019-10-17T18:38:20.358Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2020-04-02T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
     "name": "Perfect World"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "84b86c9e65f74297baafd880965657d2",
-      "namespace": "e1067ce994e24a4abbe36247eaa26bfd",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-16T14:24:42.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +129,57 @@
       "value": "hob/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+      "md5": "7d0cc955fcee93ab9c55bd891b7b23db",
+      "size": 1648954,
+      "uploadedDate": "2020-03-20T19:02:56.930Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg",
+      "md5": "b34298a75b82a08527060f43bb719965",
+      "size": 655157,
+      "uploadedDate": "2020-03-20T19:03:13.140Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/HOB_storefront_epic_20200309_wishlist_860x1148-860x1148-b34298a75b82a08527060f43bb719965-860x1148-b34298a75b82a08527060f43bb719965.jpg",
+      "md5": "b34298a75b82a08527060f43bb719965",
+      "size": 655157,
+      "uploadedDate": "2020-03-20T19:03:13.140Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+      "md5": "7d0cc955fcee93ab9c55bd891b7b23db",
+      "size": 1648954,
+      "uploadedDate": "2020-02-28T13:52:50.027Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e1067ce994e24a4abbe36247eaa26bfd/offer/HOB_storefront_epic_20200309_wishlist_2560x1440-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db-2560x1440-7d0cc955fcee93ab9c55bd891b7b23db.jpg",
+      "md5": "7d0cc955fcee93ab9c55bd891b7b23db",
+      "size": 1648954,
+      "uploadedDate": "2020-03-20T18:49:10.912Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "84b86c9e65f74297baafd880965657d2"
+    }
+  ],
+  "catalogNs": null
 }

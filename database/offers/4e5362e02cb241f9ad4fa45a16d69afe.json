@@ -1,63 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-14T05:00:00.000Z",
-  "creationDate": "2019-10-17T23:08:29.322Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "star-wars-jedi-fallen-order/deluxe-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Star Wars Jedi Fallen Order Deluxe Edition",
   "id": "4e5362e02cb241f9ad4fa45a16d69afe",
   "namespace": "e509c16d53714b13ba8e393966507255",
+  "title": "Star Wars Jedi Fallen Order Deluxe Edition",
   "description": "Star Wars Jedi Fallen Order Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/TeenRating-842x404-03a8a1dc98ab180071931c3942ee6a93.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_Deluxe_Keyart_1920x1080-1920x1080-4d6b472452a1c520eee5b000ec0ef656b781aa8a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_TALLDE-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg"
-    }
-  ],
+  "productSlug": "star-wars-jedi-fallen-order/deluxe-edition",
+  "urlSlug": "shoebill-deluxe-edition",
+  "creationDate": "2019-10-17T23:08:29.322Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-11-14T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-vtqh9b4lk8n4jpadfv6cphqs9hsly9",
     "name": "Electronic Arts"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "39a4734792344813b44d7194ce02a3af",
-      "namespace": "fn",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "e8eb21381ef74967a28022ba70f34301",
-      "namespace": "e509c16d53714b13ba8e393966507255",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "f5df0f7ea3534b99bccde279e84c3f3a",
-      "namespace": "e509c16d53714b13ba8e393966507255",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -76,17 +53,63 @@
       "value": "star-wars-jedi-fallen-order/deluxe-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
+      "md5": "f2abf31f8cac8ec134fa84f21cf935aa",
+      "size": 109342,
+      "uploadedDate": "2019-11-12T17:41:04.522Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_ADHOC_510X680-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
+      "md5": "f2abf31f8cac8ec134fa84f21cf935aa",
+      "size": 109342,
+      "uploadedDate": "2019-11-12T17:41:14.597Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/TeenRating-842x404-03a8a1dc98ab180071931c3942ee6a93.png",
+      "md5": "03a8a1dc98ab180071931c3942ee6a93",
+      "size": 44265,
+      "uploadedDate": "2019-11-15T03:27:47.970Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFO_Deluxe_Keyart_1920x1080-1920x1080-4d6b472452a1c520eee5b000ec0ef656b781aa8a.jpg",
+      "md5": "5d067402547da711383aeed1e9ce3e8e",
+      "size": 110842,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e509c16d53714b13ba8e393966507255/offer/SWJFODE_TALLDE-510x680-f2abf31f8cac8ec134fa84f21cf935aa.jpg",
+      "md5": "f2abf31f8cac8ec134fa84f21cf935aa",
+      "size": 109342,
+      "uploadedDate": "2020-03-19T16:56:06.414Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "39a4734792344813b44d7194ce02a3af"
+    },
+    {
+      "id": "e8eb21381ef74967a28022ba70f34301"
+    },
+    {
+      "id": "f5df0f7ea3534b99bccde279e84c3f3a"
+    }
+  ],
+  "catalogNs": null
 }

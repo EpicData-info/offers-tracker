@@ -1,43 +1,108 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-08T16:00:00.000Z",
-  "creationDate": "2019-01-08T01:58:39.400Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2019-01-08T11:00:00.000Z",
-  "productSlug": "donut-county/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Donut County",
   "id": "fb95dc6d2c8f43479322bcef0826561c",
   "namespace": "epic",
+  "title": "Donut County",
   "description": "Donut County",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_wide-2580x1450-5d1fd3bd3eaa17af5b1ddac07d2d8fd4.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_Logo-1500x750-002f74002599cc462c46023138892ff3.png"
-    }
-  ],
+  "productSlug": "donut-county/home",
+  "urlSlug": "donut-county",
+  "creationDate": "2019-01-08T01:58:39.400Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-01-08T16:00:00.000Z",
+  "viewableDate": "2019-01-08T11:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": "2ae91a1e97f848f7bd51c2cfbec61a0e",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +127,39 @@
       "value": "donut-county/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Epic_DonutCounty_PortraitPromo-1280x1420-ede4d52780f51591f65d9c5c415c156a.jpg",
+      "md5": "ede4d52780f51591f65d9c5c415c156a",
+      "size": 113830,
+      "uploadedDate": "2019-01-08T01:57:10.257Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_wide-2580x1450-5d1fd3bd3eaa17af5b1ddac07d2d8fd4.jpg",
+      "md5": "5d1fd3bd3eaa17af5b1ddac07d2d8fd4",
+      "size": 126585,
+      "uploadedDate": "2019-03-27T17:33:59.960Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DonutCounty_Logo-1500x750-002f74002599cc462c46023138892ff3.png",
+      "md5": "002f74002599cc462c46023138892ff3",
+      "size": 264688,
+      "uploadedDate": "2019-08-02T19:25:02.294Z",
+      "width": 1500,
+      "height": 750
     }
   ],
-  "linkedOfferId": "2ae91a1e97f848f7bd51c2cfbec61a0e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Annapurna Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Ben Esposito"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "donut-county/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

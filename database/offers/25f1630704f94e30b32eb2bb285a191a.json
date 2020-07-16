@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-28T15:00:00.000Z",
-  "creationDate": "2020-02-18T03:10:55.242Z",
-  "lastModifiedDate": "2020-05-12T15:58:58.012Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "3500 Gems",
   "id": "25f1630704f94e30b32eb2bb285a191a",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "3500 Gems",
   "description": "3500 Gems",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-2560x1440-2560x1440-a7a5f3dd907659a97714fbedfe7c26fc.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "3500-gems",
+  "creationDate": "2020-02-18T03:10:55.242Z",
+  "lastModifiedDate": "2020-05-12T15:58:58.012Z",
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "52157914f9944ec0a59245baba3b7c46",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "{}"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-2560x1440-2560x1440-a7a5f3dd907659a97714fbedfe7c26fc.jpg",
+      "md5": "a7a5f3dd907659a97714fbedfe7c26fc",
+      "size": 455310,
+      "uploadedDate": "2020-04-09T02:29:45.008Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg",
+      "md5": "96a329ac9f556dc5fcfdefb7bbccf9a2",
+      "size": 228723,
+      "uploadedDate": "2020-04-09T02:30:00.048Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-3500Gems-860x1148-860x1148-96a329ac9f556dc5fcfdefb7bbccf9a2.jpg",
+      "md5": "96a329ac9f556dc5fcfdefb7bbccf9a2",
+      "size": 228723,
+      "uploadedDate": "2020-04-09T02:30:09.125Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "52157914f9944ec0a59245baba3b7c46"
+    }
+  ],
+  "catalogNs": null
 }

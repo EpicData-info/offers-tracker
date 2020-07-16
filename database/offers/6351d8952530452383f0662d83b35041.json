@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-01-09T22:58:03.464Z",
-  "lastModifiedDate": "2020-04-27T21:59:42.093Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC7 - PHASE 2 Explore and Expand",
   "id": "6351d8952530452383f0662d83b35041",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "DLC7 - PHASE 2 Explore and Expand",
   "description": "DLC7 - PHASE 2 Explore and Expand",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "mayflower-dlc2",
+  "creationDate": "2020-01-09T22:58:03.464Z",
+  "lastModifiedDate": "2020-04-27T21:59:42.093Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3fadcc1ef7d44fdb8b24ad4a404fe80a",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "3fadcc1ef7d44fdb8b24ad4a404fe80a"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

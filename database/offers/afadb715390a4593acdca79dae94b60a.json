@@ -1,55 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-09T15:00:00.000Z",
-  "creationDate": "2020-02-12T13:19:45.946Z",
-  "lastModifiedDate": "2020-05-21T17:09:52.633Z",
-  "viewableDate": null,
-  "productSlug": "sherlock-holmes-crimes-and-punishments/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sherlock Holmes Crimes and Punishments",
   "id": "afadb715390a4593acdca79dae94b60a",
   "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "title": "Sherlock Holmes Crimes and Punishments",
   "description": "Sherlock Holmes Crimes and Punishments",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-77f030ffc506bacec1fa774403894ed6.jpg"
-    }
-  ],
+  "productSlug": "sherlock-holmes-crimes-and-punishments/home",
+  "urlSlug": "cuskgeneralaudience",
+  "creationDate": "2020-02-12T13:19:45.946Z",
+  "lastModifiedDate": "2020-05-21T17:09:52.633Z",
+  "effectiveDate": "2020-04-09T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
     "name": "Frogwares"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c747f57c1faf4c0bbd809fe0a89e1847",
-      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +77,66 @@
       "value": "sherlock-holmes-crimes-and-punishments/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg",
+      "md5": "e2e6caa7637328254a763d4900ea8fa3",
+      "size": 116385,
+      "uploadedDate": "2020-03-30T21:24:24.393Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S3-1360x766-60bfd62d8de3b70ba9a73e41a715a2dd3b9e15a1-1360x766-e2e6caa7637328254a763d4900ea8fa3.jpg",
+      "md5": "e2e6caa7637328254a763d4900ea8fa3",
+      "size": 116385,
+      "uploadedDate": "2020-03-30T21:24:56.243Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "size": 127703,
+      "uploadedDate": "2020-03-30T21:25:09.255Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "size": 127703,
+      "uploadedDate": "2020-03-30T21:25:30.876Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/Diesel_productv2_sherlock-holmes-crimes-and-punishments_home_EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-215de1fe53f3b88e78e7cca44ffb99b0e40fff08-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "size": 127703,
+      "uploadedDate": "2020-03-30T21:25:45.580Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/23f3da2016b94461a7bd7e2eb46aa0f9/offer/EGS_SherlockHolmesCrimesandPunishments_Frogwares_S4-510x680-77f030ffc506bacec1fa774403894ed6.jpg",
+      "md5": "77f030ffc506bacec1fa774403894ed6",
+      "size": 127703,
+      "uploadedDate": "2020-04-09T14:45:36.039Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c747f57c1faf4c0bbd809fe0a89e1847"
+    }
+  ],
+  "catalogNs": null
 }

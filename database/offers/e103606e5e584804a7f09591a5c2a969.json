@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-14T18:08:00.000Z",
-  "creationDate": "2019-03-15T22:10:09.575Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.331Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Azalea GDC",
   "id": "e103606e5e584804a7f09591a5c2a969",
   "namespace": "azalea",
+  "title": "Azalea GDC",
   "description": "Azalea GDC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "azalea-gdc-audience",
+  "creationDate": "2019-03-15T22:10:09.575Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.331Z",
+  "effectiveDate": "2019-03-14T18:08:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
-    {
-      "id": "205297bbebf04c2d9073262a31432c84",
-      "namespace": "azalea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "205297bbebf04c2d9073262a31432c84"
+    }
+  ],
+  "catalogNs": null
 }

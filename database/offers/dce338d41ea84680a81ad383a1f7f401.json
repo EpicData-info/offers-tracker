@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-11T12:00:00.000Z",
-  "creationDate": "2019-03-18T16:22:05.168Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "kine/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kine",
   "id": "dce338d41ea84680a81ad383a1f7f401",
   "namespace": "rose",
+  "title": "Kine",
   "description": "Kine",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/rose/offer/Kine_branded_16x9-2560x1440-0d9b3a600780d040b3388e7c1c581c4a.jpg"
-    }
-  ],
+  "productSlug": "kine/home",
+  "urlSlug": "rosegeneralaudience",
+  "creationDate": "2019-03-18T16:22:05.168Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-10-11T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "cf47032bf60b4ec893005ebcbaf34883",
-      "namespace": "rose",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "kine/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Kine_Primary_Promo-2580x1450-dbae2448ed2180f3a70ddcb16a285d3a.jpg",
+      "md5": "dbae2448ed2180f3a70ddcb16a285d3a",
+      "size": 238561,
+      "uploadedDate": "2019-03-18T17:27:50.719Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_CS_Kine_IC1_White-1181x651-d5d82b37397158bd63866bb9ad1c8adb.png",
+      "md5": "d5d82b37397158bd63866bb9ad1c8adb",
+      "size": 19522,
+      "uploadedDate": "2019-08-14T19:43:13.175Z",
+      "width": 1181,
+      "height": 651
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
+      "md5": "d6654569827accce959ef0f9c97b0da8",
+      "size": 151630,
+      "uploadedDate": "2019-09-17T22:04:57.669Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/KineQuat_EGSStorefrontImage-1280x1440-d6654569827accce959ef0f9c97b0da8.jpg",
+      "md5": "d6654569827accce959ef0f9c97b0da8",
+      "size": 151630,
+      "uploadedDate": "2019-09-17T22:04:57.669Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg",
+      "md5": "e6b91aad399ea3b309a577223aab8a0a",
+      "size": 167334,
+      "uploadedDate": "2019-08-01T18:00:30.726Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg",
+      "md5": "e6b91aad399ea3b309a577223aab8a0a",
+      "size": 167334,
+      "uploadedDate": "2019-08-01T18:00:39.209Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rose/offer/Kine_branded_16x9-2560x1440-0d9b3a600780d040b3388e7c1c581c4a.jpg",
+      "md5": "0d9b3a600780d040b3388e7c1c581c4a",
+      "size": 1382623,
+      "uploadedDate": "2020-02-24T20:37:40.911Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "cf47032bf60b4ec893005ebcbaf34883"
+    }
+  ],
+  "catalogNs": null
 }

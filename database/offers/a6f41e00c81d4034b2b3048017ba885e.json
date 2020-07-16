@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-11T14:56:15.023Z",
-  "lastModifiedDate": "2020-02-06T14:55:26.871Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DLC Dev",
   "id": "a6f41e00c81d4034b2b3048017ba885e",
   "namespace": "b4d9169e1b8548f2babec33107253309",
+  "title": "DLC Dev",
   "description": "DLC Dev",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dlc-dev",
+  "creationDate": "2019-10-11T14:56:15.023Z",
+  "lastModifiedDate": "2020-02-06T14:55:26.871Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "909e5032f4734f078d3f0759a827b2c5",
-      "namespace": "b4d9169e1b8548f2babec33107253309",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "909e5032f4734f078d3f0759a827b2c5"
+    }
+  ],
+  "catalogNs": null
 }

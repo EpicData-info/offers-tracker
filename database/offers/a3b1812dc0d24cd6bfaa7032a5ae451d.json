@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-20T00:00:00.000Z",
-  "creationDate": "2020-01-10T03:55:03.098Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "shenmue-3/battle-rally",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shenmue III - Battle Rally",
   "id": "a3b1812dc0d24cd6bfaa7032a5ae451d",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "title": "Shenmue III - Battle Rally",
   "description": "Shenmue III - Battle Rally",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Addons_DLC-01-3840x2160-ef5ffba029def549b07348215a34ae856dc68bcd.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda-1024x1024-db3080f6064f7876998d77f13c9d6eda.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda-1024x1024-db3080f6064f7876998d77f13c9d6eda.png"
-    }
-  ],
+  "productSlug": "shenmue-3/battle-rally",
+  "urlSlug": "dlc1-audience",
+  "creationDate": "2020-01-10T03:55:03.098Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-01-20T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b4eafd935fac4fada84047333b54e7e7",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "shenmue-3/battle-rally"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda.png",
+      "md5": "db3080f6064f7876998d77f13c9d6eda",
+      "size": 466460,
+      "uploadedDate": "2020-01-20T22:56:42.240Z",
+      "width": 1024,
+      "height": 1024
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Addons_DLC-01-3840x2160-ef5ffba029def549b07348215a34ae856dc68bcd.jpg",
+      "md5": "b21feb78b23cf182a45ed30359b0e2bf",
+      "size": 972880,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda-1024x1024-db3080f6064f7876998d77f13c9d6eda.png",
+      "md5": "db3080f6064f7876998d77f13c9d6eda",
+      "size": 466460,
+      "uploadedDate": "2020-05-13T15:51:29.566Z",
+      "width": 1024,
+      "height": 1024
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_dlc1_20190702-S3_dlc_01_masterimage_EN-(1)-1024x1024-2b7e26ad87482b2de3db9334226429a99842672f-1024x1024-db3080f6064f7876998d77f13c9d6eda-1024x1024-db3080f6064f7876998d77f13c9d6eda.png",
+      "md5": "db3080f6064f7876998d77f13c9d6eda",
+      "size": 466460,
+      "uploadedDate": "2020-05-13T15:51:45.494Z",
+      "width": 1024,
+      "height": 1024
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b4eafd935fac4fada84047333b54e7e7"
+    }
+  ],
+  "catalogNs": null
 }

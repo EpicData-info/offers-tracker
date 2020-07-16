@@ -1,55 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-23T15:00:00.000Z",
-  "creationDate": "2019-05-05T20:52:48.753Z",
-  "lastModifiedDate": "2020-07-16T14:23:09.099Z",
-  "viewableDate": "2020-07-16T15:00:00.000Z",
-  "productSlug": "next-up-hero",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Next Up Hero",
   "id": "bc24fd6c82354ae18279e18effaa640e",
   "namespace": "7563789523404ae7ba52588adc99963a",
+  "title": "Next Up Hero",
   "description": "Next Up Hero",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
-    }
-  ],
+  "productSlug": "next-up-hero",
+  "urlSlug": "next-up-hero",
+  "creationDate": "2019-05-05T20:52:48.753Z",
+  "lastModifiedDate": "2020-07-16T14:23:09.099Z",
+  "effectiveDate": "2020-07-23T15:00:00.000Z",
+  "viewableDate": "2020-07-16T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
     "name": "Aspyr Media, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a875433f201e4a82abb60f6b11bcf531",
-      "namespace": "7563789523404ae7ba52588adc99963a",
-      "developer": null
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1265",
+      "name": "DUNGEON CRAWLER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2020-07-16T14:24:42.090Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,23 +120,66 @@
       "value": "next-up-hero"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "freegames"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg",
+      "md5": "3faf6ab6e1b75db4815cfc66250d5bd4",
+      "size": 226042,
+      "uploadedDate": "2019-07-12T14:51:23.165Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg",
+      "md5": "3faf6ab6e1b75db4815cfc66250d5bd4",
+      "size": 226042,
+      "uploadedDate": "2019-07-12T14:51:42.295Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg",
+      "md5": "6f68273f988d831a5e7f29914f681b38",
+      "size": 308662,
+      "uploadedDate": "2020-07-02T21:03:07.371Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg",
+      "md5": "3faf6ab6e1b75db4815cfc66250d5bd4",
+      "size": 226042,
+      "uploadedDate": "2020-07-02T21:03:17.253Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg",
+      "md5": "6f68273f988d831a5e7f29914f681b38",
+      "size": 308662,
+      "uploadedDate": "2020-07-02T21:03:29.314Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg",
+      "md5": "3faf6ab6e1b75db4815cfc66250d5bd4",
+      "size": 226042,
+      "uploadedDate": "2020-07-02T21:03:40.284Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a875433f201e4a82abb60f6b11bcf531"
+    }
+  ],
+  "catalogNs": null
 }

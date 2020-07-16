@@ -1,61 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-24T05:12:21.034Z",
-  "lastModifiedDate": "2020-07-07T18:02:17.665Z",
-  "viewableDate": "2020-07-07T18:00:00.000Z",
-  "productSlug": "vampire-the-masquerade-swansong/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Vampire: The Masquerade – Swansong",
   "id": "1008b5ab0ea14d38b55ac46b65fe64f8",
   "namespace": "91b9a3ac7cda40718addd961fddfadca",
+  "title": "Vampire: The Masquerade – Swansong",
   "description": "Vampire: The Masquerade – Swansong",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg"
-    }
-  ],
+  "productSlug": "vampire-the-masquerade-swansong/home",
+  "urlSlug": "swiftgeneralaudience",
+  "creationDate": "2019-08-24T05:12:21.034Z",
+  "lastModifiedDate": "2020-07-07T18:02:17.665Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-07-07T18:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "beb6faac3b9540079a0fd20f7306c7a7",
-      "namespace": "91b9a3ac7cda40718addd961fddfadca",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -74,20 +56,75 @@
       "value": "vampire-the-masquerade-swansong/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg",
+      "md5": "abcd01f8a016df3658c13ece4a1fc82f",
+      "size": 783689,
+      "uploadedDate": "2020-07-01T14:12:33.630Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg",
+      "md5": "1005d1e62d52ec2c5d00d50d92b8a21d",
+      "size": 422513,
+      "uploadedDate": "2020-07-01T14:12:44.571Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg",
+      "md5": "abcd01f8a016df3658c13ece4a1fc82f",
+      "size": 783689,
+      "uploadedDate": "2020-07-01T14:12:55.898Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg",
+      "md5": "1005d1e62d52ec2c5d00d50d92b8a21d",
+      "size": 422513,
+      "uploadedDate": "2020-07-01T14:13:06.680Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S1-2560x1440-abcd01f8a016df3658c13ece4a1fc82f.jpg",
+      "md5": "abcd01f8a016df3658c13ece4a1fc82f",
+      "size": 783689,
+      "uploadedDate": "2020-07-01T14:13:20.383Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg",
+      "md5": "1005d1e62d52ec2c5d00d50d92b8a21d",
+      "size": 422513,
+      "uploadedDate": "2020-07-01T14:13:33.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91b9a3ac7cda40718addd961fddfadca/offer/EGS_VampireTheMasqueradeSwansong_BigBadWolf_S2-1200x1600-1005d1e62d52ec2c5d00d50d92b8a21d.jpg",
+      "md5": "1005d1e62d52ec2c5d00d50d92b8a21d",
+      "size": 422513,
+      "uploadedDate": "2020-07-01T14:13:42.879Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "beb6faac3b9540079a0fd20f7306c7a7"
+    }
+  ],
+  "catalogNs": null
 }

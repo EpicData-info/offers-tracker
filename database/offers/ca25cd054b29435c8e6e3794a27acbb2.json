@@ -1,47 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-09-17T18:26:58.230Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "everything/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Everything",
   "id": "ca25cd054b29435c8e6e3794a27acbb2",
   "namespace": "epic",
+  "title": "Everything",
   "description": "Everything",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-1802x705-42c0173386db45ca262f22df51684c05.png"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Everything-1200x476-601c1959709ae514658fea4723012316.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png"
-    }
-  ],
+  "productSlug": "everything/home",
+  "urlSlug": "everything",
+  "creationDate": "2019-09-17T18:26:58.230Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bb6gmtc2ysnxtvxulaxsqe7bgtzkz7",
     "name": "David OReilly"
   },
-  "items": [
+  "linkedOfferId": "11c4b859bfd143d798bf84b8cfe1964f",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,26 +112,48 @@
       "value": "11c4b859bfd143d798bf84b8cfe1964f"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_IC1_WhiteDropShadow-1802x705-42c0173386db45ca262f22df51684c05.png",
+      "md5": "42c0173386db45ca262f22df51684c05",
+      "size": 345269,
+      "uploadedDate": "2019-09-18T20:36:45.185Z",
+      "width": 1802,
+      "height": 705
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Everything-1200x476-601c1959709ae514658fea4723012316.png",
+      "md5": "601c1959709ae514658fea4723012316",
+      "size": 875265,
+      "uploadedDate": "2019-09-18T21:25:56.305Z",
+      "width": 1200,
+      "height": 476
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DavidOReilly_Everything_N3_revised-2560x1440-7e1f936d40753516eef1a11391268911.jpg",
+      "md5": "7e1f936d40753516eef1a11391268911",
+      "size": 302087,
+      "uploadedDate": "2019-09-24T19:34:18.528Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Everything_Portrait-1280x1440-b72cb823838a1b5127278ba2dc139b05.png",
+      "md5": "b72cb823838a1b5127278ba2dc139b05",
+      "size": 1391445,
+      "uploadedDate": "2019-09-24T21:03:26.631Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "11c4b859bfd143d798bf84b8cfe1964f",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "David OReilly"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "everything/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

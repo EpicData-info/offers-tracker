@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-12-04T20:15:16.173Z",
-  "lastModifiedDate": "2020-04-29T21:39:41.475Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DaceDevOffer",
   "id": "702d6ce80652446783d916baa18c020f",
   "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "title": "DaceDevOffer",
   "description": "DaceDevOffer",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dacedevaudience",
+  "creationDate": "2019-12-04T20:15:16.173Z",
+  "lastModifiedDate": "2020-04-29T21:39:41.475Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
     "name": "SNK CORPORATION"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e5ff3eb5ad0a4b3196e2540d1ad37f7a",
-      "namespace": "ace4435645d9489cacfbb422b7c1c817",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "e5ff3eb5ad0a4b3196e2540d1ad37f7a"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

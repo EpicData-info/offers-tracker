@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-02-18T18:00:00.000Z",
-  "creationDate": "2019-02-27T01:44:46.174Z",
-  "lastModifiedDate": "2020-04-29T00:38:50.097Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "LupineDevAudience",
   "id": "cbc43f4d5528441db33be1d9d2365b65",
   "namespace": "lupine",
+  "title": "LupineDevAudience",
   "description": "LupineDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "lupinedevaudience",
+  "creationDate": "2019-02-27T01:44:46.174Z",
+  "lastModifiedDate": "2020-04-29T00:38:50.097Z",
+  "effectiveDate": "2050-02-18T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c36a1ddd0e4d404aa1797d06bd7c89f2",
-      "namespace": "lupine",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -37,14 +42,11 @@
       "value": "Funomena"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c36a1ddd0e4d404aa1797d06bd7c89f2"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

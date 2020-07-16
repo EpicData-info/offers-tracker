@@ -1,63 +1,126 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-09T11:00:00.000Z",
-  "creationDate": "2020-05-22T14:55:49.320Z",
-  "lastModifiedDate": "2020-06-08T12:19:12.699Z",
-  "viewableDate": null,
-  "productSlug": "mechwarrior-5/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mechwarrior 5 Modding Toolkit",
   "id": "616d8e1ff26b4a65b14794e612da00c4",
   "namespace": "b9def67e597b4be7a16146146a044d02",
+  "title": "Mechwarrior 5 Modding Toolkit",
   "description": "Mechwarrior 5 Modding Toolkit",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Mod-editor-icon-200x200-18ddd1e690c834a781ef4bfe09b92450.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg"
-    }
-  ],
+  "productSlug": "mechwarrior-5/home",
+  "urlSlug": "hoopoegeneralaudience-02",
+  "creationDate": "2020-05-22T14:55:49.320Z",
+  "lastModifiedDate": "2020-06-08T12:19:12.699Z",
+  "effectiveDate": "2019-12-09T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-muad9pj32k67stc4ycpgpplwq84sgq",
     "name": "Piranha Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e6b52375cd6b460d9249cc1a8a3645b3",
-      "namespace": "b9def67e597b4be7a16146146a044d02",
-      "developer": null
+      "path": "mods"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +137,84 @@
       "value": "mechwarrior-5/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "mods"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
+      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
+      "size": 580997,
+      "uploadedDate": "2020-05-22T14:54:08.837Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
+      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
+      "size": 558123,
+      "uploadedDate": "2020-05-22T14:54:27.936Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "editors"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
+      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
+      "size": 558123,
+      "uploadedDate": "2020-05-22T14:54:45.584Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
+      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
+      "size": 580997,
+      "uploadedDate": "2020-05-22T14:55:02.140Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Mod-editor-icon-200x200-18ddd1e690c834a781ef4bfe09b92450.png",
+      "md5": "18ddd1e690c834a781ef4bfe09b92450",
+      "size": 8264,
+      "uploadedDate": "2020-05-22T14:55:12.700Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
+      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
+      "size": 580997,
+      "uploadedDate": "2020-05-22T14:55:31.711Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
+      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
+      "size": 558123,
+      "uploadedDate": "2020-05-22T14:55:41.297Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
+      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
+      "size": 558123,
+      "uploadedDate": "2020-06-08T12:19:06.196Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e6b52375cd6b460d9249cc1a8a3645b3"
+    }
+  ],
+  "catalogNs": null
 }

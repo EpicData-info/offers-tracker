@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-28T15:00:00.000Z",
-  "creationDate": "2020-02-18T03:10:10.303Z",
-  "lastModifiedDate": "2020-05-12T15:59:08.575Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "2500 Gems",
   "id": "6defb63178384eef81732354fb8cb564",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "2500 Gems",
   "description": "2500 Gems",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-860x1148-860x1148-d80d460ffc3a1d9de3617950ae14c622.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-2560x1440-2560x1440-43bade00ce771435eeb8968843ace152.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-860x1148-860x1148-d80d460ffc3a1d9de3617950ae14c622.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "2500-gems",
+  "creationDate": "2020-02-18T03:10:10.303Z",
+  "lastModifiedDate": "2020-05-12T15:59:08.575Z",
+  "effectiveDate": "2020-04-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "0ca5feb8b91c4a21920489289e4695ed",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "{}"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-860x1148-860x1148-d80d460ffc3a1d9de3617950ae14c622.jpg",
+      "md5": "d80d460ffc3a1d9de3617950ae14c622",
+      "size": 191407,
+      "uploadedDate": "2020-04-09T02:33:39.274Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-2560x1440-2560x1440-43bade00ce771435eeb8968843ace152.jpg",
+      "md5": "43bade00ce771435eeb8968843ace152",
+      "size": 402553,
+      "uploadedDate": "2020-04-09T02:33:47.773Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/Smite-EGS-2500Gems-860x1148-860x1148-d80d460ffc3a1d9de3617950ae14c622.jpg",
+      "md5": "d80d460ffc3a1d9de3617950ae14c622",
+      "size": 191407,
+      "uploadedDate": "2020-04-09T02:33:55.449Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "0ca5feb8b91c4a21920489289e4695ed"
+    }
+  ],
+  "catalogNs": null
 }

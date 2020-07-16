@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-22T15:00:00.000Z",
-  "creationDate": "2019-04-02T20:11:02.847Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-3",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed III Remastered",
   "id": "643cba48d39d40a482df653517df0f26",
   "namespace": "anise",
+  "title": "Assassin's Creed III Remastered",
   "description": "Assassin's Creed III Remastered",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Helix_AC3r_Logo_Vertical_White_NoCrest-2500x781-118d92fac38c11d52d6fb1cf159022d6.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/anise/offer/AC3_CodeRedemption-330x440-a73665c7c71591136d9fef0594e42092.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/anise/offer/AC3_CodeRedemption-330x440-a73665c7c71591136d9fef0594e42092.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-3",
+  "urlSlug": "anisegeneralaudience",
+  "creationDate": "2019-04-02T20:11:02.847Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ee8454da25fd4020a369d60f38f28992",
-      "namespace": "anise",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "assassins-creed-3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg",
+      "md5": "590d41fd0a42cd431142275088642e0e",
+      "size": 366330,
+      "uploadedDate": "2019-09-30T15:09:15.450Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg",
+      "md5": "ac0b4f85c023a2bacb1ebf0510a8c1d3",
+      "size": 252693,
+      "uploadedDate": "2019-09-30T15:09:28.428Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Helix_AC3r_Logo_Vertical_White_NoCrest-2500x781-118d92fac38c11d52d6fb1cf159022d6.png",
+      "md5": "118d92fac38c11d52d6fb1cf159022d6",
+      "size": 427730,
+      "uploadedDate": "2019-09-30T15:17:47.199Z",
+      "width": 2500,
+      "height": 781
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Portrait_Promo_1280x1420-1280x1420-ac0b4f85c023a2bacb1ebf0510a8c1d3.jpg",
+      "md5": "ac0b4f85c023a2bacb1ebf0510a8c1d3",
+      "size": 252693,
+      "uploadedDate": "2019-09-30T15:09:28.428Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/anise/offer/AC3_CodeRedemption-330x440-a73665c7c71591136d9fef0594e42092.jpg",
+      "md5": "a73665c7c71591136d9fef0594e42092",
+      "size": 48335,
+      "uploadedDate": "2019-09-30T14:59:07.983Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/anise/offer/AC3_CodeRedemption-330x440-a73665c7c71591136d9fef0594e42092.jpg",
+      "md5": "a73665c7c71591136d9fef0594e42092",
+      "size": 48335,
+      "uploadedDate": "2019-09-30T14:59:16.985Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AC3R_Epic_Store_Primary_Promo_2580x1450-2580x1450-590d41fd0a42cd431142275088642e0e.jpg",
+      "md5": "590d41fd0a42cd431142275088642e0e",
+      "size": 366330,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ee8454da25fd4020a369d60f38f28992"
+    }
+  ],
+  "catalogNs": null
 }

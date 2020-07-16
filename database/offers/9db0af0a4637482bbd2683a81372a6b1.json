@@ -1,47 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-23T20:00:00.000Z",
-  "creationDate": "2019-10-19T01:57:27.046Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "q-u-b-e-2/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Q.U.B.E. 2 - Season Pass",
   "id": "9db0af0a4637482bbd2683a81372a6b1",
   "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "title": "Q.U.B.E. 2 - Season Pass",
   "description": "Q.U.B.E. 2 - Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass-1920x1080-98349563ee5215080345be87e5126618a7d9d6b7.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass_Portrait-860x1148-dd5201bd617351d959f92eb4de3ba75d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass_Portrait-860x1148-dd5201bd617351d959f92eb4de3ba75d.jpg"
-    }
-  ],
+  "productSlug": "q-u-b-e-2/season-pass",
+  "urlSlug": "q-u-b-e-2-season-pass",
+  "creationDate": "2019-10-19T01:57:27.046Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-10-23T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
     "name": "Ten Hut Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7f3e22a1e66149099bac9bac2df5280c",
-      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
-      "developer": null
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +101,48 @@
       "value": "q-u-b-e-2/season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-19T01:57:21.832Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass-1920x1080-98349563ee5215080345be87e5126618a7d9d6b7.jpg",
+      "md5": "870c712271f4390fd730199cdb08d526",
+      "size": 208446,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "bundles/addons"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass_Portrait-860x1148-dd5201bd617351d959f92eb4de3ba75d.jpg",
+      "md5": "dd5201bd617351d959f92eb4de3ba75d",
+      "size": 675463,
+      "uploadedDate": "2020-04-10T15:03:39.392Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Seasonpass_Portrait-860x1148-dd5201bd617351d959f92eb4de3ba75d.jpg",
+      "md5": "dd5201bd617351d959f92eb4de3ba75d",
+      "size": 675463,
+      "uploadedDate": "2020-04-10T15:03:50.923Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7f3e22a1e66149099bac9bac2df5280c"
+    }
+  ],
+  "catalogNs": null
 }

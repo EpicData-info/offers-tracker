@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-10T17:55:00.000Z",
-  "creationDate": "2019-09-13T21:57:27.518Z",
-  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kine Review",
   "id": "9693d7b9a9a84342840e2b220eaa5de8",
   "namespace": "rose",
+  "title": "Kine Review",
   "description": "Kine Review",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "rosereview",
+  "creationDate": "2019-09-13T21:57:27.518Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
+  "effectiveDate": "2019-09-10T17:55:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "36df71bea659419daca3d8df0b666fe1",
-      "namespace": "rose",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Rose"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "36df71bea659419daca3d8df0b666fe1"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

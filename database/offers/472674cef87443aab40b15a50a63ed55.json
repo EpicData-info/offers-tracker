@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-09-30T17:19:12.003Z",
-  "lastModifiedDate": "2019-11-05T20:59:21.126Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Afterparty Press",
   "id": "472674cef87443aab40b15a50a63ed55",
   "namespace": "adenium",
+  "title": "Afterparty Press",
   "description": "Afterparty Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157-400x400-fba79aa463578d60e74badc171dc8157.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "afterparty-press",
+  "creationDate": "2019-09-30T17:19:12.003Z",
+  "lastModifiedDate": "2019-11-05T20:59:21.126Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
     "name": "Night School Studio, LLC"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0113432cfa334bacb051806c4731aebc",
-      "namespace": "adenium",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "Night School Studio"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png",
+      "md5": "94ea34d533e7ec30d7ef4690bf1cad22",
+      "size": 47933,
+      "uploadedDate": "2019-09-30T17:17:59.083Z",
+      "width": 340,
+      "height": 377
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157-400x400-fba79aa463578d60e74badc171dc8157.png",
+      "md5": "fba79aa463578d60e74badc171dc8157",
+      "size": 11881,
+      "uploadedDate": "2019-09-30T17:19:04.106Z",
+      "width": 400,
+      "height": 400
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0113432cfa334bacb051806c4731aebc"
+    }
+  ],
+  "catalogNs": null
 }

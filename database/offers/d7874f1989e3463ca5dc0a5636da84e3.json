@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-19T02:16:19.764Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-stick-of-truth/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "South Park: The Stick of Truth",
   "id": "d7874f1989e3463ca5dc0a5636da84e3",
   "namespace": "epic",
+  "title": "South Park: The Stick of Truth",
   "description": "South Park: The Stick of Truth",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png"
-    }
-  ],
+  "productSlug": "south-park-the-stick-of-truth/home",
+  "urlSlug": "south-park-the-stick-of-truth",
+  "creationDate": "2019-11-19T02:16:19.764Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": "4daf8ec797014b5eb4a9cdb41d73bb60",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +124,39 @@
       "value": "south-park-the-stick-of-truth/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
+      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
+      "size": 407085,
+      "uploadedDate": "2019-11-19T02:14:56.194Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
+      "md5": "36d981676a51f199c0c7206b3cd33c09",
+      "size": 504756,
+      "uploadedDate": "2019-11-19T02:15:05.401Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png",
+      "md5": "14e92c2c7de77f23e3fca026bf84b903",
+      "size": 245010,
+      "uploadedDate": "2019-12-20T16:20:20.021Z",
+      "width": 1000,
+      "height": 375
     }
   ],
-  "linkedOfferId": "4daf8ec797014b5eb4a9cdb41d73bb60",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "CN"
-      },
-      {
-        "key": "developerName",
-        "value": "Ubisoft"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "south-park-the-stick-of-truth/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-27T18:25:38.547Z",
-  "lastModifiedDate": "2020-06-11T20:56:24.578Z",
-  "viewableDate": null,
-  "productSlug": "jett-the-far-shore",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "JETT : THE FAR SHORE®",
   "id": "a248dd5d41f14fe58c4542e7ada6c716",
   "namespace": "d5dc736cb39c4b09b32a0049a4009d67",
+  "title": "JETT : THE FAR SHORE®",
   "description": "JETT : THE FAR SHORE®",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg"
-    }
-  ],
+  "productSlug": "jett-the-far-shore",
+  "urlSlug": "onyxgeneralaudience",
+  "creationDate": "2020-02-27T18:25:38.547Z",
+  "lastModifiedDate": "2020-06-11T20:56:24.578Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tmpfdhe68nuqzgl7yswcp9gv9k2msm",
     "name": "Superbrothers"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "74d9d56e4d73483b977c16b15762fa1f",
-      "namespace": "d5dc736cb39c4b09b32a0049a4009d67",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "jett-the-far-shore"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg",
+      "md5": "a3e28519bd2a32405647e4949a1053c2",
+      "size": 294959,
+      "uploadedDate": "2020-05-28T22:15:12.079Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
+      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
+      "size": 176372,
+      "uploadedDate": "2020-05-28T22:15:25.616Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
+      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
+      "size": 176372,
+      "uploadedDate": "2020-05-28T22:15:33.913Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
+      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
+      "size": 176372,
+      "uploadedDate": "2020-05-28T22:15:41.062Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S1-2560x1440-a3e28519bd2a32405647e4949a1053c2.jpg",
+      "md5": "a3e28519bd2a32405647e4949a1053c2",
+      "size": 294959,
+      "uploadedDate": "2020-05-28T22:15:49.198Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d5dc736cb39c4b09b32a0049a4009d67/offer/EGS_JETTTHEFARSHORE_SuperbrothersPineScented_S2-1200x1600-1fe4a7a9e76dee787315d29a5ac63595.jpg",
+      "md5": "1fe4a7a9e76dee787315d29a5ac63595",
+      "size": 176372,
+      "uploadedDate": "2020-05-28T22:16:10.612Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "74d9d56e4d73483b977c16b15762fa1f"
+    }
+  ],
+  "catalogNs": null
 }

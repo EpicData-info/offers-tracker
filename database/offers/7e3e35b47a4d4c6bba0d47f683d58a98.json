@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "creationDate": "2020-01-04T06:01:51.336Z",
-  "lastModifiedDate": "2020-05-13T20:59:28.938Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/home#editions",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "HD Voice Pack - English",
   "id": "7e3e35b47a4d4c6bba0d47f683d58a98",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "HD Voice Pack - English",
   "description": "HD Voice Pack - English",
   "longDescription": "Classic DLC",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_HDVoicePackEnglish_IC1-200x200-1b21bdecb798047d9c3c7c9bbfd3d49fed08f4da.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/home#editions",
+  "urlSlug": "hd-voice-pack-english",
+  "creationDate": "2020-01-04T06:01:51.336Z",
+  "lastModifiedDate": "2020-05-13T20:59:28.938Z",
+  "effectiveDate": "2020-02-13T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
-    {
-      "id": "2441ece2a6f24fc7a4e2086caf735434",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Warhorse Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/home#editions"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,108 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Warhorse Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/home#editions"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-02-13T15:14:55.445Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_HDVoicePackEnglish_IC1-200x200-1b21bdecb798047d9c3c7c9bbfd3d49fed08f4da.png",
+      "md5": "59cfcbd52a9b6cdc91b2e27c323a05f5",
+      "size": 8422,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 200,
+      "height": 200
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:52:18.783Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:52:26.317Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "2441ece2a6f24fc7a4e2086caf735434"
+    }
+  ],
+  "catalogNs": null
 }

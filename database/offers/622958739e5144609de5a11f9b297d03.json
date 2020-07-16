@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-17T16:00:00.000Z",
-  "creationDate": "2020-03-24T15:23:35.974Z",
-  "lastModifiedDate": "2020-05-20T15:33:27.148Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SnowRunner Press",
   "id": "622958739e5144609de5a11f9b297d03",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "SnowRunner Press",
   "description": "SnowRunner Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "mayflower-standard-edition-pre-purchase-02",
+  "creationDate": "2020-03-24T15:23:35.974Z",
+  "lastModifiedDate": "2020-05-20T15:33:27.148Z",
+  "effectiveDate": "2020-02-17T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0ca78d1857a4411b98bf5af87815bcfa",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -45,14 +50,11 @@
       "value": "Saber Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "0ca78d1857a4411b98bf5af87815bcfa"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

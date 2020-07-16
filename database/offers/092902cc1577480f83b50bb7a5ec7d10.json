@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-16T15:00:00.000Z",
-  "creationDate": "2019-11-05T02:28:36.615Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Just Cause 4 Reloaded  Content Pack",
   "id": "092902cc1577480f83b50bb7a5ec7d10",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "title": "Just Cause 4 Reloaded  Content Pack",
   "description": "Just Cause 4 Reloaded  Content Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-2560x1440-2560x1440-87ebaf491dc0c843643e6c2668a33d44.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-860x1148-860x1148-4bafa1a6dd74563891b5644163cabe77.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-860x1148-860x1148-4bafa1a6dd74563891b5644163cabe77-860x1148-4bafa1a6dd74563891b5644163cabe77.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "reloaded-content-pack",
+  "creationDate": "2019-11-05T02:28:36.615Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
-    {
-      "id": "e132c2dd11224087aec09970a1e86b97",
-      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Square Enix"
-    },
-    {
-      "key": "developerName",
-      "value": "Avalanche Studios"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,111 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-2560x1440-2560x1440-87ebaf491dc0c843643e6c2668a33d44.jpg",
+      "md5": "87ebaf491dc0c843643e6c2668a33d44",
+      "size": 575595,
+      "uploadedDate": "2020-02-26T19:26:43.409Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-860x1148-860x1148-4bafa1a6dd74563891b5644163cabe77.jpg",
+      "md5": "4bafa1a6dd74563891b5644163cabe77",
+      "size": 148428,
+      "uploadedDate": "2020-02-26T19:26:51.837Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-Content-Pack-860x1148-860x1148-4bafa1a6dd74563891b5644163cabe77-860x1148-4bafa1a6dd74563891b5644163cabe77.jpg",
+      "md5": "4bafa1a6dd74563891b5644163cabe77",
+      "size": 148428,
+      "uploadedDate": "2020-04-10T15:40:34.752Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "e132c2dd11224087aec09970a1e86b97"
+    }
+  ],
+  "catalogNs": null
 }

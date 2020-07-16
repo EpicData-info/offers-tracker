@@ -1,47 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-03T14:00:00.000Z",
-  "creationDate": "2019-09-03T17:08:45.735Z",
-  "lastModifiedDate": "2020-04-10T14:35:22.948Z",
-  "viewableDate": null,
-  "productSlug": "ashen/dlc1",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Nightstorm Isle - DLC",
   "id": "cf6f3f919d2748ac8f5f189d57200129",
   "namespace": "wren",
+  "title": "Nightstorm Isle - DLC",
   "description": "Nightstorm Isle - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/wren/offer/NightstormIsle_Landscape_2560x1440-2560x1440-052f4bec86970b527c884f6b487edc03.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg"
-    }
-  ],
+  "productSlug": "ashen/dlc1",
+  "urlSlug": "ashendlcgeneralaudience",
+  "creationDate": "2019-09-03T17:08:45.735Z",
+  "lastModifiedDate": "2020-04-10T14:35:22.948Z",
+  "effectiveDate": "2019-09-03T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4c01dfdcdcd14595a8581217f5f0a255",
-      "namespace": "wren",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +93,48 @@
       "value": "ashen/dlc1"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+      "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+      "size": 114345,
+      "uploadedDate": "2019-09-03T17:54:35.232Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+      "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+      "size": 114345,
+      "uploadedDate": "2019-09-03T17:54:52.639Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/wren/offer/NightstormIsle_Landscape_2560x1440-2560x1440-052f4bec86970b527c884f6b487edc03.jpg",
+      "md5": "052f4bec86970b527c884f6b487edc03",
+      "size": 1680772,
+      "uploadedDate": "2020-02-27T14:21:57.854Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/wren/offer/CodeRedemption_AshenNightstormIsle-330x440-05cc053e6b3219ae5e0cd3ee1ada34e1.jpg",
+      "md5": "05cc053e6b3219ae5e0cd3ee1ada34e1",
+      "size": 114345,
+      "uploadedDate": "2020-04-10T00:20:10.478Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4c01dfdcdcd14595a8581217f5f0a255"
+    }
+  ],
+  "catalogNs": null
 }

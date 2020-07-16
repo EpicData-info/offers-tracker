@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-05-08T20:19:52.214Z",
-  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Heavy Rain (Japanese Demo) - Sunset",
   "id": "959d6b50ce784f959b7b2e3ddc3592d1",
   "namespace": "aster",
+  "title": "Heavy Rain (Japanese Demo) - Sunset",
   "description": "Heavy Rain (Japanese Demo) - Sunset",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aster/offer/AsterDemoJA-2560x1440-0ac644f2a3389d4de31582b7b7d9ef5c.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "heavy-rain-demo-ja",
+  "creationDate": "2019-05-08T20:19:52.214Z",
+  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
-    {
-      "id": "4540bf2e3b4c4f589fa108d6a079ed21",
-      "namespace": "aster",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,23 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/AsterDemoJA-2560x1440-0ac644f2a3389d4de31582b7b7d9ef5c.png",
+      "md5": "0ac644f2a3389d4de31582b7b7d9ef5c",
+      "size": 1243021,
+      "uploadedDate": "2019-05-24T14:18:39.408Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "4540bf2e3b4c4f589fa108d6a079ed21"
+    }
+  ],
+  "catalogNs": null
 }

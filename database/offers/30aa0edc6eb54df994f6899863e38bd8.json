@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-23T20:00:00.000Z",
-  "creationDate": "2019-10-19T02:01:48.361Z",
-  "lastModifiedDate": "2019-10-24T15:52:24.426Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Q.U.B.E. 2 - Glove Skin",
   "id": "30aa0edc6eb54df994f6899863e38bd8",
   "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "title": "Q.U.B.E. 2 - Glove Skin",
   "description": "Q.U.B.E. 2 - Glove Skin",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "q-u-b-e-2-glove-skin",
+  "creationDate": "2019-10-19T02:01:48.361Z",
+  "lastModifiedDate": "2019-10-24T15:52:24.426Z",
+  "effectiveDate": "2019-10-23T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
     "name": "Ten Hut Games"
   },
-  "items": [
-    {
-      "id": "6f2eed184a8b45388180ebe3d8dfa13f",
-      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -45,6 +31,32 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-19T02:01:30.655Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-19T02:01:43.583Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "6f2eed184a8b45388180ebe3d8dfa13f"
+    }
+  ],
+  "catalogNs": null
 }

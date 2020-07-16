@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-05-30T21:56:59.582Z",
-  "lastModifiedDate": "2019-09-27T23:26:36.255Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Garlic Dev Audience",
   "id": "4e7dd06c32ae4ea1aa297295d50b32ac",
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+  "title": "Garlic Dev Audience",
   "description": "Garlic Dev Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "garlicdevaudience",
+  "creationDate": "2019-05-30T21:56:59.582Z",
+  "lastModifiedDate": "2019-09-27T23:26:36.255Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b3852a16933f4d1eb613da6c161433ce",
-      "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "Dodge Roll"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "b3852a16933f4d1eb613da6c161433ce"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,47 +1,120 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-05-27T12:50:00.000Z",
-  "creationDate": "2019-05-28T17:02:42.820Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-new-lands/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kingdom New Lands",
   "id": "c98c8c591fdb472e97dc3169b097218a",
   "namespace": "epic",
+  "title": "Kingdom New Lands",
   "description": "Kingdom New Lands",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/KingdomNewLands_Freetile-2578x1028-25ade94a10e6224b8b45db9a888ca794.png"
-    }
-  ],
+  "productSlug": "kingdom-new-lands/home",
+  "urlSlug": "kingdom-new-lands",
+  "creationDate": "2019-05-28T17:02:42.820Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-05-27T12:50:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "items": [
+  "linkedOfferId": "80c35836c0184c1e91dde0f2a05ebbbb",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,30 +139,48 @@
       "value": "80c35836c0184c1e91dde0f2a05ebbbb"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_IC1_LogoColor-520x194-6a025871f80bf64e261c2cfd499c20f7.png",
+      "md5": "6a025871f80bf64e261c2cfd499c20f7",
+      "size": 4773,
+      "uploadedDate": "2019-05-28T16:57:20.560Z",
+      "width": 520,
+      "height": 194
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_G1_PDPPromo_Image-2560x1440-7aadfb97ae5a2d4b59a3bef27ecf17fb.jpg",
+      "md5": "7aadfb97ae5a2d4b59a3bef27ecf17fb",
+      "size": 98181,
+      "uploadedDate": "2019-05-28T16:57:36.297Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_RawFury_KingdomNewLands_S3_StorePortraitPromo-1280x1440-a1f13da9db6f52b17b758782be5aa352.jpg",
+      "md5": "a1f13da9db6f52b17b758782be5aa352",
+      "size": 98753,
+      "uploadedDate": "2019-05-28T16:57:51.499Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/KingdomNewLands_Freetile-2578x1028-25ade94a10e6224b8b45db9a888ca794.png",
+      "md5": "25ade94a10e6224b8b45db9a888ca794",
+      "size": 836638,
+      "uploadedDate": "2019-05-29T13:13:58.804Z",
+      "width": 2578,
+      "height": 1028
     }
   ],
-  "linkedOfferId": "80c35836c0184c1e91dde0f2a05ebbbb",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Raw Fury"
-      },
-      {
-        "key": "developerName",
-        "value": "noio"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "kingdom-new-lands/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

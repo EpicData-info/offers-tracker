@@ -1,59 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-22T00:00:00.000Z",
-  "creationDate": "2019-08-09T14:07:34.776Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "fez/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Fez",
   "id": "442f123b4d884d8ca85236aa30b99a79",
   "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
+  "title": "Fez",
   "description": "Fez",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg"
-    }
-  ],
+  "productSlug": "fez/home",
+  "urlSlug": "bluebirdgeneralaudience",
+  "creationDate": "2019-08-09T14:07:34.776Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-08-22T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-yh6xe9ws2y6xcgrbr27lvspn3ulb5e",
     "name": "Polytron Corporation, Inc"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8914dc9a7f43416da4941898fce9a98f",
-      "namespace": "41f47fd0d3e248bc938a5815d6d64daa",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +128,75 @@
       "value": "fez/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg",
+      "md5": "cf0e2f3af51039940999d57737e8c13c",
+      "size": 349220,
+      "uploadedDate": "2019-08-14T12:50:20.524Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg",
+      "md5": "a442a5ef672e1904ffa98346d33a5ad9",
+      "size": 232610,
+      "uploadedDate": "2019-08-14T12:50:31.182Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_IC1_GAME_LOGO-760x720-aebf7ac340f3efcdc712de7c3c5fceef.png",
+      "md5": "aebf7ac340f3efcdc712de7c3c5fceef",
+      "size": 37905,
+      "uploadedDate": "2019-08-14T12:50:42.134Z",
+      "width": 760,
+      "height": 720
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_S2_STORE_PORTRAIT-1280x1440-a442a5ef672e1904ffa98346d33a5ad9.jpg",
+      "md5": "a442a5ef672e1904ffa98346d33a5ad9",
+      "size": 232610,
+      "uploadedDate": "2019-08-14T12:50:31.182Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg",
+      "md5": "e651ae15b59006538b4b32272349ae8e",
+      "size": 213417,
+      "uploadedDate": "2019-08-14T13:24:13.683Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/41f47fd0d3e248bc938a5815d6d64daa/offer/CodeRedemption_Fez-340x440-e651ae15b59006538b4b32272349ae8e.jpg",
+      "md5": "e651ae15b59006538b4b32272349ae8e",
+      "size": 213417,
+      "uploadedDate": "2019-08-14T13:24:23.354Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_POLYTRON_FEZ_N1_NEWSFEED_PRIMARY-2560x1440-cf0e2f3af51039940999d57737e8c13c.jpg",
+      "md5": "cf0e2f3af51039940999d57737e8c13c",
+      "size": 349220,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8914dc9a7f43416da4941898fce9a98f"
+    }
+  ],
+  "catalogNs": null
 }

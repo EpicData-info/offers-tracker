@@ -1,60 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-06T00:00:00.000Z",
-  "creationDate": "2019-09-03T22:07:50.775Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "trials-rising/crash-n-sunburn",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Trials Rising Crash n Sunburn DLC",
   "id": "1b09761b84794a90a3836b127cb1f736",
   "namespace": "argyle",
+  "title": "Trials Rising Crash n Sunburn DLC",
   "description": "Trials Rising Crash n Sunburn DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/argyle/offer/TR_CNS_DLC_Capsule_355x150-355x150-afd2bd5d89fb302fd778af9e1976b9ce.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/argyle/offer/Diesel_productv2_trials-rising_crash-n-sunburn_TR_Store_Landscape_2580x1450-2580x1450-13eb7d8f053c3c88ad10ab10c8ebe98a1229b55f-2580x1450-04b4da91db9240cf614bd72ce6c802a2.jpg"
-    }
-  ],
+  "productSlug": "trials-rising/crash-n-sunburn",
+  "urlSlug": "argyle-cns-dlc",
+  "creationDate": "2019-09-03T22:07:50.775Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "c1b80fce35bb448bac9852477e736aa0",
-      "namespace": "argyle",
-      "developer": null
-    },
-    {
-      "id": "718cc0f4f61647798470f567d3f1d3a1",
-      "namespace": "argyle",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "trials-rising/crash-n-sunburn"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -69,6 +37,48 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trials-rising/crash-n-sunburn"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TR_CNS_DLC_Capsule_355x150-355x150-afd2bd5d89fb302fd778af9e1976b9ce.jpg",
+      "md5": "afd2bd5d89fb302fd778af9e1976b9ce",
+      "size": 89914,
+      "uploadedDate": "2019-09-10T04:55:18.122Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/argyle/offer/Diesel_productv2_trials-rising_crash-n-sunburn_TR_Store_Landscape_2580x1450-2580x1450-13eb7d8f053c3c88ad10ab10c8ebe98a1229b55f-2580x1450-04b4da91db9240cf614bd72ce6c802a2.jpg",
+      "md5": "04b4da91db9240cf614bd72ce6c802a2",
+      "size": 376853,
+      "uploadedDate": "2020-02-27T19:44:55.882Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "c1b80fce35bb448bac9852477e736aa0"
+    },
+    {
+      "id": "718cc0f4f61647798470f567d3f1d3a1"
+    }
+  ],
+  "catalogNs": null
 }

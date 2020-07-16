@@ -1,37 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-26T00:00:00.000Z",
-  "creationDate": "2019-03-27T14:50:01.953Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "AMD Partnership Audience",
   "id": "70bc254cbd3e438b8520ad68594130a8",
   "namespace": "wombat",
+  "title": "AMD Partnership Audience",
   "description": "AMD Partnership Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "world-war-z-amd-partnership",
+  "creationDate": "2019-03-27T14:50:01.953Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
+  "effectiveDate": "2019-03-26T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "name": "Saber Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6bfa6e8187ed4caba71f9d6e2319ea50",
-      "namespace": "wombat",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "0baed39b46a2436fa617b095716a5c68",
-      "namespace": "wombat",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -42,14 +42,14 @@
       "value": "Saber Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "6bfa6e8187ed4caba71f9d6e2319ea50"
     },
     {
-      "path": "applications"
+      "id": "0baed39b46a2436fa617b095716a5c68"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

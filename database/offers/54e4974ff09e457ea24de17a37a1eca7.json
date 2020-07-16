@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-16T16:00:00.000Z",
-  "creationDate": "2019-10-03T16:37:52.771Z",
-  "lastModifiedDate": "2020-04-28T20:22:08.871Z",
-  "viewableDate": null,
-  "productSlug": "horace/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Horace",
   "id": "54e4974ff09e457ea24de17a37a1eca7",
   "namespace": "8aa6e526d2864c108f219747ad7011e5",
+  "title": "Horace",
   "description": "Horace",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg"
-    }
-  ],
+  "productSlug": "horace/home",
+  "urlSlug": "palilageneralaudience",
+  "creationDate": "2019-10-03T16:37:52.771Z",
+  "lastModifiedDate": "2020-04-28T20:22:08.871Z",
+  "effectiveDate": "2020-01-16T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a6213179206a4b62b73b9bec0c41ccf1",
-      "namespace": "8aa6e526d2864c108f219747ad7011e5",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "horace/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg",
+      "md5": "12033b116d2430ab4453a200042822b8",
+      "size": 463276,
+      "uploadedDate": "2020-04-28T20:20:18.707Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+      "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+      "size": 382956,
+      "uploadedDate": "2020-04-28T20:20:32.783Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+      "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+      "size": 382956,
+      "uploadedDate": "2020-04-28T20:21:04.523Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+      "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+      "size": 382956,
+      "uploadedDate": "2020-04-28T20:21:20.940Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S2-860x1148-a11dc8a7bf502e5fdef6cc62271302db.jpg",
+      "md5": "a11dc8a7bf502e5fdef6cc62271302db",
+      "size": 382956,
+      "uploadedDate": "2020-04-28T20:21:37.055Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8aa6e526d2864c108f219747ad7011e5/offer/EGS_Horace_PaulHelmanSeanScapelhorn_S3-2560x1440-12033b116d2430ab4453a200042822b8.jpg",
+      "md5": "12033b116d2430ab4453a200042822b8",
+      "size": 463276,
+      "uploadedDate": "2020-04-28T20:21:53.152Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a6213179206a4b62b73b9bec0c41ccf1"
+    }
+  ],
+  "catalogNs": null
 }

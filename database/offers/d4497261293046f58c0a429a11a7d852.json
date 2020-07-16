@@ -1,55 +1,116 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-02T15:00:00.000Z",
-  "creationDate": "2020-01-28T07:08:54.641Z",
-  "lastModifiedDate": "2020-07-09T15:00:19.028Z",
-  "viewableDate": null,
-  "productSlug": "hue",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Hue",
   "id": "d4497261293046f58c0a429a11a7d852",
   "namespace": "cd88d9edc5a748cfa138e467205adcac",
+  "title": "Hue",
   "description": "Hue",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg"
-    }
-  ],
+  "productSlug": "hue",
+  "urlSlug": "herringgeneralaudience",
+  "creationDate": "2020-01-28T07:08:54.641Z",
+  "lastModifiedDate": "2020-07-09T15:00:19.028Z",
+  "effectiveDate": "2020-07-02T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
     "name": "Curve Digital"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c6bd86d2082b44ac835bb4a1a7359b73",
-      "namespace": "cd88d9edc5a748cfa138e467205adcac",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +131,66 @@
       "value": "hue"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg",
+      "md5": "2da72302af40c17b0405c392bf160b88",
+      "size": 133268,
+      "uploadedDate": "2020-03-30T23:55:06.732Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S3-1360x766-d1cb4d0e7b61c0ba596d3546fa4dc7bea9190bfd-1360x766-2da72302af40c17b0405c392bf160b88.jpg",
+      "md5": "2da72302af40c17b0405c392bf160b88",
+      "size": 133268,
+      "uploadedDate": "2020-03-30T23:55:26.684Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg",
+      "md5": "b9fcf99f08b9fa00a3837798f68f3922",
+      "size": 63155,
+      "uploadedDate": "2020-03-30T23:55:34.686Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg",
+      "md5": "b9fcf99f08b9fa00a3837798f68f3922",
+      "size": 63155,
+      "uploadedDate": "2020-03-30T23:55:46.601Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg",
+      "md5": "b9fcf99f08b9fa00a3837798f68f3922",
+      "size": 63155,
+      "uploadedDate": "2020-03-30T23:56:02.710Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd88d9edc5a748cfa138e467205adcac/offer/Diesel_productv2_hue_home_EGS_Hue_FiddleSticks_S4-510x680-bcdd99a2911633e169813a658111b8058a7bde85-510x680-b9fcf99f08b9fa00a3837798f68f3922.jpg",
+      "md5": "6566bd0fb97f72c221d79df4383c6c84",
+      "size": 63155,
+      "uploadedDate": "2020-06-25T03:16:33.363Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c6bd86d2082b44ac835bb4a1a7359b73"
+    }
+  ],
+  "catalogNs": null
 }

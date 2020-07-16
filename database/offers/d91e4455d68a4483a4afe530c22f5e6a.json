@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-03-04T16:00:00.000Z",
-  "creationDate": "2019-03-04T20:28:42.128Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "rune-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Rune II",
   "id": "d91e4455d68a4483a4afe530c22f5e6a",
   "namespace": "epic",
+  "title": "Rune II",
   "description": "Rune 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/510x680-510x680-a8ffffcc77efa3eba9dc19cbfa043c7f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/1360x766-1360x766-a182e19ca442354278094d960f139fe6.jpg"
-    }
-  ],
+  "productSlug": "rune-2/home",
+  "urlSlug": "cosmos",
+  "creationDate": "2019-03-04T20:28:42.128Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-03-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
     "name": "Ragnarok Game, LLC"
   },
-  "items": [
+  "linkedOfferId": "ce274c51740c4bc189fc4701e41b5584",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,26 +120,30 @@
       "value": "ce274c51740c4bc189fc4701e41b5584"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/510x680-510x680-a8ffffcc77efa3eba9dc19cbfa043c7f.jpg",
+      "md5": "a8ffffcc77efa3eba9dc19cbfa043c7f",
+      "size": 302073,
+      "uploadedDate": "2019-11-06T20:32:56.037Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/1360x766-1360x766-a182e19ca442354278094d960f139fe6.jpg",
+      "md5": "a182e19ca442354278094d960f139fe6",
+      "size": 701340,
+      "uploadedDate": "2019-11-06T20:33:39.672Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": "ce274c51740c4bc189fc4701e41b5584",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "developerName",
-        "value": "Ragnarok Game, LLC"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "rune-2"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,62 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-13T15:00:00.000Z",
-  "creationDate": "2020-06-09T19:08:02.678Z",
-  "lastModifiedDate": "2020-06-13T19:45:50.220Z",
-  "viewableDate": null,
-  "productSlug": "iron-harvest",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Iron Harvest Pre-Purchase",
   "id": "d8b76faf162d4a5384dab38331916aeb",
   "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "title": "Iron Harvest Pre-Purchase",
   "description": "Iron Harvest Standard Edition Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png"
-    }
-  ],
+  "productSlug": "iron-harvest",
+  "urlSlug": "mars-prepurchase",
+  "creationDate": "2020-06-09T19:08:02.678Z",
+  "lastModifiedDate": "2020-06-13T19:45:50.220Z",
+  "effectiveDate": "2020-06-13T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "00e562b27d3b4fef972cdbd1ca3d7fee",
-      "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "6cd213007edd4178ba3b751702db97d4",
-      "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -83,20 +64,69 @@
       "value": "iron-harvest"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png",
+      "md5": "522930670eb70ba6cb36e20c7306dd93",
+      "size": 2034857,
+      "uploadedDate": "2020-06-13T17:57:47.815Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png",
+      "md5": "103c530e3b4d46872f751573330b8ba9",
+      "size": 728579,
+      "uploadedDate": "2020-06-13T17:57:58.215Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition/base"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png",
+      "md5": "103c530e3b4d46872f751573330b8ba9",
+      "size": 728579,
+      "uploadedDate": "2020-06-13T17:58:15.367Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png",
+      "md5": "103c530e3b4d46872f751573330b8ba9",
+      "size": 728579,
+      "uploadedDate": "2020-06-13T17:58:30.273Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Mobile_vertical-510x680-103c530e3b4d46872f751573330b8ba9.png",
+      "md5": "103c530e3b4d46872f751573330b8ba9",
+      "size": 728579,
+      "uploadedDate": "2020-06-13T17:58:41.642Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Featured_Carousel_Desktop_horizontal-1360x766-522930670eb70ba6cb36e20c7306dd93.png",
+      "md5": "522930670eb70ba6cb36e20c7306dd93",
+      "size": 2034857,
+      "uploadedDate": "2020-06-13T17:58:55.563Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "00e562b27d3b4fef972cdbd1ca3d7fee"
+    },
+    {
+      "id": "6cd213007edd4178ba3b751702db97d4"
+    }
+  ],
+  "catalogNs": null
 }

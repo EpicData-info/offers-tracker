@@ -1,77 +1,123 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2020-02-05T19:45:11.682Z",
-  "lastModifiedDate": "2020-05-13T15:39:12.412Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/royal-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kingdom Come Deliverance Royal Edition",
   "id": "5c729ef02bf14b0897a5e29769e60d96",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "Kingdom Come Deliverance Royal Edition",
   "description": "Kingdom Come Deliverance Royal Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/RE_FeaturedC_pc_1360x766-1360x766-e958f6b088494a9c839e7af85fd1a4d0c4447b43.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/royal-edition",
+  "urlSlug": "eelroyaledition",
+  "creationDate": "2020-02-05T19:45:11.682Z",
+  "lastModifiedDate": "2020-05-13T15:39:12.412Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "42a607b35e1b4728afbc26c88080f429",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "9bdf27679eb848cd912b1dd5a973cc0f",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "9cface5448694861879def457a3b6194",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
     },
     {
-      "id": "f608e308d6ab4abf88c45967c3405b21",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
     },
     {
-      "id": "70f6d63a1b0c4f45862a049e9ba085a9",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
     },
     {
-      "id": "f255964383d04135921876c536a0099c",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     },
     {
-      "id": "2832745a324245079d0d2d0facd8c182",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -88,17 +134,66 @@
       "value": "kingdom-come-deliverance/royal-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/RE_FeaturedC_pc_1360x766-1360x766-e958f6b088494a9c839e7af85fd1a4d0c4447b43.jpg",
+      "md5": "cef968a6a94abb30caa1bc43de534923",
+      "size": 238917,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg",
+      "md5": "bfc09f51553d497c902088336b730310",
+      "size": 51495,
+      "uploadedDate": "2020-05-13T15:30:29.831Z",
+      "width": 255,
+      "height": 340
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg",
+      "md5": "bfc09f51553d497c902088336b730310",
+      "size": 51495,
+      "uploadedDate": "2020-05-13T15:30:38.540Z",
+      "width": 255,
+      "height": 340
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/Diesel_productv2_kingdom-come-deliverance_royal-edition_RE_FeaturedC_mobile_510x680-255x340-9aaae66fb4a3087407061db497c8042487a8630b-255x340-bfc09f51553d497c902088336b730310.jpg",
+      "md5": "bfc09f51553d497c902088336b730310",
+      "size": 51495,
+      "uploadedDate": "2020-05-13T15:30:47.652Z",
+      "width": 255,
+      "height": 340
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "42a607b35e1b4728afbc26c88080f429"
+    },
+    {
+      "id": "9bdf27679eb848cd912b1dd5a973cc0f"
+    },
+    {
+      "id": "9cface5448694861879def457a3b6194"
+    },
+    {
+      "id": "f608e308d6ab4abf88c45967c3405b21"
+    },
+    {
+      "id": "70f6d63a1b0c4f45862a049e9ba085a9"
+    },
+    {
+      "id": "f255964383d04135921876c536a0099c"
+    },
+    {
+      "id": "2832745a324245079d0d2d0facd8c182"
+    }
+  ],
+  "catalogNs": null
 }

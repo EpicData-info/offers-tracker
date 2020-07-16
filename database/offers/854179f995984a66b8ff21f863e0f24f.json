@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-14T18:16:03.917Z",
-  "lastModifiedDate": "2019-09-27T23:48:32.431Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DuckDevAudience",
   "id": "854179f995984a66b8ff21f863e0f24f",
   "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "title": "DuckDevAudience",
   "description": "DuckDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "cardpocalypsedevaudience",
+  "creationDate": "2019-06-14T18:16:03.917Z",
+  "lastModifiedDate": "2019-09-27T23:48:32.431Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2ba0eadb907f48cdbe6a1905c800042b",
-      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,14 +46,30 @@
       "value": "Gambrinous"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg",
+      "md5": "c8fb8d69226e4f6faaa848f082931e9e",
+      "size": 257378,
+      "uploadedDate": "2019-09-03T18:07:57.503Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2bfd5ca43ef443739ada168e017e1b78/offer/CodeRedemption_Cardpocolypse-340x440-c8fb8d69226e4f6faaa848f082931e9e.jpg",
+      "md5": "c8fb8d69226e4f6faaa848f082931e9e",
+      "size": 257378,
+      "uploadedDate": "2019-09-03T18:08:06.953Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2ba0eadb907f48cdbe6a1905c800042b"
+    }
+  ],
+  "catalogNs": null
 }

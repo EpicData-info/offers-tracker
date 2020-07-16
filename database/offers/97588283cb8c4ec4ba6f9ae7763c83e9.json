@@ -1,52 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-10T12:00:00.000Z",
-  "creationDate": "2019-04-11T17:41:49.447Z",
-  "lastModifiedDate": "2020-04-29T00:46:45.150Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Exodus Humble Bundle Gold Edition",
   "id": "97588283cb8c4ec4ba6f9ae7763c83e9",
   "namespace": "snapdragon",
+  "title": "Metro Exodus Humble Bundle Gold Edition",
   "description": "Metro Exodus Humble Bundle Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "metro-exodus-humble-bundle-gold",
+  "creationDate": "2019-04-11T17:41:49.447Z",
+  "lastModifiedDate": "2020-04-29T00:46:45.150Z",
+  "effectiveDate": "2019-04-10T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8736e6c117844aa087c74ee118a10a64",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "72d82ab50a92464ab626da48ce47a530",
-      "namespace": "snapdragon",
-      "developer": null
-    },
-    {
-      "id": "b69c1c24fe70497aa671aadb33d663a0",
-      "namespace": "snapdragon",
-      "developer": null
-    },
-    {
-      "id": "054224b4ce2846ba847f9a3a329ae2f2",
-      "namespace": "snapdragon",
-      "developer": null
-    },
-    {
-      "id": "73654ffba761439d835553f4091e3fd6",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -61,14 +46,23 @@
       "value": "4A Games"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "8736e6c117844aa087c74ee118a10a64"
     },
     {
-      "path": "applications"
+      "id": "72d82ab50a92464ab626da48ce47a530"
+    },
+    {
+      "id": "b69c1c24fe70497aa671aadb33d663a0"
+    },
+    {
+      "id": "054224b4ce2846ba847f9a3a329ae2f2"
+    },
+    {
+      "id": "73654ffba761439d835553f4091e3fd6"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

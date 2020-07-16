@@ -1,72 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2019-09-09T20:08:56.552Z",
-  "lastModifiedDate": "2020-02-13T15:31:28.243Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "All DLC Dev Offer",
   "id": "1dadbb58b4e642bbb9ed68cdb5c96d95",
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "title": "All DLC Dev Offer",
   "description": "All DLC Dev Offer",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "all-dlc-dev-offer",
+  "creationDate": "2019-09-09T20:08:56.552Z",
+  "lastModifiedDate": "2020-02-13T15:31:28.243Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7e471071ca794f1abc81c7430b7e8f",
     "name": "Abrakam"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4a152cb11cbe42b18aba7bb06ac550b2",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "f9c0cb9340c547e289fee75815ac8b7f",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "b3eb5332493d43ab99341e33463714d2",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "b0b4f92ee2fc4b908914864067375b56",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "fde250dee57e4b45918001d5964cbb0b",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "a961a7923baf4a72878901d61e17a3ab",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "ba63d35a8a944b8cb07efa40daa5e364",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "d12b6b7b251b42f98f4f0d8a0723d7c1",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    },
-    {
-      "id": "a7d919bd09634612b450a0152e654cc4",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -81,14 +46,35 @@
       "value": "Abrakam"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "4a152cb11cbe42b18aba7bb06ac550b2"
     },
     {
-      "path": "applications"
+      "id": "f9c0cb9340c547e289fee75815ac8b7f"
+    },
+    {
+      "id": "b3eb5332493d43ab99341e33463714d2"
+    },
+    {
+      "id": "b0b4f92ee2fc4b908914864067375b56"
+    },
+    {
+      "id": "fde250dee57e4b45918001d5964cbb0b"
+    },
+    {
+      "id": "a961a7923baf4a72878901d61e17a3ab"
+    },
+    {
+      "id": "ba63d35a8a944b8cb07efa40daa5e364"
+    },
+    {
+      "id": "d12b6b7b251b42f98f4f0d8a0723d7c1"
+    },
+    {
+      "id": "a7d919bd09634612b450a0152e654cc4"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

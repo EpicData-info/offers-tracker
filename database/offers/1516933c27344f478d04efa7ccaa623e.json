@@ -1,51 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-07T15:00:00.000Z",
-  "creationDate": "2020-04-12T19:35:15.924Z",
-  "lastModifiedDate": "2020-05-14T15:33:52.098Z",
-  "viewableDate": "2020-04-30T15:00:00.000Z",
-  "productSlug": "death-coming/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Death Coming",
   "id": "1516933c27344f478d04efa7ccaa623e",
   "namespace": "58c35a214bbb4656a536126ad1552d42",
+  "title": "Death Coming",
   "description": "Death Coming",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg"
-    }
-  ],
+  "productSlug": "death-coming/home",
+  "urlSlug": "burbotgeneralaudience",
+  "creationDate": "2020-04-12T19:35:15.924Z",
+  "lastModifiedDate": "2020-05-14T15:33:52.098Z",
+  "effectiveDate": "2020-05-07T15:00:00.000Z",
+  "viewableDate": "2020-04-30T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-knwuvnlwzekqppkq2rj2snvys69l5g",
     "name": "Tencent Technology Company Limited"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0b1c8fccc0e248e29e363982a143c8d0",
-      "namespace": "58c35a214bbb4656a536126ad1552d42",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "11631",
+      "name": "REQUIRES 2FA",
+      "namespace": null,
+      "aliases": [],
+      "operator": "Jason Savage",
+      "created": "2020-04-29T16:18:12.784Z",
+      "updated": "2020-06-04T14:25:02.159Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
     }
   ],
   "customAttributes": [
@@ -62,20 +113,57 @@
       "value": "death-coming/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg",
+      "md5": "7b1d3d39e3b37ced1633da45c010117d",
+      "size": 841096,
+      "uploadedDate": "2020-04-15T21:03:10.807Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg",
+      "md5": "8fcfbb18c34364f804e5b79d8e23f590",
+      "size": 341540,
+      "uploadedDate": "2020-04-15T21:03:26.826Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg",
+      "md5": "8fcfbb18c34364f804e5b79d8e23f590",
+      "size": 341540,
+      "uploadedDate": "2020-04-15T21:03:41.096Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S1-2560x1440-7b1d3d39e3b37ced1633da45c010117d.jpg",
+      "md5": "7b1d3d39e3b37ced1633da45c010117d",
+      "size": 841096,
+      "uploadedDate": "2020-04-15T21:05:10.968Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/58c35a214bbb4656a536126ad1552d42/offer/EGS_DeathComing_NExTStudios_S2-860x1148-8fcfbb18c34364f804e5b79d8e23f590.jpg",
+      "md5": "8fcfbb18c34364f804e5b79d8e23f590",
+      "size": 341540,
+      "uploadedDate": "2020-04-15T21:05:23.935Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0b1c8fccc0e248e29e363982a143c8d0"
+    }
+  ],
+  "catalogNs": null
 }

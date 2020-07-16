@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-09-03T14:07:35.954Z",
-  "lastModifiedDate": "2019-10-10T14:31:34.098Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "OvenbirdDevAudience",
   "id": "39833e33448944a885758dfacb93a1f3",
   "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "title": "OvenbirdDevAudience",
   "description": "OvenbirdDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "ovenbirddevaudience",
+  "creationDate": "2019-09-03T14:07:35.954Z",
+  "lastModifiedDate": "2019-10-10T14:31:34.098Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6b65fc7eea4f4d54977be5add29e4e98",
-      "namespace": "d759128018124dcabb1fbee9bb28e178",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "Haemimont Games AD"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "6b65fc7eea4f4d54977be5add29e4e98"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

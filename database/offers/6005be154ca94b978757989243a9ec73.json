@@ -1,51 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "creationDate": "2019-10-18T01:57:09.917Z",
-  "lastModifiedDate": "2020-04-29T18:51:24.370Z",
-  "viewableDate": null,
-  "productSlug": "paladins",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Paladins",
   "id": "6005be154ca94b978757989243a9ec73",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "Paladins",
   "description": "Paladins",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg"
-    }
-  ],
+  "productSlug": "paladins",
+  "urlSlug": "antbirdgeneralaudience",
+  "creationDate": "2019-10-18T01:57:09.917Z",
+  "lastModifiedDate": "2020-04-29T18:51:24.370Z",
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0346d1ff3b004a7187f1610ad0046d7c",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-07-14T16:20:44.681Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +105,57 @@
       "value": "paladins"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg",
+      "md5": "86650a0774e99d9262beb7e68b9df6e6",
+      "size": 325977,
+      "uploadedDate": "2020-04-29T18:50:00.990Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg",
+      "md5": "86650a0774e99d9262beb7e68b9df6e6",
+      "size": 325977,
+      "uploadedDate": "2020-04-29T18:50:21.003Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-PortraitIMG-860x1148-860x1148-86650a0774e99d9262beb7e68b9df6e6.jpg",
+      "md5": "86650a0774e99d9262beb7e68b9df6e6",
+      "size": 325977,
+      "uploadedDate": "2020-04-29T18:50:40.008Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg",
+      "md5": "231b377596b2e7c3ededcb90ebfedb64",
+      "size": 390427,
+      "uploadedDate": "2020-04-29T18:50:55.370Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Smite-EGS-DarknessandDragons-LandscapeIMG-2560x1440-2560x1440-231b377596b2e7c3ededcb90ebfedb64.jpg",
+      "md5": "231b377596b2e7c3ededcb90ebfedb64",
+      "size": 390427,
+      "uploadedDate": "2020-04-29T18:51:13.954Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0346d1ff3b004a7187f1610ad0046d7c"
+    }
+  ],
+  "catalogNs": null
 }

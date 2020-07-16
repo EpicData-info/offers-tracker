@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-11T12:00:00.000Z",
-  "creationDate": "2018-12-13T21:53:04.947Z",
-  "lastModifiedDate": "2019-08-05T08:36:43.534Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "NewtGeneralAudience",
   "id": "b9224f9b25c140afb1694e2458fc5c37",
   "namespace": "newt",
+  "title": "NewtGeneralAudience",
   "description": "NewtGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/newt/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/newt/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "newtgeneralaudience",
+  "creationDate": "2018-12-13T21:53:04.947Z",
+  "lastModifiedDate": "2019-08-05T08:36:43.534Z",
+  "effectiveDate": "2019-02-11T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
     "name": "Proletariat, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "15f703db99984a9fa26522502580e467",
-      "namespace": "newt",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "Proletariat Inc"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/newt/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png",
+      "md5": "2dc90247f1d1977f1f7b85cf73bf19e7",
+      "size": 47511,
+      "uploadedDate": "2019-02-06T21:46:39.460Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/Spellbreak_CodeRedemption-330x440-2dc90247f1d1977f1f7b85cf73bf19e7.png",
+      "md5": "2dc90247f1d1977f1f7b85cf73bf19e7",
+      "size": 47511,
+      "uploadedDate": "2019-04-24T14:19:07.683Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "15f703db99984a9fa26522502580e467"
+    }
+  ],
+  "catalogNs": null
 }

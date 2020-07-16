@@ -1,63 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2017-09-20T13:00:00.000Z",
-  "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2020-06-17T07:17:15.598Z",
-  "viewableDate": "2017-09-20T13:00:00.000Z",
-  "productSlug": "fortnite",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Fortnite",
   "id": "09176f4ff7564bbbb499bbe20bd6348f",
   "namespace": "fn",
+  "title": "Fortnite",
   "description": "Fortnite",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S3_2560x1440-2560x1440-d86c767e553abfe463f0451a18afbd16.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S4_1200x1600-1200x1600-2f8962a1b58ac78537cb85bb5bc033c1.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_Thumbnail-576x576-78a4c2140ed2fa633c0df9ee3dcbca39.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S1_2560x1440-2560x1440-8a072649c6998da7f046ddfa8ba92995.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S2_1200x1600-1200x1600-a39a6070e97ea0938d60ca3b19cbbe7b.jpg"
-    }
-  ],
+  "productSlug": "fortnite",
+  "urlSlug": "fortnite-free-audience",
+  "creationDate": "2017-05-16T20:01:43.170Z",
+  "lastModifiedDate": "2020-06-17T07:17:15.598Z",
+  "effectiveDate": "2017-09-20T13:00:00.000Z",
+  "viewableDate": "2017-09-20T13:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "48ff3f41680e403bb2717737f68731c5",
-      "namespace": "fn",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Epic Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "fortnite"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -72,6 +37,155 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-06-17T07:17:15.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Epic Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "fortnite"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S3_2560x1440-2560x1440-d86c767e553abfe463f0451a18afbd16.jpg",
+      "md5": "d86c767e553abfe463f0451a18afbd16",
+      "size": 5137444,
+      "uploadedDate": "2020-06-16T19:59:03.939Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S4_1200x1600-1200x1600-2f8962a1b58ac78537cb85bb5bc033c1.jpg",
+      "md5": "2f8962a1b58ac78537cb85bb5bc033c1",
+      "size": 3782114,
+      "uploadedDate": "2020-06-16T19:59:20.718Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_Thumbnail-576x576-78a4c2140ed2fa633c0df9ee3dcbca39.jpg",
+      "md5": "78a4c2140ed2fa633c0df9ee3dcbca39",
+      "size": 2914195,
+      "uploadedDate": "2020-06-16T19:59:37.643Z",
+      "width": 576,
+      "height": 576
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S1_2560x1440-2560x1440-8a072649c6998da7f046ddfa8ba92995.jpg",
+      "md5": "8a072649c6998da7f046ddfa8ba92995",
+      "size": 5137444,
+      "uploadedDate": "2020-06-16T20:00:14.237Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S2_1200x1600-1200x1600-a39a6070e97ea0938d60ca3b19cbbe7b.jpg",
+      "md5": "a39a6070e97ea0938d60ca3b19cbbe7b",
+      "size": 3782114,
+      "uploadedDate": "2020-06-16T20:00:50.520Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "48ff3f41680e403bb2717737f68731c5"
+    }
+  ],
+  "catalogNs": null
 }

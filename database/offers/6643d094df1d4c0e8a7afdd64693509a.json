@@ -1,58 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-10T10:00:00.000Z",
-  "creationDate": "2019-12-10T15:27:01.308Z",
-  "lastModifiedDate": "2020-05-28T16:00:48.959Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bloodroots Pre-Purchase",
   "id": "6643d094df1d4c0e8a7afdd64693509a",
   "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "title": "Bloodroots Pre-Purchase",
   "description": "Bloodroots Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S1-2560x1440-80572938a127a5e726ec2b1a5a24bdc1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main_wishlists-2560x1440-0e90a0fb64b4615fdc79080fa1ec7479.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main vertical_wishlists-860x1148-d8b19b78e898e0540309aa12f0789578.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "bloodrootsprepurchase",
+  "creationDate": "2019-12-10T15:27:01.308Z",
+  "lastModifiedDate": "2020-05-28T16:00:48.959Z",
+  "effectiveDate": "2019-12-10T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-6fych9fc46deb48wb6fw8th6695pnl",
     "name": "Paper Cult"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "f67c84ec33d942158cf024510b4132f2",
-      "namespace": "25ef88acc7f34afc8ac6669e11573882",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "3e05f890172740ac8b411a5666a6b995",
-      "namespace": "25ef88acc7f34afc8ac6669e11573882",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -71,14 +50,60 @@
       "value": "Paper Cult"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg",
+      "md5": "a24ec127c7487d57301e19fa89fd9526",
+      "size": 147970,
+      "uploadedDate": "2019-12-11T16:48:06.673Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S1-2560x1440-80572938a127a5e726ec2b1a5a24bdc1.jpg",
+      "md5": "80572938a127a5e726ec2b1a5a24bdc1",
+      "size": 501662,
+      "uploadedDate": "2019-12-11T16:50:37.381Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg",
+      "md5": "22995fa5af0095f9d67fc5e46481fd47",
+      "size": 210687,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1360,
+      "height": 765
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main_wishlists-2560x1440-0e90a0fb64b4615fdc79080fa1ec7479.jpg",
+      "md5": "0e90a0fb64b4615fdc79080fa1ec7479",
+      "size": 659070,
+      "uploadedDate": "2020-02-21T19:19:40.855Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/KeyArt_Main vertical_wishlists-860x1148-d8b19b78e898e0540309aa12f0789578.jpg",
+      "md5": "d8b19b78e898e0540309aa12f0789578",
+      "size": 260923,
+      "uploadedDate": "2020-02-21T19:19:50.440Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "f67c84ec33d942158cf024510b4132f2"
+    },
+    {
+      "id": "3e05f890172740ac8b411a5666a6b995"
+    }
+  ],
+  "catalogNs": null
 }

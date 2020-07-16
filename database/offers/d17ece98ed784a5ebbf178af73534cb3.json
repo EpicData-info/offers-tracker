@@ -1,47 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-04T16:00:00.000Z",
-  "creationDate": "2019-09-03T20:32:50.231Z",
-  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
-  "viewableDate": null,
-  "productSlug": "zombie-army-4-dead-war/solid-gold-weapon-skins",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Solid Gold Weapon Skins",
   "id": "d17ece98ed784a5ebbf178af73534cb3",
   "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Solid Gold Weapon Skins",
   "description": "Weapons Skin 1 Gold",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_SOLIDGOLDWEAPONSKINS-900x450-51fa5cfd7de0b5d4c585b15674dabdc6-900x450-51fa5cfd7de0b5d4c585b15674dabdc6.png"
-    }
-  ],
+  "productSlug": "zombie-army-4-dead-war/solid-gold-weapon-skins",
+  "urlSlug": "solid-gold-weapon-skins",
+  "creationDate": "2019-09-03T20:32:50.231Z",
+  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
     "name": "Rebellion"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "79d206ed52224466ade4ca3289f86326",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +125,48 @@
       "value": "zombie-army-4-dead-war/solid-gold-weapon-skins"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg",
+      "md5": "35559fc869d4bfd4544ffe9d37674944",
+      "size": 1485087,
+      "uploadedDate": "2020-02-03T16:21:28.765Z",
+      "width": 860,
+      "height": 1180
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg",
+      "md5": "35559fc869d4bfd4544ffe9d37674944",
+      "size": 1485087,
+      "uploadedDate": "2020-04-20T17:13:33.212Z",
+      "width": 860,
+      "height": 1180
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_GOLDSKINSDLC_KEYREDEMPTION-860x1180-35559fc869d4bfd4544ffe9d37674944-860x1180-35559fc869d4bfd4544ffe9d37674944.jpg",
+      "md5": "35559fc869d4bfd4544ffe9d37674944",
+      "size": 1485087,
+      "uploadedDate": "2020-04-20T17:13:42.598Z",
+      "width": 860,
+      "height": 1180
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_SOLIDGOLDWEAPONSKINS-900x450-51fa5cfd7de0b5d4c585b15674dabdc6-900x450-51fa5cfd7de0b5d4c585b15674dabdc6.png",
+      "md5": "51fa5cfd7de0b5d4c585b15674dabdc6",
+      "size": 226614,
+      "uploadedDate": "2020-04-20T17:13:58.840Z",
+      "width": 900,
+      "height": 450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "79d206ed52224466ade4ca3289f86326"
+    }
+  ],
+  "catalogNs": null
 }

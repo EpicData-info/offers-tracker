@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-04-22T19:39:59.778Z",
-  "lastModifiedDate": "2020-04-22T19:39:59.778Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "NightjarPressAudience",
   "id": "b0ef0ac7e714480ebc50a9457d638a55",
   "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
+  "title": "NightjarPressAudience",
   "description": "NightjarPressAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "nightjarpressaudience",
+  "creationDate": "2020-04-22T19:39:59.778Z",
+  "lastModifiedDate": "2020-04-22T19:39:59.778Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uw2qbn4nh26vxscergml2f7du26bvk",
     "name": "Mohawk Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "853021abe2cd4ff19922b8c8b32ed73f",
-      "namespace": "07f4a7dd3c884e5d87e9a209716962ca",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "853021abe2cd4ff19922b8c8b32ed73f"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

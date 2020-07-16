@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-08T17:16:03.900Z",
-  "lastModifiedDate": "2020-05-08T18:39:32.368Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DevSiameseAudience",
   "id": "fb166e755eaf400d94df865e24114a26",
   "namespace": "7015c51a49be4592b5ba3ae2577723c5",
+  "title": "DevSiameseAudience",
   "description": "DevSiameseAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "devsiameseaudience",
+  "creationDate": "2020-05-08T17:16:03.900Z",
+  "lastModifiedDate": "2020-05-08T18:39:32.368Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
     "name": "Kalypso Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "59318f0aec8c45e3989930a093acdf33",
-      "namespace": "7015c51a49be4592b5ba3ae2577723c5",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "59318f0aec8c45e3989930a093acdf33"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

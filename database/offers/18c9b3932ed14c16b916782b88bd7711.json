@@ -1,39 +1,45 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-10-31T19:48:00.000Z",
-  "creationDate": "2018-10-31T23:48:19.890Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-10-31T19:47:00.000Z",
-  "productSlug": "dark-and-light",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dark and Light Editor",
   "id": "18c9b3932ed14c16b916782b88bd7711",
   "namespace": "epic",
+  "title": "Dark and Light Editor",
   "description": "Dark and Light Editor",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/p0-bg-1920x959-39cab78ff2560b04dd0b0a697eb83c2a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png"
-    }
-  ],
+  "productSlug": "dark-and-light",
+  "urlSlug": "dark-and-light-editor",
+  "creationDate": "2018-10-31T23:48:19.890Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-10-31T19:48:00.000Z",
+  "viewableDate": "2018-10-31T19:47:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-33w3pktcfkzsmhns2qwp7mmr3z4nht",
     "name": "Snail Games USA"
   },
-  "items": [
+  "linkedOfferId": "74447ad08cc34e2e8ca18a2651abacae",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "engines"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -50,18 +56,30 @@
       "value": "74447ad08cc34e2e8ca18a2651abacae"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/p0-bg-1920x959-39cab78ff2560b04dd0b0a697eb83c2a.jpg",
+      "md5": "39cab78ff2560b04dd0b0a697eb83c2a",
+      "size": 376769,
+      "uploadedDate": "2018-11-04T19:26:52.185Z",
+      "width": 1920,
+      "height": 959
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarkLight__White-993x398-81593dccc12d9dddebfbfe9fb3309e13.png",
+      "md5": "81593dccc12d9dddebfbfe9fb3309e13",
+      "size": 47472,
+      "uploadedDate": "2018-11-14T00:48:11.488Z",
+      "width": 993,
+      "height": 398
     }
   ],
-  "linkedOfferId": "74447ad08cc34e2e8ca18a2651abacae",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "dark-and-light"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

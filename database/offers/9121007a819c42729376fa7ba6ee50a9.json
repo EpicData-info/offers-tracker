@@ -1,47 +1,126 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-21T15:00:00.000Z",
-  "creationDate": "2020-05-18T19:23:38.809Z",
-  "lastModifiedDate": "2020-05-21T14:40:00.985Z",
-  "viewableDate": null,
-  "productSlug": "sid-meiers-civilization-vi/maya-and-gran-colombia-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Civilization VI : Maya & Gran Colombia Pack",
   "id": "9121007a819c42729376fa7ba6ee50a9",
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "title": "Civilization VI : Maya & Gran Colombia Pack",
   "description": "Civilization VI : Maya & Gran Colombia Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_G1A_00-1920x1080-639a28a2a7cfe7e38d6f11aa17b23d87.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg"
-    }
-  ],
+  "productSlug": "sid-meiers-civilization-vi/maya-and-gran-colombia-pack",
+  "urlSlug": "civilization-vi-maya-gran-colombia-pack",
+  "creationDate": "2020-05-18T19:23:38.809Z",
+  "lastModifiedDate": "2020-05-21T14:40:00.985Z",
+  "effectiveDate": "2020-05-21T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b51bffea7f884b44a48222b65bfeb777",
-      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-05-29T19:32:06.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-05-29T19:32:06.752Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +141,48 @@
       "value": "sid-meiers-civilization-vi/maya-and-gran-colombia-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_G1A_00-1920x1080-639a28a2a7cfe7e38d6f11aa17b23d87.jpg",
+      "md5": "639a28a2a7cfe7e38d6f11aa17b23d87",
+      "size": 1004630,
+      "uploadedDate": "2020-05-19T18:16:53.116Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg",
+      "md5": "ea09702a0e2ee3c73d0e6e0d68731218",
+      "size": 980660,
+      "uploadedDate": "2020-05-19T18:17:02.267Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg",
+      "md5": "ea09702a0e2ee3c73d0e6e0d68731218",
+      "size": 980660,
+      "uploadedDate": "2020-05-19T18:17:11.353Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIMayaGranColombiaPack_FiraxisGames_DLC_S2-1200x1600-ea09702a0e2ee3c73d0e6e0d68731218.jpg",
+      "md5": "ea09702a0e2ee3c73d0e6e0d68731218",
+      "size": 980660,
+      "uploadedDate": "2020-05-19T18:17:21.676Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b51bffea7f884b44a48222b65bfeb777"
+    }
+  ],
+  "catalogNs": null
 }

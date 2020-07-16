@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-09-16T21:17:37.898Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "batman-arkham-asylum/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Batman™ Arkham Asylum Game of the Year Edition",
   "id": "ac3da74961c8413b9a63b4258cbc31f8",
   "namespace": "epic",
+  "title": "Batman™ Arkham Asylum Game of the Year Edition",
   "description": "Batman™ Arkham Asylum Game of the Year Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum-207x102-6637f3a8c58e1285e1b2cd7e918cff54.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum_promo-1567x917-f1248a17909e224f91845b223542306a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum_portrait-1093x1267-5d89c5e6b96ba2db5e607521b2d0ae3e.jpg"
-    }
-  ],
+  "productSlug": "batman-arkham-asylum/home",
+  "urlSlug": "batman-arkham-asylum-game-of-the-year-edition",
+  "creationDate": "2019-09-16T21:17:37.898Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kyv8uwtz74njnl544kbxzt5xqephw",
     "name": "Warner Bros."
   },
-  "items": [
+  "linkedOfferId": "0f96082fc0b8475db86cba86c8b6a796",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-06-24T15:18:26.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "0f96082fc0b8475db86cba86c8b6a796"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum-207x102-6637f3a8c58e1285e1b2cd7e918cff54.png",
+      "md5": "6637f3a8c58e1285e1b2cd7e918cff54",
+      "size": 22779,
+      "uploadedDate": "2019-09-16T21:11:20.381Z",
+      "width": 207,
+      "height": 102
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum_promo-1567x917-f1248a17909e224f91845b223542306a.jpg",
+      "md5": "f1248a17909e224f91845b223542306a",
+      "size": 399220,
+      "uploadedDate": "2019-09-16T21:13:28.750Z",
+      "width": 1567,
+      "height": 917
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/batman-arkham-asylum_portrait-1093x1267-5d89c5e6b96ba2db5e607521b2d0ae3e.jpg",
+      "md5": "5d89c5e6b96ba2db5e607521b2d0ae3e",
+      "size": 401333,
+      "uploadedDate": "2019-09-16T21:14:08.421Z",
+      "width": 1093,
+      "height": 1267
     }
   ],
-  "linkedOfferId": "0f96082fc0b8475db86cba86c8b6a796",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Warner Bros."
-      },
-      {
-        "key": "developerName",
-        "value": "Rocksteady Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "batman-arkham-asylum/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

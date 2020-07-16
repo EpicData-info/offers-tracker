@@ -1,45 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-04T11:00:00.000Z",
-  "creationDate": "2019-11-27T21:43:02.722Z",
-  "lastModifiedDate": "2020-05-12T15:51:48.361Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "The Crew 2 Trial",
   "id": "a28b2aa9c98748a88a883a88378a9ca1",
   "namespace": "599d248ca46b45a8b40a3b4e484712cb",
+  "title": "The Crew 2 Trial",
   "description": "The Crew 2 Trial",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "hermit-trial",
+  "creationDate": "2019-11-27T21:43:02.722Z",
+  "lastModifiedDate": "2020-05-12T15:51:48.361Z",
+  "effectiveDate": "2019-12-04T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "26ac4eac5d764edbb4cdc1e1e880a263",
-      "namespace": "599d248ca46b45a8b40a3b4e484712cb",
-      "developer": null
+      "path": "games/trial"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,17 +49,39 @@
       "value": "Ivory Tower"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games/trial"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
+      "md5": "d1470303d2a08cbc5b51bd001216bfd6",
+      "size": 17798,
+      "uploadedDate": "2019-12-04T16:20:35.023Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/CodeRedemption_TC2_FreeWeekend-330x440-d1470303d2a08cbc5b51bd001216bfd6.jpg",
+      "md5": "d1470303d2a08cbc5b51bd001216bfd6",
+      "size": 17798,
+      "uploadedDate": "2019-12-04T16:20:43.087Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/599d248ca46b45a8b40a3b4e484712cb/offer/TheCrew2_ESRB_T-398x190-3c370131d3c68081cc5845c99c8c90c3.jpg",
+      "md5": "3c370131d3c68081cc5845c99c8c90c3",
+      "size": 12961,
+      "uploadedDate": "2019-12-05T13:51:06.497Z",
+      "width": 398,
+      "height": 190
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "26ac4eac5d764edbb4cdc1e1e880a263"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-11T18:58:00.000Z",
-  "creationDate": "2019-01-12T00:00:01.742Z",
-  "lastModifiedDate": "2020-04-29T00:46:38.935Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Walking Dead Final Season Press",
   "id": "c14a1fa6b05846a697f159a14394c047",
   "namespace": "ocelot",
+  "title": "Walking Dead Final Season Press",
   "description": "Walking Dead Final Season Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "walking-dead-final-season-press",
+  "creationDate": "2019-01-12T00:00:01.742Z",
+  "lastModifiedDate": "2020-04-29T00:46:38.935Z",
+  "effectiveDate": "2019-01-11T18:58:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "59d28a668cfc4c5ca91d40990f04f37e",
-      "namespace": "ocelot",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -46,14 +42,30 @@
       "value": "Telltale Games"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
+      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
+      "size": 82425,
+      "uploadedDate": "2019-01-12T19:53:20.679Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
+      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
+      "size": 82425,
+      "uploadedDate": "2019-04-23T21:07:01.416Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "59d28a668cfc4c5ca91d40990f04f37e"
+    }
+  ],
+  "catalogNs": null
 }

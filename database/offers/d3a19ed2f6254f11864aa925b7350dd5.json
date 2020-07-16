@@ -1,43 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-30T12:14:00.000Z",
-  "creationDate": "2019-01-29T17:21:28.297Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "jackbox-party-pack-3",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Jackbox Party Pack 3",
   "id": "d3a19ed2f6254f11864aa925b7350dd5",
   "namespace": "epic",
+  "title": "The Jackbox Party Pack 3",
   "description": "The Jackbox Party Pack 3",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg"
-    }
-  ],
+  "productSlug": "jackbox-party-pack-3",
+  "urlSlug": "orchid",
+  "creationDate": "2019-01-29T17:21:28.297Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-04-30T12:14:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "items": [
+  "linkedOfferId": "b4549b0a846e4fa289f87b48007fc42e",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +127,39 @@
       "value": "jackbox-party-pack-3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg",
+      "md5": "8edf26dc88b4b389d88c69e08b1cd5d4",
+      "size": 342835,
+      "uploadedDate": "2019-01-29T17:21:09.318Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png",
+      "md5": "b595fd0cfd5be984b35cfd80fe703b1f",
+      "size": 124503,
+      "uploadedDate": "2019-01-29T17:21:20.872Z",
+      "width": 1920,
+      "height": 1345
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg",
+      "md5": "64e631ba371afc02c2a1a47b698bf435",
+      "size": 315586,
+      "uploadedDate": "2019-02-06T21:03:31.798Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": "b4549b0a846e4fa289f87b48007fc42e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "developerName",
-        "value": "Jackbox Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "jackbox-party-pack-3"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

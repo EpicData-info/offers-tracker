@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-04T15:05:48.651Z",
-  "lastModifiedDate": "2020-04-07T15:07:09.841Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Player Attire Package",
   "id": "2cd2f0793c8c414798ea880019bbc1fe",
   "namespace": "cobra",
+  "title": "Player Attire Package",
   "description": "Player Attire Package",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "cobraplayerattire",
+  "creationDate": "2020-03-04T15:05:48.651Z",
+  "lastModifiedDate": "2020-04-07T15:07:09.841Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "70eb85c78fcb4081b0864040dcc1a995",
-      "namespace": "cobra",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Team17"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "70eb85c78fcb4081b0864040dcc1a995"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

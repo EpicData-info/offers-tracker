@@ -1,43 +1,120 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-08T13:00:00.000Z",
-  "creationDate": "2019-07-16T16:14:13.450Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "moonlighter/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Moonlighter",
   "id": "8682f88d596749f1b1902f9f764638c5",
   "namespace": "epic",
+  "title": "Moonlighter",
   "description": "Moonlighter",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_S3-1280x1440-6b0e3a622433e936274fa8866063faa1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Moonlighter_logo-2650x600-6aabb1cc5693789fcf9831eab5af3a3c.png"
-    }
-  ],
+  "productSlug": "moonlighter/home",
+  "urlSlug": "moonlighter",
+  "creationDate": "2019-07-16T16:14:13.450Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-07-08T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "items": [
+  "linkedOfferId": "19924135f32e4e1aa517f99a72e7cea4",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1258",
+      "name": "ROGUE-LIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2020-07-14T14:54:28.065Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +139,39 @@
       "value": "moonlighter/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_S3-1280x1440-6b0e3a622433e936274fa8866063faa1.jpg",
+      "md5": "6b0e3a622433e936274fa8866063faa1",
+      "size": 155189,
+      "uploadedDate": "2019-07-16T16:13:18.360Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_11bitstudios_Moonlighter_L1-2560x1440-3ef51db7fab2fde76235495edf783ed6.jpg",
+      "md5": "3ef51db7fab2fde76235495edf783ed6",
+      "size": 208094,
+      "uploadedDate": "2019-07-16T16:13:37.867Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Moonlighter_logo-2650x600-6aabb1cc5693789fcf9831eab5af3a3c.png",
+      "md5": "6aabb1cc5693789fcf9831eab5af3a3c",
+      "size": 4324,
+      "uploadedDate": "2019-08-02T19:47:15.477Z",
+      "width": 2650,
+      "height": 600
     }
   ],
-  "linkedOfferId": "19924135f32e4e1aa517f99a72e7cea4",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "11 Bit Studios"
-      },
-      {
-        "key": "developerName",
-        "value": "Digital Sun Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "moonlighter/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

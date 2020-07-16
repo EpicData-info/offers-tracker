@@ -1,68 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-14T14:00:00.000Z",
-  "creationDate": "2020-06-24T20:25:56.042Z",
-  "lastModifiedDate": "2020-07-14T14:02:40.058Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Avatar x SMITE Bundle",
   "id": "a0eccdb89180467da202e70a487f5bc1",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
+  "title": "Avatar x SMITE Bundle",
   "description": "Avatar x SMITE Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S1-2560x1440-c65d899f6685865b0fbdbf9e8fecb531.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "avatar-x-smite-bundle",
+  "creationDate": "2020-06-24T20:25:56.042Z",
+  "lastModifiedDate": "2020-07-14T14:02:40.058Z",
+  "effectiveDate": "2020-07-14T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "bdd54f2701ba4ceab19e2bb161c7fa9a",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    },
-    {
-      "id": "d67eb6020dc8404e878f0c55f1fb31aa",
-      "namespace": "076207fa2b5c4803a636af606c3c28b7",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "Hi-Rez Studios"
-    },
-    {
-      "key": "developerName",
-      "value": "Titan Forge Games"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -77,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Titan Forge Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg",
+      "md5": "d14af11cb2d3acd5fcaa8a01f40f3b15",
+      "size": 253526,
+      "uploadedDate": "2020-07-14T14:01:45.750Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S1-2560x1440-c65d899f6685865b0fbdbf9e8fecb531.jpg",
+      "md5": "c65d899f6685865b0fbdbf9e8fecb531",
+      "size": 422677,
+      "uploadedDate": "2020-07-14T14:01:55.561Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg",
+      "md5": "d14af11cb2d3acd5fcaa8a01f40f3b15",
+      "size": 253526,
+      "uploadedDate": "2020-07-14T14:02:03.859Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg",
+      "md5": "d14af11cb2d3acd5fcaa8a01f40f3b15",
+      "size": 253526,
+      "uploadedDate": "2020-07-14T14:02:12.675Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "bdd54f2701ba4ceab19e2bb161c7fa9a"
+    },
+    {
+      "id": "d67eb6020dc8404e878f0c55f1fb31aa"
+    }
+  ],
+  "catalogNs": null
 }

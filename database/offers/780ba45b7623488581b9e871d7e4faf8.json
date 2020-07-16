@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-30T15:00:00.000Z",
-  "creationDate": "2020-04-10T21:50:11.434Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.898Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Maverick Pack",
   "id": "780ba45b7623488581b9e871d7e4faf8",
   "namespace": "azalea",
+  "title": "Maverick Pack",
   "description": "Maverick Pack",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "test-pack",
+  "creationDate": "2020-04-10T21:50:11.434Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.898Z",
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
-    {
-      "id": "5f196af344f6455ab898b06d4a01c440",
-      "namespace": "azalea",
-      "developer": null
-    },
-    {
-      "id": "acffd5919eeb4641b789e90a13d15085",
-      "namespace": "azalea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "developerName",
-      "value": "YAGER"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Original PDP offer - technically an edition",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "YAGER"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:28:50.742Z",
+      "width": 2149,
+      "height": 2756
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/final_egsstore_tile_S03_source_final_s-2149x2756-e1961840a3caddad186623059ed2a54c.jpg",
+      "md5": "e1961840a3caddad186623059ed2a54c",
+      "size": 2458240,
+      "uploadedDate": "2020-07-08T12:29:04.093Z",
+      "width": 2149,
+      "height": 2756
+    }
+  ],
+  "items": [
+    {
+      "id": "5f196af344f6455ab898b06d4a01c440"
+    },
+    {
+      "id": "acffd5919eeb4641b789e90a13d15085"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-20T00:00:00.000Z",
-  "creationDate": "2020-02-17T16:46:06.119Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "shenmue-3/story-quest-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shenmue III - Story Quest Pack",
   "id": "dbcb5534073a401a805a5f1fe7cd286c",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "title": "Shenmue III - Story Quest Pack",
   "description": "Shenmue III - Story Quest Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Addons_DLC-02-3840x2160-1ea6391a81d569d737e23be38724628876500704.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952-1024x1024-5e01bbe3d41521b919e44e9694b81952.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952-1024x1024-5e01bbe3d41521b919e44e9694b81952.png"
-    }
-  ],
+  "productSlug": "shenmue-3/story-quest-pack",
+  "urlSlug": "dlc2-audience",
+  "creationDate": "2020-02-17T16:46:06.119Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-01-20T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "shenmue-3/story-quest-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952.png",
+      "md5": "5e01bbe3d41521b919e44e9694b81952",
+      "size": 455791,
+      "uploadedDate": "2020-02-17T16:45:47.939Z",
+      "width": 1024,
+      "height": 1024
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/S3_Addons_DLC-02-3840x2160-1ea6391a81d569d737e23be38724628876500704.jpg",
+      "md5": "7e2c9ba3d8f1bb5a05e72fec7d53fd15",
+      "size": 647101,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952-1024x1024-5e01bbe3d41521b919e44e9694b81952.png",
+      "md5": "5e01bbe3d41521b919e44e9694b81952",
+      "size": 455791,
+      "uploadedDate": "2020-05-13T15:53:41.710Z",
+      "width": 1024,
+      "height": 1024
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_story-quest-pack_S3_Hero-1024x1024-5ec4909d10bc96c82f21c60b7cd806ade50dcae5-1024x1024-5e01bbe3d41521b919e44e9694b81952-1024x1024-5e01bbe3d41521b919e44e9694b81952.png",
+      "md5": "5e01bbe3d41521b919e44e9694b81952",
+      "size": 455791,
+      "uploadedDate": "2020-05-13T15:54:00.752Z",
+      "width": 1024,
+      "height": 1024
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0f89bb61e3b04d559e8c22c8c4efe2b5"
+    }
+  ],
+  "catalogNs": null
 }

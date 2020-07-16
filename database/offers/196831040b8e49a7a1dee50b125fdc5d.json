@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-19T17:41:00.000Z",
-  "creationDate": "2019-08-19T21:45:36.864Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "abzu/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "ABZU",
   "id": "196831040b8e49a7a1dee50b125fdc5d",
   "namespace": "epic",
+  "title": "ABZU",
   "description": "ABZU",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png"
-    }
-  ],
+  "productSlug": "abzu/home",
+  "urlSlug": "abzu",
+  "creationDate": "2019-08-19T21:45:36.864Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-08-19T17:41:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "items": [
+  "linkedOfferId": "dedd448c38d947ab90291540f183378b",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +108,39 @@
       "value": "dedd448c38d947ab90291540f183378b"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PRIMARYPROMO_2580x1450-2580x1450-1df5bc4d1ebbf73ff8e4e1fdb70011d0.jpg",
+      "md5": "1df5bc4d1ebbf73ff8e4e1fdb70011d0",
+      "size": 273765,
+      "uploadedDate": "2019-08-19T21:43:28.572Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Abzu_PORTRAITPROMO_1280x1450-1280x1450-f4f02e4e83f889842dc7e47e9e662b58.jpg",
+      "md5": "f4f02e4e83f889842dc7e47e9e662b58",
+      "size": 176117,
+      "uploadedDate": "2019-08-19T21:43:36.585Z",
+      "width": 1280,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/AbzuLogo-3366x1158-bb53cbd189bef0cebbc1eece00eaa96a.png",
+      "md5": "bb53cbd189bef0cebbc1eece00eaa96a",
+      "size": 62869,
+      "uploadedDate": "2019-08-19T22:14:08.291Z",
+      "width": 3366,
+      "height": 1158
     }
   ],
-  "linkedOfferId": "dedd448c38d947ab90291540f183378b",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "505 Games"
-      },
-      {
-        "key": "developerName",
-        "value": "Giant Squid"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "abzu/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

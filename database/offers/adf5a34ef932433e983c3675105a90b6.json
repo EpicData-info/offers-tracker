@@ -1,43 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2019-10-17T20:36:18.127Z",
-  "lastModifiedDate": "2020-05-11T15:19:32.825Z",
-  "viewableDate": null,
-  "productSlug": "ticket-to-ride/india",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "India DLC",
   "id": "adf5a34ef932433e983c3675105a90b6",
   "namespace": "b4d9169e1b8548f2babec33107253309",
+  "title": "India DLC",
   "description": "India",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_INDIA_Desktop-horizontal-1360x766-98ec32f6e522f9c7c407d0223fbad90f83c7f850.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg"
-    }
-  ],
+  "productSlug": "ticket-to-ride/india",
+  "urlSlug": "india-dlc",
+  "creationDate": "2019-10-17T20:36:18.127Z",
+  "lastModifiedDate": "2020-05-11T15:19:32.825Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0e2d4ee3889149aa96855f0521f643c8",
-      "namespace": "b4d9169e1b8548f2babec33107253309",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,20 +101,39 @@
       "value": "ticket-to-ride/india"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_INDIA_Desktop-horizontal-1360x766-98ec32f6e522f9c7c407d0223fbad90f83c7f850.jpg",
+      "md5": "1e68cc5e05f92df75646a2ce2bfcad30",
+      "size": 265426,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg",
+      "md5": "956093d84b84dc5384293b9dd84c77a3",
+      "size": 57665,
+      "uploadedDate": "2020-04-20T19:44:55.832Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_india_Mobile-Vertical-510x680-510x680-29e89c6db6d95db0a0db4dbedcf5980930898da3-510x680-956093d84b84dc5384293b9dd84c77a3.jpg",
+      "md5": "956093d84b84dc5384293b9dd84c77a3",
+      "size": 57665,
+      "uploadedDate": "2020-04-20T19:45:07.341Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0e2d4ee3889149aa96855f0521f643c8"
+    }
+  ],
+  "catalogNs": null
 }

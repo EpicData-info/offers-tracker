@@ -1,65 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-09T16:00:00.000Z",
-  "creationDate": "2019-12-09T19:48:42.932Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "steep/x-games-gold-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Steep XGames Gold Edition",
   "id": "2fd7d4b015a24496a3ff621b899643ea",
   "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "title": "Steep XGames Gold Edition",
   "description": "Steep XGames Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION_CAPSULE_XGAMES_GOLD-1920x1080-f9343ddbef2b93a270e30745d03f98ec.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION_CAPSULE_XGAMES_GOLD-1920x1080-dc1fabe7b4b70d8ba45be134e080ea1c4c3da11d.jpg"
-    }
-  ],
+  "productSlug": "steep/x-games-gold-edition",
+  "urlSlug": "steepgeneralaudience",
+  "creationDate": "2019-12-09T19:48:42.932Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2020-01-09T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "a127af53601e4f2cbabadd438ee2c983",
-      "namespace": "a646020cb93b4ea995cda70647bbe001",
-      "developer": null
-    },
-    {
-      "id": "b08998112b5942908076c13141717270",
-      "namespace": "a646020cb93b4ea995cda70647bbe001",
-      "developer": null
-    },
-    {
-      "id": "89ea78bb8a56436899316b1d07352b24",
-      "namespace": "a646020cb93b4ea995cda70647bbe001",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "steep/x-games-gold-edition"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -71,6 +34,56 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "steep/x-games-gold-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION_CAPSULE_XGAMES_GOLD-1920x1080-f9343ddbef2b93a270e30745d03f98ec.jpg",
+      "md5": "f9343ddbef2b93a270e30745d03f98ec",
+      "size": 370447,
+      "uploadedDate": "2019-12-20T21:27:29.315Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg",
+      "md5": "ce74db257a9e6b55d6375adaefb97213",
+      "size": 518351,
+      "uploadedDate": "2019-12-20T21:30:24.446Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION_CAPSULE_XGAMES_GOLD-1920x1080-dc1fabe7b4b70d8ba45be134e080ea1c4c3da11d.jpg",
+      "md5": "413d1460258bdef1219004d21a944dfe",
+      "size": 229788,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "a127af53601e4f2cbabadd438ee2c983"
+    },
+    {
+      "id": "b08998112b5942908076c13141717270"
+    },
+    {
+      "id": "89ea78bb8a56436899316b1d07352b24"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,46 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-01-20T20:19:50.811Z",
-  "lastModifiedDate": "2020-01-20T20:19:50.811Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bloodroots Press",
   "id": "480f844173b64173a823866022d5e39c",
   "namespace": "25ef88acc7f34afc8ac6669e11573882",
+  "title": "Bloodroots Press",
   "description": "Bloodroots Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "pochardgeneralaudience-01",
+  "creationDate": "2020-01-20T20:19:50.811Z",
+  "lastModifiedDate": "2020-01-20T20:19:50.811Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-6fych9fc46deb48wb6fw8th6695pnl",
     "name": "Paper Cult"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "f67c84ec33d942158cf024510b4132f2",
-      "namespace": "25ef88acc7f34afc8ac6669e11573882",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "a233411dd8f746b0834ab1b076753179",
-      "namespace": "25ef88acc7f34afc8ac6669e11573882",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -51,14 +42,33 @@
       "value": "Paper Cult"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S4-510x680-a24ec127c7487d57301e19fa89fd9526.jpg",
+      "md5": "a24ec127c7487d57301e19fa89fd9526",
+      "size": 147970,
+      "uploadedDate": "2019-11-21T21:45:03.157Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/25ef88acc7f34afc8ac6669e11573882/offer/EGS_PaperCult_Bloodroots_S3-1360x765-22995fa5af0095f9d67fc5e46481fd47.jpg",
+      "md5": "22995fa5af0095f9d67fc5e46481fd47",
+      "size": 210687,
+      "uploadedDate": "2019-11-21T21:45:24.064Z",
+      "width": 1360,
+      "height": 765
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "f67c84ec33d942158cf024510b4132f2"
+    },
+    {
+      "id": "a233411dd8f746b0834ab1b076753179"
+    }
+  ],
+  "catalogNs": null
 }

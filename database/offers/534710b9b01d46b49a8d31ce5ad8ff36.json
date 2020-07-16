@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-10T15:00:00.000Z",
-  "creationDate": "2020-02-10T04:58:42.139Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-unity/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Unity",
   "id": "534710b9b01d46b49a8d31ce5ad8ff36",
   "namespace": "72bdc702b4974024a69a5eb718a7a135",
+  "title": "Assassin's Creed Unity",
   "description": "Assassin's Creed Unity",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ACU_Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ESRB_M_ACUnity.jpg-842x485-25f1e71e4374bd89d7a70d136f287902.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ACU_Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png"
-    }
-  ],
+  "productSlug": "assassins-creed-unity/home",
+  "urlSlug": "amberjackgeneralaudience",
+  "creationDate": "2020-02-10T04:58:42.139Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2020-03-10T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "840ba1c2b7cb46e58a7ed9c5c4e3d24e",
-      "namespace": "72bdc702b4974024a69a5eb718a7a135",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "assassins-creed-unity/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg",
+      "md5": "61b9abfe6fdbb0ef4dc52500f86fc1c9",
+      "size": 802525,
+      "uploadedDate": "2020-02-21T18:16:54.279Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
+      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
+      "size": 3098940,
+      "uploadedDate": "2020-02-21T18:17:08.158Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
+      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
+      "size": 3098940,
+      "uploadedDate": "2020-02-21T18:17:08.158Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ACU_Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
+      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
+      "size": 3098940,
+      "uploadedDate": "2020-02-21T20:51:55.672Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg",
+      "md5": "61b9abfe6fdbb0ef4dc52500f86fc1c9",
+      "size": 802525,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ESRB_M_ACUnity.jpg-842x485-25f1e71e4374bd89d7a70d136f287902.png",
+      "md5": "25f1e71e4374bd89d7a70d136f287902",
+      "size": 35389,
+      "uploadedDate": "2020-03-10T14:24:51.372Z",
+      "width": 842,
+      "height": 485
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/72bdc702b4974024a69a5eb718a7a135/offer/ACU_Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
+      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
+      "size": 3098940,
+      "uploadedDate": "2020-04-20T13:56:09.375Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "840ba1c2b7cb46e58a7ed9c5c4e3d24e"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,72 +1,111 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-04T16:00:00.000Z",
-  "creationDate": "2020-01-30T22:32:17.615Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "zombie-army-4-dead-war/deluxe-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Zombie Army 4 Deluxe Edition",
   "id": "dd9311e1860e4dd7b23398da971cd496",
   "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Zombie Army 4 Deluxe Edition",
   "description": "Zombie Army 4 Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_DELUXEEDITION-900x450-9ce1b5beee1431f615d8f9003b80a416b9f980e3-900x450-3d0b4e1dfe90d6ce78323a2e2ae392e4-900x450-3d0b4e1dfe90d6ce78323a2e2ae392e4.png"
-    }
-  ],
+  "productSlug": "zombie-army-4-dead-war/deluxe-edition",
+  "urlSlug": "zombie-army-4-dead-war-deluxe-edition",
+  "creationDate": "2020-01-30T22:32:17.615Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
     "name": "Rebellion"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2f7da578cff346468d301bf4cb58a605",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "a537439bb3694303a40fb87f56a38d73",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "1fd1b1245e3d49bab04a535e6c46cb49",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
     },
     {
-      "id": "2819da8eb4504075bcb6e017f647aabf",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     },
     {
-      "id": "7e4428ebcbd048efbdb75f2cac7f2aed",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     },
     {
-      "id": "79d206ed52224466ade4ca3289f86326",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -83,17 +122,63 @@
       "value": "zombie-army-4-dead-war/deluxe-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
+      "md5": "bdc4bb63f2061b8757130cedfe2171f8",
+      "size": 210827,
+      "uploadedDate": "2019-10-10T21:54:56.094Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
+      "md5": "bdc4bb63f2061b8757130cedfe2171f8",
+      "size": 210827,
+      "uploadedDate": "2020-04-20T18:43:26.082Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_ZADeluxe-340x440-bdc4bb63f2061b8757130cedfe2171f8-340x440-bdc4bb63f2061b8757130cedfe2171f8.jpg",
+      "md5": "bdc4bb63f2061b8757130cedfe2171f8",
+      "size": 210827,
+      "uploadedDate": "2020-04-20T18:43:34.460Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/Diesel_productv2_zombie-army-4-dead-war_home_EGS_REBELLION_ZOMBIEARMY4_EDITIONCAPSULE_DELUXEEDITION-900x450-9ce1b5beee1431f615d8f9003b80a416b9f980e3-900x450-3d0b4e1dfe90d6ce78323a2e2ae392e4-900x450-3d0b4e1dfe90d6ce78323a2e2ae392e4.png",
+      "md5": "3d0b4e1dfe90d6ce78323a2e2ae392e4",
+      "size": 178964,
+      "uploadedDate": "2020-04-20T18:43:46.731Z",
+      "width": 900,
+      "height": 450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2f7da578cff346468d301bf4cb58a605"
+    },
+    {
+      "id": "a537439bb3694303a40fb87f56a38d73"
+    },
+    {
+      "id": "1fd1b1245e3d49bab04a535e6c46cb49"
+    },
+    {
+      "id": "2819da8eb4504075bcb6e017f647aabf"
+    },
+    {
+      "id": "7e4428ebcbd048efbdb75f2cac7f2aed"
+    },
+    {
+      "id": "79d206ed52224466ade4ca3289f86326"
+    }
+  ],
+  "catalogNs": null
 }

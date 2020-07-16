@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-15T05:00:00.000Z",
-  "creationDate": "2019-03-12T20:25:40.337Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy's The Division 2 Season Pass",
   "id": "6a362fdb42ec4d859b5bc0f30095682e",
   "namespace": "impala",
+  "title": "Tom Clancy's The Division 2 Season Pass",
   "description": "Tom Clancy's The Division 2 Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_SeasonPass_GameIcon-400x400-38f2ead686ba4b53a4781d8d96add501.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "seasonpassaudience",
+  "creationDate": "2019-03-12T20:25:40.337Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-03-15T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "6876fb1d28b748c08b93f694e25565d7",
-      "namespace": "impala",
-      "developer": null
-    },
-    {
-      "id": "033be27c70aa44c58cb5245cad2865db",
-      "namespace": "impala",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "developerName",
-      "value": "Massive Entertainment"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,39 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Massive Entertainment"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_SeasonPass_GameIcon-400x400-38f2ead686ba4b53a4781d8d96add501.png",
+      "md5": "38f2ead686ba4b53a4781d8d96add501",
+      "size": 285574,
+      "uploadedDate": "2019-03-15T05:20:55.484Z",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "items": [
+    {
+      "id": "6876fb1d28b748c08b93f694e25565d7"
+    },
+    {
+      "id": "033be27c70aa44c58cb5245cad2865db"
+    }
+  ],
+  "catalogNs": null
 }

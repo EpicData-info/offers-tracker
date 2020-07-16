@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-11-20T20:53:38.268Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-fractured-but-whole/bring-the-crunch",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bring The Crunch - DLC",
   "id": "54c83b3d3f084d46aebc8240af5bf333",
   "namespace": "764eb429792649e4a606413cd649de2c",
+  "title": "Bring The Crunch - DLC",
   "description": "Bring The Crunch - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14907_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-c7ed8965264de7bb0111a921f0e41f58.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14907_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-3379a4d459ca534e4c3621fb9ca0f217cc84d256.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-fractured-but-whole/bring-the-crunch",
+  "urlSlug": "dlc3-btc",
+  "creationDate": "2019-11-20T20:53:38.268Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "bf5e40f711834a479d0d4075f97af6f6",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    },
-    {
-      "id": "8bfebbb946eb4231a11a31f0608348bf",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN.KR"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "south-park-the-fractured-but-whole/bring-the-crunch"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN.KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-fractured-but-whole/bring-the-crunch"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14907_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-c7ed8965264de7bb0111a921f0e41f58.jpg",
+      "md5": "c7ed8965264de7bb0111a921f0e41f58",
+      "size": 466396,
+      "uploadedDate": "2019-12-18T15:32:23.587Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14907_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-3379a4d459ca534e4c3621fb9ca0f217cc84d256.jpg",
+      "md5": "7080abb4fd6ad0c86b641eb71f794806",
+      "size": 351390,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "bf5e40f711834a479d0d4075f97af6f6"
+    },
+    {
+      "id": "8bfebbb946eb4231a11a31f0608348bf"
+    }
+  ],
+  "catalogNs": null
 }

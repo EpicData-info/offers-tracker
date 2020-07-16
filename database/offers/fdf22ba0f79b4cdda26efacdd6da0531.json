@@ -1,47 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-16T15:00:00.000Z",
-  "creationDate": "2019-04-30T15:37:53.668Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "stories-untold/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Stories Untold",
   "id": "fdf22ba0f79b4cdda26efacdd6da0531",
   "namespace": "epic",
+  "title": "Stories Untold",
   "description": "Stories Untold",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_PrimaryPromo_edit-1440x810-b07253a71f1a32fae6d0770f84428932.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_PortraitPromo_edit-974x1080-2b2e5fb4b58a5e19a7db11da231c7e02.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_Logo_Color-1080x565-0d0495720e1f24d414dc5ce94df70315.png"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/freeTile_StoriesUntold_noDate-900x358-12bdacb8f92e722d25e05035799f9a5b.jpg"
-    }
-  ],
+  "productSlug": "stories-untold/home",
+  "urlSlug": "stories-untold",
+  "creationDate": "2019-04-30T15:37:53.668Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-05-16T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": "f984f7ce9fa14eddb4457fef59af25d3",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,30 +127,48 @@
       "value": "stories-untold/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_PrimaryPromo_edit-1440x810-b07253a71f1a32fae6d0770f84428932.jpg",
+      "md5": "b07253a71f1a32fae6d0770f84428932",
+      "size": 319020,
+      "uploadedDate": "2019-04-30T15:43:33.458Z",
+      "width": 1440,
+      "height": 810
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_PortraitPromo_edit-974x1080-2b2e5fb4b58a5e19a7db11da231c7e02.jpg",
+      "md5": "2b2e5fb4b58a5e19a7db11da231c7e02",
+      "size": 245026,
+      "uploadedDate": "2019-04-30T15:43:45.598Z",
+      "width": 974,
+      "height": 1080
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/StoriesUntold_Logo_Color-1080x565-0d0495720e1f24d414dc5ce94df70315.png",
+      "md5": "0d0495720e1f24d414dc5ce94df70315",
+      "size": 130865,
+      "uploadedDate": "2019-04-30T15:43:56.468Z",
+      "width": 1080,
+      "height": 565
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/freeTile_StoriesUntold_noDate-900x358-12bdacb8f92e722d25e05035799f9a5b.jpg",
+      "md5": "12bdacb8f92e722d25e05035799f9a5b",
+      "size": 79743,
+      "uploadedDate": "2019-04-30T19:46:02.631Z",
+      "width": 900,
+      "height": 358
     }
   ],
-  "linkedOfferId": "f984f7ce9fa14eddb4457fef59af25d3",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Devolver Digital"
-      },
-      {
-        "key": "developerName",
-        "value": "NoCode"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "stories-untold/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

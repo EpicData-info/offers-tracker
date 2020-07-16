@@ -1,50 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-30T00:00:00.000Z",
-  "creationDate": "2019-07-26T00:04:21.974Z",
-  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
-  "viewableDate": null,
-  "productSlug": "anno-1800/sunken-treasures",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sunken Treasures - DLC",
   "id": "325308c0cd9f4aaca4d5f57320ed77b5",
   "namespace": "oregano",
+  "title": "Sunken Treasures - DLC",
   "description": "Sunken Treasures - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS13609_EGST_BannerBundle_US_Edition_Capsule_355x150-355x150-fe8af44b9327d56fb3656c3ce34601ea.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_SunkenTreasure_wide-355x150-0953ffe8b4daea0205683620b78e2ad7.png"
-    }
-  ],
+  "productSlug": "anno-1800/sunken-treasures",
+  "urlSlug": "stpaudience-redeemable",
+  "creationDate": "2019-07-26T00:04:21.974Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "effectiveDate": "2019-07-30T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "60464ab8a9454e25a12abc3c8c94885c",
-      "namespace": "oregano",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "93b2dfd9d7604a20b1f27b2d549a4bc0",
-      "namespace": "oregano",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -63,20 +56,42 @@
       "value": "anno-1800/sunken-treasures"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS13609_EGST_BannerBundle_US_Edition_Capsule_355x150-355x150-fe8af44b9327d56fb3656c3ce34601ea.png",
+      "md5": "fe8af44b9327d56fb3656c3ce34601ea",
+      "size": 73141,
+      "uploadedDate": "2019-07-26T01:00:27.752Z",
+      "width": 355,
+      "height": 150
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2.jpg",
+      "md5": "3232a49057263a619bf31a0d399932a2",
+      "size": 110698,
+      "uploadedDate": "2019-07-26T01:02:29.699Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_SunkenTreasure_wide-355x150-0953ffe8b4daea0205683620b78e2ad7.png",
+      "md5": "0953ffe8b4daea0205683620b78e2ad7",
+      "size": 25535,
+      "uploadedDate": "2020-03-06T17:01:48.327Z",
+      "width": 355,
+      "height": 150
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "60464ab8a9454e25a12abc3c8c94885c"
+    },
+    {
+      "id": "93b2dfd9d7604a20b1f27b2d549a4bc0"
+    }
+  ],
+  "catalogNs": null
 }

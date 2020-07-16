@@ -1,50 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-13T12:00:00.000Z",
-  "creationDate": "2019-05-14T19:48:33.132Z",
-  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Operencia Humble Bundle",
   "id": "ac98e035868b4b729c9b5d87dc960370",
   "namespace": "lily",
+  "title": "Operencia Humble Bundle",
   "description": "Operencia Humble Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lily/item/Operencia-842x404-3511747173090e0e069515a713196792.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "operencia-humble-bundle-audience",
+  "creationDate": "2019-05-14T19:48:33.132Z",
+  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
+  "effectiveDate": "2019-05-13T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fc15955c090644f78cfc309b722995a2",
-      "namespace": "lily",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
-      "namespace": "lily",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +42,42 @@
       "value": "Zen Studios"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lily/item/Operencia-842x404-3511747173090e0e069515a713196792.png",
+      "md5": "3511747173090e0e069515a713196792",
+      "size": 46247,
+      "uploadedDate": "2019-05-14T19:36:18.234Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-05-14T19:46:17.421Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-05-14T19:46:37.135Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fc15955c090644f78cfc309b722995a2"
+    },
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06"
+    }
+  ],
+  "catalogNs": null
 }

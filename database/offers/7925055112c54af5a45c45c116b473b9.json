@@ -1,42 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-26T00:00:00.000Z",
-  "creationDate": "2019-03-27T14:37:42.971Z",
-  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "World War Z Press Access",
   "id": "7925055112c54af5a45c45c116b473b9",
   "namespace": "wombat",
+  "title": "World War Z Press Access",
   "description": "World War Z Press Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/wombat/offer/wwz_logo_400x400-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "world-war-z-promo",
+  "creationDate": "2019-03-27T14:37:42.971Z",
+  "lastModifiedDate": "2020-04-29T00:38:38.726Z",
+  "effectiveDate": "2019-03-26T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2xlz78ngz5ubvus9sff9blglee43uk",
     "name": "Saber Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6bfa6e8187ed4caba71f9d6e2319ea50",
-      "namespace": "wombat",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "faf4c521862747f2a1340ed1798bbe13",
-      "namespace": "wombat",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -47,14 +42,24 @@
       "value": "Saber Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wombat/offer/wwz_logo_400x400-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a-400x400-0dc2a56a36635998206f055028192c7a.png",
+      "md5": "0dc2a56a36635998206f055028192c7a",
+      "size": 36562,
+      "uploadedDate": "2019-04-01T19:05:37.147Z",
+      "width": 400,
+      "height": 400
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6bfa6e8187ed4caba71f9d6e2319ea50"
+    },
+    {
+      "id": "faf4c521862747f2a1340ed1798bbe13"
+    }
+  ],
+  "catalogNs": null
 }

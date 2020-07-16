@@ -1,67 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-16T18:00:00.000Z",
-  "creationDate": "2019-05-20T18:23:14.676Z",
-  "lastModifiedDate": "2020-04-02T01:41:44.793Z",
-  "viewableDate": null,
-  "productSlug": "mtg-arena/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Magic The Gathering Arena",
   "id": "e8c01dff9a524977a2e51c5831155a91",
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "title": "Magic The Gathering Arena",
   "description": "Magic: The Gathering Arena",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_IC1_WHITE-260x200-2398d066e3fc892e44d8aabbbba911ed.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/Tumbnail_MTGlogo-576x576-eae5f6bc6e63800e8d97399db0467548.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/Tumbnail_MTGlogo-576x576-eae5f6bc6e63800e8d97399db0467548.png"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg"
-    }
-  ],
+  "productSlug": "mtg-arena/home",
+  "urlSlug": "stargazergeneralaudience",
+  "creationDate": "2019-05-20T18:23:14.676Z",
+  "lastModifiedDate": "2020-04-02T01:41:44.793Z",
+  "effectiveDate": "2020-01-16T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
     "name": "Wizards of the Coast"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c5192a89967b408e86812779eb98c907",
-      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "CARD GAME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2020-06-15T16:42:51.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +113,93 @@
       "value": "mtg-arena/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_IC1_WHITE-260x200-2398d066e3fc892e44d8aabbbba911ed.png",
+      "md5": "2398d066e3fc892e44d8aabbbba911ed",
+      "size": 3408,
+      "uploadedDate": "2019-08-17T01:21:51.724Z",
+      "width": 260,
+      "height": 200
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2019-08-17T01:22:18.458Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2019-08-17T01:22:51.813Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2019-08-17T01:22:51.813Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/Tumbnail_MTGlogo-576x576-eae5f6bc6e63800e8d97399db0467548.png",
+      "md5": "eae5f6bc6e63800e8d97399db0467548",
+      "size": 422283,
+      "uploadedDate": "2020-01-16T01:10:44.711Z",
+      "width": 576,
+      "height": 576
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/Tumbnail_MTGlogo-576x576-eae5f6bc6e63800e8d97399db0467548.png",
+      "md5": "eae5f6bc6e63800e8d97399db0467548",
+      "size": 422283,
+      "uploadedDate": "2020-01-16T01:11:03.068Z",
+      "width": 576,
+      "height": 576
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2020-01-16T20:55:48.182Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/5fdcc0dc67294af3be740f362bd976fd/offer/MTG_Store-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2020-01-16T20:56:27.373Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_WOTC_MTGARENA_N2_STILL-2560x1440-8c5241cf0d667c3fdb33e83a7ae2dca4.jpg",
+      "md5": "8c5241cf0d667c3fdb33e83a7ae2dca4",
+      "size": 596987,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c5192a89967b408e86812779eb98c907"
+    }
+  ],
+  "catalogNs": null
 }

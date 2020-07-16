@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-13T17:06:58.577Z",
-  "lastModifiedDate": "2020-06-15T13:20:17.557Z",
-  "viewableDate": null,
-  "productSlug": "the-outlast-trials",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Outlast Trials",
   "id": "1e6c33bd3dc742c8b224a9dc6958660e",
   "namespace": "6504cc61472e498796e0b4963a201438",
+  "title": "The Outlast Trials",
   "description": "The Outlast Trials",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg"
-    }
-  ],
+  "productSlug": "the-outlast-trials",
+  "urlSlug": "the-outlast-trials",
+  "creationDate": "2020-06-13T17:06:58.577Z",
+  "lastModifiedDate": "2020-06-15T13:20:17.557Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-43vl99bsbv9r5mtf76dv98b7um7kn4",
     "name": "Red Barrels Inc"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7252bea6267942f88630783133fc6fa4",
-      "namespace": "6504cc61472e498796e0b4963a201438",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1131",
+      "name": "SURVIVAL HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.560Z",
+      "updated": "2020-07-16T15:01:02.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "the-outlast-trials"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg",
+      "md5": "94e9ca382991373a4a464665014a78d4",
+      "size": 822931,
+      "uploadedDate": "2020-06-13T17:18:17.552Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg",
+      "md5": "c70676de7925195513fa7bc4bc2f1d9b",
+      "size": 433262,
+      "uploadedDate": "2020-06-13T17:18:30.569Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg",
+      "md5": "c70676de7925195513fa7bc4bc2f1d9b",
+      "size": 433262,
+      "uploadedDate": "2020-06-13T17:18:42.430Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg",
+      "md5": "c70676de7925195513fa7bc4bc2f1d9b",
+      "size": 433262,
+      "uploadedDate": "2020-06-13T17:18:52.948Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S2-1200x1600-c70676de7925195513fa7bc4bc2f1d9b.jpg",
+      "md5": "c70676de7925195513fa7bc4bc2f1d9b",
+      "size": 433262,
+      "uploadedDate": "2020-06-13T17:19:19.210Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6504cc61472e498796e0b4963a201438/offer/EGS_TheOutlastTrials_RedBarrels_S1-2560x1440-94e9ca382991373a4a464665014a78d4.jpg",
+      "md5": "94e9ca382991373a4a464665014a78d4",
+      "size": 822931,
+      "uploadedDate": "2020-06-13T17:20:07.354Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7252bea6267942f88630783133fc6fa4"
+    }
+  ],
+  "catalogNs": null
 }

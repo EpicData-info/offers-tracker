@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-02-27T13:35:00.000Z",
-  "creationDate": "2019-02-27T18:37:04.258Z",
-  "lastModifiedDate": "2019-08-05T08:35:10.567Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CannaDevAudience",
   "id": "2677269657d3464ebd256983be493968",
   "namespace": "canna",
+  "title": "CannaDevAudience",
   "description": "CannaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_Icon-400x400-ac57b59e04cfc0aa1de4ef0ae1a3c310-400x400-ac57b59e04cfc0aa1de4ef0ae1a3c310.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "cannadevaudience",
+  "creationDate": "2019-02-27T18:37:04.258Z",
+  "lastModifiedDate": "2019-08-05T08:35:10.567Z",
+  "effectiveDate": "2050-02-27T13:35:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bhpk86rgthezed539g3hb5avacecqt",
     "name": "Atari"
   },
-  "items": [
-    {
-      "id": "48a4bf38c52b495687acbe5bafaff2b2",
-      "namespace": "canna",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,23 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_Icon-400x400-ac57b59e04cfc0aa1de4ef0ae1a3c310-400x400-ac57b59e04cfc0aa1de4ef0ae1a3c310.png",
+      "md5": "ac57b59e04cfc0aa1de4ef0ae1a3c310",
+      "size": 6920,
+      "uploadedDate": "2019-03-19T14:48:21.880Z",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "items": [
+    {
+      "id": "48a4bf38c52b495687acbe5bafaff2b2"
+    }
+  ],
+  "catalogNs": null
 }

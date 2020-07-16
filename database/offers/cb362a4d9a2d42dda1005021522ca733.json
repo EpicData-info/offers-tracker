@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-06T00:00:00.000Z",
-  "creationDate": "2019-04-02T21:41:04.634Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "trials-rising",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Trials Rising",
   "id": "cb362a4d9a2d42dda1005021522ca733",
   "namespace": "argyle",
+  "title": "Trials Rising",
   "description": "Trials Rising Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TRR_UCS12460_EGST_Logo_Color_1000x375-1000x375-f67e3c301ded8255fb838257b24daf28.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/argyle/offer/TRR_Standard_Edition_Capsule_355x150-355x150-5823504fb35a2fae186c410e4d4943cc.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/argyle/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg"
-    }
-  ],
+  "productSlug": "trials-rising",
+  "urlSlug": "argylegeneralaudience",
+  "creationDate": "2019-04-02T21:41:04.634Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6e6d35f7a5344277b79f9ee39e08b8db",
-      "namespace": "argyle",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "trials-rising"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg",
+      "md5": "6d68cd7b0ff1fd2b0dceca32cc4f397c",
+      "size": 193377,
+      "uploadedDate": "2019-09-06T18:50:19.699Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg",
+      "md5": "113e06f40cef53b2fa5850fa905a2daa",
+      "size": 318984,
+      "uploadedDate": "2019-09-06T18:50:27.366Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TRR_UCS12460_EGST_Logo_Color_1000x375-1000x375-f67e3c301ded8255fb838257b24daf28.png",
+      "md5": "f67e3c301ded8255fb838257b24daf28",
+      "size": 136830,
+      "uploadedDate": "2019-09-06T18:50:35.935Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo-1280x1420-6d68cd7b0ff1fd2b0dceca32cc4f397c.jpg",
+      "md5": "6d68cd7b0ff1fd2b0dceca32cc4f397c",
+      "size": 193377,
+      "uploadedDate": "2019-09-06T18:50:19.699Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TRR_Standard_Edition_Capsule_355x150-355x150-5823504fb35a2fae186c410e4d4943cc.jpg",
+      "md5": "5823504fb35a2fae186c410e4d4943cc",
+      "size": 72607,
+      "uploadedDate": "2019-09-10T04:54:46.115Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/argyle/offer/Store_Primary_Promo-2580x1450-113e06f40cef53b2fa5850fa905a2daa-2580x1450-113e06f40cef53b2fa5850fa905a2daa.jpg",
+      "md5": "113e06f40cef53b2fa5850fa905a2daa",
+      "size": 318984,
+      "uploadedDate": "2020-02-27T19:46:54.204Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6e6d35f7a5344277b79f9ee39e08b8db"
+    }
+  ],
+  "catalogNs": null
 }

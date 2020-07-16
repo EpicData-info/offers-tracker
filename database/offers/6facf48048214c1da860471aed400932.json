@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-06-08T15:15:16.856Z",
-  "lastModifiedDate": "2020-04-02T01:41:56.088Z",
-  "viewableDate": null,
-  "productSlug": "phantom-brigade/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Phantom Brigade",
   "id": "6facf48048214c1da860471aed400932",
   "namespace": "935fa66c485e4c988eb939f86dc458b5",
+  "title": "Phantom Brigade",
   "description": "Phantom Brigade",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Newsfeed_Post_Image_Primary_Faded-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/StorePage_Portrait_Promo_Faded-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Logo_V3EA_Color-1978x780-45a7ac93cd0a0455f68008a62d65009c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/StorePage_Portrait_Promo_Faded-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Newsfeed_Post_Image_Primary_Faded-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg"
-    }
-  ],
+  "productSlug": "phantom-brigade/home",
+  "urlSlug": "chiligeneralaudience",
+  "creationDate": "2019-06-08T15:15:16.856Z",
+  "lastModifiedDate": "2020-04-02T01:41:56.088Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
     "name": "Brace Yourself Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "f551c3019803414596759fc0d76bb8ef",
-      "namespace": "935fa66c485e4c988eb939f86dc458b5",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "phantom-brigade/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Newsfeed_Post_Image_Primary_Faded-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg",
+      "md5": "a2c55c635c193d4682d5c03066514e5f",
+      "size": 243759,
+      "uploadedDate": "2019-06-05T20:01:19.098Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/StorePage_Portrait_Promo_Faded-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c.jpg",
+      "md5": "7a8ae1c66f3d39ce3be134af6617c71c",
+      "size": 322023,
+      "uploadedDate": "2019-06-05T20:01:29.828Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Logo_V3EA_Color-1978x780-45a7ac93cd0a0455f68008a62d65009c.png",
+      "md5": "45a7ac93cd0a0455f68008a62d65009c",
+      "size": 281971,
+      "uploadedDate": "2019-06-12T14:46:11.945Z",
+      "width": 1978,
+      "height": 780
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/StorePage_Portrait_Promo_Faded-1280x1420-7a8ae1c66f3d39ce3be134af6617c71c.jpg",
+      "md5": "7a8ae1c66f3d39ce3be134af6617c71c",
+      "size": 322023,
+      "uploadedDate": "2019-06-05T20:01:29.828Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg",
+      "md5": "e205f2a9b59579d0377926bec54585b3",
+      "size": 52473,
+      "uploadedDate": "2019-06-25T15:45:19.642Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/CodeRedemption_PhantomBr-330x440-e205f2a9b59579d0377926bec54585b3.jpg",
+      "md5": "e205f2a9b59579d0377926bec54585b3",
+      "size": 52473,
+      "uploadedDate": "2019-06-25T15:45:31.450Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Newsfeed_Post_Image_Primary_Faded-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg",
+      "md5": "a2c55c635c193d4682d5c03066514e5f",
+      "size": 243759,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "f551c3019803414596759fc0d76bb8ef"
+    }
+  ],
+  "catalogNs": null
 }

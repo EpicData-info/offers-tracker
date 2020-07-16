@@ -1,39 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-09T16:00:00.000Z",
-  "creationDate": "2020-01-04T02:38:23.636Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "sundered-eldritch-edition/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sundered Eldritch Edition",
   "id": "a1dc8e1eae69492d8af58ffc87b37fd2",
   "namespace": "epic",
+  "title": "Sundered Eldritch Edition",
   "description": "Sundered Eldritch Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg"
-    }
-  ],
+  "productSlug": "sundered-eldritch-edition/home",
+  "urlSlug": "sundered-eldritch-edition",
+  "creationDate": "2020-01-04T02:38:23.636Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-01-09T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
     "name": "Thunder Lotus Games"
   },
-  "items": [
+  "linkedOfferId": "f6aee57bdd3445d4973bbbb639e8e8d5",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "METROIDVANIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2020-05-14T19:40:40.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +127,30 @@
       "value": "f6aee57bdd3445d4973bbbb639e8e8d5"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S1-2560x1440-d54465fa29a48ca1e83009788f47152e8a8e03c5-2560x1440-a0e453024c831c7d7f9812899582101e.jpg",
+      "md5": "a0e453024c831c7d7f9812899582101e",
+      "size": 160966,
+      "uploadedDate": "2020-01-04T02:34:38.768Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_sundered-eldritch-edition_home_EGS_ThunderLotus_SunderedEldritchEdition_S2-860x1148-48ef3608363f199d2ed175451d08a29cf71414c3-860x1148-5eddf34fa16245497122e3c9a7954cbe.jpg",
+      "md5": "5eddf34fa16245497122e3c9a7954cbe",
+      "size": 105218,
+      "uploadedDate": "2020-01-04T02:35:02.435Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "f6aee57bdd3445d4973bbbb639e8e8d5",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Thunder Lotus"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "sundered-eldritch-edition/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

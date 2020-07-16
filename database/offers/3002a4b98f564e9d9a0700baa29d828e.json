@@ -1,47 +1,97 @@
 {
+  "id": "3002a4b98f564e9d9a0700baa29d828e",
+  "namespace": "epic",
+  "title": "The Tomorrow Corporation Collection",
+  "description": "The Tomorrow Corporation Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-tomorrow-corporation-collection",
+  "urlSlug": "the-tomorrow-corporation-collection",
+  "creationDate": "2019-04-25T18:28:42.549Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-04-25T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
+    "name": "Epic Games"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
   "collectionOfferIds": [
     "21eb73afb3b34940a2f41799f378f6ac",
     "6a76c942e36e46c4ab566a21b5f46461",
     "2621e3f77bcc4a868ce1ec2b32da6632"
   ],
-  "effectiveDate": "2019-04-25T08:00:00.000Z",
-  "creationDate": "2019-04-25T18:28:42.549Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "the-tomorrow-corporation-collection",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "The Tomorrow Corporation Collection",
-  "id": "3002a4b98f564e9d9a0700baa29d828e",
-  "namespace": "epic",
-  "description": "The Tomorrow Corporation Collection",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow Corporation Collection Matchstick Logo-812x227-3f1f304ad2114705194ac398d39c69a4.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow-Corporation-Collection-Matchstick-v2-1280x1420-2a6b6cc45b4f34648152474f2c11743a.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Primary-Promo v2-2580x1450-a27f0d69904c773820d28f919c69ae0a.png"
+      "path": "collections"
     }
   ],
-  "seller": {
-    "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
-    "name": "Epic Games"
-  },
-  "items": [
+  "tags": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1102",
+      "name": "PROGRAMMING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:09.264Z",
+      "updated": "2020-04-02T01:41:35.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,11 +120,39 @@
       "value": "the-tomorrow-corporation-collection"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "collections"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow Corporation Collection Matchstick Logo-812x227-3f1f304ad2114705194ac398d39c69a4.png",
+      "md5": "3f1f304ad2114705194ac398d39c69a4",
+      "size": 107102,
+      "uploadedDate": "2019-08-20T12:53:09.316Z",
+      "width": 812,
+      "height": 227
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Tomorrow-Corporation-Collection-Matchstick-v2-1280x1420-2a6b6cc45b4f34648152474f2c11743a.png",
+      "md5": "2a6b6cc45b4f34648152474f2c11743a",
+      "size": 1276138,
+      "uploadedDate": "2019-08-27T16:00:54.043Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Primary-Promo v2-2580x1450-a27f0d69904c773820d28f919c69ae0a.png",
+      "md5": "a27f0d69904c773820d28f919c69ae0a",
+      "size": 3343982,
+      "uploadedDate": "2019-08-27T16:01:04.178Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

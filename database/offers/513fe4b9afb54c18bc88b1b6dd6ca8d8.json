@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2051-07-01T13:00:00.000Z",
-  "creationDate": "2019-07-23T16:06:44.759Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "inside/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Inside",
   "id": "513fe4b9afb54c18bc88b1b6dd6ca8d8",
   "namespace": "epic",
+  "title": "Inside",
   "description": "Inside",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PLAYDEAD_INSIDE-PORTRAIT-1280x1440-13bf6e11eacd3d054f680f16afddf7fd.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Inside_StoreFrontWide-1920x1080-6a230e0d1baafea9c8be963abe39800a.png"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/LIMBO_LOGO_NEW-6054x1989-f61e16b909507c909f0eb305c2b71cd1.png"
-    }
-  ],
+  "productSlug": "inside/home",
+  "urlSlug": "inside",
+  "creationDate": "2019-07-23T16:06:44.759Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2051-07-01T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
     "name": "Playdead"
   },
-  "items": [
+  "linkedOfferId": "73021f8411c9435e8b6f35faacdc2978",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +124,39 @@
       "value": "73021f8411c9435e8b6f35faacdc2978"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PLAYDEAD_INSIDE-PORTRAIT-1280x1440-13bf6e11eacd3d054f680f16afddf7fd.jpg",
+      "md5": "13bf6e11eacd3d054f680f16afddf7fd",
+      "size": 129989,
+      "uploadedDate": "2019-07-23T16:04:09.599Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Inside_StoreFrontWide-1920x1080-6a230e0d1baafea9c8be963abe39800a.png",
+      "md5": "6a230e0d1baafea9c8be963abe39800a",
+      "size": 576882,
+      "uploadedDate": "2019-08-22T15:47:57.530Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/LIMBO_LOGO_NEW-6054x1989-f61e16b909507c909f0eb305c2b71cd1.png",
+      "md5": "f61e16b909507c909f0eb305c2b71cd1",
+      "size": 95973,
+      "uploadedDate": "2019-08-15T13:50:11.925Z",
+      "width": 6054,
+      "height": 1989
     }
   ],
-  "linkedOfferId": "73021f8411c9435e8b6f35faacdc2978",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Playdead"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "inside/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

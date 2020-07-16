@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-04T00:00:00.000Z",
-  "creationDate": "2019-08-24T06:23:21.054Z",
-  "lastModifiedDate": "2020-04-02T01:42:18.535Z",
-  "viewableDate": null,
-  "productSlug": "the-end-is-nigh/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The End is Nigh",
   "id": "498e04695bbd4376ab574a103a4f36dd",
   "namespace": "530eeeaffca14275a451d7cff61ee6bb",
+  "title": "The End is Nigh",
   "description": "The End is Nigh",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game Logo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg"
-    }
-  ],
+  "productSlug": "the-end-is-nigh/home",
+  "urlSlug": "staticegeneralaudience",
+  "creationDate": "2019-08-24T06:23:21.054Z",
+  "lastModifiedDate": "2020-04-02T01:42:18.535Z",
+  "effectiveDate": "2019-09-04T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-h8c7zcwt24ey84nvxfbgzqpvth9vpz",
     "name": "Edmund McMillen, Tyler Glaiel"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2a6e2d009f2a4a2683bc70b08f4dcca3",
-      "namespace": "530eeeaffca14275a451d7cff61ee6bb",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +125,75 @@
       "value": "the-end-is-nigh/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game Logo-200x76-61e3c50fa63f74e5575a08ab4718b8a7.png",
+      "md5": "61e3c50fa63f74e5575a08ab4718b8a7",
+      "size": 1140,
+      "uploadedDate": "2019-08-27T20:34:42.038Z",
+      "width": 200,
+      "height": 76
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg",
+      "md5": "f1875f631fc6870253c48d26a7175c86",
+      "size": 724915,
+      "uploadedDate": "2019-08-27T20:34:56.913Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg",
+      "md5": "6cebdc0fe45b9fde09a786506a7f5c6e",
+      "size": 313611,
+      "uploadedDate": "2019-08-27T20:35:07.337Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2-1280x1440-6cebdc0fe45b9fde09a786506a7f5c6e.jpg",
+      "md5": "6cebdc0fe45b9fde09a786506a7f5c6e",
+      "size": 313611,
+      "uploadedDate": "2019-08-27T20:35:07.337Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg",
+      "md5": "ad607bfe8e369571676c469d69d1ed2b",
+      "size": 160891,
+      "uploadedDate": "2019-08-27T20:20:52.574Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/530eeeaffca14275a451d7cff61ee6bb/offer/CodeRedemption_TheEndisNigh-340x440-ad607bfe8e369571676c469d69d1ed2b.jpg",
+      "md5": "ad607bfe8e369571676c469d69d1ed2b",
+      "size": 160891,
+      "uploadedDate": "2019-08-27T20:21:04.635Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/N2-2560x1440-f1875f631fc6870253c48d26a7175c86.jpg",
+      "md5": "f1875f631fc6870253c48d26a7175c86",
+      "size": 724915,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2a6e2d009f2a4a2683bc70b08f4dcca3"
+    }
+  ],
+  "catalogNs": null
 }

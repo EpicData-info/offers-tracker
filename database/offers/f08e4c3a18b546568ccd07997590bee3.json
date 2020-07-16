@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-09T16:00:00.000Z",
-  "creationDate": "2019-04-01T19:48:05.915Z",
-  "lastModifiedDate": "2020-05-11T15:27:35.239Z",
-  "viewableDate": null,
-  "productSlug": "supermash/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SuperMash",
   "id": "f08e4c3a18b546568ccd07997590bee3",
   "namespace": "nutmeg",
+  "title": "SuperMash",
   "description": "SuperMash",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S1-2560x1440-b229d19d5e39ddcc7d058cc09ae52d56.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_IC1-198x69-f0978983d9a616c063d42cd2ebb3630c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/nutmeg/offer/EGS_DigitalContinue_SuperMash_IC2-128x128-ab3d29b125636983501f699b2e0e7fac.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/nutmeg/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/nutmeg/offer/LandscapeOffer_2560x1440-2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f.png"
-    }
-  ],
+  "productSlug": "supermash/home",
+  "urlSlug": "nutmeggeneralaudience",
+  "creationDate": "2019-04-01T19:48:05.915Z",
+  "lastModifiedDate": "2020-05-11T15:27:35.239Z",
+  "effectiveDate": "2019-12-09T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-qb7ry6eblsrnt28hxlcuw8w5j5t7y3",
     "name": "Digital Continue"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1c25fa5836e947549499c498586242bc",
-      "namespace": "nutmeg",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "ARCADE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2020-07-01T22:04:10.439Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "supermash/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S1-2560x1440-b229d19d5e39ddcc7d058cc09ae52d56.jpg",
+      "md5": "b229d19d5e39ddcc7d058cc09ae52d56",
+      "size": 363227,
+      "uploadedDate": "2019-11-11T23:12:53.457Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg",
+      "md5": "52eec467a062786ee13603fec2a79246",
+      "size": 210232,
+      "uploadedDate": "2019-11-11T23:13:02.081Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_IC1-198x69-f0978983d9a616c063d42cd2ebb3630c.png",
+      "md5": "f0978983d9a616c063d42cd2ebb3630c",
+      "size": 31569,
+      "uploadedDate": "2019-11-11T23:13:11.433Z",
+      "width": 198,
+      "height": 69
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg",
+      "md5": "52eec467a062786ee13603fec2a79246",
+      "size": 210232,
+      "uploadedDate": "2019-11-11T23:13:02.081Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nutmeg/offer/EGS_DigitalContinue_SuperMash_IC2-128x128-ab3d29b125636983501f699b2e0e7fac.png",
+      "md5": "ab3d29b125636983501f699b2e0e7fac",
+      "size": 23605,
+      "uploadedDate": "2019-12-09T22:34:12.503Z",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nutmeg/offer/EGS_DigitalContinue_SuperMash_S2-1280x1440-52eec467a062786ee13603fec2a79246.jpg",
+      "md5": "52eec467a062786ee13603fec2a79246",
+      "size": 210232,
+      "uploadedDate": "2019-12-09T22:34:45.947Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/nutmeg/offer/LandscapeOffer_2560x1440-2560x1440-435a6a2f7e0f4f41bcc58a130b20df7f.png",
+      "md5": "435a6a2f7e0f4f41bcc58a130b20df7f",
+      "size": 2922983,
+      "uploadedDate": "2020-02-24T22:32:49.451Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1c25fa5836e947549499c498586242bc"
+    }
+  ],
+  "catalogNs": null
 }

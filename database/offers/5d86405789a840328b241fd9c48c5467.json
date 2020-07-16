@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-18T00:00:00.000Z",
-  "creationDate": "2019-09-03T15:22:15.375Z",
-  "lastModifiedDate": "2020-06-18T11:59:41.937Z",
-  "viewableDate": null,
-  "productSlug": "surviving-the-aftermath/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Surviving the Aftermath",
   "id": "5d86405789a840328b241fd9c48c5467",
   "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "title": "Surviving the Aftermath",
   "description": "Surviving the Aftermath",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg"
-    }
-  ],
+  "productSlug": "surviving-the-aftermath/home",
+  "urlSlug": "muscovygeneralaudience",
+  "creationDate": "2019-09-03T15:22:15.375Z",
+  "lastModifiedDate": "2020-06-18T11:59:41.937Z",
+  "effectiveDate": "2019-10-18T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ce82d03f65cc4f47b00f86bb9b3cb68a",
-      "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "surviving-the-aftermath/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg",
+      "md5": "276c68f829d71be4e902d258448d223a",
+      "size": 899204,
+      "uploadedDate": "2020-06-16T15:15:15.441Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
+      "md5": "95795b4b450e976e814192e5250ba124",
+      "size": 916441,
+      "uploadedDate": "2020-06-16T15:15:24.951Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
+      "md5": "95795b4b450e976e814192e5250ba124",
+      "size": 916441,
+      "uploadedDate": "2020-06-16T15:15:34.450Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
+      "md5": "95795b4b450e976e814192e5250ba124",
+      "size": 916441,
+      "uploadedDate": "2020-06-16T15:15:42.965Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-276c68f829d71be4e902d258448d223a.jpg",
+      "md5": "276c68f829d71be4e902d258448d223a",
+      "size": 899204,
+      "uploadedDate": "2020-06-16T15:15:52.693Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-95795b4b450e976e814192e5250ba124.jpg",
+      "md5": "95795b4b450e976e814192e5250ba124",
+      "size": 916441,
+      "uploadedDate": "2020-06-16T15:16:01.603Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ce82d03f65cc4f47b00f86bb9b3cb68a"
+    }
+  ],
+  "catalogNs": null
 }

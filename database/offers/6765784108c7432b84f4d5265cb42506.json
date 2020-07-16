@@ -1,39 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-18T00:00:00.000Z",
-  "creationDate": "2019-03-18T04:56:35.298Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "the-sinking-city/home",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "The Sinking City",
   "id": "6765784108c7432b84f4d5265cb42506",
   "namespace": "epic",
+  "title": "The Sinking City",
   "description": "The Sinking City",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg"
-    }
-  ],
+  "productSlug": "the-sinking-city/home",
+  "urlSlug": "middlemist",
+  "creationDate": "2019-03-18T04:56:35.298Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-03-18T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": "47253abbbc8f4b3b9cb0f4da4d2e547d",
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,34 +124,30 @@
       "value": "the-sinking-city/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S4-510x680-b7234aa1d26c5ce83c95b2097e8442ad.jpg",
+      "md5": "b7234aa1d26c5ce83c95b2097e8442ad",
+      "size": 119290,
+      "uploadedDate": "2020-04-10T20:25:29.458Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheSinkingCity_Frogwares_S1-2560x1440-58bab67d7de7857c0554d074cb4cf6a0.jpg",
+      "md5": "58bab67d7de7857c0554d074cb4cf6a0",
+      "size": 372258,
+      "uploadedDate": "2020-04-10T20:25:45.040Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "47253abbbc8f4b3b9cb0f4da4d2e547d",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Bigben Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Frogwares"
-      },
-      {
-        "key": "SupportedPlatforms",
-        "value": "Windows"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-sinking-city"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

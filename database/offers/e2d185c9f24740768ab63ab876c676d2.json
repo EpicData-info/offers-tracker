@@ -1,62 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-11T15:00:00.000Z",
-  "creationDate": "2020-05-11T19:16:44.598Z",
-  "lastModifiedDate": "2020-07-09T16:07:23.094Z",
-  "viewableDate": null,
-  "productSlug": "tony-hawks-pro-skater-1-and-2/deluxe-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tony Hawk's™ Pro Skater™ 1 + 2 Deluxe Pre-Purchase",
   "id": "e2d185c9f24740768ab63ab876c676d2",
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "title": "Tony Hawk's™ Pro Skater™ 1 + 2 Deluxe Pre-Purchase",
   "description": "Guppy PrePurchase Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    }
-  ],
+  "productSlug": "tony-hawks-pro-skater-1-and-2/deluxe-edition",
+  "urlSlug": "tony-hawk-s-pro-skater-1-2-deluxe-pre-purchase-deluxe",
+  "creationDate": "2020-05-11T19:16:44.598Z",
+  "lastModifiedDate": "2020-07-09T16:07:23.094Z",
+  "effectiveDate": "2020-05-11T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
     "name": "Activision Publishing, Inc"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c77bbf6a991a4a9da878917f6fe8724c",
-      "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "85457098ca4e466b8b5806f118d88372",
-      "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -83,17 +61,69 @@
       "value": "tony-hawks-pro-skater-1-and-2/deluxe-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg",
+      "md5": "a9916b2a834cb85985de4e5761945380",
+      "size": 504625,
+      "uploadedDate": "2020-05-11T19:22:23.614Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T19:22:31.419Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg",
+      "md5": "a9916b2a834cb85985de4e5761945380",
+      "size": 504625,
+      "uploadedDate": "2020-05-11T19:22:41.054Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T19:22:49.759Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T19:22:59.649Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T19:23:10.891Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c77bbf6a991a4a9da878917f6fe8724c"
+    },
+    {
+      "id": "85457098ca4e466b8b5806f118d88372"
+    }
+  ],
+  "catalogNs": null
 }

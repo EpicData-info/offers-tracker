@@ -1,43 +1,111 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-16T16:00:00.000Z",
-  "creationDate": "2019-01-22T20:33:30.150Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "metro-exodus/the-two-colonels",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Exodus The Two Colonels",
   "id": "974fd4940ed24b20871c82cee057dbac",
   "namespace": "snapdragon",
+  "title": "Metro Exodus The Two Colonels",
   "description": "Metro Exodus The Two Colonels",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg"
-    }
-  ],
+  "productSlug": "metro-exodus/the-two-colonels",
+  "urlSlug": "snapdragondlc1",
+  "creationDate": "2019-01-22T20:33:30.150Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-08-16T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "054224b4ce2846ba847f9a3a329ae2f2",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,17 +126,39 @@
       "value": "metro-exodus/the-two-colonels"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_DLC1_TheTwoColonels-3840x2160-2f1a9a8d432ce98bfdd4c3b13d311fea89f8014d.jpg",
+      "md5": "bfee2421042489952e8ffcc0eb259601",
+      "size": 428816,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg",
+      "md5": "b4bff87cb0467ba0c5286e21f8f93065",
+      "size": 213322,
+      "uploadedDate": "2020-05-13T18:21:22.795Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_snapdragon_home_M3_Store_Portrait_Promo-1280x1420-2e856615a6914d0b1013ca96ea8cfed691d4e4e1-1280x1420-b4bff87cb0467ba0c5286e21f8f93065.jpg",
+      "md5": "b4bff87cb0467ba0c5286e21f8f93065",
+      "size": 213322,
+      "uploadedDate": "2020-05-13T18:21:32.709Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "054224b4ce2846ba847f9a3a329ae2f2"
+    }
+  ],
+  "catalogNs": null
 }

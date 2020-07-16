@@ -1,55 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-10-04T22:11:22.672Z",
-  "lastModifiedDate": "2020-05-14T18:31:02.094Z",
-  "viewableDate": null,
-  "productSlug": "diabotical/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Diabotical",
   "id": "91a881b260bb455d97aeea0d205aa178",
   "namespace": "36336ee97ec543bbae85abaca618182b",
+  "title": "Diabotical",
   "description": "Diabotical",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg"
-    }
-  ],
+  "productSlug": "diabotical/home",
+  "urlSlug": "honeycreepergeneralaudience",
+  "creationDate": "2019-10-04T22:11:22.672Z",
+  "lastModifiedDate": "2020-05-14T18:31:02.094Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-376adequh7aazkj2cky8h6aezvju5h",
     "name": "The GD Studio"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ff813c826fb0410db5d0232172cdd783",
-      "namespace": "36336ee97ec543bbae85abaca618182b",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +77,66 @@
       "value": "diabotical/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg",
+      "md5": "0add3570a716eba869a0a0003a86836e",
+      "size": 379489,
+      "uploadedDate": "2020-02-26T20:05:26.954Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
+      "md5": "4735874e9639619fd8c049cd8ebc72a8",
+      "size": 131312,
+      "uploadedDate": "2020-02-26T20:05:36.925Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
+      "md5": "4735874e9639619fd8c049cd8ebc72a8",
+      "size": 131312,
+      "uploadedDate": "2020-02-26T20:05:36.925Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg",
+      "md5": "0add3570a716eba869a0a0003a86836e",
+      "size": 379489,
+      "uploadedDate": "2020-02-26T20:19:02.396Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S1-2560x1440-0add3570a716eba869a0a0003a86836e.jpg",
+      "md5": "0add3570a716eba869a0a0003a86836e",
+      "size": 379489,
+      "uploadedDate": "2020-02-26T20:19:12.682Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_Diabotical_TheGDStudio_S2-860x1148-4735874e9639619fd8c049cd8ebc72a8.jpg",
+      "md5": "4735874e9639619fd8c049cd8ebc72a8",
+      "size": 131312,
+      "uploadedDate": "2020-02-26T20:19:23.889Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ff813c826fb0410db5d0232172cdd783"
+    }
+  ],
+  "catalogNs": null
 }

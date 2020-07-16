@@ -1,65 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-08T04:00:00.000Z",
-  "creationDate": "2019-03-15T17:20:23.156Z",
-  "lastModifiedDate": "2020-05-14T19:29:53.783Z",
-  "viewableDate": null,
-  "productSlug": "vampire-the-masquerade-bloodlines-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Vampire: The Masquerade – Bloodlines 2",
   "id": "15480de321c946ecb984fe3ccbd32579",
   "namespace": "nemesia",
+  "title": "Vampire: The Masquerade – Bloodlines 2",
   "description": "Vampire: The Masquerade – Bloodlines 2 Standard Edition Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg"
-    }
-  ],
+  "productSlug": "vampire-the-masquerade-bloodlines-2",
+  "urlSlug": "nemesia-standard-edition-pre-purchase",
+  "creationDate": "2019-03-15T17:20:23.156Z",
+  "lastModifiedDate": "2020-05-14T19:29:53.783Z",
+  "effectiveDate": "2019-03-08T04:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a9e8b5b1410e4a4c90a910537c9320ed",
-      "namespace": "nemesia",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "dc2902c1bbde41849e5d64760177d95d",
-      "namespace": "nemesia",
-      "developer": null
+      "path": "games/edition/base"
     },
     {
-      "id": "e461c084de344ee3913f8617eaca61e8",
-      "namespace": "nemesia",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -92,20 +141,72 @@
       "value": "vampire-the-masquerade-bloodlines-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:35:54.283Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
+      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
+      "size": 626626,
+      "uploadedDate": "2020-05-13T18:36:10.503Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:36:23.695Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:36:37.925Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S2-1200x1600-29b9f030725c7871fa0c379c269958a6.jpg",
+      "md5": "29b9f030725c7871fa0c379c269958a6",
+      "size": 299276,
+      "uploadedDate": "2020-05-13T18:36:53.471Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/nemesia/offer/EGS_VampireTheMasqueradeBloodlines2_HardsuitLabs_S1-2560x1440-5ff32c5e44f21a30ecf2bd689f9e12da.jpg",
+      "md5": "5ff32c5e44f21a30ecf2bd689f9e12da",
+      "size": 626626,
+      "uploadedDate": "2020-05-13T18:37:04.938Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a9e8b5b1410e4a4c90a910537c9320ed"
+    },
+    {
+      "id": "dc2902c1bbde41849e5d64760177d95d"
+    },
+    {
+      "id": "e461c084de344ee3913f8617eaca61e8"
+    }
+  ],
+  "catalogNs": null
 }

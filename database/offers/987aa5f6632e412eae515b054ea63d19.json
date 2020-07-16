@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-21T18:17:53.059Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-unity/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Unity",
   "id": "987aa5f6632e412eae515b054ea63d19",
   "namespace": "epic",
+  "title": "Assassin's Creed Unity",
   "description": "Assassin's Creed Unity",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png"
-    }
-  ],
+  "productSlug": "assassins-creed-unity/home",
+  "urlSlug": "assassin-s-creed-unity",
+  "creationDate": "2020-02-21T18:17:53.059Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": "534710b9b01d46b49a8d31ce5ad8ff36",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +112,30 @@
       "value": "assassins-creed-unity/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU_UCS14913_EGST_BannerBundle_US_Store_Landscape_2580x1450-2580x1450-61b9abfe6fdbb0ef4dc52500f86fc1c9.jpg",
+      "md5": "61b9abfe6fdbb0ef4dc52500f86fc1c9",
+      "size": 802525,
+      "uploadedDate": "2020-02-21T18:16:54.279Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ACU Portrait-1280x1420-6c61b3ddd4febe4ab5e9eb24865ee42f.png",
+      "md5": "6c61b3ddd4febe4ab5e9eb24865ee42f",
+      "size": 3098940,
+      "uploadedDate": "2020-02-21T18:17:08.158Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": "534710b9b01d46b49a8d31ce5ad8ff36",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "CN"
-      },
-      {
-        "key": "publisherName",
-        "value": "Ubisoft"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "assassins-creed-unity/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

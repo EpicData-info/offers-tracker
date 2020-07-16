@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-01T14:00:00.000Z",
-  "creationDate": "2020-01-22T20:36:42.898Z",
-  "lastModifiedDate": "2020-06-19T15:22:08.294Z",
-  "viewableDate": "2019-01-30T14:50:00.000Z",
-  "productSlug": "dauntless/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dauntless - 500 Platinum",
   "id": "cab3b03b778a478ea30580dcaf45743b",
   "namespace": "jackal",
+  "title": "Dauntless - 500 Platinum",
   "description": "Dauntless - 500 Platinum",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Platinum500_LandscapeOffer-2560x1440-885f3d858feadd4971516de44cb10a5c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg"
-    }
-  ],
+  "productSlug": "dauntless/home",
+  "urlSlug": "jackal-500-paltinum",
+  "creationDate": "2020-01-22T20:36:42.898Z",
+  "lastModifiedDate": "2020-06-19T15:22:08.294Z",
+  "effectiveDate": "2019-01-01T14:00:00.000Z",
+  "viewableDate": "2019-01-30T14:50:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "81985bf0a9c34718a4cfc38cf687de98",
-      "namespace": "jackal",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "dauntless/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Platinum500_LandscapeOffer-2560x1440-885f3d858feadd4971516de44cb10a5c.png",
+      "md5": "885f3d858feadd4971516de44cb10a5c",
+      "size": 6022627,
+      "uploadedDate": "2020-02-25T19:01:13.111Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg",
+      "md5": "24f5f9089a481a732aacaef03ec5a4b6",
+      "size": 311470,
+      "uploadedDate": "2020-06-19T15:20:54.725Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/consumable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg",
+      "md5": "24f5f9089a481a732aacaef03ec5a4b6",
+      "size": 311470,
+      "uploadedDate": "2020-06-19T15:21:03.410Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jackal/offer/Epic_Dauntless_Platinum500_PortraitOffer-1200x1600-24f5f9089a481a732aacaef03ec5a4b6.jpg",
+      "md5": "24f5f9089a481a732aacaef03ec5a4b6",
+      "size": 311470,
+      "uploadedDate": "2020-06-19T15:21:10.646Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "81985bf0a9c34718a4cfc38cf687de98"
+    }
+  ],
+  "catalogNs": null
 }

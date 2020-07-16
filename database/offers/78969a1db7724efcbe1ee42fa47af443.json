@@ -1,47 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-01T00:00:00.000Z",
-  "creationDate": "2019-07-09T17:33:53.477Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "limbo/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Limbo",
   "id": "78969a1db7724efcbe1ee42fa47af443",
   "namespace": "epic",
+  "title": "Limbo",
   "description": "Limbo",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LIBRARY PROMO_L1-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LOGO_IC1_WHITE-2000x657-85b24057bcfbd6e070644f35e6db12ec.png"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/Limbo_Card4_Nudge_ComingSoon-1080x430-2d453b13c1ebb46b383fff4fbfa90c64.png"
-    }
-  ],
+  "productSlug": "limbo/home",
+  "urlSlug": "limbo",
+  "creationDate": "2019-07-09T17:33:53.477Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-07-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t88sw9ly7ajm3wz7tll53xt3cmypx8",
     "name": "Playdead"
   },
-  "items": [
+  "linkedOfferId": "49bdb24baa564f8c92848abe14112436",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,26 +124,48 @@
       "value": "49bdb24baa564f8c92848abe14112436"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LIBRARY PROMO_L1-2560x1440-6c93379907b03def09fcd60c6677a5d9.jpg",
+      "md5": "6c93379907b03def09fcd60c6677a5d9",
+      "size": 847815,
+      "uploadedDate": "2019-07-09T17:31:12.107Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_STORE PORTRAIT_S3-1280x1440-58450376b5462d7c9779aafa3886df19.jpg",
+      "md5": "58450376b5462d7c9779aafa3886df19",
+      "size": 542650,
+      "uploadedDate": "2019-07-09T17:31:22.696Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PLAYDEAD_LIMBO_LOGO_IC1_WHITE-2000x657-85b24057bcfbd6e070644f35e6db12ec.png",
+      "md5": "85b24057bcfbd6e070644f35e6db12ec",
+      "size": 39129,
+      "uploadedDate": "2019-07-09T17:31:32.293Z",
+      "width": 2000,
+      "height": 657
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/Limbo_Card4_Nudge_ComingSoon-1080x430-2d453b13c1ebb46b383fff4fbfa90c64.png",
+      "md5": "2d453b13c1ebb46b383fff4fbfa90c64",
+      "size": 456318,
+      "uploadedDate": "2019-07-09T22:11:30.016Z",
+      "width": 1080,
+      "height": 430
     }
   ],
-  "linkedOfferId": "49bdb24baa564f8c92848abe14112436",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "developerName",
-        "value": "Playdead"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "limbo/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

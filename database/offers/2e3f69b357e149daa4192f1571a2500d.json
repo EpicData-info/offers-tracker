@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-12T16:00:00.000Z",
-  "creationDate": "2019-06-21T14:01:53.637Z",
-  "lastModifiedDate": "2020-05-13T20:35:41.490Z",
-  "viewableDate": null,
-  "productSlug": "the-escapists/alcatraz",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Alcatraz",
   "id": "2e3f69b357e149daa4192f1571a2500d",
   "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "title": "Alcatraz",
   "description": "Alcatraz",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_MouldyToofStudios_TheEscapistsAlcatraz_G1A_00-1920x1080-39285901699e998dc382bcabd2ca8791cd210c43.jpg"
-    }
-  ],
+  "productSlug": "the-escapists/alcatraz",
+  "urlSlug": "peony-dlc-01",
+  "creationDate": "2019-06-21T14:01:53.637Z",
+  "lastModifiedDate": "2020-05-13T20:35:41.490Z",
+  "effectiveDate": "2019-12-12T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
-    {
-      "id": "7161fff3219f4623953b776526026a9c",
-      "namespace": "61bc780f42f84fe29e6dfee957ab82de",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-escapists/alcatraz"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -56,6 +37,37 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists/alcatraz"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png",
+      "md5": "0806e4a2ff09009a68dd36f55eb9b10a",
+      "size": 278372,
+      "uploadedDate": "2019-12-02T17:17:14.307Z",
+      "width": 1000,
+      "height": 840
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_MouldyToofStudios_TheEscapistsAlcatraz_G1A_00-1920x1080-39285901699e998dc382bcabd2ca8791cd210c43.jpg",
+      "md5": "7b111ccf72ba03c5355c464abf4812f0",
+      "size": 268048,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "7161fff3219f4623953b776526026a9c"
+    }
+  ],
+  "catalogNs": null
 }

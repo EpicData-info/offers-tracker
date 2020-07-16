@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-01T16:00:00.000Z",
-  "creationDate": "2019-12-13T02:51:13.739Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "darksiders/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders Warmastered Edition",
   "id": "d3f4613cb74c4c38b022c36bb26ead88",
   "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
+  "title": "Darksiders Warmastered Edition",
   "description": "Darksiders Warmastered Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/DS1_Horizontal-2560x1440-f66774d1e72fe2c34bcc01311d5f654e.jpg"
-    }
-  ],
+  "productSlug": "darksiders/home",
+  "urlSlug": "hakegeneralaudience",
+  "creationDate": "2019-12-13T02:51:13.739Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "55f94d75dec54c919e2b4461519637bf",
-      "namespace": "2bc23fc2438c47ec8acb0641980f50c1",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "darksiders/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg",
+      "md5": "d00d7d72944358be970a6d9e8c8f1776",
+      "size": 818158,
+      "uploadedDate": "2019-12-19T20:03:07.714Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg",
+      "md5": "ae09bb4142d0725a27f21b3199b82cb2",
+      "size": 351127,
+      "uploadedDate": "2019-12-19T20:03:16.879Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg",
+      "md5": "ae09bb4142d0725a27f21b3199b82cb2",
+      "size": 351127,
+      "uploadedDate": "2019-12-19T20:03:16.879Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Landscape-2560x1440-d00d7d72944358be970a6d9e8c8f1776.jpg",
+      "md5": "d00d7d72944358be970a6d9e8c8f1776",
+      "size": 818158,
+      "uploadedDate": "2019-12-19T20:14:42.069Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/Storefront_Portrait-860x1148-ae09bb4142d0725a27f21b3199b82cb2.jpg",
+      "md5": "ae09bb4142d0725a27f21b3199b82cb2",
+      "size": 351127,
+      "uploadedDate": "2019-12-19T20:14:49.635Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2bc23fc2438c47ec8acb0641980f50c1/offer/DS1_Horizontal-2560x1440-f66774d1e72fe2c34bcc01311d5f654e.jpg",
+      "md5": "f66774d1e72fe2c34bcc01311d5f654e",
+      "size": 2416923,
+      "uploadedDate": "2020-02-28T13:49:33.993Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "55f94d75dec54c919e2b4461519637bf"
+    }
+  ],
+  "catalogNs": null
 }

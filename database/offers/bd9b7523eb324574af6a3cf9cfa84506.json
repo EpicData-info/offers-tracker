@@ -1,38 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2017-03-28T15:09:00.000Z",
-  "creationDate": "2017-03-28T19:10:57.871Z",
-  "lastModifiedDate": "2020-04-28T20:04:38.335Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Small Pack",
   "id": "bd9b7523eb324574af6a3cf9cfa84506",
   "namespace": "ocn",
+  "title": "Small Pack",
   "description": "Small Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "small-pack",
+  "creationDate": "2017-03-28T19:10:57.871Z",
+  "lastModifiedDate": "2020-04-28T20:04:38.335Z",
+  "effectiveDate": "2017-03-28T15:09:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "2300dc0a5ec94819acda92e3549fb140",
-      "namespace": "ocn",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "mtx-packages"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2300dc0a5ec94819acda92e3549fb140"
+    }
+  ],
+  "catalogNs": null
 }

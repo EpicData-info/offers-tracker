@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T11:00:00.000Z",
-  "creationDate": "2020-05-27T15:14:50.750Z",
-  "lastModifiedDate": "2020-06-16T16:47:09.814Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DevCarmeAudience",
   "id": "f4f1827f8d574ca583ed2b50b1bbfbf2",
   "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "title": "DevCarmeAudience",
   "description": "DevCarmeAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "carmegeneralaudience-01",
+  "creationDate": "2020-05-27T15:14:50.750Z",
+  "lastModifiedDate": "2020-06-16T16:47:09.814Z",
+  "effectiveDate": "2099-01-01T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
-    {
-      "id": "2926e026e646460f9a90bcbed4e4ae1a",
-      "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2926e026e646460f9a90bcbed4e4ae1a"
+    }
+  ],
+  "catalogNs": null
 }

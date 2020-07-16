@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-05T15:00:00.000Z",
-  "creationDate": "2019-11-06T01:40:53.749Z",
-  "lastModifiedDate": "2019-11-06T15:13:31.815Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Starter Bundle Audience",
   "id": "7bf8a2a764d94e0ea624f3f148b8d003",
   "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+  "title": "Starter Bundle Audience",
   "description": "Starter Bundle Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "starter-bundle-audience",
+  "creationDate": "2019-11-06T01:40:53.749Z",
+  "lastModifiedDate": "2019-11-06T15:13:31.815Z",
+  "effectiveDate": "2050-08-05T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
     "name": "Wizards of the Coast"
   },
-  "items": [
-    {
-      "id": "6fadde5094b54b3d950391cdd1ec246a",
-      "namespace": "5fdcc0dc67294af3be740f362bd976fd",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6fadde5094b54b3d950391cdd1ec246a"
+    }
+  ],
+  "catalogNs": null
 }

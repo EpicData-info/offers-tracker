@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-14T00:00:00.000Z",
-  "creationDate": "2019-06-03T15:04:21.511Z",
-  "lastModifiedDate": "2020-04-23T18:33:34.230Z",
-  "viewableDate": null,
-  "productSlug": "watch-dogs-legion",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Watch Dogs: Legion",
   "id": "972849b01e744bddb496223c8ac5c7b7",
   "namespace": "0a84818055e740a7be21a2e5b6162703",
+  "title": "Watch Dogs: Legion",
   "description": "Watch Dogs: Legion Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-d3c8cb7bd3bf9de59d241c0aa401a966.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg"
-    }
-  ],
+  "productSlug": "watch-dogs-legion",
+  "urlSlug": "hawkgeneralaudience",
+  "creationDate": "2019-06-03T15:04:21.511Z",
+  "lastModifiedDate": "2020-04-23T18:33:34.230Z",
+  "effectiveDate": "2019-06-14T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d77e53f7886a4c618b9fa6582112330b",
-      "namespace": "0a84818055e740a7be21a2e5b6162703",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +133,75 @@
       "value": "watch-dogs-legion"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-d3c8cb7bd3bf9de59d241c0aa401a966.png",
+      "md5": "d3c8cb7bd3bf9de59d241c0aa401a966",
+      "size": 47585,
+      "uploadedDate": "2019-06-05T07:27:56.856Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg",
+      "md5": "c654679532891893b8f19edbe1b0ce71",
+      "size": 406037,
+      "uploadedDate": "2019-06-05T07:27:40.521Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg",
+      "md5": "821e3088c8b7e482562010c415df7d4b",
+      "size": 233068,
+      "uploadedDate": "2019-06-05T07:27:49.257Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg",
+      "md5": "821e3088c8b7e482562010c415df7d4b",
+      "size": 233068,
+      "uploadedDate": "2019-06-05T07:27:49.257Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg",
+      "md5": "c654679532891893b8f19edbe1b0ce71",
+      "size": 406037,
+      "uploadedDate": "2019-06-09T23:16:12.247Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/WDL_Store_Portrait_Promo_1280x1420-1280x1420-821e3088c8b7e482562010c415df7d4b.jpg",
+      "md5": "821e3088c8b7e482562010c415df7d4b",
+      "size": 233068,
+      "uploadedDate": "2019-06-09T23:16:20.473Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0a84818055e740a7be21a2e5b6162703/offer/Store_Primary_Promo_2580x1450-2580x1450-c654679532891893b8f19edbe1b0ce71-2580x1450-c654679532891893b8f19edbe1b0ce71.jpg",
+      "md5": "c654679532891893b8f19edbe1b0ce71",
+      "size": 406037,
+      "uploadedDate": "2020-02-27T19:51:58.893Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d77e53f7886a4c618b9fa6582112330b"
+    }
+  ],
+  "catalogNs": null
 }

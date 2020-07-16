@@ -1,38 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-01-22T13:25:00.000Z",
-  "creationDate": "2018-01-22T18:25:30.138Z",
-  "lastModifiedDate": "2018-10-24T22:19:52.610Z",
-  "viewableDate": "2018-01-22T13:25:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "PC - 2500 V-Bucks",
   "id": "464d24cd25cd4b3396968332e4193d11",
   "namespace": "fn",
+  "title": "PC - 2500 V-Bucks",
   "description": "PC - 2500 V-Bucks",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "2-500-v-bucks-comp",
+  "creationDate": "2018-01-22T18:25:30.138Z",
+  "lastModifiedDate": "2018-10-24T22:19:52.610Z",
+  "effectiveDate": "2018-01-22T13:25:00.000Z",
+  "viewableDate": "2018-01-22T13:25:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "0caaf57e7b9d4998a9dde300f6eb5feb",
-      "namespace": "fn",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "points"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "0caaf57e7b9d4998a9dde300f6eb5feb"
+    }
+  ],
+  "catalogNs": null
 }

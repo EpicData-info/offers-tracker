@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-18T20:00:00.000Z",
-  "creationDate": "2019-06-19T02:33:53.473Z",
-  "lastModifiedDate": "2020-06-11T16:55:23.651Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dauntless Community Audience",
   "id": "a0b9dd03204249b1838db5c89a907c27",
   "namespace": "jackal",
+  "title": "Dauntless Community Audience",
   "description": "Dauntless Community Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Dauntless_Thumbnail-2580x1450-a1d81de8db5a70acf070ee0bc0fb7eab.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Dauntless-340x440-8c173f7f695d8f78c3e4f4a798d48d82.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "dauntless-community",
+  "creationDate": "2019-06-19T02:33:53.473Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.651Z",
+  "effectiveDate": "2019-06-18T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "49ba818c1cca4deba5ca090d0cce36b7",
-      "namespace": "jackal",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "Phoenix Labs"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Dauntless_Thumbnail-2580x1450-a1d81de8db5a70acf070ee0bc0fb7eab.png",
+      "md5": "a1d81de8db5a70acf070ee0bc0fb7eab",
+      "size": 1133654,
+      "uploadedDate": "2019-06-19T02:32:55.748Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Dauntless-340x440-8c173f7f695d8f78c3e4f4a798d48d82.png",
+      "md5": "8c173f7f695d8f78c3e4f4a798d48d82",
+      "size": 214147,
+      "uploadedDate": "2019-06-19T02:33:05.395Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "49ba818c1cca4deba5ca090d0cce36b7"
+    }
+  ],
+  "catalogNs": null
 }

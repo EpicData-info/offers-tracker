@@ -1,39 +1,57 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "creationDate": "2020-03-05T22:19:34.270Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "state-of-decay-2-juggernaut-edition/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "State of Decay 2: Juggernaut Edition",
   "id": "4a58f83624244f238f662952ba0b0d83",
   "namespace": "epic",
+  "title": "State of Decay 2: Juggernaut Edition",
   "description": "State of Decay 2: Juggernaut Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg"
-    }
-  ],
+  "productSlug": "state-of-decay-2-juggernaut-edition/home",
+  "urlSlug": "state-of-decay",
+  "creationDate": "2020-03-05T22:19:34.270Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-f3qq8ygts6pglxx529jhgx5bmyj6bf",
     "name": "Microsoft"
   },
-  "items": [
+  "linkedOfferId": "73fbe4d673504c2a80261cf6bfcff20f",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +76,30 @@
       "value": "73fbe4d673504c2a80261cf6bfcff20f"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S1-2560x1440-a511367776edbdaf619fc594bf173fc9.jpg",
+      "md5": "a511367776edbdaf619fc594bf173fc9",
+      "size": 409640,
+      "uploadedDate": "2020-03-05T22:19:15.188Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_StateofDecay2JuggernautEdition_UndeadLabs_S2-860x1148-13ba1a38ea2f8c924cb636059bc28aec.jpg",
+      "md5": "13ba1a38ea2f8c924cb636059bc28aec",
+      "size": 475611,
+      "uploadedDate": "2020-03-05T22:19:26.265Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "73fbe4d673504c2a80261cf6bfcff20f",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Microsoft"
-      },
-      {
-        "key": "developerName",
-        "value": "Undead Labs"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "state-of-decay-2-juggernaut-edition/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,50 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-22T11:22:00.000Z",
-  "creationDate": "2019-05-28T15:24:59.213Z",
-  "lastModifiedDate": "2020-05-12T19:07:45.314Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Journey PrePurchase",
   "id": "48fd5f98798d4fbba5ea12b7a81eeca9",
   "namespace": "lemur",
+  "title": "Journey PrePurchase",
   "description": "Journey PrePurchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/lemur/item/Journey-842x404-d904ae38991eabe3f91a160feb7e147a.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_PortraitPromo-1288x1450-aeee9706c30f1779c08b88cafda3c0ec.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "journey-prepurchase",
+  "creationDate": "2019-05-28T15:24:59.213Z",
+  "lastModifiedDate": "2020-05-12T19:07:45.314Z",
+  "effectiveDate": "2019-05-22T11:22:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "cab94ef6d05c4641916346969ccd2b28",
-      "namespace": "lemur",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "6a2dcf66cefd4e1482a51067cb0667b0",
-      "namespace": "lemur",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,17 +49,42 @@
       "value": "Annapurna Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/lemur/item/Journey-842x404-d904ae38991eabe3f91a160feb7e147a.png",
+      "md5": "d904ae38991eabe3f91a160feb7e147a",
+      "size": 51113,
+      "uploadedDate": "2019-04-23T21:18:25.588Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_PortraitPromo-1288x1450-aeee9706c30f1779c08b88cafda3c0ec.png",
+      "md5": "aeee9706c30f1779c08b88cafda3c0ec",
+      "size": 456894,
+      "uploadedDate": "2019-05-28T15:23:47.495Z",
+      "width": 1288,
+      "height": 1450
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Journey_CodeRedemption-330x440-0347f691acfea0a60655a94dc8065a92.png",
+      "md5": "0347f691acfea0a60655a94dc8065a92",
+      "size": 39956,
+      "uploadedDate": "2019-05-28T15:24:02.056Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "cab94ef6d05c4641916346969ccd2b28"
+    },
+    {
+      "id": "6a2dcf66cefd4e1482a51067cb0667b0"
+    }
+  ],
+  "catalogNs": null
 }

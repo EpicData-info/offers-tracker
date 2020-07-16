@@ -1,46 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2019-10-22T01:14:05.374Z",
-  "lastModifiedDate": "2020-07-02T14:27:03.491Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dungeons and Duct Tape",
   "id": "fb2fe4de14834d6e8c390b952692ff15",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "title": "Dungeons and Duct Tape",
   "description": "Dungeons and Duct Tape",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S1-2560x1440-36672467138ba84f6f67b9aed608c76a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S2-1200x1600-bb7871c3adaff092eb1a1edae0c9dbca.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S2-1200x1600-bb7871c3adaff092eb1a1edae0c9dbca.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "dungeons-and-duct-tape",
+  "creationDate": "2019-10-22T01:14:05.374Z",
+  "lastModifiedDate": "2020-07-02T14:27:03.491Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
-    {
-      "id": "89867f8b0e79421698e4705a72a48b49",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -52,6 +34,41 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S1-2560x1440-36672467138ba84f6f67b9aed608c76a.jpg",
+      "md5": "36672467138ba84f6f67b9aed608c76a",
+      "size": 852320,
+      "uploadedDate": "2020-06-11T06:37:11.140Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S2-1200x1600-bb7871c3adaff092eb1a1edae0c9dbca.jpg",
+      "md5": "bb7871c3adaff092eb1a1edae0c9dbca",
+      "size": 792405,
+      "uploadedDate": "2020-06-11T06:37:30.399Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/EGS_TheEscapists2DungeonsandDuctTape_Team17DigitalLtd_DLC_S2-1200x1600-bb7871c3adaff092eb1a1edae0c9dbca.jpg",
+      "md5": "bb7871c3adaff092eb1a1edae0c9dbca",
+      "size": 792405,
+      "uploadedDate": "2020-06-11T06:37:43.209Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "89867f8b0e79421698e4705a72a48b49"
+    }
+  ],
+  "catalogNs": null
 }

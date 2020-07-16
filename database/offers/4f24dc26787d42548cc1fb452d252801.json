@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-05T14:00:00.000Z",
-  "creationDate": "2019-02-26T16:06:54.063Z",
-  "lastModifiedDate": "2020-06-19T17:09:58.603Z",
-  "viewableDate": null,
-  "productSlug": "satisfactory",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Satisfactory",
   "id": "4f24dc26787d42548cc1fb452d252801",
   "namespace": "crab",
+  "title": "Satisfactory",
   "description": "Satisfactory",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/crab/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg"
-    }
-  ],
+  "productSlug": "satisfactory",
+  "urlSlug": "satisfactoryearlyaccess",
+  "creationDate": "2019-02-26T16:06:54.063Z",
+  "lastModifiedDate": "2020-06-19T17:09:58.603Z",
+  "effectiveDate": "2019-03-05T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-9r9hp69ccnr39qp9f9mgpsznznu4as",
     "name": "Coffee Stain Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "484f450430e34071b52833ac63e670d2",
-      "namespace": "crab",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "satisfactory"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png",
+      "md5": "76293790eea7cac48894e08d72ae6ee5",
+      "size": 2878396,
+      "uploadedDate": "2020-03-07T02:29:59.907Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
+      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
+      "size": 390962,
+      "uploadedDate": "2020-03-07T02:34:03.116Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
+      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
+      "size": 390962,
+      "uploadedDate": "2020-03-07T02:34:03.116Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png",
+      "md5": "76293790eea7cac48894e08d72ae6ee5",
+      "size": 2878396,
+      "uploadedDate": "2020-03-12T13:46:56.300Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/crab/offer/1920x1080_blog_post_logo-1920x1080-76293790eea7cac48894e08d72ae6ee5.png",
+      "md5": "76293790eea7cac48894e08d72ae6ee5",
+      "size": 2878396,
+      "uploadedDate": "2020-03-12T13:47:08.655Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/crab/offer/portrait_image_SF3-860x1148-2efdc29df66376ec40c7b5020bf3e3ce.jpg",
+      "md5": "2efdc29df66376ec40c7b5020bf3e3ce",
+      "size": 390962,
+      "uploadedDate": "2020-03-12T13:47:33.361Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "484f450430e34071b52833ac63e670d2"
+    }
+  ],
+  "catalogNs": null
 }

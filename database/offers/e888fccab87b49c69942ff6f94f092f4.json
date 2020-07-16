@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-05-02T19:22:08.068Z",
-  "lastModifiedDate": "2019-09-27T23:33:04.088Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "geumDevAudience",
   "id": "e888fccab87b49c69942ff6f94f092f4",
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "title": "geumDevAudience",
   "description": "geumDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "geumdevaudience",
+  "creationDate": "2019-05-02T19:22:08.068Z",
+  "lastModifiedDate": "2019-09-27T23:33:04.088Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4f78a7536fb44e64bc42cb385c388ce0",
-      "namespace": "a9dad8af015a422eb89a5f88e6def923",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,14 +46,30 @@
       "value": "Giant Squid"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png",
+      "md5": "7c0edbb4e61b0be2e2b4a969c5ac8d14",
+      "size": 234599,
+      "uploadedDate": "2019-05-17T21:37:33.166Z",
+      "width": 1080,
+      "height": 607
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png",
+      "md5": "7c0edbb4e61b0be2e2b4a969c5ac8d14",
+      "size": 234599,
+      "uploadedDate": "2019-05-17T21:37:42.996Z",
+      "width": 1080,
+      "height": 607
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4f78a7536fb44e64bc42cb385c388ce0"
+    }
+  ],
+  "catalogNs": null
 }

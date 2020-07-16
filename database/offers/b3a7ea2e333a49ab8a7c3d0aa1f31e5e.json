@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-15T18:30:00.000Z",
-  "creationDate": "2019-01-04T19:48:37.020Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": "2019-01-15T18:30:00.000Z",
-  "productSlug": "my-time-at-portia/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "My Time at Portia",
   "id": "b3a7ea2e333a49ab8a7c3d0aa1f31e5e",
   "namespace": "cobra",
+  "title": "My Time at Portia",
   "description": "My Time at Portia",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg"
-    }
-  ],
+  "productSlug": "my-time-at-portia/home",
+  "urlSlug": "cobrageneralaudience",
+  "creationDate": "2019-01-04T19:48:37.020Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-01-15T18:30:00.000Z",
+  "viewableDate": "2019-01-15T18:30:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b1162ac1867b41f2b043510a67c6b2b7",
-      "namespace": "cobra",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +129,66 @@
       "value": "my-time-at-portia/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg",
+      "md5": "1912d331acdbcbaf7055eaf7798dd709",
+      "size": 495500,
+      "uploadedDate": "2020-04-10T20:31:39.560Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg",
+      "md5": "1daa364c9b5754cc98ef9f1cc5d02ae5",
+      "size": 510738,
+      "uploadedDate": "2020-04-10T20:31:51.950Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg",
+      "md5": "1912d331acdbcbaf7055eaf7798dd709",
+      "size": 495500,
+      "uploadedDate": "2020-04-10T20:32:04.413Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg",
+      "md5": "1912d331acdbcbaf7055eaf7798dd709",
+      "size": 495500,
+      "uploadedDate": "2020-04-10T20:32:15.101Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Portrait Offer Image-860x1148-1912d331acdbcbaf7055eaf7798dd709.jpg",
+      "md5": "1912d331acdbcbaf7055eaf7798dd709",
+      "size": 495500,
+      "uploadedDate": "2020-04-10T20:32:27.628Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cobra/offer/My Time at Portia - Landscape Offer Image-2560x1440-1daa364c9b5754cc98ef9f1cc5d02ae5.jpg",
+      "md5": "1daa364c9b5754cc98ef9f1cc5d02ae5",
+      "size": 510738,
+      "uploadedDate": "2020-04-10T20:32:47.611Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b1162ac1867b41f2b043510a67c6b2b7"
+    }
+  ],
+  "catalogNs": null
 }

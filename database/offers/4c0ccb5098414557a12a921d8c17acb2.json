@@ -1,55 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-31T15:00:00.000Z",
-  "creationDate": "2019-10-01T23:32:54.379Z",
-  "lastModifiedDate": "2020-06-02T22:17:09.550Z",
-  "viewableDate": null,
-  "productSlug": "soma/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SOMA",
   "id": "4c0ccb5098414557a12a921d8c17acb2",
   "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
+  "title": "SOMA",
   "description": "SOMA",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg"
-    }
-  ],
+  "productSlug": "soma/home",
+  "urlSlug": "emugeneralaudience",
+  "creationDate": "2019-10-01T23:32:54.379Z",
+  "lastModifiedDate": "2020-06-02T22:17:09.550Z",
+  "effectiveDate": "2019-10-31T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
     "name": "Frictional Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fdf06e7fedfd4644ba70aa09f8b61a63",
-      "namespace": "8a6a94901c8248fca1f5c78931c85cbd",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +140,66 @@
       "value": "soma/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg",
+      "md5": "e92be1297f6234f9171ae88de27b92f0",
+      "size": 306190,
+      "uploadedDate": "2019-10-22T18:44:00.717Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
+      "md5": "f87e5302e425c7fb4aec8cd79953c779",
+      "size": 125843,
+      "uploadedDate": "2019-10-22T18:44:13.029Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
+      "md5": "f87e5302e425c7fb4aec8cd79953c779",
+      "size": 125843,
+      "uploadedDate": "2019-10-22T18:44:13.029Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
+      "md5": "f87e5302e425c7fb4aec8cd79953c779",
+      "size": 125843,
+      "uploadedDate": "2019-10-22T19:10:23.659Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8a6a94901c8248fca1f5c78931c85cbd/offer/SOMA_portrait-1280x1440-f87e5302e425c7fb4aec8cd79953c779.jpg",
+      "md5": "f87e5302e425c7fb4aec8cd79953c779",
+      "size": 125843,
+      "uploadedDate": "2019-10-22T19:10:35.583Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SOMA_promo-2560x1440-e92be1297f6234f9171ae88de27b92f0.jpg",
+      "md5": "e92be1297f6234f9171ae88de27b92f0",
+      "size": 306190,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fdf06e7fedfd4644ba70aa09f8b61a63"
+    }
+  ],
+  "catalogNs": null
 }

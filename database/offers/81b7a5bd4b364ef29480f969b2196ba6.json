@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-29T12:41:00.000Z",
-  "creationDate": "2019-01-29T17:42:17.812Z",
-  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "LavenderDevAudience",
   "id": "81b7a5bd4b364ef29480f969b2196ba6",
   "namespace": "lavender",
+  "title": "LavenderDevAudience",
   "description": "LavenderDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "lavenderdevaudience",
+  "creationDate": "2019-01-29T17:42:17.812Z",
+  "lastModifiedDate": "2020-04-29T00:46:34.903Z",
+  "effectiveDate": "2099-01-29T12:41:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
-    {
-      "id": "0d77417fa9e84b9687176807c45da7e0",
-      "namespace": "lavender",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -45,6 +31,32 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_GameIcon-400x400-362c6839bb4a4c9c28afb2ea260f78cb.png",
+      "md5": "362c6839bb4a4c9c28afb2ea260f78cb",
+      "size": 273087,
+      "uploadedDate": "2019-03-20T12:55:03.046Z",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lavender/offer/Beyond_CodeRedemption-340x440-73f2454b4ae736f840f253d9d0c46888.jpg",
+      "md5": "73f2454b4ae736f840f253d9d0c46888",
+      "size": 60477,
+      "uploadedDate": "2019-03-20T12:55:12.712Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "0d77417fa9e84b9687176807c45da7e0"
+    }
+  ],
+  "catalogNs": null
 }

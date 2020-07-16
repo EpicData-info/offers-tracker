@@ -1,39 +1,45 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-10-31T19:48:00.000Z",
-  "creationDate": "2018-10-31T23:49:05.353Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-10-31T19:48:00.000Z",
-  "productSlug": "bus-sim-18",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Bus Simulator 18",
   "id": "e8b82970f42b47bbad08ede2085ceb15",
   "namespace": "epic",
+  "title": "Bus Simulator 18",
   "description": "Bus Simulator 18",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/epic/offer/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/BS18-Logo-1024x238-1024x238-0082997836f31ac62dfe6b12e2ac745b.png"
-    }
-  ],
+  "productSlug": "bus-sim-18",
+  "urlSlug": "bus-simulator",
+  "creationDate": "2018-10-31T23:49:05.353Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-10-31T19:48:00.000Z",
+  "viewableDate": "2018-10-31T19:48:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-pea9feqeb7vt7jjdpyt7m44xnajcqz",
     "name": "Astragon Entertainment GmbH"
   },
-  "items": [
+  "linkedOfferId": "b1b8c163a7f5444daf19260d2792ccdc",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "engines"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -50,18 +56,30 @@
       "value": "b1b8c163a7f5444daf19260d2792ccdc"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/epic/offer/bus1-600x337-56fe6e5166822eade97660bc59c5efce.png",
+      "md5": "56fe6e5166822eade97660bc59c5efce",
+      "size": 341128,
+      "uploadedDate": "2018-11-04T19:29:04.669Z",
+      "width": 600,
+      "height": 337
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/BS18-Logo-1024x238-1024x238-0082997836f31ac62dfe6b12e2ac745b.png",
+      "md5": "0082997836f31ac62dfe6b12e2ac745b",
+      "size": 11399,
+      "uploadedDate": "2018-12-05T20:24:31.042Z",
+      "width": 1024,
+      "height": 238
     }
   ],
-  "linkedOfferId": "b1b8c163a7f5444daf19260d2792ccdc",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "bus-sim-18"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

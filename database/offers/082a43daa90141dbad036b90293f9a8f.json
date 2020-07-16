@@ -1,72 +1,75 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-01T10:00:00.000Z",
-  "creationDate": "2019-08-21T21:58:48.637Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "wrc-8/deluxe-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "WRC 8 Deluxe Edition FIA World Rally Championship",
   "id": "082a43daa90141dbad036b90293f9a8f",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "title": "WRC 8 Deluxe Edition FIA World Rally Championship",
   "description": "WRC 8 Deluxe Edition FIA World Rally Championship",
   "longDescription": "Live after Sept. 16th",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Deluxe_G1_PDPPromoImage-1920x1080-4dc489c050ac12248a19dd5d1a1ceda277782bdb.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    }
-  ],
+  "productSlug": "wrc-8/deluxe-edition",
+  "urlSlug": "digital-deluxe-edition",
+  "creationDate": "2019-08-21T21:58:48.637Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-08-01T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d3d9c868997a46a7991f315b46829d27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "94de2397bf644f75827591858fdc6d26",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "799937cf94e0432e83f322c07be65fea",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     },
     {
-      "id": "abbbc39fbfef4a01a07117629e729da6",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     },
     {
-      "id": "d416a8c6968f48e299a8f34ef8683c27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "5e6922d2df5a46c5a3ecedf5e0cffcfe",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -87,17 +90,63 @@
       "value": "wrc-8/deluxe-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2019-08-30T21:03:03.973Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Deluxe_G1_PDPPromoImage-1920x1080-4dc489c050ac12248a19dd5d1a1ceda277782bdb.png",
+      "md5": "228a88ac036d92df9b3bd4491d7c4b87",
+      "size": 191786,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2020-04-20T18:58:23.943Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2020-04-20T18:58:37.580Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d3d9c868997a46a7991f315b46829d27"
+    },
+    {
+      "id": "94de2397bf644f75827591858fdc6d26"
+    },
+    {
+      "id": "799937cf94e0432e83f322c07be65fea"
+    },
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6"
+    },
+    {
+      "id": "d416a8c6968f48e299a8f34ef8683c27"
+    },
+    {
+      "id": "5e6922d2df5a46c5a3ecedf5e0cffcfe"
+    }
+  ],
+  "catalogNs": null
 }

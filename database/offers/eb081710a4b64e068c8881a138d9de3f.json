@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-02T21:14:38.948Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "surviving-the-aftermath/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Surviving the Aftermath",
   "id": "eb081710a4b64e068c8881a138d9de3f",
   "namespace": "epic",
+  "title": "Surviving the Aftermath",
   "description": "Surviving the Aftermath",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic-STA-Update_6-Video-Cover-1920x1080-f394229fb48460383fb616e7e677e3ba.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic-STA-Update_6-510x680-b75fce49e8235bfd994bc96aeceffa4f.jpg"
-    }
-  ],
+  "productSlug": "surviving-the-aftermath/home",
+  "urlSlug": "surviving-the-aftermath",
+  "creationDate": "2019-10-02T21:14:38.948Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
+  "linkedOfferId": "5d86405789a840328b241fd9c48c5467",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +112,30 @@
       "value": "5d86405789a840328b241fd9c48c5467"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic-STA-Update_6-Video-Cover-1920x1080-f394229fb48460383fb616e7e677e3ba.jpg",
+      "md5": "f394229fb48460383fb616e7e677e3ba",
+      "size": 517262,
+      "uploadedDate": "2020-04-06T18:42:50.929Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic-STA-Update_6-510x680-b75fce49e8235bfd994bc96aeceffa4f.jpg",
+      "md5": "b75fce49e8235bfd994bc96aeceffa4f",
+      "size": 367062,
+      "uploadedDate": "2020-04-06T18:43:18.895Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": "5d86405789a840328b241fd9c48c5467",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Paradox Interactive AB"
-      },
-      {
-        "key": "developerName",
-        "value": "Iceflake Studios Oy"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "surviving-the-aftermath/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

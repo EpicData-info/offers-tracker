@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-12-06T17:00:00.000Z",
-  "creationDate": "2019-12-06T22:13:47.446Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "the-red-lantern/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Red Lantern",
   "id": "8f237c17ea5941aba9692a544db845c1",
   "namespace": "epic",
+  "title": "The Red Lantern",
   "description": "The Red Lantern",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TimberlineStudio_TheRedLantern_S1-2560x1440-f54ed083223fd1a9289f0889b922b5c3.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TimberlineStudio_TheRedLantern_S2-1280x1440-541b9a9e28641501b72b3470b0dd390d.jpg"
-    }
-  ],
+  "productSlug": "the-red-lantern/home",
+  "urlSlug": "the-red-lantern",
+  "creationDate": "2019-12-06T22:13:47.446Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-12-06T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-9hfpv6v4j5mvae84ncty7beea4agbn",
     "name": "Timberline Studio"
   },
-  "items": [
+  "linkedOfferId": "8a1b0c496c5440cfa71ba276c75a8aa4",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +112,30 @@
       "value": "8a1b0c496c5440cfa71ba276c75a8aa4"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TimberlineStudio_TheRedLantern_S1-2560x1440-f54ed083223fd1a9289f0889b922b5c3.jpg",
+      "md5": "f54ed083223fd1a9289f0889b922b5c3",
+      "size": 452334,
+      "uploadedDate": "2019-12-06T22:11:13.480Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TimberlineStudio_TheRedLantern_S2-1280x1440-541b9a9e28641501b72b3470b0dd390d.jpg",
+      "md5": "541b9a9e28641501b72b3470b0dd390d",
+      "size": 404953,
+      "uploadedDate": "2019-12-06T22:11:28.115Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "8a1b0c496c5440cfa71ba276c75a8aa4",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Timberline Studio"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-red-lantern/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

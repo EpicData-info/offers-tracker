@@ -1,39 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-28T16:00:00.000Z",
-  "creationDate": "2019-12-20T02:13:22.910Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "shadow-tactics/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shadow Tactics",
   "id": "6711c1797f8a44c3a4307be7e7d52592",
   "namespace": "epic",
+  "title": "Shadow Tactics",
   "description": "Shadow Tactics",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg"
-    }
-  ],
+  "productSlug": "shadow-tactics/home",
+  "urlSlug": "shadow-tactics",
+  "creationDate": "2019-12-20T02:13:22.910Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-12-28T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-d2ygr9bjcjfebgt8842wvvbmswympz",
     "name": "Daedalic Entertainment"
   },
-  "items": [
+  "linkedOfferId": "aec117239abd49a08eddc9e75a981fa3",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +100,30 @@
       "value": "aec117239abd49a08eddc9e75a981fa3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S3-1360x766-216c2e04b177c6b7252f1f535edef030.jpg",
+      "md5": "216c2e04b177c6b7252f1f535edef030",
+      "size": 492918,
+      "uploadedDate": "2019-12-20T02:04:05.070Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_MimimiGames_ShadowTacticsBladesoftheShogun_S4-510x680-f62935abb1b2bd42b2f19f9385da7fe7.jpg",
+      "md5": "f62935abb1b2bd42b2f19f9385da7fe7",
+      "size": 233870,
+      "uploadedDate": "2019-12-20T02:04:16.207Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": "aec117239abd49a08eddc9e75a981fa3",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Daedalic Entertainment"
-      },
-      {
-        "key": "developerName",
-        "value": "Mimimi Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "shadow-tactics/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

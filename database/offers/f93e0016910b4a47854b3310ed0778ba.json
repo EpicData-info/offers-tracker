@@ -1,47 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-11T15:00:00.000Z",
-  "creationDate": "2020-06-01T16:15:35.767Z",
-  "lastModifiedDate": "2020-06-11T15:12:11.147Z",
-  "viewableDate": null,
-  "productSlug": "ark/ragnarok",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "ARK Ragnarok",
   "id": "f93e0016910b4a47854b3310ed0778ba",
   "namespace": "ark",
+  "title": "ARK Ragnarok",
   "description": "ARK Ragnarok",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-57a08b3edd6d54d179427a7e7af8d7fd.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg"
-    }
-  ],
+  "productSlug": "ark/ragnarok",
+  "urlSlug": "ark-ragnarok",
+  "creationDate": "2020-06-01T16:15:35.767Z",
+  "lastModifiedDate": "2020-06-11T15:12:11.147Z",
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
     "name": "Studio Wildcard"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b4a9385a08914abea753a3545c1a9773",
-      "namespace": "ark",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +113,48 @@
       "value": "ark/ragnarok"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S1-2560x1440-57a08b3edd6d54d179427a7e7af8d7fd.jpg",
+      "md5": "57a08b3edd6d54d179427a7e7af8d7fd",
+      "size": 745003,
+      "uploadedDate": "2020-06-01T16:15:06.821Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+      "md5": "cebef6fbf975e9be62a11bdf52a77672",
+      "size": 441308,
+      "uploadedDate": "2020-06-01T16:15:14.076Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+      "md5": "cebef6fbf975e9be62a11bdf52a77672",
+      "size": 441308,
+      "uploadedDate": "2020-06-01T16:15:23.950Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ark/offer/EGS_RagnarokARKExpansionMap_StudioWildcard_DLC_S2-1200x1600-cebef6fbf975e9be62a11bdf52a77672.jpg",
+      "md5": "cebef6fbf975e9be62a11bdf52a77672",
+      "size": 441308,
+      "uploadedDate": "2020-06-01T16:15:31.376Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b4a9385a08914abea753a3545c1a9773"
+    }
+  ],
+  "catalogNs": null
 }

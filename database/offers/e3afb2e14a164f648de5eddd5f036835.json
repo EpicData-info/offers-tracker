@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-15T16:16:20.585Z",
-  "lastModifiedDate": "2019-11-12T14:57:08.070Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "WigeonDevAudience",
   "id": "e3afb2e14a164f648de5eddd5f036835",
   "namespace": "6cec00f8934146508b884b0f139d55d0",
+  "title": "WigeonDevAudience",
   "description": "WigeonDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "widgeondevaudience",
+  "creationDate": "2019-08-15T16:16:20.585Z",
+  "lastModifiedDate": "2019-11-12T14:57:08.070Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
     "name": "Pillow Castle"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "57f3ee8690264008901c8d4938521d93",
-      "namespace": "6cec00f8934146508b884b0f139d55d0",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Pillow Castle"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "57f3ee8690264008901c8d4938521d93"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

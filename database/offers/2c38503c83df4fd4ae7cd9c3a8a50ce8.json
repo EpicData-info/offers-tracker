@@ -1,51 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-30T15:00:00.000Z",
-  "creationDate": "2020-03-16T20:13:53.086Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "levelhead/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Levelhead",
   "id": "2c38503c83df4fd4ae7cd9c3a8a50ce8",
   "namespace": "d33c2a64808e434b85eb1329f65431b1",
+  "title": "Levelhead",
   "description": "Levelhead",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
-    }
-  ],
+  "productSlug": "levelhead/home",
+  "urlSlug": "moonstonegeneralaudience",
+  "creationDate": "2020-03-16T20:13:53.086Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2020-04-30T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
     "name": "Butterscotch Shenanigans"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e645bf00f4864e4aba3dae980b4c9209",
-      "namespace": "d33c2a64808e434b85eb1329f65431b1",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +89,57 @@
       "value": "levelhead/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg",
+      "md5": "f16c24aa439cba43fd18b9f0df8e98f7",
+      "size": 473795,
+      "uploadedDate": "2020-03-17T00:57:30.563Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg",
+      "md5": "b04fcfdf525dd935e68556f031d3b971",
+      "size": 274519,
+      "uploadedDate": "2020-03-17T00:57:41.588Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg",
+      "md5": "b04fcfdf525dd935e68556f031d3b971",
+      "size": 274519,
+      "uploadedDate": "2020-03-17T00:57:41.588Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d33c2a64808e434b85eb1329f65431b1/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg",
+      "md5": "f16c24aa439cba43fd18b9f0df8e98f7",
+      "size": 473795,
+      "uploadedDate": "2020-03-17T00:50:46.969Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg",
+      "md5": "f79abe4c4960c184a67ced565ec4ae73",
+      "size": 274519,
+      "uploadedDate": "2020-04-30T04:34:00.354Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e645bf00f4864e4aba3dae980b4c9209"
+    }
+  ],
+  "catalogNs": null
 }

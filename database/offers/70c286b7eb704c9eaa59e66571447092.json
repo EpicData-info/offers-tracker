@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2019-09-10T19:34:25.391Z",
-  "lastModifiedDate": "2020-07-16T15:00:38.122Z",
-  "viewableDate": "2020-06-11T15:00:00.000Z",
-  "productSlug": "the-escapists-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Escapists 2",
   "id": "70c286b7eb704c9eaa59e66571447092",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
+  "title": "The Escapists 2",
   "description": "The Escapists 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg"
-    }
-  ],
+  "productSlug": "the-escapists-2/home",
+  "urlSlug": "fowlgeneralaudience",
+  "creationDate": "2019-09-10T19:34:25.391Z",
+  "lastModifiedDate": "2020-07-16T15:00:38.122Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": "2020-06-11T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e156f6e79e9a456fa80745f640aa0950",
-      "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +105,66 @@
       "value": "the-escapists-2/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg",
+      "md5": "5e7a7db47fdfb418519b2b6eccec0fed",
+      "size": 145053,
+      "uploadedDate": "2020-06-10T03:30:05.394Z",
+      "width": 1360,
+      "height": 765
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+      "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+      "size": 169642,
+      "uploadedDate": "2020-06-10T03:30:11.107Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s5-1360x765-1360x765-5e7a7db47fdfb418519b2b6eccec0fed.jpg",
+      "md5": "5e7a7db47fdfb418519b2b6eccec0fed",
+      "size": 145053,
+      "uploadedDate": "2020-06-10T03:30:21.919Z",
+      "width": 1360,
+      "height": 765
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+      "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+      "size": 169642,
+      "uploadedDate": "2020-06-10T03:30:31.297Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+      "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+      "size": 169642,
+      "uploadedDate": "2020-06-10T03:30:37.624Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/115577f4ef1e4055aaf0da534fdfe81e/offer/egs-theescapists2-team17andmouldytoofstudios-s6-510x680-510x680-22e26fa7753b9b80df8d3ec01dee3e2f.jpg",
+      "md5": "22e26fa7753b9b80df8d3ec01dee3e2f",
+      "size": 169642,
+      "uploadedDate": "2020-06-10T03:30:51.367Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e156f6e79e9a456fa80745f640aa0950"
+    }
+  ],
+  "catalogNs": null
 }

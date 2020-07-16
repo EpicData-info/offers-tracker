@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2020-01-11T03:07:37.198Z",
-  "lastModifiedDate": "2020-05-28T18:00:00.270Z",
-  "viewableDate": null,
-  "productSlug": "faeria/all-dlc-bundle",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "All DLC Bundle",
   "id": "186d4ab002914bd5aa6f1cba3e8e36f6",
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "title": "All DLC Bundle",
   "description": "All DLC Bundle",
   "longDescription": "59.99",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_N1_Newsfeed_ApprovedPublic-2560x1440-d1c6ec9f393a1eac41a9eb0ab71d90b326897ee6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_N1_Newsfeed_ApprovedPublic-2560x1440-241f9a66ff8351a1d39f140b4b89ce10.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_Social_Inst_ApprovedPublic-1080x1350-d8b0dd3071f92bb9898fcff37c96b214.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_Portrait-Offer-860x1148-cfba432c0e7669bc83d847610ac17518.jpg"
-    }
-  ],
+  "productSlug": "faeria/all-dlc-bundle",
+  "urlSlug": "all-dlcs-audience",
+  "creationDate": "2020-01-11T03:07:37.198Z",
+  "lastModifiedDate": "2020-05-28T18:00:00.270Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
-    {
-      "id": "ba34000112094b33b99d2e0625685795",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "faeria/all-dlc-bundle"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,55 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/all-dlc-bundle"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_N1_Newsfeed_ApprovedPublic-2560x1440-d1c6ec9f393a1eac41a9eb0ab71d90b326897ee6.jpg",
+      "md5": "20b6f9c544639ee54914b5275a6d2c95",
+      "size": 372059,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_N1_Newsfeed_ApprovedPublic-2560x1440-241f9a66ff8351a1d39f140b4b89ce10.jpg",
+      "md5": "241f9a66ff8351a1d39f140b4b89ce10",
+      "size": 607267,
+      "uploadedDate": "2020-02-13T15:53:27.693Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_Social_Inst_ApprovedPublic-1080x1350-d8b0dd3071f92bb9898fcff37c96b214.jpg",
+      "md5": "d8b0dd3071f92bb9898fcff37c96b214",
+      "size": 797527,
+      "uploadedDate": "2020-02-13T15:53:35.694Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_All-DLC_Portrait-Offer-860x1148-cfba432c0e7669bc83d847610ac17518.jpg",
+      "md5": "cfba432c0e7669bc83d847610ac17518",
+      "size": 223523,
+      "uploadedDate": "2020-04-15T16:27:43.208Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "ba34000112094b33b99d2e0625685795"
+    }
+  ],
+  "catalogNs": null
 }

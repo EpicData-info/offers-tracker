@@ -1,46 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-14T16:00:00.000Z",
-  "creationDate": "2019-05-15T15:10:24.996Z",
-  "lastModifiedDate": "2020-04-27T13:44:54.459Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Heavy Rain JA Pre-Purchase",
   "id": "1235ead7b12f45218a4b3d46c4989267",
   "namespace": "aster",
+  "title": "Heavy Rain JA Pre-Purchase",
   "description": "Heavy Rain JA Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/aster/item/RP_FOR_T_M_AO-418x189-5d7eb4ff7ff5e04db482924563c8f86c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aster/offer/HeavyRain_GameIcon-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "heavy-rain-ja",
+  "creationDate": "2019-05-15T15:10:24.996Z",
+  "lastModifiedDate": "2020-04-27T13:44:54.459Z",
+  "effectiveDate": "2019-05-14T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "179f1ecce55442ae9a605c263bf03a99",
-      "namespace": "aster",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6",
-      "namespace": "aster",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +46,33 @@
       "value": "Quantic Dream"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/aster/item/RP_FOR_T_M_AO-418x189-5d7eb4ff7ff5e04db482924563c8f86c.jpg",
+      "md5": "5d7eb4ff7ff5e04db482924563c8f86c",
+      "size": 21270,
+      "uploadedDate": "2019-05-15T15:07:01.802Z",
+      "width": 418,
+      "height": 189
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/HeavyRain_GameIcon-400x400-d6532494c9e1c90d07f2fcabf20e00b3.png",
+      "md5": "d6532494c9e1c90d07f2fcabf20e00b3",
+      "size": 102366,
+      "uploadedDate": "2019-05-16T01:56:18.898Z",
+      "width": 400,
+      "height": 400
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "179f1ecce55442ae9a605c263bf03a99"
+    },
+    {
+      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,46 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-15T15:00:00.000Z",
-  "creationDate": "2019-07-31T17:23:03.507Z",
-  "lastModifiedDate": "2019-07-31T17:23:03.507Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Atomicrops Alpha +",
   "id": "9217d0429532458ea3f0be6e9c03fc57",
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "title": "Atomicrops Alpha +",
   "description": "Atomicrops Alpha + General Audiences",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "atomicrops-alpha-01",
+  "creationDate": "2019-07-31T17:23:03.507Z",
+  "lastModifiedDate": "2019-07-31T17:23:03.507Z",
+  "effectiveDate": "2050-07-15T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1a122b344102441da986e905fa4a5f47",
-      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "95a9b50044414b17946f273848af608f",
-      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +46,33 @@
       "value": "Bird Bath Games"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png",
+      "md5": "c8b07cc882b332bae541a823f23f4343",
+      "size": 275956,
+      "uploadedDate": "2019-07-31T17:22:00.385Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Atomicrops-340x440-c8b07cc882b332bae541a823f23f4343.png",
+      "md5": "c8b07cc882b332bae541a823f23f4343",
+      "size": 275956,
+      "uploadedDate": "2019-07-31T17:22:15.236Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1a122b344102441da986e905fa4a5f47"
+    },
+    {
+      "id": "95a9b50044414b17946f273848af608f"
+    }
+  ],
+  "catalogNs": null
 }

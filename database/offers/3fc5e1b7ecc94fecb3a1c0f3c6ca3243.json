@@ -1,62 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-25T10:00:00.000Z",
-  "creationDate": "2019-07-15T23:25:24.417Z",
-  "lastModifiedDate": "2020-05-12T19:00:24.636Z",
-  "viewableDate": null,
-  "productSlug": "this-war-of-mine/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Stories - Season Pass",
   "id": "3fc5e1b7ecc94fecb3a1c0f3c6ca3243",
   "namespace": "91189432bbad4478afd611edff7f0339",
+  "title": "Stories - Season Pass",
   "description": "Stories - Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_N3-2560x1440-651da54496761f1bddf12bfaf7b42a38fbf2029d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg"
-    }
-  ],
+  "productSlug": "this-war-of-mine/season-pass",
+  "urlSlug": "cardinal-season-pass",
+  "creationDate": "2019-07-15T23:25:24.417Z",
+  "lastModifiedDate": "2020-05-12T19:00:24.636Z",
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2470356bea7b44478440fc976e114146",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "bundles"
     },
     {
-      "id": "851440d850694cd2a67ff66f1ca7d1c3",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "6e2b7797a74e4a0c95fddb4dd11e650a",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "bundles/addons"
     },
     {
-      "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -73,20 +101,57 @@
       "value": "this-war-of-mine/season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg",
+      "md5": "00a5065d2ee9e0e675ee6f886535dcf9",
+      "size": 185909,
+      "uploadedDate": "2019-07-25T14:31:58.852Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg",
+      "md5": "00a5065d2ee9e0e675ee6f886535dcf9",
+      "size": 185909,
+      "uploadedDate": "2019-07-25T14:32:08.320Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "bundles/addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_N3-2560x1440-651da54496761f1bddf12bfaf7b42a38fbf2029d.jpg",
+      "md5": "b0abca8b542693d133ceb207b7bd136c",
+      "size": 621890,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_SeasonPass-340x440-00a5065d2ee9e0e675ee6f886535dcf9.jpg",
+      "md5": "00a5065d2ee9e0e675ee6f886535dcf9",
+      "size": 185909,
+      "uploadedDate": "2020-04-10T17:25:48.693Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2470356bea7b44478440fc976e114146"
+    },
+    {
+      "id": "851440d850694cd2a67ff66f1ca7d1c3"
+    },
+    {
+      "id": "6e2b7797a74e4a0c95fddb4dd11e650a"
+    },
+    {
+      "id": "bff1a0056b6c4dcab66cc13b3b8482c7"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-15T00:00:00.000Z",
-  "creationDate": "2019-07-15T20:21:44.582Z",
-  "lastModifiedDate": "2020-05-11T18:34:34.275Z",
-  "viewableDate": null,
-  "productSlug": "darksiders3/dlc-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders III DLC - Keepers of the Void",
   "id": "1079068ba1144d60967b171b446492b2",
   "namespace": "springbok",
+  "title": "Darksiders III DLC - Keepers of the Void",
   "description": "Darksiders III DLC - Keepers of the Void",
   "longDescription": "Darksiders III DLC - Keepers of the Void",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/springbok/offer/DLC2_Keyart-1920x1095-42760e1a67838827d98843d1b06729dc94b76703.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
-    }
-  ],
+  "productSlug": "darksiders3/dlc-2",
+  "urlSlug": "darksiders-dlc2",
+  "creationDate": "2019-07-15T20:21:44.582Z",
+  "lastModifiedDate": "2020-05-11T18:34:34.275Z",
+  "effectiveDate": "2019-07-15T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8e59126e53c14346af5c48380a449281",
-      "namespace": "springbok",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +121,39 @@
       "value": "Windows"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DLC2_Keyart-1920x1095-42760e1a67838827d98843d1b06729dc94b76703.jpg",
+      "md5": "61f24cec5c28812145ee9ca2a1a25827",
+      "size": 254626,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1095
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+      "md5": "acb9ad88419d3f09a2d29b582324161f",
+      "size": 100477,
+      "uploadedDate": "2020-04-20T14:22:28.244Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+      "md5": "acb9ad88419d3f09a2d29b582324161f",
+      "size": 100477,
+      "uploadedDate": "2020-04-20T14:22:36.636Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8e59126e53c14346af5c48380a449281"
+    }
+  ],
+  "catalogNs": null
 }

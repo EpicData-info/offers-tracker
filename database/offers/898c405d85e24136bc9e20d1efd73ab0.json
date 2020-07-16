@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-24T17:00:00.000Z",
-  "creationDate": "2019-03-25T21:16:42.371Z",
-  "lastModifiedDate": "2020-04-29T00:38:19.266Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Phoenix Point Backer Build",
   "id": "898c405d85e24136bc9e20d1efd73ab0",
   "namespace": "iris",
+  "title": "Phoenix Point Backer Build",
   "description": "Phoenix Point Backer Build",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "phoenixpointbackeraudience",
+  "creationDate": "2019-03-25T21:16:42.371Z",
+  "lastModifiedDate": "2020-04-29T00:38:19.266Z",
+  "effectiveDate": "2019-03-24T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3cc732b7e5014e35847f568fcc5f0829",
-      "namespace": "iris",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "Snapshot Games"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_PrimaryPromo-1920x1079-1d5a04d67c44c162d1e3acf2df2f57e3.jpg",
+      "md5": "1d5a04d67c44c162d1e3acf2df2f57e3",
+      "size": 162524,
+      "uploadedDate": "2019-03-25T21:11:45.244Z",
+      "width": 1920,
+      "height": 1079
     },
     {
-      "path": "applications"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/iris/item/PhoenixPoint_GameLogo_White-3220x432-7aca4b7a258e701731893afe68f4becb.png",
+      "md5": "7aca4b7a258e701731893afe68f4becb",
+      "size": 118600,
+      "uploadedDate": "2019-03-25T21:12:00.250Z",
+      "width": 3220,
+      "height": 432
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3cc732b7e5014e35847f568fcc5f0829"
+    }
+  ],
+  "catalogNs": null
 }

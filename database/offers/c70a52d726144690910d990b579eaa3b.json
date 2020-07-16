@@ -1,36 +1,38 @@
 {
+  "id": "c70a52d726144690910d990b579eaa3b",
+  "namespace": "epic",
+  "title": "Metro Franchise Collection",
+  "description": "Metro Franchise Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "metro-franchise",
+  "urlSlug": "metro-franchise",
+  "creationDate": "2020-03-27T16:54:05.052Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-10-11T19:00:00.000Z",
+  "viewableDate": "2020-03-19T18:10:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "dcc78a59329543168b08b26cc9a65572",
     "6bad44fc6dd9456081442559c51a577f",
     "09efa4c5d30a411eb012f881802f8453"
   ],
-  "effectiveDate": "2019-10-11T19:00:00.000Z",
-  "creationDate": "2020-03-27T16:54:05.052Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2020-03-19T18:10:00.000Z",
-  "productSlug": "metro-franchise",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Franchise Collection",
-  "id": "c70a52d726144690910d990b579eaa3b",
-  "namespace": "epic",
-  "description": "Metro Franchise Collection",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [],
-  "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
-  },
-  "items": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
-      "namespace": "epic",
-      "developer": null
+      "path": "collections"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.collectionOfferIds.1",
@@ -49,11 +51,11 @@
       "value": "metro-franchise"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

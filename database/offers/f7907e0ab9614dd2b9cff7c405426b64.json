@@ -1,57 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-14T16:00:00.000Z",
-  "creationDate": "2019-01-21T18:51:56.310Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "metro-exodus/expansion-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro Exodus Expansion Pass",
   "id": "f7907e0ab9614dd2b9cff7c405426b64",
   "namespace": "snapdragon",
+  "title": "Metro Exodus Expansion Pass",
   "description": "Metro Exodus Expansion Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_ExpansionPass-3840x2160-723afb6397a0bb817b6409d8d1478cd2d4432478.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg"
-    }
-  ],
+  "productSlug": "metro-exodus/expansion-pass",
+  "urlSlug": "snapdragonseasonpass",
+  "creationDate": "2019-01-21T18:51:56.310Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-05-14T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8736e6c117844aa087c74ee118a10a64",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "72d82ab50a92464ab626da48ce47a530",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "054224b4ce2846ba847f9a3a329ae2f2",
-      "namespace": "snapdragon",
-      "developer": null
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -72,20 +129,54 @@
       "value": "metro-exodus/expansion-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/M3_Editions_ExpansionPass-3840x2160-723afb6397a0bb817b6409d8d1478cd2d4432478.jpg",
+      "md5": "86243d3b2400c97c56fbea7929c3c2fb",
+      "size": 1049194,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg",
+      "md5": "3c7ffdf551b477223ff291444a3d0e46",
+      "size": 263009,
+      "uploadedDate": "2020-05-13T18:13:12.838Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg",
+      "md5": "3c7ffdf551b477223ff291444a3d0e46",
+      "size": 263009,
+      "uploadedDate": "2020-05-13T18:13:21.657Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/snapdragon/offer/Diesel_product_metro-exodus_expansion-pass_M3-EP_Portrait_Promo-1280x1420-b8e86a882bd046640cd65d26a3f3fcadb12c6810-1280x1420-3c7ffdf551b477223ff291444a3d0e46.jpg",
+      "md5": "3c7ffdf551b477223ff291444a3d0e46",
+      "size": 263009,
+      "uploadedDate": "2020-05-13T18:13:36.154Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8736e6c117844aa087c74ee118a10a64"
+    },
+    {
+      "id": "72d82ab50a92464ab626da48ce47a530"
+    },
+    {
+      "id": "054224b4ce2846ba847f9a3a329ae2f2"
+    }
+  ],
+  "catalogNs": null
 }

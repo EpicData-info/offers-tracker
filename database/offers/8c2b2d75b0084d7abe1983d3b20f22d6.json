@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-05T16:00:00.000Z",
-  "creationDate": "2020-02-25T13:53:13.383Z",
-  "lastModifiedDate": "2020-04-02T03:01:43.851Z",
-  "viewableDate": null,
-  "productSlug": "offworld-trading-company/the-patron-and-the-patriot",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Offworld Trading Company: The Patron and the Patriot DLC",
   "id": "8c2b2d75b0084d7abe1983d3b20f22d6",
   "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Offworld Trading Company: The Patron and the Patriot DLC",
   "description": "Offworld Trading Company: The Patron and the Patriot DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg"
-    }
-  ],
+  "productSlug": "offworld-trading-company/the-patron-and-the-patriot",
+  "urlSlug": "snapperpatron",
+  "creationDate": "2020-02-25T13:53:13.383Z",
+  "lastModifiedDate": "2020-04-02T03:01:43.851Z",
+  "effectiveDate": "2020-03-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "items": [
-    {
-      "id": "9decaf63022a4c72bd9897f7f8713f3e",
-      "namespace": "e8882546f28e4832af823c646aed232e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "offworld-trading-company/the-patron-and-the-patriot"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -60,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/the-patron-and-the-patriot"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
+      "md5": "1880662344239d2caa93c339ce7c182c",
+      "size": 84921,
+      "uploadedDate": "2020-03-05T15:13:59.637Z",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyThePatronthePatriot_MohawkGames_DLC_IC1_A-320x180-c3bae6d0e00c417c6d4029a515adc8df.jpg",
+      "md5": "1880662344239d2caa93c339ce7c182c",
+      "size": 84921,
+      "uploadedDate": "2020-03-05T15:15:15.030Z",
+      "width": 320,
+      "height": 180
+    }
+  ],
+  "items": [
+    {
+      "id": "9decaf63022a4c72bd9897f7f8713f3e"
+    }
+  ],
+  "catalogNs": null
 }

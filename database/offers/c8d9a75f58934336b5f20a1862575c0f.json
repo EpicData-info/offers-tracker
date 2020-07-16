@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-01-17T23:56:41.880Z",
-  "lastModifiedDate": "2020-03-17T14:26:04.002Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RETIRE: Hussar WT Pack",
   "id": "c8d9a75f58934336b5f20a1862575c0f",
   "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
+  "title": "RETIRE: Hussar WT Pack",
   "description": "RETIRE: Hussar WT Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "hussarwinterthemedlc",
+  "creationDate": "2020-01-17T23:56:41.880Z",
+  "lastModifiedDate": "2020-03-17T14:26:04.002Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b18f152c720d4337b6748a68d4ccbc0d",
-      "namespace": "ca93b6d41a4e41af864942d8f0a2a826",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "b18f152c720d4337b6748a68d4ccbc0d"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

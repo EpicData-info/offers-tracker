@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-30T19:04:47.371Z",
-  "lastModifiedDate": "2020-07-15T00:39:17.404Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Starter Pack",
   "id": "eda5d1535af7450fa92b1982d0c4f6dd",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "title": "Starter Pack",
   "description": "Starter Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "starterpack",
+  "creationDate": "2020-03-30T19:04:47.371Z",
+  "lastModifiedDate": "2020-07-15T00:39:17.404Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
     "name": "Psyonix"
   },
-  "items": [
-    {
-      "id": "fe38f7ef3de3439eb9f11044a58815ca",
-      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "developerName",
-      "value": "[]"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -51,6 +37,22 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fe38f7ef3de3439eb9f11044a58815ca"
+    }
+  ],
+  "catalogNs": null
 }

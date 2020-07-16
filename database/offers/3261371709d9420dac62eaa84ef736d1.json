@@ -1,71 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-30T10:00:00.000Z",
-  "creationDate": "2019-08-21T22:02:05.244Z",
-  "lastModifiedDate": "2020-05-11T18:32:39.585Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DAY ONE WRC 8 Deluxe Edition FIA World Rally Championship",
   "id": "3261371709d9420dac62eaa84ef736d1",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "title": "DAY ONE WRC 8 Deluxe Edition FIA World Rally Championship",
   "description": "DAY ONE WRC 8 Deluxe Edition FIA World Rally Championship",
   "longDescription": "Day One included until Sept. 16th",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Deluxe_G1_PDPPromoImage-1920x1080-641a53da0a7018fef9625b7cd7f83d60.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "day-one-digital-deluxe-edition",
+  "creationDate": "2019-08-21T22:02:05.244Z",
+  "lastModifiedDate": "2020-05-11T18:32:39.585Z",
+  "effectiveDate": "2019-08-30T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d3d9c868997a46a7991f315b46829d27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "94de2397bf644f75827591858fdc6d26",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "799937cf94e0432e83f322c07be65fea",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "abbbc39fbfef4a01a07117629e729da6",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "d416a8c6968f48e299a8f34ef8683c27",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "916d1fdb2ef24f2fa8fde442fe25901f",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
-    },
-    {
-      "id": "5e6922d2df5a46c5a3ecedf5e0cffcfe",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -80,17 +49,48 @@
       "value": "Kylotonn"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Deluxe_G1_PDPPromoImage-1920x1080-641a53da0a7018fef9625b7cd7f83d60.png",
+      "md5": "641a53da0a7018fef9625b7cd7f83d60",
+      "size": 225863,
+      "uploadedDate": "2019-08-30T21:00:07.145Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
-    },
-    {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2019-08-30T21:00:14.764Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d3d9c868997a46a7991f315b46829d27"
+    },
+    {
+      "id": "94de2397bf644f75827591858fdc6d26"
+    },
+    {
+      "id": "799937cf94e0432e83f322c07be65fea"
+    },
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6"
+    },
+    {
+      "id": "d416a8c6968f48e299a8f34ef8683c27"
+    },
+    {
+      "id": "916d1fdb2ef24f2fa8fde442fe25901f"
+    },
+    {
+      "id": "5e6922d2df5a46c5a3ecedf5e0cffcfe"
+    }
+  ],
+  "catalogNs": null
 }

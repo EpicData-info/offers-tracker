@@ -1,43 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-01T09:42:00.000Z",
-  "creationDate": "2019-10-03T13:43:22.447Z",
-  "lastModifiedDate": "2020-05-13T20:06:38.866Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SpellbreakPromo04",
   "id": "652638fbfad44ebcb1c5edc54fcd7181",
   "namespace": "newt",
+  "title": "SpellbreakPromo04",
   "description": "SpellbreakPromo04",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "spellbreakpromo04",
+  "creationDate": "2019-10-03T13:43:22.447Z",
+  "lastModifiedDate": "2020-05-13T20:06:38.866Z",
+  "effectiveDate": "2019-10-01T09:42:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
     "name": "Proletariat, Inc."
   },
-  "items": [
-    {
-      "id": "d186068d43e34991947bd7afdc73fed7",
-      "namespace": "newt",
-      "developer": null
-    },
-    {
-      "id": "0cced867f6d24ddb87de4093fb16fafc",
-      "namespace": "newt",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d186068d43e34991947bd7afdc73fed7"
+    },
+    {
+      "id": "0cced867f6d24ddb87de4093fb16fafc"
+    }
+  ],
+  "catalogNs": null
 }

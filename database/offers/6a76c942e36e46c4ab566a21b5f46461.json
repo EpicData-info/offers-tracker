@@ -1,43 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-13T18:32:00.000Z",
-  "creationDate": "2019-02-14T23:37:02.565Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "human-resource-machine/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Human Resource Machine",
   "id": "6a76c942e36e46c4ab566a21b5f46461",
   "namespace": "epic",
+  "title": "Human Resource Machine",
   "description": "Human Resource Machine",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Promo-Images-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Portrait-Promo-1280x1420-0110d1430288b552736a3914c882cafa.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png"
-    }
-  ],
+  "productSlug": "human-resource-machine/home",
+  "urlSlug": "basil",
+  "creationDate": "2019-02-14T23:37:02.565Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-05-13T18:32:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
     "name": "Tomorrow Corporation"
   },
-  "items": [
+  "linkedOfferId": "fa12d8a775a14c29863354f05999e621",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1102",
+      "name": "PROGRAMMING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:09.264Z",
+      "updated": "2020-04-02T01:41:35.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +127,39 @@
       "value": "fa12d8a775a14c29863354f05999e621"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Promo-Images-2580x1450-6397adc15b04f44458140bd2ad71a7d7.jpg",
+      "md5": "6397adc15b04f44458140bd2ad71a7d7",
+      "size": 307566,
+      "uploadedDate": "2019-04-15T16:27:18.307Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Portrait-Promo-1280x1420-0110d1430288b552736a3914c882cafa.jpg",
+      "md5": "0110d1430288b552736a3914c882cafa",
+      "size": 165784,
+      "uploadedDate": "2019-04-15T16:27:36.940Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Human-Resource-Machine-Logo-1191x870-59b90f2d7ff71b1c283dbca4bb931f52.png",
+      "md5": "59b90f2d7ff71b1c283dbca4bb931f52",
+      "size": 46389,
+      "uploadedDate": "2019-04-15T16:27:56.219Z",
+      "width": 1191,
+      "height": 870
     }
   ],
-  "linkedOfferId": "fa12d8a775a14c29863354f05999e621",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "developerName",
-        "value": "Tomorrow Corporation"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "human-resource-machine/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

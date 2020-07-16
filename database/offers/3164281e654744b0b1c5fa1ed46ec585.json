@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-08-28T14:53:16.247Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "superliminal/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Superliminal",
   "id": "3164281e654744b0b1c5fa1ed46ec585",
   "namespace": "epic",
+  "title": "Superliminal",
   "description": "Superliminal",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg"
-    }
-  ],
+  "productSlug": "superliminal/home",
+  "urlSlug": "superliminal",
+  "creationDate": "2019-08-28T14:53:16.247Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jvpl9untxcrsellbhbwjb2ralrg9z9",
     "name": "Pillow Castle"
   },
-  "items": [
+  "linkedOfferId": "daa88a4b17cd4bb8bdb87cdf777ac3f3",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,22 +108,30 @@
       "value": "daa88a4b17cd4bb8bdb87cdf777ac3f3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Superliminal_BannerThing_PNG-1280x1420-af698741bb5bc3c41fc7eea112a53da2.jpg",
+      "md5": "af698741bb5bc3c41fc7eea112a53da2",
+      "size": 110941,
+      "uploadedDate": "2019-11-07T00:23:22.225Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2-1920x1080-d95af007580c8bfc08afd9d5633c33bf.jpg",
+      "md5": "d95af007580c8bfc08afd9d5633c33bf",
+      "size": 350760,
+      "uploadedDate": "2019-11-22T17:51:28.858Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": "daa88a4b17cd4bb8bdb87cdf777ac3f3",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "developerName",
-        "value": "Pillow Castle"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "superliminal/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

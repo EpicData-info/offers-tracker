@@ -1,50 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-31T08:00:00.000Z",
-  "creationDate": "2020-02-24T18:46:21.563Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "operencia/explorers-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Operencia: The Stolen Sun - Explorer's Edition",
   "id": "c26dcc3c828c4675b4759b031dbbbbd7",
   "namespace": "lily",
+  "title": "Operencia: The Stolen Sun - Explorer's Edition",
   "description": "Operencia: The Stolen Sun - Explorer's Edition (Base game + Explorer's Pack)",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
-    }
-  ],
+  "productSlug": "operencia/explorers-edition",
+  "urlSlug": "operencia-the-stolen-sun-explorers-pack",
+  "creationDate": "2020-02-24T18:46:21.563Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-03-31T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8456122f40074d5a84566f0a061f302b",
-      "namespace": "lily",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
-      "namespace": "lily",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,17 +49,42 @@
       "value": "operencia/explorers-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-04-23T21:04:23.703Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-04-23T21:04:32.810Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg",
+      "md5": "da4c78667987fdbb8b4af27c7a895c09",
+      "size": 389239,
+      "uploadedDate": "2020-01-13T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8456122f40074d5a84566f0a061f302b"
+    },
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06"
+    }
+  ],
+  "catalogNs": null
 }

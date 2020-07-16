@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-30T16:00:00.000Z",
-  "creationDate": "2019-01-28T20:47:51.249Z",
-  "lastModifiedDate": "2020-06-11T16:55:23.481Z",
-  "viewableDate": "2019-01-30T13:20:00.000Z",
-  "productSlug": "dauntless/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dauntless",
   "id": "e64af2d6202d4b64b86abe428250dbff",
   "namespace": "jackal",
+  "title": "Dauntless",
   "description": "Dauntless",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg"
-    }
-  ],
+  "productSlug": "dauntless/home",
+  "urlSlug": "jackalgeneralaudience",
+  "creationDate": "2019-01-28T20:47:51.249Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.481Z",
+  "effectiveDate": "2019-04-30T16:00:00.000Z",
+  "viewableDate": "2019-01-30T13:20:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-krlzxj88qrtb69fredeuaf887bl5az",
     "name": "Phoenix Labs"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "75cf1b4f9d2d45bbbd96579b476f5198",
-      "namespace": "jackal",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "dauntless/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
+      "md5": "106740e181f59d1ac817d901c30c8844",
+      "size": 198974,
+      "uploadedDate": "2020-06-11T16:40:19.115Z",
+      "width": 1410,
+      "height": 1786
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png",
+      "md5": "922608a1b0bab988fba4681201e9ccef",
+      "size": 446159,
+      "uploadedDate": "2020-06-11T16:40:27.207Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/dauntless-carousel-1360x766-withlogo-1360x766-101895964-1360x766-922608a1b0bab988fba4681201e9ccef.png",
+      "md5": "922608a1b0bab988fba4681201e9ccef",
+      "size": 446159,
+      "uploadedDate": "2020-06-11T16:40:38.703Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
+      "md5": "106740e181f59d1ac817d901c30c8844",
+      "size": 198974,
+      "uploadedDate": "2020-06-11T16:40:44.315Z",
+      "width": 1410,
+      "height": 1786
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
+      "md5": "106740e181f59d1ac817d901c30c8844",
+      "size": 198974,
+      "uploadedDate": "2020-06-11T16:41:27.159Z",
+      "width": 1410,
+      "height": 1786
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/epic-dauntlesscallofthevoid-fullgame-vertical-1410x1786-101912762-1410x1786-106740e181f59d1ac817d901c30c8844.jpg",
+      "md5": "106740e181f59d1ac817d901c30c8844",
+      "size": 198974,
+      "uploadedDate": "2020-06-11T16:41:38.311Z",
+      "width": 1410,
+      "height": 1786
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "75cf1b4f9d2d45bbbd96579b476f5198"
+    }
+  ],
+  "catalogNs": null
 }

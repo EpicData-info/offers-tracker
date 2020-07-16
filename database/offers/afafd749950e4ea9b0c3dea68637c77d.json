@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "creationDate": "2020-02-17T21:36:15.968Z",
-  "lastModifiedDate": "2020-05-12T16:19:33.875Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "3500 Crystals",
   "id": "afafd749950e4ea9b0c3dea68637c77d",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "3500 Crystals",
   "description": "3500 Crystals",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_860x1148-860x1148-fc055e78acc683fb9b32ab0915ee0e1a.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "3500-crystals",
+  "creationDate": "2020-02-17T21:36:15.968Z",
+  "lastModifiedDate": "2020-05-12T16:19:33.875Z",
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "217221be3e59455bb29fa8c63f1dee33",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "{}"
-    },
-    {
-      "key": "developerName",
-      "value": "{}"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "{}"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg",
+      "md5": "d8c6ea28c573d9406322ce6a09fa3dc6",
+      "size": 294017,
+      "uploadedDate": "2020-03-19T22:10:36.495Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_860x1148-860x1148-fc055e78acc683fb9b32ab0915ee0e1a.jpg",
+      "md5": "fc055e78acc683fb9b32ab0915ee0e1a",
+      "size": 202198,
+      "uploadedDate": "2020-03-19T22:10:50.265Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_Crystals_3500_Paladins_EGS_3500_Crystals_2560x1440-2560x1440-d8c6ea28c573d9406322ce6a09fa3dc6.jpg",
+      "md5": "d8c6ea28c573d9406322ce6a09fa3dc6",
+      "size": 294017,
+      "uploadedDate": "2020-03-19T22:10:59.230Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "217221be3e59455bb29fa8c63f1dee33"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,186 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2019-08-17T00:08:56.801Z",
-  "lastModifiedDate": "2020-07-16T15:01:01.709Z",
-  "viewableDate": "2020-07-02T15:00:00.000Z",
-  "productSlug": "killing-floor-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Killing Floor 2",
   "id": "85f5ff10c31c4cd99978f4d57d3ec97a",
   "namespace": "affc33b82405457595a032f00284abd2",
+  "title": "Killing Floor 2",
   "description": "Killing Floor 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    }
-  ],
+  "productSlug": "killing-floor-2",
+  "urlSlug": "killing-floor",
+  "creationDate": "2019-08-17T00:08:56.801Z",
+  "lastModifiedDate": "2020-07-16T15:01:01.709Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9b211a4c84354cdc8a6c1095f85a6cc6",
-      "namespace": "affc33b82405457595a032f00284abd2",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-07-16T15:01:02.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1220",
+      "name": "ZOMBIES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:07.628Z",
+      "updated": "2020-07-16T15:01:02.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1131",
+      "name": "SURVIVAL HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.560Z",
+      "updated": "2020-07-16T15:01:02.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +197,66 @@
       "value": "killing-floor-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "size": 2243509,
+      "uploadedDate": "2020-07-02T02:16:43.564Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-07-02T02:16:37.075Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-07-02T02:16:58.012Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-07-02T02:17:16.669Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "size": 2243509,
+      "uploadedDate": "2020-07-02T02:17:34.545Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-07-02T02:17:49.032Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9b211a4c84354cdc8a6c1095f85a6cc6"
+    }
+  ],
+  "catalogNs": null
 }

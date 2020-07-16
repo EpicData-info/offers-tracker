@@ -1,47 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-25T10:00:00.000Z",
-  "creationDate": "2019-07-15T23:22:28.819Z",
-  "lastModifiedDate": "2020-05-12T18:55:07.955Z",
-  "viewableDate": null,
-  "productSlug": "this-war-of-mine/fathers-promise",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Stories - Father's Promise (ep.1) DLC",
   "id": "17fc376e5018466091407c6716706cec",
   "namespace": "91189432bbad4478afd611edff7f0339",
+  "title": "Stories - Father's Promise (ep.1) DLC",
   "description": "Stories - Father's Promise (ep.1) DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_FP_L1-2560x1440-4eccaaa7c86d42d60157daf0b36e28797e2fa376.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg"
-    }
-  ],
+  "productSlug": "this-war-of-mine/fathers-promise",
+  "urlSlug": "cardinal-dlc-01",
+  "creationDate": "2019-07-15T23:22:28.819Z",
+  "lastModifiedDate": "2020-05-12T18:55:07.955Z",
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "bff1a0056b6c4dcab66cc13b3b8482c7",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +101,48 @@
       "value": "this-war-of-mine/fathers-promise"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg",
+      "md5": "8439ec08cb559296675242183c7d41a3",
+      "size": 192462,
+      "uploadedDate": "2019-07-25T14:31:22.600Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg",
+      "md5": "8439ec08cb559296675242183c7d41a3",
+      "size": 192462,
+      "uploadedDate": "2019-07-25T14:31:29.711Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_FP_L1-2560x1440-4eccaaa7c86d42d60157daf0b36e28797e2fa376.jpg",
+      "md5": "bb05dea8d7b0a6dd215562d6f8e86ed5",
+      "size": 619083,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/CodeRedemptionTWOM_FathersPromise-340x440-8439ec08cb559296675242183c7d41a3.jpg",
+      "md5": "8439ec08cb559296675242183c7d41a3",
+      "size": 192462,
+      "uploadedDate": "2020-04-10T17:24:01.820Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "bff1a0056b6c4dcab66cc13b3b8482c7"
+    }
+  ],
+  "catalogNs": null
 }

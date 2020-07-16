@@ -1,57 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-02T17:00:00.000Z",
-  "creationDate": "2020-07-01T20:39:55.427Z",
-  "lastModifiedDate": "2020-07-02T17:01:40.204Z",
-  "viewableDate": "2020-07-02T17:00:00.000Z",
-  "productSlug": "hellpoint/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Hellpoint",
   "id": "7cdc1189badd47e7ab9603a1142ad29d",
   "namespace": "97f91a3e4a7449fa9f4505a09efe1645",
+  "title": "Hellpoint",
   "description": "Hellpoint Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S1-2560x1440-0b945b2148da15d7c7973a74164c6898.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S1-2560x1440-0b945b2148da15d7c7973a74164c6898.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg"
-    }
-  ],
+  "productSlug": "hellpoint/home",
+  "urlSlug": "osloprepurchaseaudience",
+  "creationDate": "2020-07-01T20:39:55.427Z",
+  "lastModifiedDate": "2020-07-02T17:01:40.204Z",
+  "effectiveDate": "2020-07-02T17:00:00.000Z",
+  "viewableDate": "2020-07-02T17:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e6f6fc568a734bc2ac3f02eb7fb6e5a8",
-      "namespace": "97f91a3e4a7449fa9f4505a09efe1645",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -78,20 +64,66 @@
       "value": "hellpoint/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S1-2560x1440-0b945b2148da15d7c7973a74164c6898.jpg",
+      "md5": "0b945b2148da15d7c7973a74164c6898",
+      "size": 751245,
+      "uploadedDate": "2020-07-01T19:58:19.273Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg",
+      "md5": "03cd47fb94500a866134675f32c85a34",
+      "size": 943065,
+      "uploadedDate": "2020-07-01T19:58:27.213Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S1-2560x1440-0b945b2148da15d7c7973a74164c6898.jpg",
+      "md5": "0b945b2148da15d7c7973a74164c6898",
+      "size": 751245,
+      "uploadedDate": "2020-07-01T19:58:58.064Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg",
+      "md5": "03cd47fb94500a866134675f32c85a34",
+      "size": 943065,
+      "uploadedDate": "2020-07-01T19:59:07.329Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg",
+      "md5": "03cd47fb94500a866134675f32c85a34",
+      "size": 943065,
+      "uploadedDate": "2020-07-01T19:59:23.665Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/97f91a3e4a7449fa9f4505a09efe1645/offer/EGS_Hellpoint_CradleGames_S2-1200x1600-03cd47fb94500a866134675f32c85a34.jpg",
+      "md5": "03cd47fb94500a866134675f32c85a34",
+      "size": 943065,
+      "uploadedDate": "2020-07-01T19:59:31.956Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e6f6fc568a734bc2ac3f02eb7fb6e5a8"
+    }
+  ],
+  "catalogNs": null
 }

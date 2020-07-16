@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-24T15:00:00.000Z",
-  "creationDate": "2020-04-29T21:27:09.908Z",
-  "lastModifiedDate": "2020-06-24T15:18:26.050Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC CHARACTER \"WARDEN\"",
   "id": "078faa5244744b228ce7d33230a585fd",
   "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "title": "DLC CHARACTER \"WARDEN\"",
   "description": "DLC CHARACTER \"WARDEN\"",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S1-2560x1440-0f4c5dd13f94310708bd776b21913626.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "dlc8",
+  "creationDate": "2020-04-29T21:27:09.908Z",
+  "lastModifiedDate": "2020-06-24T15:18:26.050Z",
+  "effectiveDate": "2020-06-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
     "name": "SNK CORPORATION"
   },
-  "items": [
-    {
-      "id": "e7f26d04da3b4872942602d0f46bd643",
-      "namespace": "ace4435645d9489cacfbb422b7c1c817",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "SNK"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,132 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-06-24T15:18:26.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SNK"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S1-2560x1440-0f4c5dd13f94310708bd776b21913626.jpg",
+      "md5": "0f4c5dd13f94310708bd776b21913626",
+      "size": 1019224,
+      "uploadedDate": "2020-06-24T14:51:31.519Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg",
+      "md5": "e907bb0d476de11cbafa179803c53cec",
+      "size": 520008,
+      "uploadedDate": "2020-06-24T14:51:59.565Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg",
+      "md5": "e907bb0d476de11cbafa179803c53cec",
+      "size": 520008,
+      "uploadedDate": "2020-06-24T14:52:13.552Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_DLCCHARACTERWARDEN_SNKCORPORATION_DLC_S2-1200x1600-e907bb0d476de11cbafa179803c53cec.jpg",
+      "md5": "e907bb0d476de11cbafa179803c53cec",
+      "size": 520008,
+      "uploadedDate": "2020-06-24T14:52:36.109Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e7f26d04da3b4872942602d0f46bd643"
+    }
+  ],
+  "catalogNs": null
 }

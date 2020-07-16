@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2022-02-15T12:38:00.000Z",
-  "creationDate": "2019-02-15T17:39:36.321Z",
-  "lastModifiedDate": "2020-04-29T00:46:36.452Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "BasilDevAudience",
   "id": "47e4eb4e8e11410e96c95438d0792a31",
   "namespace": "basil",
+  "title": "BasilDevAudience",
   "description": "BasilDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "basildevaudience",
+  "creationDate": "2019-02-15T17:39:36.321Z",
+  "lastModifiedDate": "2020-04-29T00:46:36.452Z",
+  "effectiveDate": "2022-02-15T12:38:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
     "name": "Tomorrow Corporation"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6594f270dec44f48a99384a590d3aade",
-      "namespace": "basil",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Tomorrow Corporation"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "6594f270dec44f48a99384a590d3aade"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

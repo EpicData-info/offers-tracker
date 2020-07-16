@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-12-16T16:29:51.026Z",
-  "lastModifiedDate": "2019-12-19T04:20:18.150Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "UrsusGeneralAudience - DNU",
   "id": "d7fd1a6b6ba643f2b3782fe49959385b",
   "namespace": "770e960d43c040db9d74e2311a8eb8c5",
+  "title": "UrsusGeneralAudience - DNU",
   "description": "UrsusGeneralAudience - DNU",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "ursusgeneralaudience",
+  "creationDate": "2019-12-16T16:29:51.026Z",
+  "lastModifiedDate": "2019-12-19T04:20:18.150Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "94ed36842be5481c9646375d7b1608b7",
-      "namespace": "770e960d43c040db9d74e2311a8eb8c5",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "94ed36842be5481c9646375d7b1608b7"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

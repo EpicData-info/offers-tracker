@@ -1,43 +1,80 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-27T15:00:00.000Z",
-  "creationDate": "2020-03-19T17:54:41.562Z",
-  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
-  "viewableDate": null,
-  "productSlug": "snowrunner/true-colors-vinyl-wrap",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "True Colors Vinyl Wrap",
   "id": "d65d6c5c2fd54c8a9483386f08ba6955",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "True Colors Vinyl Wrap",
   "description": "DLC5 - Chevorlet Kodiak C70 Skin",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Horizontal-1360x766-1360x766-61bd3300cd495230af76ddb682824efc.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg"
-    }
-  ],
+  "productSlug": "snowrunner/true-colors-vinyl-wrap",
+  "urlSlug": "mayflowerdlc1audience-01",
+  "creationDate": "2020-03-19T17:54:41.562Z",
+  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "50b8164c7c7841cc9d651cf8e1316b0a",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +95,39 @@
       "value": "snowrunner/true-colors-vinyl-wrap"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Horizontal-1360x766-1360x766-61bd3300cd495230af76ddb682824efc.jpg",
+      "md5": "61bd3300cd495230af76ddb682824efc",
+      "size": 261899,
+      "uploadedDate": "2020-04-21T22:48:10.026Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg",
+      "md5": "261fc9e4212a1fd30be7000827508ce9",
+      "size": 111117,
+      "uploadedDate": "2020-04-21T22:48:17.957Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_TrueColorsPack_EGS_Desktop-Vertical-510x680-510x680-261fc9e4212a1fd30be7000827508ce9.jpg",
+      "md5": "261fc9e4212a1fd30be7000827508ce9",
+      "size": 111117,
+      "uploadedDate": "2020-04-21T22:48:26.915Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "50b8164c7c7841cc9d651cf8e1316b0a"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2025-03-01T15:23:00.000Z",
-  "creationDate": "2019-03-04T20:24:10.675Z",
-  "lastModifiedDate": "2020-04-29T00:38:45.478Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Cosmos Dev Access",
   "id": "0467a3e5ea024d5c8a9161aa9d0022c2",
   "namespace": "cosmos",
+  "title": "Cosmos Dev Access",
   "description": "Cosmos Dev Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "cosmosdevaudience",
+  "creationDate": "2019-03-04T20:24:10.675Z",
+  "lastModifiedDate": "2020-04-29T00:38:45.478Z",
+  "effectiveDate": "2025-03-01T15:23:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
     "name": "Human Head Studios, Inc."
   },
-  "items": [
-    {
-      "id": "845468f052e7420ca24e51ab4c66a7a6",
-      "namespace": "cosmos",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Human Head Studios, Inc."
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -50,6 +31,37 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Human Head Studios, Inc."
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
+      "md5": "f08e22c1d9e2df849a51bbab19de7627",
+      "size": 222894,
+      "uploadedDate": "2019-05-29T23:19:12.892Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
+      "md5": "f08e22c1d9e2df849a51bbab19de7627",
+      "size": 222894,
+      "uploadedDate": "2019-05-29T23:19:52.087Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "845468f052e7420ca24e51ab4c66a7a6"
+    }
+  ],
+  "catalogNs": null
 }

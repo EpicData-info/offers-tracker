@@ -1,43 +1,120 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-18T11:00:00.000Z",
-  "creationDate": "2019-02-18T20:10:08.705Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": null,
-  "productSlug": "slime-rancher/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Slime Rancher",
   "id": "847e61b98a844df193979f6dcad6cfa2",
   "namespace": "epic",
+  "title": "Slime Rancher",
   "description": "Slime Rancher",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Primary-Promo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Portrait-Promo-1280x1420-aca38e046b5272b458e75462a604d977.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/SR_logo-1850x706-d737baad725b40b8722e243b4a54d797.png"
-    }
-  ],
+  "productSlug": "slime-rancher/home",
+  "urlSlug": "corydalis",
+  "creationDate": "2019-02-18T20:10:08.705Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-02-18T11:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-zaqwbfdrp3pwhlqsnwvjfsmjdpsj3a",
     "name": "Monomi Park"
   },
-  "items": [
+  "linkedOfferId": "cd44981c3cea431a9a203ff94b132994",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +139,39 @@
       "value": "slime-rancher/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Primary-Promo-2580x1450-aa9041a93e7a01a7baa60c5fba6a1758.jpg",
+      "md5": "aa9041a93e7a01a7baa60c5fba6a1758",
+      "size": 242370,
+      "uploadedDate": "2019-02-18T20:05:31.549Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/SlimeRancher-Keyart_Portrait-Promo-1280x1420-aca38e046b5272b458e75462a604d977.jpg",
+      "md5": "aca38e046b5272b458e75462a604d977",
+      "size": 149446,
+      "uploadedDate": "2019-02-18T20:05:48.546Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/SR_logo-1850x706-d737baad725b40b8722e243b4a54d797.png",
+      "md5": "d737baad725b40b8722e243b4a54d797",
+      "size": 126396,
+      "uploadedDate": "2019-08-02T19:03:36.716Z",
+      "width": 1850,
+      "height": 706
     }
   ],
-  "linkedOfferId": "cd44981c3cea431a9a203ff94b132994",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "developerName",
-        "value": "Monomi Park"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "slime-rancher/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

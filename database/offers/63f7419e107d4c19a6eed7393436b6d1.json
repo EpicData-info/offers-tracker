@@ -1,65 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "creationDate": "2020-02-17T21:08:06.135Z",
-  "lastModifiedDate": "2020-05-12T16:17:36.822Z",
-  "viewableDate": null,
-  "productSlug": "paladins/digital-deluxe-edition-2019-and-2020",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Digital Deluxe Edition 2019 + 2020",
   "id": "63f7419e107d4c19a6eed7393436b6d1",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "Digital Deluxe Edition 2019 + 2020",
   "description": "Digital Deluxe Edition 2019 + 2020",
   "longDescription": "Digital Deluxe Edition 2019 + 2020",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_2560x1440-2560x1440-86ed63b70cea89240b748a797c303d1d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_2560x1440-2560x1440-86ed63b70cea89240b748a797c303d1d.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_860x1148-860x1148-b6235b2e241f26c91c16705a419d38e4.jpg"
-    }
-  ],
+  "productSlug": "paladins/digital-deluxe-edition-2019-and-2020",
+  "urlSlug": "digital-deluxe",
+  "creationDate": "2020-02-17T21:08:06.135Z",
+  "lastModifiedDate": "2020-05-12T16:17:36.822Z",
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "28d14314c8ea4173af7b92f9c266c66d",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "bundles"
     },
     {
-      "id": "e434b88a44624d64b0df16e1ac7c28d8",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "7a7666d101324233a7a3267374feb5b4",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "bundles/addons"
     },
     {
-      "id": "aa25cd075b874437ada453c2ccb0fd08",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
-    },
-    {
-      "id": "0a2f5338a7d948acb3bf79492a13766d",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -78,20 +56,51 @@
       "value": "paladins/digital-deluxe-edition-2019-and-2020"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_2560x1440-2560x1440-86ed63b70cea89240b748a797c303d1d.jpg",
+      "md5": "86ed63b70cea89240b748a797c303d1d",
+      "size": 458384,
+      "uploadedDate": "2020-03-19T22:05:27.865Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_2560x1440-2560x1440-86ed63b70cea89240b748a797c303d1d.jpg",
+      "md5": "86ed63b70cea89240b748a797c303d1d",
+      "size": 458384,
+      "uploadedDate": "2020-03-19T22:05:37.594Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "bundles/addons"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/PAladins_EGS_DigitalDeluxe_860x1148-860x1148-b6235b2e241f26c91c16705a419d38e4.jpg",
+      "md5": "b6235b2e241f26c91c16705a419d38e4",
+      "size": 210934,
+      "uploadedDate": "2020-03-19T22:05:45.311Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "28d14314c8ea4173af7b92f9c266c66d"
+    },
+    {
+      "id": "e434b88a44624d64b0df16e1ac7c28d8"
+    },
+    {
+      "id": "7a7666d101324233a7a3267374feb5b4"
+    },
+    {
+      "id": "aa25cd075b874437ada453c2ccb0fd08"
+    },
+    {
+      "id": "0a2f5338a7d948acb3bf79492a13766d"
+    }
+  ],
+  "catalogNs": null
 }

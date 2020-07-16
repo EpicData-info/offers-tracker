@@ -1,52 +1,63 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-27T15:00:00.000Z",
-  "creationDate": "2020-01-09T22:50:24.360Z",
-  "lastModifiedDate": "2020-05-20T15:35:54.422Z",
-  "viewableDate": null,
-  "productSlug": "snowrunner/premium-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SnowRunner Premium Edition",
   "id": "e13fb4f27d2d4008980f3566f6ee05be",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "SnowRunner Premium Edition",
   "description": "SnowRunner Premium Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_PremiumEdition_EpicGames_Desktop-Horizontal-1360x766-1360x766-38ba3d24f767a40f6dde3f00d5bee45fbe83a878-1360x766-5f619f7a15420eb2894ef24e1e6a5c64.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg"
-    }
-  ],
+  "productSlug": "snowrunner/premium-edition",
+  "urlSlug": "mayflower-premium-edition",
+  "creationDate": "2020-01-09T22:50:24.360Z",
+  "lastModifiedDate": "2020-05-20T15:35:54.422Z",
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6992654ef5a545c1adba1e6c6f74d5d9",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "7b23f1e576ff442ab2d2a0e6b8a2dfcd",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -67,17 +78,51 @@
       "value": "snowrunner/premium-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_PremiumEdition_EpicGames_Desktop-Horizontal-1360x766-1360x766-38ba3d24f767a40f6dde3f00d5bee45fbe83a878-1360x766-5f619f7a15420eb2894ef24e1e6a5c64.jpg",
+      "md5": "5f619f7a15420eb2894ef24e1e6a5c64",
+      "size": 372872,
+      "uploadedDate": "2020-04-21T22:02:51.092Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg",
+      "md5": "c9d5f773bc014b6c49a62b5008553ac8",
+      "size": 343850,
+      "uploadedDate": "2020-04-21T22:03:25.358Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg",
+      "md5": "c9d5f773bc014b6c49a62b5008553ac8",
+      "size": 343850,
+      "uploadedDate": "2020-04-21T22:03:36.622Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/Diesel_productv2_snowrunner_premium-edition_SnowRunner_PremiumEdition_EpicGames_PortraitImage_860x1148-860x1148-6cc8701f0eeacc56116afcd87df2719e5e73cdf3-860x1148-c9d5f773bc014b6c49a62b5008553ac8-860x1148-c9d5f773bc014b6c49a62b5008553ac8.jpg",
+      "md5": "c9d5f773bc014b6c49a62b5008553ac8",
+      "size": 343850,
+      "uploadedDate": "2020-04-21T22:03:48.906Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6992654ef5a545c1adba1e6c6f74d5d9"
+    },
+    {
+      "id": "7b23f1e576ff442ab2d2a0e6b8a2dfcd"
+    }
+  ],
+  "catalogNs": null
 }

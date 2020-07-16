@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-16T15:00:00.000Z",
-  "creationDate": "2019-11-05T02:31:39.881Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Just Cause 4 Black Market Pack",
   "id": "307a91d9be3b474aa463fde6fea1897d",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "title": "Just Cause 4 Black Market Pack",
   "description": "Just Cause 4 Black Market Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-2560x1440-2560x1440-80ae4289c19140b5479f1af4067d65a6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-860x1148-860x1148-445bcd619a6e8deed4b89e2d303ac02e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-860x1148-860x1148-445bcd619a6e8deed4b89e2d303ac02e-860x1148-445bcd619a6e8deed4b89e2d303ac02e.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "black-market-pack",
+  "creationDate": "2019-11-05T02:31:39.881Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
-    {
-      "id": "a9fb9362cd894c34ac4c8a93c520011d",
-      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Square Enix"
-    },
-    {
-      "key": "developerName",
-      "value": "Avalanche Studios"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,111 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Square Enix"
+    },
+    {
+      "key": "developerName",
+      "value": "Avalanche Studios"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-2560x1440-2560x1440-80ae4289c19140b5479f1af4067d65a6.jpg",
+      "md5": "80ae4289c19140b5479f1af4067d65a6",
+      "size": 253434,
+      "uploadedDate": "2020-02-26T19:22:03.946Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-860x1148-860x1148-445bcd619a6e8deed4b89e2d303ac02e.jpg",
+      "md5": "445bcd619a6e8deed4b89e2d303ac02e",
+      "size": 107327,
+      "uploadedDate": "2020-02-26T19:22:12.309Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Black-Market-Pack-860x1148-860x1148-445bcd619a6e8deed4b89e2d303ac02e-860x1148-445bcd619a6e8deed4b89e2d303ac02e.jpg",
+      "md5": "445bcd619a6e8deed4b89e2d303ac02e",
+      "size": 107327,
+      "uploadedDate": "2020-04-10T15:39:52.666Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "a9fb9362cd894c34ac4c8a93c520011d"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,45 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-15T15:00:00.000Z",
-  "creationDate": "2020-01-09T19:32:58.199Z",
-  "lastModifiedDate": "2020-05-11T15:26:50.362Z",
-  "viewableDate": null,
-  "productSlug": "overpass/smart-start-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overpass Smart Start Pack",
   "id": "bb109591258c470688216b30c46a82a7",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "title": "Overpass Smart Start Pack",
   "description": "Overpass Smart Start Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_MobileVertical-510x680-fc6df2c6cc485712dc9698ebeaa09278.JPG"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_DesktopHorizontal-1360x766-54bff302a49cd48e212a6ae70fd1bd06.JPG"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_SmartStart_Wide-1360x766-52c9454f06ba3a428e1674e059bdbec2.jpg"
-    }
-  ],
+  "productSlug": "overpass/smart-start-pack",
+  "urlSlug": "sandpipersmartstartpackaudience",
+  "creationDate": "2020-01-09T19:32:58.199Z",
+  "lastModifiedDate": "2020-05-11T15:26:50.362Z",
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a5097138baa746b193c704ef623362da",
-      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,20 +56,39 @@
       "value": "overpass/smart-start-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_MobileVertical-510x680-fc6df2c6cc485712dc9698ebeaa09278.JPG",
+      "md5": "fc6df2c6cc485712dc9698ebeaa09278",
+      "size": 317693,
+      "uploadedDate": "2020-01-15T20:36:01.434Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC3-SMARTSTARTPACK_DLC_DesktopHorizontal-1360x766-54bff302a49cd48e212a6ae70fd1bd06.JPG",
+      "md5": "54bff302a49cd48e212a6ae70fd1bd06",
+      "size": 664035,
+      "uploadedDate": "2020-01-15T20:36:18.287Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_SmartStart_Wide-1360x766-52c9454f06ba3a428e1674e059bdbec2.jpg",
+      "md5": "52c9454f06ba3a428e1674e059bdbec2",
+      "size": 261974,
+      "uploadedDate": "2020-03-06T14:54:33.600Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a5097138baa746b193c704ef623362da"
+    }
+  ],
+  "catalogNs": null
 }

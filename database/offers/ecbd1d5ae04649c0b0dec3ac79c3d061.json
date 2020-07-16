@@ -1,32 +1,34 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-01T12:56:00.000Z",
-  "creationDate": "2019-10-02T16:58:39.876Z",
-  "lastModifiedDate": "2020-05-13T20:02:03.422Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Spellbreak Press Audience",
   "id": "ecbd1d5ae04649c0b0dec3ac79c3d061",
   "namespace": "newt",
+  "title": "Spellbreak Press Audience",
   "description": "Spellbreak Press Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "spellbreakpress",
+  "creationDate": "2019-10-02T16:58:39.876Z",
+  "lastModifiedDate": "2020-05-13T20:02:03.422Z",
+  "effectiveDate": "2019-10-01T12:56:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
     "name": "Proletariat, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "74e1ff4012824ca2b34ff9b176bafeba",
-      "namespace": "newt",
-      "developer": null
+      "path": "games"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,11 +39,11 @@
       "value": "Windows"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "74e1ff4012824ca2b34ff9b176bafeba"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

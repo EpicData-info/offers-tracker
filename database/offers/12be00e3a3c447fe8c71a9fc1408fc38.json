@@ -1,64 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-19T15:00:00.000Z",
-  "creationDate": "2020-03-10T19:40:12.849Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "watch-dogs/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Watch Dogs Season Pass",
   "id": "12be00e3a3c447fe8c71a9fc1408fc38",
   "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
+  "title": "Watch Dogs Season Pass",
   "description": "Watch Dogs Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Landscape_2580x1450-2580x1450-ffd7058191da73739f8e130ec9ad3b23.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Portrait_1280x1420-1280x1420-41937e761d5064dff3203f95821c1e62.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Landscape_2580x1450-2580x1450-ffd7058191da73739f8e130ec9ad3b23.png"
-    }
-  ],
+  "productSlug": "watch-dogs/season-pass",
+  "urlSlug": "jasperseasonpassaudience",
+  "creationDate": "2020-03-10T19:40:12.849Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "2ff1af1e81e446b1af60700969c4dff5",
-      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
-      "developer": null
-    },
-    {
-      "id": "1ee6002163144d2883e3b04f91472e82",
-      "namespace": "ecebf45065bc4993abfe0e84c40ff18e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "watch-dogs/season-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -73,6 +37,62 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/ESRB_M_WD1-398x190-2e363bffdd57ed8fe6f5cb493e1ac58e.jpg",
+      "md5": "2e363bffdd57ed8fe6f5cb493e1ac58e",
+      "size": 43676,
+      "uploadedDate": "2020-03-10T03:34:17.023Z",
+      "width": 398,
+      "height": 190
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Landscape_2580x1450-2580x1450-ffd7058191da73739f8e130ec9ad3b23.png",
+      "md5": "ffd7058191da73739f8e130ec9ad3b23",
+      "size": 5684434,
+      "uploadedDate": "2020-03-18T22:09:43.245Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Portrait_1280x1420-1280x1420-41937e761d5064dff3203f95821c1e62.png",
+      "md5": "41937e761d5064dff3203f95821c1e62",
+      "size": 2930737,
+      "uploadedDate": "2020-03-18T22:10:08.366Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ecebf45065bc4993abfe0e84c40ff18e/offer/WDOG_SP_Store_Landscape_2580x1450-2580x1450-ffd7058191da73739f8e130ec9ad3b23.png",
+      "md5": "ffd7058191da73739f8e130ec9ad3b23",
+      "size": 5684434,
+      "uploadedDate": "2020-03-18T22:10:32.621Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "2ff1af1e81e446b1af60700969c4dff5"
+    },
+    {
+      "id": "1ee6002163144d2883e3b04f91472e82"
+    }
+  ],
+  "catalogNs": null
 }

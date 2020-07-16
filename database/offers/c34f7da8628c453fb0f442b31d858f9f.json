@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-14T15:00:00.000Z",
-  "creationDate": "2020-03-30T18:55:45.638Z",
-  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
-  "viewableDate": null,
-  "productSlug": "zombie-army-4-dead-war/renegade-officer",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Renegade Officer Character",
   "id": "c34f7da8628c453fb0f442b31d858f9f",
   "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Renegade Officer Character",
   "description": "Renegade Officer Character",
   "longDescription": "DLC00013",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_RenegadeOfficerCharacter-900x450-faf8cc7ee7825a2f8c08f039856170ba.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
-    }
-  ],
+  "productSlug": "zombie-army-4-dead-war/renegade-officer",
+  "urlSlug": "dlc-06",
+  "creationDate": "2020-03-30T18:55:45.638Z",
+  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
+  "effectiveDate": "2020-04-14T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
     "name": "Rebellion"
   },
-  "items": [
-    {
-      "id": "4a9885ded051495b93e273e59ca3f096",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/renegade-officer"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,123 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/renegade-officer"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_RenegadeOfficerCharacter-900x450-faf8cc7ee7825a2f8c08f039856170ba.png",
+      "md5": "faf8cc7ee7825a2f8c08f039856170ba",
+      "size": 556483,
+      "uploadedDate": "2020-04-22T18:14:19.661Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "size": 85825,
+      "uploadedDate": "2020-04-22T18:15:27.570Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "size": 85825,
+      "uploadedDate": "2020-04-22T18:15:38.662Z",
+      "width": 330,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "4a9885ded051495b93e273e59ca3f096"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,81 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-12T12:00:00.000Z",
-  "creationDate": "2019-07-15T15:22:54.106Z",
-  "lastModifiedDate": "2020-05-13T19:58:18.286Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RUNE II - Berserker Rage Pre-Purchase",
   "id": "09c6de9635ff4a1cade8bbf286889c8e",
   "namespace": "cosmos",
+  "title": "RUNE II - Berserker Rage Pre-Purchase",
   "description": "RUNE II - Berserker Rage Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/RuneII_BerserkerRage-355x150-467bff2c5e6bf37c6d8e923c991de16b.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "rune-ii-berserker-rage-pre-purchase",
+  "creationDate": "2019-07-15T15:22:54.106Z",
+  "lastModifiedDate": "2020-05-13T19:58:18.286Z",
+  "effectiveDate": "2019-07-12T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
     "name": "Ragnarok Game, LLC"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "70c30983cf0948e4bffc23505f232b11",
-      "namespace": "cosmos",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "974e25b4bce6425d9af79cd5ffd64152",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "159d92ebec254ecf8373709a99388a62",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "cc67628ab455419cb3d4ecc907febbb7",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "ed503af371e3427d852168a794b4aa3c",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "2f742aa604a441d1a145f70411e9d8d2",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "ed28fb47adf84fb38062ce7092331548",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "2d308457739f4434b4d178273078c283",
-      "namespace": "cosmos",
-      "developer": null
-    },
-    {
-      "id": "1e7dfe3e4859410da0f7a3a7a9e59e47",
-      "namespace": "cosmos",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -94,14 +50,54 @@
       "value": "Human Head Studios, Inc."
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_Rune2-340x440-f08e22c1d9e2df849a51bbab19de7627.png",
+      "md5": "f08e22c1d9e2df849a51bbab19de7627",
+      "size": 222894,
+      "uploadedDate": "2019-07-15T15:19:21.213Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RuneII_BerserkerRage-355x150-467bff2c5e6bf37c6d8e923c991de16b.png",
+      "md5": "467bff2c5e6bf37c6d8e923c991de16b",
+      "size": 107427,
+      "uploadedDate": "2019-07-15T15:19:39.290Z",
+      "width": 355,
+      "height": 150
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "70c30983cf0948e4bffc23505f232b11"
+    },
+    {
+      "id": "974e25b4bce6425d9af79cd5ffd64152"
+    },
+    {
+      "id": "159d92ebec254ecf8373709a99388a62"
+    },
+    {
+      "id": "cc67628ab455419cb3d4ecc907febbb7"
+    },
+    {
+      "id": "ed503af371e3427d852168a794b4aa3c"
+    },
+    {
+      "id": "2f742aa604a441d1a145f70411e9d8d2"
+    },
+    {
+      "id": "ed28fb47adf84fb38062ce7092331548"
+    },
+    {
+      "id": "2d308457739f4434b4d178273078c283"
+    },
+    {
+      "id": "1e7dfe3e4859410da0f7a3a7a9e59e47"
+    }
+  ],
+  "catalogNs": null
 }

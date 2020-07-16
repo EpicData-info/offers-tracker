@@ -1,55 +1,51 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-02T00:00:00.000Z",
-  "creationDate": "2019-08-29T22:54:31.641Z",
-  "lastModifiedDate": "2020-07-09T18:01:07.860Z",
-  "viewableDate": null,
-  "productSlug": "atlas-mod-kit",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Atlas Mod Kit",
   "id": "49841c56d62b4490a394a7889651e948",
   "namespace": "96ccba8fe8e649dfa6f96cee11e625e1",
+  "title": "Atlas Mod Kit",
   "description": "Atlas Mod Kit",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/IC1-512x512-c9fa29d8cb6b6f781f4e62c9a59af163.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/96ccba8fe8e649dfa6f96cee11e625e1/offer/Atlas_Promo-2560x1440-81cac00265cf28ee53cf2d9b192f0293-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg"
-    }
-  ],
+  "productSlug": "atlas-mod-kit",
+  "urlSlug": "atlas-mod-kit",
+  "creationDate": "2019-08-29T22:54:31.641Z",
+  "lastModifiedDate": "2020-07-09T18:01:07.860Z",
+  "effectiveDate": "2019-01-02T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-usvfbmlqdt678vrp36qvm2d5cz2cpr",
     "name": "Studio Wildcard"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "35cc51553a9d406798e02d063c18ea43",
-      "namespace": "96ccba8fe8e649dfa6f96cee11e625e1",
-      "developer": null
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,17 +62,66 @@
       "value": "atlas-mod-kit"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg",
+      "md5": "81cac00265cf28ee53cf2d9b192f0293",
+      "size": 737100,
+      "uploadedDate": "2019-09-27T02:14:14.437Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "editors"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg",
+      "md5": "7b2ea3e2f1111a05d1b31bbe8505d3dc",
+      "size": 775035,
+      "uploadedDate": "2019-09-27T02:15:00.936Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/IC1-512x512-c9fa29d8cb6b6f781f4e62c9a59af163.png",
+      "md5": "c9fa29d8cb6b6f781f4e62c9a59af163",
+      "size": 388252,
+      "uploadedDate": "2019-09-27T02:31:03.302Z",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S2 (1)-2560x1440-7b2ea3e2f1111a05d1b31bbe8505d3dc.jpg",
+      "md5": "7b2ea3e2f1111a05d1b31bbe8505d3dc",
+      "size": 775035,
+      "uploadedDate": "2019-09-27T02:15:00.936Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/96ccba8fe8e649dfa6f96cee11e625e1/offer/Atlas_Promo-2560x1440-81cac00265cf28ee53cf2d9b192f0293-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg",
+      "md5": "81cac00265cf28ee53cf2d9b192f0293",
+      "size": 737100,
+      "uploadedDate": "2019-10-02T20:06:43.310Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/S1 (2) (1)-2560x1440-81cac00265cf28ee53cf2d9b192f0293.jpg",
+      "md5": "81cac00265cf28ee53cf2d9b192f0293",
+      "size": 737100,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "35cc51553a9d406798e02d063c18ea43"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-20T13:00:00.000Z",
-  "creationDate": "2019-01-29T17:59:58.345Z",
-  "lastModifiedDate": "2020-06-18T13:39:53.958Z",
-  "viewableDate": null,
-  "productSlug": "heavy-rain/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Heavy Rain",
   "id": "b1f5e946cb694968849f5b4331f27db5",
   "namespace": "aster",
+  "title": "Heavy Rain",
   "description": "Heavy Rain",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    }
-  ],
+  "productSlug": "heavy-rain/home",
+  "urlSlug": "astergeneralaudience",
+  "creationDate": "2019-01-29T17:59:58.345Z",
+  "lastModifiedDate": "2020-06-18T13:39:53.958Z",
+  "effectiveDate": "2019-06-20T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6",
-      "namespace": "aster",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "heavy-rain/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg",
+      "md5": "def4bcca48fac743496bc5c1158a4f86",
+      "size": 368788,
+      "uploadedDate": "2020-02-28T14:17:47.656Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-04-09T17:18:17.602Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-04-09T17:18:24.846Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:08:16.792Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN1-2560x1440-def4bcca48fac743496bc5c1158a4f86-2560x1440-def4bcca48fac743496bc5c1158a4f86.jpg",
+      "md5": "def4bcca48fac743496bc5c1158a4f86",
+      "size": 368788,
+      "uploadedDate": "2020-05-13T20:08:34.285Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:08:44.653Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9fa7cfffd9ab4a08a7a489d2151ba6a6"
+    }
+  ],
+  "catalogNs": null
 }

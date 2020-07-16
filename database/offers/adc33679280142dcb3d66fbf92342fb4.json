@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-29T11:05:00.000Z",
-  "creationDate": "2019-08-19T18:11:24.509Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "ooblets/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ooblets",
   "id": "adc33679280142dcb3d66fbf92342fb4",
   "namespace": "epic",
+  "title": "Ooblets",
   "description": "Ooblets",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_L1_noLogo-2560x1440-95e762adeee5d9d533cf2c1cc2b26ea1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_S2_noLogo-1280x1440-60852bbb6032743cc2e4c78f0e5b2d38.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_IC1_COLOUR-958x279-03d7224e09b4a949a8e4b2e589e172a0.png"
-    }
-  ],
+  "productSlug": "ooblets/home",
+  "urlSlug": "ooblets",
+  "creationDate": "2019-08-19T18:11:24.509Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-08-29T11:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-q293du8hx3hhcjbqzrmfz6cz48hk6x",
     "name": "Glumberland"
   },
-  "items": [
+  "linkedOfferId": "fafa9c3177db4dd6a1b225efe4fe904c",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,22 +124,39 @@
       "value": "fafa9c3177db4dd6a1b225efe4fe904c"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_L1_noLogo-2560x1440-95e762adeee5d9d533cf2c1cc2b26ea1.jpg",
+      "md5": "95e762adeee5d9d533cf2c1cc2b26ea1",
+      "size": 243358,
+      "uploadedDate": "2019-08-19T18:04:45.617Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_S2_noLogo-1280x1440-60852bbb6032743cc2e4c78f0e5b2d38.jpg",
+      "md5": "60852bbb6032743cc2e4c78f0e5b2d38",
+      "size": 129314,
+      "uploadedDate": "2019-08-19T18:04:53.591Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_GLUMBERLAND_OOBLETS_IC1_COLOUR-958x279-03d7224e09b4a949a8e4b2e589e172a0.png",
+      "md5": "03d7224e09b4a949a8e4b2e589e172a0",
+      "size": 20910,
+      "uploadedDate": "2019-08-19T18:05:23.231Z",
+      "width": 958,
+      "height": 279
     }
   ],
-  "linkedOfferId": "fafa9c3177db4dd6a1b225efe4fe904c",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "developerName",
-        "value": "Glumberland"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "ooblets/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

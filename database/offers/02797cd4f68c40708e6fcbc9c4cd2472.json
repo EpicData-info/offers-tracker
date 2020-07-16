@@ -1,43 +1,87 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-16T15:00:00.000Z",
-  "creationDate": "2019-10-09T22:14:32.482Z",
-  "lastModifiedDate": "2020-05-27T21:35:01.052Z",
-  "viewableDate": null,
-  "productSlug": "heavy-rain/demo",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Heavy Rain - Demo",
   "id": "02797cd4f68c40708e6fcbc9c4cd2472",
   "namespace": "aster",
+  "title": "Heavy Rain - Demo",
   "description": "Heavy Rain - Demo",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/aster/offer/HeavyRainDemo-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg"
-    }
-  ],
+  "productSlug": "heavy-rain/demo",
+  "urlSlug": "heavy-rain-demo-audience-01",
+  "creationDate": "2019-10-09T22:14:32.482Z",
+  "lastModifiedDate": "2020-05-27T21:35:01.052Z",
+  "effectiveDate": "2019-10-16T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a7c0fc4c36f1471aabf3426fa56fb133",
-      "namespace": "aster",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,17 +98,39 @@
       "value": "heavy-rain/demo"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aster/offer/HeavyRainDemo-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d-2560x1440-a1fa80abd715b161ac8b71007d1bbf7d.png",
+      "md5": "a1fa80abd715b161ac8b71007d1bbf7d",
+      "size": 1234424,
+      "uploadedDate": "2020-02-27T15:10:45.676Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/demo"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:09:13.914Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aster/offer/HEAVYRAIN2-860x1148-1bbec73268268bf6901efc1206f46462-860x1148-1bbec73268268bf6901efc1206f46462.jpg",
+      "md5": "1bbec73268268bf6901efc1206f46462",
+      "size": 165439,
+      "uploadedDate": "2020-05-13T20:09:22.350Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a7c0fc4c36f1471aabf3426fa56fb133"
+    }
+  ],
+  "catalogNs": null
 }

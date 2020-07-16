@@ -1,59 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-07T16:00:00.000Z",
-  "creationDate": "2019-01-16T13:52:56.412Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "jackbox-party-pack-3",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Jackbox Party Pack 3",
   "id": "b4549b0a846e4fa289f87b48007fc42e",
   "namespace": "orchid",
+  "title": "The Jackbox Party Pack 3",
   "description": "Jackbox Party Pack 3",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-340x440-c697891148fe8d980d598d1f71de9a4d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-330x440-545a7dae85c5e413e08c0e5a1dc5e726.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg"
-    }
-  ],
+  "productSlug": "jackbox-party-pack-3",
+  "urlSlug": "orchidgeneralaudience",
+  "creationDate": "2019-01-16T13:52:56.412Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-02-07T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
     "name": "Jackbox Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "42dae6ad75084c93aeb37e2bbed120df",
-      "namespace": "orchid",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +128,75 @@
       "value": "jackbox-party-pack-3"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg",
+      "md5": "8edf26dc88b4b389d88c69e08b1cd5d4",
+      "size": 342835,
+      "uploadedDate": "2019-01-29T17:21:09.318Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Logo_White-1920x1345-b595fd0cfd5be984b35cfd80fe703b1f.png",
+      "md5": "b595fd0cfd5be984b35cfd80fe703b1f",
+      "size": 124503,
+      "uploadedDate": "2019-01-29T17:21:20.872Z",
+      "width": 1920,
+      "height": 1345
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg",
+      "md5": "64e631ba371afc02c2a1a47b698bf435",
+      "size": 315586,
+      "uploadedDate": "2019-02-06T21:03:31.798Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/JackboxPartyPack3_Hero_Portrait-1280x1420-8edf26dc88b4b389d88c69e08b1cd5d4.jpg",
+      "md5": "8edf26dc88b4b389d88c69e08b1cd5d4",
+      "size": 342835,
+      "uploadedDate": "2019-01-29T17:21:09.318Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-340x440-c697891148fe8d980d598d1f71de9a4d.jpg",
+      "md5": "c697891148fe8d980d598d1f71de9a4d",
+      "size": 89478,
+      "uploadedDate": "2019-02-04T14:38:00.499Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/orchid/offer/JPP3_CodeRedemption-330x440-545a7dae85c5e413e08c0e5a1dc5e726.png",
+      "md5": "545a7dae85c5e413e08c0e5a1dc5e726",
+      "size": 65366,
+      "uploadedDate": "2019-04-23T20:49:26.855Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TJBPP3 Primary Promo-2580x1450-64e631ba371afc02c2a1a47b698bf435.jpg",
+      "md5": "64e631ba371afc02c2a1a47b698bf435",
+      "size": 315586,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "42dae6ad75084c93aeb37e2bbed120df"
+    }
+  ],
+  "catalogNs": null
 }

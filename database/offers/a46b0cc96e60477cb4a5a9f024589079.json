@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-14T16:00:00.000Z",
-  "creationDate": "2019-09-10T14:24:53.254Z",
-  "lastModifiedDate": "2020-05-14T19:40:40.815Z",
-  "viewableDate": null,
-  "productSlug": "the-messenger/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Messenger",
   "id": "a46b0cc96e60477cb4a5a9f024589079",
   "namespace": "752368fdba244e9386023cfb2b9d6ceb",
+  "title": "The Messenger",
   "description": "The Messenger",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sabotage_TheMessenger_IC1_ColorMessengerLogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_N1_2560x1440-2560x1440-1573e62aec3e4b7ebb4b36dc9493e1ca.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg"
-    }
-  ],
+  "productSlug": "the-messenger/home",
+  "urlSlug": "jaygeneralaudience",
+  "creationDate": "2019-09-10T14:24:53.254Z",
+  "lastModifiedDate": "2020-05-14T19:40:40.815Z",
+  "effectiveDate": "2019-11-14T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fd897376fdbe448ab3e493e460f774c5",
-      "namespace": "752368fdba244e9386023cfb2b9d6ceb",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "METROIDVANIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2020-05-14T19:40:40.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +129,75 @@
       "value": "the-messenger/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg",
+      "md5": "2c0f61495337929726a901f96a8fadbe",
+      "size": 295600,
+      "uploadedDate": "2019-10-11T21:07:43.631Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
+      "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
+      "size": 306683,
+      "uploadedDate": "2019-10-11T21:07:53.866Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sabotage_TheMessenger_IC1_ColorMessengerLogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png",
+      "md5": "7d036d8b7ff2c9a37498d5bd137893a1",
+      "size": 463454,
+      "uploadedDate": "2019-11-07T19:07:06.070Z",
+      "width": 986,
+      "height": 420
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
+      "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
+      "size": 306683,
+      "uploadedDate": "2019-10-11T21:07:53.866Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
+      "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
+      "size": 306683,
+      "uploadedDate": "2019-11-06T22:39:39.594Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/752368fdba244e9386023cfb2b9d6ceb/offer/EGS_Sabotage_TheMessenger_N1_2560x1440-2560x1440-1573e62aec3e4b7ebb4b36dc9493e1ca.jpg",
+      "md5": "1573e62aec3e4b7ebb4b36dc9493e1ca",
+      "size": 537122,
+      "uploadedDate": "2019-11-06T22:39:51.671Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg",
+      "md5": "2c0f61495337929726a901f96a8fadbe",
+      "size": 295600,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fd897376fdbe448ab3e493e460f774c5"
+    }
+  ],
+  "catalogNs": null
 }

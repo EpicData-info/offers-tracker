@@ -1,47 +1,111 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-14T15:00:00.000Z",
-  "creationDate": "2020-03-30T18:53:16.530Z",
-  "lastModifiedDate": "2020-06-23T14:10:04.166Z",
-  "viewableDate": null,
-  "productSlug": "zombie-army-4-dead-war/blood-count",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mission 2 - Blood Count",
   "id": "69ea5dc33bb74632a6cfcdad236ecbcc",
   "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Mission 2 - Blood Count",
   "description": "Mission 2 - Blood Count",
   "longDescription": "DLC00012",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4_M-842x485-375dd8a8a4d03ed40a73871fdc1a5cee.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_BloodCount-900x450-70c915063a125a074c0106a0a96f2b10.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg"
-    }
-  ],
+  "productSlug": "zombie-army-4-dead-war/blood-count",
+  "urlSlug": "dlc-05",
+  "creationDate": "2020-03-30T18:53:16.530Z",
+  "lastModifiedDate": "2020-06-23T14:10:04.166Z",
+  "effectiveDate": "2020-04-14T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
     "name": "Rebellion"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b59aa34734f64c839e7a392aabfc50be",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,17 +118,48 @@
       "value": "zombie-army-4-dead-war/blood-count"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4_M-842x485-375dd8a8a4d03ed40a73871fdc1a5cee.jpg",
+      "md5": "375dd8a8a4d03ed40a73871fdc1a5cee",
+      "size": 118925,
+      "uploadedDate": "2020-01-07T17:54:54.889Z",
+      "width": 842,
+      "height": 485
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_BloodCount-900x450-70c915063a125a074c0106a0a96f2b10.png",
+      "md5": "70c915063a125a074c0106a0a96f2b10",
+      "size": 706168,
+      "uploadedDate": "2020-04-22T17:46:13.189Z",
+      "width": 900,
+      "height": 450
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "size": 85825,
+      "uploadedDate": "2020-04-22T17:46:38.933Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
+      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
+      "size": 85825,
+      "uploadedDate": "2020-04-22T17:46:48.737Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b59aa34734f64c839e7a392aabfc50be"
+    }
+  ],
+  "catalogNs": null
 }

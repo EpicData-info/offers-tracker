@@ -1,55 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-10T15:00:00.000Z",
-  "creationDate": "2019-09-03T14:07:35.855Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "surviving-mars",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Surviving Mars",
   "id": "39516a5b66d04b75b25a810e593b0a97",
   "namespace": "d759128018124dcabb1fbee9bb28e178",
+  "title": "Surviving Mars",
   "description": "Surviving Mars",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S1_Store Primary Promo (Landscape)-2560x1440-ef059cb5bccdef0947c508db16e4a14a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S2_Store Primary Promo (Portrait)-1280x1440-0eaf5ed168d8aadd7f63c808765e9021.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S2_Store Primary Promo (Portrait)-1280x1440-0eaf5ed168d8aadd7f63c808765e9021.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_PDX_SurvivingMars_IC1_GameLogoRed-2560x844-a3b788af1422e4c4574c7c6be6464fbdb78d9251.png"
-    }
-  ],
+  "productSlug": "surviving-mars",
+  "urlSlug": "ovenbirdgeneralaudience",
+  "creationDate": "2019-09-03T14:07:35.855Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-10-10T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ec29df5e28c642dd814aecbfa68f8488",
-      "namespace": "d759128018124dcabb1fbee9bb28e178",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +144,66 @@
       "value": "surviving-mars"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S1_Store Primary Promo (Landscape)-2560x1440-ef059cb5bccdef0947c508db16e4a14a.jpg",
+      "md5": "ef059cb5bccdef0947c508db16e4a14a",
+      "size": 455338,
+      "uploadedDate": "2019-11-25T13:28:29.949Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S2_Store Primary Promo (Portrait)-1280x1440-0eaf5ed168d8aadd7f63c808765e9021.jpg",
+      "md5": "0eaf5ed168d8aadd7f63c808765e9021",
+      "size": 493776,
+      "uploadedDate": "2019-11-25T13:28:43.893Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PDX_SurvivingMars_S2_Store Primary Promo (Portrait)-1280x1440-0eaf5ed168d8aadd7f63c808765e9021.jpg",
+      "md5": "0eaf5ed168d8aadd7f63c808765e9021",
+      "size": 493776,
+      "uploadedDate": "2019-11-25T13:28:43.893Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg",
+      "md5": "d3bf4bea36581cf967044ef712e67f9c",
+      "size": 148525,
+      "uploadedDate": "2019-10-01T21:38:56.899Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/CodeRedemption_SurvivingMars-340x440-d3bf4bea36581cf967044ef712e67f9c.jpg",
+      "md5": "d3bf4bea36581cf967044ef712e67f9c",
+      "size": 148525,
+      "uploadedDate": "2019-10-01T21:39:07.609Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d759128018124dcabb1fbee9bb28e178/offer/EGS_PDX_SurvivingMars_IC1_GameLogoRed-2560x844-a3b788af1422e4c4574c7c6be6464fbdb78d9251.png",
+      "md5": "e1896a459f62cb9782b6e69b9dab914b",
+      "size": 86318,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 844
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ec29df5e28c642dd814aecbfa68f8488"
+    }
+  ],
+  "catalogNs": null
 }

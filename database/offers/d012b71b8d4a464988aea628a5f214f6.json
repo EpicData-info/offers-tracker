@@ -1,64 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-02T00:00:00.000Z",
-  "creationDate": "2019-07-26T19:54:59.464Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "for-honor/battle-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "For Honor - Marching Fire Expansion Pack",
   "id": "d012b71b8d4a464988aea628a5f214f6",
   "namespace": "sundrop",
+  "title": "For Honor - Marching Fire Expansion Pack",
   "description": "For Honor - Marching Fire Expansion Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/sundrop/offer/ForHonorMarchingFireExpansionLogo-1920x1080-299a93b43f805ec00d3157f08857aadd53373edb.png"
-    }
-  ],
+  "productSlug": "for-honor/battle-pass",
+  "urlSlug": "for-honor-fire-pack-dlc",
+  "creationDate": "2019-07-26T19:54:59.464Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-08-02T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "2b6cfd0f847d4f91a381aa6b66fcd50c",
-      "namespace": "sundrop",
-      "developer": null
-    },
-    {
-      "id": "850aad6cb1814020aa8b8e529b5deed4",
-      "namespace": "sundrop",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "for-honor/battle-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -73,6 +37,57 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "for-honor/battle-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg",
+      "md5": "a4f5cdc9b3a5066908f238168e70ab41",
+      "size": 155259,
+      "uploadedDate": "2019-07-26T19:54:25.739Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionFORHONOR-340x440-a4f5cdc9b3a5066908f238168e70ab41.jpg",
+      "md5": "a4f5cdc9b3a5066908f238168e70ab41",
+      "size": 155259,
+      "uploadedDate": "2019-07-26T19:54:35.937Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/ForHonorMarchingFireExpansionLogo-1920x1080-299a93b43f805ec00d3157f08857aadd53373edb.png",
+      "md5": "a995b7b99e56dd9db90b8acb10c60a56",
+      "size": 147491,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "2b6cfd0f847d4f91a381aa6b66fcd50c"
+    },
+    {
+      "id": "850aad6cb1814020aa8b8e529b5deed4"
+    }
+  ],
+  "catalogNs": null
 }

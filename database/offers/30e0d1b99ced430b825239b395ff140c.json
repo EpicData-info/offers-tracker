@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-18T14:00:00.000Z",
-  "creationDate": "2019-04-19T17:58:21.491Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "shenmue-3/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Shenmue III",
   "id": "30e0d1b99ced430b825239b395ff140c",
   "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
+  "title": "Shenmue III",
   "description": "Shenmue 3",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_home_S3_Editions_StandardEdition-(1)-3840x2160-b52887d728ec986309c80e7c3bef5962a702abd7-3840x2160-4be4e333fa890045c6a24f93008b3291.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_home_S3_Editions_StandardEdition-(1)-3840x2160-b52887d728ec986309c80e7c3bef5962a702abd7-3840x2160-4be4e333fa890045c6a24f93008b3291.jpg"
-    }
-  ],
+  "productSlug": "shenmue-3/home",
+  "urlSlug": "pepper",
+  "creationDate": "2019-04-19T17:58:21.491Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-11-18T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a3c366099f8242d2a6e63cfa9f08b93b",
-      "namespace": "5d582c08e31a43128a61093a2c3ff7f0",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "shenmue-3/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2019-06-03T21:10:05.576Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2019-06-03T21:12:49.999Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2020-05-13T15:47:46.302Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_home_S3_Editions_StandardEdition-(1)-3840x2160-b52887d728ec986309c80e7c3bef5962a702abd7-3840x2160-4be4e333fa890045c6a24f93008b3291.jpg",
+      "md5": "4be4e333fa890045c6a24f93008b3291",
+      "size": 768168,
+      "uploadedDate": "2020-05-13T15:47:58.241Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/CodeRedemption_Shenmue-340x440-e05a68a36002a213611001ff73610531-340x440-e05a68a36002a213611001ff73610531.png",
+      "md5": "e05a68a36002a213611001ff73610531",
+      "size": 243020,
+      "uploadedDate": "2020-05-13T15:48:12.167Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d582c08e31a43128a61093a2c3ff7f0/offer/Diesel_productv2_shenmue-3_home_S3_Editions_StandardEdition-(1)-3840x2160-b52887d728ec986309c80e7c3bef5962a702abd7-3840x2160-4be4e333fa890045c6a24f93008b3291.jpg",
+      "md5": "4be4e333fa890045c6a24f93008b3291",
+      "size": 768168,
+      "uploadedDate": "2020-05-13T15:48:32.527Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a3c366099f8242d2a6e63cfa9f08b93b"
+    }
+  ],
+  "catalogNs": null
 }

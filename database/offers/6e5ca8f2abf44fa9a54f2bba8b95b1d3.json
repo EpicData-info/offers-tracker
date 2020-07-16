@@ -1,47 +1,120 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-26T15:00:00.000Z",
-  "creationDate": "2019-09-24T19:18:27.768Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "minit/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Minit",
   "id": "6e5ca8f2abf44fa9a54f2bba8b95b1d3",
   "namespace": "epic",
+  "title": "Minit",
   "description": "Minit",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Minit-2578x1028-7f50d57b860cf02768c979eb35715b2d.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_L1_library_promo-2560x1440-c051f2ac59e585262f03b233c18b8304.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_S2_store_promo_portrait-1280x1440-39ff6477e8f475577b0a751035ef4a4a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-b739c4e7e9c9f802bcc400ac58f16c5b.png"
-    }
-  ],
+  "productSlug": "minit/home",
+  "urlSlug": "minit",
+  "creationDate": "2019-09-24T19:18:27.768Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-09-26T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": "c3bb66a9e2064fa580597cee86cbc1df",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,30 +139,48 @@
       "value": "c3bb66a9e2064fa580597cee86cbc1df"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/FreeTile_Minit-2578x1028-7f50d57b860cf02768c979eb35715b2d.png",
+      "md5": "7f50d57b860cf02768c979eb35715b2d",
+      "size": 320906,
+      "uploadedDate": "2019-09-25T14:34:02.710Z",
+      "width": 2578,
+      "height": 1028
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_L1_library_promo-2560x1440-c051f2ac59e585262f03b233c18b8304.jpg",
+      "md5": "c051f2ac59e585262f03b233c18b8304",
+      "size": 174162,
+      "uploadedDate": "2019-09-25T14:34:27.213Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_S2_store_promo_portrait-1280x1440-39ff6477e8f475577b0a751035ef4a4a.jpg",
+      "md5": "39ff6477e8f475577b0a751035ef4a4a",
+      "size": 118316,
+      "uploadedDate": "2019-09-25T14:34:48.041Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_DEVOLVER_MINIT_IC1_game_logo_white-836x300-b739c4e7e9c9f802bcc400ac58f16c5b.png",
+      "md5": "b739c4e7e9c9f802bcc400ac58f16c5b",
+      "size": 19241,
+      "uploadedDate": "2019-09-25T14:34:59.625Z",
+      "width": 836,
+      "height": 300
     }
   ],
-  "linkedOfferId": "c3bb66a9e2064fa580597cee86cbc1df",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Devolver Digital"
-      },
-      {
-        "key": "developerName",
-        "value": "JW, Kitty, Jukio, and Dom"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "minit/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

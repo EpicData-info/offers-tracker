@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-13T18:00:00.000Z",
-  "creationDate": "2019-10-11T15:40:09.642Z",
-  "lastModifiedDate": "2020-04-09T21:08:29.653Z",
-  "viewableDate": null,
-  "productSlug": "battle-breakers/home",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Battle Breakers",
   "id": "dfefaf7a3c87444bbed16f58d62fd78d",
   "namespace": "wex",
+  "title": "Battle Breakers",
   "description": "Battle Breakers",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Logo_BattleBreakers_Final-1920x1080-fcce375b2d2c0b41fd2d6dcff0f09779.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/wex/offer/EG_Store_BattleBreakers_Vertical-420x560-ee34bc3a723731505fb5dea834678013.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/wex/offer/BB_EGS_Launcher_M1-800x800-c50edffc0884ac941473548f4c02597c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg"
-    }
-  ],
+  "productSlug": "battle-breakers/home",
+  "urlSlug": "battle-breakers-free-audience-access-item",
+  "creationDate": "2019-10-11T15:40:09.642Z",
+  "lastModifiedDate": "2020-04-09T21:08:29.653Z",
+  "effectiveDate": "2019-11-13T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e458e71024404176addca212860f9ef2",
-      "namespace": "wex",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +113,75 @@
       "value": "battle-breakers/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Logo_BattleBreakers_Final-1920x1080-fcce375b2d2c0b41fd2d6dcff0f09779.png",
+      "md5": "fcce375b2d2c0b41fd2d6dcff0f09779",
+      "size": 8312130,
+      "uploadedDate": "2019-10-28T19:39:54.567Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg",
+      "md5": "b5b39ca508dcc33eef81fea0e5d3cc5c",
+      "size": 2904795,
+      "uploadedDate": "2019-10-28T19:40:05.516Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg",
+      "md5": "f50d07c9bb6e9ffdb35623f0992dcd7e",
+      "size": 1722691,
+      "uploadedDate": "2019-10-28T19:40:14.434Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S2-1280x1440-f50d07c9bb6e9ffdb35623f0992dcd7e.jpg",
+      "md5": "f50d07c9bb6e9ffdb35623f0992dcd7e",
+      "size": 1722691,
+      "uploadedDate": "2019-10-28T19:40:14.434Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/wex/offer/EG_Store_BattleBreakers_Vertical-420x560-ee34bc3a723731505fb5dea834678013.jpg",
+      "md5": "ee34bc3a723731505fb5dea834678013",
+      "size": 343018,
+      "uploadedDate": "2019-11-11T22:19:31.650Z",
+      "width": 420,
+      "height": 560
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/wex/offer/BB_EGS_Launcher_M1-800x800-c50edffc0884ac941473548f4c02597c.jpg",
+      "md5": "c50edffc0884ac941473548f4c02597c",
+      "size": 758836,
+      "uploadedDate": "2019-11-11T22:27:55.998Z",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/BB_EGS_Launcher_S1-2560x1440-b5b39ca508dcc33eef81fea0e5d3cc5c.jpg",
+      "md5": "b5b39ca508dcc33eef81fea0e5d3cc5c",
+      "size": 2904795,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e458e71024404176addca212860f9ef2"
+    }
+  ],
+  "catalogNs": null
 }

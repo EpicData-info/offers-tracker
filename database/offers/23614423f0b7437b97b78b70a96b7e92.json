@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-11T00:00:00.000Z",
-  "creationDate": "2019-07-12T21:26:47.744Z",
-  "lastModifiedDate": "2020-07-02T18:38:01.157Z",
-  "viewableDate": null,
-  "productSlug": "manifold-garden/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Manifold Garden",
   "id": "23614423f0b7437b97b78b70a96b7e92",
   "namespace": "015763e579d4479cb1ef7780bf91804f",
+  "title": "Manifold Garden",
   "description": "Manifold Garden",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg"
-    }
-  ],
+  "productSlug": "manifold-garden/home",
+  "urlSlug": "lorikeetgeneralaudience",
+  "creationDate": "2019-07-12T21:26:47.744Z",
+  "lastModifiedDate": "2020-07-02T18:38:01.157Z",
+  "effectiveDate": "2019-10-11T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
     "name": "William Chyr Studio"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3b417973d16d4ffa88c972599d2f5dd3",
-      "namespace": "015763e579d4479cb1ef7780bf91804f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "manifold-garden/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:17:15.224Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:17:59.132Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:18:09.270Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden-EpicGames-BoxArt-860x1148-00858458c54412b369455ba5b7a40c9a.png",
+      "md5": "00858458c54412b369455ba5b7a40c9a",
+      "size": 1920711,
+      "uploadedDate": "2020-06-11T19:18:22.889Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg",
+      "md5": "41f4f6d6653e8045a91e179ff00f6802",
+      "size": 624417,
+      "uploadedDate": "2020-06-30T19:48:45.369Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/ManifoldGarden_FeaturedCarousel_Desktop_1920x1080-1920x1080-41f4f6d6653e8045a91e179ff00f6802.jpg",
+      "md5": "41f4f6d6653e8045a91e179ff00f6802",
+      "size": 624417,
+      "uploadedDate": "2020-06-30T19:49:05.744Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3b417973d16d4ffa88c972599d2f5dd3"
+    }
+  ],
+  "catalogNs": null
 }

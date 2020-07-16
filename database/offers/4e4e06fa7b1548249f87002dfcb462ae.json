@@ -1,55 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-06-10T12:00:00.000Z",
-  "creationDate": "2019-06-07T16:39:31.666Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "untitled-goose-game/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Untitled Goose Game",
   "id": "4e4e06fa7b1548249f87002dfcb462ae",
   "namespace": "epic",
+  "title": "Untitled Goose Game",
   "description": "Untitled Goose Game",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HouseHouse_UntitledGooseGame_S3-1280x1440-63aaed5f67d9e82f8443211c5089d2b3.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_N2-2560x1440-fa34d0c12f4e4200d78e7fc8a4a95233.jpg"
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - mobile-560x760-a15a55257cb3ee931962e20e6b28120c.png"
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - desktop-1810x810-40297d5ce8024531a26c0e3ea920cf2e.jpg"
-    },
-    {
-      "type": "TakeoverLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/goose-logo-big-white-3000x1210-5ab9f31cb631d1f07d2b33313fdbf27a.png"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_IC1_SVGColourLight-1108x367-ae5e6b33b09a3924991b2ff29fd57891.png"
-    }
-  ],
+  "productSlug": "untitled-goose-game/home",
+  "urlSlug": "untitled-goose-game",
+  "creationDate": "2019-06-07T16:39:31.666Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-06-10T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-a62axwpwx275msq4yzhdhk9acaf8x3",
     "name": "Panic"
   },
-  "items": [
+  "linkedOfferId": "01028a117e8845ed90e1bc859ff6d4f3",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-05-14T19:36:32.261Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,30 +112,66 @@
       "value": "untitled-goose-game/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_HouseHouse_UntitledGooseGame_S3-1280x1440-63aaed5f67d9e82f8443211c5089d2b3.jpg",
+      "md5": "63aaed5f67d9e82f8443211c5089d2b3",
+      "size": 325779,
+      "uploadedDate": "2019-06-07T16:33:22.821Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_N2-2560x1440-fa34d0c12f4e4200d78e7fc8a4a95233.jpg",
+      "md5": "fa34d0c12f4e4200d78e7fc8a4a95233",
+      "size": 497776,
+      "uploadedDate": "2019-06-07T16:46:34.768Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - mobile-560x760-a15a55257cb3ee931962e20e6b28120c.png",
+      "md5": "a15a55257cb3ee931962e20e6b28120c",
+      "size": 229964,
+      "uploadedDate": "2019-09-19T16:10:02.657Z",
+      "width": 560,
+      "height": 760
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Untitled Goose Game Epic Store takeover banner - desktop-1810x810-40297d5ce8024531a26c0e3ea920cf2e.jpg",
+      "md5": "40297d5ce8024531a26c0e3ea920cf2e",
+      "size": 440256,
+      "uploadedDate": "2019-09-19T16:10:24.622Z",
+      "width": 1810,
+      "height": 810
+    },
+    {
+      "type": "TakeoverLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/goose-logo-big-white-3000x1210-5ab9f31cb631d1f07d2b33313fdbf27a.png",
+      "md5": "5ab9f31cb631d1f07d2b33313fdbf27a",
+      "size": 137832,
+      "uploadedDate": "2019-09-19T16:10:43.843Z",
+      "width": 3000,
+      "height": 1210
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_HouseHouse_UntitledGooseGame_IC1_SVGColourLight-1108x367-ae5e6b33b09a3924991b2ff29fd57891.png",
+      "md5": "ae5e6b33b09a3924991b2ff29fd57891",
+      "size": 24281,
+      "uploadedDate": "2019-10-02T13:01:31.483Z",
+      "width": 1108,
+      "height": 367
     }
   ],
-  "linkedOfferId": "01028a117e8845ed90e1bc859ff6d4f3",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Panic"
-      },
-      {
-        "key": "developerName",
-        "value": "House House"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "untitled-goose-game/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

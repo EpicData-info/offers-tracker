@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-12T15:00:00.000Z",
-  "creationDate": "2020-02-27T23:30:59.651Z",
-  "lastModifiedDate": "2020-06-03T01:55:55.275Z",
-  "viewableDate": null,
-  "productSlug": "mutazione/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mutazione",
   "id": "e33a567a8ce04ed5abc23d5e46a98087",
   "namespace": "5645a537b6a44f6f82d122729f3253ed",
+  "title": "Mutazione",
   "description": "Mutazione",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S4-510x680-85ee3c8f3c08de0da2068e6d6441b253.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S4-510x680-85ee3c8f3c08de0da2068e6d6441b253.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S2-860x1148-62d66437d157161f683899797feff241.jpg"
-    }
-  ],
+  "productSlug": "mutazione/home",
+  "urlSlug": "opalgeneralaudience",
+  "creationDate": "2020-02-27T23:30:59.651Z",
+  "lastModifiedDate": "2020-06-03T01:55:55.275Z",
+  "effectiveDate": "2020-03-12T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-vzv8n7jse99sluj4vaa8522rh45cvg",
     "name": "Akupara Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3ac22a6a0414406b939ce6f248512ffd",
-      "namespace": "5645a537b6a44f6f82d122729f3253ed",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1287",
+      "name": "FANTASY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2020-05-12T16:32:19.369Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1341",
+      "name": "SUPERNATURAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:07.859Z",
+      "updated": "2020-05-13T23:31:55.046Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "mutazione/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg",
+      "md5": "169c5c5786aca5a3598c893b0ceb020f",
+      "size": 501378,
+      "uploadedDate": "2020-03-04T18:38:35.912Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S4-510x680-85ee3c8f3c08de0da2068e6d6441b253.jpg",
+      "md5": "85ee3c8f3c08de0da2068e6d6441b253",
+      "size": 120715,
+      "uploadedDate": "2020-03-04T18:38:45.362Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Mutazione_DieGuteFabrik_S4-510x680-85ee3c8f3c08de0da2068e6d6441b253.jpg",
+      "md5": "85ee3c8f3c08de0da2068e6d6441b253",
+      "size": 120715,
+      "uploadedDate": "2020-03-04T18:38:45.362Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg",
+      "md5": "169c5c5786aca5a3598c893b0ceb020f",
+      "size": 501378,
+      "uploadedDate": "2020-03-04T18:54:21.863Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S1-2560x1440-169c5c5786aca5a3598c893b0ceb020f.jpg",
+      "md5": "169c5c5786aca5a3598c893b0ceb020f",
+      "size": 501378,
+      "uploadedDate": "2020-03-04T18:54:31.532Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5645a537b6a44f6f82d122729f3253ed/offer/EGS_Mutazione_DieGuteFabrik_S2-860x1148-62d66437d157161f683899797feff241.jpg",
+      "md5": "62d66437d157161f683899797feff241",
+      "size": 278952,
+      "uploadedDate": "2020-03-04T18:54:40.983Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3ac22a6a0414406b939ce6f248512ffd"
+    }
+  ],
+  "catalogNs": null
 }

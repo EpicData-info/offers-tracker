@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-16T16:00:00.000Z",
-  "creationDate": "2020-01-07T22:27:55.022Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "horace/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Horace",
   "id": "0cbd1a647ba945fba3d793b150ee5a7d",
   "namespace": "epic",
+  "title": "Horace",
   "description": "Horace",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_G1A_01-1920x1080-12c8bea4a4abedacf097f3e508f11594.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_S4-510x680-918a0ee1690fce9749105a6c4f5eb384.jpg"
-    }
-  ],
+  "productSlug": "horace/home",
+  "urlSlug": "horace",
+  "creationDate": "2020-01-07T22:27:55.022Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-01-16T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "items": [
+  "linkedOfferId": "54e4974ff09e457ea24de17a37a1eca7",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +112,30 @@
       "value": "54e4974ff09e457ea24de17a37a1eca7"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_G1A_01-1920x1080-12c8bea4a4abedacf097f3e508f11594.jpg",
+      "md5": "12c8bea4a4abedacf097f3e508f11594",
+      "size": 442313,
+      "uploadedDate": "2020-01-07T23:24:42.616Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_PaulHelmanSeanScapelhorn_Horace_S4-510x680-918a0ee1690fce9749105a6c4f5eb384.jpg",
+      "md5": "918a0ee1690fce9749105a6c4f5eb384",
+      "size": 100382,
+      "uploadedDate": "2020-01-08T00:20:18.570Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": "54e4974ff09e457ea24de17a37a1eca7",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "505 Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "horace/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

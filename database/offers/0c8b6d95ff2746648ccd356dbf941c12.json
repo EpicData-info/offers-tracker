@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-23T15:00:00.000Z",
-  "creationDate": "2019-09-10T21:05:47.740Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "q-u-b-e-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Q.U.B.E.2",
   "id": "0c8b6d95ff2746648ccd356dbf941c12",
   "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "title": "Q.U.B.E.2",
   "description": "Q.U.B.E. 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/EGS_TOXICGAMES_QUBE2_N1-2560x1440-6d63106aa0908f2f6441462fa2727fc0de05dfbd.jpg"
-    }
-  ],
+  "productSlug": "q-u-b-e-2",
+  "urlSlug": "aukgeneralaudience",
+  "creationDate": "2019-09-10T21:05:47.740Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-10-23T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
     "name": "Ten Hut Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ff1d9d6e36cb4c6cb365204fccda01e3",
-      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +129,75 @@
       "value": "q-u-b-e-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "size": 26596,
+      "uploadedDate": "2019-10-08T01:34:05.154Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "size": 312776,
+      "uploadedDate": "2019-10-08T01:34:25.311Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+      "md5": "46972907facb08bd09cf75ec31c27168",
+      "size": 156131,
+      "uploadedDate": "2019-10-08T01:34:38.233Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+      "md5": "46972907facb08bd09cf75ec31c27168",
+      "size": 156131,
+      "uploadedDate": "2019-10-08T01:34:38.233Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-16T23:27:17.084Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-16T23:27:27.863Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/EGS_TOXICGAMES_QUBE2_N1-2560x1440-6d63106aa0908f2f6441462fa2727fc0de05dfbd.jpg",
+      "md5": "6009fb0f4323508e91e4fb3406f40f36",
+      "size": 286650,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ff1d9d6e36cb4c6cb365204fccda01e3"
+    }
+  ],
+  "catalogNs": null
 }

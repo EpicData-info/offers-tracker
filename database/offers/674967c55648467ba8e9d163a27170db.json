@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-23T16:00:00.000Z",
-  "creationDate": "2019-10-23T17:53:15.612Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "the-bridge/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Bridge",
   "id": "674967c55648467ba8e9d163a27170db",
   "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
+  "title": "The Bridge",
   "description": "The Bridge",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg"
-    }
-  ],
+  "productSlug": "the-bridge/home",
+  "urlSlug": "sunbirdgeneralaudience",
+  "creationDate": "2019-10-23T17:53:15.612Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2020-01-23T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-e8nkcj362yhcae7jpkvrvxt2tssnls",
     "name": "The Quantum Astrophysicists Guild"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ff700af40bc249c58c485d6f2708c537",
-      "namespace": "d5ee752640ef4cee8b7f5364410ba41f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "the-bridge/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+      "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+      "size": 215071,
+      "uploadedDate": "2020-01-14T05:16:01.147Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+      "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+      "size": 500647,
+      "uploadedDate": "2020-01-15T19:22:47.465Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+      "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+      "size": 215071,
+      "uploadedDate": "2020-01-14T05:16:01.147Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S4-510x680-ecf7b5dcc81bb88452f4fc38d1fe1f08.jpg",
+      "md5": "ecf7b5dcc81bb88452f4fc38d1fe1f08",
+      "size": 215071,
+      "uploadedDate": "2020-01-15T17:29:23.448Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d5ee752640ef4cee8b7f5364410ba41f/offer/EGS_TheQuantumAstrophysicistsGuild_TheBridge_S7-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+      "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+      "size": 500647,
+      "uploadedDate": "2020-01-15T17:29:47.267Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Wide_TheBridge-1360x766-d79fb5f60a7776b5e0d2ce588667c4b0.jpg",
+      "md5": "d79fb5f60a7776b5e0d2ce588667c4b0",
+      "size": 500647,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ff700af40bc249c58c485d6f2708c537"
+    }
+  ],
+  "catalogNs": null
 }

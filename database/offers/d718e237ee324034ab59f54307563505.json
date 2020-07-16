@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-15T15:00:00.000Z",
-  "creationDate": "2019-07-12T19:12:34.117Z",
-  "lastModifiedDate": "2019-07-23T13:00:06.848Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "KiwiDLC1",
   "id": "d718e237ee324034ab59f54307563505",
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "title": "KiwiDLC1",
   "description": "KiwiDLC1",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "kiwidlc1",
+  "creationDate": "2019-07-12T19:12:34.117Z",
+  "lastModifiedDate": "2019-07-23T13:00:06.848Z",
+  "effectiveDate": "2050-07-15T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
     "name": "Enhance, Inc."
   },
-  "items": [
-    {
-      "id": "579f4386c0824cd48aa3c9a0ed6b54d8",
-      "namespace": "76339caf9e8e4d24b62761c736e82b42",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -50,6 +31,37 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
+      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
+      "size": 241405,
+      "uploadedDate": "2019-07-12T19:12:15.366Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
+      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
+      "size": 241405,
+      "uploadedDate": "2019-07-12T19:12:21.943Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "579f4386c0824cd48aa3c9a0ed6b54d8"
+    }
+  ],
+  "catalogNs": null
 }

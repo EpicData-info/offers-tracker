@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-02-08T16:59:00.000Z",
-  "creationDate": "2019-02-08T22:00:56.523Z",
-  "lastModifiedDate": "2019-11-27T15:28:14.773Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CamelliaDevAudience",
   "id": "a131accaa55243c6bef335ffee30e168",
   "namespace": "camellia",
+  "title": "CamelliaDevAudience",
   "description": "CamelliaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "camelliadevaudience",
+  "creationDate": "2019-02-08T22:00:56.523Z",
+  "lastModifiedDate": "2019-11-27T15:28:14.773Z",
+  "effectiveDate": "2050-02-08T16:59:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "eac31f3df2a84aa898c13715b4badbc3",
-      "namespace": "camellia",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,18 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "eac31f3df2a84aa898c13715b4badbc3"
+    }
+  ],
+  "catalogNs": null
 }

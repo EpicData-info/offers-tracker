@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-02T16:09:22.001Z",
-  "lastModifiedDate": "2020-06-12T12:49:23.807Z",
-  "viewableDate": null,
-  "productSlug": "milky-way-prince-the-vampire-star",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Milky Way Prince – The Vampire Star",
   "id": "12f1d63f735341ddbb21a192010096a7",
   "namespace": "be4b391bc31d465ebeba92b9b822b798",
+  "title": "Milky Way Prince – The Vampire Star",
   "description": "Milky Way Prince – The Vampire Star",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S3-2560x1440-ee6527005274df6e27bdbe954f390eeb.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S3-2560x1440-ee6527005274df6e27bdbe954f390eeb.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg"
-    }
-  ],
+  "productSlug": "milky-way-prince-the-vampire-star",
+  "urlSlug": "devtritonaudience-01",
+  "creationDate": "2020-06-02T16:09:22.001Z",
+  "lastModifiedDate": "2020-06-12T12:49:23.807Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "bce091f27fbf4f548774f58ea0d21dc7",
-      "namespace": "be4b391bc31d465ebeba92b9b822b798",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "milky-way-prince-the-vampire-star"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
+      "md5": "63c274606bb8e62ed944544f0db53e30",
+      "size": 330286,
+      "uploadedDate": "2020-06-05T15:24:15.877Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
+      "md5": "63c274606bb8e62ed944544f0db53e30",
+      "size": 330286,
+      "uploadedDate": "2020-06-05T15:24:25.698Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
+      "md5": "63c274606bb8e62ed944544f0db53e30",
+      "size": 330286,
+      "uploadedDate": "2020-06-05T15:24:35.851Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S3-2560x1440-ee6527005274df6e27bdbe954f390eeb.jpg",
+      "md5": "ee6527005274df6e27bdbe954f390eeb",
+      "size": 589122,
+      "uploadedDate": "2020-06-05T15:25:03.104Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S3-2560x1440-ee6527005274df6e27bdbe954f390eeb.jpg",
+      "md5": "ee6527005274df6e27bdbe954f390eeb",
+      "size": 589122,
+      "uploadedDate": "2020-06-05T15:25:16.575Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/be4b391bc31d465ebeba92b9b822b798/offer/EGS_MilkyWayPrinceTheVampireStar_LorenzoRedaelliEyeguys_S6-1200x1600-63c274606bb8e62ed944544f0db53e30.jpg",
+      "md5": "63c274606bb8e62ed944544f0db53e30",
+      "size": 330286,
+      "uploadedDate": "2020-06-05T15:25:31.777Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "bce091f27fbf4f548774f58ea0d21dc7"
+    }
+  ],
+  "catalogNs": null
 }

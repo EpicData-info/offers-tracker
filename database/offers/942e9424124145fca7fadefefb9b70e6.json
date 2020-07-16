@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-16T16:00:00.000Z",
-  "creationDate": "2020-06-03T17:22:00.160Z",
-  "lastModifiedDate": "2020-07-16T15:49:55.830Z",
-  "viewableDate": "2020-07-09T16:00:00.000Z",
-  "productSlug": "superhot-mind-control-delete",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SUPERHOT: Mind Control Delete",
   "id": "942e9424124145fca7fadefefb9b70e6",
   "namespace": "56e54e682d614c468e3d5afc54ca0adf",
+  "title": "SUPERHOT: Mind Control Delete",
   "description": "SUPERHOT: Mind Control Delete",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg"
-    }
-  ],
+  "productSlug": "superhot-mind-control-delete",
+  "urlSlug": "devproteusaudience-01",
+  "creationDate": "2020-06-03T17:22:00.160Z",
+  "lastModifiedDate": "2020-07-16T15:49:55.830Z",
+  "effectiveDate": "2020-07-16T16:00:00.000Z",
+  "viewableDate": "2020-07-09T16:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-yagrrjhn9gf4ul3h4a5vuaxh29v8qd",
     "name": "SUPERHOT Sp. z.o.o"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "97089b1d5e324e1eb7f975938c036dba",
-      "namespace": "56e54e682d614c468e3d5afc54ca0adf",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +125,66 @@
       "value": "superhot-mind-control-delete"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg",
+      "md5": "bde0ff340809797a67caec0fe124cf1c",
+      "size": 677918,
+      "uploadedDate": "2020-06-29T21:20:37.334Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2020-06-29T21:20:45.095Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2020-06-29T21:20:54.988Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2020-06-29T21:21:04.328Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S1-2560x1440-bde0ff340809797a67caec0fe124cf1c.jpg",
+      "md5": "bde0ff340809797a67caec0fe124cf1c",
+      "size": 677918,
+      "uploadedDate": "2020-06-29T21:21:19.023Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/56e54e682d614c468e3d5afc54ca0adf/offer/EGS_SUPERHOTMindControlDelete_SUPERHOTTeam_S2-1200x1600-81abefd0c4e79a746c4d99ccf73ef748.jpg",
+      "md5": "81abefd0c4e79a746c4d99ccf73ef748",
+      "size": 486501,
+      "uploadedDate": "2020-06-29T21:21:30.507Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "97089b1d5e324e1eb7f975938c036dba"
+    }
+  ],
+  "catalogNs": null
 }

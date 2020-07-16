@@ -1,47 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-20T11:55:00.000Z",
-  "creationDate": "2019-01-22T17:03:06.576Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "vampyr",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Vampyr",
   "id": "1c319cea18464c909b9b0c2ea5e155a0",
   "namespace": "epic",
+  "title": "Vampyr",
   "description": "Vampyr",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_Game_Icon-400x400-eada7e669930d88e46b14d272a11095e.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_GamePromoImage_2580x1450_v2-2580x1450-22d6b6547b3f7d5ddf4442d09dd7e776.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Logo_Vampyr_Black-1850x336-5fdcf92f64fba5c1d6b13c18dbab3214.png"
-    }
-  ],
+  "productSlug": "vampyr",
+  "urlSlug": "vampyr",
+  "creationDate": "2019-01-22T17:03:06.576Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-01-20T11:55:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": "9afcebbb195348ac96e39954e20ddf33",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,26 +112,48 @@
       "value": "9afcebbb195348ac96e39954e20ddf33"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_Game_Icon-400x400-eada7e669930d88e46b14d272a11095e.png",
+      "md5": "eada7e669930d88e46b14d272a11095e",
+      "size": 121158,
+      "uploadedDate": "2019-01-22T17:50:15.274Z",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_GamePromoImage_2580x1450_v2-2580x1450-22d6b6547b3f7d5ddf4442d09dd7e776.jpg",
+      "md5": "22d6b6547b3f7d5ddf4442d09dd7e776",
+      "size": 109277,
+      "uploadedDate": "2019-01-22T17:50:44.406Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Vampyr_PortraitPromoImage_1280x1420-1280x1420-301b40bd64a8217ef00324d59b1ce28b.jpg",
+      "md5": "301b40bd64a8217ef00324d59b1ce28b",
+      "size": 146583,
+      "uploadedDate": "2019-01-22T17:50:56.387Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Logo_Vampyr_Black-1850x336-5fdcf92f64fba5c1d6b13c18dbab3214.png",
+      "md5": "5fdcf92f64fba5c1d6b13c18dbab3214",
+      "size": 22446,
+      "uploadedDate": "2019-08-02T19:44:11.504Z",
+      "width": 1850,
+      "height": 336
     }
   ],
-  "linkedOfferId": "9afcebbb195348ac96e39954e20ddf33",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Focus Home Interactive"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "vampyr"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

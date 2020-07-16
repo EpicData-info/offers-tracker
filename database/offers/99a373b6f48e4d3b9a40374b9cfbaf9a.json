@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-16T15:00:00.000Z",
-  "creationDate": "2020-02-10T20:01:10.012Z",
-  "lastModifiedDate": "2020-05-11T16:48:09.269Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Wheels of Aurelia OST",
   "id": "99a373b6f48e4d3b9a40374b9cfbaf9a",
   "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "title": "Wheels of Aurelia OST",
   "description": "Wheels of Aurelia OST",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/OST_02_1920x1080-1920x1080-4d533fdff7742cd7b508f11fb21818ef.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "escolarsoundtrackgeneralaudience-01",
+  "creationDate": "2020-02-10T20:01:10.012Z",
+  "lastModifiedDate": "2020-05-11T16:48:09.269Z",
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "items": [
-    {
-      "id": "97517f0e522842cbb3789fabca45681b",
-      "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Santa Ragione"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "digitalextras"
@@ -64,6 +37,113 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Santa Ragione"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/OST_02_1920x1080-1920x1080-4d533fdff7742cd7b508f11fb21818ef.png",
+      "md5": "4d533fdff7742cd7b508f11fb21818ef",
+      "size": 1250154,
+      "uploadedDate": "2020-04-09T14:24:34.888Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg",
+      "md5": "58a8a085aa5193c0fb2f95bb36e12c8c",
+      "size": 388208,
+      "uploadedDate": "2020-04-23T01:37:20.323Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f5d58106a0e143758ddf2bb30dd72ae2/offer/EGS_WheelsofAurelia_SantaRagionesrl_S2-860x1148-58a8a085aa5193c0fb2f95bb36e12c8c.jpg",
+      "md5": "58a8a085aa5193c0fb2f95bb36e12c8c",
+      "size": 388208,
+      "uploadedDate": "2020-04-23T01:37:35.653Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "97517f0e522842cbb3789fabca45681b"
+    }
+  ],
+  "catalogNs": null
 }

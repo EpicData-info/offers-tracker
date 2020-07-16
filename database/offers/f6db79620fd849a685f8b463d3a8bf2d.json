@@ -1,51 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-23T15:00:00.000Z",
-  "creationDate": "2019-11-05T02:17:39.010Z",
-  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
-  "viewableDate": null,
-  "productSlug": "just-cause-4",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Just Cause 4",
   "id": "f6db79620fd849a685f8b463d3a8bf2d",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "title": "Just Cause 4",
   "description": "Just Cause 4 Reloaded Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-2560x1440-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-2560x1440-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg"
-    }
-  ],
+  "productSlug": "just-cause-4",
+  "urlSlug": "kakopo-reloaded",
+  "creationDate": "2019-11-05T02:17:39.010Z",
+  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
+  "effectiveDate": "2020-04-23T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "353228c249334f8594ce2f7fb921cbcd",
-      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +117,57 @@
       "value": "just-cause-4"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-2560x1440-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2.jpg",
+      "md5": "4e5a2fa3f88cc32786bcde39ecdd27a2",
+      "size": 489375,
+      "uploadedDate": "2020-02-26T19:26:06.561Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57.jpg",
+      "md5": "145b58e1d3d597871b8585f824540c57",
+      "size": 139738,
+      "uploadedDate": "2020-02-26T19:26:14.195Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg",
+      "md5": "145b58e1d3d597871b8585f824540c57",
+      "size": 139738,
+      "uploadedDate": "2020-04-10T15:41:18.467Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-2560x1440-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2-2560x1440-4e5a2fa3f88cc32786bcde39ecdd27a2.jpg",
+      "md5": "4e5a2fa3f88cc32786bcde39ecdd27a2",
+      "size": 489375,
+      "uploadedDate": "2020-04-22T23:35:49.429Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Reloaded-860x1148-860x1148-145b58e1d3d597871b8585f824540c57-860x1148-145b58e1d3d597871b8585f824540c57.jpg",
+      "md5": "145b58e1d3d597871b8585f824540c57",
+      "size": 139738,
+      "uploadedDate": "2020-04-22T23:36:01.367Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "353228c249334f8594ce2f7fb921cbcd"
+    }
+  ],
+  "catalogNs": null
 }

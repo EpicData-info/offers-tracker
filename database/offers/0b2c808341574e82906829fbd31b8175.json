@@ -1,43 +1,80 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-27T15:00:00.000Z",
-  "creationDate": "2020-03-19T17:56:34.647Z",
-  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
-  "viewableDate": null,
-  "productSlug": "snowrunner/loaded-dice-vinyl-wrap",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Loaded Dice Vinyl Wrap",
   "id": "0b2c808341574e82906829fbd31b8175",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "Loaded Dice Vinyl Wrap",
   "description": "DLC3 - White Western Star 4964 Skin",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Horizontal-1360x766-1360x766-42ac310a88fd5c787491d7f0028abf09.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg"
-    }
-  ],
+  "productSlug": "snowrunner/loaded-dice-vinyl-wrap",
+  "urlSlug": "mayflowerdlc1audience-03",
+  "creationDate": "2020-03-19T17:56:34.647Z",
+  "lastModifiedDate": "2020-05-20T15:44:40.351Z",
+  "effectiveDate": "2020-04-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "844366a88d8f4a08905d7f89bd99be46",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +95,39 @@
       "value": "snowrunner/loaded-dice-vinyl-wrap"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Horizontal-1360x766-1360x766-42ac310a88fd5c787491d7f0028abf09.jpg",
+      "md5": "42ac310a88fd5c787491d7f0028abf09",
+      "size": 295163,
+      "uploadedDate": "2020-04-21T22:30:58.467Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg",
+      "md5": "ac6258f4f8f1a926fd64a36cffbb5a20",
+      "size": 119581,
+      "uploadedDate": "2020-04-21T22:31:07.019Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SnowRunner_LoadedDicePack_EGS_Desktop-Vertical-510x680-510x680-ac6258f4f8f1a926fd64a36cffbb5a20.jpg",
+      "md5": "ac6258f4f8f1a926fd64a36cffbb5a20",
+      "size": 119581,
+      "uploadedDate": "2020-04-21T22:31:16.501Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "844366a88d8f4a08905d7f89bd99be46"
+    }
+  ],
+  "catalogNs": null
 }

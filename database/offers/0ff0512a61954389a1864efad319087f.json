@@ -1,37 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-22T19:00:24.441Z",
-  "lastModifiedDate": "2020-05-22T19:03:30.996Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Mission5Audience",
   "id": "0ff0512a61954389a1864efad319087f",
   "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "Mission5Audience",
   "description": "Mission5Audience",
   "longDescription": "Mission5Audience",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "sparrowdevaudience-04",
+  "creationDate": "2020-05-22T19:00:24.441Z",
+  "lastModifiedDate": "2020-05-22T19:03:30.996Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
     "name": "Rebellion"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "5414d9f717dd4655b46df878d03bdf53",
-      "namespace": "dfd2530e80e4425d801913b0879be444",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -42,14 +42,21 @@
       "value": "Rebellion"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:34:37.380Z",
+      "width": 842,
+      "height": 485
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "5414d9f717dd4655b46df878d03bdf53"
+    }
+  ],
+  "catalogNs": null
 }

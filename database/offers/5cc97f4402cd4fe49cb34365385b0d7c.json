@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-11-01T15:09:51.532Z",
-  "lastModifiedDate": "2020-05-12T18:52:08.449Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "[Inactive] MayflowerExternalTests",
   "id": "5cc97f4402cd4fe49cb34365385b0d7c",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "[Inactive] MayflowerExternalTests",
   "description": "MayflowerExternalTests",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "mayflowerexternaltests",
+  "creationDate": "2019-11-01T15:09:51.532Z",
+  "lastModifiedDate": "2020-05-12T18:52:08.449Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
     "name": "Focus Home"
   },
-  "items": [
-    {
-      "id": "159657140ef94b129c0d29bfe7b26a38",
-      "namespace": "2744acda6a2e493e9894b389b6564df7",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "159657140ef94b129c0d29bfe7b26a38"
+    }
+  ],
+  "catalogNs": null
 }

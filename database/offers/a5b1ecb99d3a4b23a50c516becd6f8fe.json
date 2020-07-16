@@ -1,57 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-03-05T16:00:00.000Z",
-  "creationDate": "2019-08-22T19:32:14.613Z",
-  "lastModifiedDate": "2020-03-11T16:17:07.109Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Rainbow Six Siege - Trial",
   "id": "a5b1ecb99d3a4b23a50c516becd6f8fe",
   "namespace": "carnation",
+  "title": "Rainbow Six Siege - Trial",
   "description": "Rainbow Six Siege - Trial",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075-2580x1450-98dab23be171fab753c54e811fecf075.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Edition_Capsule_1920X1080-1920x1080-d3e0da901fe529f8ec4984dc3dc699c5.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "carnationweekaudience",
+  "creationDate": "2019-08-22T19:32:14.613Z",
+  "lastModifiedDate": "2020-03-11T16:17:07.109Z",
+  "effectiveDate": "2099-03-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4abdc6b7294b46bab6423bb4ddef1b62",
-      "namespace": "carnation",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,14 +42,66 @@
       "value": "Ubisoft"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/carnation/offer/Rainbow-6-Rating-842x404-75ee5be4802354e80b9041728c4343cb.png",
+      "md5": "75ee5be4802354e80b9041728c4343cb",
+      "size": 66389,
+      "uploadedDate": "2019-11-21T13:15:13.792Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/PrimaryPromo-2580x1450-98dab23be171fab753c54e811fecf075-2580x1450-98dab23be171fab753c54e811fecf075.jpg",
+      "md5": "98dab23be171fab753c54e811fecf075",
+      "size": 283768,
+      "uploadedDate": "2020-02-24T16:07:26.581Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg",
+      "md5": "89d7af1f19d042e01a790e8dcf49d067",
+      "size": 565017,
+      "uploadedDate": "2020-03-03T19:30:49.554Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg",
+      "md5": "89d7af1f19d042e01a790e8dcf49d067",
+      "size": 565017,
+      "uploadedDate": "2020-03-03T19:31:03.736Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Edition_Capsule_1920X1080-1920x1080-d3e0da901fe529f8ec4984dc3dc699c5.jpg",
+      "md5": "d3e0da901fe529f8ec4984dc3dc699c5",
+      "size": 702017,
+      "uploadedDate": "2020-03-03T19:31:26.114Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/carnation/offer/R6SIEGE_Y5_FW_Store_Portrait_1280x1420-1280x1420-89d7af1f19d042e01a790e8dcf49d067.jpg",
+      "md5": "89d7af1f19d042e01a790e8dcf49d067",
+      "size": 565017,
+      "uploadedDate": "2020-03-03T19:31:34.727Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4abdc6b7294b46bab6423bb4ddef1b62"
+    }
+  ],
+  "catalogNs": null
 }

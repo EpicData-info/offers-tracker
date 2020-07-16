@@ -1,63 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-19T15:00:00.000Z",
-  "creationDate": "2019-02-27T18:34:41.499Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "rollercoaster-tycoon-adventures/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RollerCoaster Tycoon Adventures",
   "id": "0394bcc34ee54c13bf1d84590c11fd18",
   "namespace": "canna",
+  "title": "RollerCoaster Tycoon Adventures",
   "description": "RollerCoaster Tycoon Adventures",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/RCTA_Logo-2580x1450-58f63b43913fe30cde0f03b5c9f50e4c.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg"
-    }
-  ],
+  "productSlug": "rollercoaster-tycoon-adventures/home",
+  "urlSlug": "cannageneralaudience",
+  "creationDate": "2019-02-27T18:34:41.499Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-03-19T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bhpk86rgthezed539g3hb5avacecqt",
     "name": "Atari"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "87aea61261d74fd09359b0caf1f3f1c6",
-      "namespace": "canna",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +105,84 @@
       "value": "rollercoaster-tycoon-adventures/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/RCTA_Logo-2580x1450-58f63b43913fe30cde0f03b5c9f50e4c.png",
+      "md5": "58f63b43913fe30cde0f03b5c9f50e4c",
+      "size": 105577,
+      "uploadedDate": "2019-03-08T17:00:22.337Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg",
+      "md5": "46b62500619ee363ed72995fa885daf8",
+      "size": 404336,
+      "uploadedDate": "2019-04-24T14:22:02.228Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg",
+      "md5": "3f30573dfe307fc859774d83c87c4a28",
+      "size": 255652,
+      "uploadedDate": "2019-04-24T14:22:15.658Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Portrait Promo-1280x1420-3f30573dfe307fc859774d83c87c4a28.jpg",
+      "md5": "3f30573dfe307fc859774d83c87c4a28",
+      "size": 255652,
+      "uploadedDate": "2019-04-24T14:22:15.658Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg",
+      "md5": "184ece99060db0fd0b6b8cdd1a1568d7",
+      "size": 97759,
+      "uploadedDate": "2019-03-19T16:16:33.820Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_CodeRedemption-340x440-184ece99060db0fd0b6b8cdd1a1568d7.jpg",
+      "md5": "184ece99060db0fd0b6b8cdd1a1568d7",
+      "size": 97759,
+      "uploadedDate": "2019-04-23T20:55:52.509Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/canna/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg",
+      "md5": "46b62500619ee363ed72995fa885daf8",
+      "size": 404336,
+      "uploadedDate": "2019-04-24T14:19:39.675Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/RCTA_Promo-2580x1450-46b62500619ee363ed72995fa885daf8.jpg",
+      "md5": "46b62500619ee363ed72995fa885daf8",
+      "size": 404336,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "87aea61261d74fd09359b0caf1f3f1c6"
+    }
+  ],
+  "catalogNs": null
 }

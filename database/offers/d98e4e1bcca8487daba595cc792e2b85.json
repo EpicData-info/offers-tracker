@@ -1,57 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-25T15:00:00.000Z",
-  "creationDate": "2020-06-11T02:09:35.472Z",
-  "lastModifiedDate": "2020-06-25T15:03:59.552Z",
-  "viewableDate": "2020-06-25T15:00:00.000Z",
-  "productSlug": "anno-1404/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anno 1404: History Edition",
   "id": "d98e4e1bcca8487daba595cc792e2b85",
   "namespace": "590c37a9443d46ce84be415b96b1a3e6",
+  "title": "Anno 1404: History Edition",
   "description": "Anno 1404: History Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg"
-    }
-  ],
+  "productSlug": "anno-1404/home",
+  "urlSlug": "vilnius",
+  "creationDate": "2020-06-11T02:09:35.472Z",
+  "lastModifiedDate": "2020-06-25T15:03:59.552Z",
+  "effectiveDate": "2020-06-25T15:00:00.000Z",
+  "viewableDate": "2020-06-25T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7b8d9fc5760d4bf09147f74ba2943450",
-      "namespace": "590c37a9443d46ce84be415b96b1a3e6",
-      "developer": null
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -70,20 +56,66 @@
       "value": "anno-1404/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png",
+      "md5": "ff4339c4d63fab533420b490f68ac1e7",
+      "size": 2617093,
+      "uploadedDate": "2020-06-22T19:06:12.221Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Edition_Thumbnail_1920X1080_White-1920x1080-ff4339c4d63fab533420b490f68ac1e7.png",
+      "md5": "ff4339c4d63fab533420b490f68ac1e7",
+      "size": 2617093,
+      "uploadedDate": "2020-06-22T19:06:42.676Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:48:51.963Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:49:03.755Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:50:34.033Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/590c37a9443d46ce84be415b96b1a3e6/offer/ANHC_1404HE_Store_Portrait_1200x1600-1200x1600-f72dc7d60d295608ec23539974dc7d68.jpg",
+      "md5": "f72dc7d60d295608ec23539974dc7d68",
+      "size": 412556,
+      "uploadedDate": "2020-06-25T13:51:00.879Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7b8d9fc5760d4bf09147f74ba2943450"
+    }
+  ],
+  "catalogNs": null
 }

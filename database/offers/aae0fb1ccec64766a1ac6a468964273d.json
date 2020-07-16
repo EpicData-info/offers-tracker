@@ -1,67 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "creationDate": "2020-02-05T19:42:16.363Z",
-  "lastModifiedDate": "2020-05-13T20:58:26.599Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/royal-dlc-bundle",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Kingdom Come Deliverance Royal DLC",
   "id": "aae0fb1ccec64766a1ac6a468964273d",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "Kingdom Come Deliverance Royal DLC",
   "description": "Kingdom Come Deliverance Royal DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliveranceRoyalDLCBundle_G1A_00-1920x1080-1aa75d99730d071717bfa71d4e6f2864a33fa4c4.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/royal-dlc-bundle",
+  "urlSlug": "eelroyaldlc",
+  "creationDate": "2020-02-05T19:42:16.363Z",
+  "lastModifiedDate": "2020-05-13T20:58:26.599Z",
+  "effectiveDate": "2020-02-13T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "42a607b35e1b4728afbc26c88080f429",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "9cface5448694861879def457a3b6194",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "f608e308d6ab4abf88c45967c3405b21",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "addons/durable"
     },
     {
-      "id": "f255964383d04135921876c536a0099c",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
     },
     {
-      "id": "2832745a324245079d0d2d0facd8c182",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +101,60 @@
       "value": "kingdom-come-deliverance/royal-dlc-bundle"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2019-12-10T22:59:16.102Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliveranceRoyalDLCBundle_G1A_00-1920x1080-1aa75d99730d071717bfa71d4e6f2864a33fa4c4.jpg",
+      "md5": "aae6e71e6cde925e096e896360915865",
+      "size": 254030,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:33:24.176Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:33:34.311Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "42a607b35e1b4728afbc26c88080f429"
+    },
+    {
+      "id": "9cface5448694861879def457a3b6194"
+    },
+    {
+      "id": "f608e308d6ab4abf88c45967c3405b21"
+    },
+    {
+      "id": "f255964383d04135921876c536a0099c"
+    },
+    {
+      "id": "2832745a324245079d0d2d0facd8c182"
+    }
+  ],
+  "catalogNs": null
 }

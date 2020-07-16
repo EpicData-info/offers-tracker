@@ -1,5 +1,25 @@
 {
+  "id": "abd31bef3dc046d2a1d7929e0da795eb",
+  "namespace": "epic",
+  "title": "Ubisoft Sale",
+  "description": "Ubisoft Sale",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ubisoft-sale",
+  "urlSlug": "ubi-sale",
+  "creationDate": "2019-08-19T23:31:09.387Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-08-18T19:17:00.000Z",
+  "viewableDate": "2020-02-24T10:15:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "f835527adf3e42c489e8606f957f1007",
     "ba4b7ba700b6432690f78c5cf27f6d4e",
@@ -25,45 +45,14 @@
     "04ade1b81a304b2d9505897351d46898",
     "02950ab2195f44dbb665264229b015c7"
   ],
-  "effectiveDate": "2019-08-18T19:17:00.000Z",
-  "creationDate": "2019-08-19T23:31:09.387Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2020-02-24T10:15:00.000Z",
-  "productSlug": "ubisoft-sale",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ubisoft Sale",
-  "id": "abd31bef3dc046d2a1d7929e0da795eb",
-  "namespace": "epic",
-  "description": "Ubisoft Sale",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S1_wide-2560x1440-1771f754f44ae73a47b7706111b87617.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S2_tall-1280x1440-80ef2bdd82dce6bd4f430b73848805de.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/-EN_EGS_Launcher_GamescomSale_IC1_Sale-200x200-727cff52c259f1e996bf9abe5e87ca9e.png"
+      "path": "collections"
     }
   ],
-  "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
-  },
-  "items": [
-    {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
-      "namespace": "epic",
-      "developer": null
-    }
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.weight",
@@ -170,11 +159,39 @@
       "value": "634a34e6116f4397bee478374708de9b"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "collections"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S1_wide-2560x1440-1771f754f44ae73a47b7706111b87617.jpg",
+      "md5": "1771f754f44ae73a47b7706111b87617",
+      "size": 2117494,
+      "uploadedDate": "2019-08-22T13:27:59.230Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_GamescomSale_S2_tall-1280x1440-80ef2bdd82dce6bd4f430b73848805de.jpg",
+      "md5": "80ef2bdd82dce6bd4f430b73848805de",
+      "size": 1485106,
+      "uploadedDate": "2019-08-22T13:28:13.469Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/-EN_EGS_Launcher_GamescomSale_IC1_Sale-200x200-727cff52c259f1e996bf9abe5e87ca9e.png",
+      "md5": "727cff52c259f1e996bf9abe5e87ca9e",
+      "size": 4980,
+      "uploadedDate": "2019-08-22T13:28:50.195Z",
+      "width": 200,
+      "height": 200
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

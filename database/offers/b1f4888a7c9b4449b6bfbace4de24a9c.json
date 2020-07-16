@@ -1,63 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-10T16:00:00.000Z",
-  "creationDate": "2018-12-02T20:59:59.409Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": "2018-12-02T16:10:00.000Z",
-  "productSlug": "what-remains-of-edith-finch/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "What Remains of Edith Finch",
   "id": "b1f4888a7c9b4449b6bfbace4de24a9c",
   "namespace": "badger",
+  "title": "What Remains of Edith Finch",
   "description": "What Remains of Edith Finch",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/badger/offer/Epic_EdithFinch_PrimaryPromo (3)-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/badger/offer/coderedemption-340x440-e1b92c827effb128fa66c0c39e65893d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badger/offer/ThumbWhatRemainsEdith-340x440-e1b92c827effb128fa66c0c39e65893d.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
-    }
-  ],
+  "productSlug": "what-remains-of-edith-finch/home",
+  "urlSlug": "badger",
+  "creationDate": "2018-12-02T20:59:59.409Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-01-10T16:00:00.000Z",
+  "viewableDate": "2018-12-02T16:10:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "25ed76af7816430cbfc0f5e6d3195d56",
-      "namespace": "badger",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +129,84 @@
       "value": "what-remains-of-edith-finch/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png",
+      "md5": "359c57ed579f9db1b5a7c4f9aadf0d94",
+      "size": 47161,
+      "uploadedDate": "2019-01-08T01:21:37.802Z",
+      "width": 480,
+      "height": 285
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "size": 280199,
+      "uploadedDate": "2019-01-09T16:21:15.783Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg",
+      "md5": "8ce13d0028128729177daad2e3ec0481",
+      "size": 164652,
+      "uploadedDate": "2019-01-09T16:21:34.247Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg",
+      "md5": "8ce13d0028128729177daad2e3ec0481",
+      "size": 164652,
+      "uploadedDate": "2019-01-09T16:21:34.247Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/badger/offer/Epic_EdithFinch_PrimaryPromo (3)-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "size": 280199,
+      "uploadedDate": "2019-01-08T01:23:27.009Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/badger/offer/coderedemption-340x440-e1b92c827effb128fa66c0c39e65893d.jpg",
+      "md5": "e1b92c827effb128fa66c0c39e65893d",
+      "size": 53914,
+      "uploadedDate": "2019-01-09T16:27:07.864Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badger/offer/ThumbWhatRemainsEdith-340x440-e1b92c827effb128fa66c0c39e65893d.jpg",
+      "md5": "e1b92c827effb128fa66c0c39e65893d",
+      "size": 53914,
+      "uploadedDate": "2019-05-02T15:21:43.085Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "size": 280199,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "25ed76af7816430cbfc0f5e6d3195d56"
+    }
+  ],
+  "catalogNs": null
 }

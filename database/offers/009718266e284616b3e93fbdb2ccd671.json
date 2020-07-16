@@ -1,55 +1,54 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-26T17:00:00.000Z",
-  "creationDate": "2020-04-23T19:03:06.087Z",
-  "lastModifiedDate": "2020-06-01T12:47:44.018Z",
-  "viewableDate": "2020-05-26T17:00:00.000Z",
-  "productSlug": "poly-bridge-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Poly Bridge 2",
   "id": "009718266e284616b3e93fbdb2ccd671",
   "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
+  "title": "Poly Bridge 2",
   "description": "Poly Bridge 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg"
-    }
-  ],
+  "productSlug": "poly-bridge-2/home",
+  "urlSlug": "pantanalgeneralaudience",
+  "creationDate": "2020-04-23T19:03:06.087Z",
+  "lastModifiedDate": "2020-06-01T12:47:44.018Z",
+  "effectiveDate": "2020-05-26T17:00:00.000Z",
+  "viewableDate": "2020-05-26T17:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-h3tscjk3a6qqrftdkrtl8w352rxceg",
     "name": "Dry Cactus"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3e5b8cda38744530babec5d8b000e6a4",
-      "namespace": "9b31326adff64c7fa7bbac6e8d4a9e6e",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +65,66 @@
       "value": "poly-bridge-2/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
+      "md5": "b57527fe6ae45ce43eba64848b097b84",
+      "size": 945768,
+      "uploadedDate": "2020-05-20T18:45:24.401Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/EGS_PolyBridge2_DryCactus_S1-2560x1440-b57527fe6ae45ce43eba64848b097b84.jpg",
+      "md5": "b57527fe6ae45ce43eba64848b097b84",
+      "size": 945768,
+      "uploadedDate": "2020-05-20T18:45:48.605Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg",
+      "md5": "b1f9a2391c4a111cb3f5616e564a5b28",
+      "size": 703502,
+      "uploadedDate": "2020-05-29T13:24:37.978Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg",
+      "md5": "b1f9a2391c4a111cb3f5616e564a5b28",
+      "size": 703502,
+      "uploadedDate": "2020-05-29T13:24:52.435Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg",
+      "md5": "b1f9a2391c4a111cb3f5616e564a5b28",
+      "size": 703502,
+      "uploadedDate": "2020-05-29T13:25:04.657Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9b31326adff64c7fa7bbac6e8d4a9e6e/offer/PB2-Portrait-1200x1600-1200x1600-b1f9a2391c4a111cb3f5616e564a5b28.jpg",
+      "md5": "b1f9a2391c4a111cb3f5616e564a5b28",
+      "size": 703502,
+      "uploadedDate": "2020-05-29T13:25:21.636Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3e5b8cda38744530babec5d8b000e6a4"
+    }
+  ],
+  "catalogNs": null
 }

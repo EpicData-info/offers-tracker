@@ -1,68 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-27T16:00:00.000Z",
-  "creationDate": "2019-10-16T21:51:59.137Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "ghost-recon-wildlands/year-1-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
   "id": "f5d78704c8fe41129588ccfac525957e",
   "namespace": "hyacinth",
+  "title": "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
   "description": "Tom Clancy’s Ghost Recon® Wildlands Season Pass Year 1",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-1920x1080-2ec250118253da86f4f53be7455c5ef2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-330x440-f04e880dcb69866bed6ca5a311662596.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-908473040b098a899596c49192320227e8af56fc.jpg"
-    }
-  ],
+  "productSlug": "ghost-recon-wildlands/year-1-pass",
+  "urlSlug": "hyacinth-season-y1-pass",
+  "creationDate": "2019-10-16T21:51:59.137Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2020-01-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "dcbf3cabf1d24457a91a35a5a7806bc8",
-      "namespace": "hyacinth",
-      "developer": null
-    },
-    {
-      "id": "7c6cd2a3df4648ada1ad79dc402cee05",
-      "namespace": "hyacinth",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "[]"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "ghost-recon-wildlands/year-1-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -77,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-wildlands/year-1-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/hyacinth/item/ESRB_GhostReconWildlands-842x485-aae7a78b2e9a28d13c534d070c7bc80f.jpg",
+      "md5": "aae7a78b2e9a28d13c534d070c7bc80f",
+      "size": 85813,
+      "uploadedDate": "2019-04-23T19:56:50.431Z",
+      "width": 842,
+      "height": 485
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-1920x1080-2ec250118253da86f4f53be7455c5ef2.jpg",
+      "md5": "2ec250118253da86f4f53be7455c5ef2",
+      "size": 134217,
+      "uploadedDate": "2020-01-28T03:40:29.982Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GhostReconWildlands_CodeRedemption-330x440-330x440-f04e880dcb69866bed6ca5a311662596.png",
+      "md5": "f04e880dcb69866bed6ca5a311662596",
+      "size": 90187,
+      "uploadedDate": "2020-01-28T03:40:37.077Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/hyacinth/offer/GRW_Y1PassCapsule-1920x1080-908473040b098a899596c49192320227e8af56fc.jpg",
+      "md5": "2ec250118253da86f4f53be7455c5ef2",
+      "size": 134217,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "dcbf3cabf1d24457a91a35a5a7806bc8"
+    },
+    {
+      "id": "7c6cd2a3df4648ada1ad79dc402cee05"
+    }
+  ],
+  "catalogNs": null
 }

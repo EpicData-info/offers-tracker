@@ -1,50 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-05-21T14:40:00.000Z",
-  "creationDate": "2019-05-21T18:47:49.496Z",
-  "lastModifiedDate": "2020-04-29T00:38:42.816Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "The Sinking City Press Audience",
   "id": "f99dc34dbce64510aedde9dfd6331e92",
   "namespace": "middlemist",
+  "title": "The Sinking City Press Audience",
   "description": "The Sinking City Press Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheSinkingCity_CodeRedemption-340x440-248ebb799d8f71b2f2feff76cd4495d1.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/TheSinkingCity_CodeRedemption-340x440-248ebb799d8f71b2f2feff76cd4495d1.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "the-sinking-city-press-audience",
+  "creationDate": "2019-05-21T18:47:49.496Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.816Z",
+  "effectiveDate": "2050-05-21T14:40:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "63774f386e7c423fb0834e40cde3ddeb",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "eb502f832c23417db38326d020453e37",
-      "namespace": "middlemist",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +42,42 @@
       "value": "Bigben Interactive"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/middlemist/item/ESRB_NOCOPYWRITTE_M_Long_1080-1-4905x2280-a8003b462a29137e7eb04750a3016905.png",
+      "md5": "a8003b462a29137e7eb04750a3016905",
+      "size": 232833,
+      "uploadedDate": "2019-04-29T19:40:38.929Z",
+      "width": 4905,
+      "height": 2280
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheSinkingCity_CodeRedemption-340x440-248ebb799d8f71b2f2feff76cd4495d1.jpg",
+      "md5": "248ebb799d8f71b2f2feff76cd4495d1",
+      "size": 69092,
+      "uploadedDate": "2019-05-21T18:46:06.512Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/TheSinkingCity_CodeRedemption-340x440-248ebb799d8f71b2f2feff76cd4495d1.jpg",
+      "md5": "248ebb799d8f71b2f2feff76cd4495d1",
+      "size": 69092,
+      "uploadedDate": "2019-05-21T18:46:17.129Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "63774f386e7c423fb0834e40cde3ddeb"
+    },
+    {
+      "id": "eb502f832c23417db38326d020453e37"
+    }
+  ],
+  "catalogNs": null
 }

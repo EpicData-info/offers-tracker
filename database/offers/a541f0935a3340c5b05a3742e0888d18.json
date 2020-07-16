@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-14T15:00:00.000Z",
-  "creationDate": "2019-03-18T05:25:27.711Z",
-  "lastModifiedDate": "2020-07-07T17:59:06.872Z",
-  "viewableDate": null,
-  "productSlug": "industries-of-titan",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Industries of Titan",
   "id": "a541f0935a3340c5b05a3742e0888d18",
   "namespace": "protea",
+  "title": "Industries of Titan",
   "description": "Industries of Titan",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/protea/offer/IoT_Update02_Headline image-1920x1080-e4f367029f797378565e1618b36dab4c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/protea/offer/IoT_Update02_Headline image-1920x1080-e4f367029f797378565e1618b36dab4c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg"
-    }
-  ],
+  "productSlug": "industries-of-titan",
+  "urlSlug": "industries-of-titan",
+  "creationDate": "2019-03-18T05:25:27.711Z",
+  "lastModifiedDate": "2020-07-07T17:59:06.872Z",
+  "effectiveDate": "2020-04-14T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
     "name": "Brace Yourself Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "813d4f7d95bb4debbd9e3e0612c71b5c",
-      "namespace": "protea",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "industries-of-titan"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT_Update02_Headline image-1920x1080-e4f367029f797378565e1618b36dab4c.jpg",
+      "md5": "e4f367029f797378565e1618b36dab4c",
+      "size": 685680,
+      "uploadedDate": "2020-07-07T17:03:32.053Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg",
+      "md5": "17216808e68d114e82dd4ddd6be7e1f9",
+      "size": 656810,
+      "uploadedDate": "2020-07-07T17:03:45.985Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg",
+      "md5": "17216808e68d114e82dd4ddd6be7e1f9",
+      "size": 656810,
+      "uploadedDate": "2020-07-07T17:04:05.622Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg",
+      "md5": "17216808e68d114e82dd4ddd6be7e1f9",
+      "size": 656810,
+      "uploadedDate": "2020-07-07T17:04:19.119Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/IoT_Update02_Headline image-1920x1080-e4f367029f797378565e1618b36dab4c.jpg",
+      "md5": "e4f367029f797378565e1618b36dab4c",
+      "size": 685680,
+      "uploadedDate": "2020-07-07T17:05:01.912Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/Image - Capsule Image_00000-1200x1600-17216808e68d114e82dd4ddd6be7e1f9.jpg",
+      "md5": "17216808e68d114e82dd4ddd6be7e1f9",
+      "size": 656810,
+      "uploadedDate": "2020-07-07T17:05:18.312Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "813d4f7d95bb4debbd9e3e0612c71b5c"
+    }
+  ],
+  "catalogNs": null
 }

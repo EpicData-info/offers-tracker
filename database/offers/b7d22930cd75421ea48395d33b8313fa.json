@@ -1,45 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-01T15:00:00.000Z",
-  "creationDate": "2020-06-11T20:41:39.467Z",
-  "lastModifiedDate": "2020-07-01T22:01:18.404Z",
-  "viewableDate": "2020-07-01T15:00:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Standard Access - 1 Year",
   "id": "b7d22930cd75421ea48395d33b8313fa",
   "namespace": "b04882669b2e495e9f747c8560488c93",
+  "title": "Standard Access - 1 Year",
   "description": "Standard Access - 1 Year",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Store_Landscape_2580x1450-2580x1450-befa245a94014540e4923259eccaf7a2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Wishlist_Portrait_860x1148-860x1148-e82c4b8dae9bd1529cfe78f5fee2fbf6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Wishlist_Portrait_860x1148-860x1148-e82c4b8dae9bd1529cfe78f5fee2fbf6.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "standardaccessoneyear",
+  "creationDate": "2020-06-11T20:41:39.467Z",
+  "lastModifiedDate": "2020-07-01T22:01:18.404Z",
+  "effectiveDate": "2020-07-01T15:00:00.000Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "aeb35e07369d47e5bfbfe7c69560b329",
-      "namespace": "b04882669b2e495e9f747c8560488c93",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,17 +49,39 @@
       "value": "Ubisoft Nadeo"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Store_Landscape_2580x1450-2580x1450-befa245a94014540e4923259eccaf7a2.jpg",
+      "md5": "befa245a94014540e4923259eccaf7a2",
+      "size": 448363,
+      "uploadedDate": "2020-06-11T20:34:24.010Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Wishlist_Portrait_860x1148-860x1148-e82c4b8dae9bd1529cfe78f5fee2fbf6.jpg",
+      "md5": "e82c4b8dae9bd1529cfe78f5fee2fbf6",
+      "size": 342287,
+      "uploadedDate": "2020-06-11T20:34:32.882Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/TM_UCS16379_EGST_Wishlist_Portrait_860x1148-860x1148-e82c4b8dae9bd1529cfe78f5fee2fbf6.jpg",
+      "md5": "e82c4b8dae9bd1529cfe78f5fee2fbf6",
+      "size": 342287,
+      "uploadedDate": "2020-06-11T20:35:13.038Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "aeb35e07369d47e5bfbfe7c69560b329"
+    }
+  ],
+  "catalogNs": null
 }

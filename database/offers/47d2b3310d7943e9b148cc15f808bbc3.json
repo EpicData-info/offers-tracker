@@ -1,57 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-10-21T19:44:28.338Z",
-  "lastModifiedDate": "2020-04-29T00:38:16.580Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "[Sunset] Cumin Ultimate - Cumin Deluxe Coriander Gold",
   "id": "47d2b3310d7943e9b148cc15f808bbc3",
   "namespace": "cumin",
+  "title": "[Sunset] Cumin Ultimate - Cumin Deluxe Coriander Gold",
   "description": "[Sunset] Cumin Ultimate - Cumin Deluxe Coriander Gold   -  moving to 'Darter' sandbox",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "cumindeluxeaudience",
+  "creationDate": "2019-10-21T19:44:28.338Z",
+  "lastModifiedDate": "2020-04-29T00:38:16.580Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "bb2072f2a4614a98b717b57ccad6ccfb",
-      "namespace": "cumin",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "5de423d356784c29b719f855c9567fde",
-      "namespace": "cumin",
-      "developer": null
-    },
-    {
-      "id": "6c262450ee624de3bd74a3d699554b38",
-      "namespace": "cumin",
-      "developer": null
-    },
-    {
-      "id": "7a189738c32c4b6298c7dc3d009a363b",
-      "namespace": "coriander",
-      "developer": null
-    },
-    {
-      "id": "ee6aaa36869c40328eee99d595c1f56a",
-      "namespace": "cumin",
-      "developer": null
-    },
-    {
-      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa",
-      "namespace": "coriander",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,14 +42,26 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
+      "id": "bb2072f2a4614a98b717b57ccad6ccfb"
     },
     {
-      "path": "applications"
+      "id": "5de423d356784c29b719f855c9567fde"
+    },
+    {
+      "id": "6c262450ee624de3bd74a3d699554b38"
+    },
+    {
+      "id": "7a189738c32c4b6298c7dc3d009a363b"
+    },
+    {
+      "id": "ee6aaa36869c40328eee99d595c1f56a"
+    },
+    {
+      "id": "d8db2eafe7cf48669ae2d1f0fc3411aa"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

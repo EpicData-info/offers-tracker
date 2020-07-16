@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-02T00:00:00.000Z",
-  "creationDate": "2019-06-19T18:45:16.977Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "tetris-effect/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tetris® Effect",
   "id": "f660ad626f1443a5ba90192e5510062c",
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "title": "Tetris® Effect",
   "description": "Tetris® Effect",
   "longDescription": "Update  offer August 6th at 9:00 AM ESD",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Portrait_4-3-400x530-6635ef29a551edd516217bb27edaa986.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Landscape_16-9-520x292-ebc059b30628d3e0891edba2b29a3730.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Landscape_offer_image_16x9-2560x1440-e35824f9338fff6e8d0fc4b43ff40622.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg"
-    }
-  ],
+  "productSlug": "tetris-effect/home",
+  "urlSlug": "kiwigeneralaudience",
+  "creationDate": "2019-06-19T18:45:16.977Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-08-02T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
     "name": "Enhance, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c83ae4285d894e738f59e76d68252aa6",
-      "namespace": "76339caf9e8e4d24b62761c736e82b42",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "ARCADE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2020-07-01T22:04:10.439Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1179",
+      "name": "VR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:47.428Z",
+      "updated": "2020-04-09T17:11:19.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "tetris-effect/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Portrait_4-3-400x530-6635ef29a551edd516217bb27edaa986.png",
+      "md5": "6635ef29a551edd516217bb27edaa986",
+      "size": 422887,
+      "uploadedDate": "2019-10-18T21:08:56.311Z",
+      "width": 400,
+      "height": 530
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/TetrisEffect_Landscape_16-9-520x292-ebc059b30628d3e0891edba2b29a3730.png",
+      "md5": "ebc059b30628d3e0891edba2b29a3730",
+      "size": 323070,
+      "uploadedDate": "2019-10-18T21:09:11.865Z",
+      "width": 520,
+      "height": 292
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
+      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
+      "size": 241405,
+      "uploadedDate": "2019-07-12T18:35:52.471Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Landscape_offer_image_16x9-2560x1440-e35824f9338fff6e8d0fc4b43ff40622.jpg",
+      "md5": "e35824f9338fff6e8d0fc4b43ff40622",
+      "size": 659898,
+      "uploadedDate": "2020-03-03T23:07:55.760Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg",
+      "md5": "562e27df53ed62551793ee90d7b9d994",
+      "size": 1006131,
+      "uploadedDate": "2020-04-09T17:10:30.383Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/TetrisEffect_Portrait_offer_image_3x4-860x1148-562e27df53ed62551793ee90d7b9d994.jpg",
+      "md5": "562e27df53ed62551793ee90d7b9d994",
+      "size": 1006131,
+      "uploadedDate": "2020-04-09T17:10:59.790Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c83ae4285d894e738f59e76d68252aa6"
+    }
+  ],
+  "catalogNs": null
 }

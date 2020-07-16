@@ -1,43 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-10-30T01:00:10.518Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "nuclear-throne/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Nuclear Throne",
   "id": "c46e7726fb6b465f8b1a749618edee64",
   "namespace": "epic",
+  "title": "Nuclear Throne",
   "description": "Nuclear Throne",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg"
-    }
-  ],
+  "productSlug": "nuclear-throne/home",
+  "urlSlug": "nuclear-throne",
+  "creationDate": "2019-10-30T01:00:10.518Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-6xk2nej4lbrlkq5q4vxdf9w5kens7c",
     "name": "Vlambeer"
   },
-  "items": [
+  "linkedOfferId": "a123324c4f464e06bfda6dee473a9776",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1333",
+      "name": "ACTION RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2020-07-06T13:49:18.799Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1183",
+      "name": "LOCAL MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:49.408Z",
+      "updated": "2020-05-14T19:35:51.519Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +148,39 @@
       "value": "a123324c4f464e06bfda6dee473a9776"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_IC1_FullColor-1900x677-ca9974bc6c89db4b30d0d02e7d928195.png",
+      "md5": "ca9974bc6c89db4b30d0d02e7d928195",
+      "size": 505415,
+      "uploadedDate": "2019-10-30T00:57:00.952Z",
+      "width": 1900,
+      "height": 677
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_VLAMBEER_NUCLEARTHRONE_S2_StorePromoPortrait-1280x1440-90f08d7d248f2997d23d6080f7d6ec2d.jpg",
+      "md5": "90f08d7d248f2997d23d6080f7d6ec2d",
+      "size": 745272,
+      "uploadedDate": "2019-10-30T00:56:49.614Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_VLAMBEER_NUCLEARTHRONE_S1_StorePromoLandscape-2560x1440-21de47e86aa44dc899f3242cfdbca3cb.jpg",
+      "md5": "21de47e86aa44dc899f3242cfdbca3cb",
+      "size": 1020013,
+      "uploadedDate": "2019-10-30T21:44:04.615Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "a123324c4f464e06bfda6dee473a9776",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "developerName",
-        "value": "Vlambeer"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "nuclear-throne/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

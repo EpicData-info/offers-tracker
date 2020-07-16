@@ -1,47 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-30T10:00:00.000Z",
-  "creationDate": "2019-08-30T20:36:50.632Z",
-  "lastModifiedDate": "2020-05-11T18:30:05.013Z",
-  "viewableDate": null,
-  "productSlug": "wrc-8",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "WRC 8 Ford Escort MkII 1800",
   "id": "27b7f28f16a649a18796d2f9bdc9a22d",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
+  "title": "WRC 8 Ford Escort MkII 1800",
   "description": "WRC 8 Ford Escort MkII 1800",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Ford_G1_PDPPromoImage-1920x1080-290573f2801e835d6d18d524f8a567e52fabb411.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg"
-    }
-  ],
+  "productSlug": "wrc-8",
+  "urlSlug": "wrc-8-ford-escort-mkii",
+  "creationDate": "2019-08-30T20:36:50.632Z",
+  "lastModifiedDate": "2020-05-11T18:30:05.013Z",
+  "effectiveDate": "2019-08-30T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "abbbc39fbfef4a01a07117629e729da6",
-      "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +93,48 @@
       "value": "wrc-8"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2019-08-30T20:36:24.141Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/EGS_Bigben_WRC8Ford_G1_PDPPromoImage-1920x1080-290573f2801e835d6d18d524f8a567e52fabb411.jpg",
+      "md5": "a343e312e65c0b94832d06ba8862055b",
+      "size": 197654,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2020-04-20T19:27:36.173Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f6dcd5bf17c0469789292d1166bf91a1/offer/CodeRedemption_WRC8-340x440-5d61091860d976273aeefd283524e5d7-340x440-5d61091860d976273aeefd283524e5d7.jpg",
+      "md5": "5d61091860d976273aeefd283524e5d7",
+      "size": 136239,
+      "uploadedDate": "2020-04-20T19:27:49.526Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "abbbc39fbfef4a01a07117629e729da6"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-02T15:00:00.000Z",
-  "creationDate": "2019-07-15T23:30:02.296Z",
-  "lastModifiedDate": "2020-05-12T18:31:18.681Z",
-  "viewableDate": null,
-  "productSlug": "this-war-of-mine/fading-embers",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Fading Embers (ep.3) DLC",
   "id": "46cd3bfd4cb8442393b13e3ad48bad86",
   "namespace": "91189432bbad4478afd611edff7f0339",
+  "title": "Fading Embers (ep.3) DLC",
   "description": "Fading Embers (ep.3) DLC",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_L1-2560x1440-0baf19858cbd0a42486287964c2f27fd4a4ea3d7.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg"
-    }
-  ],
+  "productSlug": "this-war-of-mine/fading-embers",
+  "urlSlug": "cardinal-dlc-03",
+  "creationDate": "2019-07-15T23:30:02.296Z",
+  "lastModifiedDate": "2020-05-12T18:31:18.681Z",
+  "effectiveDate": "2019-08-02T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6e2b7797a74e4a0c95fddb4dd11e650a",
-      "namespace": "91189432bbad4478afd611edff7f0339",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +101,48 @@
       "value": "this-war-of-mine/fading-embers"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_L1-2560x1440-0baf19858cbd0a42486287964c2f27fd4a4ea3d7.jpg",
+      "md5": "4a0b3005da7e6f8937e3ea5219ba08a6",
+      "size": 601078,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg",
+      "md5": "f6e0bbc1449e4d7aeb99e6633e266667",
+      "size": 2306934,
+      "uploadedDate": "2020-04-27T15:42:18.737Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg",
+      "md5": "f6e0bbc1449e4d7aeb99e6633e266667",
+      "size": 2306934,
+      "uploadedDate": "2020-04-27T15:42:31.443Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/91189432bbad4478afd611edff7f0339/offer/EGS_11bitstudios_TWOM_Stories_PortraitImage-1200x1600-f6e0bbc1449e4d7aeb99e6633e266667.jpg",
+      "md5": "f6e0bbc1449e4d7aeb99e6633e266667",
+      "size": 2306934,
+      "uploadedDate": "2020-04-27T15:42:57.648Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6e2b7797a74e4a0c95fddb4dd11e650a"
+    }
+  ],
+  "catalogNs": null
 }

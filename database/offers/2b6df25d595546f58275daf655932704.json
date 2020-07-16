@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-11-27T13:08:00.000Z",
-  "creationDate": "2018-11-27T18:11:13.678Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-11-27T13:08:00.000Z",
-  "productSlug": "ashen",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ashen",
   "id": "2b6df25d595546f58275daf655932704",
   "namespace": "epic",
+  "title": "Ashen",
   "description": "Ashen",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Store_Ashen_logo-1850x461-09ebf4211fbf9acf6203b383f985216b.png"
-    }
-  ],
+  "productSlug": "ashen",
+  "urlSlug": "ashen",
+  "creationDate": "2018-11-27T18:11:13.678Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-11-27T13:08:00.000Z",
+  "viewableDate": "2018-11-27T13:08:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": "32a37ec072474cf4a621d0ce28505f36",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +124,39 @@
       "value": "32a37ec072474cf4a621d0ce28505f36"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EPIC_Store_PDPPromo_2580x1450-2580x1450-6dec56493dce61dd88c7e80052294667.jpg",
+      "md5": "6dec56493dce61dd88c7e80052294667",
+      "size": 684727,
+      "uploadedDate": "2018-11-30T22:59:47.476Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/ashen_PortraitPromo_1288x1450-1288x1450-a1fbd8413573ff7712913594c67d80ba-1288x1450-ce82217f72fb3ed06188d98dd7563f89.jpg",
+      "md5": "ce82217f72fb3ed06188d98dd7563f89",
+      "size": 102738,
+      "uploadedDate": "2018-12-07T18:47:58.258Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Store_Ashen_logo-1850x461-09ebf4211fbf9acf6203b383f985216b.png",
+      "md5": "09ebf4211fbf9acf6203b383f985216b",
+      "size": 42380,
+      "uploadedDate": "2019-08-02T19:41:12.312Z",
+      "width": 1850,
+      "height": 461
     }
   ],
-  "linkedOfferId": "32a37ec072474cf4a621d0ce28505f36",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Annapurna Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "A44"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "ashen"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

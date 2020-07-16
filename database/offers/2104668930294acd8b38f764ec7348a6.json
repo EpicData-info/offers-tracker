@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-14T12:00:00.000Z",
-  "creationDate": "2020-05-06T16:04:46.255Z",
-  "lastModifiedDate": "2020-05-14T17:32:34.714Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Living Weapons Pack",
   "id": "2104668930294acd8b38f764ec7348a6",
   "namespace": "iris",
+  "title": "Living Weapons Pack",
   "description": "Living Weapons Pack",
   "longDescription": "$2.99",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_G1A_00-1920x1080-a220c553f1d3a3e171ac0652e57b17cb.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "alien-living-gun",
+  "creationDate": "2020-05-06T16:04:46.255Z",
+  "lastModifiedDate": "2020-05-14T17:32:34.714Z",
+  "effectiveDate": "2020-05-14T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "items": [
-    {
-      "id": "713cc4c1788d44498685d1498c18d8b5",
-      "namespace": "iris",
-      "developer": null
-    },
-    {
-      "id": "d5be47e39aee440aa212603c02de7e39",
-      "namespace": "iris",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Snapshot Games"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,98 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Snapshot Games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_G1A_00-1920x1080-a220c553f1d3a3e171ac0652e57b17cb.jpg",
+      "md5": "a220c553f1d3a3e171ac0652e57b17cb",
+      "size": 515246,
+      "uploadedDate": "2020-05-06T16:02:29.278Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg",
+      "md5": "033af9424eb56f4338dcc25a014d46ed",
+      "size": 451996,
+      "uploadedDate": "2020-05-06T16:02:38.276Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointLivingWeaponsPack_SnapshotGames_AddOn_S2-1200x1600-033af9424eb56f4338dcc25a014d46ed.jpg",
+      "md5": "033af9424eb56f4338dcc25a014d46ed",
+      "size": 451996,
+      "uploadedDate": "2020-05-06T16:02:46.286Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "713cc4c1788d44498685d1498c18d8b5"
+    },
+    {
+      "id": "d5be47e39aee440aa212603c02de7e39"
+    }
+  ],
+  "catalogNs": null
 }

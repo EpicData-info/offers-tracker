@@ -1,55 +1,54 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-18T06:00:00.000Z",
-  "creationDate": "2019-10-04T14:32:24.389Z",
-  "lastModifiedDate": "2020-06-18T13:13:40.839Z",
-  "viewableDate": null,
-  "productSlug": "mount-and-blade-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mount & Blade II: Bannerlord",
   "id": "1dcce12230b64066a988c06cdd5f653e",
   "namespace": "aeac94c7a11048758064b82f8f8d20ed",
+  "title": "Mount & Blade II: Bannerlord",
   "description": "Mount & Blade II: Bannerlord, Mount and Blade,",
   "longDescription": "MSRP : 49.99 (USD)",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EA_Landscape-image_2560x1440-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
-    }
-  ],
+  "productSlug": "mount-and-blade-2/home",
+  "urlSlug": "chickadeegeneralaudience",
+  "creationDate": "2019-10-04T14:32:24.389Z",
+  "lastModifiedDate": "2020-06-18T13:13:40.839Z",
+  "effectiveDate": "2020-06-18T06:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
     "name": "TaleWorlds Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "08e68a8960d4417e9d30ef8a6489df4c",
-      "namespace": "aeac94c7a11048758064b82f8f8d20ed",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +65,66 @@
       "value": "mount-and-blade-2/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
+      "md5": "7422df7d13d925d3d0140e59678d0712",
+      "size": 509459,
+      "uploadedDate": "2020-02-19T01:27:22.134Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
+      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
+      "size": 475246,
+      "uploadedDate": "2020-02-19T01:27:34.164Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
+      "md5": "7422df7d13d925d3d0140e59678d0712",
+      "size": 509459,
+      "uploadedDate": "2020-02-19T01:27:22.134Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
+      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
+      "size": 475246,
+      "uploadedDate": "2020-02-19T01:19:17.386Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
+      "md5": "7422df7d13d925d3d0140e59678d0712",
+      "size": 509459,
+      "uploadedDate": "2020-02-19T01:19:30.224Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/aeac94c7a11048758064b82f8f8d20ed/offer/EA_Landscape-image_2560x1440-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
+      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
+      "size": 475246,
+      "uploadedDate": "2020-02-21T19:23:56.746Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "08e68a8960d4417e9d30ef8a6489df4c"
+    }
+  ],
+  "catalogNs": null
 }

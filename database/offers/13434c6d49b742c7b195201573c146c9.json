@@ -1,47 +1,93 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-12-28T16:00:00.000Z",
-  "creationDate": "2018-12-05T00:20:44.261Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-12-04T19:26:00.000Z",
-  "productSlug": "super-meat-boy/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Super Meat Boy",
   "id": "13434c6d49b742c7b195201573c146c9",
   "namespace": "epic",
+  "title": "Super Meat Boy",
   "description": "Super Meat Boy",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PortraitPromo2-1288x1450-5da0584e428210413b9bd5e2b8f43a21.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PrimaryPromo2-2580x1456-df869e78d3d69fd36efb938501176bc0.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Logo_SMB_Original2-2526x780-f5a5990cdd6c400ba744591b7327edfa.png"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/smbcard1-744x300-17df1723e2b17231071a5d1ec912424f.png"
-    }
-  ],
+  "productSlug": "super-meat-boy/home",
+  "urlSlug": "super-meat-boy",
+  "creationDate": "2018-12-05T00:20:44.261Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-12-28T16:00:00.000Z",
+  "viewableDate": "2018-12-04T19:26:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-mj7q3aaq5djq6wuddnrr5mgqjsk2da",
     "name": "Team Meat"
   },
-  "items": [
+  "linkedOfferId": "58f2e8dff4a84c5796ebcbdd5d10fe34",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,26 +112,48 @@
       "value": "super-meat-boy/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PortraitPromo2-1288x1450-5da0584e428210413b9bd5e2b8f43a21.jpg",
+      "md5": "5da0584e428210413b9bd5e2b8f43a21",
+      "size": 95304,
+      "uploadedDate": "2018-12-12T18:53:33.264Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SMB_PrimaryPromo2-2580x1456-df869e78d3d69fd36efb938501176bc0.jpg",
+      "md5": "df869e78d3d69fd36efb938501176bc0",
+      "size": 192818,
+      "uploadedDate": "2018-12-12T18:53:41.295Z",
+      "width": 2580,
+      "height": 1456
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Logo_SMB_Original2-2526x780-f5a5990cdd6c400ba744591b7327edfa.png",
+      "md5": "f5a5990cdd6c400ba744591b7327edfa",
+      "size": 120876,
+      "uploadedDate": "2018-12-12T18:54:01.731Z",
+      "width": 2526,
+      "height": 780
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/smbcard1-744x300-17df1723e2b17231071a5d1ec912424f.png",
+      "md5": "17df1723e2b17231071a5d1ec912424f",
+      "size": 142761,
+      "uploadedDate": "2019-01-04T18:46:07.557Z",
+      "width": 744,
+      "height": 300
     }
   ],
-  "linkedOfferId": "58f2e8dff4a84c5796ebcbdd5d10fe34",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "developerName",
-        "value": "Team Meat"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "super-meat-boy/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

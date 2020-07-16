@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-12-12T18:00:00.000Z",
-  "creationDate": "2019-12-12T22:42:59.380Z",
-  "lastModifiedDate": "2019-12-12T22:42:59.380Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Pewee Durable",
   "id": "553b04eecc414ca8b77af9a7d24fc4bb",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "Pewee Durable",
   "description": "Pewee Durable",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "pewee-durable",
+  "creationDate": "2019-12-12T22:42:59.380Z",
+  "lastModifiedDate": "2019-12-12T22:42:59.380Z",
+  "effectiveDate": "2050-12-12T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
-    {
-      "id": "bccf3d0669484c4cb8d6f6301661a082",
-      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "bccf3d0669484c4cb8d6f6301661a082"
+    }
+  ],
+  "catalogNs": null
 }

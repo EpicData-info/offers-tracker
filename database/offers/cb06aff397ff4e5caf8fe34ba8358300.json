@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2019-12-04T18:28:35.557Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-syndicate/the-last-maharaja",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassins Creed Syndicate The Last Maharaja",
   "id": "cb06aff397ff4e5caf8fe34ba8358300",
   "namespace": "c9be94273fe244c08032ca493ad87434",
+  "title": "Assassins Creed Syndicate The Last Maharaja",
   "description": "Assassins Creed Syndicate The Last Maharaja",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC5_Edition_Capsule_1920X1080-1920x1080-8974cd5bb323bc4a2ad91a93db7b6e4e05f7d068.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-syndicate/the-last-maharaja",
+  "urlSlug": "albacoretlmgeneralaudience",
+  "creationDate": "2019-12-04T18:28:35.557Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "b782bb666fe644b0aa66184a748d74bf",
-      "namespace": "c9be94273fe244c08032ca493ad87434",
-      "developer": null
-    },
-    {
-      "id": "f612b356e9e24864985ba435641ee102",
-      "namespace": "c9be94273fe244c08032ca493ad87434",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "publisherName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "assassins-creed-syndicate/the-last-maharaja"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,39 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-syndicate/the-last-maharaja"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC5_Edition_Capsule_1920X1080-1920x1080-8974cd5bb323bc4a2ad91a93db7b6e4e05f7d068.jpg",
+      "md5": "4d84d2780ac1f5cb57ba206783d5c88f",
+      "size": 73344,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "b782bb666fe644b0aa66184a748d74bf"
+    },
+    {
+      "id": "f612b356e9e24864985ba435641ee102"
+    }
+  ],
+  "catalogNs": null
 }

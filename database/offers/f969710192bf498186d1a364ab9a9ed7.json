@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-29T18:23:00.000Z",
-  "creationDate": "2019-08-29T22:25:34.470Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.603Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Test Currency Pack",
   "id": "f969710192bf498186d1a364ab9a9ed7",
   "namespace": "azalea",
+  "title": "Test Currency Pack",
   "description": "Test Currency Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "test-currency-pack",
+  "creationDate": "2019-08-29T22:25:34.470Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.603Z",
+  "effectiveDate": "2050-08-29T18:23:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
-    {
-      "id": "c663705216c145ed9a65ad10d4023857",
-      "namespace": "azalea",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,18 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c663705216c145ed9a65ad10d4023857"
+    }
+  ],
+  "catalogNs": null
 }

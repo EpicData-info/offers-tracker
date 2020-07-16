@@ -1,43 +1,48 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-05T15:55:27.436Z",
-  "lastModifiedDate": "2020-05-21T15:07:29.225Z",
-  "viewableDate": null,
-  "productSlug": "grand-theft-auto-v",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Grand Theft Auto V",
   "id": "3e3aedb497074b6e878343bac1011d60",
   "namespace": "d5241c76f178492ea1540fce45616757",
+  "title": "Grand Theft Auto V",
   "description": "Grand Theft Auto V",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "VaultClosed",
-      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EpicVault_Clean_OPEN_V10_LightsON-1920x1080-75e6d0636a6083944570a1c6f94ead4f.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/atmosphere-01-wide-1920x1080-137a8463ce84d3e5f91f5175ac22b961.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg"
-    }
-  ],
+  "productSlug": "grand-theft-auto-v",
+  "urlSlug": "gtav",
+  "creationDate": "2020-05-05T15:55:27.436Z",
+  "lastModifiedDate": "2020-05-21T15:07:29.225Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8341d7c7e4534db7848cc428aa4cbe5a",
-      "namespace": "d5241c76f178492ea1540fce45616757",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "11631",
+      "name": "REQUIRES 2FA",
+      "namespace": null,
+      "aliases": [],
+      "operator": "Jason Savage",
+      "created": "2020-04-29T16:18:12.784Z",
+      "updated": "2020-06-04T14:25:02.159Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
     }
   ],
   "customAttributes": [
@@ -66,14 +71,39 @@
       "value": "grand-theft-auto-v"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "VaultClosed",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/EpicVault_Clean_OPEN_V10_LightsON-1920x1080-75e6d0636a6083944570a1c6f94ead4f.png",
+      "md5": "75e6d0636a6083944570a1c6f94ead4f",
+      "size": 4270311,
+      "uploadedDate": "2020-05-05T15:58:33.054Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/atmosphere-01-wide-1920x1080-137a8463ce84d3e5f91f5175ac22b961.jpg",
+      "md5": "137a8463ce84d3e5f91f5175ac22b961",
+      "size": 613261,
+      "uploadedDate": "2020-05-11T14:22:25.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d5241c76f178492ea1540fce45616757/offer/GTAV_EGS_Artwork_1200x1600_Portrait Store Banner-1200x1600-382243057711adf80322ed2aeea42191.jpg",
+      "md5": "382243057711adf80322ed2aeea42191",
+      "size": 591291,
+      "uploadedDate": "2020-05-14T01:22:39.365Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8341d7c7e4534db7848cc428aa4cbe5a"
+    }
+  ],
+  "catalogNs": null
 }

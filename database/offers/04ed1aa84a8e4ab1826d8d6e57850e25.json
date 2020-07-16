@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-05-09T18:28:52.661Z",
-  "lastModifiedDate": "2019-10-08T16:57:19.036Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "VanillaDevAudience",
   "id": "04ed1aa84a8e4ab1826d8d6e57850e25",
   "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
+  "title": "VanillaDevAudience",
   "description": "VanillaDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "vanilladevaudience",
+  "creationDate": "2019-05-09T18:28:52.661Z",
+  "lastModifiedDate": "2019-10-08T16:57:19.036Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
     "name": "Good Shepherd Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2d96b990fa5249e5ade3e21590e403e6",
-      "namespace": "a9cb15d3362d43d585b8a5b13b8a4513",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "Bithell Games"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "2d96b990fa5249e5ade3e21590e403e6"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

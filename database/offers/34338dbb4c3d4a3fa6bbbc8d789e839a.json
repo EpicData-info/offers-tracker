@@ -1,45 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-01T15:00:00.000Z",
-  "creationDate": "2020-06-11T20:46:28.525Z",
-  "lastModifiedDate": "2020-07-01T22:01:18.441Z",
-  "viewableDate": "2020-07-01T15:00:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Club Access - 3 Years",
   "id": "34338dbb4c3d4a3fa6bbbc8d789e839a",
   "namespace": "b04882669b2e495e9f747c8560488c93",
+  "title": "Club Access - 3 Years",
   "description": "Club Access - 3 Years",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Store_Landscape_2580x1450-2580x1450-253bf29bf65ddb881d22ad7592ad1c6a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-c905b9bef322f90650d7d25117b79d15.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-c905b9bef322f90650d7d25117b79d15.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "clubaccessthreeyears",
+  "creationDate": "2020-06-11T20:46:28.525Z",
+  "lastModifiedDate": "2020-07-01T22:01:18.441Z",
+  "effectiveDate": "2020-07-01T15:00:00.000Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e8b329cd3689471ca5e1baa18a3b1c7a",
-      "namespace": "b04882669b2e495e9f747c8560488c93",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -54,17 +49,39 @@
       "value": "Ubisoft Nadeo"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Store_Landscape_2580x1450-2580x1450-253bf29bf65ddb881d22ad7592ad1c6a.jpg",
+      "md5": "253bf29bf65ddb881d22ad7592ad1c6a",
+      "size": 499474,
+      "uploadedDate": "2020-06-11T20:44:42.718Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-c905b9bef322f90650d7d25117b79d15.jpg",
+      "md5": "c905b9bef322f90650d7d25117b79d15",
+      "size": 474898,
+      "uploadedDate": "2020-06-11T20:44:58.921Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b04882669b2e495e9f747c8560488c93/offer/GameName_Wishlist_Portrait_860x1148-860x1148-c905b9bef322f90650d7d25117b79d15.jpg",
+      "md5": "c905b9bef322f90650d7d25117b79d15",
+      "size": 474898,
+      "uploadedDate": "2020-06-11T20:45:41.626Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e8b329cd3689471ca5e1baa18a3b1c7a"
+    }
+  ],
+  "catalogNs": null
 }

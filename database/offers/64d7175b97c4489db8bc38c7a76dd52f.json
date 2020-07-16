@@ -1,55 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-04T16:00:00.000Z",
-  "creationDate": "2020-01-29T00:05:36.150Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "far-cry-4/gold-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Far Cry 4 Gold Edition",
   "id": "64d7175b97c4489db8bc38c7a76dd52f",
   "namespace": "cf87285950ba492bbdc370b9d265ea36",
+  "title": "Far Cry 4 Gold Edition",
   "description": "Far Cry 4 Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_GE_Edition_Capsule_1920X1080-1920x1080-b1d8dd2b38d0930805fee4a29320aaa2542c3c2b.jpg"
-    }
-  ],
+  "productSlug": "far-cry-4/gold-edition",
+  "urlSlug": "tautoggoldeditionaudience",
+  "creationDate": "2020-01-29T00:05:36.150Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2020-02-04T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b356a981f1fc40ee90740638885a727b",
-      "namespace": "cf87285950ba492bbdc370b9d265ea36",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d",
-      "namespace": "cf87285950ba492bbdc370b9d265ea36",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "a86d85f4213743e1abea80a1b6c7022c",
-      "namespace": "cf87285950ba492bbdc370b9d265ea36",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -64,17 +49,45 @@
       "value": "far-cry-4/gold-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg",
+      "md5": "76ca0ca00ebcff16db92296aa4f2382c",
+      "size": 926639,
+      "uploadedDate": "2020-02-03T17:57:46.284Z",
+      "width": 708,
+      "height": 1000
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-76ca0ca00ebcff16db92296aa4f2382c.jpg",
+      "md5": "76ca0ca00ebcff16db92296aa4f2382c",
+      "size": 926639,
+      "uploadedDate": "2020-02-03T17:58:03.562Z",
+      "width": 708,
+      "height": 1000
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_GE_Edition_Capsule_1920X1080-1920x1080-b1d8dd2b38d0930805fee4a29320aaa2542c3c2b.jpg",
+      "md5": "541bb5eeeb57946066aa25c98e8440e3",
+      "size": 230272,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b356a981f1fc40ee90740638885a727b"
+    },
+    {
+      "id": "6ca26e0b0fd14d7fa92672b46e65bb9d"
+    },
+    {
+      "id": "a86d85f4213743e1abea80a1b6c7022c"
+    }
+  ],
+  "catalogNs": null
 }

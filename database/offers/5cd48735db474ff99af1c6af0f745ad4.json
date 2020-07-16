@@ -1,39 +1,69 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-17T16:00:00.000Z",
-  "creationDate": "2020-03-17T00:58:34.347Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": "2020-03-05T05:00:00.000Z",
-  "productSlug": "levelhead/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Levelhead",
   "id": "5cd48735db474ff99af1c6af0f745ad4",
   "namespace": "epic",
+  "title": "Levelhead",
   "description": "Levelhead",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg"
-    }
-  ],
+  "productSlug": "levelhead/home",
+  "urlSlug": "levelhead",
+  "creationDate": "2020-03-17T00:58:34.347Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-03-17T16:00:00.000Z",
+  "viewableDate": "2020-03-05T05:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-nl9ywem28pes9amuwp2jqrey4zxjpf",
     "name": "Butterscotch Shenanigans"
   },
-  "items": [
+  "linkedOfferId": "2c38503c83df4fd4ae7cd9c3a8a50ce8",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +88,30 @@
       "value": "2c38503c83df4fd4ae7cd9c3a8a50ce8"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S1-2560x1440-f16c24aa439cba43fd18b9f0df8e98f7.jpg",
+      "md5": "f16c24aa439cba43fd18b9f0df8e98f7",
+      "size": 473795,
+      "uploadedDate": "2020-03-17T00:57:30.563Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Levelhead_ButterscotchShenanigans_S2-860x1148-b04fcfdf525dd935e68556f031d3b971.jpg",
+      "md5": "b04fcfdf525dd935e68556f031d3b971",
+      "size": 274519,
+      "uploadedDate": "2020-03-17T00:57:41.588Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "2c38503c83df4fd4ae7cd9c3a8a50ce8",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Butterscotch Shenanigans"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "levelhead/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

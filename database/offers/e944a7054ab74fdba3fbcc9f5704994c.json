@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-30T15:00:00.000Z",
-  "creationDate": "2020-03-30T18:54:23.592Z",
-  "lastModifiedDate": "2020-05-11T16:52:23.227Z",
-  "viewableDate": null,
-  "productSlug": "totally-accurate-battle-simulator/bug-dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "BUG DLC",
   "id": "e944a7054ab74fdba3fbcc9f5704994c",
   "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
+  "title": "BUG DLC",
   "description": "BUG DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg"
-    }
-  ],
+  "productSlug": "totally-accurate-battle-simulator/bug-dlc",
+  "urlSlug": "driftfishbugdlc",
+  "creationDate": "2020-03-30T18:54:23.592Z",
+  "lastModifiedDate": "2020-05-11T16:52:23.227Z",
+  "effectiveDate": "2020-03-30T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
     "name": "Landfall Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "2681bacf4e394c71a570980360ffb5e6",
-      "namespace": "ffe512fa1e594ee6a75d4643d1e21b43",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "totally-accurate-battle-simulator/bug-dlc"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
+      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
+      "size": 245564,
+      "uploadedDate": "2019-12-17T19:03:56.601Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
+      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
+      "size": 245564,
+      "uploadedDate": "2019-12-17T19:03:56.601Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
+      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
+      "size": 245564,
+      "uploadedDate": "2019-12-18T13:50:56.466Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg",
+      "md5": "7afd2f220aa7ec3cb6c11ea851b0b287",
+      "size": 343664,
+      "uploadedDate": "2020-03-30T18:53:05.725Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg",
+      "md5": "7afd2f220aa7ec3cb6c11ea851b0b287",
+      "size": 343664,
+      "uploadedDate": "2020-03-30T18:53:40.675Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ffe512fa1e594ee6a75d4643d1e21b43/offer/EGS_BUGDLC_Landfall_DLC_G1A_00-1920x1080-7afd2f220aa7ec3cb6c11ea851b0b287.jpg",
+      "md5": "7afd2f220aa7ec3cb6c11ea851b0b287",
+      "size": 343664,
+      "uploadedDate": "2020-03-30T18:53:57.749Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "2681bacf4e394c71a570980360ffb5e6"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,51 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-10T08:00:00.000Z",
-  "creationDate": "2019-04-08T17:21:06.349Z",
-  "lastModifiedDate": "2020-05-12T23:35:47.024Z",
-  "viewableDate": null,
-  "productSlug": "diesel-brothers-truck-building-simulator-editor/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Diesel Brothers Truck Building Simulator Editor",
   "id": "1a0876c3c1994c50ae6e3231999a0dcf",
   "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
+  "title": "Diesel Brothers Truck Building Simulator Editor",
   "description": "Diesel Brothers Truck Building Simulator Editor",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LOGO_DB_TBS_white-3617x949-1e2111c089563b39f1b5aec008b10e9f.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/DieselBrothers-340x440-d52495962793710895c888fcefe389c1.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/DieselBrothers-340x440-d52495962793710895c888fcefe389c1.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061-704x445-937ec92abb8d34982453db808e2fd061.png"
-    }
-  ],
+  "productSlug": "diesel-brothers-truck-building-simulator-editor/home",
+  "urlSlug": "cajungeneralaudience",
+  "creationDate": "2019-04-08T17:21:06.349Z",
+  "lastModifiedDate": "2020-05-12T23:35:47.024Z",
+  "effectiveDate": "2019-05-10T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-gvzm3vdwtv2avjdlnlv8rb5s94btuj",
     "name": "Code Horizon"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "69ebd7adcb15435ca2c20998032fd9c3",
-      "namespace": "72dda1cee6e040c1bbce452bd501e0a7",
-      "developer": null
+      "path": "engines"
+    },
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,17 +62,48 @@
       "value": "diesel-brothers-truck-building-simulator-editor/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LOGO_DB_TBS_white-3617x949-1e2111c089563b39f1b5aec008b10e9f.png",
+      "md5": "1e2111c089563b39f1b5aec008b10e9f",
+      "size": 149388,
+      "uploadedDate": "2019-05-10T14:15:49.742Z",
+      "width": 3617,
+      "height": 949
     },
     {
-      "path": "editors"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/DieselBrothers-340x440-d52495962793710895c888fcefe389c1.jpg",
+      "md5": "d52495962793710895c888fcefe389c1",
+      "size": 88607,
+      "uploadedDate": "2019-05-10T13:37:29.650Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/DieselBrothers-340x440-d52495962793710895c888fcefe389c1.jpg",
+      "md5": "d52495962793710895c888fcefe389c1",
+      "size": 88607,
+      "uploadedDate": "2019-05-10T13:37:41.610Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/72dda1cee6e040c1bbce452bd501e0a7/offer/epic_store_a-704x445-937ec92abb8d34982453db808e2fd061-704x445-937ec92abb8d34982453db808e2fd061.png",
+      "md5": "937ec92abb8d34982453db808e2fd061",
+      "size": 173542,
+      "uploadedDate": "2020-02-24T16:47:28.596Z",
+      "width": 704,
+      "height": 445
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "69ebd7adcb15435ca2c20998032fd9c3"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-01T15:00:00.000Z",
-  "creationDate": "2019-07-22T21:46:42.940Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "alan-wake",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Alan Wake",
   "id": "8e1c914755f44623be389ae027813f8c",
   "namespace": "epic",
+  "title": "Alan Wake",
   "description": "Alan Wake",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Alan_Wake_logo-1800x1072-a351f555fdba8372de7b1ee5c6dc83a0.png"
-    }
-  ],
+  "productSlug": "alan-wake",
+  "urlSlug": "alan-wake",
+  "creationDate": "2019-07-22T21:46:42.940Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-07-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-sdmmvl8pftrkwfy86bjp286kuwhnsq",
     "name": "Remedy Entertainment"
   },
-  "items": [
+  "linkedOfferId": "c9f0e06579234578aaaa0da9bf74c92e",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +124,39 @@
       "value": "c9f0e06579234578aaaa0da9bf74c92e"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Alan_Wake_PrimaryPromo_2580x1450-2580x1450-50ac27e1221d7f78e8330a88f251b559.jpg",
+      "md5": "50ac27e1221d7f78e8330a88f251b559",
+      "size": 289814,
+      "uploadedDate": "2019-07-22T21:46:12.847Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/AlanWake_Portrait_Promo_1280x1420-1280x1420-77de69029fd93cdcab3f9af52c550cad.jpg",
+      "md5": "77de69029fd93cdcab3f9af52c550cad",
+      "size": 200950,
+      "uploadedDate": "2019-07-22T21:46:24.740Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Alan_Wake_logo-1800x1072-a351f555fdba8372de7b1ee5c6dc83a0.png",
+      "md5": "a351f555fdba8372de7b1ee5c6dc83a0",
+      "size": 106695,
+      "uploadedDate": "2019-08-02T19:00:58.991Z",
+      "width": 1800,
+      "height": 1072
     }
   ],
-  "linkedOfferId": "c9f0e06579234578aaaa0da9bf74c92e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "developerName",
-        "value": "Remedy Entertainment"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "alan-wake"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

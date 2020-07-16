@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-01T17:30:00.000Z",
-  "creationDate": "2019-04-26T21:43:35.752Z",
-  "lastModifiedDate": "2020-05-18T13:54:57.451Z",
-  "viewableDate": null,
-  "productSlug": "close-to-the-sun/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Close to the Sun",
   "id": "bfcf7ca20e57436d8cc33e6d20cbac76",
   "namespace": "silene",
+  "title": "Close to the Sun",
   "description": "Close to the Sun",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg"
-    }
-  ],
+  "productSlug": "close-to-the-sun/home",
+  "urlSlug": "close-to-the-sun-general-audience",
+  "creationDate": "2019-04-26T21:43:35.752Z",
+  "lastModifiedDate": "2020-05-18T13:54:57.451Z",
+  "effectiveDate": "2019-05-01T17:30:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r83qbqhwd8y5y5r6e9x62vtrsd9mqm",
     "name": "Wired Productions"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "f2db83aa24b24cb3b54b058d65ffa073",
-      "namespace": "silene",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "close-to-the-sun/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg",
+      "md5": "07c6e8dc28eb5cf08ef24df558a8b45c",
+      "size": 992045,
+      "uploadedDate": "2020-05-18T13:54:04.466Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg",
+      "md5": "07c6e8dc28eb5cf08ef24df558a8b45c",
+      "size": 992045,
+      "uploadedDate": "2020-05-18T13:54:13.253Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg",
+      "md5": "07c6e8dc28eb5cf08ef24df558a8b45c",
+      "size": 992045,
+      "uploadedDate": "2020-05-18T13:54:24.251Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S2-1200x1600-07c6e8dc28eb5cf08ef24df558a8b45c.jpg",
+      "md5": "07c6e8dc28eb5cf08ef24df558a8b45c",
+      "size": 992045,
+      "uploadedDate": "2020-05-18T13:54:32.136Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg",
+      "md5": "bf254968da752377bf2dd25f164de0ce",
+      "size": 919072,
+      "uploadedDate": "2020-05-18T13:54:40.404Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/silene/offer/EGS_ClosetotheSun_StorminaTeacup_S1-2560x1440-bf254968da752377bf2dd25f164de0ce.jpg",
+      "md5": "bf254968da752377bf2dd25f164de0ce",
+      "size": 919072,
+      "uploadedDate": "2020-05-18T13:54:49.530Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "f2db83aa24b24cb3b54b058d65ffa073"
+    }
+  ],
+  "catalogNs": null
 }

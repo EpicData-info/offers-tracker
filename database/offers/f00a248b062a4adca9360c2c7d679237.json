@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2016-08-31T11:38:00.000Z",
-  "creationDate": "2016-08-31T15:39:36.507Z",
-  "lastModifiedDate": "2020-04-29T00:38:42.255Z",
-  "viewableDate": null,
-  "productSlug": "vr-funhouse",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "VR Funhouse Editor",
   "id": "f00a248b062a4adca9360c2c7d679237",
   "namespace": "vrfunhouse",
+  "title": "VR Funhouse Editor",
   "description": "VR Funhouse Editor",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/vrfunhouse/offer/vrfunhouse_bg-430x250-430x250-57255897027311603ba44be29809e86b.jpg"
-    }
-  ],
+  "productSlug": "vr-funhouse",
+  "urlSlug": "vr-funhouse-editor-01",
+  "creationDate": "2016-08-31T15:39:36.507Z",
+  "lastModifiedDate": "2020-04-29T00:38:42.255Z",
+  "effectiveDate": "2016-08-31T11:38:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "3be791725c2f4716bcaecb0197549993",
-      "namespace": "vrfunhouse",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "vr-funhouse"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "engines"
@@ -53,6 +34,50 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "vr-funhouse"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/VRFun_White_updated-1524x806-c84231b103834f4fffba22943d1bd92c.png",
+      "md5": "c84231b103834f4fffba22943d1bd92c",
+      "size": 152029,
+      "uploadedDate": "2018-11-16T00:53:17.851Z",
+      "width": 1524,
+      "height": 806
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/vrfunhouse/offer/vrfunhouse_bg-430x250-430x250-57255897027311603ba44be29809e86b.jpg",
+      "md5": "57255897027311603ba44be29809e86b",
+      "size": 113047,
+      "uploadedDate": "2020-03-28T16:53:30.977Z",
+      "width": 430,
+      "height": 250
+    }
+  ],
+  "items": [
+    {
+      "id": "3be791725c2f4716bcaecb0197549993"
+    }
+  ],
+  "catalogNs": null
 }

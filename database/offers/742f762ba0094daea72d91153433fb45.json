@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-05T15:00:00.000Z",
-  "creationDate": "2020-04-09T19:27:45.923Z",
-  "lastModifiedDate": "2020-05-05T15:35:06.878Z",
-  "viewableDate": "2020-05-05T15:00:00.000Z",
-  "productSlug": "might-and-magic-chess-royale",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Might & Magic: Chess Royale",
   "id": "742f762ba0094daea72d91153433fb45",
   "namespace": "82225e5cb4714006b335a50d840208c6",
+  "title": "Might & Magic: Chess Royale",
   "description": "Might & Magic: Chess Royale",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png"
-    }
-  ],
+  "productSlug": "might-and-magic-chess-royale",
+  "urlSlug": "tonkinesegeneralaudience",
+  "creationDate": "2020-04-09T19:27:45.923Z",
+  "lastModifiedDate": "2020-05-05T15:35:06.878Z",
+  "effectiveDate": "2020-05-05T15:00:00.000Z",
+  "viewableDate": "2020-05-05T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0ea006e829cd446281df50f4c99747fc",
-      "namespace": "82225e5cb4714006b335a50d840208c6",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-06-17T07:17:15.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-07-08T12:45:03.367Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +101,66 @@
       "value": "might-and-magic-chess-royale"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png",
+      "md5": "9f436daddcd292d17ec8765b961fcc85",
+      "size": 488514,
+      "uploadedDate": "2020-05-04T16:12:34.702Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:12:44.994Z",
+      "width": 640,
+      "height": 854
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Landscape-MNMCR-3840x2160-9f436daddcd292d17ec8765b961fcc85.png",
+      "md5": "9f436daddcd292d17ec8765b961fcc85",
+      "size": 488514,
+      "uploadedDate": "2020-05-04T16:12:58.808Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:13:10.622Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:13:21.836Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/82225e5cb4714006b335a50d840208c6/offer/EPIC_Key_Art_Portrait_640x854-MNMCR-640x854-faddeaba1e194bf29c224ab81cd8450b.png",
+      "md5": "faddeaba1e194bf29c224ab81cd8450b",
+      "size": 238117,
+      "uploadedDate": "2020-05-04T16:13:49.606Z",
+      "width": 640,
+      "height": 854
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0ea006e829cd446281df50f4c99747fc"
+    }
+  ],
+  "catalogNs": null
 }

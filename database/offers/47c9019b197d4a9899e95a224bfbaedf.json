@@ -1,43 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-26T20:12:00.000Z",
-  "creationDate": "2018-11-27T01:16:37.857Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2018-11-26T20:12:00.000Z",
-  "productSlug": "maneater",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Maneater",
   "id": "47c9019b197d4a9899e95a224bfbaedf",
   "namespace": "epic",
+  "title": "Maneater",
   "description": "Maneater",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Maneater_Logo-1200x661-09de7acd5f074c912994a55fd878893b.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PrimaryPromo2580x1456-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo1288x1450 (1)-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg"
-    }
-  ],
+  "productSlug": "maneater",
+  "urlSlug": "maneater",
+  "creationDate": "2018-11-27T01:16:37.857Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-11-26T20:12:00.000Z",
+  "viewableDate": "2018-11-26T20:12:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
+  "linkedOfferId": "5d6c498807bd4a38a17ed9e51e18116b",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +96,39 @@
       "value": "5d6c498807bd4a38a17ed9e51e18116b"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Maneater_Logo-1200x661-09de7acd5f074c912994a55fd878893b.png",
+      "md5": "09de7acd5f074c912994a55fd878893b",
+      "size": 43561,
+      "uploadedDate": "2019-07-29T23:35:14.335Z",
+      "width": 1200,
+      "height": 661
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PrimaryPromo2580x1456-2580x1456-a66dd2422bbbb9feef9304933254bb78.jpg",
+      "md5": "a66dd2422bbbb9feef9304933254bb78",
+      "size": 414334,
+      "uploadedDate": "2019-07-29T23:35:59.684Z",
+      "width": 2580,
+      "height": 1456
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Manater_Epic_PortraitPromo1288x1450 (1)-1288x1450-3f3224ed80617513f63a140ee53a4aff.jpg",
+      "md5": "3f3224ed80617513f63a140ee53a4aff",
+      "size": 233776,
+      "uploadedDate": "2019-07-30T13:40:31.137Z",
+      "width": 1288,
+      "height": 1450
     }
   ],
-  "linkedOfferId": "5d6c498807bd4a38a17ed9e51e18116b",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "isPrepurchase",
-        "value": "true"
-      },
-      {
-        "key": "availableDate",
-        "value": "1590148800"
-      },
-      {
-        "key": "developerName",
-        "value": "Tripwire"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "maneater"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

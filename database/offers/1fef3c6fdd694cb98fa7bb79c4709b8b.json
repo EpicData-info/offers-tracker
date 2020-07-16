@@ -1,39 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-16T17:00:00.000Z",
-  "creationDate": "2020-01-14T21:50:02.369Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "overpass/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overpass",
   "id": "1fef3c6fdd694cb98fa7bb79c4709b8b",
   "namespace": "epic",
+  "title": "Overpass",
   "description": "Overpass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg"
-    }
-  ],
+  "productSlug": "overpass/home",
+  "urlSlug": "overpass",
+  "creationDate": "2020-01-14T21:50:02.369Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2020-01-16T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": "e3446d29202c46cdb827d35dc1fae75f",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-07-07T17:11:04.090Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +112,30 @@
       "value": "e3446d29202c46cdb827d35dc1fae75f"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S1-2560x1440-ab3cac65a84bb4090d7ada687c2d2465.jpg",
+      "md5": "ab3cac65a84bb4090d7ada687c2d2465",
+      "size": 385614,
+      "uploadedDate": "2020-01-14T21:47:37.228Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZordixRacing_OVERPASS_S2-860x1148-3295107fd8e79a29354a174113ea787f.jpg",
+      "md5": "3295107fd8e79a29354a174113ea787f",
+      "size": 171839,
+      "uploadedDate": "2020-01-14T21:47:48.398Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "e3446d29202c46cdb827d35dc1fae75f",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Bigben Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Zordix Racing"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "overpass/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

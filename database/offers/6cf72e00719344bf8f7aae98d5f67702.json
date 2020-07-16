@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2015-02-27T00:00:00.000Z",
-  "creationDate": "2015-02-27T17:49:53.238Z",
-  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
-  "viewableDate": "2015-02-27T00:00:00.000Z",
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Custom Characters",
   "id": "6cf72e00719344bf8f7aae98d5f67702",
   "namespace": "ut",
+  "title": "Custom Characters",
   "description": "Coming Soon",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "custom-characters",
+  "creationDate": "2015-02-27T17:49:53.238Z",
+  "lastModifiedDate": "2020-04-25T00:43:40.561Z",
+  "effectiveDate": "2015-02-27T00:00:00.000Z",
+  "viewableDate": "2015-02-27T00:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "08bfc4b788bb4f31bc84aa4b1f6e769f",
-      "namespace": "ut",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "assets"
@@ -36,6 +31,13 @@
       "path": "assets/characters"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "08bfc4b788bb4f31bc84aa4b1f6e769f"
+    }
+  ],
+  "catalogNs": null
 }

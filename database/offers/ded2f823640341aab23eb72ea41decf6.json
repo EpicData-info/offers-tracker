@@ -1,51 +1,120 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-07T15:42:09.511Z",
-  "lastModifiedDate": "2020-06-13T19:33:59.131Z",
-  "viewableDate": null,
-  "productSlug": "surgeon-simulator-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Surgeon Simulator 2 - Bossa Levels Testing",
   "id": "ded2f823640341aab23eb72ea41decf6",
   "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
+  "title": "Surgeon Simulator 2 - Bossa Levels Testing",
   "description": "Surgeon Simulator 2 - Bossa Levels Testing",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/offer/epic_art 2560x1440-2560x1440-35fbcf2a0655178c40ec17b8de030565.jpg"
-    }
-  ],
+  "productSlug": "surgeon-simulator-2/home",
+  "urlSlug": "tanagergeneralaudience-02",
+  "creationDate": "2020-05-07T15:42:09.511Z",
+  "lastModifiedDate": "2020-06-13T19:33:59.131Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1d03d4715d094ad9a2d900b7d739ec11",
-      "namespace": "7f1fa336313d48eca0a802170aa8dd8a",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-06-19T16:58:59.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,14 +131,57 @@
       "value": "surgeon-simulator-2/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914.png",
+      "md5": "5cebdb85bb4fa8490b8197408cb38914",
+      "size": 473730,
+      "uploadedDate": "2019-12-09T19:34:01.743Z",
+      "width": 1280,
+      "height": 956
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg",
+      "md5": "3df245d076432c9d3070798ce82bf102",
+      "size": 189156,
+      "uploadedDate": "2019-12-09T19:34:33.401Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S4-510x680-3df245d076432c9d3070798ce82bf102.jpg",
+      "md5": "3df245d076432c9d3070798ce82bf102",
+      "size": 189156,
+      "uploadedDate": "2019-12-09T19:34:33.401Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Bossa_SurgeonSimulator2_S5-1280x956-5cebdb85bb4fa8490b8197408cb38914.png",
+      "md5": "5cebdb85bb4fa8490b8197408cb38914",
+      "size": 473730,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1280,
+      "height": 956
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7f1fa336313d48eca0a802170aa8dd8a/offer/epic_art 2560x1440-2560x1440-35fbcf2a0655178c40ec17b8de030565.jpg",
+      "md5": "35fbcf2a0655178c40ec17b8de030565",
+      "size": 942139,
+      "uploadedDate": "2020-03-03T23:11:23.278Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1d03d4715d094ad9a2d900b7d739ec11"
+    }
+  ],
+  "catalogNs": null
 }

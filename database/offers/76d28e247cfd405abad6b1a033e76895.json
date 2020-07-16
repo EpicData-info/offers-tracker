@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-11-21T22:58:40.263Z",
-  "lastModifiedDate": "2020-07-14T19:02:30.250Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "DLC 7",
   "id": "76d28e247cfd405abad6b1a033e76895",
   "namespace": "3542a1df211e492bb2abecb7c734f7f9",
+  "title": "DLC 7",
   "description": "Man Down Under Cosmetic DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dlc-06",
+  "creationDate": "2019-11-21T22:58:40.263Z",
+  "lastModifiedDate": "2020-07-14T19:02:30.250Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "d63ff34a1b6044fea783b06c621da1be",
-      "namespace": "3542a1df211e492bb2abecb7c734f7f9",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "d63ff34a1b6044fea783b06c621da1be"
+    }
+  ],
+  "catalogNs": null
 }

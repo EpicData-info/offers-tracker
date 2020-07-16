@@ -1,63 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-13T08:00:00.000Z",
-  "creationDate": "2019-02-14T22:26:04.071Z",
-  "lastModifiedDate": "2020-04-16T15:00:00.491Z",
-  "viewableDate": null,
-  "productSlug": "little-inferno/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Little Inferno",
   "id": "9ccfdd9d080949f99d4d2b0aa321b165",
   "namespace": "clover",
+  "title": "Little Inferno",
   "description": "Little Inferno",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Logo-1400x802-e9c146217acdc3bbd05da2d8497233ab.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/clover/offer/LI_promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clover/offer/icon_LI-400x400-6e0f53fd7f4850f9f6467eb24b24c126.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/clover/offer/CodeRedemption_LittleInferno-330x440-52bded7c3f188aec2e1035f021f02b76.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg"
-    }
-  ],
+  "productSlug": "little-inferno/home",
+  "urlSlug": "clovergeneralaudience",
+  "creationDate": "2019-02-14T22:26:04.071Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.491Z",
+  "effectiveDate": "2019-05-13T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-46fvj3lpt7r9n79axbrl8tkgfbe2j8",
     "name": "Tomorrow Corporation"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "e0a252835b8241db9a1c1838d534dcea",
-      "namespace": "clover",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +128,84 @@
       "value": "little-inferno/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg",
+      "md5": "09bacf52096c1dded7726dfb9fe6feb8",
+      "size": 197308,
+      "uploadedDate": "2019-04-15T15:41:56.587Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg",
+      "md5": "0dc830ccd38d3c225c68b25828dd74a8",
+      "size": 116155,
+      "uploadedDate": "2019-04-15T15:42:07.190Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Little-Inferno-Logo-1400x802-e9c146217acdc3bbd05da2d8497233ab.png",
+      "md5": "e9c146217acdc3bbd05da2d8497233ab",
+      "size": 391877,
+      "uploadedDate": "2019-08-02T18:54:10.264Z",
+      "width": 1400,
+      "height": 802
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Portrait-Promo-1280x1420-0dc830ccd38d3c225c68b25828dd74a8.jpg",
+      "md5": "0dc830ccd38d3c225c68b25828dd74a8",
+      "size": 116155,
+      "uploadedDate": "2019-04-15T15:42:07.190Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/clover/offer/LI_promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg",
+      "md5": "09bacf52096c1dded7726dfb9fe6feb8",
+      "size": 197308,
+      "uploadedDate": "2019-05-13T17:09:17.891Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clover/offer/icon_LI-400x400-6e0f53fd7f4850f9f6467eb24b24c126.png",
+      "md5": "6e0f53fd7f4850f9f6467eb24b24c126",
+      "size": 75447,
+      "uploadedDate": "2019-05-13T17:09:35.838Z",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clover/offer/CodeRedemption_LittleInferno-330x440-52bded7c3f188aec2e1035f021f02b76.jpg",
+      "md5": "52bded7c3f188aec2e1035f021f02b76",
+      "size": 11504,
+      "uploadedDate": "2019-05-13T17:09:51.378Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Little-Inferno-Primary-Secondary-Gameplay-Promo-2580x1450-09bacf52096c1dded7726dfb9fe6feb8.jpg",
+      "md5": "09bacf52096c1dded7726dfb9fe6feb8",
+      "size": 197308,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "e0a252835b8241db9a1c1838d534dcea"
+    }
+  ],
+  "catalogNs": null
 }

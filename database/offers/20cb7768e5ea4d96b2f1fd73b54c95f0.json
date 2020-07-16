@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-05T15:00:00.000Z",
-  "creationDate": "2020-03-27T18:22:56.075Z",
-  "lastModifiedDate": "2020-03-27T18:22:56.075Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Complete Early Access",
   "id": "20cb7768e5ea4d96b2f1fd73b54c95f0",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "title": "Complete Early Access",
   "description": "Complete Early Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "kakopo-reloaded-02",
+  "creationDate": "2020-03-27T18:22:56.075Z",
+  "lastModifiedDate": "2020-03-27T18:22:56.075Z",
+  "effectiveDate": "2050-08-05T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
-    {
-      "id": "066afa07237b44c980257156304caa89",
-      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "066afa07237b44c980257156304caa89"
+    }
+  ],
+  "catalogNs": null
 }

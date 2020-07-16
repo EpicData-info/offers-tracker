@@ -1,59 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-13T15:00:00.000Z",
-  "creationDate": "2019-05-30T21:56:59.468Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "enter-the-gungeon/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Enter The Gungeon",
   "id": "e820a1ab24ca4bd2b725ba33194489d4",
   "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
+  "title": "Enter The Gungeon",
   "description": "Enter the Gungeon",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EnterTheGungeon_Logo-1031x353-0ed1eeeb17a943c1706d947b1f2864c6.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Gungeon_StorePromo-1440x811-fcf77719c27a5d7ace555e868ea35456.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/offer/Gungeon_PrimaryPromo-2560x1440-43a18113dea5599ffc9527ce754bf4a6.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/offer/EnterTheGungeon_CodeRedemption-330x440-84ea1a2d8e8af2e9f416ed1131fa6dff.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Gungeon_StorePromo-1440x811-fcf77719c27a5d7ace555e868ea35456.jpg"
-    }
-  ],
+  "productSlug": "enter-the-gungeon/home",
+  "urlSlug": "garlicgeneralaudience-01",
+  "creationDate": "2019-05-30T21:56:59.468Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-06-13T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b1789c25ab964cad8155e41e74e8b3b7",
-      "namespace": "be13f6c4fb11427fbf3313ce93b97cc0",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +144,75 @@
       "value": "enter-the-gungeon/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+      "md5": "16a72d4e2592d6a8eb57fbc059d7a4d2",
+      "size": 335344,
+      "uploadedDate": "2019-06-04T21:49:25.319Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EnterTheGungeon_Logo-1031x353-0ed1eeeb17a943c1706d947b1f2864c6.png",
+      "md5": "0ed1eeeb17a943c1706d947b1f2864c6",
+      "size": 227614,
+      "uploadedDate": "2019-06-04T21:50:00.100Z",
+      "width": 1031,
+      "height": 353
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Gungeon_StorePromo-1440x811-fcf77719c27a5d7ace555e868ea35456.jpg",
+      "md5": "fcf77719c27a5d7ace555e868ea35456",
+      "size": 371008,
+      "uploadedDate": "2019-06-05T11:14:23.819Z",
+      "width": 1440,
+      "height": 811
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Gungeon_PortraitPromo-1280x1440-16a72d4e2592d6a8eb57fbc059d7a4d2.jpg",
+      "md5": "16a72d4e2592d6a8eb57fbc059d7a4d2",
+      "size": 335344,
+      "uploadedDate": "2019-06-04T21:49:25.319Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/offer/Gungeon_PrimaryPromo-2560x1440-43a18113dea5599ffc9527ce754bf4a6.jpg",
+      "md5": "43a18113dea5599ffc9527ce754bf4a6",
+      "size": 338853,
+      "uploadedDate": "2019-06-04T22:01:27.540Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/be13f6c4fb11427fbf3313ce93b97cc0/offer/EnterTheGungeon_CodeRedemption-330x440-84ea1a2d8e8af2e9f416ed1131fa6dff.jpg",
+      "md5": "84ea1a2d8e8af2e9f416ed1131fa6dff",
+      "size": 14576332,
+      "uploadedDate": "2019-06-05T12:30:27.271Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Gungeon_StorePromo-1440x811-fcf77719c27a5d7ace555e868ea35456.jpg",
+      "md5": "fcf77719c27a5d7ace555e868ea35456",
+      "size": 371008,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1440,
+      "height": 811
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b1789c25ab964cad8155e41e74e8b3b7"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,46 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-09T17:00:00.000Z",
-  "creationDate": "2020-03-07T03:53:04.949Z",
-  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
-  "viewableDate": null,
-  "productSlug": "anno-1800/season-pass-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Anno 1800 Season Pass 2",
   "id": "b584b590101e46d390ee42108164c80f",
   "namespace": "oregano",
+  "title": "Anno 1800 Season Pass 2",
   "description": "Anno 1800 Season Pass 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg"
-    }
-  ],
+  "productSlug": "anno-1800/season-pass-2",
+  "urlSlug": "anno-season-pass-01",
+  "creationDate": "2020-03-07T03:53:04.949Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "effectiveDate": "2020-03-09T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ecbe7967343941b0801f9283760ded3c",
-      "namespace": "oregano",
-      "developer": null
+      "path": "bundles"
     },
     {
-      "id": "101d4bb9fdb74832bde71427ded1ec36",
-      "namespace": "oregano",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,20 +56,33 @@
       "value": "anno-1800/season-pass-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg",
+      "md5": "c01314045d2c9caf7f9856af4e2e3321",
+      "size": 483395,
+      "uploadedDate": "2020-03-09T03:35:33.351Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg",
+      "md5": "c01314045d2c9caf7f9856af4e2e3321",
+      "size": 483395,
+      "uploadedDate": "2020-03-09T03:35:42.869Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ecbe7967343941b0801f9283760ded3c"
+    },
+    {
+      "id": "101d4bb9fdb74832bde71427ded1ec36"
+    }
+  ],
+  "catalogNs": null
 }

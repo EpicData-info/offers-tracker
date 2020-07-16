@@ -1,47 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-23T20:00:00.000Z",
-  "creationDate": "2019-10-19T01:46:18.340Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "q-u-b-e-2/puzzle-pack-1",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Q.U.B.E. 2 - Puzzle Pack 1",
   "id": "90317ff5b5904fc9b3c4a857451c123b",
   "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
+  "title": "Q.U.B.E. 2 - Puzzle Pack 1",
   "description": "Q.U.B.E. 2 - Puzzle Pack 1",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_PP1-1920x1080-60a4fcb41cc08ba40d7339d85e082a4901957e61.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack1_Portrait-860x1148-02b0bb631c2f39e199860af887f0fe90.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack1_Portrait-860x1148-02b0bb631c2f39e199860af887f0fe90.jpg"
-    }
-  ],
+  "productSlug": "q-u-b-e-2/puzzle-pack-1",
+  "urlSlug": "puzzle-pack",
+  "creationDate": "2019-10-19T01:46:18.340Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-10-23T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
     "name": "Ten Hut Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6c3e27bcf99e477ca74c0bd8c84a1dd1",
-      "namespace": "4b5f1eb366dc45f0920d397c01b291ba",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +89,48 @@
       "value": "q-u-b-e-2/puzzle-pack-1"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/CodeRedemption_QUBE2-340x440-f1d1382e13c4016059e0b41baa6f38ce.jpg",
+      "md5": "f1d1382e13c4016059e0b41baa6f38ce",
+      "size": 73393,
+      "uploadedDate": "2019-10-19T01:47:50.405Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_PP1-1920x1080-60a4fcb41cc08ba40d7339d85e082a4901957e61.jpg",
+      "md5": "57555386d171708c258ee916358f2dcc",
+      "size": 202746,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack1_Portrait-860x1148-02b0bb631c2f39e199860af887f0fe90.jpg",
+      "md5": "02b0bb631c2f39e199860af887f0fe90",
+      "size": 672521,
+      "uploadedDate": "2020-04-10T15:00:44.351Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b5f1eb366dc45f0920d397c01b291ba/offer/QUBE2_Puzzlepack1_Portrait-860x1148-02b0bb631c2f39e199860af887f0fe90.jpg",
+      "md5": "02b0bb631c2f39e199860af887f0fe90",
+      "size": 672521,
+      "uploadedDate": "2020-04-10T15:00:53.823Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6c3e27bcf99e477ca74c0bd8c84a1dd1"
+    }
+  ],
+  "catalogNs": null
 }

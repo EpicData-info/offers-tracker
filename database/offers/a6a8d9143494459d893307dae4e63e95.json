@@ -1,47 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2019-11-08T20:34:50.746Z",
-  "lastModifiedDate": "2020-05-11T17:11:59.704Z",
-  "viewableDate": null,
-  "productSlug": "carcassonne/the-princess-and-the-dragon",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Carcassonne - The Princess & the Dragon",
   "id": "a6a8d9143494459d893307dae4e63e95",
   "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
+  "title": "Carcassonne - The Princess & the Dragon",
   "description": "Carcassonne - The Princess & the Dragon",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Desktop-horizontal-1360x766-min-1-1360x766-184521f60318c70ff84810162fee8b57d242c41b.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9-510x680-d011e2f37eca948504394859700d57b9.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9-510x680-d011e2f37eca948504394859700d57b9.jpg"
-    }
-  ],
+  "productSlug": "carcassonne/the-princess-and-the-dragon",
+  "urlSlug": "thrushpadgeneralaudience",
+  "creationDate": "2019-11-08T20:34:50.746Z",
+  "lastModifiedDate": "2020-05-11T17:11:59.704Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d8f1212a279e41c79e1a31eada351062",
-      "namespace": "0aaf0617ee0d47df87c0dc93509159dd",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-01T19:34:24.162Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +101,48 @@
       "value": "carcassonne/the-princess-and-the-dragon"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9.jpg",
+      "md5": "d011e2f37eca948504394859700d57b9",
+      "size": 46107,
+      "uploadedDate": "2020-02-05T19:14:17.303Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Desktop-horizontal-1360x766-min-1-1360x766-184521f60318c70ff84810162fee8b57d242c41b.jpg",
+      "md5": "197d3db052b17c33d0aa41e64983329e",
+      "size": 132555,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9-510x680-d011e2f37eca948504394859700d57b9.jpg",
+      "md5": "d011e2f37eca948504394859700d57b9",
+      "size": 46107,
+      "uploadedDate": "2020-04-21T18:56:53.423Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0aaf0617ee0d47df87c0dc93509159dd/offer/Mobile-Vertical-510x680-min-1-510x680-d011e2f37eca948504394859700d57b9-510x680-d011e2f37eca948504394859700d57b9.jpg",
+      "md5": "d011e2f37eca948504394859700d57b9",
+      "size": 46107,
+      "uploadedDate": "2020-04-21T18:57:14.621Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d8f1212a279e41c79e1a31eada351062"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,39 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-25T16:00:00.000Z",
-  "creationDate": "2019-12-17T19:04:01.482Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2019-12-24T15:50:00.000Z",
-  "productSlug": "totally-accurate-battle-simulator/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Totally Accurate Battle Simulator",
   "id": "19c0e2ad1b0b45819bf20819aeb6d669",
   "namespace": "epic",
+  "title": "Totally Accurate Battle Simulator",
   "description": "Totally Accurate Battle Simulator",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg"
-    }
-  ],
+  "productSlug": "totally-accurate-battle-simulator/home",
+  "urlSlug": "totally-accurate-battle-simulator",
+  "creationDate": "2019-12-17T19:04:01.482Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-12-25T16:00:00.000Z",
+  "viewableDate": "2019-12-24T15:50:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-davtxzvpdnjmd82c247y6zdxg7wabq",
     "name": "Landfall Games"
   },
-  "items": [
+  "linkedOfferId": "6a612192c0ed499f8c7db747b3049107",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +127,30 @@
       "value": "6a612192c0ed499f8c7db747b3049107"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S3-1000x563-f8cd7abd6c7aebcd572e8111ab167005.jpg",
+      "md5": "f8cd7abd6c7aebcd572e8111ab167005",
+      "size": 405455,
+      "uploadedDate": "2019-12-17T19:03:49.313Z",
+      "width": 1000,
+      "height": 563
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_LandfallGames_TotallyAccurateBattleSimulator_S4-510x680-bd48acab6fcbddd7cee9dfbed578af20.jpg",
+      "md5": "bd48acab6fcbddd7cee9dfbed578af20",
+      "size": 245564,
+      "uploadedDate": "2019-12-17T19:03:56.601Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": "6a612192c0ed499f8c7db747b3049107",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Landfall games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "totally-accurate-battle-simulator/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

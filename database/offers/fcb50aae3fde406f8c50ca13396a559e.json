@@ -1,39 +1,45 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-10-31T19:47:00.000Z",
-  "creationDate": "2018-10-31T23:47:34.964Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-10-31T19:47:00.000Z",
-  "productSlug": "mars-2030",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mars 2030 Editor",
   "id": "fcb50aae3fde406f8c50ca13396a559e",
   "namespace": "epic",
+  "title": "Mars 2030 Editor",
   "description": "Mars 2030 Editor",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_bg-430x250-261a916534206de2029fc4577384447a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Mars_White-783x105-e7c151a7b1e06d0181a2c18f78965ed5.png"
-    }
-  ],
+  "productSlug": "mars-2030",
+  "urlSlug": "mars-2030-editor",
+  "creationDate": "2018-10-31T23:47:34.964Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-10-31T19:47:00.000Z",
+  "viewableDate": "2018-10-31T19:47:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-v8ctg8jgjafjpj27mwqxqzcmgmkzrf",
     "name": "Fusion Media Group"
   },
-  "items": [
+  "linkedOfferId": "fd7b726f8d81401ba83fda5226407a17",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "engines"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9559",
+      "name": "EDITORS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-07-09T18:01:07.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,22 +60,30 @@
       "value": "fd7b726f8d81401ba83fda5226407a17"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "engines"
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/mars2030/item/mars2030_bg-430x250-261a916534206de2029fc4577384447a.jpg",
+      "md5": "261a916534206de2029fc4577384447a",
+      "size": 117425,
+      "uploadedDate": "2018-09-17T20:37:18.852Z",
+      "width": 430,
+      "height": 250
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Mars_White-783x105-e7c151a7b1e06d0181a2c18f78965ed5.png",
+      "md5": "e7c151a7b1e06d0181a2c18f78965ed5",
+      "size": 11955,
+      "uploadedDate": "2018-11-14T00:49:46.110Z",
+      "width": 783,
+      "height": 105
     }
   ],
-  "linkedOfferId": "fd7b726f8d81401ba83fda5226407a17",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "CN"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mars-2030"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-09-05T16:48:31.334Z",
-  "lastModifiedDate": "2019-10-10T12:59:55.279Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CockatooDevAudience",
   "id": "a2f1f0b440984cacb5b98b9e4e55ff9f",
   "namespace": "c77e320376c14aa68121bffb108721c7",
+  "title": "CockatooDevAudience",
   "description": "CockatooDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "cockatoodevaudience",
+  "creationDate": "2019-09-05T16:48:31.334Z",
+  "lastModifiedDate": "2019-10-10T12:59:55.279Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ws89bsbfb8trgdl3zmerugg4rsuvvt",
     "name": "Curve Digital"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "157c66b9ce374bc898ffa6749bb5122d",
-      "namespace": "c77e320376c14aa68121bffb108721c7",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Curve Digital"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "157c66b9ce374bc898ffa6749bb5122d"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

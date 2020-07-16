@@ -1,55 +1,104 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-24T15:00:00.000Z",
-  "creationDate": "2020-05-27T01:05:42.914Z",
-  "lastModifiedDate": "2020-06-25T15:37:12.551Z",
-  "viewableDate": null,
-  "productSlug": "missile-command-recharged",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Missile Command: Recharged",
   "id": "890c5a23bc654a1f94993c7976b3baa2",
   "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
+  "title": "Missile Command: Recharged",
   "description": "Missile Command: Recharged",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg"
-    }
-  ],
+  "productSlug": "missile-command-recharged",
+  "urlSlug": "missile-command-recharged",
+  "creationDate": "2020-05-27T01:05:42.914Z",
+  "lastModifiedDate": "2020-06-25T15:37:12.551Z",
+  "effectiveDate": "2020-06-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bhpk86rgthezed539g3hb5avacecqt",
     "name": "Atari"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4c071f50a28b41e694172bdf04dcf804",
-      "namespace": "1e58a1653e6846d3a05cccb2ae5b7385",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "ARCADE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2020-07-01T22:04:10.439Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +119,66 @@
       "value": "missile-command-recharged"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg",
+      "md5": "330fe63b5bf777f36860f6fd03b2a62c",
+      "size": 704545,
+      "uploadedDate": "2020-05-27T13:45:04.938Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:45:13.262Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:45:26.074Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:45:35.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S5-1920x1080-330fe63b5bf777f36860f6fd03b2a62c.jpg",
+      "md5": "330fe63b5bf777f36860f6fd03b2a62c",
+      "size": 704545,
+      "uploadedDate": "2020-05-27T13:45:44.869Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1e58a1653e6846d3a05cccb2ae5b7385/offer/EGS_MissileCommandRecharged_NickervisionStudios_S6-1200x1600-13dce142b015db18d28b54c6d1515f6c.jpg",
+      "md5": "13dce142b015db18d28b54c6d1515f6c",
+      "size": 1000056,
+      "uploadedDate": "2020-05-27T13:45:56.538Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4c071f50a28b41e694172bdf04dcf804"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-09-23T13:00:00.000Z",
-  "creationDate": "2019-09-25T17:12:54.372Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.476Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Cycle Con Skin",
   "id": "22399608fae34107912286eeb8c29030",
   "namespace": "azalea",
+  "title": "The Cycle Con Skin",
   "description": "The Cycle Con Skin",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "the-cycle-con-skin",
+  "creationDate": "2019-09-25T17:12:54.372Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.476Z",
+  "effectiveDate": "2050-09-23T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8ccc9c63a3af425fbc7e5876de38534d",
-      "namespace": "azalea",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "YAGER"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2019-09-25T17:12:32.006Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2019-09-25T17:12:47.100Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "8ccc9c63a3af425fbc7e5876de38534d"
+    }
+  ],
+  "catalogNs": null
 }

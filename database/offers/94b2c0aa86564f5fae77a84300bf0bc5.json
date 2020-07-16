@@ -1,61 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-04T00:00:00.000Z",
-  "creationDate": "2019-09-04T01:09:03.141Z",
-  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
-  "viewableDate": null,
-  "productSlug": "anno-1800/botanica",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Botanica - DLC",
   "id": "94b2c0aa86564f5fae77a84300bf0bc5",
   "namespace": "oregano",
+  "title": "Botanica - DLC",
   "description": "Botanica - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS14167_EGST_Edition_Capsule_355x150-355x150-838e9dafa55d72783d4cb4656ec9df8e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemption_Botanica-340x440-14d5a9fd73a633c501f152ae1c2e5b3e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_Botanica_Wide-355x150-24752bb81d68eca874f94b4836e01058.jpg"
-    }
-  ],
+  "productSlug": "anno-1800/botanica",
+  "urlSlug": "bo-dlc",
+  "creationDate": "2019-09-04T01:09:03.141Z",
+  "lastModifiedDate": "2020-05-27T21:47:44.191Z",
+  "effectiveDate": "2019-09-04T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "3a9071eaf3c743e495c94379e04ae522",
-      "namespace": "oregano",
-      "developer": null
-    },
-    {
-      "id": "1dd4924625c64d6cbd123a37ba1f7fe9",
-      "namespace": "oregano",
-      "developer": null
-    },
-    {
-      "id": "bd6cb25eac3143c7bc80fc854b560144",
-      "namespace": "oregano",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "anno-1800/botanica"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -70,6 +37,52 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/botanica"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS14167_EGST_Edition_Capsule_355x150-355x150-838e9dafa55d72783d4cb4656ec9df8e.jpg",
+      "md5": "838e9dafa55d72783d4cb4656ec9df8e",
+      "size": 52353,
+      "uploadedDate": "2019-09-10T00:04:39.471Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemption_Botanica-340x440-14d5a9fd73a633c501f152ae1c2e5b3e.jpg",
+      "md5": "14d5a9fd73a633c501f152ae1c2e5b3e",
+      "size": 210958,
+      "uploadedDate": "2019-09-10T00:08:48.284Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_Botanica_Wide-355x150-24752bb81d68eca874f94b4836e01058.jpg",
+      "md5": "24752bb81d68eca874f94b4836e01058",
+      "size": 38249,
+      "uploadedDate": "2020-03-06T17:18:06.672Z",
+      "width": 355,
+      "height": 150
+    }
+  ],
+  "items": [
+    {
+      "id": "3a9071eaf3c743e495c94379e04ae522"
+    },
+    {
+      "id": "1dd4924625c64d6cbd123a37ba1f7fe9"
+    },
+    {
+      "id": "bd6cb25eac3143c7bc80fc854b560144"
+    }
+  ],
+  "catalogNs": null
 }

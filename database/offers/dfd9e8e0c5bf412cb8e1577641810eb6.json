@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-13T18:37:00.000Z",
-  "creationDate": "2019-03-13T22:38:47.583Z",
-  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Operencia - The Stolen Sun (Press)",
   "id": "dfd9e8e0c5bf412cb8e1577641810eb6",
   "namespace": "lily",
+  "title": "Operencia - The Stolen Sun (Press)",
   "description": "Operencia - The Stolen Sun (Press)",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "operencia-the-stolen-sun-press",
+  "creationDate": "2019-03-13T22:38:47.583Z",
+  "lastModifiedDate": "2019-08-05T08:36:44.071Z",
+  "effectiveDate": "2019-03-13T18:37:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "items": [
-    {
-      "id": "9f1eb7f6dd444d62870618f8ac0e5eb0",
-      "namespace": "lily",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "9f1eb7f6dd444d62870618f8ac0e5eb0"
+    }
+  ],
+  "catalogNs": null
 }

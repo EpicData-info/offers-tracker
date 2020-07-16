@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-07T17:43:00.000Z",
-  "creationDate": "2019-04-09T21:46:29.730Z",
-  "lastModifiedDate": "2019-08-05T08:36:10.165Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dangerous Driving - Car for Pre-Purchase - Humble",
   "id": "6e219feb717f427f8e1d8abe2484ffa6",
   "namespace": "pansy",
+  "title": "Dangerous Driving - Car for Pre-Purchase - Humble",
   "description": "Dangerous Driving - Car for Pre-Purchase - Humble",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "dangerous-driving-car-for-pre-purchase-humble",
+  "creationDate": "2019-04-09T21:46:29.730Z",
+  "lastModifiedDate": "2019-08-05T08:36:10.165Z",
+  "effectiveDate": "2019-04-07T17:43:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
     "name": "Three Fields Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ddfc8b08e00b4f4898dcb8a93677d06d",
-      "namespace": "pansy",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Three Fields Entertainment"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "ddfc8b08e00b4f4898dcb8a93677d06d"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

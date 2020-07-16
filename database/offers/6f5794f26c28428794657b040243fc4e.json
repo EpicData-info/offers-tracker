@@ -1,60 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-14T13:00:00.000Z",
-  "creationDate": "2019-11-06T17:18:24.509Z",
-  "lastModifiedDate": "2020-07-14T13:59:57.955Z",
-  "viewableDate": null,
-  "productSlug": "death-stranding/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Death Stranding",
   "id": "6f5794f26c28428794657b040243fc4e",
   "namespace": "f4a904fcef2447439c35c4e6457f3027",
+  "title": "Death Stranding",
   "description": "Death Stranding",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440-098f41b9ec3aa4489e085ed2110f3818.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg"
-    }
-  ],
+  "productSlug": "death-stranding/home",
+  "urlSlug": "death-stranding",
+  "creationDate": "2019-11-06T17:18:24.509Z",
+  "lastModifiedDate": "2020-07-14T13:59:57.955Z",
+  "effectiveDate": "2020-07-14T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "091fe2ceda2241a79da66a426458fd23",
-      "namespace": "f4a904fcef2447439c35c4e6457f3027",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "1fcb039f587d4bacbd31ebb6832e05df",
-      "namespace": "f4a904fcef2447439c35c4e6457f3027",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-16T14:24:42.107Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -71,20 +125,69 @@
       "value": "death-stranding/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S1-2560x1440-e56d3a322a94fd7dd18b9c93ee080d01.jpg",
+      "md5": "e56d3a322a94fd7dd18b9c93ee080d01",
+      "size": 495054,
+      "uploadedDate": "2019-11-06T19:12:25.415Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/EGS_KojimaProductions_DeathStranding_S2-1280x1440-098f41b9ec3aa4489e085ed2110f3818.jpg",
+      "md5": "098f41b9ec3aa4489e085ed2110f3818",
+      "size": 458808,
+      "uploadedDate": "2019-11-06T19:12:34.239Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg",
+      "md5": "c3d7bbf8ee36dd025610088381a5235a",
+      "size": 500325,
+      "uploadedDate": "2020-07-14T13:36:05.145Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+      "md5": "5a96ed93665756b28f6d70e65266e64c",
+      "size": 463126,
+      "uploadedDate": "2020-07-14T13:36:15.853Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_wide-2560x1440-c3d7bbf8ee36dd025610088381a5235a.jpg",
+      "md5": "c3d7bbf8ee36dd025610088381a5235a",
+      "size": 500325,
+      "uploadedDate": "2020-07-14T13:36:30.680Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f4a904fcef2447439c35c4e6457f3027/offer/DS_Tall-1280x1440-5a96ed93665756b28f6d70e65266e64c.jpg",
+      "md5": "5a96ed93665756b28f6d70e65266e64c",
+      "size": 463126,
+      "uploadedDate": "2020-07-14T13:36:42.575Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "091fe2ceda2241a79da66a426458fd23"
+    },
+    {
+      "id": "1fcb039f587d4bacbd31ebb6832e05df"
+    }
+  ],
+  "catalogNs": null
 }

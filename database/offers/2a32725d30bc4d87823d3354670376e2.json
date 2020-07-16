@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-04T01:00:00.000Z",
-  "creationDate": "2019-06-06T19:39:05.478Z",
-  "lastModifiedDate": "2020-05-28T11:50:10.802Z",
-  "viewableDate": null,
-  "productSlug": "atomicrops/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Atomicrops",
   "id": "2a32725d30bc4d87823d3354670376e2",
   "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
+  "title": "Atomicrops",
   "description": "Atomicrops",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png"
-    }
-  ],
+  "productSlug": "atomicrops/home",
+  "urlSlug": "swangeneralaudience",
+  "creationDate": "2019-06-06T19:39:05.478Z",
+  "lastModifiedDate": "2020-05-28T11:50:10.802Z",
+  "effectiveDate": "2019-09-04T01:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "95a9b50044414b17946f273848af608f",
-      "namespace": "ff1cd8b38bda4f6281879c9bdb228ff1",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +105,66 @@
       "value": "atomicrops/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg",
+      "md5": "a880d2046711d0f576cbb2f7e0356036",
+      "size": 3804848,
+      "uploadedDate": "2020-05-22T16:15:41.776Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
+      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
+      "size": 2377360,
+      "uploadedDate": "2020-05-22T16:15:51.846Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
+      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
+      "size": 2377360,
+      "uploadedDate": "2020-05-22T16:16:02.618Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image-1200x1600-24526c6bac492e1e0bb22be4e5d5dade.jpg",
+      "md5": "24526c6bac492e1e0bb22be4e5d5dade",
+      "size": 2377360,
+      "uploadedDate": "2020-05-22T16:16:19.950Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Product_Landscape_Image-2560x1440-a880d2046711d0f576cbb2f7e0356036.jpg",
+      "md5": "a880d2046711d0f576cbb2f7e0356036",
+      "size": 3804848,
+      "uploadedDate": "2020-05-22T16:16:33.573Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff1cd8b38bda4f6281879c9bdb228ff1/offer/Atomicrops_EpicGames_Offer_Portrait_Image_1OutNow-1200x1600-eb467da6bfe2f4921a829fb846dc1b4e.png",
+      "md5": "eb467da6bfe2f4921a829fb846dc1b4e",
+      "size": 3660253,
+      "uploadedDate": "2020-05-27T14:38:14.152Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "95a9b50044414b17946f273848af608f"
+    }
+  ],
+  "catalogNs": null
 }

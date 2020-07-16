@@ -1,61 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-11-20T20:45:39.078Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-fractured-but-whole/gold-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "South Park: The Fractured But Whole Gold Edition",
   "id": "aa0da56bf1244f4484f10689714e8523",
   "namespace": "764eb429792649e4a606413cd649de2c",
+  "title": "South Park: The Fractured But Whole Gold Edition",
   "description": "South Park: The Fractured But Whole Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12474_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-a75cad1e4ec82c16621a7a183d4ff879.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12474_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-69039a94482f48a353bb31a3c58b8923df17fd94.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-fractured-but-whole/gold-edition",
+  "urlSlug": "alewife-gold",
+  "creationDate": "2019-11-20T20:45:39.078Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "83190f6b26394bcb8b176212fa4b74c9",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    },
-    {
-      "id": "94f5fdd9b777402b9ce194bd03f674dd",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    },
-    {
-      "id": "55988df2b7934fa292fd6b6fe2495c0e",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN,KR"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "south-park-the-fractured-but-whole/gold-edition"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -67,6 +34,47 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-fractured-but-whole/gold-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12474_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-a75cad1e4ec82c16621a7a183d4ff879.jpg",
+      "md5": "a75cad1e4ec82c16621a7a183d4ff879",
+      "size": 472948,
+      "uploadedDate": "2019-12-16T19:00:54.044Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12474_EGST_BannerBundle_GE_US_Edition_Capsule_1920X1080-1920x1080-69039a94482f48a353bb31a3c58b8923df17fd94.jpg",
+      "md5": "6a1fabaab0c5fb1b2b49e8a7903b314a",
+      "size": 303756,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "83190f6b26394bcb8b176212fa4b74c9"
+    },
+    {
+      "id": "94f5fdd9b777402b9ce194bd03f674dd"
+    },
+    {
+      "id": "55988df2b7934fa292fd6b6fe2495c0e"
+    }
+  ],
+  "catalogNs": null
 }

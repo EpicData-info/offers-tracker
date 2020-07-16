@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-08T22:35:27.737Z",
-  "lastModifiedDate": "2020-05-08T22:35:27.737Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "PeweeNewDevAudience",
   "id": "92d8adbb721141959d765960d5ad03ba",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "PeweeNewDevAudience",
   "description": "PeweeNewDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "peweenewdevaudience",
+  "creationDate": "2020-05-08T22:35:27.737Z",
+  "lastModifiedDate": "2020-05-08T22:35:27.737Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7b2d0c2c6667456d89874f663be8da16",
-      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -46,14 +42,30 @@
       "value": "Hi-Rez Studios"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
+      "md5": "1556563c6bc7bb49090240e42b8ecc68",
+      "size": 174246,
+      "uploadedDate": "2019-09-04T18:29:39.033Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
+      "md5": "1556563c6bc7bb49090240e42b8ecc68",
+      "size": 174246,
+      "uploadedDate": "2019-09-04T18:29:46.403Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7b2d0c2c6667456d89874f663be8da16"
+    }
+  ],
+  "catalogNs": null
 }

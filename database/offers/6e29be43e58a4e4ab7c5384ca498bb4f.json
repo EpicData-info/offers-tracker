@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-12T15:00:00.000Z",
-  "creationDate": "2020-05-04T15:31:48.641Z",
-  "lastModifiedDate": "2020-05-04T15:31:48.641Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Alien Chitin Armor Set",
   "id": "6e29be43e58a4e4ab7c5384ca498bb4f",
   "namespace": "iris",
+  "title": "Alien Chitin Armor Set",
   "description": "Alien Chitin Armor Set",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "alien-chitin-armor-set",
+  "creationDate": "2020-05-04T15:31:48.641Z",
+  "lastModifiedDate": "2020-05-04T15:31:48.641Z",
+  "effectiveDate": "2020-05-12T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
     "name": "Snapshot Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "713cc4c1788d44498685d1498c18d8b5",
-      "namespace": "iris",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Snapshot Games"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "713cc4c1788d44498685d1498c18d8b5"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

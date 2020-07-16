@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-23T12:42:06.065Z",
-  "lastModifiedDate": "2020-07-15T16:19:30.448Z",
-  "viewableDate": null,
-  "productSlug": "rogue-legacy-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Rogue Legacy 2",
   "id": "e343cee48e8e4cca80b0ae3d228342aa",
   "namespace": "4966d5da285c4f2c876937844b0e23ee",
+  "title": "Rogue Legacy 2",
   "description": "Rogue Legacy 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S1-2560x1440-2c375dccd5b902fbbafacb8c302cda58.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S1-2560x1440-2c375dccd5b902fbbafacb8c302cda58.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg"
-    }
-  ],
+  "productSlug": "rogue-legacy-2",
+  "urlSlug": "biscuitgeneralaudience",
+  "creationDate": "2020-06-23T12:42:06.065Z",
+  "lastModifiedDate": "2020-07-15T16:19:30.448Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aajwdms75r9jlekaktgsnxe6zw2ldj",
     "name": "Cellar Door Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "dd717f51ff2f41bdb7b9404f442c6109",
-      "namespace": "4966d5da285c4f2c876937844b0e23ee",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-07-15T16:19:30.605Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "rogue-legacy-2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S1-2560x1440-2c375dccd5b902fbbafacb8c302cda58.jpg",
+      "md5": "2c375dccd5b902fbbafacb8c302cda58",
+      "size": 962584,
+      "uploadedDate": "2020-07-02T19:45:02.039Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg",
+      "md5": "d11643e87e6a81e5fbb527336f7a0cbf",
+      "size": 992284,
+      "uploadedDate": "2020-07-02T19:45:10.239Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg",
+      "md5": "d11643e87e6a81e5fbb527336f7a0cbf",
+      "size": 992284,
+      "uploadedDate": "2020-07-02T19:45:19.949Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg",
+      "md5": "d11643e87e6a81e5fbb527336f7a0cbf",
+      "size": 992284,
+      "uploadedDate": "2020-07-02T19:45:27.137Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S1-2560x1440-2c375dccd5b902fbbafacb8c302cda58.jpg",
+      "md5": "2c375dccd5b902fbbafacb8c302cda58",
+      "size": 962584,
+      "uploadedDate": "2020-07-02T19:45:36.363Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4966d5da285c4f2c876937844b0e23ee/offer/EGS_RogueLegacy2_CellarDoorGames_S2-1200x1600-d11643e87e6a81e5fbb527336f7a0cbf.jpg",
+      "md5": "d11643e87e6a81e5fbb527336f7a0cbf",
+      "size": 992284,
+      "uploadedDate": "2020-07-02T19:45:44.720Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "dd717f51ff2f41bdb7b9404f442c6109"
+    }
+  ],
+  "catalogNs": null
 }

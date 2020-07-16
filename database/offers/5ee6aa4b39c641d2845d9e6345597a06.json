@@ -1,46 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-11T21:00:00.000Z",
-  "creationDate": "2020-02-06T23:20:54.097Z",
-  "lastModifiedDate": "2020-05-12T16:33:52.369Z",
-  "viewableDate": null,
-  "productSlug": "the-division-2/warlords-of-new-york-expansion",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass",
   "id": "5ee6aa4b39c641d2845d9e6345597a06",
   "namespace": "impala",
+  "title": "Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass",
   "description": "Tom Clancy's The Division 2 Warlords Of New York Year 2 Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/WLK_Expansion_Store_Landscape_2560x1440-2560x1440-e2009b5531f911c596caa231750c2404.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONY_wide-1920x1080-1425b8d456ad5f165a86574bb6b2332c.jpg"
-    }
-  ],
+  "productSlug": "the-division-2/warlords-of-new-york-expansion",
+  "urlSlug": "seasonpassy2audience",
+  "creationDate": "2020-02-06T23:20:54.097Z",
+  "lastModifiedDate": "2020-05-12T16:33:52.369Z",
+  "effectiveDate": "2020-02-11T21:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d83e470a0f984e94add3f9a4c6c43884",
-      "namespace": "impala",
-      "developer": null
+      "path": "addons"
     },
     {
-      "id": "d1b64a07a1334a54a51151902f9fe029",
-      "namespace": "impala",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -63,17 +57,33 @@
       "value": "the-division-2/warlords-of-new-york-expansion"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/WLK_Expansion_Store_Landscape_2560x1440-2560x1440-e2009b5531f911c596caa231750c2404.jpg",
+      "md5": "e2009b5531f911c596caa231750c2404",
+      "size": 980187,
+      "uploadedDate": "2020-02-10T01:36:53.165Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONY_wide-1920x1080-1425b8d456ad5f165a86574bb6b2332c.jpg",
+      "md5": "1425b8d456ad5f165a86574bb6b2332c",
+      "size": 288004,
+      "uploadedDate": "2020-03-06T15:24:20.347Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d83e470a0f984e94add3f9a4c6c43884"
+    },
+    {
+      "id": "d1b64a07a1334a54a51151902f9fe029"
+    }
+  ],
+  "catalogNs": null
 }

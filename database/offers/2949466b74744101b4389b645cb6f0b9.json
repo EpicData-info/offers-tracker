@@ -1,68 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-27T16:00:00.000Z",
-  "creationDate": "2019-10-28T15:23:25.778Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-origins/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Origins Season Pass",
   "id": "2949466b74744101b4389b645cb6f0b9",
   "namespace": "camellia",
+  "title": "Assassin's Creed Origins Season Pass",
   "description": "Assassin's Creed Origins Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_SeasonPass-330x440-a26b5f86e4b2ddad5bf5c1b1388aa8ef.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-97c0d9d4c980c68224008cc1ac1b503b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-b2d5a70b5c01dbd90c3891bc32a35f3abbf8a136.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-origins/season-pass",
+  "urlSlug": "camelliaseasonpassaudience-redeemable",
+  "creationDate": "2019-10-28T15:23:25.778Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "127535ad28db4c4a99bea862523a6574",
-      "namespace": "camellia",
-      "developer": null
-    },
-    {
-      "id": "9ed5f019e9f342ee87070fdc0aad4c45",
-      "namespace": "camellia",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "[]"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "assassins-creed-origins/season-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -77,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.710Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_SeasonPass-330x440-a26b5f86e4b2ddad5bf5c1b1388aa8ef.jpg",
+      "md5": "a26b5f86e4b2ddad5bf5c1b1388aa8ef",
+      "size": 137061,
+      "uploadedDate": "2019-11-26T17:57:21.008Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-97c0d9d4c980c68224008cc1ac1b503b.jpg",
+      "md5": "97c0d9d4c980c68224008cc1ac1b503b",
+      "size": 156173,
+      "uploadedDate": "2019-11-26T18:01:01.534Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-b2d5a70b5c01dbd90c3891bc32a35f3abbf8a136.jpg",
+      "md5": "97c0d9d4c980c68224008cc1ac1b503b",
+      "size": 156173,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "127535ad28db4c4a99bea862523a6574"
+    },
+    {
+      "id": "9ed5f019e9f342ee87070fdc0aad4c45"
+    }
+  ],
+  "catalogNs": null
 }

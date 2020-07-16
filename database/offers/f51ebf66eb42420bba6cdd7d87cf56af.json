@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-18T15:16:25.261Z",
-  "lastModifiedDate": "2020-06-19T18:06:01.669Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "AzuriteGeneralAudience",
   "id": "f51ebf66eb42420bba6cdd7d87cf56af",
   "namespace": "1c4745021d4243a783b459d928b9088f",
+  "title": "AzuriteGeneralAudience",
   "description": "AzuriteGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "azuritegeneralaudience",
+  "creationDate": "2020-02-18T15:16:25.261Z",
+  "lastModifiedDate": "2020-06-19T18:06:01.669Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7b6277bf64f145f7b4fd028372d81606",
-      "namespace": "1c4745021d4243a783b459d928b9088f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "7b6277bf64f145f7b4fd028372d81606"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

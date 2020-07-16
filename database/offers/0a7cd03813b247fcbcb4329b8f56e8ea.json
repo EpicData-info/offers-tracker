@@ -1,55 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-29T12:00:00.000Z",
-  "creationDate": "2019-03-15T15:42:46.141Z",
-  "lastModifiedDate": "2020-04-16T15:00:00.489Z",
-  "viewableDate": null,
-  "productSlug": "afterparty/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Afterparty",
   "id": "0a7cd03813b247fcbcb4329b8f56e8ea",
   "namespace": "adenium",
+  "title": "Afterparty",
   "description": "Afterparty",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PrimaryPromoImage-2580x1450-e84241696244d079283f8d2be30a254f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg"
-    }
-  ],
+  "productSlug": "afterparty/home",
+  "urlSlug": "adeniumgeneralaudience",
+  "creationDate": "2019-03-15T15:42:46.141Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.489Z",
+  "effectiveDate": "2019-10-29T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-8bhctnyt9qetgnjd4nssqse58c2589",
     "name": "Night School Studio, LLC"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b3ac5c3f2d65458e941929069ed9c081",
-      "namespace": "adenium",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +92,66 @@
       "value": "afterparty/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg",
+      "md5": "b6e39c5bbbdeae68f7df6a33f51a0f4f",
+      "size": 139976,
+      "uploadedDate": "2019-11-05T14:11:29.056Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PrimaryPromoImage-2580x1450-e84241696244d079283f8d2be30a254f.jpg",
+      "md5": "e84241696244d079283f8d2be30a254f",
+      "size": 314121,
+      "uploadedDate": "2019-11-22T18:16:45.163Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Afterparty_PortraitPromoImage_1280x1420_FrontPage-1280x1420-b6e39c5bbbdeae68f7df6a33f51a0f4f.jpg",
+      "md5": "b6e39c5bbbdeae68f7df6a33f51a0f4f",
+      "size": 139976,
+      "uploadedDate": "2019-11-05T14:11:29.056Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_GameIcon_400x400-400x400-fba79aa463578d60e74badc171dc8157.png",
+      "md5": "fba79aa463578d60e74badc171dc8157",
+      "size": 11881,
+      "uploadedDate": "2019-03-15T15:59:27.445Z",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_CodeRedemption-340x377-94ea34d533e7ec30d7ef4690bf1cad22.png",
+      "md5": "94ea34d533e7ec30d7ef4690bf1cad22",
+      "size": 47933,
+      "uploadedDate": "2019-03-19T21:21:09.739Z",
+      "width": 340,
+      "height": 377
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/adenium/offer/Afterparty_PrimaryPromoImage_2580x1450-2580x1450-be4bf4f974e89762d519cc2f2a289d3a-2580x1450-be4bf4f974e89762d519cc2f2a289d3a.jpg",
+      "md5": "be4bf4f974e89762d519cc2f2a289d3a",
+      "size": 278370,
+      "uploadedDate": "2020-02-24T17:56:49.065Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b3ac5c3f2d65458e941929069ed9c081"
+    }
+  ],
+  "catalogNs": null
 }

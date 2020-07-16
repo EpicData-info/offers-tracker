@@ -1,63 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-08-14T00:00:00.000Z",
-  "creationDate": "2019-07-29T21:14:33.331Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "mutant-year-zero",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mutant Year Zero: Road To Eden",
   "id": "9651fd57c8a34e81949aab28a084ced7",
   "namespace": "4756b80eb0f74d45b77922e54052cfed",
+  "title": "Mutant Year Zero: Road To Eden",
   "description": "Mutant Year Zero",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/MYZ_CodeRedemption-340x440-9f63f5551395dca01872d1ca189826a5.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/ESRB_MutantYearZero_M-842x404-9c34d9c8130a9bed9d2c71fc8a03846e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/MYZ_CodeRedemption-340x440-9f63f5551395dca01872d1ca189826a5.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg"
-    }
-  ],
+  "productSlug": "mutant-year-zero",
+  "urlSlug": "falcongeneralaudience",
+  "creationDate": "2019-07-29T21:14:33.331Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-08-14T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
     "name": "Funcom"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "81a3269c6348451784cd00c5431229bb",
-      "namespace": "4756b80eb0f74d45b77922e54052cfed",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +117,84 @@
       "value": "mutant-year-zero"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg",
+      "md5": "5fc013110df10208d22c98b43b5a1697",
+      "size": 435495,
+      "uploadedDate": "2019-08-06T21:54:45.596Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg",
+      "md5": "78da0159ae1cff2af0b286dcfa5bf30a",
+      "size": 339839,
+      "uploadedDate": "2019-08-06T21:54:58.127Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png",
+      "md5": "544312cae3244e33ea7c8d8a6e51b6b7",
+      "size": 182906,
+      "uploadedDate": "2019-08-07T22:22:56.337Z",
+      "width": 989,
+      "height": 500
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg",
+      "md5": "78da0159ae1cff2af0b286dcfa5bf30a",
+      "size": 339839,
+      "uploadedDate": "2019-08-06T21:54:58.127Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/MYZ_CodeRedemption-340x440-9f63f5551395dca01872d1ca189826a5.jpg",
+      "md5": "9f63f5551395dca01872d1ca189826a5",
+      "size": 169293,
+      "uploadedDate": "2019-08-14T20:17:56.046Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/ESRB_MutantYearZero_M-842x404-9c34d9c8130a9bed9d2c71fc8a03846e.jpg",
+      "md5": "9c34d9c8130a9bed9d2c71fc8a03846e",
+      "size": 25855,
+      "uploadedDate": "2019-08-14T20:18:07.411Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4756b80eb0f74d45b77922e54052cfed/offer/MYZ_CodeRedemption-340x440-9f63f5551395dca01872d1ca189826a5.jpg",
+      "md5": "9f63f5551395dca01872d1ca189826a5",
+      "size": 169293,
+      "uploadedDate": "2019-08-15T13:06:36.093Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg",
+      "md5": "5fc013110df10208d22c98b43b5a1697",
+      "size": 435495,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "81a3269c6348451784cd00c5431229bb"
+    }
+  ],
+  "catalogNs": null
 }

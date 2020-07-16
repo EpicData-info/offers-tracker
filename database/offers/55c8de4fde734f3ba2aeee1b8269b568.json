@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-29T16:00:00.000Z",
-  "creationDate": "2019-01-29T21:38:33.408Z",
-  "lastModifiedDate": "2020-04-29T00:38:41.042Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "MinDebugAudience",
   "id": "55c8de4fde734f3ba2aeee1b8269b568",
   "namespace": "min",
+  "title": "MinDebugAudience",
   "description": "MinDebugAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "mindebugaudience",
+  "creationDate": "2019-01-29T21:38:33.408Z",
+  "lastModifiedDate": "2020-04-29T00:38:41.042Z",
+  "effectiveDate": "2019-01-29T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-vwkp2e2azz3ybr7ckg7pfnxhwezd4a",
     "name": "Supergiant Games LLC"
   },
-  "items": [
-    {
-      "id": "6ba9887aeb3042cab8f4e237b4475636",
-      "namespace": "min",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -36,6 +31,13 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6ba9887aeb3042cab8f4e237b4475636"
+    }
+  ],
+  "catalogNs": null
 }

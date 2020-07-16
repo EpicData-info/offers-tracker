@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-06-03T01:00:00.000Z",
-  "creationDate": "2019-06-08T03:49:17.401Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "atomicrops/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Atomicrops",
   "id": "da878e491ab7473cbef4a72eae64b3a3",
   "namespace": "epic",
+  "title": "Atomicrops",
   "description": "Atomicrops",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_L1_DESCRIPTION-2560x1440-442570e87bc47255740fc3099c5ea85d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_S3_DESCRIPTION-1280x1440-a85c75eb03a9f3cdea2c542fcfb27dd3.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/logo_megaton-1641x1080-0a7b833f1964efb815eddd0090c13df4.png"
-    }
-  ],
+  "productSlug": "atomicrops/home",
+  "urlSlug": "atomicrops",
+  "creationDate": "2019-06-08T03:49:17.401Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-06-03T01:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
     "name": "Raw Fury"
   },
-  "items": [
+  "linkedOfferId": "2a32725d30bc4d87823d3354670376e2",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-07-15T16:19:30.619Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "2a32725d30bc4d87823d3354670376e2"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_L1_DESCRIPTION-2560x1440-442570e87bc47255740fc3099c5ea85d.jpg",
+      "md5": "442570e87bc47255740fc3099c5ea85d",
+      "size": 200417,
+      "uploadedDate": "2019-11-25T21:21:16.324Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_BIRD BATH_ATOMICROPS_S3_DESCRIPTION-1280x1440-a85c75eb03a9f3cdea2c542fcfb27dd3.jpg",
+      "md5": "a85c75eb03a9f3cdea2c542fcfb27dd3",
+      "size": 145894,
+      "uploadedDate": "2019-11-25T21:21:31.378Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/logo_megaton-1641x1080-0a7b833f1964efb815eddd0090c13df4.png",
+      "md5": "0a7b833f1964efb815eddd0090c13df4",
+      "size": 575841,
+      "uploadedDate": "2020-01-29T21:48:08.878Z",
+      "width": 1641,
+      "height": 1080
     }
   ],
-  "linkedOfferId": "2a32725d30bc4d87823d3354670376e2",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Raw Fury"
-      },
-      {
-        "key": "developerName",
-        "value": "Bird Bath Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "atomicrops/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

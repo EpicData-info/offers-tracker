@@ -1,55 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-04T15:00:00.000Z",
-  "creationDate": "2020-03-24T00:47:42.402Z",
-  "lastModifiedDate": "2020-06-04T14:56:30.339Z",
-  "viewableDate": "2020-06-04T15:00:00.000Z",
-  "productSlug": "valiant-hearts/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Valiant Hearts: The Great War",
   "id": "e3fdf1e813a54f44b71f30a411e9c23e",
   "namespace": "8767c1c91fc847cbafbfa232c695276f",
+  "title": "Valiant Hearts: The Great War",
   "description": "Valiant Hearts: The Great War",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg"
-    }
-  ],
+  "productSlug": "valiant-hearts/home",
+  "urlSlug": "turquoisegeneralaudience",
+  "creationDate": "2020-03-24T00:47:42.402Z",
+  "lastModifiedDate": "2020-06-04T14:56:30.339Z",
+  "effectiveDate": "2020-06-04T15:00:00.000Z",
+  "viewableDate": "2020-06-04T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "54af22a65b1442b1871f42a0394eb556",
-      "namespace": "8767c1c91fc847cbafbfa232c695276f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +81,66 @@
       "value": "valiant-hearts/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg",
+      "md5": "b95a83bc9e08f99ca54e5f0bfae8b676",
+      "size": 768354,
+      "uploadedDate": "2020-05-27T23:16:34.356Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg",
+      "md5": "162d25b7e8f64823a0a14d87cc42cb8d",
+      "size": 433330,
+      "uploadedDate": "2020-05-27T23:16:41.709Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg",
+      "md5": "162d25b7e8f64823a0a14d87cc42cb8d",
+      "size": 433330,
+      "uploadedDate": "2020-05-27T23:16:49.068Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Landscape_2560x1440-2560x1440-b95a83bc9e08f99ca54e5f0bfae8b676.jpg",
+      "md5": "b95a83bc9e08f99ca54e5f0bfae8b676",
+      "size": 768354,
+      "uploadedDate": "2020-05-27T23:17:26.092Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg",
+      "md5": "162d25b7e8f64823a0a14d87cc42cb8d",
+      "size": 433330,
+      "uploadedDate": "2020-05-27T23:17:32.619Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8767c1c91fc847cbafbfa232c695276f/offer/VHGW_UCS15668_EGST_Store_Portrait_1200x1600-1200x1600-162d25b7e8f64823a0a14d87cc42cb8d.jpg",
+      "md5": "162d25b7e8f64823a0a14d87cc42cb8d",
+      "size": 433330,
+      "uploadedDate": "2020-05-27T23:17:46.311Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "54af22a65b1442b1871f42a0394eb556"
+    }
+  ],
+  "catalogNs": null
 }

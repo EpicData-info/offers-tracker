@@ -1,47 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-11T21:10:15.640Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "the-messenger/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Messenger",
   "id": "124e1b42195949dda096a46a16061f27",
   "namespace": "epic",
+  "title": "The Messenger",
   "description": "The Messenger",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/TheMessenger-1060x596-f069899b9ff63a3048b6e24cc01c763c.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sabotage_TheMessenger_IC1_ColorMessengerLogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png"
-    }
-  ],
+  "productSlug": "the-messenger/home",
+  "urlSlug": "the-messenger",
+  "creationDate": "2019-10-11T21:10:15.640Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": "a46b0cc96e60477cb4a5a9f024589079",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "METROIDVANIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2020-05-14T19:40:40.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +120,48 @@
       "value": "a46b0cc96e60477cb4a5a9f024589079"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger-2560x1440-2c0f61495337929726a901f96a8fadbe.jpg",
+      "md5": "2c0f61495337929726a901f96a8fadbe",
+      "size": 295600,
+      "uploadedDate": "2019-10-11T21:07:43.631Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_Sabotage_TheMessenger_Portrait-1280x1440-39da361d51204d1d3c9707bfd3b9b2ea.jpg",
+      "md5": "39da361d51204d1d3c9707bfd3b9b2ea",
+      "size": 306683,
+      "uploadedDate": "2019-10-11T21:07:53.866Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/TheMessenger-1060x596-f069899b9ff63a3048b6e24cc01c763c.jpg",
+      "md5": "f069899b9ff63a3048b6e24cc01c763c",
+      "size": 673990,
+      "uploadedDate": "2019-11-06T20:45:32.854Z",
+      "width": 1060,
+      "height": 596
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Sabotage_TheMessenger_IC1_ColorMessengerLogo-986x420-7d036d8b7ff2c9a37498d5bd137893a1.png",
+      "md5": "7d036d8b7ff2c9a37498d5bd137893a1",
+      "size": 463454,
+      "uploadedDate": "2019-11-07T19:07:06.070Z",
+      "width": 986,
+      "height": 420
     }
   ],
-  "linkedOfferId": "a46b0cc96e60477cb4a5a9f024589079",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Devolver Digital"
-      },
-      {
-        "key": "developerName",
-        "value": "Sabotage Studios"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "the-messenger/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

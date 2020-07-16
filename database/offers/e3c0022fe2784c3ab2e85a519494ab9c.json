@@ -1,38 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2016-08-06T00:00:00.000Z",
-  "creationDate": "2016-08-06T17:32:25.527Z",
-  "lastModifiedDate": "2020-02-04T18:38:55.968Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Unwavering Guardian Collection",
   "id": "e3c0022fe2784c3ab2e85a519494ab9c",
   "namespace": "wex",
+  "title": "Unwavering Guardian Collection",
   "description": "A unique pet, additional Rep Hero, use friends twice per day, energy, gems, a hero and more!",
   "longDescription": "",
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "unwavering-guardian-collection",
+  "creationDate": "2016-08-06T17:32:25.527Z",
+  "lastModifiedDate": "2020-02-04T18:38:55.968Z",
+  "effectiveDate": "2016-08-06T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-aa83a0a9bc45e98c80c1b1c9d92e9e",
     "name": "Epic Games"
   },
-  "items": [
-    {
-      "id": "2a672a5e70134818a2f7cca284609680",
-      "namespace": "wex",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "account_upgrades"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2a672a5e70134818a2f7cca284609680"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,47 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-05T15:00:00.000Z",
-  "creationDate": "2019-06-25T19:27:20.726Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "overcooked/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overcooked",
   "id": "eed2eaea15864c52a7fe8c122dd6ce03",
   "namespace": "epic",
+  "title": "Overcooked",
   "description": "Overcooked",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
-    },
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/undefined/offer/freeTile_Overcooked-1080x430-62f8abcca9fd789fa657ba5129f9aede.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png"
-    }
-  ],
+  "productSlug": "overcooked/home",
+  "urlSlug": "overcooked",
+  "creationDate": "2019-06-25T19:27:20.726Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-07-05T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": "e9428ad618aa45f4b3371b8c8c4f9de9",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,30 +136,48 @@
       "value": "e9428ad618aa45f4b3371b8c8c4f9de9"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+      "md5": "71b09e2be137632b45871b92f6e13ed9",
+      "size": 142326,
+      "uploadedDate": "2019-06-25T19:16:37.396Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
+      "md5": "9bcad6d74ed9e54433c84f933aecf0f0",
+      "size": 104216,
+      "uploadedDate": "2019-06-25T19:16:52.497Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/undefined/offer/freeTile_Overcooked-1080x430-62f8abcca9fd789fa657ba5129f9aede.jpg",
+      "md5": "62f8abcca9fd789fa657ba5129f9aede",
+      "size": 99915,
+      "uploadedDate": "2019-06-25T19:26:54.727Z",
+      "width": 1080,
+      "height": 430
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
+      "md5": "fca007cbbe1be0a8d54b8ca2a0edc510",
+      "size": 247313,
+      "uploadedDate": "2019-08-02T18:15:01.383Z",
+      "width": 2650,
+      "height": 602
     }
   ],
-  "linkedOfferId": "e9428ad618aa45f4b3371b8c8c4f9de9",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "team17"
-      },
-      {
-        "key": "developerName",
-        "value": "Ghost Town Games Ltd."
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "overcooked/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

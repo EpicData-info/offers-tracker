@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-13T16:00:00.000Z",
-  "creationDate": "2020-01-04T06:21:27.754Z",
-  "lastModifiedDate": "2020-05-13T21:00:17.831Z",
-  "viewableDate": null,
-  "productSlug": "kingdom-come-deliverance/band-of-bastards",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Band of Bastards",
   "id": "e43093807bab414d8e85c932afd0c42d",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
+  "title": "Band of Bastards",
   "description": "Band of Bastards",
   "longDescription": "Classic DLC",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/BoB_Thumbnail_1920x1080-1920x1080-b6d30e2a71267fec55e16ec33da95d01c7f24cd6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg"
-    }
-  ],
+  "productSlug": "kingdom-come-deliverance/band-of-bastards",
+  "urlSlug": "band-of-bastards",
+  "creationDate": "2020-01-04T06:21:27.754Z",
+  "lastModifiedDate": "2020-05-13T21:00:17.831Z",
+  "effectiveDate": "2020-02-13T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7kqff8eeke8qqkxqr45uhpjgzh2zy3",
     "name": "Warhorse Studios"
   },
-  "items": [
-    {
-      "id": "f255964383d04135921876c536a0099c",
-      "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Warhorse Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/band-of-bastards"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,108 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Warhorse Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdom-come-deliverance/band-of-bastards"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-02-05T18:47:34.228Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/BoB_Thumbnail_1920x1080-1920x1080-b6d30e2a71267fec55e16ec33da95d01c7f24cd6.jpg",
+      "md5": "c11ead2bac6976831d8069c009ba7741",
+      "size": 228155,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:56:21.696Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca4058f18b0a4a9e9e2ccc28f7f33000/offer/EGS_WarhorseStudios_KingdomComeDeliverance_S4-510x680-ec915782c8a2d6f1d64c028dd74a398f-510x680-ec915782c8a2d6f1d64c028dd74a398f.jpg",
+      "md5": "ec915782c8a2d6f1d64c028dd74a398f",
+      "size": 324856,
+      "uploadedDate": "2020-05-13T14:56:34.319Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "f255964383d04135921876c536a0099c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2020-01-11T03:27:28.361Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "faeria/elements",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Elements DLC",
   "id": "e68c3f25aa6342468b9796b905df0e7c",
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "title": "Elements DLC",
   "description": "Elements",
   "longDescription": "6.99",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-eafa5e727cd83a2140618d7f348ebce33ec7169c.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-7eb48fdc124aef71c962973430169dc2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-e0913467e1e3fba269345fd63dda5f00.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Elements_Portrait-Offer-860x1148-bc36dd268d12b79fe41346d007c16e1d.jpg"
-    }
-  ],
+  "productSlug": "faeria/elements",
+  "urlSlug": "dlc4",
+  "creationDate": "2020-01-11T03:27:28.361Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
-    {
-      "id": "f9c0cb9340c547e289fee75815ac8b7f",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "faeria/elements"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -64,6 +37,55 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "faeria/elements"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-eafa5e727cd83a2140618d7f348ebce33ec7169c.jpg",
+      "md5": "f660d5f11c32d10e2fdd8d5e34220c3f",
+      "size": 434450,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-7eb48fdc124aef71c962973430169dc2.jpg",
+      "md5": "7eb48fdc124aef71c962973430169dc2",
+      "size": 1207805,
+      "uploadedDate": "2020-02-13T15:57:18.879Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_Elements_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-e0913467e1e3fba269345fd63dda5f00.jpg",
+      "md5": "e0913467e1e3fba269345fd63dda5f00",
+      "size": 892731,
+      "uploadedDate": "2020-02-13T15:57:25.255Z",
+      "width": 1080,
+      "height": 1350
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_DLC-Elements_Portrait-Offer-860x1148-bc36dd268d12b79fe41346d007c16e1d.jpg",
+      "md5": "bc36dd268d12b79fe41346d007c16e1d",
+      "size": 254415,
+      "uploadedDate": "2020-04-15T16:29:22.183Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "f9c0cb9340c547e289fee75815ac8b7f"
+    }
+  ],
+  "catalogNs": null
 }

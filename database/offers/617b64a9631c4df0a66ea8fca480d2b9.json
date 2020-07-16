@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-31T13:00:00.000Z",
-  "creationDate": "2019-11-27T18:37:35.242Z",
-  "lastModifiedDate": "2020-06-03T01:54:43.306Z",
-  "viewableDate": null,
-  "productSlug": "yooka-laylee-and-the-impossible-lair/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Yooka-Laylee and the Impossible Lair",
   "id": "617b64a9631c4df0a66ea8fca480d2b9",
   "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
+  "title": "Yooka-Laylee and the Impossible Lair",
   "description": "Yooka-Laylee and the Impossible Lair",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S5-640x478-54920a9a777ce201c97cd9650d98471a.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg"
-    }
-  ],
+  "productSlug": "yooka-laylee-and-the-impossible-lair/home",
+  "urlSlug": "duckbillgeneralaudience",
+  "creationDate": "2019-11-27T18:37:35.242Z",
+  "lastModifiedDate": "2020-06-03T01:54:43.306Z",
+  "effectiveDate": "2019-12-31T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fd71bd8498794b1d9efe0d0b9ce2fc52",
-      "namespace": "fa11862b1cfd42e3b3c6395af46efe3e",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +117,66 @@
       "value": "yooka-laylee-and-the-impossible-lair/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg",
+      "md5": "8faccccfe9ca390483f8a177b7fccbd4",
+      "size": 496297,
+      "uploadedDate": "2019-12-05T22:03:31.342Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg",
+      "md5": "5f1857ce88f7747b88c5121c674470e6",
+      "size": 394172,
+      "uploadedDate": "2019-12-05T22:03:47.817Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg",
+      "md5": "5f1857ce88f7747b88c5121c674470e6",
+      "size": 394172,
+      "uploadedDate": "2019-12-05T22:03:47.817Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S5-640x478-54920a9a777ce201c97cd9650d98471a.png",
+      "md5": "54920a9a777ce201c97cd9650d98471a",
+      "size": 492300,
+      "uploadedDate": "2019-12-27T17:06:05.405Z",
+      "width": 640,
+      "height": 478
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fa11862b1cfd42e3b3c6395af46efe3e/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S4-510x680-5f1857ce88f7747b88c5121c674470e6.jpg",
+      "md5": "5f1857ce88f7747b88c5121c674470e6",
+      "size": 394172,
+      "uploadedDate": "2019-12-27T17:06:15.271Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_PlaytonicGamesLtd_YookaLayleeandtheImpossibleLair_S3-1360x766-8faccccfe9ca390483f8a177b7fccbd4.jpg",
+      "md5": "8faccccfe9ca390483f8a177b7fccbd4",
+      "size": 496297,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fd71bd8498794b1d9efe0d0b9ce2fc52"
+    }
+  ],
+  "catalogNs": null
 }

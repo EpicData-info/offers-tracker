@@ -1,43 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-08-28T19:02:42.484Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "no-straight-roads/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "No Straight Roads",
   "id": "7b560e0a45514726bd6f3d1b08e38347",
   "namespace": "epic",
+  "title": "No Straight Roads",
   "description": "No Straight Roads",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/NSR LOGO_GAME-1454x896-4d48ff1aa309a74adc30a7cbea007032.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/NSRKeyArt1-602x338-fda3b865ae59a174c116afc3d172ea97.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Roads_Portrait_Promo-1280x1420-a9082960bc397daebc8db95f04fc4e92.jpg"
-    }
-  ],
+  "productSlug": "no-straight-roads/home",
+  "urlSlug": "no-straight-roads",
+  "creationDate": "2019-08-28T19:02:42.484Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-gcm88kddcs2t3gtypyq9tvlx64bzyw",
     "name": "Sold Out"
   },
-  "items": [
+  "linkedOfferId": "db30d79fa6cd43c3a9a99bb28a663bb4",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,38 +104,39 @@
       "value": "db30d79fa6cd43c3a9a99bb28a663bb4"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/NSR LOGO_GAME-1454x896-4d48ff1aa309a74adc30a7cbea007032.png",
+      "md5": "4d48ff1aa309a74adc30a7cbea007032",
+      "size": 91113,
+      "uploadedDate": "2019-08-28T18:56:00.760Z",
+      "width": 1454,
+      "height": 896
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/NSRKeyArt1-602x338-fda3b865ae59a174c116afc3d172ea97.jpg",
+      "md5": "fda3b865ae59a174c116afc3d172ea97",
+      "size": 217630,
+      "uploadedDate": "2019-08-28T18:56:15.776Z",
+      "width": 602,
+      "height": 338
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Roads_Portrait_Promo-1280x1420-a9082960bc397daebc8db95f04fc4e92.jpg",
+      "md5": "a9082960bc397daebc8db95f04fc4e92",
+      "size": 998135,
+      "uploadedDate": "2019-08-29T12:41:21.168Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": "db30d79fa6cd43c3a9a99bb28a663bb4",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Sold-Out Software"
-      },
-      {
-        "key": "availableDate",
-        "value": "1609473600"
-      },
-      {
-        "key": "isPrepurchase",
-        "value": "true"
-      },
-      {
-        "key": "developerName",
-        "value": "Metronomik"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "no-straight-roads/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

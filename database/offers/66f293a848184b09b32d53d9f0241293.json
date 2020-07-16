@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-11-20T20:56:33.093Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-fractured-but-whole/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "South Park: The Fractured But Whole - Season Pass",
   "id": "66f293a848184b09b32d53d9f0241293",
   "namespace": "764eb429792649e4a606413cd649de2c",
+  "title": "South Park: The Fractured But Whole - Season Pass",
   "description": "Alewife Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-c94966a5cd70cae973a9ec2ec8578f18.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-91cc2699f86e3dea93bcd853b7109f81552ef34b.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-fractured-but-whole/season-pass",
+  "urlSlug": "alewife-season-pass",
+  "creationDate": "2019-11-20T20:56:33.093Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "94f5fdd9b777402b9ce194bd03f674dd",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    },
-    {
-      "id": "fec644ac5b9b4a01a37d9630c390edaa",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN.KR"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "south-park-the-fractured-but-whole/season-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN.KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-fractured-but-whole/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-c94966a5cd70cae973a9ec2ec8578f18.jpg",
+      "md5": "c94966a5cd70cae973a9ec2ec8578f18",
+      "size": 472393,
+      "uploadedDate": "2019-12-17T00:37:16.871Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS12475_EGST_BannerBundle_SeaPass_US_Edition_Capsule_1920X1080-1920x1080-91cc2699f86e3dea93bcd853b7109f81552ef34b.jpg",
+      "md5": "0664a3f6192ddf2a43887e9aae004177",
+      "size": 229636,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "94f5fdd9b777402b9ce194bd03f674dd"
+    },
+    {
+      "id": "fec644ac5b9b4a01a37d9630c390edaa"
+    }
+  ],
+  "catalogNs": null
 }

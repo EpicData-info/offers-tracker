@@ -1,56 +1,66 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-14T15:00:00.000Z",
-  "creationDate": "2019-09-27T21:02:54.316Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "watch-dogs-2/season-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Watch Dogs 2 - Season Pass",
   "id": "ad839f9aa2f74087a3dd68f29bc80e0f",
   "namespace": "angelonia",
+  "title": "Watch Dogs 2 - Season Pass",
   "description": "Watch Dogs 2 - Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-SP-Capsule-1920x1080-cc38cd561e2a0f0a89b96a83314a100e849dd2dc.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg"
-    }
-  ],
+  "productSlug": "watch-dogs-2/season-pass",
+  "urlSlug": "watch-dogs-2-season-pass",
+  "creationDate": "2019-09-27T21:02:54.316Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-10-14T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "966e307240204fc89efae37b367489f9",
-      "namespace": "angelonia",
-      "developer": null
+      "path": "bundles"
     },
     {
-      "id": "91233ac8e4f045ee80bfa850a5200426",
-      "namespace": "angelonia",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -67,20 +77,60 @@
       "value": "watch-dogs-2/season-pass"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg",
+      "md5": "09ee882d5192121844c1881fe624e49e",
+      "size": 81686,
+      "uploadedDate": "2019-04-23T20:08:18.782Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg",
+      "md5": "30f40acee709f39e7772ad7a95eec724",
+      "size": 220218,
+      "uploadedDate": "2019-09-27T21:02:39.153Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "bundles/addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg",
+      "md5": "30f40acee709f39e7772ad7a95eec724",
+      "size": 220218,
+      "uploadedDate": "2019-09-27T21:02:51.742Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-SP-Capsule-1920x1080-cc38cd561e2a0f0a89b96a83314a100e849dd2dc.jpg",
+      "md5": "2f54653e486366a43ad971606fc445af",
+      "size": 272125,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2SPass_CodeRedemption-340x440-30f40acee709f39e7772ad7a95eec724.jpg",
+      "md5": "30f40acee709f39e7772ad7a95eec724",
+      "size": 220218,
+      "uploadedDate": "2020-04-10T17:14:04.176Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "966e307240204fc89efae37b367489f9"
+    },
+    {
+      "id": "91233ac8e4f045ee80bfa850a5200426"
+    }
+  ],
+  "catalogNs": null
 }

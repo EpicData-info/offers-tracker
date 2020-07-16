@@ -1,39 +1,95 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-23T15:00:00.000Z",
-  "creationDate": "2020-03-19T20:42:59.066Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "saturnalia/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Saturnalia",
   "id": "f3d2286a03c94613b5e7f40fef99837f",
   "namespace": "epic",
+  "title": "Saturnalia",
   "description": "Saturnalia",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg"
-    }
-  ],
+  "productSlug": "saturnalia/home",
+  "urlSlug": "saturnalia",
+  "creationDate": "2020-03-19T20:42:59.066Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-03-23T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "items": [
+  "linkedOfferId": "275d5915ebd2479f983f51025b22a1b8",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1127",
+      "name": "INVESTIGATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2020-06-15T15:37:04.186Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +114,30 @@
       "value": "275d5915ebd2479f983f51025b22a1b8"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Saturnalia_SantaRagionesrl_S1-2560x1440-62a841e178df1331230c2f8ed09087fa.jpg",
+      "md5": "62a841e178df1331230c2f8ed09087fa",
+      "size": 502376,
+      "uploadedDate": "2020-03-19T20:41:32.043Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait_860x1148_UPDATED1-860x1148-aa1f30b72e6cd8b2199cc64ab7b2005e.jpg",
+      "md5": "aa1f30b72e6cd8b2199cc64ab7b2005e",
+      "size": 462078,
+      "uploadedDate": "2020-03-19T20:55:50.445Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "275d5915ebd2479f983f51025b22a1b8",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Santa Ragione"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "saturnalia/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

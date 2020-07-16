@@ -1,37 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-05-05T20:51:58.632Z",
-  "lastModifiedDate": "2019-10-17T13:48:57.748Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "TumericDevAudience",
   "id": "32d83ec2476c49f388dffc4ee1176f90",
   "namespace": "85398892cc4544088ee87c673f95bb6f",
+  "title": "TumericDevAudience",
   "description": "TumericDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/offer/CodeRedemption_Observer-340x440-cd238d5fb30a6f6bafbbf89a68b8fd6d.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "tumericdevaudience",
+  "creationDate": "2019-05-05T20:51:58.632Z",
+  "lastModifiedDate": "2019-10-17T13:48:57.748Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
     "name": "Aspyr Media, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "1e0efe3f96a74e6bb87257e97f6ce282",
-      "namespace": "85398892cc4544088ee87c673f95bb6f",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -42,14 +42,21 @@
       "value": "Aspyr Media, Inc."
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/85398892cc4544088ee87c673f95bb6f/offer/CodeRedemption_Observer-340x440-cd238d5fb30a6f6bafbbf89a68b8fd6d.jpg",
+      "md5": "cd238d5fb30a6f6bafbbf89a68b8fd6d",
+      "size": 135474,
+      "uploadedDate": "2019-10-08T20:50:44.384Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "1e0efe3f96a74e6bb87257e97f6ce282"
+    }
+  ],
+  "catalogNs": null
 }

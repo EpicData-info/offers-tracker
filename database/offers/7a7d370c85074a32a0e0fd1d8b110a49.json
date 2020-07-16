@@ -1,47 +1,150 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2020-06-16T21:55:48.669Z",
-  "lastModifiedDate": "2020-07-09T14:57:56.422Z",
-  "viewableDate": "2020-07-02T15:00:00.000Z",
-  "productSlug": "killing-floor-2/digital-deluxe-upgrade",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Digital Deluxe Upgrade",
   "id": "7a7d370c85074a32a0e0fd1d8b110a49",
   "namespace": "affc33b82405457595a032f00284abd2",
+  "title": "Digital Deluxe Upgrade",
   "description": "This product requires the base game Killing Floor 2. The KF2 Digital Deluxe Edition upgrade includes: Additional characters & cosmetic items, Killing Floor 2 Soundtrack, Killing Floor 2 Digital Artbook.",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg"
-    }
-  ],
+  "productSlug": "killing-floor-2/digital-deluxe-upgrade",
+  "urlSlug": "dlc122",
+  "creationDate": "2020-06-16T21:55:48.669Z",
+  "lastModifiedDate": "2020-07-09T14:57:56.422Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "edfcce492c5a4e918f186c0cb191476d",
-      "namespace": "affc33b82405457595a032f00284abd2",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-07-16T15:01:02.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1220",
+      "name": "ZOMBIES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:07.628Z",
+      "updated": "2020-07-16T15:01:02.019Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1131",
+      "name": "SURVIVAL HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.560Z",
+      "updated": "2020-07-16T15:01:02.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +161,48 @@
       "value": "killing-floor-2/digital-deluxe-upgrade"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:08:52.648Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_2560x1440-2560x1440-644173a0251b030bd2612e8f33b800d5.jpg",
+      "md5": "644173a0251b030bd2612e8f33b800d5",
+      "size": 2243509,
+      "uploadedDate": "2020-04-24T18:09:18.553Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "addons/durable"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:10:02.877Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/affc33b82405457595a032f00284abd2/offer/KF2_EGS_860x1148-860x1148-3871a312bd2800d12a24e3498b1018c8.jpg",
+      "md5": "3871a312bd2800d12a24e3498b1018c8",
+      "size": 673242,
+      "uploadedDate": "2020-04-24T18:10:35.595Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "edfcce492c5a4e918f186c0cb191476d"
+    }
+  ],
+  "catalogNs": null
 }

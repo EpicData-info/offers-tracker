@@ -1,46 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-07T17:00:00.000Z",
-  "creationDate": "2019-05-07T21:00:20.673Z",
-  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Observation (Origin PC)",
   "id": "38a8eceafde44577a1e2cf7470449174",
   "namespace": "allium",
+  "title": "Observation (Origin PC)",
   "description": "Observation (Origin PC)",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/allium/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/allium/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "observation-origin-pc",
+  "creationDate": "2019-05-07T21:00:20.673Z",
+  "lastModifiedDate": "2020-04-29T00:38:34.973Z",
+  "effectiveDate": "2019-05-07T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7340f4df71194aafbef6e575cc544bed",
-      "namespace": "allium",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "7d615c13ee0f4e479bc0f511c8a08ca8",
-      "namespace": "allium",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -55,14 +46,33 @@
       "value": "NoCode"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/allium/item/RP_FOR_T_M_AO-842x404-e685858d6f01213bedf5b2abec53be94.png",
+      "md5": "e685858d6f01213bedf5b2abec53be94",
+      "size": 55379,
+      "uploadedDate": "2019-04-23T20:24:25.845Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/allium/offer/Observation_CodeRedemption-340x440-28a09a7bc027c314c49e0328c305cbe0.jpg",
+      "md5": "28a09a7bc027c314c49e0328c305cbe0",
+      "size": 66637,
+      "uploadedDate": "2019-05-07T21:03:36.199Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7340f4df71194aafbef6e575cc544bed"
+    },
+    {
+      "id": "7d615c13ee0f4e479bc0f511c8a08ca8"
+    }
+  ],
+  "catalogNs": null
 }

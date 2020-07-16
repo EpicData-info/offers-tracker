@@ -1,49 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-01T15:00:00.000Z",
-  "creationDate": "2020-03-30T17:29:03.648Z",
-  "lastModifiedDate": "2020-05-27T21:30:34.035Z",
-  "viewableDate": null,
-  "productSlug": "ghost-recon-breakpoint/free-demo",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Ghost Recon Breakpoint - Demo",
   "id": "a118b8522bb3468ea5058b8d319ffd84",
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "title": "Ghost Recon Breakpoint - Demo",
   "description": "Ghost Recon Breakpoint - Demo",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2-267x150-5ab21bd4317595c4650335460350cdd2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
-    }
-  ],
+  "productSlug": "ghost-recon-breakpoint/free-demo",
+  "urlSlug": "saffrondemoaudience",
+  "creationDate": "2020-03-30T17:29:03.648Z",
+  "lastModifiedDate": "2020-05-27T21:30:34.035Z",
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "38e46f021c25470db300fbcd89560adb",
-      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -62,17 +53,48 @@
       "value": "ghost-recon-breakpoint/free-demo"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+      "md5": "70b00886176ffa2e22b86eaa389c7a50",
+      "size": 325115,
+      "uploadedDate": "2020-04-01T15:04:39.940Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "games/demo"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+      "md5": "70b00886176ffa2e22b86eaa389c7a50",
+      "size": 325115,
+      "uploadedDate": "2020-04-01T15:04:49.820Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2-267x150-5ab21bd4317595c4650335460350cdd2.jpg",
+      "md5": "5ab21bd4317595c4650335460350cdd2",
+      "size": 22492,
+      "uploadedDate": "2020-04-01T15:04:59.068Z",
+      "width": 267,
+      "height": 150
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+      "md5": "70b00886176ffa2e22b86eaa389c7a50",
+      "size": 325115,
+      "uploadedDate": "2020-04-01T15:05:08.592Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "38e46f021c25470db300fbcd89560adb"
+    }
+  ],
+  "catalogNs": null
 }

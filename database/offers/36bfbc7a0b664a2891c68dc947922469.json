@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-16T21:22:27.582Z",
-  "lastModifiedDate": "2020-04-02T01:42:01.394Z",
-  "viewableDate": null,
-  "productSlug": "rogue-company/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Rogue Company",
   "id": "36bfbc7a0b664a2891c68dc947922469",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "Rogue Company",
   "description": "Rogue Company",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg"
-    }
-  ],
+  "productSlug": "rogue-company/home",
+  "urlSlug": "peweegeneralaudience",
+  "creationDate": "2019-08-16T21:22:27.582Z",
+  "lastModifiedDate": "2020-04-02T01:42:01.394Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "167fe4a0caee4da689193e3e12af241e",
-      "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +125,75 @@
       "value": "rogue-company/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
+      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
+      "size": 430307,
+      "uploadedDate": "2019-09-04T18:48:43.067Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
+      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
+      "size": 257555,
+      "uploadedDate": "2019-09-04T18:48:51.254Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
+      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
+      "size": 3748,
+      "uploadedDate": "2019-09-04T18:49:00.817Z",
+      "width": 200,
+      "height": 200
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
+      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
+      "size": 257555,
+      "uploadedDate": "2019-09-04T18:48:51.254Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
+      "md5": "1556563c6bc7bb49090240e42b8ecc68",
+      "size": 174246,
+      "uploadedDate": "2019-09-04T18:29:13.858Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
+      "md5": "1556563c6bc7bb49090240e42b8ecc68",
+      "size": 174246,
+      "uploadedDate": "2019-09-04T18:29:22.926Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
+      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
+      "size": 430307,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "167fe4a0caee4da689193e3e12af241e"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-30T15:48:00.000Z",
-  "creationDate": "2019-01-28T20:49:45.917Z",
-  "lastModifiedDate": "2020-06-11T16:55:23.491Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "JackalDevAudience",
   "id": "ac16af43e86347fa8e6ae0d8c5090720",
   "namespace": "jackal",
+  "title": "JackalDevAudience",
   "description": "JackalDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/undefined/offer/dauntless-game-icon-400x400-fedb667fba0c95b47137a8c5416b68d5.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "jackaldevaudience",
+  "creationDate": "2019-01-28T20:49:45.917Z",
+  "lastModifiedDate": "2020-06-11T16:55:23.491Z",
+  "effectiveDate": "2019-04-30T15:48:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
-    {
-      "id": "a181ca510a4143eab9f0da32ba8b4cd1",
-      "namespace": "jackal",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "developerName",
-      "value": "Phoenix Labs"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -46,6 +31,28 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Phoenix Labs"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/undefined/offer/dauntless-game-icon-400x400-fedb667fba0c95b47137a8c5416b68d5.png",
+      "md5": "fedb667fba0c95b47137a8c5416b68d5",
+      "size": 28015,
+      "uploadedDate": "2019-01-28T20:49:28.820Z",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "items": [
+    {
+      "id": "a181ca510a4143eab9f0da32ba8b4cd1"
+    }
+  ],
+  "catalogNs": null
 }

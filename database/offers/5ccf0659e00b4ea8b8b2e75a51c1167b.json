@@ -1,41 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-03-10T09:00:00.000Z",
-  "creationDate": "2020-01-26T22:44:13.921Z",
-  "lastModifiedDate": "2020-03-18T18:54:42.797Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Journey To The Savage Planet Retail Offer",
   "id": "5ccf0659e00b4ea8b8b2e75a51c1167b",
   "namespace": "oleander",
+  "title": "Journey To The Savage Planet Retail Offer",
   "description": "Journey To The Savage Planet",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "jttspgeneralaudience",
+  "creationDate": "2020-01-26T22:44:13.921Z",
+  "lastModifiedDate": "2020-03-18T18:54:42.797Z",
+  "effectiveDate": "2050-03-10T09:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7086e30cad7744a88254de26685177b0",
-      "namespace": "oleander",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -46,14 +42,30 @@
       "value": "Typhoon Studios"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
+      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
+      "size": 151857,
+      "uploadedDate": "2019-08-19T13:13:59.446Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oleander/offer/CodeRedemption_JTTSP-340x440-9ea78ab53cc23c54bd3f7d574c19e0de.jpg",
+      "md5": "9ea78ab53cc23c54bd3f7d574c19e0de",
+      "size": 151857,
+      "uploadedDate": "2019-08-19T13:14:06.605Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7086e30cad7744a88254de26685177b0"
+    }
+  ],
+  "catalogNs": null
 }

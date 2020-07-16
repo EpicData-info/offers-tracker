@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-10T20:00:28.846Z",
-  "lastModifiedDate": "2020-04-09T14:33:29.482Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "EscolarDevAudience",
   "id": "3009f98efed34fcab55f2add5b8c0d00",
   "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
+  "title": "EscolarDevAudience",
   "description": "EscolarDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "escolardevaudience",
+  "creationDate": "2020-02-10T20:00:28.846Z",
+  "lastModifiedDate": "2020-04-09T14:33:29.482Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-cjwnkas5rn476tzk72fbh2ftutnc2y",
     "name": "Santa Ragione"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d1bcc40d650d4db886c7e5b84dab4821",
-      "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "d1bcc40d650d4db886c7e5b84dab4821"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

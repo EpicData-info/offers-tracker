@@ -1,64 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-22T15:00:00.000Z",
-  "creationDate": "2019-08-08T20:42:42.595Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-odyssey/dlc-2",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Fate of Atlantis - DLC",
   "id": "e0b2154d2dbd4eabb8cb5dadcfcc7635",
   "namespace": "clary",
+  "title": "The Fate of Atlantis - DLC",
   "description": "The Fate of Atlantis - DLC",
   "longDescription": "The Fate of Atlantis - DLC 2",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_TFOA-330x440-1d470445cce631fc8f402803c9536022.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-c50b20cc92ef288ac201dd2700c5232e.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_AtlantisDLC_Capsule-1920x1080-4b074ba17063694754ffde6c62fd723ca45c5f09.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-odyssey/dlc-2",
+  "urlSlug": "dlc2audience-redeemable",
+  "creationDate": "2019-08-08T20:42:42.595Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-10-22T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "2c6d8ce49a2a49f79a0810124c5a8ab5",
-      "namespace": "clary",
-      "developer": null
-    },
-    {
-      "id": "789d3427e79e4a489f618a5768e95b65",
-      "namespace": "clary",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "assassins-creed-odyssey/dlc-2"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "Granted if you must call Partner Integration to redeem season pass separately from the game. Not necessary if the edition you buy already includes it",
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -73,6 +37,57 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-odyssey/dlc-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_TFOA-330x440-1d470445cce631fc8f402803c9536022.jpg",
+      "md5": "1d470445cce631fc8f402803c9536022",
+      "size": 97387,
+      "uploadedDate": "2019-08-17T01:16:06.256Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-c50b20cc92ef288ac201dd2700c5232e.jpg",
+      "md5": "c50b20cc92ef288ac201dd2700c5232e",
+      "size": 78382,
+      "uploadedDate": "2019-08-17T01:17:15.826Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_AtlantisDLC_Capsule-1920x1080-4b074ba17063694754ffde6c62fd723ca45c5f09.jpg",
+      "md5": "81c0727f0aec95d6ac3b0ebbacb005bc",
+      "size": 146808,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "2c6d8ce49a2a49f79a0810124c5a8ab5"
+    },
+    {
+      "id": "789d3427e79e4a489f618a5768e95b65"
+    }
+  ],
+  "catalogNs": null
 }

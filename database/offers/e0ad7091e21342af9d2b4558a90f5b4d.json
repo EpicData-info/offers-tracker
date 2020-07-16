@@ -1,45 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-15T15:00:00.000Z",
-  "creationDate": "2020-01-09T19:35:48.615Z",
-  "lastModifiedDate": "2020-05-11T17:07:09.428Z",
-  "viewableDate": null,
-  "productSlug": "overpass/drive-with-style",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overpass Drive With Style Pack",
   "id": "e0ad7091e21342af9d2b4558a90f5b4d",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "title": "Overpass Drive With Style Pack",
   "description": "Overpass Drive With Style Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_MobileVertical-510x680-864df1d1b80f2b255d203a39cc29faaf.JPG"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_DesktopHorizontal-1360x766-9f2c33093a91b877cf986b9c8d61b13c.JPG"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_Style_Wide-1360x766-3edddab60d1643b7f7b58595c2ba9b88.jpg"
-    }
-  ],
+  "productSlug": "overpass/drive-with-style",
+  "urlSlug": "sandpiperdrivewithstylepackaudience",
+  "creationDate": "2020-01-09T19:35:48.615Z",
+  "lastModifiedDate": "2020-05-11T17:07:09.428Z",
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "28d83f1e438241a5928c97b541d498b0",
-      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,20 +56,39 @@
       "value": "overpass/drive-with-style"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_MobileVertical-510x680-864df1d1b80f2b255d203a39cc29faaf.JPG",
+      "md5": "864df1d1b80f2b255d203a39cc29faaf",
+      "size": 326212,
+      "uploadedDate": "2020-01-15T20:39:21.549Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC4_DRIVEWITHSTYLEPACK_DLC_DesktopHorizontal-1360x766-9f2c33093a91b877cf986b9c8d61b13c.JPG",
+      "md5": "9f2c33093a91b877cf986b9c8d61b13c",
+      "size": 756037,
+      "uploadedDate": "2020-01-15T20:39:33.929Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_Style_Wide-1360x766-3edddab60d1643b7f7b58595c2ba9b88.jpg",
+      "md5": "3edddab60d1643b7f7b58595c2ba9b88",
+      "size": 289640,
+      "uploadedDate": "2020-03-06T14:56:33.019Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "28d83f1e438241a5928c97b541d498b0"
+    }
+  ],
+  "catalogNs": null
 }

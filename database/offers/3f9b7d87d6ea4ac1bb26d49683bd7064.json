@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-21T14:59:00.000Z",
-  "creationDate": "2019-06-03T21:00:18.022Z",
-  "lastModifiedDate": "2020-04-02T01:41:41.275Z",
-  "viewableDate": "2019-06-18T07:21:00.000Z",
-  "productSlug": "last-day-of-june/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Last Day of June",
   "id": "3f9b7d87d6ea4ac1bb26d49683bd7064",
   "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
+  "title": "Last Day of June",
   "description": "Last Day of June",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_Artwork_LOGO-1328x967-04d99362a1da2b2425bd5d63a63d2f4c.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg"
-    }
-  ],
+  "productSlug": "last-day-of-june/home",
+  "urlSlug": "last-day-of-june",
+  "creationDate": "2019-06-03T21:00:18.022Z",
+  "lastModifiedDate": "2020-04-02T01:41:41.275Z",
+  "effectiveDate": "2019-06-21T14:59:00.000Z",
+  "viewableDate": "2019-06-18T07:21:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-cul2z53mrw3bxltv63v68rgd4b3w52",
     "name": "505 Games S.r.l."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6f497455242046ca86887eedfd8b62b6",
-      "namespace": "4fd85a772cd5471aa5e38efcaa0d6f24",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "last-day-of-june/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg",
+      "md5": "efdd04f6be56ec18051a832e6caf8812",
+      "size": 183050,
+      "uploadedDate": "2019-06-19T15:10:37.532Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg",
+      "md5": "a14727dec446440b143e87daf8e96014",
+      "size": 137571,
+      "uploadedDate": "2019-06-19T15:13:32.602Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_Artwork_LOGO-1328x967-04d99362a1da2b2425bd5d63a63d2f4c.png",
+      "md5": "04d99362a1da2b2425bd5d63a63d2f4c",
+      "size": 54058,
+      "uploadedDate": "2019-06-19T15:14:23.482Z",
+      "width": 1328,
+      "height": 967
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg",
+      "md5": "a14727dec446440b143e87daf8e96014",
+      "size": 137571,
+      "uploadedDate": "2019-06-19T15:13:32.602Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg",
+      "md5": "a14727dec446440b143e87daf8e96014",
+      "size": 137571,
+      "uploadedDate": "2019-06-27T15:04:29.393Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4fd85a772cd5471aa5e38efcaa0d6f24/offer/LDOJ_PortraitPromo-1280x1420-a14727dec446440b143e87daf8e96014.jpg",
+      "md5": "a14727dec446440b143e87daf8e96014",
+      "size": 137571,
+      "uploadedDate": "2019-06-27T15:04:45.652Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/LDOJ_PrimaryPromo-2580x1450-efdd04f6be56ec18051a832e6caf8812.jpg",
+      "md5": "efdd04f6be56ec18051a832e6caf8812",
+      "size": 183050,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6f497455242046ca86887eedfd8b62b6"
+    }
+  ],
+  "catalogNs": null
 }

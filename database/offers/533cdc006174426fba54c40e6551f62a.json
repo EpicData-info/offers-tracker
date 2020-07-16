@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-30T19:13:38.597Z",
-  "lastModifiedDate": "2020-07-15T00:39:02.657Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Content Pack",
   "id": "533cdc006174426fba54c40e6551f62a",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
+  "title": "Content Pack",
   "description": "Content Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "contentpack",
+  "creationDate": "2020-03-30T19:13:38.597Z",
+  "lastModifiedDate": "2020-07-15T00:39:02.657Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
     "name": "Psyonix"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c06bc2321cc24fa889bca5c711e34cb7",
-      "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c06bc2321cc24fa889bca5c711e34cb7"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

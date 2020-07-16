@@ -1,47 +1,116 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-09T14:00:00.000Z",
-  "creationDate": "2020-04-02T21:46:13.982Z",
-  "lastModifiedDate": "2020-06-09T16:00:14.021Z",
-  "viewableDate": "2020-06-09T14:00:00.000Z",
-  "productSlug": "rimworld/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RimWorld",
   "id": "4eb4eaeb9f344519b934036051b38f29",
   "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
+  "title": "RimWorld",
   "description": "RimWorld",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg"
-    }
-  ],
+  "productSlug": "rimworld/home",
+  "urlSlug": "ironstonegeneralaudience",
+  "creationDate": "2020-04-02T21:46:13.982Z",
+  "lastModifiedDate": "2020-06-09T16:00:14.021Z",
+  "effectiveDate": "2020-06-09T14:00:00.000Z",
+  "viewableDate": "2020-06-09T14:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-hsdwarj24e4ntqdnvu83854narhusv",
     "name": "Ludeon Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "76cc56614cb24bfa8eb0ad8e10275602",
-      "namespace": "7051eadbb8c2435caf32a9bc0dc17936",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,20 +127,48 @@
       "value": "rimworld/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg",
+      "md5": "925e05c88fe8312deeb656e296adac64",
+      "size": 650785,
+      "uploadedDate": "2020-06-08T18:08:52.739Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S1-2560x1440-410a62ec21d44260409182e1174cce2e.jpg",
+      "md5": "410a62ec21d44260409182e1174cce2e",
+      "size": 997458,
+      "uploadedDate": "2020-06-08T18:09:07.534Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg",
+      "md5": "925e05c88fe8312deeb656e296adac64",
+      "size": 650785,
+      "uploadedDate": "2020-06-08T18:09:29.093Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7051eadbb8c2435caf32a9bc0dc17936/offer/EGS_RimWorld_LudeonStudios_S2-1200x1600-925e05c88fe8312deeb656e296adac64.jpg",
+      "md5": "925e05c88fe8312deeb656e296adac64",
+      "size": 650785,
+      "uploadedDate": "2020-06-08T18:09:45.031Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "76cc56614cb24bfa8eb0ad8e10275602"
+    }
+  ],
+  "catalogNs": null
 }

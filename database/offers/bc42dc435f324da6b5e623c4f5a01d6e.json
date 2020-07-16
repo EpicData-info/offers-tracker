@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-13T15:00:00.000Z",
-  "creationDate": "2019-04-22T16:56:12.743Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "metro-last-light-redux",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro: Last Light Redux",
   "id": "bc42dc435f324da6b5e623c4f5a01d6e",
   "namespace": "c5e786eddfd041caa9984213e3f9621d",
+  "title": "Metro: Last Light Redux",
   "description": "Metro: Last Light Redux",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Game_Logo_MetroLL-Redux-2-1405x800-ec83b03aee77d67518e84b19de861cd2.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg"
-    }
-  ],
+  "productSlug": "metro-last-light-redux",
+  "urlSlug": "speedwellgeneralaudience",
+  "creationDate": "2019-04-22T16:56:12.743Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-05-13T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "41882b7ee75447d8be3d2b2dc986d30f",
-      "namespace": "c5e786eddfd041caa9984213e3f9621d",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "metro-last-light-redux"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
+      "md5": "5bff756f6ec63345932141e78b7f4a1b",
+      "size": 361157,
+      "uploadedDate": "2019-04-30T21:30:56.497Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg",
+      "md5": "8a657481ae263cf6f7c53c1e8b0d7df0",
+      "size": 269347,
+      "uploadedDate": "2019-04-30T21:31:07.550Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Game_Logo_MetroLL-Redux-2-1405x800-ec83b03aee77d67518e84b19de861cd2.png",
+      "md5": "ec83b03aee77d67518e84b19de861cd2",
+      "size": 379939,
+      "uploadedDate": "2019-04-30T21:31:26.227Z",
+      "width": 1405,
+      "height": 800
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Portrait_Promo-1280x1420-8a657481ae263cf6f7c53c1e8b0d7df0.jpg",
+      "md5": "8a657481ae263cf6f7c53c1e8b0d7df0",
+      "size": 269347,
+      "uploadedDate": "2019-04-30T21:31:07.550Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg",
+      "md5": "f16871ea412435f9d7c3b7d3e9f91c40",
+      "size": 164829,
+      "uploadedDate": "2019-05-07T19:30:25.513Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c5e786eddfd041caa9984213e3f9621d/offer/MetroLastLight_CodeRedemption-340x440-f16871ea412435f9d7c3b7d3e9f91c40.jpg",
+      "md5": "f16871ea412435f9d7c3b7d3e9f91c40",
+      "size": 164829,
+      "uploadedDate": "2019-05-07T19:30:38.666Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/MLL-Redux_Primary_Promo-2580x1450-5bff756f6ec63345932141e78b7f4a1b.jpg",
+      "md5": "5bff756f6ec63345932141e78b7f4a1b",
+      "size": 361157,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "41882b7ee75447d8be3d2b2dc986d30f"
+    }
+  ],
+  "catalogNs": null
 }

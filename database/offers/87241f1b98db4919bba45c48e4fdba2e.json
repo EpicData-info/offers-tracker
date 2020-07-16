@@ -1,43 +1,93 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-12-14T20:37:00.000Z",
-  "creationDate": "2018-11-27T01:49:35.145Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2018-11-26T20:37:00.000Z",
-  "productSlug": "darksiders3",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders III",
   "id": "87241f1b98db4919bba45c48e4fdba2e",
   "namespace": "epic",
+  "title": "Darksiders III",
   "description": "Darksiders III",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png"
-    }
-  ],
+  "productSlug": "darksiders3",
+  "urlSlug": "darksiders",
+  "creationDate": "2018-11-27T01:49:35.145Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2018-12-14T20:37:00.000Z",
+  "viewableDate": "2018-11-26T20:37:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": "95e743aa01c6410680916acb796246b5",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "95e743aa01c6410680916acb796246b5"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Portrait-Promo (1)-1288x1450-864bba556f317c24eb047db8ee19a260.jpg",
+      "md5": "864bba556f317c24eb047db8ee19a260",
+      "size": 178886,
+      "uploadedDate": "2018-12-06T21:37:09.089Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Darksiders3_wide-960x542-0df0d90a521994e320793355832a5924.jpg",
+      "md5": "0df0d90a521994e320793355832a5924",
+      "size": 248248,
+      "uploadedDate": "2019-03-27T17:12:40.868Z",
+      "width": 960,
+      "height": 542
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/DarksidersIII_Logo_White-1500x281-84fba9f14ba587a4b067bd14de325479.png",
+      "md5": "84fba9f14ba587a4b067bd14de325479",
+      "size": 24085,
+      "uploadedDate": "2019-04-08T13:59:23.392Z",
+      "width": 1500,
+      "height": 281
     }
   ],
-  "linkedOfferId": "95e743aa01c6410680916acb796246b5",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "THQ Nordic"
-      },
-      {
-        "key": "developerName",
-        "value": "Gunfire Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "darksiders3"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

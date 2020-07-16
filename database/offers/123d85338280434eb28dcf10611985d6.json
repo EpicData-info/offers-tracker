@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-19T13:35:15.588Z",
-  "lastModifiedDate": "2020-03-19T13:43:52.613Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DevFreesiaAudience",
   "id": "123d85338280434eb28dcf10611985d6",
   "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
+  "title": "DevFreesiaAudience",
   "description": "DevFreesiaAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "devfreesiaaudience",
+  "creationDate": "2020-02-19T13:35:15.588Z",
+  "lastModifiedDate": "2020-03-19T13:43:52.613Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-yrlbfhj5bvd3fce3zfcq47jev35gx4",
     "name": "Galactic Cafe"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6e2ccf8bea3443d186eafcdc407a7d19",
-      "namespace": "4c00c7506c4b4fa695f749bd6bb07ff6",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "6e2ccf8bea3443d186eafcdc407a7d19"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

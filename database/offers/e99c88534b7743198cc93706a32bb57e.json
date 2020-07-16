@@ -1,39 +1,81 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-16T15:00:00.000Z",
-  "creationDate": "2020-04-07T15:52:18.216Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": "2020-04-09T15:00:00.000Z",
-  "productSlug": "just-cause-4/standard-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Just Cause 4",
   "id": "e99c88534b7743198cc93706a32bb57e",
   "namespace": "epic",
+  "title": "Just Cause 4",
   "description": "Just Cause 4",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg"
-    }
-  ],
+  "productSlug": "just-cause-4/standard-edition",
+  "urlSlug": "just-cause",
+  "creationDate": "2020-04-07T15:52:18.216Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-04-16T15:00:00.000Z",
+  "viewableDate": "2020-04-09T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
     "name": "Frogwares"
   },
-  "items": [
+  "linkedOfferId": "516eb5d868f44040a13fd486c8fc0e33",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +100,30 @@
       "value": "516eb5d868f44040a13fd486c8fc0e33"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S2-860x1148-63070ca3b25f0ad2ada1fe99a0a0e2c4.jpg",
+      "md5": "63070ca3b25f0ad2ada1fe99a0a0e2c4",
+      "size": 200847,
+      "uploadedDate": "2020-04-14T18:21:57.418Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_JustCause4StandardEdition_AvalancheStudios_Editions_S1-2560x1440-5c3b5edf8cb8b166fbc08b80df974f5f.jpg",
+      "md5": "5c3b5edf8cb8b166fbc08b80df974f5f",
+      "size": 621232,
+      "uploadedDate": "2020-04-16T15:15:15.560Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "516eb5d868f44040a13fd486c8fc0e33",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Square Enix"
-      },
-      {
-        "key": "developerName",
-        "value": "Avalanche Studios"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

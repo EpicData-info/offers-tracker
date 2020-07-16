@@ -1,59 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-01T15:00:00.000Z",
-  "creationDate": "2019-02-14T19:45:23.511Z",
-  "lastModifiedDate": "2020-04-16T15:00:00.490Z",
-  "viewableDate": null,
-  "productSlug": "world-of-goo/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "World of Goo",
   "id": "5f82cbea3fdd42e2b9b9dfe8439b96b3",
   "namespace": "anemone",
+  "title": "World of Goo",
   "description": "World of Goo",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/World-of-Goo-Logo-1600x898-cab258f507e04682e45e5dafbcf47f23.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d (1)-340x440-ad8816b6f96f722badb84b0f8e66016d.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg"
-    }
-  ],
+  "productSlug": "world-of-goo/home",
+  "urlSlug": "worldofgoogeneralaudience",
+  "creationDate": "2019-02-14T19:45:23.511Z",
+  "lastModifiedDate": "2020-04-16T15:00:00.490Z",
+  "effectiveDate": "2019-05-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fdxn5bcapezptpk6s97ksd6hg6rkls",
     "name": "2D Boy"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0a79aa46e68644a0b57eb0f061121ded",
-      "namespace": "anemone",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +128,75 @@
       "value": "world-of-goo/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg",
+      "md5": "87541c2003ec70eb7e88f06024243758",
+      "size": 107276,
+      "uploadedDate": "2019-03-06T16:20:58.069Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg",
+      "md5": "446b7c423ee27ac17a5637b84eb8aa39",
+      "size": 92398,
+      "uploadedDate": "2019-03-06T16:21:16.425Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/World-of-Goo-Logo-1600x898-cab258f507e04682e45e5dafbcf47f23.png",
+      "md5": "cab258f507e04682e45e5dafbcf47f23",
+      "size": 216876,
+      "uploadedDate": "2019-08-02T19:22:56.238Z",
+      "width": 1600,
+      "height": 898
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Portrait-Promo-1280x1420-446b7c423ee27ac17a5637b84eb8aa39.jpg",
+      "md5": "446b7c423ee27ac17a5637b84eb8aa39",
+      "size": 92398,
+      "uploadedDate": "2019-03-06T16:21:16.425Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d.png",
+      "md5": "ad8816b6f96f722badb84b0f8e66016d",
+      "size": 86847,
+      "uploadedDate": "2019-04-17T18:51:29.516Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/anemone/offer/WOGCodeRedemption-340x440-ad8816b6f96f722badb84b0f8e66016d (1)-340x440-ad8816b6f96f722badb84b0f8e66016d.png",
+      "md5": "ad8816b6f96f722badb84b0f8e66016d",
+      "size": 86847,
+      "uploadedDate": "2019-04-29T15:13:47.849Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/World-of-Goo-Primary-Promo-2580x1450-87541c2003ec70eb7e88f06024243758.jpg",
+      "md5": "87541c2003ec70eb7e88f06024243758",
+      "size": 107276,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0a79aa46e68644a0b57eb0f061121ded"
+    }
+  ],
+  "catalogNs": null
 }

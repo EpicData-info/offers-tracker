@@ -1,52 +1,123 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-28T15:00:00.000Z",
-  "creationDate": "2020-03-24T20:58:43.088Z",
-  "lastModifiedDate": "2020-05-29T19:32:06.634Z",
-  "viewableDate": null,
-  "productSlug": "sid-meiers-civilization-vi/platinum-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Sid Meier's Civilization VI : Platinum Edition",
   "id": "9cf93671754649668f7a043b6200ff9b",
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "title": "Sid Meier's Civilization VI : Platinum Edition",
   "description": "Sid Meier's Civilization VI : Platinum Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg"
-    }
-  ],
+  "productSlug": "sid-meiers-civilization-vi/platinum-edition",
+  "urlSlug": "kingletplatinumedition",
+  "creationDate": "2020-03-24T20:58:43.088Z",
+  "lastModifiedDate": "2020-05-29T19:32:06.634Z",
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d071707490764c32972609373cd6ad92",
-      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "313a52ab4d664e9dad6b545d1fa8500f",
-      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-05-29T19:32:06.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-05-29T19:32:06.752Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -67,17 +138,51 @@
       "value": "sid-meiers-civilization-vi/platinum-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S1-2560x1440-377e869fc8f4efea4ff996b406859a4f.jpg",
+      "md5": "377e869fc8f4efea4ff996b406859a4f",
+      "size": 1021049,
+      "uploadedDate": "2020-05-19T18:06:00.235Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg",
+      "md5": "67715a33899e9a531cfff3a99385ebe8",
+      "size": 977037,
+      "uploadedDate": "2020-05-19T18:06:08.461Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg",
+      "md5": "67715a33899e9a531cfff3a99385ebe8",
+      "size": 977037,
+      "uploadedDate": "2020-05-19T18:06:20.008Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIPlatinumEdition_FiraxisGames_Bundles_S2-1200x1600-67715a33899e9a531cfff3a99385ebe8.jpg",
+      "md5": "67715a33899e9a531cfff3a99385ebe8",
+      "size": 977037,
+      "uploadedDate": "2020-05-19T18:06:27.954Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d071707490764c32972609373cd6ad92"
+    },
+    {
+      "id": "313a52ab4d664e9dad6b545d1fa8500f"
+    }
+  ],
+  "catalogNs": null
 }

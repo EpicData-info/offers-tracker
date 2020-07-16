@@ -1,59 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-25T10:00:00.000Z",
-  "creationDate": "2019-07-10T18:52:46.671Z",
-  "lastModifiedDate": "2020-06-26T16:49:27.063Z",
-  "viewableDate": null,
-  "productSlug": "moonlighter/dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Moonlighter Beyond Dimensions",
   "id": "d829daa17afb4e06b7004539520c723d",
   "namespace": "bec822fb982843c3be794d440728336b",
+  "title": "Moonlighter Beyond Dimensions",
   "description": "Moonlighter Beyond Dimensions",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/CodeRedemptionMoonlighterDLC-340x440-0e5c617dc29311418d17850d4c946977.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_LandscapeImage-2560x1440-2905879d3431602b0387e407994165d1.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_PortraitImage-1200x1600-acb1d7ab9d8163f307281bc9b8e46f57.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_PortraitImage-1200x1600-acb1d7ab9d8163f307281bc9b8e46f57.jpg"
-    }
-  ],
+  "productSlug": "moonlighter/dlc",
+  "urlSlug": "dlc",
+  "creationDate": "2019-07-10T18:52:46.671Z",
+  "lastModifiedDate": "2020-06-26T16:49:27.063Z",
+  "effectiveDate": "2019-07-25T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-z8janbuqt5zvnkqwm35kc9wtdzxkhr",
     "name": "11 Bit Studios"
   },
-  "items": [
-    {
-      "id": "039e5fc020ee40edbdcc24850fc6948b",
-      "namespace": "bec822fb982843c3be794d440728336b",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "{}"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "moonlighter/dlc"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -68,6 +37,59 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "moonlighter/dlc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/CodeRedemptionMoonlighterDLC-340x440-0e5c617dc29311418d17850d4c946977.jpg",
+      "md5": "0e5c617dc29311418d17850d4c946977",
+      "size": 147436,
+      "uploadedDate": "2019-07-16T18:30:46.059Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_LandscapeImage-2560x1440-2905879d3431602b0387e407994165d1.jpg",
+      "md5": "2905879d3431602b0387e407994165d1",
+      "size": 1926063,
+      "uploadedDate": "2020-04-27T15:33:42.279Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_PortraitImage-1200x1600-acb1d7ab9d8163f307281bc9b8e46f57.jpg",
+      "md5": "acb1d7ab9d8163f307281bc9b8e46f57",
+      "size": 1410317,
+      "uploadedDate": "2020-04-27T15:34:05.367Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/bec822fb982843c3be794d440728336b/offer/EGS_11bitstudios_Moonlighter_PortraitImage-1200x1600-acb1d7ab9d8163f307281bc9b8e46f57.jpg",
+      "md5": "acb1d7ab9d8163f307281bc9b8e46f57",
+      "size": 1410317,
+      "uploadedDate": "2020-04-27T15:34:31.881Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "039e5fc020ee40edbdcc24850fc6948b"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,68 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-27T16:00:00.000Z",
-  "creationDate": "2019-10-28T15:24:24.601Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-origins/the-hidden-ones",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Hidden Ones - DLC",
   "id": "9eab5a9e35034038b04952bf5aa44f41",
   "namespace": "camellia",
+  "title": "The Hidden Ones - DLC",
   "description": "The Hidden Ones - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_THO-330x440-eba176052a1d47510c30d016d915ea2e.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-e1bc3a244ef2cfddefe896c817d5072d.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-1422c66daafd794cc27570dd692ed82255b07633.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-origins/the-hidden-ones",
+  "urlSlug": "tho-dlc-audience-redeemable",
+  "creationDate": "2019-10-28T15:24:24.601Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "1f3273a8902542a699288308fed2e1a2",
-      "namespace": "camellia",
-      "developer": null
-    },
-    {
-      "id": "46c78cf106374960a0b04d9dfa34daae",
-      "namespace": "camellia",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "assassins-creed-origins/the-hidden-ones"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -77,6 +37,66 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-origins/the-hidden-ones"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.710Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_THO-330x440-eba176052a1d47510c30d016d915ea2e.jpg",
+      "md5": "eba176052a1d47510c30d016d915ea2e",
+      "size": 192331,
+      "uploadedDate": "2019-11-26T17:36:15.274Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-e1bc3a244ef2cfddefe896c817d5072d.jpg",
+      "md5": "e1bc3a244ef2cfddefe896c817d5072d",
+      "size": 386080,
+      "uploadedDate": "2019-11-26T17:36:33.689Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-1422c66daafd794cc27570dd692ed82255b07633.jpg",
+      "md5": "8d30a8a3348f45fdc356b9c43175f028",
+      "size": 272711,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "1f3273a8902542a699288308fed2e1a2"
+    },
+    {
+      "id": "46c78cf106374960a0b04d9dfa34daae"
+    }
+  ],
+  "catalogNs": null
 }

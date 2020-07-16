@@ -1,59 +1,126 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-04T00:00:00.000Z",
-  "creationDate": "2019-06-14T04:01:59.453Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "overcooked/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overcooked",
   "id": "e9428ad618aa45f4b3371b8c8c4f9de9",
   "namespace": "4561b40e52584ac2bcf34bbd5c401480",
+  "title": "Overcooked",
   "description": "Overcooked",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg"
-    }
-  ],
+  "productSlug": "overcooked/home",
+  "urlSlug": "sagegeneralaudience",
+  "creationDate": "2019-06-14T04:01:59.453Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-07-04T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "407abe035be74f159ae6548e85273576",
-      "namespace": "4561b40e52584ac2bcf34bbd5c401480",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +141,75 @@
       "value": "overcooked/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+      "md5": "71b09e2be137632b45871b92f6e13ed9",
+      "size": 142326,
+      "uploadedDate": "2019-06-25T19:16:37.396Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
+      "md5": "9bcad6d74ed9e54433c84f933aecf0f0",
+      "size": 104216,
+      "uploadedDate": "2019-06-25T19:16:52.497Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Overcooked_Logo-2650x602-fca007cbbe1be0a8d54b8ca2a0edc510.png",
+      "md5": "fca007cbbe1be0a8d54b8ca2a0edc510",
+      "size": 247313,
+      "uploadedDate": "2019-08-02T18:15:01.383Z",
+      "width": 2650,
+      "height": 602
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Overcooked-portrait-1280x1440-9bcad6d74ed9e54433c84f933aecf0f0.jpg",
+      "md5": "9bcad6d74ed9e54433c84f933aecf0f0",
+      "size": 104216,
+      "uploadedDate": "2019-06-25T19:16:52.497Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg",
+      "md5": "8d9f059d57ef37c100098ff7fa870987",
+      "size": 61885,
+      "uploadedDate": "2019-06-25T18:17:00.638Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4561b40e52584ac2bcf34bbd5c401480/offer/CodeRedemption_Overcooked-330x440-8d9f059d57ef37c100098ff7fa870987.jpg",
+      "md5": "8d9f059d57ef37c100098ff7fa870987",
+      "size": 61885,
+      "uploadedDate": "2019-06-25T18:17:07.596Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/PDP Promo-2560x1440-71b09e2be137632b45871b92f6e13ed9.jpg",
+      "md5": "71b09e2be137632b45871b92f6e13ed9",
+      "size": 142326,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "407abe035be74f159ae6548e85273576"
+    }
+  ],
+  "catalogNs": null
 }

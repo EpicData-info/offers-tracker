@@ -1,59 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-27T08:00:00.000Z",
-  "creationDate": "2019-03-28T02:44:27.463Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "operencia/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Operencia: The Stolen Sun",
   "id": "026a40a759d2474e97d57099ef8d6c75",
   "namespace": "lily",
+  "title": "Operencia: The Stolen Sun",
   "description": "Operencia: The Stolen Sun",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Operencia_logo_color-1920x700-77a0655e21edad9d3b41001f6e75a5f2.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg"
-    }
-  ],
+  "productSlug": "operencia/home",
+  "urlSlug": "operencia-the-stolen-sun",
+  "creationDate": "2019-03-28T02:44:27.463Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-03-27T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
     "name": "Zen Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "20073cda15ff4d2fb0cd7b1cdce00f06",
-      "namespace": "lily",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1265",
+      "name": "DUNGEON CRAWLER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2020-07-16T14:24:42.090Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +125,75 @@
       "value": "operencia/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg",
+      "md5": "da4c78667987fdbb8b4af27c7a895c09",
+      "size": 389239,
+      "uploadedDate": "2019-01-28T20:16:18.974Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg",
+      "md5": "c30709602fe7ba6ebc9a89c620bace60",
+      "size": 229438,
+      "uploadedDate": "2019-01-28T20:16:29.455Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Operencia_logo_color-1920x700-77a0655e21edad9d3b41001f6e75a5f2.png",
+      "md5": "77a0655e21edad9d3b41001f6e75a5f2",
+      "size": 190751,
+      "uploadedDate": "2019-03-08T13:32:16.075Z",
+      "width": 1920,
+      "height": 700
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_PortraitPromo-1280x1420-c30709602fe7ba6ebc9a89c620bace60.jpg",
+      "md5": "c30709602fe7ba6ebc9a89c620bace60",
+      "size": 229438,
+      "uploadedDate": "2019-01-28T20:16:29.455Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-04-23T21:04:23.703Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lily/offer/Operencia_CodeRedemption-330x440-4b8d45d3326b8c7d616f837afaf5dfe6.png",
+      "md5": "4b8d45d3326b8c7d616f837afaf5dfe6",
+      "size": 72768,
+      "uploadedDate": "2019-04-23T21:04:32.810Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Operencia_2580x1450_Promo-2580x1450-da4c78667987fdbb8b4af27c7a895c09.jpg",
+      "md5": "da4c78667987fdbb8b4af27c7a895c09",
+      "size": 389239,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "20073cda15ff4d2fb0cd7b1cdce00f06"
+    }
+  ],
+  "catalogNs": null
 }

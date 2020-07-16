@@ -1,70 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-09-06T00:00:00.000Z",
-  "creationDate": "2019-09-03T22:05:36.505Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
-  "viewableDate": null,
-  "productSlug": "trials-rising/expansion-pass",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Trials Rising - Expansion Pass",
   "id": "f2c9d2db42e045c089c0a33b7989c944",
   "namespace": "argyle",
+  "title": "Trials Rising - Expansion Pass",
   "description": "Trials Rising - Expansion Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/argyle/offer/TR_EP_DLC_Capsule_355x150-355x150-c4ad7e695baf6b65de3cc5467c955f81.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/argyle/offer/ExpansionPass_Store_Primary_Promo-2580x1450-913feced20936545dc95ed8ec5814c7a66e977b1.jpg"
-    }
-  ],
+  "productSlug": "trials-rising/expansion-pass",
+  "urlSlug": "argyleepass",
+  "creationDate": "2019-09-03T22:05:36.505Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "effectiveDate": "2019-09-06T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "c1b80fce35bb448bac9852477e736aa0",
-      "namespace": "argyle",
-      "developer": null
-    },
-    {
-      "id": "6ce5cfe2944c4589bdd1a3096473e764",
-      "namespace": "argyle",
-      "developer": null
-    },
-    {
-      "id": "21c74e322ab742ba8f3cbe959e6328a6",
-      "namespace": "argyle",
-      "developer": null
-    },
-    {
-      "id": "7d415dae44b0458982654e9204cdfd53",
-      "namespace": "argyle",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "[]"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "trials-rising/expansion-pass"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "bundles"
@@ -79,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trials-rising/expansion-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/argyle/offer/TR_EP_DLC_Capsule_355x150-355x150-c4ad7e695baf6b65de3cc5467c955f81.png",
+      "md5": "c4ad7e695baf6b65de3cc5467c955f81",
+      "size": 61237,
+      "uploadedDate": "2019-09-10T04:55:56.233Z",
+      "width": 355,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/argyle/offer/ExpansionPass_Store_Primary_Promo-2580x1450-913feced20936545dc95ed8ec5814c7a66e977b1.jpg",
+      "md5": "da382ab4a8c6ded473677691e87df7ef",
+      "size": 396056,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "c1b80fce35bb448bac9852477e736aa0"
+    },
+    {
+      "id": "6ce5cfe2944c4589bdd1a3096473e764"
+    },
+    {
+      "id": "21c74e322ab742ba8f3cbe959e6328a6"
+    },
+    {
+      "id": "7d415dae44b0458982654e9204cdfd53"
+    }
+  ],
+  "catalogNs": null
 }

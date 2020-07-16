@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-26T20:26:00.000Z",
-  "creationDate": "2018-11-27T01:36:26.197Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": "2018-11-26T20:26:00.000Z",
-  "productSlug": "outerwilds",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Outer Wilds",
   "id": "eadfe2cf37f545a3abb8ac63e961123c",
   "namespace": "epic",
+  "title": "Outer Wilds",
   "description": "Outer Wilds",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/outerwilds1290x725 (1)-1290x725-930b33ddbd98f10b26d8d2bd72551095.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Outerwilds_tall-853x960-58dc805f1fe053e7cad4406d3b801f8a.png"
-    }
-  ],
+  "productSlug": "outerwilds",
+  "urlSlug": "outer-wilds",
+  "creationDate": "2018-11-27T01:36:26.197Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-11-26T20:26:00.000Z",
+  "viewableDate": "2018-11-26T20:26:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": "5a1f3f34df1f4c21850b997aa08da19e",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1281",
+      "name": "SPACE SIM",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2020-04-02T01:42:00.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +124,39 @@
       "value": "5a1f3f34df1f4c21850b997aa08da19e"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/OW_Logo_MainOrange-01-1501x700-bf592e4fe986130cee68604ec4059e03.png",
+      "md5": "bf592e4fe986130cee68604ec4059e03",
+      "size": 70702,
+      "uploadedDate": "2018-11-29T17:47:27.531Z",
+      "width": 1501,
+      "height": 700
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/outerwilds1290x725 (1)-1290x725-930b33ddbd98f10b26d8d2bd72551095.png",
+      "md5": "930b33ddbd98f10b26d8d2bd72551095",
+      "size": 215896,
+      "uploadedDate": "2018-12-06T21:38:50.791Z",
+      "width": 1290,
+      "height": 725
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Outerwilds_tall-853x960-58dc805f1fe053e7cad4406d3b801f8a.png",
+      "md5": "58dc805f1fe053e7cad4406d3b801f8a",
+      "size": 236287,
+      "uploadedDate": "2019-03-27T15:03:35.633Z",
+      "width": 853,
+      "height": 960
     }
   ],
-  "linkedOfferId": "5a1f3f34df1f4c21850b997aa08da19e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Annapurna Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Mobius Digital"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "outerwilds"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

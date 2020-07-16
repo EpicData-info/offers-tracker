@@ -1,55 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-29T16:24:16.749Z",
-  "lastModifiedDate": "2020-07-01T14:33:22.211Z",
-  "viewableDate": "2020-07-01T15:00:00.000Z",
-  "productSlug": "the-dungeon-of-naheulbeuk",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Dungeon of Naheulbeuk",
   "id": "4d6f7c738cb6468d8fccce3de8d5d02e",
   "namespace": "456d95ca54814c8d98db2f52346ff5de",
+  "title": "The Dungeon of Naheulbeuk",
   "description": "The Dungeon of Naheulbeuk",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg"
-    }
-  ],
+  "productSlug": "the-dungeon-of-naheulbeuk",
+  "urlSlug": "sarajevogeneralaudience",
+  "creationDate": "2020-06-29T16:24:16.749Z",
+  "lastModifiedDate": "2020-07-01T14:33:22.211Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
     "name": "Plug In Digital SAS"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9ef12d1bf8ee4e9296476234a8049ddf",
-      "namespace": "456d95ca54814c8d98db2f52346ff5de",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +129,66 @@
       "value": "the-dungeon-of-naheulbeuk"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
+      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
+      "size": 976796,
+      "uploadedDate": "2020-06-29T19:48:25.425Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:48:35.985Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:48:57.613Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:49:23.685Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
+      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
+      "size": 976796,
+      "uploadedDate": "2020-06-29T19:50:14.626Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
+      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
+      "size": 872674,
+      "uploadedDate": "2020-06-29T19:50:28.038Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9ef12d1bf8ee4e9296476234a8049ddf"
+    }
+  ],
+  "catalogNs": null
 }

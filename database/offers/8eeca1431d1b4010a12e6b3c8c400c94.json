@@ -1,57 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-11T19:11:49.282Z",
-  "lastModifiedDate": "2020-05-12T16:01:06.663Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tony Hawk's™ Pro Skater™ 1 + 2 Deluxe",
   "id": "8eeca1431d1b4010a12e6b3c8c400c94",
   "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
+  "title": "Tony Hawk's™ Pro Skater™ 1 + 2 Deluxe",
   "description": "GuppyDeluxeAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "guppydeluxeaudience",
+  "creationDate": "2020-05-11T19:11:49.282Z",
+  "lastModifiedDate": "2020-05-12T16:01:06.663Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-s5myyzhdfhxwftmvf55ph3eu6fbqpz",
     "name": "Activision Publishing, Inc"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c77bbf6a991a4a9da878917f6fe8724c",
-      "namespace": "deab864e1abf4357b303bcd5ff6fe8da",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -66,14 +46,66 @@
       "value": "Vicarious Visions"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg",
+      "md5": "a9916b2a834cb85985de4e5761945380",
+      "size": 504625,
+      "uploadedDate": "2020-05-11T20:28:22.160Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T20:28:36.078Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T20:28:47.335Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T20:28:56.705Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S1-2560x1440-a9916b2a834cb85985de4e5761945380.jpg",
+      "md5": "a9916b2a834cb85985de4e5761945380",
+      "size": 504625,
+      "uploadedDate": "2020-05-11T20:29:19.986Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/deab864e1abf4357b303bcd5ff6fe8da/offer/EGS_TonyHawksProSkater12DeluxeEdition_VicariousVisions_Editions_S2-1200x1600-5ec79db43ace1a0775330809d8007fc2.jpg",
+      "md5": "5ec79db43ace1a0775330809d8007fc2",
+      "size": 469334,
+      "uploadedDate": "2020-05-11T20:29:29.442Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "c77bbf6a991a4a9da878917f6fe8724c"
+    }
+  ],
+  "catalogNs": null
 }

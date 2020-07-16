@@ -1,45 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-15T15:00:00.000Z",
-  "creationDate": "2020-01-09T19:34:17.056Z",
-  "lastModifiedDate": "2020-05-11T17:07:44.624Z",
-  "viewableDate": null,
-  "productSlug": "overpass/expert-vehicles-pack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Overpass Expert Vehicles Pack",
   "id": "2f1232a6d4fd4240be84d567fd48f662",
   "namespace": "90c3f58497da48d789cc39bff57dc2f4",
+  "title": "Overpass Expert Vehicles Pack",
   "description": "Overpass Expert Vehicles Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC2_EXPERT_VEHICLE_PACK_DLC_DesktopHorizontal-1360x766-4c7da9d5629b4e41308260f7f811d46f.JPG"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC2_EXPERT_VEHICLE_PACK_DLC_MobileVertical-510x680-9d1acc12edf386084baedf3adaf82cc3.JPG"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_Expert_wide-1360x766-e8a5bcae715d2862962b9c0065b60beb.jpg"
-    }
-  ],
+  "productSlug": "overpass/expert-vehicles-pack",
+  "urlSlug": "sandpiperexpertvehiclespackaudience",
+  "creationDate": "2020-01-09T19:34:17.056Z",
+  "lastModifiedDate": "2020-05-11T17:07:44.624Z",
+  "effectiveDate": "2020-01-15T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
     "name": "Bigben Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fc45d4b5b60c459b8b2497b68012551b",
-      "namespace": "90c3f58497da48d789cc39bff57dc2f4",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -58,20 +56,39 @@
       "value": "overpass/expert-vehicles-pack"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC2_EXPERT_VEHICLE_PACK_DLC_DesktopHorizontal-1360x766-4c7da9d5629b4e41308260f7f811d46f.JPG",
+      "md5": "4c7da9d5629b4e41308260f7f811d46f",
+      "size": 775086,
+      "uploadedDate": "2020-01-15T21:17:42.433Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/EGS_Bigben_DLC2_EXPERT_VEHICLE_PACK_DLC_MobileVertical-510x680-9d1acc12edf386084baedf3adaf82cc3.JPG",
+      "md5": "9d1acc12edf386084baedf3adaf82cc3",
+      "size": 367191,
+      "uploadedDate": "2020-01-15T21:17:55.803Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/90c3f58497da48d789cc39bff57dc2f4/offer/Overpass_Expert_wide-1360x766-e8a5bcae715d2862962b9c0065b60beb.jpg",
+      "md5": "e8a5bcae715d2862962b9c0065b60beb",
+      "size": 295468,
+      "uploadedDate": "2020-03-06T14:55:29.305Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fc45d4b5b60c459b8b2497b68012551b"
+    }
+  ],
+  "catalogNs": null
 }

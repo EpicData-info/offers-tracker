@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-18T12:23:00.000Z",
-  "creationDate": "2019-03-18T16:23:51.136Z",
-  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RoseDevAudience",
   "id": "309c36366e0842e296086b3ba1897bef",
   "namespace": "rose",
+  "title": "RoseDevAudience",
   "description": "RoseDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "rosedevaudience",
+  "creationDate": "2019-03-18T16:23:51.136Z",
+  "lastModifiedDate": "2020-04-29T00:38:48.093Z",
+  "effectiveDate": "2020-03-18T12:23:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-na388hs5k2ak86akfejt2es246vaa2",
     "name": "Gwen Frey"
   },
-  "items": [
-    {
-      "id": "fd44126cc95e4bf2bfe07c24f9913423",
-      "namespace": "rose",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -45,6 +31,32 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg",
+      "md5": "e6b91aad399ea3b309a577223aab8a0a",
+      "size": 167334,
+      "uploadedDate": "2019-08-01T18:03:04.177Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rose/offer/CodeRedemption_Kine-340x440-e6b91aad399ea3b309a577223aab8a0a.jpg",
+      "md5": "e6b91aad399ea3b309a577223aab8a0a",
+      "size": 167334,
+      "uploadedDate": "2019-08-01T18:03:11.362Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "fd44126cc95e4bf2bfe07c24f9913423"
+    }
+  ],
+  "catalogNs": null
 }

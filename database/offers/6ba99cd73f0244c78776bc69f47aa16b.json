@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-25T08:00:00.000Z",
-  "creationDate": "2019-10-14T22:57:25.704Z",
-  "lastModifiedDate": "2020-05-12T15:48:02.659Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Tom Clancy's The Division 2 - Trial Weekend",
   "id": "6ba99cd73f0244c78776bc69f47aa16b",
   "namespace": "impala",
+  "title": "Tom Clancy's The Division 2 - Trial Weekend",
   "description": "Tom Clancy's The Division 2 - Trial Weekend",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_HeroBanner_3840x2160_UK-3840x2160-d1df1b9189c6b9aa878bd78baadab900.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-f784f5581ef2409cdf99b44ce7535de5.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "impalatrialaudience",
+  "creationDate": "2019-10-14T22:57:25.704Z",
+  "lastModifiedDate": "2020-05-12T15:48:02.659Z",
+  "effectiveDate": "2020-02-25T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "8f43bcd2d54c4483ab97b359f9fd6473",
-      "namespace": "impala",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN"
-    },
-    {
-      "key": "developerName",
-      "value": "Ubisoft"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games/trial"
@@ -57,6 +34,41 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_HeroBanner_3840x2160_UK-3840x2160-d1df1b9189c6b9aa878bd78baadab900.jpg",
+      "md5": "d1df1b9189c6b9aa878bd78baadab900",
+      "size": 4880279,
+      "uploadedDate": "2020-02-21T21:41:14.507Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-f784f5581ef2409cdf99b44ce7535de5.jpg",
+      "md5": "f784f5581ef2409cdf99b44ce7535de5",
+      "size": 356184,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
+    }
+  ],
+  "items": [
+    {
+      "id": "8f43bcd2d54c4483ab97b359f9fd6473"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,59 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-05-13T08:00:00.000Z",
-  "creationDate": "2019-05-02T19:22:07.969Z",
-  "lastModifiedDate": "2020-04-02T01:42:23.106Z",
-  "viewableDate": null,
-  "productSlug": "the-pathless/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Pathless",
   "id": "6820f3467b8a4d2aa9b7d76d0fa9f441",
   "namespace": "a9dad8af015a422eb89a5f88e6def923",
+  "title": "The Pathless",
   "description": "The Pathless",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/ThePathlessLogo-2650x671-c2b3413fdb59ddeb44a369f1850009f3.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg"
-    }
-  ],
+  "productSlug": "the-pathless/home",
+  "urlSlug": "geumgeneralaudience",
+  "creationDate": "2019-05-02T19:22:07.969Z",
+  "lastModifiedDate": "2020-04-02T01:42:23.106Z",
+  "effectiveDate": "2050-05-13T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3a8c57519e1845aa97f6b874bbee6be1",
-      "namespace": "a9dad8af015a422eb89a5f88e6def923",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +93,75 @@
       "value": "the-pathless/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg",
+      "md5": "6c37c31d560f010e2b4cee5c362d5b6d",
+      "size": 545305,
+      "uploadedDate": "2019-05-13T20:39:56.497Z",
+      "width": 1800,
+      "height": 1012
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg",
+      "md5": "93859815e4b2bc614511ae7a97bee8b9",
+      "size": 544082,
+      "uploadedDate": "2019-05-13T20:40:27.446Z",
+      "width": 1623,
+      "height": 1800
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/ThePathlessLogo-2650x671-c2b3413fdb59ddeb44a369f1850009f3.png",
+      "md5": "c2b3413fdb59ddeb44a369f1850009f3",
+      "size": 200297,
+      "uploadedDate": "2019-08-02T18:49:09.380Z",
+      "width": 2650,
+      "height": 671
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePortraitPromo-1623x1800-93859815e4b2bc614511ae7a97bee8b9.jpg",
+      "md5": "93859815e4b2bc614511ae7a97bee8b9",
+      "size": 544082,
+      "uploadedDate": "2019-05-13T20:40:27.446Z",
+      "width": 1623,
+      "height": 1800
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png",
+      "md5": "7c0edbb4e61b0be2e2b4a969c5ac8d14",
+      "size": 234599,
+      "uploadedDate": "2019-05-17T21:36:27.236Z",
+      "width": 1080,
+      "height": 607
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a9dad8af015a422eb89a5f88e6def923/offer/thepathless_NewsfeedSecondaryPromo-1080x607-7c0edbb4e61b0be2e2b4a969c5ac8d14.png",
+      "md5": "7c0edbb4e61b0be2e2b4a969c5ac8d14",
+      "size": 234599,
+      "uploadedDate": "2019-05-17T21:36:35.594Z",
+      "width": 1080,
+      "height": 607
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/thepathless_StorePrimaryPromo-1800x1012-6c37c31d560f010e2b4cee5c362d5b6d.jpg",
+      "md5": "6c37c31d560f010e2b4cee5c362d5b6d",
+      "size": 545305,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1800,
+      "height": 1012
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3a8c57519e1845aa97f6b874bbee6be1"
+    }
+  ],
+  "catalogNs": null
 }

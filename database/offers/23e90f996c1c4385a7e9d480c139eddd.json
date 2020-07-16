@@ -1,66 +1,63 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-10-14T15:00:00.000Z",
-  "creationDate": "2019-09-27T20:58:25.318Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "watch-dogs-2/gold-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Watch Dogs 2 Gold Edition",
   "id": "23e90f996c1c4385a7e9d480c139eddd",
   "namespace": "angelonia",
+  "title": "Watch Dogs 2 Gold Edition",
   "description": "Watch Dogs 2 Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-gold-Capsule-1920x1080-cbd24776f4e0d305dab327fb98304e52d5740323.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg"
-    }
-  ],
+  "productSlug": "watch-dogs-2/gold-edition",
+  "urlSlug": "watch-dogs-2-gold-edition",
+  "creationDate": "2019-09-27T20:58:25.318Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-10-14T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d1e7e0ad31bb46788243403ec49352d0",
-      "namespace": "angelonia",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "c7b4d3700b3b4a2ea73b08bb93c2ed3c",
-      "namespace": "angelonia",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "df5cd3b2af324cbdad45d1cc43c4fb64",
-      "namespace": "angelonia",
-      "developer": null
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
     },
     {
-      "id": "966e307240204fc89efae37b367489f9",
-      "namespace": "angelonia",
-      "developer": null
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -77,17 +74,66 @@
       "value": "watch-dogs-2/gold-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/angelonia/item/ESRB_Watchdogs2-842x404-09ee882d5192121844c1881fe624e49e.jpg",
+      "md5": "09ee882d5192121844c1881fe624e49e",
+      "size": 81686,
+      "uploadedDate": "2019-04-23T20:08:18.782Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg",
+      "md5": "a51034594442ecbd884df5742ad42cbf",
+      "size": 176051,
+      "uploadedDate": "2019-09-27T20:58:45.697Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg",
+      "md5": "a51034594442ecbd884df5742ad42cbf",
+      "size": 176051,
+      "uploadedDate": "2019-09-27T20:58:54.774Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2-gold-Capsule-1920x1080-cbd24776f4e0d305dab327fb98304e52d5740323.jpg",
+      "md5": "12a41e1c7e75dbeef83a42c3c2d7e1c4",
+      "size": 286050,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/angelonia/offer/WD2Gold_CodeRedemption-340x440-a51034594442ecbd884df5742ad42cbf.jpg",
+      "md5": "a51034594442ecbd884df5742ad42cbf",
+      "size": 176051,
+      "uploadedDate": "2020-04-10T17:12:53.337Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d1e7e0ad31bb46788243403ec49352d0"
+    },
+    {
+      "id": "c7b4d3700b3b4a2ea73b08bb93c2ed3c"
+    },
+    {
+      "id": "df5cd3b2af324cbdad45d1cc43c4fb64"
+    },
+    {
+      "id": "966e307240204fc89efae37b367489f9"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,51 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-07-12T17:00:00.000Z",
-  "creationDate": "2019-07-15T21:08:56.304Z",
-  "lastModifiedDate": "2019-08-05T08:36:44.485Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tetris® Effect Press",
   "id": "2541220eb839485e9621354249ed10cd",
   "namespace": "76339caf9e8e4d24b62761c736e82b42",
+  "title": "Tetris® Effect Press",
   "description": "Tetris® Effect Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "kiwidlc1-01",
+  "creationDate": "2019-07-15T21:08:56.304Z",
+  "lastModifiedDate": "2019-08-05T08:36:44.485Z",
+  "effectiveDate": "2019-07-12T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4bn3uqfwdgdmnx9yfdauv57gqcjzqn",
     "name": "Enhance, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6a74b3002a064e769252292402f61898",
-      "namespace": "76339caf9e8e4d24b62761c736e82b42",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "c83ae4285d894e738f59e76d68252aa6",
-      "namespace": "76339caf9e8e4d24b62761c736e82b42",
-      "developer": null
-    },
-    {
-      "id": "ba372498a3ab45039238f779df5380ec",
-      "namespace": "76339caf9e8e4d24b62761c736e82b42",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -60,14 +46,36 @@
       "value": "Monstars Inc. and Resonair"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
+      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
+      "size": 241405,
+      "uploadedDate": "2019-07-15T21:10:27.363Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/76339caf9e8e4d24b62761c736e82b42/offer/CodeRedemptionTemplate-340x440-ce806284f86ad1a87375e9dcd5c6bc66.jpg",
+      "md5": "ce806284f86ad1a87375e9dcd5c6bc66",
+      "size": 241405,
+      "uploadedDate": "2019-07-15T21:10:35.096Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6a74b3002a064e769252292402f61898"
+    },
+    {
+      "id": "c83ae4285d894e738f59e76d68252aa6"
+    },
+    {
+      "id": "ba372498a3ab45039238f779df5380ec"
+    }
+  ],
+  "catalogNs": null
 }

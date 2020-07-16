@@ -1,43 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-07-08T15:00:00.000Z",
-  "creationDate": "2019-10-08T01:37:44.788Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "q-u-b-e-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Q.U.B.E.2",
   "id": "7b779d493edc43b7bf12dd5650dabd49",
   "namespace": "epic",
+  "title": "Q.U.B.E.2",
   "description": "Q.U.B.E.2 QUBE QUBE2 2 QU QUB",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg"
-    }
-  ],
+  "productSlug": "q-u-b-e-2/home",
+  "urlSlug": "q-u-b-e",
+  "creationDate": "2019-10-08T01:37:44.788Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-07-08T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-kk34ewvmscclj5a2ukx49ff6qknn7a",
     "name": "Ten Hut Games"
   },
-  "items": [
+  "linkedOfferId": "0c8b6d95ff2746648ccd356dbf941c12",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +124,39 @@
       "value": "0c8b6d95ff2746648ccd356dbf941c12"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_IC1_COLOUR-1920x1080-891789d632a30ac0fd0a9c46069c53fe.png",
+      "md5": "891789d632a30ac0fd0a9c46069c53fe",
+      "size": 26596,
+      "uploadedDate": "2019-10-08T01:34:05.154Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_G1-2560x1440-d2b89622979482c7b0a632306800b950.jpg",
+      "md5": "d2b89622979482c7b0a632306800b950",
+      "size": 312776,
+      "uploadedDate": "2019-10-08T01:34:25.311Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_TOXICGAMES_QUBE2_S3-1280x1440-46972907facb08bd09cf75ec31c27168.jpg",
+      "md5": "46972907facb08bd09cf75ec31c27168",
+      "size": 156131,
+      "uploadedDate": "2019-10-08T01:34:38.233Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "0c8b6d95ff2746648ccd356dbf941c12",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Ten Hut Games"
-      },
-      {
-        "key": "developerName",
-        "value": "Toxic Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "q-u-b-e-2"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

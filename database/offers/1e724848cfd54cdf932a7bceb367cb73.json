@@ -1,45 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-04-21T12:45:00.000Z",
-  "creationDate": "2019-02-22T18:01:52.497Z",
-  "lastModifiedDate": "2020-07-08T12:44:14.303Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Cycle Early Access",
   "id": "1e724848cfd54cdf932a7bceb367cb73",
   "namespace": "azalea",
+  "title": "The Cycle Early Access",
   "description": "The Cycle Early Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "azaleageneralaudience",
+  "creationDate": "2019-02-22T18:01:52.497Z",
+  "lastModifiedDate": "2020-07-08T12:44:14.303Z",
+  "effectiveDate": "2050-04-21T12:45:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-w7z3vpqhq54t3gbwybuzlmx7xh3355",
     "name": "YAGER"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "b05bf8a625394adaabfa9bd89c2ffb14",
-      "namespace": "azalea",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -50,14 +42,39 @@
       "value": "YAGER"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2019-06-20T18:51:40.507Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2019-06-20T18:51:47.079Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/CodeRedemptionTheCycle-340x440-025af08795b0b918ea20b39b850c830b-340x440-025af08795b0b918ea20b39b850c830b.png",
+      "md5": "025af08795b0b918ea20b39b850c830b",
+      "size": 296461,
+      "uploadedDate": "2020-05-13T14:27:23.127Z",
+      "width": 340,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "b05bf8a625394adaabfa9bd89c2ffb14"
+    }
+  ],
+  "catalogNs": null
 }

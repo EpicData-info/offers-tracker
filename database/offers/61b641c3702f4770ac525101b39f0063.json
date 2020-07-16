@@ -1,71 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-26T16:00:00.000Z",
-  "creationDate": "2019-12-03T17:46:26.681Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "faster-than-light/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Faster Than Light",
   "id": "61b641c3702f4770ac525101b39f0063",
   "namespace": "f7dc1618d0bd4810a61f50d44333900e",
+  "title": "Faster Than Light",
   "description": "Faster Than Light",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S3-1360x766-15ef01276cd5af80502befbea772aef3.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S4-510x680-d7dc55fdf50128a3f3a8f7a8e770b631.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_IC1-200x200-7c03cdcea4b4fe781c576203488c92b6.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S4-510x680-d7dc55fdf50128a3f3a8f7a8e770b631.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S1-2560x1440-9a253c6217b3fa411e408df3f85d7054.jpg"
-    },
-    {
-      "type": "DieselGameBoxTall",
-      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S2-1280x1440-20315b9b209d15d7841969b0734ada56.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_IC2-128x128-128x128-6d5fa51a522cd712e87b7ede859d2229.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S2-1280x1440-1280x1440-20315b9b209d15d7841969b0734ada56.jpg"
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/ESRB_FasterThanLight-842x404-c27d9dce3ade0e7f6a5f67928390aa4b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S3-1360x766-15ef01276cd5af80502befbea772aef3.jpg"
-    }
-  ],
+  "productSlug": "faster-than-light/home",
+  "urlSlug": "blowfishgeneralaudience",
+  "creationDate": "2019-12-03T17:46:26.681Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2019-12-26T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-y2xjbnp5qy433qzldqbvncb3n8z3l6",
     "name": "Subset Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "fc74c16bfeef4fcfb95b97c87380e15d",
-      "namespace": "f7dc1618d0bd4810a61f50d44333900e",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1281",
+      "name": "SPACE SIM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2020-04-02T01:42:00.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1258",
+      "name": "ROGUE-LIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2020-07-14T14:54:28.065Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -82,20 +128,102 @@
       "value": "faster-than-light/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S3-1360x766-15ef01276cd5af80502befbea772aef3.jpg",
+      "md5": "15ef01276cd5af80502befbea772aef3",
+      "size": 367414,
+      "uploadedDate": "2019-12-07T05:24:38.098Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S4-510x680-d7dc55fdf50128a3f3a8f7a8e770b631.jpg",
+      "md5": "d7dc55fdf50128a3f3a8f7a8e770b631",
+      "size": 200935,
+      "uploadedDate": "2019-12-07T05:24:52.254Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_IC1-200x200-7c03cdcea4b4fe781c576203488c92b6.png",
+      "md5": "7c03cdcea4b4fe781c576203488c92b6",
+      "size": 15211,
+      "uploadedDate": "2019-12-07T05:25:04.372Z",
+      "width": 200,
+      "height": 200
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S4-510x680-d7dc55fdf50128a3f3a8f7a8e770b631.jpg",
+      "md5": "d7dc55fdf50128a3f3a8f7a8e770b631",
+      "size": 200935,
+      "uploadedDate": "2019-12-07T05:24:52.254Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S1-2560x1440-9a253c6217b3fa411e408df3f85d7054.jpg",
+      "md5": "9a253c6217b3fa411e408df3f85d7054",
+      "size": 454714,
+      "uploadedDate": "2019-12-07T04:40:54.014Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxTall",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S2-1280x1440-20315b9b209d15d7841969b0734ada56.jpg",
+      "md5": "20315b9b209d15d7841969b0734ada56",
+      "size": 407828,
+      "uploadedDate": "2019-12-07T04:41:06.522Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_IC2-128x128-128x128-6d5fa51a522cd712e87b7ede859d2229.png",
+      "md5": "6d5fa51a522cd712e87b7ede859d2229",
+      "size": 3343,
+      "uploadedDate": "2019-12-26T15:55:35.728Z",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/EGS_SubsetGames_FTLFasterThanLight_S2-1280x1440-1280x1440-20315b9b209d15d7841969b0734ada56.jpg",
+      "md5": "20315b9b209d15d7841969b0734ada56",
+      "size": 407828,
+      "uploadedDate": "2019-12-26T15:55:47.526Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/f7dc1618d0bd4810a61f50d44333900e/offer/ESRB_FasterThanLight-842x404-c27d9dce3ade0e7f6a5f67928390aa4b.jpg",
+      "md5": "c27d9dce3ade0e7f6a5f67928390aa4b",
+      "size": 23028,
+      "uploadedDate": "2019-12-26T15:56:01.419Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SubsetGames_FTLFasterThanLight_S3-1360x766-15ef01276cd5af80502befbea772aef3.jpg",
+      "md5": "15ef01276cd5af80502befbea772aef3",
+      "size": 367414,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "fc74c16bfeef4fcfb95b97c87380e15d"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,117 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-05T16:00:00.000Z",
-  "creationDate": "2019-09-12T17:03:30.148Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
-  "viewableDate": null,
-  "productSlug": "jotun/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Jotun Valhalla Edition",
   "id": "cbbde99547d54f41b8f7bd5fc46726c5",
   "namespace": "ba3149b6d7a7488ab5cc674154458757",
+  "title": "Jotun Valhalla Edition",
   "description": "Jotun Valhalla Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg"
-    }
-  ],
+  "productSlug": "jotun/home",
+  "urlSlug": "grousegeneralaudience",
+  "creationDate": "2019-09-12T17:03:30.148Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "effectiveDate": "2019-12-05T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-k5nhue2lw5nkaqutyhkwrdl5qjkcd5",
     "name": "Thunder Lotus Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "bfbb9f35a5604d6581690b36d54099b4",
-      "namespace": "ba3149b6d7a7488ab5cc674154458757",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +128,66 @@
       "value": "jotun/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "size": 343052,
+      "uploadedDate": "2019-11-22T03:43:07.950Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "size": 504256,
+      "uploadedDate": "2019-11-22T03:43:15.648Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "size": 343052,
+      "uploadedDate": "2019-11-22T03:43:07.950Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/offer/EGS_ThunderLotus_JotunValhallaEdition_S2-1280x1440-eceef05b236cf920e419b4004d4993e7.jpg",
+      "md5": "eceef05b236cf920e419b4004d4993e7",
+      "size": 343052,
+      "uploadedDate": "2019-11-26T15:54:36.639Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba3149b6d7a7488ab5cc674154458757/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "size": 504256,
+      "uploadedDate": "2019-11-26T15:54:48.912Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ThunderLotus_JotunValhallaEdition_S1-2560x1440-3de6d0151b1c97a08a8579167814682c.jpg",
+      "md5": "3de6d0151b1c97a08a8579167814682c",
+      "size": 504256,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "bfbb9f35a5604d6581690b36d54099b4"
+    }
+  ],
+  "catalogNs": null
 }

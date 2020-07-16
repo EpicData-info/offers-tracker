@@ -1,59 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-04-08T20:00:00.000Z",
-  "creationDate": "2019-04-08T22:14:41.301Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "dangerous-driving/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Dangerous Driving",
   "id": "a31e529d4527419c98a0d36f6ca9ce1d",
   "namespace": "pansy",
+  "title": "Dangerous Driving",
   "description": "Dangerous Driving",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Dangerous_Driving_logo-960x546-35fbdeb9e5c058bf6b24edfcf8ebbe8e.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/pansy/offer/ThumbDangerousDriving-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg"
-    }
-  ],
+  "productSlug": "dangerous-driving/home",
+  "urlSlug": "dangerous-driving",
+  "creationDate": "2019-04-08T22:14:41.301Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2019-04-08T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-f82s3dr485xfmhuuzc2ubtc2j2mdpj",
     "name": "Three Fields Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "11b41a353513473da1aecbc62ea237ff",
-      "namespace": "pansy",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +105,75 @@
       "value": "dangerous-driving/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/Dangerous_Driving_logo-960x546-35fbdeb9e5c058bf6b24edfcf8ebbe8e.png",
+      "md5": "35fbdeb9e5c058bf6b24edfcf8ebbe8e",
+      "size": 232647,
+      "uploadedDate": "2019-03-27T16:06:23.356Z",
+      "width": 960,
+      "height": 546
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg",
+      "md5": "63d7f4a103455f2e42a2d1f83837210e",
+      "size": 228003,
+      "uploadedDate": "2019-08-29T17:54:18.753Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg",
+      "md5": "cdfd9dd9975af50c39fc8c1f2395ffce",
+      "size": 454659,
+      "uploadedDate": "2019-08-29T17:54:31.317Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/PortraitPromo_DangerousDriving-1280x1420-63d7f4a103455f2e42a2d1f83837210e.jpg",
+      "md5": "63d7f4a103455f2e42a2d1f83837210e",
+      "size": 228003,
+      "uploadedDate": "2019-08-29T17:54:18.753Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/pansy/offer/DangerousDriving_CodeRedemption-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg",
+      "md5": "f7b08ee51f6d420374fb74fa25b8f549",
+      "size": 106797,
+      "uploadedDate": "2019-04-09T15:13:57.977Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/pansy/offer/ThumbDangerousDriving-340x440-f7b08ee51f6d420374fb74fa25b8f549.jpg",
+      "md5": "f7b08ee51f6d420374fb74fa25b8f549",
+      "size": 106797,
+      "uploadedDate": "2019-05-02T15:19:51.373Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/SecondaryPromo_DangerousDriving-2580x1450-cdfd9dd9975af50c39fc8c1f2395ffce.jpg",
+      "md5": "cdfd9dd9975af50c39fc8c1f2395ffce",
+      "size": 454659,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "11b41a353513473da1aecbc62ea237ff"
+    }
+  ],
+  "catalogNs": null
 }

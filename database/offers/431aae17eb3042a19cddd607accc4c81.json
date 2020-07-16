@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-12-03T09:00:00.000Z",
-  "creationDate": "2019-12-03T14:03:16.348Z",
-  "lastModifiedDate": "2019-12-17T13:42:35.883Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "BatfishDevAudience",
   "id": "431aae17eb3042a19cddd607accc4c81",
   "namespace": "f2bfff793b224f6190a394f461c9a4b8",
+  "title": "BatfishDevAudience",
   "description": "BatfishDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "batfishdevaudience",
+  "creationDate": "2019-12-03T14:03:16.348Z",
+  "lastModifiedDate": "2019-12-17T13:42:35.883Z",
+  "effectiveDate": "2050-12-03T09:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-pak9zrvrvpnc8qtwjx3z6pllyzph4q",
     "name": "Athlon Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "578266fce6094d3b9daeb4e6db3521c7",
-      "namespace": "f2bfff793b224f6190a394f461c9a4b8",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Athlon Games"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "578266fce6094d3b9daeb4e6db3521c7"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

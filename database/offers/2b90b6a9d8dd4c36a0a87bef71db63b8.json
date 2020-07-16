@@ -1,46 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-04T10:00:00.000Z",
-  "creationDate": "2019-02-21T17:37:53.910Z",
-  "lastModifiedDate": "2020-04-27T05:24:06.425Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Outward Pre-Purchase",
   "id": "2b90b6a9d8dd4c36a0a87bef71db63b8",
   "namespace": "viola",
+  "title": "Outward Pre-Purchase",
   "description": "Outward Pre-Purchase",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "viola",
+  "creationDate": "2019-02-21T17:37:53.910Z",
+  "lastModifiedDate": "2020-04-27T05:24:06.425Z",
+  "effectiveDate": "2019-03-04T10:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4dbfd9eaa642467aac29ec201b496d1c",
-      "namespace": "viola",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "78e91fdb733f4c55a3527ab7c8b8d956",
-      "namespace": "viola",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -59,14 +50,33 @@
       "value": "Nine Dots Studio"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg",
+      "md5": "fb002695d41ed081c3e085c4d0d20216",
+      "size": 85960,
+      "uploadedDate": "2019-04-23T21:23:28.518Z",
+      "width": 330,
+      "height": 392
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_PurchaseImage-330x550-bc6f475a27a98e9471a7292e38cf0b19-330x392-fb002695d41ed081c3e085c4d0d20216.jpg",
+      "md5": "fb002695d41ed081c3e085c4d0d20216",
+      "size": 85960,
+      "uploadedDate": "2019-04-23T21:23:35.941Z",
+      "width": 330,
+      "height": 392
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4dbfd9eaa642467aac29ec201b496d1c"
+    },
+    {
+      "id": "78e91fdb733f4c55a3527ab7c8b8d956"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,55 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-09T15:00:00.000Z",
-  "creationDate": "2020-06-20T00:29:51.156Z",
-  "lastModifiedDate": "2020-07-16T15:02:12.392Z",
-  "viewableDate": "2020-07-02T15:00:00.000Z",
-  "productSlug": "lifeless-planet-premier-edition/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Lifeless Planet: Premier Edition",
   "id": "8891a362aacf45e68b618eced3b4ba00",
   "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
+  "title": "Lifeless Planet: Premier Edition",
   "description": "Lifeless Planet: Premier Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg"
-    }
-  ],
+  "productSlug": "lifeless-planet-premier-edition/home",
+  "urlSlug": "ocicatgeneralaudience",
+  "creationDate": "2020-06-20T00:29:51.156Z",
+  "lastModifiedDate": "2020-07-16T15:02:12.392Z",
+  "effectiveDate": "2020-07-09T15:00:00.000Z",
+  "viewableDate": "2020-07-02T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-256f2bc2a35049a39ceae0f57d01bb",
     "name": "Serenity Forge"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "db20fe07e3334020a0127b3cab733cc8",
-      "namespace": "9ce4c6f216cf43e7ba5eff1045b6e08d",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -70,20 +105,66 @@
       "value": "lifeless-planet-premier-edition/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg",
+      "md5": "a466b8c6b0f8d8b850fdd839216a9ad1",
+      "size": 946704,
+      "uploadedDate": "2020-07-02T14:38:25.929Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg",
+      "md5": "5f4d14bd88796e69a924d7a53d786f8a",
+      "size": 763394,
+      "uploadedDate": "2020-07-02T14:38:32.897Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S1-2560x1440-a466b8c6b0f8d8b850fdd839216a9ad1.jpg",
+      "md5": "a466b8c6b0f8d8b850fdd839216a9ad1",
+      "size": 946704,
+      "uploadedDate": "2020-07-02T14:38:50.294Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg",
+      "md5": "5f4d14bd88796e69a924d7a53d786f8a",
+      "size": 763394,
+      "uploadedDate": "2020-07-02T14:39:04.415Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg",
+      "md5": "5f4d14bd88796e69a924d7a53d786f8a",
+      "size": 763394,
+      "uploadedDate": "2020-07-02T14:39:15.533Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9ce4c6f216cf43e7ba5eff1045b6e08d/offer/EGS_LifelessPlanetPremierEdition_Stage2Studios_S2-1200x1600-5f4d14bd88796e69a924d7a53d786f8a.jpg",
+      "md5": "5f4d14bd88796e69a924d7a53d786f8a",
+      "size": 763394,
+      "uploadedDate": "2020-07-02T14:39:22.745Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "db20fe07e3334020a0127b3cab733cc8"
+    }
+  ],
+  "catalogNs": null
 }

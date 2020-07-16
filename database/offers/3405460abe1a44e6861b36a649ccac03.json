@@ -1,5 +1,25 @@
 {
+  "id": "3405460abe1a44e6861b36a649ccac03",
+  "namespace": "epic",
+  "title": "Holiday Sale: Encore",
+  "description": "Holiday Sale: Encore",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "holiday-sale",
+  "urlSlug": "holiday-sale",
+  "creationDate": "2019-12-17T04:13:30.486Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-12-16T23:12:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "linkedOfferId": null,
   "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
   "collectionOfferIds": [
     "3efc7f6a60bb489fb7572176bd60d2cc",
     "fc0961b1743c40f39447c6a27c3f0dd3",
@@ -21,32 +41,14 @@
     "8806877c1c0d426ba71cb2a7a5e836ec",
     "847e61b98a844df193979f6dcad6cfa2"
   ],
-  "effectiveDate": "2019-12-16T23:12:00.000Z",
-  "creationDate": "2019-12-17T04:13:30.486Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "holiday-sale",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Holiday Sale: Encore",
-  "id": "3405460abe1a44e6861b36a649ccac03",
-  "namespace": "epic",
-  "description": "Holiday Sale: Encore",
-  "longDescription": null,
-  "status": "ACTIVE",
-  "keyImages": [],
-  "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
-  },
-  "items": [
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
-      "namespace": "epic",
-      "developer": null
+      "path": "collections"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.collectionOfferIds.9",
@@ -129,11 +131,11 @@
       "value": "5622f1e982b94b5281fd252a45947016"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "collections"
+      "id": "83564e9426d44ce2bbbab6037b80354c"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

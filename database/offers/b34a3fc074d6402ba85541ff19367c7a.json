@@ -1,42 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-08-01T10:05:00.000Z",
-  "creationDate": "2019-10-02T18:20:07.819Z",
-  "lastModifiedDate": "2020-05-07T13:10:20.697Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Surviving the Aftermath Press",
   "id": "b34a3fc074d6402ba85541ff19367c7a",
   "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
+  "title": "Surviving the Aftermath Press",
   "description": "Surviving the Aftermath Press",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/CodeRedemption_SurvivingTheAftermath-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/CodeRedemption_SurvivingTheAftermath-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "muscovy-press",
+  "creationDate": "2019-10-02T18:20:07.819Z",
+  "lastModifiedDate": "2020-05-07T13:10:20.697Z",
+  "effectiveDate": "2050-08-01T10:05:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
     "name": "Paradox Interactive"
   },
-  "items": [
-    {
-      "id": "7d26843f962f462ebb559c0adf94b9c8",
-      "namespace": "95b4d5a753d042678f775d5e1eb5ab25",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -45,6 +31,32 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/CodeRedemption_SurvivingTheAftermath-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg",
+      "md5": "7c4b1418ae78e990b36550f0a6a8403f",
+      "size": 192921,
+      "uploadedDate": "2019-10-02T20:31:20.020Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/CodeRedemption_SurvivingTheAftermath-340x440-7c4b1418ae78e990b36550f0a6a8403f.jpg",
+      "md5": "7c4b1418ae78e990b36550f0a6a8403f",
+      "size": 192921,
+      "uploadedDate": "2019-10-02T20:31:29.991Z",
+      "width": 340,
+      "height": 440
+    }
+  ],
+  "items": [
+    {
+      "id": "7d26843f962f462ebb559c0adf94b9c8"
+    }
+  ],
+  "catalogNs": null
 }

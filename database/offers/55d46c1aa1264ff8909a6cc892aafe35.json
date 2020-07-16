@@ -1,67 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-19T16:00:00.000Z",
-  "creationDate": "2020-02-13T19:09:16.577Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": null,
-  "productSlug": "outward/soundtrack",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Outward Sound Track",
   "id": "55d46c1aa1264ff8909a6cc892aafe35",
   "namespace": "viola",
+  "title": "Outward Sound Track",
   "description": "Outward Sound Track",
   "longDescription": "Outward Sound Track",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_vertical-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/viola/offer/Outward_Editions_OST-1920x1080-d641ee1e479dc7c7eb9443ae9349a54ba5491b7f.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_verticalOutward-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_verticalOutward-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg"
-    }
-  ],
+  "productSlug": "outward/soundtrack",
+  "urlSlug": "dlc1-audience-01",
+  "creationDate": "2020-02-13T19:09:16.577Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2020-02-19T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
-    {
-      "id": "69e19c67e9d143f08f340f48c8d614db",
-      "namespace": "viola",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "publisherName",
-      "value": "Deep Silver"
-    },
-    {
-      "key": "developerName",
-      "value": "Nine Dots Studio"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "outward/soundtrack"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -76,6 +37,72 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "Nine Dots Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "outward/soundtrack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/viola/item/Outward-842x404-766e1685d1d3c093153c9e27b0550ede.png",
+      "md5": "766e1685d1d3c093153c9e27b0550ede",
+      "size": 54206,
+      "uploadedDate": "2019-04-23T21:14:37.645Z",
+      "width": 842,
+      "height": 404
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_vertical-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg",
+      "md5": "ac37a46fb7bcd07b11861240eeb275e5",
+      "size": 347024,
+      "uploadedDate": "2020-02-19T23:28:53.321Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/viola/offer/Outward_Editions_OST-1920x1080-d641ee1e479dc7c7eb9443ae9349a54ba5491b7f.jpg",
+      "md5": "c8619b373d5d6833cf6f208283b5329c",
+      "size": 256685,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_verticalOutward-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg",
+      "md5": "ac37a46fb7bcd07b11861240eeb275e5",
+      "size": 347024,
+      "uploadedDate": "2020-04-10T14:50:07.074Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/viola/offer/Featured_Carousel_Mobile_verticalOutward-510x680-ac37a46fb7bcd07b11861240eeb275e5.jpg",
+      "md5": "ac37a46fb7bcd07b11861240eeb275e5",
+      "size": 347024,
+      "uploadedDate": "2020-04-10T14:50:28.444Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "69e19c67e9d143f08f340f48c8d614db"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-02-12T13:19:46.055Z",
-  "lastModifiedDate": "2020-04-02T14:30:08.046Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CuskDevAudience",
   "id": "51bd8993c52b4026ba979b20eab91cda",
   "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
+  "title": "CuskDevAudience",
   "description": "CuskDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "cuskdevaudience",
+  "creationDate": "2020-02-12T13:19:46.055Z",
+  "lastModifiedDate": "2020-04-02T14:30:08.046Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rlw9u3sem84g2hc3ur36dqnp7wul3j",
     "name": "Frogwares"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "530ef59227e243fd910b988bee8173a9",
-      "namespace": "23f3da2016b94461a7bd7e2eb46aa0f9",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "530ef59227e243fd910b988bee8173a9"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

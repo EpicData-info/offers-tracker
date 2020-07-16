@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-07-12T21:27:32.637Z",
-  "lastModifiedDate": "2019-09-27T23:22:56.223Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "MacawDevAudience",
   "id": "2bdf4189a7fa4a589155433ecc9ba4bd",
   "namespace": "e1809e1742cb498080d8849b11a99c5a",
+  "title": "MacawDevAudience",
   "description": "MacawDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "macawdevaudience",
+  "creationDate": "2019-07-12T21:27:32.637Z",
+  "lastModifiedDate": "2019-09-27T23:22:56.223Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-64h79p2hud28hmlx8emazj2ccfe6ml",
     "name": "The Wandering Band LLC"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9b61c9f9724e460ab528d4dde1fcf218",
-      "namespace": "e1809e1742cb498080d8849b11a99c5a",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "The Wandering Band LLC"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "9b61c9f9724e460ab528d4dde1fcf218"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

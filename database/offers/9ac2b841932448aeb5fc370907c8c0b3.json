@@ -1,63 +1,129 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2018-12-14T16:00:00.000Z",
-  "creationDate": "2018-11-29T23:29:48.658Z",
-  "lastModifiedDate": "2020-04-02T01:42:11.630Z",
-  "viewableDate": "2018-11-28T19:45:00.000Z",
-  "productSlug": "subnautica",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Subnautica",
   "id": "9ac2b841932448aeb5fc370907c8c0b3",
   "namespace": "jaguar",
+  "title": "Subnautica",
   "description": "Subnautica",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_logo_1024x138-1024x138-734df7a072e1a28f69d51fff7942b7bc.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg"
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/jaguar/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jaguar/offer/Subnautica_CodeRedemption-330x440-2e26adbced31295cda18beb3c502c407.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg"
-    }
-  ],
+  "productSlug": "subnautica",
+  "urlSlug": "subnautica",
+  "creationDate": "2018-11-29T23:29:48.658Z",
+  "lastModifiedDate": "2020-04-02T01:42:11.630Z",
+  "effectiveDate": "2018-12-14T16:00:00.000Z",
+  "viewableDate": "2018-11-28T19:45:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-g4s9pbd6mu9e8uqn539s3xqk9yex92",
     "name": "Unknown Worlds Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "7e5369e3011744fabe5408c6af531063",
-      "namespace": "jaguar",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +140,84 @@
       "value": "subnautica"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
+      "md5": "67f4ca0e9f3906e8eabba048335963b8",
+      "size": 284580,
+      "uploadedDate": "2018-11-27T01:54:30.406Z",
+      "width": 1288,
+      "height": 1450
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_logo_1024x138-1024x138-734df7a072e1a28f69d51fff7942b7bc.png",
+      "md5": "734df7a072e1a28f69d51fff7942b7bc",
+      "size": 28899,
+      "uploadedDate": "2018-12-05T20:38:38.465Z",
+      "width": 1024,
+      "height": 138
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg",
+      "md5": "f12365336e938496e789e1203f8af48a",
+      "size": 339337,
+      "uploadedDate": "2018-12-07T18:37:07.853Z",
+      "width": 2560,
+      "height": 1456
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8.jpg",
+      "md5": "67f4ca0e9f3906e8eabba048335963b8",
+      "size": 284580,
+      "uploadedDate": "2018-11-27T01:54:30.406Z",
+      "width": 1288,
+      "height": 1450
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418.png",
+      "md5": "54f6400297744b829169a9bc66167418",
+      "size": 1185136,
+      "uploadedDate": "2018-12-05T20:40:15.592Z",
+      "width": 2560,
+      "height": 1456
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/20181120_SN_Epic_5_Portrait_Promo-1288x1450-67f4ca0e9f3906e8eabba048335963b8-340x440-887597aab0b08b00c006ace3435a91af.jpg",
+      "md5": "887597aab0b08b00c006ace3435a91af",
+      "size": 58033,
+      "uploadedDate": "2018-12-14T15:48:41.601Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jaguar/offer/Subnautica_CodeRedemption-330x440-2e26adbced31295cda18beb3c502c407.png",
+      "md5": "2e26adbced31295cda18beb3c502c407",
+      "size": 69225,
+      "uploadedDate": "2019-04-23T20:02:50.285Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/subnautica_Primary_Promo-2560x1456-2560x1456-54f6400297744b829169a9bc66167418-2560x1456-f12365336e938496e789e1203f8af48a.jpg",
+      "md5": "f12365336e938496e789e1203f8af48a",
+      "size": 339337,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2560,
+      "height": 1456
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "7e5369e3011744fabe5408c6af531063"
+    }
+  ],
+  "catalogNs": null
 }

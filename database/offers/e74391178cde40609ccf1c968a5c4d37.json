@@ -1,55 +1,99 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-07-07T15:00:00.000Z",
-  "creationDate": "2020-04-13T18:49:24.859Z",
-  "lastModifiedDate": "2020-07-07T17:59:06.898Z",
-  "viewableDate": null,
-  "productSlug": "industries-of-titan/under-construction-ost",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Industries of Titan: Under Construction Soundtrack",
   "id": "e74391178cde40609ccf1c968a5c4d37",
   "namespace": "protea",
+  "title": "Industries of Titan: Under Construction Soundtrack",
   "description": "Industries of Titan: Under Construction Soundtrack",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg"
-    }
-  ],
+  "productSlug": "industries-of-titan/under-construction-ost",
+  "urlSlug": "industries-of-titan-ost",
+  "creationDate": "2020-04-13T18:49:24.859Z",
+  "lastModifiedDate": "2020-07-07T17:59:06.898Z",
+  "effectiveDate": "2020-07-07T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-5y95w2k7uu469v8lr4dyzeff447wfm",
     "name": "Brace Yourself Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "580ae4f849ff44e18c4410687f84a48d",
-      "namespace": "protea",
-      "developer": null
+      "path": "digitalextras"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-16T15:00:38.296Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1146",
+      "name": "CITY BUILDER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-07T17:59:06.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,17 +110,66 @@
       "value": "industries-of-titan/under-construction-ost"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "digitalextras"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg",
+      "md5": "efd5fefd87d740c208c645e7065fe084",
+      "size": 979146,
+      "uploadedDate": "2020-07-07T16:52:53.087Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
+      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "size": 703321,
+      "uploadedDate": "2020-07-07T16:53:02.710Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
+      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "size": 703321,
+      "uploadedDate": "2020-07-07T16:53:19.998Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
+      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "size": 703321,
+      "uploadedDate": "2020-07-07T16:53:37.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S1-2560x1440-efd5fefd87d740c208c645e7065fe084.jpg",
+      "md5": "efd5fefd87d740c208c645e7065fe084",
+      "size": 979146,
+      "uploadedDate": "2020-07-07T16:54:05.737Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/protea/offer/EGS_IndustriesofTitanUnderConstructionOST_BraceYourselfGames_DigitalExtras_S2-1200x1600-eefc4134c485a42bd995beb36c76ec92.jpg",
+      "md5": "eefc4134c485a42bd995beb36c76ec92",
+      "size": 703321,
+      "uploadedDate": "2020-07-07T16:54:21.992Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "580ae4f849ff44e18c4410687f84a48d"
+    }
+  ],
+  "catalogNs": null
 }

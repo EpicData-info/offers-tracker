@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
-  "creationDate": "2020-07-02T02:03:38.967Z",
-  "lastModifiedDate": "2020-07-15T22:01:05.150Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "2.200 Gold",
   "id": "8b2fb9510fc34785b5ed14d7a6fd4670",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
+  "title": "2.200 Gold",
   "description": "2.200 Gold",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "gold-02",
+  "creationDate": "2020-07-02T02:03:38.967Z",
+  "lastModifiedDate": "2020-07-15T22:01:05.150Z",
+  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-5gfjc6842mpumpd4slgddhbhqw7e8l",
     "name": "RETO MOTO"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a7727492cfc746ea9ba316cd1f33503a",
-      "namespace": "c3e63401d6ba410493de31ed69a798a1",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "RETO MOTO"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "a7727492cfc746ea9ba316cd1f33503a"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,38 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-03-18T17:08:00.000Z",
-  "creationDate": "2019-11-23T02:22:54.571Z",
-  "lastModifiedDate": "2019-11-23T02:22:54.571Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "QA DLC 1",
   "id": "c998191a8b19443ebf7616d7ef098148",
   "namespace": "2bfd5ca43ef443739ada168e017e1b78",
+  "title": "QA DLC 1",
   "description": "Duck QA DLC 1 Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "qa-dlc",
+  "creationDate": "2019-11-23T02:22:54.571Z",
+  "lastModifiedDate": "2019-11-23T02:22:54.571Z",
+  "effectiveDate": "2050-03-18T17:08:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
-    {
-      "id": "3e3711fd2a914528810bbb48a464636f",
-      "namespace": "2bfd5ca43ef443739ada168e017e1b78",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
@@ -41,6 +31,23 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Yaga_S3_Store_Portrait_REF-1280x1440-19d2291a8636b3ce1f246d68045411d8.jpg",
+      "md5": "19d2291a8636b3ce1f246d68045411d8",
+      "size": 476971,
+      "uploadedDate": "2019-11-23T02:22:35.413Z",
+      "width": 1280,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "3e3711fd2a914528810bbb48a464636f"
+    }
+  ],
+  "catalogNs": null
 }

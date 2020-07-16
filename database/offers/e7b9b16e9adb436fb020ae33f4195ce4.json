@@ -1,39 +1,57 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-06-03T18:00:00.000Z",
-  "creationDate": "2019-06-09T21:48:10.539Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "solar-ash-kingdom/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Solar Ash Kingdom",
   "id": "e7b9b16e9adb436fb020ae33f4195ce4",
   "namespace": "epic",
+  "title": "Solar Ash Kingdom",
   "description": "Solar Ash Kingdom",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Solar-Ash-Kingdom_Promo-2560x1440-06a38dd5b3d314beab3dd8e84687393e.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/SolarAshKingdomPortraitTemp-260x360-aa2bafd84794601939e96b3eec7fdd05.jpeg"
-    }
-  ],
+  "productSlug": "solar-ash-kingdom/home",
+  "urlSlug": "solar-ash-kingdom",
+  "creationDate": "2019-06-09T21:48:10.539Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2050-06-03T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": "7aa335f58cc34d3abd6559c35f12596e",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,30 +76,30 @@
       "value": "7aa335f58cc34d3abd6559c35f12596e"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Solar-Ash-Kingdom_Promo-2560x1440-06a38dd5b3d314beab3dd8e84687393e.jpg",
+      "md5": "06a38dd5b3d314beab3dd8e84687393e",
+      "size": 97962,
+      "uploadedDate": "2019-06-09T21:43:54.020Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/SolarAshKingdomPortraitTemp-260x360-aa2bafd84794601939e96b3eec7fdd05.jpeg",
+      "md5": "aa2bafd84794601939e96b3eec7fdd05",
+      "size": 9917,
+      "uploadedDate": "2019-06-10T19:38:20.113Z",
+      "width": 260,
+      "height": 360
     }
   ],
-  "linkedOfferId": "7aa335f58cc34d3abd6559c35f12596e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Annapurna Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Heart Machine"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "solar-ash-kingdom/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

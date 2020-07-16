@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-29T10:31:00.000Z",
-  "creationDate": "2019-01-29T15:34:21.317Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "metro-2033-redux/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Metro: 2033 Redux",
   "id": "09efa4c5d30a411eb012f881802f8453",
   "namespace": "epic",
+  "title": "Metro: 2033 Redux",
   "description": "Metro: 2033 Redux",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PrimaryPromo-2580x1450-8c072539860d03f840797542a2873570.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png"
-    }
-  ],
+  "productSlug": "metro-2033-redux/home",
+  "urlSlug": "petunia",
+  "creationDate": "2019-01-29T15:34:21.317Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2099-01-29T10:31:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
     "name": "Koch Media"
   },
-  "items": [
+  "linkedOfferId": "0dfa5a4398bb44c8b1ac34e5f248fab9",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,26 +112,39 @@
       "value": "0dfa5a4398bb44c8b1ac34e5f248fab9"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PrimaryPromo-2580x1450-8c072539860d03f840797542a2873570.jpg",
+      "md5": "8c072539860d03f840797542a2873570",
+      "size": 374577,
+      "uploadedDate": "2019-04-30T21:32:11.104Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_PortraitPromo-1280x1420-b2ca7af4c9382b02b7370722b95ef6de.jpg",
+      "md5": "b2ca7af4c9382b02b7370722b95ef6de",
+      "size": 195368,
+      "uploadedDate": "2019-04-30T21:32:22.467Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/M2033_GameLogo-1405x800-df93c960cf07a8869de25468fe361de7.png",
+      "md5": "df93c960cf07a8869de25468fe361de7",
+      "size": 428910,
+      "uploadedDate": "2019-04-30T21:32:30.292Z",
+      "width": 1405,
+      "height": 800
     }
   ],
-  "linkedOfferId": "0dfa5a4398bb44c8b1ac34e5f248fab9",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "publisherName",
-        "value": "Deep Silver"
-      },
-      {
-        "key": "developerName",
-        "value": "4A Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "metro-2033-redux/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

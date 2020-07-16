@@ -1,43 +1,90 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-06T16:00:00.000Z",
-  "creationDate": "2019-10-17T20:35:13.632Z",
-  "lastModifiedDate": "2020-05-11T15:30:45.265Z",
-  "viewableDate": null,
-  "productSlug": "ticket-to-ride/pennsylvania",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Pennsylvania DLC",
   "id": "9930c0abe42f44dda4149f3d0a378508",
   "namespace": "b4d9169e1b8548f2babec33107253309",
+  "title": "Pennsylvania DLC",
   "description": "Pennsylvania",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_PENNSYLVANIA_Desktop-horizontal-1360x766-7fed63328694a6a237d0a8e82f257fc1c0341e66.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg"
-    }
-  ],
+  "productSlug": "ticket-to-ride/pennsylvania",
+  "urlSlug": "pennsylvania-dlc",
+  "creationDate": "2019-10-17T20:35:13.632Z",
+  "lastModifiedDate": "2020-05-11T15:30:45.265Z",
+  "effectiveDate": "2020-02-06T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-4x4bpaww55p5g3f6xpyqe2cneqxd5d",
     "name": "Asmodee"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "4c2f0c959f424731b90414bd408b0cc5",
-      "namespace": "b4d9169e1b8548f2babec33107253309",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-06-19T16:58:58.969Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -54,20 +101,39 @@
       "value": "ticket-to-ride/pennsylvania"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/TTR_PENNSYLVANIA_Desktop-horizontal-1360x766-7fed63328694a6a237d0a8e82f257fc1c0341e66.jpg",
+      "md5": "2314c3935e1c88a6360b88e69ddd3ae7",
+      "size": 233607,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1360,
+      "height": 766
     },
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg",
+      "md5": "29df279e21308152055f49b2c0a0b9e9",
+      "size": 55768,
+      "uploadedDate": "2020-04-20T20:49:16.788Z",
+      "width": 510,
+      "height": 680
     },
     {
-      "path": "addons/durable"
-    },
-    {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4d9169e1b8548f2babec33107253309/offer/Diesel_productv2_ticket-to-ride_pennsylvania_Mobile-Vertical-510x680-510x680-46de921763fc76ecd02c58387e8c71d317a4a05e-510x680-29df279e21308152055f49b2c0a0b9e9.jpg",
+      "md5": "29df279e21308152055f49b2c0a0b9e9",
+      "size": 55768,
+      "uploadedDate": "2020-04-20T20:49:27.906Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "4c2f0c959f424731b90414bd408b0cc5"
+    }
+  ],
+  "catalogNs": null
 }

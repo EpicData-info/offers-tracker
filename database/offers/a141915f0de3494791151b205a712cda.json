@@ -1,59 +1,116 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-20T16:00:00.000Z",
-  "creationDate": "2019-06-14T18:16:34.916Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": "2020-02-13T16:00:00.000Z",
-  "productSlug": "faeria",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Faeria",
   "id": "a141915f0de3494791151b205a712cda",
   "namespace": "f9c2aedaff8442b286fbd026948b9f09",
+  "title": "Faeria",
   "description": "Faeria",
   "longDescription": "24.99",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_G1_PDP_ApprovedPublic-2560x1440-9da1f89656945e127527b66fa181bd0ebdba2777-2560x1440-d899fd6d9b4f1f3e769556254860f5af.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-38174ba7980de3ae44a051244d9d89bb54db1a75-1280x1440-ea987a8abe2f87647fa8a80fe80a26b7.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-3731x1958-fb7663423b1fdc5e80bff21120c73ea04b66dc52-3731x1958-4a47bf2efc3dc30801d1f4657e63e0ed.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-38174ba7980de3ae44a051244d9d89bb54db1a75-1280x1440-ea987a8abe2f87647fa8a80fe80a26b7.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-3079ee439445f366e1cbaa5efae70bb31b3413f7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-74bd752c4b78db71f36e937f6abc50af.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-089df90fb45cef5e7204e470574cc481.jpg"
-    }
-  ],
+  "productSlug": "faeria",
+  "urlSlug": "faeriageneralaudience",
+  "creationDate": "2019-06-14T18:16:34.916Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-02-20T16:00:00.000Z",
+  "viewableDate": "2020-02-13T16:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-ugw2zblbdkg5xklzadlrt2qe92cdje",
     "name": "Versus Evil"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "3cb4183a23c94e3b9ce2bf9f65ae4db3",
-      "namespace": "f9c2aedaff8442b286fbd026948b9f09",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1181",
+      "name": "CARD GAME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2020-06-15T16:42:51.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +131,75 @@
       "value": "faeria"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_G1_PDP_ApprovedPublic-2560x1440-9da1f89656945e127527b66fa181bd0ebdba2777-2560x1440-d899fd6d9b4f1f3e769556254860f5af.jpg",
+      "md5": "d899fd6d9b4f1f3e769556254860f5af",
+      "size": 323550,
+      "uploadedDate": "2020-01-11T05:42:17.032Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-38174ba7980de3ae44a051244d9d89bb54db1a75-1280x1440-ea987a8abe2f87647fa8a80fe80a26b7.jpg",
+      "md5": "ea987a8abe2f87647fa8a80fe80a26b7",
+      "size": 219033,
+      "uploadedDate": "2020-01-11T05:42:32.103Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_IC1_Logo_Color_ApprovedPublic-3731x1958-fb7663423b1fdc5e80bff21120c73ea04b66dc52-3731x1958-4a47bf2efc3dc30801d1f4657e63e0ed.png",
+      "md5": "4a47bf2efc3dc30801d1f4657e63e0ed",
+      "size": 1190288,
+      "uploadedDate": "2020-01-11T05:42:48.477Z",
+      "width": 3731,
+      "height": 1958
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Diesel_productv2_faeria_home_Faeria_MainGame_EpicGamesStore_S3_Store_Portrait_ApprovedPublic-1280x1440-38174ba7980de3ae44a051244d9d89bb54db1a75-1280x1440-ea987a8abe2f87647fa8a80fe80a26b7.jpg",
+      "md5": "ea987a8abe2f87647fa8a80fe80a26b7",
+      "size": 219033,
+      "uploadedDate": "2020-01-11T05:42:32.103Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-3079ee439445f366e1cbaa5efae70bb31b3413f7.jpg",
+      "md5": "47c17287902f0bc6bd4614b2f1bff92f",
+      "size": 346281,
+      "uploadedDate": "2020-01-14T09:41:44.790Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_N1_Newsfeed_ApprovedPublic-2560x1440-74bd752c4b78db71f36e937f6abc50af.jpg",
+      "md5": "74bd752c4b78db71f36e937f6abc50af",
+      "size": 1598079,
+      "uploadedDate": "2020-02-13T15:48:32.280Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9c2aedaff8442b286fbd026948b9f09/offer/Faeria_MainGame_EpicGamesStore_Social_Instagram_ApprovedPublic-1080x1350-089df90fb45cef5e7204e470574cc481.jpg",
+      "md5": "089df90fb45cef5e7204e470574cc481",
+      "size": 783121,
+      "uploadedDate": "2020-02-13T15:48:39.023Z",
+      "width": 1080,
+      "height": 1350
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "3cb4183a23c94e3b9ce2bf9f65ae4db3"
+    }
+  ],
+  "catalogNs": null
 }

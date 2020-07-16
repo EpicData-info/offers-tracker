@@ -1,67 +1,114 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-01T08:00:00.000Z",
-  "creationDate": "2019-05-02T01:23:21.271Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
-  "viewableDate": null,
-  "productSlug": "ghost-recon-breakpoint/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy's Ghost Recon Breakpoint",
   "id": "2385d033d11a469fa08cbae090ae97d8",
   "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
+  "title": "Tom Clancy's Ghost Recon Breakpoint",
   "description": "Ghost Recon Breakpoint Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Game_Logo-1000x375-f0c8b60ec9447512852ce59a468309fa.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Primary_Promo-2580x1450-8e2e6701714a95dcba3088d0464ad792.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Portrait_Promo-1280x1420-b26ff533005794b5c3c70a2b8a1f7d33.jpg"
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Mobile-560x760-fbf63002af476fdda129a81a04b065e4.jpg"
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Desktop-1810x810-d28f3d6406324f0b23c186c43182f838.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TGT_Screenshot_4-1920x1080-bf6d20bc25b0abb5511ab4b70cb432a0.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_AGN-1529x2161-71e0358faa099cbb25dc8a54c5280be4.jpg"
-    }
-  ],
+  "productSlug": "ghost-recon-breakpoint/home",
+  "urlSlug": "saffrongeneralaudience",
+  "creationDate": "2019-05-02T01:23:21.271Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "effectiveDate": "2019-06-01T08:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "913d1259a5614a58a114c65dc445ce3d",
-      "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -78,20 +125,93 @@
       "value": "ghost-recon-breakpoint/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Game_Logo-1000x375-f0c8b60ec9447512852ce59a468309fa.png",
+      "md5": "f0c8b60ec9447512852ce59a468309fa",
+      "size": 53524,
+      "uploadedDate": "2019-05-09T12:38:04.599Z",
+      "width": 1000,
+      "height": 375
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Primary_Promo-2580x1450-8e2e6701714a95dcba3088d0464ad792.jpg",
+      "md5": "8e2e6701714a95dcba3088d0464ad792",
+      "size": 591071,
+      "uploadedDate": "2019-05-09T12:38:12.323Z",
+      "width": 2580,
+      "height": 1450
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Target_Store_Portrait_Promo-1280x1420-b26ff533005794b5c3c70a2b8a1f7d33.jpg",
+      "md5": "b26ff533005794b5c3c70a2b8a1f7d33",
+      "size": 310568,
+      "uploadedDate": "2019-05-09T12:38:20.823Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "applications"
+      "type": "TakeoverTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Mobile-560x760-fbf63002af476fdda129a81a04b065e4.jpg",
+      "md5": "fbf63002af476fdda129a81a04b065e4",
+      "size": 463458,
+      "uploadedDate": "2019-10-02T23:40:32.193Z",
+      "width": 560,
+      "height": 760
+    },
+    {
+      "type": "TakeoverWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Launcher_Takeover_GhostReconBreakpoint_Desktop-1810x810-d28f3d6406324f0b23c186c43182f838.jpg",
+      "md5": "d28f3d6406324f0b23c186c43182f838",
+      "size": 1355217,
+      "uploadedDate": "2019-10-02T23:40:45.647Z",
+      "width": 1810,
+      "height": 810
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TGT_Screenshot_4-1920x1080-bf6d20bc25b0abb5511ab4b70cb432a0.jpg",
+      "md5": "bf6d20bc25b0abb5511ab4b70cb432a0",
+      "size": 111014,
+      "uploadedDate": "2019-05-09T04:20:56.992Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CodeRedemptionTCGRB-330x440-70b00886176ffa2e22b86eaa389c7a50.png",
+      "md5": "70b00886176ffa2e22b86eaa389c7a50",
+      "size": 325115,
+      "uploadedDate": "2019-05-09T04:21:24.406Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/CAPSULE-Standard-267x150-e2f17b0ea3c75401e8d4be947cbeab18aef7e8f2.jpg",
+      "md5": "5ab21bd4317595c4650335460350cdd2",
+      "size": 22492,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 267,
+      "height": 150
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2dbd2f64abdc4bbab077424d5c85e01b/offer/TARGET_BOX_ART_AGN-1529x2161-71e0358faa099cbb25dc8a54c5280be4.jpg",
+      "md5": "71e0358faa099cbb25dc8a54c5280be4",
+      "size": 1393053,
+      "uploadedDate": "2020-04-10T17:33:34.880Z",
+      "width": 1529,
+      "height": 2161
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "913d1259a5614a58a114c65dc445ce3d"
+    }
+  ],
+  "catalogNs": null
 }

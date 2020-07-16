@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-06T21:57:17.062Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "mutant-year-zero",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mutant Year Zero: Road To Eden",
   "id": "32d80b384c934b89be96dd4c32b54946",
   "namespace": "epic",
+  "title": "Mutant Year Zero: Road To Eden",
   "description": "Mutant Year Zero: Road To Eden",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png"
-    }
-  ],
+  "productSlug": "mutant-year-zero",
+  "urlSlug": "mutant-year-zero-road-to-eden",
+  "creationDate": "2019-08-06T21:57:17.062Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
     "name": "Funcom"
   },
-  "items": [
+  "linkedOfferId": "9651fd57c8a34e81949aab28a084ced7",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +112,39 @@
       "value": "9651fd57c8a34e81949aab28a084ced7"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_L1_COPSHOT-2560x1440-5fc013110df10208d22c98b43b5a1697.jpg",
+      "md5": "5fc013110df10208d22c98b43b5a1697",
+      "size": 435495,
+      "uploadedDate": "2019-08-06T21:54:45.596Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_S2_COPSHOT-1280x1440-78da0159ae1cff2af0b286dcfa5bf30a.jpg",
+      "md5": "78da0159ae1cff2af0b286dcfa5bf30a",
+      "size": 339839,
+      "uploadedDate": "2019-08-06T21:54:58.127Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_THEBEARDEDLADIES_MUTANTYEARZERO_IC1_GAMELOGO-989x500-544312cae3244e33ea7c8d8a6e51b6b7.png",
+      "md5": "544312cae3244e33ea7c8d8a6e51b6b7",
+      "size": 182906,
+      "uploadedDate": "2019-08-07T22:22:56.337Z",
+      "width": 989,
+      "height": 500
     }
   ],
-  "linkedOfferId": "9651fd57c8a34e81949aab28a084ced7",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Funcom"
-      },
-      {
-        "key": "developerName",
-        "value": "The Bearded Ladies"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mutant-year-zero"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

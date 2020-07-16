@@ -1,47 +1,123 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-05-28T15:00:00.000Z",
-  "creationDate": "2020-01-17T18:09:53.277Z",
-  "lastModifiedDate": "2020-05-29T17:51:33.992Z",
-  "viewableDate": null,
-  "productSlug": "sid-meiers-civilization-vi/gathering-storm",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Civilization VI : Gathering Storm",
   "id": "ead2024942c444b9a2299fdd3245e807",
   "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "title": "Civilization VI : Gathering Storm",
   "description": "Civilization VI : Gathering Storm",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S1-2560x1440-aa072ce4040791138639201ef017758c.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg"
-    }
-  ],
+  "productSlug": "sid-meiers-civilization-vi/gathering-storm",
+  "urlSlug": "kingletgatheringstormdlcaudience",
+  "creationDate": "2020-01-17T18:09:53.277Z",
+  "lastModifiedDate": "2020-05-29T17:51:33.992Z",
+  "effectiveDate": "2020-05-28T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
     "name": "2K Games, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "6ca81c7f823b4394ac84c086133c8627",
-      "namespace": "cd14dcaa4f3443f19f7169a980559c62",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-05-29T19:32:06.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-01T14:33:22.314Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-05-29T19:32:06.752Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,17 +138,48 @@
       "value": "sid-meiers-civilization-vi/gathering-storm"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S1-2560x1440-aa072ce4040791138639201ef017758c.jpg",
+      "md5": "aa072ce4040791138639201ef017758c",
+      "size": 1008060,
+      "uploadedDate": "2020-05-19T18:28:57.108Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg",
+      "md5": "18224a1fa2b7afcb7de782f7bc029971",
+      "size": 1001397,
+      "uploadedDate": "2020-05-19T18:29:04.594Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg",
+      "md5": "18224a1fa2b7afcb7de782f7bc029971",
+      "size": 1001397,
+      "uploadedDate": "2020-05-19T18:29:12.438Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_SidMeiersCivilizationVIGatheringStorm_FiraxisGames_Expansion_S2-1200x1600-18224a1fa2b7afcb7de782f7bc029971.jpg",
+      "md5": "18224a1fa2b7afcb7de782f7bc029971",
+      "size": 1001397,
+      "uploadedDate": "2020-05-19T18:29:20.264Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "6ca81c7f823b4394ac84c086133c8627"
+    }
+  ],
+  "catalogNs": null
 }

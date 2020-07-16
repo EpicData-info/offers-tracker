@@ -1,43 +1,93 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-12T00:00:00.000Z",
-  "creationDate": "2019-06-12T14:02:36.100Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "gods-and-monsters",
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Gods & Monsters",
   "id": "4fece93e9da94d6fa312f2a5a454a405",
   "namespace": "epic",
+  "title": "Gods & Monsters",
   "description": "Gods & Monsters",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Orpheus_Epic_Library_Primary_Promo_2580x1450-2580x1450-1d54a9e3d3595a646e7bf477499e50c7.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png"
-    }
-  ],
+  "productSlug": "gods-and-monsters",
+  "urlSlug": "gods-monsters",
+  "creationDate": "2019-06-12T14:02:36.100Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-06-12T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": "e42093ff3c434f618b8f2c50039eaece",
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,34 +112,39 @@
       "value": "e42093ff3c434f618b8f2c50039eaece"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Orpheus_Epic_Library_Primary_Promo_2580x1450-2580x1450-1d54a9e3d3595a646e7bf477499e50c7.jpg",
+      "md5": "1d54a9e3d3595a646e7bf477499e50c7",
+      "size": 258670,
+      "uploadedDate": "2019-06-12T13:58:33.030Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
+      "md5": "3c052689f4d8c008ef7c10594d1fe895",
+      "size": 195445,
+      "uploadedDate": "2019-06-12T13:58:46.569Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png",
+      "md5": "f06242470286a2db34d7015ad8fc65f7",
+      "size": 33259,
+      "uploadedDate": "2019-06-12T13:58:54.888Z",
+      "width": 1000,
+      "height": 375
     }
   ],
-  "linkedOfferId": "e42093ff3c434f618b8f2c50039eaece",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "CN"
-      },
-      {
-        "key": "isPrepurchase",
-        "value": "true"
-      },
-      {
-        "key": "availableDate",
-        "value": "1551106800"
-      },
-      {
-        "key": "developerName",
-        "value": "Ubisoft"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "gods-and-monsters"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

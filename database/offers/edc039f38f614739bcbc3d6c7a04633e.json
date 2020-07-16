@@ -1,39 +1,59 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2049-02-18T16:00:00.000Z",
-  "creationDate": "2020-02-19T01:29:53.880Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": null,
-  "productSlug": "mount-and-blade-2/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Mount & Blade II: Bannerlord",
   "id": "edc039f38f614739bcbc3d6c7a04633e",
   "namespace": "epic",
+  "title": "Mount & Blade II: Bannerlord",
   "description": "Mount & Blade II: Bannerlord, Mount and Blade 2",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg"
-    }
-  ],
+  "productSlug": "mount-and-blade-2/home",
+  "urlSlug": "mountandbladeii",
+  "creationDate": "2020-02-19T01:29:53.880Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2049-02-18T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-e2fanamv6wpuy3gpyyscsnzjth7hrg",
     "name": "TaleWorlds Entertainment"
   },
-  "items": [
+  "linkedOfferId": "1dcce12230b64066a988c06cdd5f653e",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "developer": null
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +78,30 @@
       "value": "1dcce12230b64066a988c06cdd5f653e"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S2-860x1148-7422df7d13d925d3d0140e59678d0712.jpg",
+      "md5": "7422df7d13d925d3d0140e59678d0712",
+      "size": 509459,
+      "uploadedDate": "2020-02-19T01:27:22.134Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MountBladeIIBannerlord_TaleWorldsEntertainment_S1-2560x1440-3455b2c51f7d0ac8837d0ea4ddfe8ba3.jpg",
+      "md5": "3455b2c51f7d0ac8837d0ea4ddfe8ba3",
+      "size": 475246,
+      "uploadedDate": "2020-02-19T01:27:34.164Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": "1dcce12230b64066a988c06cdd5f653e",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "TaleWorlds Entertainment"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "mount-and-blade-2/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

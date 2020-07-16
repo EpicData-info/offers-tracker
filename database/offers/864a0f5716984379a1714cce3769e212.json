@@ -1,47 +1,105 @@
 {
-  "isFeatured": true,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-08T16:00:00.000Z",
-  "creationDate": "2019-01-02T17:10:23.023Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
-  "viewableDate": "2019-01-02T11:30:00.000Z",
-  "productSlug": "what-remains-of-edith-finch/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "What Remains of Edith Finch",
   "id": "864a0f5716984379a1714cce3769e212",
   "namespace": "epic",
+  "title": "What Remains of Edith Finch",
   "description": "What Remains of Edith Finch",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ComingSoon",
-      "url": "https://cdn1.epicgames.com/epic/offer/F-1-744x300-70324eaac7a755052468b7332aae8b99.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg"
-    }
-  ],
+  "productSlug": "what-remains-of-edith-finch/home",
+  "urlSlug": "what-remains-of-edith-finch",
+  "creationDate": "2019-01-02T17:10:23.023Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.677Z",
+  "effectiveDate": "2019-01-08T16:00:00.000Z",
+  "viewableDate": "2019-01-02T11:30:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
     "name": "Annapurna Interactive"
   },
-  "items": [
+  "linkedOfferId": "b1f4888a7c9b4449b6bfbace4de24a9c",
+  "isFeatured": true,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,30 +124,48 @@
       "value": "what-remains-of-edith-finch/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ComingSoon",
+      "url": "https://cdn1.epicgames.com/epic/offer/F-1-744x300-70324eaac7a755052468b7332aae8b99.jpg",
+      "md5": "70324eaac7a755052468b7332aae8b99",
+      "size": 52820,
+      "uploadedDate": "2019-01-04T17:15:06.632Z",
+      "width": 744,
+      "height": 300
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/EdithFinch_Logo1-480x285-359c57ed579f9db1b5a7c4f9aadf0d94.png",
+      "md5": "359c57ed579f9db1b5a7c4f9aadf0d94",
+      "size": 47161,
+      "uploadedDate": "2019-01-08T01:21:37.802Z",
+      "width": 480,
+      "height": 285
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PrimaryPromo-2580x1450-afd336269dc16aa6971391cc48f0a57f-2580x1450-afd336269dc16aa6971391cc48f0a57f.jpg",
+      "md5": "afd336269dc16aa6971391cc48f0a57f",
+      "size": 280199,
+      "uploadedDate": "2019-01-09T16:21:15.783Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Epic_EdithFinch_PortraitPromo1280x1420-8ce13d0028128729177daad2e3ec0481-1280x1420-8ce13d0028128729177daad2e3ec0481.jpg",
+      "md5": "8ce13d0028128729177daad2e3ec0481",
+      "size": 164652,
+      "uploadedDate": "2019-01-09T16:21:34.247Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
-  "linkedOfferId": "b1f4888a7c9b4449b6bfbace4de24a9c",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "KR"
-      },
-      {
-        "key": "publisherName",
-        "value": "Annapurna Interactive"
-      },
-      {
-        "key": "developerName",
-        "value": "Giant Sparrow"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "what-remains-of-edith-finch/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

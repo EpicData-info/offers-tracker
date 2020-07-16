@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-03-27T10:43:00.000Z",
-  "creationDate": "2019-03-28T14:51:46.855Z",
-  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "Heavy Rain QA Access",
   "id": "8421a3c7ed2a4a1f9858bc3e263999c8",
   "namespace": "aster",
+  "title": "Heavy Rain QA Access",
   "description": "Heavy Rain QA Access",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "heavy-rain-qa-access",
+  "creationDate": "2019-03-28T14:51:46.855Z",
+  "lastModifiedDate": "2020-04-29T00:38:20.317Z",
+  "effectiveDate": "2019-03-27T10:43:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-m8v47d762atphw94knus7ezawefpcu",
     "name": "Quantic Dream"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "8bb9b9c356924da1a421c6dc6fe67754",
-      "namespace": "aster",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -37,14 +42,11 @@
       "value": "Quantic Dream"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "8bb9b9c356924da1a421c6dc6fe67754"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

@@ -1,55 +1,78 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-06-19T15:00:00.000Z",
-  "creationDate": "2019-02-28T13:50:23.808Z",
-  "lastModifiedDate": "2020-04-21T14:03:57.628Z",
-  "viewableDate": null,
-  "productSlug": "omen-of-sorrow",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Omen of Sorrow",
   "id": "31c654e6b48a4d7288371cbaea5d7f61",
   "namespace": "daffodil",
+  "title": "Omen of Sorrow",
   "description": "Omen of Sorrow",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png"
-    }
-  ],
+  "productSlug": "omen-of-sorrow",
+  "urlSlug": "daffodilgeneralaudience",
+  "creationDate": "2019-02-28T13:50:23.808Z",
+  "lastModifiedDate": "2020-04-21T14:03:57.628Z",
+  "effectiveDate": "2019-06-19T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ee2mpv5fbfg9j22arjrh7vjmypew5q",
     "name": "AOne Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "ef85d0a70ed74fd3a9e5805e56b6d29c",
-      "namespace": "daffodil",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-06-24T15:18:26.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +89,66 @@
       "value": "omen-of-sorrow"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
+      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
+      "size": 1894768,
+      "uploadedDate": "2020-04-21T14:01:55.883Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png",
+      "md5": "222352d2f6b8b99f5607adc1ed01befe",
+      "size": 4517531,
+      "uploadedDate": "2020-04-21T14:02:06.441Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
+      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
+      "size": 1894768,
+      "uploadedDate": "2020-04-21T14:02:21.899Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/background_epic_fullgame-2560x1440-222352d2f6b8b99f5607adc1ed01befe.png",
+      "md5": "222352d2f6b8b99f5607adc1ed01befe",
+      "size": 4517531,
+      "uploadedDate": "2020-04-21T14:02:47.962Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
+      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
+      "size": 1894768,
+      "uploadedDate": "2020-04-21T14:03:12.363Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/daffodil/offer/portrait_epicgames_full-860x1148-90c34fae2eec55fed474ad3c11e9fbb0.png",
+      "md5": "90c34fae2eec55fed474ad3c11e9fbb0",
+      "size": 1894768,
+      "uploadedDate": "2020-04-21T14:03:43.505Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "ef85d0a70ed74fd3a9e5805e56b6d29c"
+    }
+  ],
+  "catalogNs": null
 }

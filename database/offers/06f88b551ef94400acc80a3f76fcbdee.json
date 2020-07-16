@@ -1,43 +1,111 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-06-11T15:00:00.000Z",
-  "creationDate": "2020-04-29T21:32:18.258Z",
-  "lastModifiedDate": "2020-06-11T14:19:06.593Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "SEASON PASS 1",
   "id": "06f88b551ef94400acc80a3f76fcbdee",
   "namespace": "ace4435645d9489cacfbb422b7c1c817",
+  "title": "SEASON PASS 1",
   "description": "SEASON PASS 1",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS1_SNKCORPORATION_SeasonPass_S1-2560x1440-7bc9331c3c64b410ebbbb92b21c21719.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "seasonpassone",
+  "creationDate": "2020-04-29T21:32:18.258Z",
+  "lastModifiedDate": "2020-06-11T14:19:06.593Z",
+  "effectiveDate": "2020-06-11T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-bse2s8gp28ptrv924lby79vx66vsz6",
     "name": "SNK CORPORATION"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "63634fbbcbc1413db5fa17119310f945",
-      "namespace": "ace4435645d9489cacfbb422b7c1c817",
-      "developer": null
+      "path": "bundles"
+    },
+    {
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-16T15:01:01.996Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-06-24T15:18:26.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-16T15:01:02.115Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-16T15:01:02.095Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -50,17 +118,39 @@
       "value": "SNK"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/EGS_SEASONPASS1_SNKCORPORATION_SeasonPass_S1-2560x1440-7bc9331c3c64b410ebbbb92b21c21719.jpg",
+      "md5": "7bc9331c3c64b410ebbbb92b21c21719",
+      "size": 878038,
+      "uploadedDate": "2020-06-11T05:23:59.111Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "bundles/addons"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg",
+      "md5": "d814eb01f0673976bad0eb6bb7fc8361",
+      "size": 484971,
+      "uploadedDate": "2020-06-11T05:57:41.731Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ace4435645d9489cacfbb422b7c1c817/offer/Portrait_Offer_Image-1200x1600-d814eb01f0673976bad0eb6bb7fc8361.jpg",
+      "md5": "d814eb01f0673976bad0eb6bb7fc8361",
+      "size": 484971,
+      "uploadedDate": "2020-06-11T05:57:50.703Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "63634fbbcbc1413db5fa17119310f945"
+    }
+  ],
+  "catalogNs": null
 }

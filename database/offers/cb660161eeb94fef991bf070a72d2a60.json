@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-05-08T16:35:14.561Z",
-  "lastModifiedDate": "2020-05-09T00:33:35.863Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "DevSiberianAudience",
   "id": "cb660161eeb94fef991bf070a72d2a60",
   "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
+  "title": "DevSiberianAudience",
   "description": "DevSiberianAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "devsiberianaudience",
+  "creationDate": "2020-05-08T16:35:14.561Z",
+  "lastModifiedDate": "2020-05-09T00:33:35.863Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
     "name": "Kalypso Media"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c4621c987b3241ae94b1ce30753d7021",
-      "namespace": "e1055bf1e5654b93a27e19e6bb86cb2a",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "[]"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c4621c987b3241ae94b1ce30753d7021"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

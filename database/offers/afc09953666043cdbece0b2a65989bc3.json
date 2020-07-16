@@ -1,55 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-01-01T16:00:00.000Z",
-  "creationDate": "2019-12-09T19:08:56.362Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
-  "viewableDate": null,
-  "productSlug": "steep/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Steep",
   "id": "afc09953666043cdbece0b2a65989bc3",
   "namespace": "a646020cb93b4ea995cda70647bbe001",
+  "title": "Steep",
   "description": "Steep",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_3840x2160-3840x2160-af3450f1bc27ae4642f4fd8cb0fde613.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_3840x2160-3840x2160-06904d279c608d6a87f80c5de3154272073831aa.jpg"
-    }
-  ],
+  "productSlug": "steep/home",
+  "urlSlug": "steepgeneralaudience-01",
+  "creationDate": "2019-12-09T19:08:56.362Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.595Z",
+  "effectiveDate": "2020-01-01T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "89ea78bb8a56436899316b1d07352b24",
-      "namespace": "a646020cb93b4ea995cda70647bbe001",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-07-07T17:11:04.090Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +113,66 @@
       "value": "steep/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2019-12-19T04:47:06.181Z",
+      "width": 640,
+      "height": 854
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_3840x2160-3840x2160-af3450f1bc27ae4642f4fd8cb0fde613.jpg",
+      "md5": "af3450f1bc27ae4642f4fd8cb0fde613",
+      "size": 913705,
+      "uploadedDate": "2019-12-19T04:47:18.196Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2019-12-19T04:47:06.181Z",
+      "width": 640,
+      "height": 854
     },
     {
-      "path": "applications"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-01-01T16:37:37.124Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-01-01T16:37:43.428Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_3840x2160-3840x2160-06904d279c608d6a87f80c5de3154272073831aa.jpg",
+      "md5": "17bf432e286a80db2d6bbf769b83ac66",
+      "size": 802906,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "89ea78bb8a56436899316b1d07352b24"
+    }
+  ],
+  "catalogNs": null
 }

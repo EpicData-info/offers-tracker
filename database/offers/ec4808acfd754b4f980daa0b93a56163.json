@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-01-15T05:00:00.000Z",
-  "creationDate": "2018-12-19T17:33:56.789Z",
-  "lastModifiedDate": "2020-04-27T05:43:41.698Z",
-  "viewableDate": null,
-  "productSlug": "walking-dead-final-season/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Walking Dead: The Final Season",
   "id": "ec4808acfd754b4f980daa0b93a56163",
   "namespace": "ocelot",
+  "title": "The Walking Dead: The Final Season",
   "description": "The Walking Dead: Final Season",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/WD4_GAME-LOGO_COLOR-604x431-e77f932716e72aaba71c154569dc9a29.png"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg"
-    }
-  ],
+  "productSlug": "walking-dead-final-season/home",
+  "urlSlug": "ocelot",
+  "creationDate": "2018-12-19T17:33:56.789Z",
+  "lastModifiedDate": "2020-04-27T05:43:41.698Z",
+  "effectiveDate": "2019-01-15T05:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-rqvssgn2hhj58wv5bc6eueqswz2un4",
     "name": "Skybound Interactive"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0d30d98cbb4543a5bcefcb8157c16327",
-      "namespace": "ocelot",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-13T15:21:13.470Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "walking-dead-final-season/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4_GAME-LOGO_COLOR-604x431-e77f932716e72aaba71c154569dc9a29.png",
+      "md5": "e77f932716e72aaba71c154569dc9a29",
+      "size": 256115,
+      "uploadedDate": "2018-12-19T17:25:43.706Z",
+      "width": 604,
+      "height": 431
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg",
+      "md5": "51385e927614c853c2ab2b202ac33be9",
+      "size": 356982,
+      "uploadedDate": "2018-12-19T17:27:30.720Z",
+      "width": 1280,
+      "height": 1420
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg",
+      "md5": "956408fdc55fa9e5cd2563993e61b9c0",
+      "size": 173571,
+      "uploadedDate": "2019-03-27T17:46:25.819Z",
+      "width": 960,
+      "height": 540
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/WD4-PORTRAIT-PROMO-1280x1420-51385e927614c853c2ab2b202ac33be9.jpg",
+      "md5": "51385e927614c853c2ab2b202ac33be9",
+      "size": 356982,
+      "uploadedDate": "2018-12-19T17:27:30.720Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
+      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
+      "size": 82425,
+      "uploadedDate": "2019-01-14T19:52:26.206Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ocelot/offer/coderedem-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553-340x440-0d7e2e6fb18c7c12d81ebdb2e5e17553.jpg",
+      "md5": "0d7e2e6fb18c7c12d81ebdb2e5e17553",
+      "size": 82425,
+      "uploadedDate": "2019-04-23T21:05:07.417Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/WDFS_wide-960x540-956408fdc55fa9e5cd2563993e61b9c0.jpg",
+      "md5": "956408fdc55fa9e5cd2563993e61b9c0",
+      "size": 173571,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 960,
+      "height": 540
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0d30d98cbb4543a5bcefcb8157c16327"
+    }
+  ],
+  "catalogNs": null
 }

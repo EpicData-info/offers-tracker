@@ -1,55 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-02-11T21:00:00.000Z",
-  "creationDate": "2020-02-06T23:15:24.728Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
-  "viewableDate": "2019-01-07T11:56:00.000Z",
-  "productSlug": "the-division-2/warlords-of-new-york-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Tom Clancy's The Division 2  Warlords of New York Edition",
   "id": "6fe14544c0e54c048e80ea6e980f7890",
   "namespace": "impala",
+  "title": "Tom Clancy's The Division 2  Warlords of New York Edition",
   "description": "Tom Clancy's The Division 2  Warlords of New York Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-f6a684a17f39b9a7ef78f8b945c66fbc.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/WARLOCK_STD_WARLOCK_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-80cd319c930c7818a16bb3465999e8ab.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONYSE_wide-1920x1080-58212b59d0ad3ba69057716907579f22.jpg"
-    }
-  ],
+  "productSlug": "the-division-2/warlords-of-new-york-edition",
+  "urlSlug": "impalawonygoldaudience",
+  "creationDate": "2020-02-06T23:15:24.728Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "effectiveDate": "2020-02-11T21:00:00.000Z",
+  "viewableDate": "2019-01-07T11:56:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d50fc6916e3d4104ae30097bc3012988",
-      "namespace": "impala",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "db5e601f86a0497fad1ef43340af2f00",
-      "namespace": "impala",
-      "developer": null
+      "path": "games/edition"
     },
     {
-      "id": "d1b64a07a1334a54a51151902f9fe029",
-      "namespace": "impala",
-      "developer": null
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -64,17 +49,45 @@
       "value": "the-division-2/warlords-of-new-york-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/coderedemption-340x440-f6a684a17f39b9a7ef78f8b945c66fbc.jpg",
+      "md5": "f6a684a17f39b9a7ef78f8b945c66fbc",
+      "size": 86148,
+      "uploadedDate": "2019-01-09T15:08:54.543Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "path": "games/edition"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/WARLOCK_STD_WARLOCK_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-80cd319c930c7818a16bb3465999e8ab.jpg",
+      "md5": "80cd319c930c7818a16bb3465999e8ab",
+      "size": 488607,
+      "uploadedDate": "2020-02-10T01:38:34.820Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONYSE_wide-1920x1080-58212b59d0ad3ba69057716907579f22.jpg",
+      "md5": "58212b59d0ad3ba69057716907579f22",
+      "size": 212885,
+      "uploadedDate": "2020-03-06T15:24:49.713Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d50fc6916e3d4104ae30097bc3012988"
+    },
+    {
+      "id": "db5e601f86a0497fad1ef43340af2f00"
+    },
+    {
+      "id": "d1b64a07a1334a54a51151902f9fe029"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,51 +1,104 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-01T15:00:00.000Z",
-  "creationDate": "2019-09-12T18:24:18.231Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "totally-reliable-delivery-service/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Totally Reliable Delivery Service",
   "id": "9aa227e2ba294bb1a95c95fde892eb31",
   "namespace": "52b90f9a982a404781b189f6a7903226",
+  "title": "Totally Reliable Delivery Service",
   "description": "Totally Reliable Delivery Service",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg"
-    }
-  ],
+  "productSlug": "totally-reliable-delivery-service/home",
+  "urlSlug": "hoatzingeneralaudience",
+  "creationDate": "2019-09-12T18:24:18.231Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2020-04-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "92072472858b473fa5093b228ae30105",
-      "namespace": "52b90f9a982a404781b189f6a7903226",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -66,20 +119,57 @@
       "value": "totally-reliable-delivery-service/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg",
+      "md5": "085bbf75525211c635a7c5ad2853da2a",
+      "size": 157724,
+      "uploadedDate": "2020-04-01T14:51:20.853Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg",
+      "md5": "00faec773f25016dc6f959924dc7841b",
+      "size": 355908,
+      "uploadedDate": "2020-04-01T14:51:32.108Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S2-860x1148-5a3e263755fa37296e09a29c2b97454be7a6836b-860x1148-085bbf75525211c635a7c5ad2853da2a.jpg",
+      "md5": "085bbf75525211c635a7c5ad2853da2a",
+      "size": 157724,
+      "uploadedDate": "2020-04-01T14:51:20.853Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg",
+      "md5": "00faec773f25016dc6f959924dc7841b",
+      "size": 355908,
+      "uploadedDate": "2020-04-01T14:26:35.374Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/52b90f9a982a404781b189f6a7903226/offer/Diesel_productv2_totally-reliable-delivery-service_home_EGS_TotallyReliableDeliveryService_WereFiveGames_S1-2560x1440-b1063d936cd6055cc9869474c8385c50294327fc-2560x1440-00faec773f25016dc6f959924dc7841b.jpg",
+      "md5": "00faec773f25016dc6f959924dc7841b",
+      "size": 355908,
+      "uploadedDate": "2020-04-01T14:26:47.859Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "92072472858b473fa5093b228ae30105"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,51 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-04T18:00:00.000Z",
-  "creationDate": "2020-02-25T13:51:45.745Z",
-  "lastModifiedDate": "2020-04-02T03:01:43.597Z",
-  "viewableDate": null,
-  "productSlug": "offworld-trading-company/conspicuous-comsumption",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Offworld Trading Company: Conspicuous Consumption DLC",
   "id": "abc72985d639475fa3641d72973f966f",
   "namespace": "e8882546f28e4832af823c646aed232e",
+  "title": "Offworld Trading Company: Conspicuous Consumption DLC",
   "description": "Offworld Trading Company: Conspicuous Consumption DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg"
-    }
-  ],
+  "productSlug": "offworld-trading-company/conspicuous-comsumption",
+  "urlSlug": "snapperconsumption",
+  "creationDate": "2020-02-25T13:51:45.745Z",
+  "lastModifiedDate": "2020-04-02T03:01:43.597Z",
+  "effectiveDate": "2020-03-04T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
     "name": "Stardock Entertainment, Inc"
   },
-  "items": [
-    {
-      "id": "a43bd1b21cce43bca9dda988d8899db8",
-      "namespace": "e8882546f28e4832af823c646aed232e",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "SupportedPlatforms",
-      "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "offworld-trading-company/conspicuous-comsumption"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -60,6 +37,54 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "offworld-trading-company/conspicuous-comsumption"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg",
+      "md5": "083973ff7c24c39c202634917dc68af9",
+      "size": 72711,
+      "uploadedDate": "2020-03-05T15:32:39.726Z",
+      "width": 320,
+      "height": 180
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg",
+      "md5": "083973ff7c24c39c202634917dc68af9",
+      "size": 72711,
+      "uploadedDate": "2020-03-05T15:32:57.145Z",
+      "width": 320,
+      "height": 180
+    }
+  ],
+  "items": [
+    {
+      "id": "a43bd1b21cce43bca9dda988d8899db8"
+    }
+  ],
+  "catalogNs": null
 }

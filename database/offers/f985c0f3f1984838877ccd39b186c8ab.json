@@ -1,55 +1,43 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-24T15:00:00.000Z",
-  "creationDate": "2020-02-17T20:54:06.752Z",
-  "lastModifiedDate": "2020-05-12T19:11:12.937Z",
-  "viewableDate": null,
-  "productSlug": "paladins/season-pass-2019-and-2020",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Season Pass 2019 + 2020",
   "id": "f985c0f3f1984838877ccd39b186c8ab",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
+  "title": "Season Pass 2019 + 2020",
   "description": "Season Pass 2019 + 2020",
   "longDescription": "Season Pass 2019 + 2020",
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_2560x1440-2560x1440-29f1dcea7fa90aec01b0ec655e3f0ae7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_2560x1440-2560x1440-29f1dcea7fa90aec01b0ec655e3f0ae7.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_860x1148-860x1148-915f29a985ae68e8105d33bcf3225598.jpg"
-    }
-  ],
+  "productSlug": "paladins/season-pass-2019-and-2020",
+  "urlSlug": "season-pass",
+  "creationDate": "2020-02-17T20:54:06.752Z",
+  "lastModifiedDate": "2020-05-12T19:11:12.937Z",
+  "effectiveDate": "2020-03-24T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
     "name": "Hi-Rez Studios"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9bea9683108948f8a3aaa4b68416564a",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "bundles"
     },
     {
-      "id": "7a7666d101324233a7a3267374feb5b4",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "0a2f5338a7d948acb3bf79492a13766d",
-      "namespace": "badb0ee71b474ed591ec43212547cfc8",
-      "developer": null
+      "path": "bundles/addons"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -68,20 +56,45 @@
       "value": "paladins/season-pass-2019-and-2020"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "bundles"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_2560x1440-2560x1440-29f1dcea7fa90aec01b0ec655e3f0ae7.jpg",
+      "md5": "29f1dcea7fa90aec01b0ec655e3f0ae7",
+      "size": 768189,
+      "uploadedDate": "2020-03-19T22:15:22.235Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_2560x1440-2560x1440-29f1dcea7fa90aec01b0ec655e3f0ae7.jpg",
+      "md5": "29f1dcea7fa90aec01b0ec655e3f0ae7",
+      "size": 768189,
+      "uploadedDate": "2020-03-19T22:15:31.204Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "bundles/addons"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/badb0ee71b474ed591ec43212547cfc8/offer/Paladins_EGS_SeasonPass2020_860x1148-860x1148-915f29a985ae68e8105d33bcf3225598.jpg",
+      "md5": "915f29a985ae68e8105d33bcf3225598",
+      "size": 289843,
+      "uploadedDate": "2020-03-19T22:15:39.922Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9bea9683108948f8a3aaa4b68416564a"
+    },
+    {
+      "id": "7a7666d101324233a7a3267374feb5b4"
+    },
+    {
+      "id": "0a2f5338a7d948acb3bf79492a13766d"
+    }
+  ],
+  "catalogNs": null
 }

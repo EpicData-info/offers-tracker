@@ -1,43 +1,99 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-04-23T15:00:00.000Z",
-  "creationDate": "2019-11-05T02:24:15.016Z",
-  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Just Cause 4 Complete Edition",
   "id": "76f7631689174b8c9194207c2e7b0eeb",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
+  "title": "Just Cause 4 Complete Edition",
   "description": "Just Cause 4 Complete Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-2560x1440-2560x1440-bb37fa434e9ed06691e9c29471ffd1b0.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg"
-    }
-  ],
+  "productSlug": null,
+  "urlSlug": "kakopo-complete-edition",
+  "creationDate": "2019-11-05T02:24:15.016Z",
+  "lastModifiedDate": "2020-04-23T15:00:09.289Z",
+  "effectiveDate": "2020-04-23T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-7petn7mrlk8g86ktqm7uglcr7lfaja",
     "name": "Square Enix"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "0b39426e73c7425689539e0d6c88701d",
-      "namespace": "ba8062bdcc1342c0b78743e3c6242575",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-06-19T16:58:59.068Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -50,17 +106,39 @@
       "value": "Avalanche Studios"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-2560x1440-2560x1440-bb37fa434e9ed06691e9c29471ffd1b0.jpg",
+      "md5": "bb37fa434e9ed06691e9c29471ffd1b0",
+      "size": 125378,
+      "uploadedDate": "2020-02-26T19:22:47.288Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg",
+      "md5": "6512932d6111c90c1fdcfb42458ff146",
+      "size": 113581,
+      "uploadedDate": "2020-02-26T19:22:58.787Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ba8062bdcc1342c0b78743e3c6242575/offer/JC4-Complete-Edition-860x1148-860x1148-6512932d6111c90c1fdcfb42458ff146-860x1148-6512932d6111c90c1fdcfb42458ff146.jpg",
+      "md5": "6512932d6111c90c1fdcfb42458ff146",
+      "size": 113581,
+      "uploadedDate": "2020-04-10T15:42:53.655Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "0b39426e73c7425689539e0d6c88701d"
+    }
+  ],
+  "catalogNs": null
 }

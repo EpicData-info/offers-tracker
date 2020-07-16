@@ -1,33 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-06-03T22:37:31.041Z",
-  "lastModifiedDate": "2020-06-04T03:37:39.230Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "TEST 4999 USD cents",
   "id": "13a1018a6f594f578115ada48635191a",
   "namespace": "bd46d4ce259349e5bd8b3ded20274737",
+  "title": "TEST 4999 USD cents",
   "description": "test",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "test-4999-usd-cents",
+  "creationDate": "2020-06-03T22:37:31.041Z",
+  "lastModifiedDate": "2020-06-04T03:37:39.230Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-2baznhy8tfh7fmyb55ul656v7ggt7r",
     "name": "Tripwire Interactive"
   },
-  "items": [
-    {
-      "id": "eeeebca436864c29b56f88b18ca89a41",
-      "namespace": "bd46d4ce259349e5bd8b3ded20274737",
-      "developer": null
-    }
-  ],
-  "customAttributes": [],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -36,6 +31,13 @@
       "path": "addons/consumable"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "eeeebca436864c29b56f88b18ca89a41"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,43 +1,108 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-05-21T09:00:00.000Z",
-  "creationDate": "2019-05-21T12:53:27.483Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
-  "viewableDate": null,
-  "productSlug": "layers-of-fear/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Layers of Fear",
   "id": "afe30d1ebc664482b74afc7087fab321",
   "namespace": "epic",
+  "title": "Layers of Fear",
   "description": "Layers of Fear",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_Logo_Color-983x742-886dac16239fb58014ba143dc0dd6e0c.png"
-    }
-  ],
+  "productSlug": "layers-of-fear/home",
+  "urlSlug": "cilantro",
+  "creationDate": "2019-05-21T12:53:27.483Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.678Z",
+  "effectiveDate": "2019-05-21T09:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
     "name": "Aspyr Media, Inc."
   },
-  "items": [
+  "linkedOfferId": "6467d7c966244e40a72d776ea430f357",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-16T15:01:01.930Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1127",
+      "name": "INVESTIGATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:21.604Z",
+      "updated": "2020-06-15T15:37:04.186Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-16T15:49:55.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,30 +127,39 @@
       "value": "6467d7c966244e40a72d776ea430f357"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PrimaryPromo-2560x1440-10b6c8c187c44653d566ec079b030e85.jpg",
+      "md5": "10b6c8c187c44653d566ec079b030e85",
+      "size": 207106,
+      "uploadedDate": "2019-05-21T12:49:36.063Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_PortaitPromo-1280x1440-61daf14a7bf8e9c71650cadff259d386.jpg",
+      "md5": "61daf14a7bf8e9c71650cadff259d386",
+      "size": 143618,
+      "uploadedDate": "2019-05-21T12:49:50.105Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/LayersOfFear_Logo_Color-983x742-886dac16239fb58014ba143dc0dd6e0c.png",
+      "md5": "886dac16239fb58014ba143dc0dd6e0c",
+      "size": 91767,
+      "uploadedDate": "2019-05-21T12:50:02.046Z",
+      "width": 983,
+      "height": 742
     }
   ],
-  "linkedOfferId": "6467d7c966244e40a72d776ea430f357",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Aspyr Media, Inc."
-      },
-      {
-        "key": "developerName",
-        "value": "Bloober Team"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "layers-of-fear/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

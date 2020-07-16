@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-07T16:00:00.000Z",
-  "creationDate": "2019-09-10T21:04:09.733Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
-  "viewableDate": null,
-  "productSlug": "ruiner/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "RUINER",
   "id": "42d063eb91874990b29f5b9a3e083673",
   "namespace": "74d82b28ab424956ac24407229fe6faa",
+  "title": "RUINER",
   "description": "RUINER",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S1-2560x1440-f5548f0e232e2e27d0093f4aec67b8a2.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_IC1-846x171-f4a25b2621539846ca33e9523975e6c5.png"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_IC2-128x128-65cbefd7152aef82a63bc3fb29d4b505.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/Ruiner-2560x1440-cc62846c55b23dd82990820f65b4bb4e.jpg"
-    }
-  ],
+  "productSlug": "ruiner/home",
+  "urlSlug": "laridaegeneralaudience",
+  "creationDate": "2019-09-10T21:04:09.733Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "effectiveDate": "2019-11-07T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
     "name": "Devolver Digital, Inc."
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "db6bbf18eb334e6a8108c9a1ea8ad888",
-      "namespace": "74d82b28ab424956ac24407229fe6faa",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-16T15:49:55.867Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "ruiner/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S1-2560x1440-f5548f0e232e2e27d0093f4aec67b8a2.jpg",
+      "md5": "f5548f0e232e2e27d0093f4aec67b8a2",
+      "size": 497487,
+      "uploadedDate": "2019-10-25T21:09:47.474Z",
+      "width": 2560,
+      "height": 1440
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg",
+      "md5": "3e4c8444774e90c9496a19d5e0b9c29a",
+      "size": 428233,
+      "uploadedDate": "2019-10-25T21:10:26.984Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "games/edition"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_IC1-846x171-f4a25b2621539846ca33e9523975e6c5.png",
+      "md5": "f4a25b2621539846ca33e9523975e6c5",
+      "size": 8232,
+      "uploadedDate": "2019-10-25T21:10:33.781Z",
+      "width": 846,
+      "height": 171
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg",
+      "md5": "3e4c8444774e90c9496a19d5e0b9c29a",
+      "size": 428233,
+      "uploadedDate": "2019-10-25T21:10:26.984Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_S2-1280x1440-3e4c8444774e90c9496a19d5e0b9c29a.jpg",
+      "md5": "3e4c8444774e90c9496a19d5e0b9c29a",
+      "size": 428233,
+      "uploadedDate": "2019-10-30T21:00:22.562Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/EGS_ReikonGames_RUINER_IC2-128x128-65cbefd7152aef82a63bc3fb29d4b505.png",
+      "md5": "65cbefd7152aef82a63bc3fb29d4b505",
+      "size": 2099,
+      "uploadedDate": "2019-10-30T21:08:45.168Z",
+      "width": 128,
+      "height": 128
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/74d82b28ab424956ac24407229fe6faa/offer/Ruiner-2560x1440-cc62846c55b23dd82990820f65b4bb4e.jpg",
+      "md5": "cc62846c55b23dd82990820f65b4bb4e",
+      "size": 890878,
+      "uploadedDate": "2020-02-28T14:07:56.344Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "db6bbf18eb334e6a8108c9a1ea8ad888"
+    }
+  ],
+  "catalogNs": null
 }

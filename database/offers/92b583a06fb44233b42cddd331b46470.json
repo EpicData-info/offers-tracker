@@ -1,56 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-20T16:00:00.000Z",
-  "creationDate": "2019-11-20T20:48:40.586Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "south-park-the-fractured-but-whole/danger-deck",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Danger Deck - DLC",
   "id": "92b583a06fb44233b42cddd331b46470",
   "namespace": "764eb429792649e4a606413cd649de2c",
+  "title": "Danger Deck - DLC",
   "description": "Danger Deck - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-3e14ed88ee749bfd69722aef6db536e8.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-bb80217aa5a910ef34ca8e9ba74ba8ab302804e2.jpg"
-    }
-  ],
+  "productSlug": "south-park-the-fractured-but-whole/danger-deck",
+  "urlSlug": "dlc1-dd",
+  "creationDate": "2019-11-20T20:48:40.586Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-12-20T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
-    {
-      "id": "06650ed7bcc04f1bb70bb18ca2683143",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    },
-    {
-      "id": "d16b2e63a42f42cbb972430f434366d4",
-      "namespace": "764eb429792649e4a606413cd649de2c",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.blacklist",
-      "value": "CN,KR"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "south-park-the-fractured-but-whole/danger-deck"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -65,6 +37,44 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,KR"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "south-park-the-fractured-but-whole/danger-deck"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-3e14ed88ee749bfd69722aef6db536e8.jpg",
+      "md5": "3e14ed88ee749bfd69722aef6db536e8",
+      "size": 1247012,
+      "uploadedDate": "2019-12-16T19:02:05.922Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-bb80217aa5a910ef34ca8e9ba74ba8ab302804e2.jpg",
+      "md5": "4c3673353bdba1bfe4f823c7c6249572",
+      "size": 349053,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "06650ed7bcc04f1bb70bb18ca2683143"
+    },
+    {
+      "id": "d16b2e63a42f42cbb972430f434366d4"
+    }
+  ],
+  "catalogNs": null
 }

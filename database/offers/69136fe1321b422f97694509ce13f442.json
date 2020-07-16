@@ -1,59 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2019-08-27T19:15:43.923Z",
-  "lastModifiedDate": "2020-04-10T19:13:19.617Z",
-  "viewableDate": null,
-  "productSlug": "the-eternal-cylinder/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "The Eternal Cylinder",
   "id": "69136fe1321b422f97694509ce13f442",
   "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
+  "title": "The Eternal Cylinder",
   "description": "The Eternal Cylinder",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo White-200x200-0a53b354255ef9a069aa88edcf7881f7.png"
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/offer/CodeRedemption_EternalCylinder-340x440-ab461b6df668b8062b0b0f50cdc54139.jpg"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/offer/CodeRedemption_EternalCylinder-340x440-ab461b6df668b8062b0b0f50cdc54139.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg"
-    }
-  ],
+  "productSlug": "the-eternal-cylinder/home",
+  "urlSlug": "oriolegeneralaudience",
+  "creationDate": "2019-08-27T19:15:43.923Z",
+  "lastModifiedDate": "2020-04-10T19:13:19.617Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-v3fdwkgaukftabrpt9292vr5tcwj2p",
     "name": "Good Shepherd Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "9f4fd1a1af2f4b73b43198a77b7ad22c",
-      "namespace": "fa0c74ef7780498fb222dcd099bf82a2",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-16T15:01:01.909Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-14T13:59:58.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -74,20 +117,75 @@
       "value": "the-eternal-cylinder/home"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_IC1_Game Logo White-200x200-0a53b354255ef9a069aa88edcf7881f7.png",
+      "md5": "0a53b354255ef9a069aa88edcf7881f7",
+      "size": 91156,
+      "uploadedDate": "2019-08-29T01:38:19.167Z",
+      "width": 200,
+      "height": 200
     },
     {
-      "path": "games/edition/base"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg",
+      "md5": "3009c54e34003caeba8d1139d3f5ca5c",
+      "size": 2168676,
+      "uploadedDate": "2019-08-29T01:38:35.459Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "path": "games/edition"
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg",
+      "md5": "4d0d4b0e9f9d8458f73de569004696e7",
+      "size": 1813418,
+      "uploadedDate": "2019-08-29T01:38:48.895Z",
+      "width": 1280,
+      "height": 1440
     },
     {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_S2_Store Primary Promo Portrait-1280x1440-4d0d4b0e9f9d8458f73de569004696e7.jpg",
+      "md5": "4d0d4b0e9f9d8458f73de569004696e7",
+      "size": 1813418,
+      "uploadedDate": "2019-08-29T01:38:48.895Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/offer/CodeRedemption_EternalCylinder-340x440-ab461b6df668b8062b0b0f50cdc54139.jpg",
+      "md5": "ab461b6df668b8062b0b0f50cdc54139",
+      "size": 239165,
+      "uploadedDate": "2019-09-30T15:09:53.920Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fa0c74ef7780498fb222dcd099bf82a2/offer/CodeRedemption_EternalCylinder-340x440-ab461b6df668b8062b0b0f50cdc54139.jpg",
+      "md5": "ab461b6df668b8062b0b0f50cdc54139",
+      "size": 239165,
+      "uploadedDate": "2019-09-30T15:10:02.405Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ACE TEAM_THE ETERNAL CYLINDER_G1_Product Display Page Promo-1920x1080-3009c54e34003caeba8d1139d3f5ca5c.jpg",
+      "md5": "3009c54e34003caeba8d1139d3f5ca5c",
+      "size": 2168676,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "9f4fd1a1af2f4b73b43198a77b7ad22c"
+    }
+  ],
+  "catalogNs": null
 }

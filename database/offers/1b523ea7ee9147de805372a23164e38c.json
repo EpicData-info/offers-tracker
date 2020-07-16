@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "creationDate": "2020-03-23T19:59:15.107Z",
-  "lastModifiedDate": "2020-04-01T14:50:02.057Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "TRDS - Press Deluxe",
   "id": "1b523ea7ee9147de805372a23164e38c",
   "namespace": "52b90f9a982a404781b189f6a7903226",
+  "title": "TRDS - Press Deluxe",
   "description": "TRDS - Press Deluxe",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "hoatzindeluxeaudience-01",
+  "creationDate": "2020-03-23T19:59:15.107Z",
+  "lastModifiedDate": "2020-04-01T14:50:02.057Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
     "name": "tinyBuild Games"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "29d61ce76cf7422d8c7217ef5786715d",
-      "namespace": "52b90f9a982a404781b189f6a7903226",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -41,14 +46,11 @@
       "value": "We're Five Games"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "29d61ce76cf7422d8c7217ef5786715d"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

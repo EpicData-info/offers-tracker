@@ -1,39 +1,95 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2020-03-19T15:00:00.000Z",
-  "creationDate": "2020-03-14T04:15:04.438Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
-  "viewableDate": "2020-03-19T15:00:00.000Z",
-  "productSlug": "figment/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Figment",
   "id": "f231865aad934f80abb9de38c4a7be85",
   "namespace": "epic",
+  "title": "Figment",
   "description": "Figment",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg"
-    }
-  ],
+  "productSlug": "figment/home",
+  "urlSlug": "figment",
+  "creationDate": "2020-03-14T04:15:04.438Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.679Z",
+  "effectiveDate": "2020-03-19T15:00:00.000Z",
+  "viewableDate": "2020-03-19T15:00:00.000Z",
+  "developer": null,
   "seller": {
     "id": "o-bdq65kgy9hhkz5n4gkjlyt3uju86hw",
     "name": "Bedtime Digital Games ApS"
   },
-  "items": [
+  "linkedOfferId": "addd4e86c4d746ab86f21606bdadce7d",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-16T14:24:42.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +114,30 @@
       "value": "addd4e86c4d746ab86f21606bdadce7d"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S3-1360x766-db305dcf65ce7dd5d7c3adfe6afc6769.jpg",
+      "md5": "db305dcf65ce7dd5d7c3adfe6afc6769",
+      "size": 490395,
+      "uploadedDate": "2020-03-14T04:08:38.174Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/epic/offer/EGS_Figment_BedtimeDigitalGames_S2-860x1148-6470fca68f6a5b0a56a9033f83ab9afd.jpg",
+      "md5": "6470fca68f6a5b0a56a9033f83ab9afd",
+      "size": 423229,
+      "uploadedDate": "2020-03-14T04:08:49.694Z",
+      "width": 860,
+      "height": 1148
     }
   ],
-  "linkedOfferId": "addd4e86c4d746ab86f21606bdadce7d",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "[]"
-      },
-      {
-        "key": "publisherName",
-        "value": "Bedtime Digital Games"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "figment/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

@@ -1,39 +1,105 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2050-12-31T18:00:00.000Z",
-  "creationDate": "2019-12-11T03:26:27.159Z",
-  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
-  "viewableDate": null,
-  "productSlug": "foregone/home",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Foregone",
   "id": "c2f85843620d428f9bdd491f5833c6fd",
   "namespace": "epic",
+  "title": "Foregone",
   "description": "Foregone",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg"
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg"
-    }
-  ],
+  "productSlug": "foregone/home",
+  "urlSlug": "foregone",
+  "creationDate": "2019-12-11T03:26:27.159Z",
+  "lastModifiedDate": "2020-04-29T00:38:22.680Z",
+  "effectiveDate": "2050-12-31T18:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-r7nfesqr4qcafkmfwmp9hpu492f228",
     "name": "Big Blue Bubble, Inc."
   },
-  "items": [
+  "linkedOfferId": "aab7e770208a419286ef5fe2f9a98a60",
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "83564e9426d44ce2bbbab6037b80354c",
+      "path": "games"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
       "namespace": "epic",
-      "developer": null
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1333",
+      "name": "ACTION RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2020-07-06T13:49:18.799Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-14T14:54:28.030Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -58,26 +124,30 @@
       "value": "aab7e770208a419286ef5fe2f9a98a60"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S3-1360x766-98788636a8c0f9a6a50534d50c420683.jpg",
+      "md5": "98788636a8c0f9a6a50534d50c420683",
+      "size": 501303,
+      "uploadedDate": "2019-12-11T03:17:25.493Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_BigBlueBubble_Foregone_S4-510x680-d2ea24d44a409f9f1cba0db7b4d6d930.jpg",
+      "md5": "d2ea24d44a409f9f1cba0db7b4d6d930",
+      "size": 345019,
+      "uploadedDate": "2019-12-11T03:17:52.172Z",
+      "width": 510,
+      "height": 680
     }
   ],
-  "linkedOfferId": "aab7e770208a419286ef5fe2f9a98a60",
-  "linkedOffer": {
-    "customAttributes": [
-      {
-        "key": "com.epicgames.app.blacklist",
-        "value": "{}"
-      },
-      {
-        "key": "publisherName",
-        "value": "Big Blue Bubble"
-      },
-      {
-        "key": "com.epicgames.app.productSlug",
-        "value": "foregone/home"
-      }
-    ]
-  }
+  "items": [
+    {
+      "id": "83564e9426d44ce2bbbab6037b80354c"
+    }
+  ],
+  "catalogNs": null
 }

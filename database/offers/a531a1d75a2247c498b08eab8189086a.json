@@ -1,32 +1,37 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2029-04-02T16:30:00.000Z",
-  "creationDate": "2019-04-02T20:32:24.673Z",
-  "lastModifiedDate": "2020-04-29T00:38:41.504Z",
-  "viewableDate": null,
-  "productSlug": null,
-  "developer": null,
-  "ignoreOrder": true,
-  "freeDays": 0,
-  "title": "CorianderDevAudience",
   "id": "a531a1d75a2247c498b08eab8189086a",
   "namespace": "coriander",
+  "title": "CorianderDevAudience",
   "description": "CorianderDevAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "productSlug": null,
+  "urlSlug": "corianderdevaudience",
+  "creationDate": "2019-04-02T20:32:24.673Z",
+  "lastModifiedDate": "2020-04-29T00:38:41.504Z",
+  "effectiveDate": "2029-04-02T16:30:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
     "name": "Epic Dev Test Account"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "c27bdf89a8804294b58911370f138834",
-      "namespace": "coriander",
-      "developer": null
+      "path": "games"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "publisherName",
@@ -37,14 +42,11 @@
       "value": "U"
     }
   ],
-  "categories": [
+  "keyImages": [],
+  "items": [
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "id": "c27bdf89a8804294b58911370f138834"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "catalogNs": null
 }

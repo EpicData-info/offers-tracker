@@ -1,54 +1,40 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-11-27T16:00:00.000Z",
-  "creationDate": "2019-10-28T15:20:38.941Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
-  "viewableDate": null,
-  "productSlug": "assassins-creed-origins/deluxe-edition",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Assassin's Creed Origins Deluxe Edition",
   "id": "855b9b1f91b0439089395bbaab1b6e4b",
   "namespace": "camellia",
+  "title": "Assassin's Creed Origins Deluxe Edition",
   "description": "Assassin's Creed Origins Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png"
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_Deluxe-330x440-89597566f1e34c3e240dec977b819617.jpg"
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-37cf9b2d74a694a3a24da2fe5cd6efd3.jpg"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-025b96cc01367a79ddc2dd4a0ffa88d129db9170.jpg"
-    }
-  ],
+  "productSlug": "assassins-creed-origins/deluxe-edition",
+  "urlSlug": "camelliadeluxeaudience",
+  "creationDate": "2019-10-28T15:20:38.941Z",
+  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "effectiveDate": "2019-11-27T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
     "name": "Ubisoft Entertainment"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "d57ccd8e249546378ae2b5f5a0e2381d",
-      "namespace": "camellia",
-      "developer": null
+      "path": "games"
     },
     {
-      "id": "9e995dee13a74adb99f6cda0cefdac7a",
-      "namespace": "camellia",
-      "developer": null
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -63,17 +49,51 @@
       "value": "assassins-creed-origins/deluxe-edition"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "games"
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/camellia/item/ACORating-842x404-3192940fd03ce42a91bec04ef222e1ec.png",
+      "md5": "3192940fd03ce42a91bec04ef222e1ec",
+      "size": 76578,
+      "uploadedDate": "2019-04-23T21:04:14.710Z",
+      "width": 842,
+      "height": 404
     },
     {
-      "path": "games/edition"
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_Deluxe-330x440-89597566f1e34c3e240dec977b819617.jpg",
+      "md5": "89597566f1e34c3e240dec977b819617",
+      "size": 162717,
+      "uploadedDate": "2019-11-26T18:06:13.541Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "applications"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-37cf9b2d74a694a3a24da2fe5cd6efd3.jpg",
+      "md5": "37cf9b2d74a694a3a24da2fe5cd6efd3",
+      "size": 1981480,
+      "uploadedDate": "2019-11-26T18:07:17.073Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12002_EGST_BannerBundle_DLX_US_Edition_Capsule_1920X1080-1920x1080-025b96cc01367a79ddc2dd4a0ffa88d129db9170.jpg",
+      "md5": "4e2b847a45c9c06db21c820d59d049cd",
+      "size": 225088,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "d57ccd8e249546378ae2b5f5a0e2381d"
+    },
+    {
+      "id": "9e995dee13a74adb99f6cda0cefdac7a"
+    }
+  ],
+  "catalogNs": null
 }

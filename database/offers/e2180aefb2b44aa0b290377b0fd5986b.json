@@ -1,43 +1,102 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-02-04T15:17:00.000Z",
-  "creationDate": "2019-02-04T20:19:27.913Z",
-  "lastModifiedDate": "2020-05-11T18:38:01.670Z",
-  "viewableDate": null,
-  "productSlug": "darksiders3/dlc",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Darksiders III DLC - The Crucible",
   "id": "e2180aefb2b44aa0b290377b0fd5986b",
   "namespace": "springbok",
+  "title": "Darksiders III DLC - The Crucible",
   "description": "Darksiders III DLC - The Crucible",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_TheCrucibleDLC_KeyArt-2175x1285-9c5dff5431ca2330a5e3d7a93dda34e54bc77d46.jpg"
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png"
-    }
-  ],
+  "productSlug": "darksiders3/dlc",
+  "urlSlug": "darksiders-dlc",
+  "creationDate": "2019-02-04T20:19:27.913Z",
+  "lastModifiedDate": "2020-05-11T18:38:01.670Z",
+  "effectiveDate": "2019-02-04T15:17:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
     "name": "THQ Nordic GmbH"
   },
-  "items": [
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
     {
-      "id": "a46ef9792391432c82cf18321a553fc8",
-      "namespace": "springbok",
-      "developer": null
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T15:49:55.986Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-16T15:49:55.942Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-16T15:49:55.917Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-16T15:02:12.567Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -62,20 +121,39 @@
       "value": "darksiders3/dlc"
     }
   ],
-  "categories": [
+  "keyImages": [
     {
-      "path": "addons"
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+      "md5": "acb9ad88419d3f09a2d29b582324161f",
+      "size": 100477,
+      "uploadedDate": "2019-04-23T20:32:55.900Z",
+      "width": 330,
+      "height": 440
     },
     {
-      "path": "addons/durable"
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/springbok/offer/DS3_TheCrucibleDLC_KeyArt-2175x1285-9c5dff5431ca2330a5e3d7a93dda34e54bc77d46.jpg",
+      "md5": "53b131fe808542001476462089ab43d0",
+      "size": 262025,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 2175,
+      "height": 1285
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "applications"
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/springbok/offer/Darksiders3_CodeRedemption-330x440-acb9ad88419d3f09a2d29b582324161f-330x440-acb9ad88419d3f09a2d29b582324161f.png",
+      "md5": "acb9ad88419d3f09a2d29b582324161f",
+      "size": 100477,
+      "uploadedDate": "2020-04-20T14:15:05.291Z",
+      "width": 330,
+      "height": 440
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "items": [
+    {
+      "id": "a46ef9792391432c82cf18321a553fc8"
+    }
+  ],
+  "catalogNs": null
 }

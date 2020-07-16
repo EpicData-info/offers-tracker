@@ -1,47 +1,28 @@
 {
-  "isFeatured": false,
-  "collectionOfferIds": [],
-  "effectiveDate": "2019-12-12T16:00:00.000Z",
-  "creationDate": "2019-06-21T14:00:39.024Z",
-  "lastModifiedDate": "2020-05-13T20:34:53.723Z",
-  "viewableDate": null,
-  "productSlug": "the-escapists/fhurst-peak-correctional-facility",
-  "developer": null,
-  "ignoreOrder": false,
-  "freeDays": 0,
-  "title": "Fhurst Peak Correctional Facility",
   "id": "53b7d8c5c4004586874fdca11876ddd6",
   "namespace": "61bc780f42f84fe29e6dfee957ab82de",
+  "title": "Fhurst Peak Correctional Facility",
   "description": "Fhurst Peak Correctional Facility DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png"
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_MouldyToofStudios_TheEscapistsFhurstPeakCorrectionalFacility_G1A_00-1920x1080-5acebc32bd9487d0952303bcda9ed0c6ae6cfedf.jpg"
-    }
-  ],
+  "productSlug": "the-escapists/fhurst-peak-correctional-facility",
+  "urlSlug": "peony-dlc",
+  "creationDate": "2019-06-21T14:00:39.024Z",
+  "lastModifiedDate": "2020-05-13T20:34:53.723Z",
+  "effectiveDate": "2019-12-12T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
   "seller": {
     "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
     "name": "Team17 Digital Ltd"
   },
-  "items": [
-    {
-      "id": "7bd6003c3cd6485f82451a1e53efa278",
-      "namespace": "61bc780f42f84fe29e6dfee957ab82de",
-      "developer": null
-    }
-  ],
-  "customAttributes": [
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-escapists/fhurst-peak-correctional-facility"
-    }
-  ],
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
   "categories": [
     {
       "path": "addons"
@@ -56,6 +37,37 @@
       "path": "applications"
     }
   ],
-  "linkedOfferId": null,
-  "linkedOffer": null
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists/fhurst-peak-correctional-facility"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/The Escapists - About image-1000x840-0806e4a2ff09009a68dd36f55eb9b10a.png",
+      "md5": "0806e4a2ff09009a68dd36f55eb9b10a",
+      "size": 278372,
+      "uploadedDate": "2019-12-02T17:15:22.649Z",
+      "width": 1000,
+      "height": 840
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/61bc780f42f84fe29e6dfee957ab82de/offer/EGS_MouldyToofStudios_TheEscapistsFhurstPeakCorrectionalFacility_G1A_00-1920x1080-5acebc32bd9487d0952303bcda9ed0c6ae6cfedf.jpg",
+      "md5": "24921a043f0c784f4671eaaf4e869314",
+      "size": 133347,
+      "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "7bd6003c3cd6485f82451a1e53efa278"
+    }
+  ],
+  "catalogNs": null
 }
