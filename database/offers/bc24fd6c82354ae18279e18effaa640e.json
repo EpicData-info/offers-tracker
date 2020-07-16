@@ -1,0 +1,54 @@
+{
+  "isFeatured": false,
+  "collectionOfferIds": [],
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "creationDate": "2019-05-05T20:52:48.753Z",
+  "lastModifiedDate": "2020-07-16T00:33:10.542Z",
+  "viewableDate": null,
+  "productSlug": null,
+  "developer": null,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "title": "SumacGeneralAudience",
+  "id": "bc24fd6c82354ae18279e18effaa640e",
+  "namespace": "7563789523404ae7ba52588adc99963a",
+  "description": "SumacGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "keyImages": [],
+  "seller": {
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
+  },
+  "items": [
+    {
+      "id": "a875433f201e4a82abb60f6b11bcf531",
+      "namespace": "7563789523404ae7ba52588adc99963a",
+      "developer": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Aspyr Media, Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Digital Continue"
+    }
+  ],
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "linkedOfferId": null,
+  "linkedOffer": null
+}
