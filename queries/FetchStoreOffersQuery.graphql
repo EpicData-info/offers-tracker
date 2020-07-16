@@ -9,50 +9,79 @@ query catalogQuery($locale:String, $count:Int, $start:Int, $country: String!, $s
       sortDir: $sortDir
     ) {
       elements {
-        isFeatured
-        collectionOfferIds
-        effectiveDate
-        creationDate
-        lastModifiedDate
-        viewableDate
-        productSlug
-        developer
-        ignoreOrder
-        freeDays
-          
-        title
         id
         namespace
+        title
         description
         longDescription
         status
-        keyImages {
-          type
-          url
-        }
+        productSlug
+        urlSlug
+        creationDate
+        lastModifiedDate
+        effectiveDate
+        viewableDate
+        
+        developer
         seller {
           id
           name
         }
-        items {
-          id
-          namespace
-          developer
+        linkedOfferId
+        isFeatured
+        ignoreOrder
+        freeDays
+        collectionOfferIds
+        technicalDetails
+        recurrence
+        
+        categories {
+          path
         }
+        
+        tags {
+          id
+          name
+          namespace
+          aliases
+          operator
+          created
+          updated
+          status
+          referenceCount
+          comment
+        }
+        
         customAttributes {
           key
           value
         }
-        categories {
-          path
+        
+        keyImages {
+          type
+          url
+          md5
+          size
+          uploadedDate
+          width
+          height
         }
-        linkedOfferId
-        linkedOffer {
-          customAttributes {
-            key
-            value
-          }
+        
+        items {
+          id
         }
+
+        catalogNs {
+          name
+        }
+        
+        # linkedOffer {
+        #   customAttributes {
+        #     key
+        #     value
+        #   }
+        # }
+
       }
       paging {
         count

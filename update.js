@@ -70,6 +70,7 @@ class Main {
     const namespaces = {};
     const titles = {};
     const list = [];
+    const tags = {};
     
     const offersPath = `${this.databasePath}/offers`;
     Fs.readdirSync(offersPath).forEach((fileName) => {
@@ -84,6 +85,7 @@ class Main {
           }
         }
         titles[offer.id] = offer.title;
+        (offer.tags || []).forEach(tag => tags[tag.id] = tag);
         const thumbnailImage = Array.isArray(offer.keyImages) && offer.keyImages.find(img => img.type === 'Thumbnail');
         list.push([
           offer.id,
@@ -104,6 +106,7 @@ class Main {
     Fs.writeFileSync(`${this.databasePath}/namespaces.json`, JSON.stringify(namespaces, null, 2));
     Fs.writeFileSync(`${this.databasePath}/titles.json`, JSON.stringify(titles, null, 2));
     Fs.writeFileSync(`${this.databasePath}/list.json`, JSON.stringify(list, null, 2));
+    Fs.writeFileSync(`${this.databasePath}/tags.json`, JSON.stringify(tags, null, 2));
   }
 
   async sync () {
