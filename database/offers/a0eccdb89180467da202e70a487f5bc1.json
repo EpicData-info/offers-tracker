@@ -5,10 +5,10 @@
   "description": "Avatar x SMITE Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "smite/avatar-bundle",
   "urlSlug": "avatar-x-smite-bundle",
   "creationDate": "2020-06-24T20:25:56.042Z",
-  "lastModifiedDate": "2020-07-14T14:02:40.058Z",
+  "lastModifiedDate": "2020-07-16T18:39:12.739Z",
   "effectiveDate": "2020-07-14T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "Titan Forge Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "smite/avatar-bundle"
     }
   ],
   "keyImages": [
@@ -88,6 +92,24 @@
       "uploadedDate": "2020-07-14T14:02:12.675Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S2-1200x1600-d14af11cb2d3acd5fcaa8a01f40f3b15.jpg",
+      "md5": "db51c75c122e78d5302c928e342fa31b",
+      "size": 253526,
+      "uploadedDate": "2020-07-16T18:38:09.154Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/076207fa2b5c4803a636af606c3c28b7/offer/EGS_SMITExAvatarPlusBundle_TitanForgeGames_AddOn_S1-2560x1440-c65d899f6685865b0fbdbf9e8fecb531.jpg",
+      "md5": "5e2eda1e811c502931159c16dc1bcb65",
+      "size": 422677,
+      "uploadedDate": "2020-07-16T18:38:20.113Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
