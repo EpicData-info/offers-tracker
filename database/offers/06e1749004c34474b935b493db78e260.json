@@ -62,18 +62,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1344",
-      "name": "FIGHTING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-06-24T15:18:26.110Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -109,7 +98,8 @@
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
