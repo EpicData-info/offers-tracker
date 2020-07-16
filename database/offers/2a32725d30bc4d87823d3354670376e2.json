@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-16T15:49:55.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
     {
       "id": "1393",
       "name": "SIMULATION",
@@ -74,8 +85,7 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {

@@ -83,7 +83,18 @@
       "referenceCount": 28,
       "comment": null
     },
-    null,
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-16T15:00:38.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -95,8 +106,7 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
