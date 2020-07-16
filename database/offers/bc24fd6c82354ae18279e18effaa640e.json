@@ -1,24 +1,49 @@
 {
   "isFeatured": false,
   "collectionOfferIds": [],
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "effectiveDate": "2020-07-23T15:00:00.000Z",
   "creationDate": "2019-05-05T20:52:48.753Z",
-  "lastModifiedDate": "2020-07-16T00:33:10.542Z",
-  "viewableDate": null,
-  "productSlug": null,
+  "lastModifiedDate": "2020-07-16T14:23:09.099Z",
+  "viewableDate": "2020-07-16T15:00:00.000Z",
+  "productSlug": "next-up-hero",
   "developer": null,
   "ignoreOrder": false,
   "freeDays": 0,
-  "title": "SumacGeneralAudience",
+  "title": "Next Up Hero",
   "id": "bc24fd6c82354ae18279e18effaa640e",
   "namespace": "7563789523404ae7ba52588adc99963a",
-  "description": "SumacGeneralAudience",
+  "description": "Next Up Hero",
   "longDescription": null,
   "status": "ACTIVE",
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg"
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/Diesel_product_sumac_home_NextUpHero_StoreSecondary-2560x1440-97bede4299a05d944d4b8287b6b8eb6787a0e50d-2560x1440-6f68273f988d831a5e7f29914f681b38.jpg"
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7563789523404ae7ba52588adc99963a/offer/CodeRedemption_NextUpHero-340x440-3faf6ab6e1b75db4815cfc66250d5bd4-340x440-3faf6ab6e1b75db4815cfc66250d5bd4.jpg"
+    }
+  ],
   "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
+    "id": "o-dukzxsmt2q39w2xql6eb8vewd2bkc9",
+    "name": "Aspyr Media, Inc."
   },
   "items": [
     {
@@ -30,7 +55,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -39,11 +64,24 @@
     {
       "key": "developerName",
       "value": "Digital Continue"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "next-up-hero"
     }
   ],
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
