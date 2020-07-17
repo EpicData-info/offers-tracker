@@ -1,15 +1,15 @@
 {
   "id": "629163da5b8f42fb848ef971051c4a8e",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Rogue Company | Starter Edition",
-  "description": "Rogue Company | Starter Edition",
+  "title": "Starter Founder's Pack",
+  "description": "Starter Founder's Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rogue-company/starter-edition",
   "urlSlug": "peweestarteredition",
   "creationDate": "2020-04-23T20:20:59.242Z",
-  "lastModifiedDate": "2020-05-07T00:09:01.209Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-07-17T21:20:28.934Z",
+  "effectiveDate": "2020-07-20T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -21,7 +21,7 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": "This is for the store page.  Includes the base game for a 'founder's pack' series",
+  "technicalDetails": "",
   "recurrence": "ONCE",
   "categories": [
     {
@@ -42,7 +42,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-16T20:05:03.280Z",
+      "updated": "2020-07-17T21:20:42.818Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -54,7 +54,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-16T15:01:01.996Z",
+      "updated": "2020-07-17T21:20:42.881Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
@@ -66,7 +66,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-16T19:53:08.907Z",
+      "updated": "2020-07-17T21:20:42.843Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -78,7 +78,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-07-16T15:49:55.867Z",
+      "updated": "2020-07-17T21:20:42.863Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -90,7 +90,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-16T20:05:03.304Z",
+      "updated": "2020-07-17T21:20:42.900Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -102,7 +102,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-16T20:05:03.252Z",
+      "updated": "2020-07-17T21:20:42.925Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -111,7 +111,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
@@ -124,65 +124,38 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
-      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
-      "size": 430307,
-      "uploadedDate": "2019-09-04T18:48:43.067Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
-      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
-      "size": 257555,
-      "uploadedDate": "2019-09-04T18:48:51.254Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
-      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
-      "size": 3748,
-      "uploadedDate": "2019-09-04T18:49:00.817Z",
-      "width": 200,
-      "height": 200
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
-      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
-      "size": 257555,
-      "uploadedDate": "2019-09-04T18:48:51.254Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_STARTER_PortraitOffer_1200x1600-1200x1600-5c2c550f73d158396468696958f80be1.jpg",
+      "md5": "5c2c550f73d158396468696958f80be1",
+      "size": 227124,
+      "uploadedDate": "2020-07-17T21:10:32.288Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:13.858Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_STARTER_PortraitOffer_1200x1600-1200x1600-5c2c550f73d158396468696958f80be1.jpg",
+      "md5": "5c2c550f73d158396468696958f80be1",
+      "size": 227124,
+      "uploadedDate": "2020-07-17T21:10:43.432Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:22.926Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_STARTER_PortraitOffer_1200x1600-1200x1600-5c2c550f73d158396468696958f80be1.jpg",
+      "md5": "5c2c550f73d158396468696958f80be1",
+      "size": 227124,
+      "uploadedDate": "2020-07-17T21:10:52.138Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
-      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
-      "size": 430307,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_STARTER_LandscapeOffer_2560x1440-2560x1440-f3f5d5ce077cf0795568ad0039cffaa6.jpg",
+      "md5": "f3f5d5ce077cf0795568ad0039cffaa6",
+      "size": 327887,
+      "uploadedDate": "2020-07-17T21:11:59.097Z",
       "width": 2560,
       "height": 1440
     }
