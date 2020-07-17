@@ -38,20 +38,20 @@
     }
   ],
   "tags": [
+    null,
+    null,
     {
-      "id": "1088",
-      "name": "TURN-BASED STRATEGY",
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T11:59:02.267Z",
-      "updated": "2020-05-29T19:32:06.722Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-16T19:53:08.907Z",
       "status": "ACTIVE",
-      "referenceCount": 1,
+      "referenceCount": 195,
       "comment": null
     },
-    null,
-    null,
     {
       "id": "1386",
       "name": "TURN-BASED",
@@ -64,7 +64,20 @@
       "referenceCount": 14,
       "comment": null
     },
-    null
+    null,
+    null,
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-05-29T19:32:06.752Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

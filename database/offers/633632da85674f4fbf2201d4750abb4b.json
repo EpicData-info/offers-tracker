@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-16T20:05:03.292Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -65,21 +54,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-15T16:44:56.118Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
+    null,
     {
       "id": "1294",
       "name": "FIRST-PERSON",
@@ -91,7 +66,9 @@
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
