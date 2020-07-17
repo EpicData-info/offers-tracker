@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-16T19:53:08.907Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -62,30 +51,8 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1116",
-      "name": "COMEDY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-06-19T16:58:59.019Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-16T15:02:12.567Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1263",
       "name": "INDIE",
@@ -97,7 +64,10 @@
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
-    }
+    },
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
