@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1381",
-      "name": "EXPLORATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-07-13T15:21:27.678Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -53,18 +42,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-16T15:02:12.567Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "INDIE",
@@ -75,20 +53,6 @@
       "updated": "2020-07-16T15:02:12.609Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-16T14:24:42.028Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],
