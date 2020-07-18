@@ -38,21 +38,32 @@
     }
   ],
   "tags": [
+    null,
+    null,
     {
-      "id": "1395",
-      "name": "NARRATION",
+      "id": "1212",
+      "name": "RACING",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-07-13T15:21:13.470Z",
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-07T17:11:04.146Z",
       "status": "ACTIVE",
-      "referenceCount": 22,
+      "referenceCount": 6,
       "comment": null
     },
-    null,
-    null,
-    null
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

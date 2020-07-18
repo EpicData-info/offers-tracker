@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1381",
-      "name": "EXPLORATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-07-13T15:21:27.678Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -77,33 +66,8 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-15T16:44:56.118Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-17T23:41:08.782Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1294",
       "name": "FIRST-PERSON",
