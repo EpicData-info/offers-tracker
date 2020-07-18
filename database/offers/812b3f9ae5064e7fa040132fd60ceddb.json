@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1395",
       "name": "NARRATION",
@@ -42,8 +53,30 @@
       "referenceCount": 22,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-17T23:41:08.741Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-17T21:20:42.900Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
