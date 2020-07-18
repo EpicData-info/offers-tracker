@@ -50,18 +50,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1127",
-      "name": "INVESTIGATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:21.604Z",
-      "updated": "2020-06-15T15:37:04.186Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
     {
       "id": "1336",
       "name": "ACTION-ADVENTURE",
@@ -72,30 +61,6 @@
       "updated": "2020-07-16T14:24:42.107Z",
       "status": "ACTIVE",
       "referenceCount": 6,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-17T23:41:08.798Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-16T15:02:12.567Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
       "comment": null
     }
   ],
