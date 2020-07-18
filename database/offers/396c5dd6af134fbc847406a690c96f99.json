@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-09T15:00:19.323Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -51,7 +62,18 @@
       "referenceCount": 195,
       "comment": null
     },
-    null,
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-17T23:41:08.798Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     {
       "id": "9548",
       "name": "OSX",
@@ -67,7 +89,18 @@
       "referenceCount": 48,
       "comment": null
     },
-    null,
+    {
+      "id": "1102",
+      "name": "PROGRAMMING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:09.264Z",
+      "updated": "2020-04-02T01:41:35.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "INDIE",

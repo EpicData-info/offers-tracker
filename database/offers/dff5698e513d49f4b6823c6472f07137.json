@@ -86,9 +86,45 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1179",
+      "name": "VR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:47.428Z",
+      "updated": "2020-04-09T17:11:19.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-15T16:44:56.118Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-17T23:41:08.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
     {
       "id": "1263",
       "name": "INDIE",
