@@ -50,18 +50,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-17T23:41:08.741Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -74,21 +63,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-15T16:44:56.118Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
@@ -111,18 +86,6 @@
       "updated": "2020-07-17T23:41:08.782Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-16T15:02:12.609Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
