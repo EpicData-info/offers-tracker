@@ -41,18 +41,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1159",
-      "name": "ARCADE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:37.620Z",
-      "updated": "2020-07-01T22:04:10.439Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -75,18 +64,6 @@
       "updated": "2020-07-17T23:41:08.798Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1179",
-      "name": "VR",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:47.428Z",
-      "updated": "2020-04-09T17:11:19.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
       "comment": null
     }
   ],
