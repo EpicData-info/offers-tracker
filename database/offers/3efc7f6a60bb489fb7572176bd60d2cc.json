@@ -41,7 +41,18 @@
       "referenceCount": 27,
       "comment": null
     },
-    null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-16T14:24:42.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -116,8 +127,7 @@
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
