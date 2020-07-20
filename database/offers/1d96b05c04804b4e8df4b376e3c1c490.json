@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-07-20T20:21:41.670Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
     {
       "id": "1216",
       "name": "ACTION",
@@ -86,8 +97,7 @@
       "status": "ACTIVE",
       "referenceCount": 9,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {

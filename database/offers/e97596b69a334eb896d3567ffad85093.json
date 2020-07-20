@@ -62,7 +62,18 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-16T15:02:12.609Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1151",
       "name": "PLATFORMER",
@@ -88,8 +99,7 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
