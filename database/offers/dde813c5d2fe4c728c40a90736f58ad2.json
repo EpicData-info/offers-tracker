@@ -71,18 +71,7 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-17T21:20:42.900Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -108,18 +97,6 @@
       "updated": "2020-07-15T16:44:56.118Z",
       "status": "ACTIVE",
       "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-17T23:41:08.782Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
       "comment": null
     }
   ],
