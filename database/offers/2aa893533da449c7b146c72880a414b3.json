@@ -62,18 +62,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1344",
-      "name": "FIGHTING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-07-20T20:21:41.670Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -84,30 +73,6 @@
       "updated": "2020-07-20T20:21:41.686Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-20T20:21:41.632Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-07-20T15:49:02.042Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
