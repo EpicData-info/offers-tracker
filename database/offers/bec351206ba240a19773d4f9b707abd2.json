@@ -41,18 +41,7 @@
       "referenceCount": 2,
       "comment": null
     },
-    {
-      "id": "1233",
-      "name": "BASE-BUILDING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2020-05-13T21:05:17.873Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
+    null,
     {
       "id": "1258",
       "name": "ROGUE-LIKE",
@@ -112,7 +101,8 @@
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
