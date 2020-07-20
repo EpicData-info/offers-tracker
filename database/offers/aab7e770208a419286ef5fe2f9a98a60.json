@@ -62,18 +62,7 @@
       "referenceCount": 3,
       "comment": null
     },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-16T14:24:42.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -96,18 +85,6 @@
       "updated": "2020-07-20T19:02:51.273Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1151",
-      "name": "PLATFORMER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-07-14T14:54:28.030Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
       "comment": null
     }
   ],
