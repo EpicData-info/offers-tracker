@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-20T15:49:02.081Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
+    null,
     {
       "id": "1400",
       "name": "PHYSICS",
@@ -62,18 +51,7 @@
       "referenceCount": 5,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-20T20:21:41.632Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -97,7 +75,9 @@
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
