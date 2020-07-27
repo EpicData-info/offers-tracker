@@ -1,0 +1,125 @@
+{
+  "id": "14f073a7a4204943b830717c32e2c710",
+  "namespace": "4c7117cadb714722950338f02850fd8d",
+  "title": "20XX",
+  "description": "20XX",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "20xx",
+  "urlSlug": "quailgeneralaudience",
+  "creationDate": "2019-09-12T18:15:44.582Z",
+  "lastModifiedDate": "2020-07-23T14:21:57.096Z",
+  "effectiveDate": "2020-07-30T15:00:00.000Z",
+  "viewableDate": "2020-07-23T14:56:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-awffcfyn9p6246bc5np53dac5xa3mt",
+    "name": "Batterystaple Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Batterystaple Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "20xx"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S3-2560x1440-32808983df5cca10375c4c2d20aafb7a.jpg",
+      "md5": "32808983df5cca10375c4c2d20aafb7a",
+      "size": 985758,
+      "uploadedDate": "2020-07-22T23:07:59.416Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+      "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+      "size": 698827,
+      "uploadedDate": "2020-07-22T23:08:03.745Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+      "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+      "size": 698827,
+      "uploadedDate": "2020-07-22T23:08:07.808Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+      "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+      "size": 698827,
+      "uploadedDate": "2020-07-22T23:08:11.674Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S3-2560x1440-32808983df5cca10375c4c2d20aafb7a.jpg",
+      "md5": "32808983df5cca10375c4c2d20aafb7a",
+      "size": 985758,
+      "uploadedDate": "2020-07-22T23:08:16.243Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4c7117cadb714722950338f02850fd8d/offer/EGS_20XX_Batterystaple_S2-1200x1600-3a59b647af6ca43a378eaf0fce7a8ff5.jpg",
+      "md5": "3a59b647af6ca43a378eaf0fce7a8ff5",
+      "size": 698827,
+      "uploadedDate": "2020-07-22T23:08:19.505Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6d1abf02b97647aca3aafbe4ce744a84"
+    }
+  ],
+  "catalogNs": null
+}

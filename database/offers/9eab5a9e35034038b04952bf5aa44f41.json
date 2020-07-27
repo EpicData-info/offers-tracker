@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-origins/the-hidden-ones",
   "urlSlug": "tho-dlc-audience-redeemable",
   "creationDate": "2019-10-28T15:24:24.601Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "lastModifiedDate": "2020-07-21T02:14:30.279Z",
   "effectiveDate": "2019-11-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -72,15 +72,6 @@
       "height": 440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-e1bc3a244ef2cfddefe896c817d5072d.jpg",
-      "md5": "e1bc3a244ef2cfddefe896c817d5072d",
-      "size": 386080,
-      "uploadedDate": "2019-11-26T17:36:33.689Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14904_EGST_BannerBundle_HiddenOnes_US_Edition_Capsule_1920X1080-1920x1080-1422c66daafd794cc27570dd692ed82255b07633.jpg",
       "md5": "8d30a8a3348f45fdc356b9c43175f028",
@@ -88,6 +79,24 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_THO-330x440-eba176052a1d47510c30d016d915ea2e.jpg",
+      "md5": "22eb866f25fd114b1bc16d16251e5535",
+      "size": 192331,
+      "uploadedDate": "2020-07-21T02:14:18.849Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_THO-330x440-eba176052a1d47510c30d016d915ea2e.jpg",
+      "md5": "22eb866f25fd114b1bc16d16251e5535",
+      "size": 192331,
+      "uploadedDate": "2020-07-21T02:14:24.339Z",
+      "width": 330,
+      "height": 440
     }
   ],
   "items": [

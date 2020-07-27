@@ -1,0 +1,111 @@
+{
+  "id": "94b148c52ce8427d845c00859014e15b",
+  "namespace": "cd14dcaa4f3443f19f7169a980559c62",
+  "title": "Civilization VI : Ethiopia Pack",
+  "description": "Civilization VI : Ethiopia Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "sid-meiers-civilization-vi/ethiopia-pack",
+  "urlSlug": "civilization-vi-ethiopia-pack",
+  "creationDate": "2020-06-08T16:08:19.073Z",
+  "lastModifiedDate": "2020-07-23T16:03:58.827Z",
+  "effectiveDate": "2020-07-23T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CU,IR,SY,VE"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Firaxis Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "sid-meiers-civilization-vi/ethiopia-pack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIEthiopiaPack_FiraxisGames_DLC_S1-2560x1440-d63e164791da3713fe5deed0a5bf1890.jpg",
+      "md5": "d63e164791da3713fe5deed0a5bf1890",
+      "size": 869818,
+      "uploadedDate": "2020-07-23T15:24:02.659Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIEthiopiaPack_FiraxisGames_DLC_S2-1200x1600-5aeba36ea794c902755d0dbde9ed8fd4.jpg",
+      "md5": "5aeba36ea794c902755d0dbde9ed8fd4",
+      "size": 678540,
+      "uploadedDate": "2020-07-23T15:24:11.069Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIEthiopiaPack_FiraxisGames_DLC_S2-1200x1600-5aeba36ea794c902755d0dbde9ed8fd4.jpg",
+      "md5": "5aeba36ea794c902755d0dbde9ed8fd4",
+      "size": 678540,
+      "uploadedDate": "2020-07-23T15:24:22.370Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/EGS_CivilizationVIEthiopiaPack_FiraxisGames_DLC_S2-1200x1600-5aeba36ea794c902755d0dbde9ed8fd4.jpg",
+      "md5": "5aeba36ea794c902755d0dbde9ed8fd4",
+      "size": 678540,
+      "uploadedDate": "2020-07-23T15:24:48.770Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "dc3d24804a514328925ac83855c34aae"
+    }
+  ],
+  "catalogNs": null
+}

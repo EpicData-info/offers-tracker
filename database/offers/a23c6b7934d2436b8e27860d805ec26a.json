@@ -1,0 +1,122 @@
+{
+  "id": "a23c6b7934d2436b8e27860d805ec26a",
+  "namespace": "db9feb0da696474e9923764dd75b9854",
+  "title": "Samurai Jack: Battle Through Time",
+  "description": "Samurai Jack: Battle Through Time",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "samurai-jack-battle-through-time",
+  "urlSlug": "zoisitegeneralaudience",
+  "creationDate": "2020-04-24T13:42:03.416Z",
+  "lastModifiedDate": "2020-07-22T15:53:26.925Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ukuqppab77w6pdnvkt5gjqvp44rd55",
+    "name": "Adult Swim Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Adult Swim Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Soleil Ltd."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "samurai-jack-battle-through-time"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S1-2560x1440-8942adb4828f708e146f10e614aee795.jpg",
+      "md5": "8942adb4828f708e146f10e614aee795",
+      "size": 419570,
+      "uploadedDate": "2020-07-15T01:26:48.123Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S2-1200x1600-244b9d4be3acb79075ca408875e05b8b.jpg",
+      "md5": "244b9d4be3acb79075ca408875e05b8b",
+      "size": 262925,
+      "uploadedDate": "2020-07-15T01:26:55.368Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S2-1200x1600-244b9d4be3acb79075ca408875e05b8b.jpg",
+      "md5": "244b9d4be3acb79075ca408875e05b8b",
+      "size": 262925,
+      "uploadedDate": "2020-07-15T01:27:05.328Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S2-1200x1600-244b9d4be3acb79075ca408875e05b8b.jpg",
+      "md5": "244b9d4be3acb79075ca408875e05b8b",
+      "size": 262925,
+      "uploadedDate": "2020-07-15T01:27:16.239Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S1-2560x1440-8942adb4828f708e146f10e614aee795.jpg",
+      "md5": "8942adb4828f708e146f10e614aee795",
+      "size": 419570,
+      "uploadedDate": "2020-07-15T01:27:34.637Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/db9feb0da696474e9923764dd75b9854/offer/EGS_SamuraiJackBattleThroughTime_SoleilLtd_S2-1200x1600-244b9d4be3acb79075ca408875e05b8b.jpg",
+      "md5": "244b9d4be3acb79075ca408875e05b8b",
+      "size": 262925,
+      "uploadedDate": "2020-07-15T01:27:45.804Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "11737a3cdee74b66a45dd76ed934a0cb"
+    }
+  ],
+  "catalogNs": null
+}

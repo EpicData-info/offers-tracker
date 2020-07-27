@@ -8,7 +8,7 @@
   "productSlug": "hellpoint/home",
   "urlSlug": "osloprepurchaseaudience",
   "creationDate": "2020-07-01T20:39:55.427Z",
-  "lastModifiedDate": "2020-07-02T17:01:40.204Z",
+  "lastModifiedDate": "2020-07-21T20:18:34.270Z",
   "effectiveDate": "2020-07-02T17:00:00.000Z",
   "viewableDate": "2020-07-02T17:00:00.000Z",
   "developer": null,
@@ -37,7 +37,12 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",

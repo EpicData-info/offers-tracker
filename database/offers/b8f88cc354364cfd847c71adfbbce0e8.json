@@ -1,14 +1,14 @@
 {
   "id": "b8f88cc354364cfd847c71adfbbce0e8",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Ultimate Founder's Pack",
+  "title": "Rogue Company: Ultimate Founder's Pack",
   "description": "Ultimate Founder's Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rogue-company/ultimate-edition",
   "urlSlug": "peweeultimateedition",
   "creationDate": "2020-04-23T20:23:49.113Z",
-  "lastModifiedDate": "2020-07-17T21:20:42.656Z",
+  "lastModifiedDate": "2020-07-23T16:34:36.844Z",
   "effectiveDate": "2020-07-20T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,78 +35,12 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-20T20:21:41.652Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-20T19:02:51.233Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-20T20:21:41.632Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-07-20T19:02:51.215Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-20T19:02:51.251Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-20T20:21:41.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -125,39 +59,21 @@
   "keyImages": [
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_ULTIMATE_PortraitOffer_1200x1600-1200x1600-4293676ad1481c1368ec3eb927f90e42.jpg",
-      "md5": "4293676ad1481c1368ec3eb927f90e42",
-      "size": 228357,
-      "uploadedDate": "2020-07-17T21:14:10.088Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_ULTIMATE_PortraitOffer_1200x1600-1200x1600-4293676ad1481c1368ec3eb927f90e42.jpg",
-      "md5": "4293676ad1481c1368ec3eb927f90e42",
-      "size": 228357,
-      "uploadedDate": "2020-07-17T21:14:19.912Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_ULTIMATE_PortraitOffer_1200x1600-1200x1600-4293676ad1481c1368ec3eb927f90e42.jpg",
-      "md5": "4293676ad1481c1368ec3eb927f90e42",
-      "size": 228357,
-      "uploadedDate": "2020-07-17T21:14:28.546Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Ultimate_PortraitOffer_1200x1600-1200x1600-43e27d275a8b4e87b16a78fdf014d935.jpg",
+      "md5": "43e27d275a8b4e87b16a78fdf014d935",
+      "size": 1652549,
+      "uploadedDate": "2020-07-22T15:59:26.699Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_ULTIMATE_LandscapeOffer_2560x1440-2560x1440-f8eee1d2c72b5f30c5426b867979865c.jpg",
-      "md5": "f8eee1d2c72b5f30c5426b867979865c",
-      "size": 329443,
-      "uploadedDate": "2020-07-17T21:14:40.396Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Ultimate_HeroCarousel_1920x1080-1920x1080-d7594e664a3e9c7b3b92066b55b57229.jpg",
+      "md5": "d7594e664a3e9c7b3b92066b55b57229",
+      "size": 1759359,
+      "uploadedDate": "2020-07-22T15:59:23.518Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

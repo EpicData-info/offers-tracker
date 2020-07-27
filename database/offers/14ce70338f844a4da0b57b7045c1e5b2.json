@@ -8,7 +8,7 @@
   "productSlug": "sid-meiers-civilization-vi/platinum-edition-upgrade",
   "urlSlug": "kingletplatinumupgrade",
   "creationDate": "2020-05-13T21:07:06.776Z",
-  "lastModifiedDate": "2020-05-21T15:00:00.301Z",
+  "lastModifiedDate": "2020-07-23T15:04:50.171Z",
   "effectiveDate": "2020-05-21T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,90 +38,13 @@
     }
   ],
   "tags": [
-    {
-      "id": "1088",
-      "name": "TURN-BASED STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:02.267Z",
-      "updated": "2020-05-29T19:32:06.722Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-20T20:21:41.686Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-20T20:21:41.632Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-07-01T14:33:22.314Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-20T19:02:51.251Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-20T20:21:41.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1166",
-      "name": "4X",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:41.019Z",
-      "updated": "2020-05-29T19:32:06.752Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -177,6 +100,24 @@
       "uploadedDate": "2020-05-19T19:53:25.481Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/Diesel_productv2_sid-meiers-civilization-vl_platinum-edition-upgrade_EGS_CivilizationVIPlatinumEditionUpgrade_FiraxisGames_DLC_G1A_00-1920x1080-cd825f90c63e75396e4bdc02eb52b9c97556076c-1920x1080-4514ea068f9d1ba2a844709c9a80d893.jpg",
+      "md5": "dcad003bd1aba658b938d656ae81d2ef",
+      "size": 250056,
+      "uploadedDate": "2020-07-23T15:04:34.422Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cd14dcaa4f3443f19f7169a980559c62/offer/Diesel_productv2_sid-meiers-civilization-vl_platinum-edition-upgrade_EGS_CivilizationVIPlatinumEditionUpgrade_FiraxisGames_DLC_S2-1200x1600-936df7ca42d0b5d04ec4d7ca36b5c50ba8d09c0b-1200x1600-d4f2a0bd0ed06f077ea66118cca8046e.jpg",
+      "md5": "dcad003bd1aba658b938d656ae81d2ef",
+      "size": 250056,
+      "uploadedDate": "2020-07-23T15:04:45.051Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

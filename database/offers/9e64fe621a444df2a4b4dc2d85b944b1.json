@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "pewee13500roguebucks",
   "creationDate": "2020-04-24T18:40:30.330Z",
-  "lastModifiedDate": "2020-07-02T14:34:49.406Z",
+  "lastModifiedDate": "2020-07-21T00:01:33.383Z",
   "effectiveDate": "2020-07-02T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -32,78 +32,12 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-20T20:21:41.652Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-20T19:02:51.233Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-07-20T19:02:51.215Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-20T20:21:41.632Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-20T19:02:51.251Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-20T20:21:41.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -163,19 +97,19 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-InitialStoreArt-RB13500-Wishlist-Items-1200x1600-1200x1600-62ef9e6e2924c2156c24b771c1cf75e4.jpg",
-      "md5": "62ef9e6e2924c2156c24b771c1cf75e4",
-      "size": 944514,
-      "uploadedDate": "2020-06-30T23:15:02.324Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-VirtualCurrency-13500-Logo-860x1148-860x1148-8184feffa59d3147c9ef4eb503a85c7c.jpg",
+      "md5": "8184feffa59d3147c9ef4eb503a85c7c",
+      "size": 634726,
+      "uploadedDate": "2020-07-21T00:01:15.115Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-InitialStoreArt-RB13500-Wishlist-Items-2560x1440-2560x1440-768eb6cbb9a29ea50295a6caf261de7a.jpg",
-      "md5": "768eb6cbb9a29ea50295a6caf261de7a",
-      "size": 1679099,
-      "uploadedDate": "2020-06-30T23:15:11.457Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-VirtualCurrency-13500-Logo-2560x1440-2560x1440-a9495f24b992f6fc7bad18fb6c58d0ca.jpg",
+      "md5": "a9495f24b992f6fc7bad18fb6c58d0ca",
+      "size": 1312317,
+      "uploadedDate": "2020-07-21T00:01:19.971Z",
       "width": 2560,
       "height": 1440
     }

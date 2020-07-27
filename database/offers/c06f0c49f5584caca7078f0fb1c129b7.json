@@ -1,0 +1,107 @@
+{
+  "id": "c06f0c49f5584caca7078f0fb1c129b7",
+  "namespace": "sundrop",
+  "title": "For Honor Free Trial Weekend",
+  "description": "For Honor Free Trial Weekend",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "for-honor/free-trial",
+  "urlSlug": "sundroptrialaudience",
+  "creationDate": "2020-07-20T20:21:41.470Z",
+  "lastModifiedDate": "2020-07-24T02:12:32.742Z",
+  "effectiveDate": "2020-07-23T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "for-honor/free-trial"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/FH_FW_capsule-de-1920x1080_V2-1920x1080-facc3266e8b8a73809dc5d24e0d144b4.jpg",
+      "md5": "facc3266e8b8a73809dc5d24e0d144b4",
+      "size": 493483,
+      "uploadedDate": "2020-07-20T21:51:33.127Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
+      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
+      "size": 992590,
+      "uploadedDate": "2020-07-20T21:51:39.078Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
+      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
+      "size": 992590,
+      "uploadedDate": "2020-07-20T21:51:57.022Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/sundrop/offer/EPIC_1200x1600_UK-1200x1600-7ecb0dfb5ea8a8f61ba7ca7559007074.jpg",
+      "md5": "7ecb0dfb5ea8a8f61ba7ca7559007074",
+      "size": 992590,
+      "uploadedDate": "2020-07-20T21:52:03.991Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "576a3f4107034f3eaee0b24389e2887c"
+    }
+  ],
+  "catalogNs": null
+}

@@ -8,7 +8,7 @@
   "productSlug": "the-division-2/warlords-of-new-york-expansion",
   "urlSlug": "seasonpassy2audience",
   "creationDate": "2020-02-06T23:20:54.097Z",
-  "lastModifiedDate": "2020-05-12T16:33:52.369Z",
+  "lastModifiedDate": "2020-07-21T01:58:44.522Z",
   "effectiveDate": "2020-02-11T21:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -59,15 +59,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/WLK_Expansion_Store_Landscape_2560x1440-2560x1440-e2009b5531f911c596caa231750c2404.jpg",
-      "md5": "e2009b5531f911c596caa231750c2404",
-      "size": 980187,
-      "uploadedDate": "2020-02-10T01:36:53.165Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/impala/offer/TD2_WONY_wide-1920x1080-1425b8d456ad5f165a86574bb6b2332c.jpg",
       "md5": "1425b8d456ad5f165a86574bb6b2332c",
@@ -75,6 +66,33 @@
       "uploadedDate": "2020-03-06T15:24:20.347Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/impala/offer/WLK_UCS16238_EGST_FeaturedCarousel_510x680_US-510x680-78d32870972cbc7c648f5375c660ad22.jpg",
+      "md5": "78d32870972cbc7c648f5375c660ad22",
+      "size": 292877,
+      "uploadedDate": "2020-07-21T01:58:24.682Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/impala/offer/WLK_UCS16238_EGST_FeaturedCarousel_510x680_US-510x680-78d32870972cbc7c648f5375c660ad22.jpg",
+      "md5": "78d32870972cbc7c648f5375c660ad22",
+      "size": 292877,
+      "uploadedDate": "2020-07-21T01:58:27.413Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/impala/offer/WLK_UCS16238_EGST_FeaturedCarousel_510x680_US-510x680-78d32870972cbc7c648f5375c660ad22.jpg",
+      "md5": "78d32870972cbc7c648f5375c660ad22",
+      "size": 292877,
+      "uploadedDate": "2020-07-21T01:58:30.614Z",
+      "width": 510,
+      "height": 680
     }
   ],
   "items": [

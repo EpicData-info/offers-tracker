@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-valhalla/home",
   "urlSlug": "kingdomgeneralaudience",
   "creationDate": "2020-04-28T17:48:55.805Z",
-  "lastModifiedDate": "2020-05-18T14:43:18.244Z",
+  "lastModifiedDate": "2020-07-24T02:43:04.615Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": "2020-04-29T15:00:00.000Z",
   "developer": null,
@@ -38,54 +38,10 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-20T20:21:41.652Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-16T14:24:42.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-20T20:21:41.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-07-14T13:59:58.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -98,7 +54,7 @@
     },
     {
       "key": "availableDate",
-      "value": "1609387200"
+      "value": "1605625200"
     },
     {
       "key": "isPrepurchase",

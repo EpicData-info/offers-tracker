@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-origins/the-curse-of-the-pharaohs",
   "urlSlug": "tcop-dlc-audience-redeemable",
   "creationDate": "2019-10-28T15:25:29.921Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2020-07-21T02:11:16.114Z",
   "effectiveDate": "2019-11-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -63,24 +63,6 @@
       "height": 404
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/camellia/offer/CodeRedemption_ACOrigins_DLC_TCOTP-330x440-52ad00c6d9618a0ef8557543f1dfce64.jpg",
-      "md5": "52ad00c6d9618a0ef8557543f1dfce64",
-      "size": 164343,
-      "uploadedDate": "2019-11-26T17:54:37.952Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14905_EGST_BannerBundle_CurseOfThePharaohs_US_Edition_Capsule_1920X1080-1920x1080-019c728739c810102d985df89f148f7f.jpg",
-      "md5": "019c728739c810102d985df89f148f7f",
-      "size": 395463,
-      "uploadedDate": "2019-11-26T17:55:02.305Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS14905_EGST_BannerBundle_CurseOfThePharaohs_US_Edition_Capsule_1920X1080-1920x1080-d0beb44197a5a490168ea2366f45c6e312464962.jpg",
       "md5": "362eb3b33875fe0020c134859e4225b3",
@@ -88,6 +70,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_CurseOfThePharaohs_Store_Portrait_1200x1600-1200x1600-61ee96650c9cbd4287757358f94b4167.jpg",
+      "md5": "61ee96650c9cbd4287757358f94b4167",
+      "size": 479335,
+      "uploadedDate": "2020-07-21T02:10:46.631Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_CurseOfThePharaohs_Store_Portrait_1200x1600-1200x1600-61ee96650c9cbd4287757358f94b4167.jpg",
+      "md5": "61ee96650c9cbd4287757358f94b4167",
+      "size": 479335,
+      "uploadedDate": "2020-07-21T02:10:58.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_CurseOfThePharaohs_Store_Portrait_1200x1600-1200x1600-61ee96650c9cbd4287757358f94b4167.jpg",
+      "md5": "61ee96650c9cbd4287757358f94b4167",
+      "size": 479335,
+      "uploadedDate": "2020-07-21T02:11:01.569Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
