@@ -41,7 +41,18 @@
       "referenceCount": 110,
       "comment": null
     },
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-28T00:51:59.975Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -54,7 +65,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-28T00:25:36.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "SHOOTER",
