@@ -1,0 +1,142 @@
+{
+  "id": "4c81547b81064acfb1902be7b06d6366",
+  "namespace": "f9a21c4ce910440d82b83b01d1c48c5e",
+  "title": "Assassins Creed: Director's Cut Edition",
+  "description": "Assassins Creed: Director's Cut Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "assassins-creed-1",
+  "urlSlug": "sphynxgeneralaudience",
+  "creationDate": "2020-04-07T21:26:44.200Z",
+  "lastModifiedDate": "2020-07-28T14:58:42.894Z",
+  "effectiveDate": "2020-07-28T15:00:00.000Z",
+  "viewableDate": "2020-07-28T14:59:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-28T14:58:42.961Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-28T14:58:42.944Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-1"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Landscape_2560x1440-2560x1440-b4fbd5c8f70eccec6f0afac568527a1a.jpg",
+      "md5": "b4fbd5c8f70eccec6f0afac568527a1a",
+      "size": 986279,
+      "uploadedDate": "2020-05-07T16:52:39.559Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Portrait-860x1148-1900e7c91c1a913a9e754e3d98a41372.jpg",
+      "md5": "1900e7c91c1a913a9e754e3d98a41372",
+      "size": 134482,
+      "uploadedDate": "2020-05-07T16:52:45.929Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Landscape_2560x1440-2560x1440-b4fbd5c8f70eccec6f0afac568527a1a.jpg",
+      "md5": "b4fbd5c8f70eccec6f0afac568527a1a",
+      "size": 986279,
+      "uploadedDate": "2020-05-07T16:52:53.974Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Portrait-860x1148-1900e7c91c1a913a9e754e3d98a41372.jpg",
+      "md5": "1900e7c91c1a913a9e754e3d98a41372",
+      "size": 134482,
+      "uploadedDate": "2020-05-07T16:53:01.719Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Portrait-860x1148-1900e7c91c1a913a9e754e3d98a41372.jpg",
+      "md5": "1900e7c91c1a913a9e754e3d98a41372",
+      "size": 134482,
+      "uploadedDate": "2020-05-07T16:53:12.378Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f9a21c4ce910440d82b83b01d1c48c5e/offer/ASSA_STD_Store_Portrait-860x1148-1900e7c91c1a913a9e754e3d98a41372.jpg",
+      "md5": "1900e7c91c1a913a9e754e3d98a41372",
+      "size": 134482,
+      "uploadedDate": "2020-05-07T16:53:22.559Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "f145c245e65940f7afed5f7f26bfafe1"
+    }
+  ],
+  "catalogNs": null
+}

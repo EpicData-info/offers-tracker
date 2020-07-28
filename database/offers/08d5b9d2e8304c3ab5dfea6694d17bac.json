@@ -1,0 +1,142 @@
+{
+  "id": "08d5b9d2e8304c3ab5dfea6694d17bac",
+  "namespace": "50648c4c6f7f47e98a1b3756ed06cc4a",
+  "title": "Assassin's Creed II Deluxe Edition",
+  "description": "Assassin's Creed II Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "assassins-creed-2",
+  "urlSlug": "crystalgeneralaudience",
+  "creationDate": "2020-02-14T16:55:56.025Z",
+  "lastModifiedDate": "2020-07-28T14:58:19.596Z",
+  "effectiveDate": "2020-07-28T15:00:00.000Z",
+  "viewableDate": "2020-07-28T14:59:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-28T14:58:42.961Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-28T14:58:42.944Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "assassins-creed-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Store_Landscape_2560x1440-2560x1440-a721a55882aba592f195e3a97f0bfd22.jpg",
+      "md5": "a721a55882aba592f195e3a97f0bfd22",
+      "size": 823460,
+      "uploadedDate": "2020-05-07T16:43:43.170Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Wishlist_Portrait_860x1148-860x1148-b3007c12e14f8c83bb29de05a6bd1878.jpg",
+      "md5": "b3007c12e14f8c83bb29de05a6bd1878",
+      "size": 433603,
+      "uploadedDate": "2020-05-07T16:43:50.622Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Store_Portrait_1280x1420-1280x1420-83d04f470a396894136a190ebfe0bd55.jpg",
+      "md5": "83d04f470a396894136a190ebfe0bd55",
+      "size": 428704,
+      "uploadedDate": "2020-05-07T16:43:59.096Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Store_Portrait_1280x1420-1280x1420-83d04f470a396894136a190ebfe0bd55.jpg",
+      "md5": "83d04f470a396894136a190ebfe0bd55",
+      "size": 428704,
+      "uploadedDate": "2020-05-07T16:44:08.877Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Store_Landscape_2560x1440-2560x1440-a721a55882aba592f195e3a97f0bfd22.jpg",
+      "md5": "a721a55882aba592f195e3a97f0bfd22",
+      "size": 823460,
+      "uploadedDate": "2020-05-07T16:44:29.752Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/50648c4c6f7f47e98a1b3756ed06cc4a/offer/GameName_Store_Portrait_1280x1420-1280x1420-83d04f470a396894136a190ebfe0bd55.jpg",
+      "md5": "83d04f470a396894136a190ebfe0bd55",
+      "size": 428704,
+      "uploadedDate": "2020-05-07T16:44:37.925Z",
+      "width": 1280,
+      "height": 1420
+    }
+  ],
+  "items": [
+    {
+      "id": "05008ca5e12c44a49f7657829152b1ea"
+    }
+  ],
+  "catalogNs": null
+}

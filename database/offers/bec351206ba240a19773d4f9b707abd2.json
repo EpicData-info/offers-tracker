@@ -29,42 +29,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1185",
-      "name": "FPS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:50.376Z",
-      "updated": "2020-07-16T15:01:02.058Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
-      "id": "1233",
-      "name": "BASE-BUILDING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2020-05-13T21:05:17.873Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
-    {
-      "id": "1258",
-      "name": "ROGUE-LIKE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:26.599Z",
-      "updated": "2020-07-23T14:15:47.277Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -72,7 +39,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-28T00:25:36.028Z",
+      "updated": "2020-07-28T14:54:09.742Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -84,7 +51,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-28T00:51:59.927Z",
+      "updated": "2020-07-28T14:58:42.944Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

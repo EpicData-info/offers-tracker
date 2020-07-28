@@ -1,0 +1,146 @@
+{
+  "id": "a47960f6b6b147d4b257e83c808eabc3",
+  "namespace": "047ee5c9350245588f043061fb0279ab",
+  "title": "Ghost Recon Future Soldier Ultimate Edition",
+  "description": "Ghost Recon Future Soldier Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ghost-recon-future-soldier/home",
+  "urlSlug": "burmillageneralaudience",
+  "creationDate": "2020-04-02T22:01:39.510Z",
+  "lastModifiedDate": "2020-07-28T14:59:03.886Z",
+  "effectiveDate": "2020-07-28T15:00:00.000Z",
+  "viewableDate": "2020-07-28T14:59:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-28T14:59:03.931Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2020-07-28T14:59:03.946Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Paris, Red Storm Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ghost-recon-future-soldier/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Landscape_2560x1440-2560x1440-82f941b87178df77ecc815edabe067c0.jpg",
+      "md5": "82f941b87178df77ecc815edabe067c0",
+      "size": 841743,
+      "uploadedDate": "2020-06-10T04:16:56.330Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Portrait_1200x1600-1200x1600-b57c40d872ad994413f2d34492988c1f.jpg",
+      "md5": "b57c40d872ad994413f2d34492988c1f",
+      "size": 426839,
+      "uploadedDate": "2020-06-10T04:17:02.304Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Landscape_2560x1440-2560x1440-82f941b87178df77ecc815edabe067c0.jpg",
+      "md5": "82f941b87178df77ecc815edabe067c0",
+      "size": 841743,
+      "uploadedDate": "2020-06-10T04:17:15.849Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Portrait_1200x1600-1200x1600-b57c40d872ad994413f2d34492988c1f.jpg",
+      "md5": "b57c40d872ad994413f2d34492988c1f",
+      "size": 426839,
+      "uploadedDate": "2020-06-10T04:17:23.349Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Portrait_1200x1600-1200x1600-b57c40d872ad994413f2d34492988c1f.jpg",
+      "md5": "b57c40d872ad994413f2d34492988c1f",
+      "size": 426839,
+      "uploadedDate": "2020-06-10T04:17:32.941Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/047ee5c9350245588f043061fb0279ab/offer/GRFS_STD_Store_Portrait_1200x1600-1200x1600-b57c40d872ad994413f2d34492988c1f.jpg",
+      "md5": "b57c40d872ad994413f2d34492988c1f",
+      "size": 426839,
+      "uploadedDate": "2020-06-10T04:17:42.160Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6ee8580666e34b37bc5a0471b5c2de3d"
+    }
+  ],
+  "catalogNs": null
+}
