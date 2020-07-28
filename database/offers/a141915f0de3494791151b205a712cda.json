@@ -86,18 +86,7 @@
       "referenceCount": 33,
       "comment": null
     },
-    {
-      "id": "1181",
-      "name": "CARD GAME",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2020-07-23T18:59:10.397Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
-    },
+    null,
     {
       "id": "10719",
       "name": "MAC OS",
@@ -111,7 +100,8 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
