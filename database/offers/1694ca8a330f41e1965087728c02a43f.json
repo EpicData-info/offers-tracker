@@ -41,7 +41,18 @@
       "referenceCount": 110,
       "comment": null
     },
-    null,
+    {
+      "id": "1333",
+      "name": "ACTION RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:03.965Z",
+      "updated": "2020-07-06T13:49:18.799Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -54,7 +65,18 @@
       "referenceCount": 43,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-28T00:25:36.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -65,6 +87,18 @@
       "updated": "2020-07-28T00:51:59.927Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-27T01:01:38.749Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     }
   ],

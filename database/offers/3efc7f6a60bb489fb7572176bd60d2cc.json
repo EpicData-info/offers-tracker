@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-28T00:51:59.964Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -42,7 +53,18 @@
       "referenceCount": 43,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-28T00:25:36.028Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -92,6 +114,18 @@
       "updated": "2020-07-28T00:25:36.008Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-23T14:42:59.415Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
       "comment": null
     }
   ],
