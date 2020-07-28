@@ -1,16 +1,16 @@
 {
   "id": "7ca5ffaf28e0442c9418c4fba998b17b",
   "namespace": "470e78f71f7a4b8eb05f1ec1422553e6",
-  "title": "BucharestGeneralAudience",
-  "description": "BucharestGeneralAudience",
+  "title": "Claire de Lune",
+  "description": "Claire de Lune",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "claire-de-lune",
   "urlSlug": "bucharestgeneralaudience",
   "creationDate": "2020-06-19T23:26:04.837Z",
-  "lastModifiedDate": "2020-06-19T23:35:12.456Z",
+  "lastModifiedDate": "2020-07-28T15:00:30.319Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2020-07-28T14:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-hk767x3yr4tfhk2ghy35fq5dnueqdg",
@@ -28,25 +28,135 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-28T15:00:30.483Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-28T15:00:30.510Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-28T15:00:30.523Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-28T15:00:30.493Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Tactic Studios"
     },
     {
-      "key": "developerName",
-      "value": "[]"
+      "key": "com.epicgames.app.productSlug",
+      "value": "claire-de-lune"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S1-2560x1440-217091ea3f75317cabce75833a004569.jpg",
+      "md5": "217091ea3f75317cabce75833a004569",
+      "size": 875268,
+      "uploadedDate": "2020-07-28T07:17:54.544Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S2-1200x1600-118440d5869fe22589e683581d9579a4.jpg",
+      "md5": "118440d5869fe22589e683581d9579a4",
+      "size": 531747,
+      "uploadedDate": "2020-07-28T07:17:58.839Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S2-1200x1600-118440d5869fe22589e683581d9579a4.jpg",
+      "md5": "118440d5869fe22589e683581d9579a4",
+      "size": 531747,
+      "uploadedDate": "2020-07-28T07:18:06.037Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S2-1200x1600-118440d5869fe22589e683581d9579a4.jpg",
+      "md5": "118440d5869fe22589e683581d9579a4",
+      "size": 531747,
+      "uploadedDate": "2020-07-28T07:18:10.641Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S1-2560x1440-217091ea3f75317cabce75833a004569.jpg",
+      "md5": "217091ea3f75317cabce75833a004569",
+      "size": 875268,
+      "uploadedDate": "2020-07-28T07:18:20.728Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/470e78f71f7a4b8eb05f1ec1422553e6/offer/EGS_ClairedeLune_TacticStudios_S2-1200x1600-118440d5869fe22589e683581d9579a4.jpg",
+      "md5": "118440d5869fe22589e683581d9579a4",
+      "size": 531747,
+      "uploadedDate": "2020-07-28T07:18:23.265Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c45ac5765ba34669b23c96cec14f4c3c"
