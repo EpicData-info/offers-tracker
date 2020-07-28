@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-28T00:51:59.975Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-07-28T15:00:30.483Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -86,21 +64,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-20T15:49:02.000Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "INDIE",
