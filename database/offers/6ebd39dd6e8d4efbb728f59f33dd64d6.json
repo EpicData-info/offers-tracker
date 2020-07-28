@@ -38,69 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-24T02:43:04.782Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-07-24T12:47:12.779Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-28T00:51:59.950Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-28T00:51:59.927Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-20T15:49:02.000Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
