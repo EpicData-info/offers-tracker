@@ -1,0 +1,206 @@
+{
+  "id": "b97a6ef46c4f4eaaa2dc324693df0765",
+  "namespace": "c12a5687fb024192999b2d22c555d4c6",
+  "title": "Destroy all Humans!",
+  "description": "Destroy all Humans!",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "destroy-all-humans",
+  "urlSlug": "carpogeneralaudience",
+  "creationDate": "2020-05-27T15:17:36.558Z",
+  "lastModifiedDate": "2020-07-28T16:37:22.803Z",
+  "effectiveDate": "2020-07-28T17:00:00.000Z",
+  "viewableDate": "2020-07-28T16:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-28T16:37:22.901Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1347",
+      "name": "ALIENS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:10.791Z",
+      "updated": "2020-07-28T16:37:22.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-07-28T16:37:22.947Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-28T16:37:22.883Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-28T16:37:22.989Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-07-28T16:37:22.918Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-28T16:37:22.970Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Black Forest Games, Pandemic Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "destroy-all-humans"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/EGSNewsfeed_1920x1080-1920x1080-6fb20a72dfcd9bc2006e4c1b74a239b7.png",
+      "md5": "6fb20a72dfcd9bc2006e4c1b74a239b7",
+      "size": 2357947,
+      "uploadedDate": "2020-07-14T17:21:18.523Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:21:26.009Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:21:36.497Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:21:45.898Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/EGSNewsfeed_1920x1080-1920x1080-6fb20a72dfcd9bc2006e4c1b74a239b7.png",
+      "md5": "6fb20a72dfcd9bc2006e4c1b74a239b7",
+      "size": 2357947,
+      "uploadedDate": "2020-07-14T17:21:57.737Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c12a5687fb024192999b2d22c555d4c6/offer/DAH_Portrait-1200x1600-2e2b6bca291228e4df252c4857664408.jpg",
+      "md5": "2e2b6bca291228e4df252c4857664408",
+      "size": 1205440,
+      "uploadedDate": "2020-07-14T17:22:06.694Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "5fdac1a88f4643eca380bef8917184c1"
+    }
+  ],
+  "catalogNs": null
+}
