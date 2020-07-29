@@ -1,0 +1,173 @@
+{
+  "id": "fa2b76f94cc94dbd986bbe1b9d6e6692",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "title": "WRC 9 Barcelona SSS",
+  "description": "WRC 9 Barcelona SSS",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "wrc-9",
+  "urlSlug": "kagubarcelona",
+  "creationDate": "2020-06-29T22:50:55.790Z",
+  "lastModifiedDate": "2020-07-29T19:13:38.548Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-29T19:13:57.767Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-07-29T19:13:57.783Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-29T19:13:57.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-29T19:13:57.807Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-29T19:13:57.847Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-29T19:13:57.866Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "KT Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9BarcelonaSSS_KTRacing_DLC_G1A_00-1920x1080-191687712236f01ddeee3de7d0f955d4.jpg",
+      "md5": "191687712236f01ddeee3de7d0f955d4",
+      "size": 215361,
+      "uploadedDate": "2020-06-29T22:50:14.021Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9BarcelonaSSS_KTRacing_DLC_S2-1200x1600-90ec4ad1f8566590c718ec31f873113c.jpg",
+      "md5": "90ec4ad1f8566590c718ec31f873113c",
+      "size": 250747,
+      "uploadedDate": "2020-06-29T22:50:23.534Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9BarcelonaSSS_KTRacing_DLC_S2-1200x1600-90ec4ad1f8566590c718ec31f873113c.jpg",
+      "md5": "90ec4ad1f8566590c718ec31f873113c",
+      "size": 250747,
+      "uploadedDate": "2020-06-29T22:50:33.899Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9BarcelonaSSS_KTRacing_DLC_S2-1200x1600-90ec4ad1f8566590c718ec31f873113c.jpg",
+      "md5": "90ec4ad1f8566590c718ec31f873113c",
+      "size": 250747,
+      "uploadedDate": "2020-06-29T22:50:43.825Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "a2c131430be643b597191d69c0e0f24f"
+    }
+  ],
+  "catalogNs": null
+}
