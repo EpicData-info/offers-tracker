@@ -1,0 +1,203 @@
+{
+  "id": "98c3598037284dfa96d87533fcd0340f",
+  "namespace": "b2192c4b00db40fe8848b3be6753cfd5",
+  "title": "Primordials of Amyrion Beta",
+  "description": "Primordials of Amyrion Alpha",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "primordials-of-amyrion/beta",
+  "urlSlug": "primordials-of-amyrion-beta",
+  "creationDate": "2020-07-28T00:49:39.438Z",
+  "lastModifiedDate": "2020-07-29T15:00:29.416Z",
+  "effectiveDate": "2020-07-29T14:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6dbpnx2zffzp7gdzzhzur3eegekssk",
+    "name": "WIREGAMES d.o.o."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/demo"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-29T15:00:29.443Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-07-29T15:00:29.517Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-29T15:00:29.528Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-29T15:00:29.488Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-29T15:00:29.503Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-29T15:00:29.461Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-29T15:00:29.473Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "WIREGAMES d.o.o."
+    },
+    {
+      "key": "developerName",
+      "value": "GLOBAL DODO ENTERTAINMENT d.o.o."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "primordials-of-amyrion/beta"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_beta-1200x1600-7158b3bf87dc19c61bd835a856076384.jpg",
+      "md5": "7158b3bf87dc19c61bd835a856076384",
+      "size": 1555863,
+      "uploadedDate": "2020-07-28T00:50:47.616Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_2560x1440_beta-2560x1440-16e7fd10d6930608530ab8a4c760fa9b.jpg",
+      "md5": "16e7fd10d6930608530ab8a4c760fa9b",
+      "size": 2573464,
+      "uploadedDate": "2020-07-28T00:50:59.827Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_beta-1200x1600-7158b3bf87dc19c61bd835a856076384.jpg",
+      "md5": "7158b3bf87dc19c61bd835a856076384",
+      "size": 1555863,
+      "uploadedDate": "2020-07-28T00:51:13.808Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_beta-1200x1600-7158b3bf87dc19c61bd835a856076384.jpg",
+      "md5": "7158b3bf87dc19c61bd835a856076384",
+      "size": 1555863,
+      "uploadedDate": "2020-07-28T00:51:26.523Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_1200x1600_beta-1200x1600-7158b3bf87dc19c61bd835a856076384.jpg",
+      "md5": "7158b3bf87dc19c61bd835a856076384",
+      "size": 1555863,
+      "uploadedDate": "2020-07-28T01:26:03.921Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b2192c4b00db40fe8848b3be6753cfd5/offer/primordials_2560x1440_beta-2560x1440-16e7fd10d6930608530ab8a4c760fa9b.jpg",
+      "md5": "16e7fd10d6930608530ab8a4c760fa9b",
+      "size": 2573464,
+      "uploadedDate": "2020-07-28T01:26:16.287Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "ae4cf9a5e81f4c67908a7b60a36e9c08"
+    }
+  ],
+  "catalogNs": null
+}
