@@ -71,18 +71,7 @@
       "referenceCount": 12,
       "comment": null
     },
-    {
-      "id": "1318",
-      "name": "TRIVIA",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:56.576Z",
-      "updated": "2020-05-13T23:47:14.117Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -108,7 +97,8 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
