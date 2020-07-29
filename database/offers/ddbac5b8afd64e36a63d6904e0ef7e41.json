@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-07-13T15:21:27.678Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -46,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-29T19:13:57.807Z",
+      "updated": "2020-07-29T19:46:59.602Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -58,7 +69,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-29T19:13:57.847Z",
+      "updated": "2020-07-29T19:46:59.572Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

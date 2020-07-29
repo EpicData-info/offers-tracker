@@ -306,7 +306,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:02.690Z",
-    "updated": "2020-07-29T14:47:02.122Z",
+    "updated": "2020-07-29T19:46:59.586Z",
     "status": "ACTIVE",
     "referenceCount": 28,
     "comment": null
@@ -330,7 +330,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:05.613Z",
-    "updated": "2020-07-29T16:55:28.483Z",
+    "updated": "2020-07-29T19:47:49.840Z",
     "status": "ACTIVE",
     "referenceCount": 110,
     "comment": null
@@ -345,6 +345,18 @@
     "updated": "2020-07-29T14:38:31.779Z",
     "status": "ACTIVE",
     "referenceCount": 14,
+    "comment": null
+  },
+  "1220": {
+    "id": "1220",
+    "name": "ZOMBIES",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:07.628Z",
+    "updated": "2020-07-16T15:01:02.019Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1233": {
@@ -551,6 +563,18 @@
     "referenceCount": 32,
     "comment": null
   },
+  "1310": {
+    "id": "1310",
+    "name": "EARLY ACCESS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:52.671Z",
+    "updated": "2020-07-21T19:36:27.165Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1318": {
     "id": "1318",
     "name": "TRIVIA",
@@ -611,6 +635,18 @@
     "referenceCount": 8,
     "comment": null
   },
+  "1347": {
+    "id": "1347",
+    "name": "ALIENS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:10.791Z",
+    "updated": "2020-07-28T16:37:22.933Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1367": {
     "id": "1367",
     "name": "RPG",
@@ -630,7 +666,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:01:22.169Z",
-    "updated": "2020-07-29T19:13:57.807Z",
+    "updated": "2020-07-29T19:46:59.602Z",
     "status": "ACTIVE",
     "referenceCount": 195,
     "comment": null
@@ -702,7 +738,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-07-29T19:13:57.847Z",
+    "updated": "2020-07-29T19:47:49.857Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -755,7 +791,7 @@
     ],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:27.812Z",
-    "updated": "2020-07-27T01:07:12.962Z",
+    "updated": "2020-07-29T19:47:49.795Z",
     "status": "ACTIVE",
     "referenceCount": 19,
     "comment": null
@@ -779,7 +815,7 @@
     "aliases": [],
     "operator": "Jason Savage",
     "created": "2020-04-29T16:18:12.784Z",
-    "updated": "2020-06-04T14:25:02.159Z",
+    "updated": "2020-07-29T19:40:33.650Z",
     "status": "ACTIVE",
     "referenceCount": 5,
     "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
