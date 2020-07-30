@@ -50,18 +50,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:00:42.144Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -72,18 +61,6 @@
       "updated": "2020-07-30T14:23:47.280Z",
       "status": "ACTIVE",
       "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T15:01:50.737Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
       "comment": null
     }
   ],

@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-30T14:23:47.280Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -57,23 +46,12 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T15:01:50.737Z",
+      "updated": "2020-07-30T15:52:08.167Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1116",
-      "name": "COMEDY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-07-24T13:47:11.859Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
@@ -84,18 +62,6 @@
       "updated": "2020-07-30T15:01:50.751Z",
       "status": "ACTIVE",
       "referenceCount": 84,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-30T15:01:50.709Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],

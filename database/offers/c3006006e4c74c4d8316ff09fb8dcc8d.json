@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-07-29T14:19:01.050Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -69,23 +58,12 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T15:01:50.737Z",
+      "updated": "2020-07-30T15:52:08.167Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "INDIE",
@@ -93,7 +71,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-30T15:01:50.709Z",
+      "updated": "2020-07-30T15:46:25.481Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null

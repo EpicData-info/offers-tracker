@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1218",
-      "name": "HORROR",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2020-07-30T06:08:44.122Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1395",
-      "name": "NARRATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-07-29T20:05:22.197Z",
-      "status": "ACTIVE",
-      "referenceCount": 22,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1080",
       "name": "SURVIVAL",
@@ -86,33 +64,8 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T15:01:50.737Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-29T21:36:16.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
