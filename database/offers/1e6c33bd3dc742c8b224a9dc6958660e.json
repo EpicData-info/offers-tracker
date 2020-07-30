@@ -39,9 +39,31 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-07-29T20:14:32.096Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     null,
-    null,
-    null
+    {
+      "id": "1131",
+      "name": "SURVIVAL HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:23.560Z",
+      "updated": "2020-07-16T15:01:02.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
