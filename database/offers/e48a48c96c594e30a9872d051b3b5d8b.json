@@ -38,69 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-29T19:13:57.767Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-30T06:08:44.138Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-30T13:37:41.675Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T13:37:41.694Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-29T21:36:16.223Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

@@ -1,0 +1,56 @@
+{
+  "id": "8f6f05aa00fd48cca99d897b593b3e8b",
+  "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
+  "title": "RubyGeneralAudience",
+  "description": "RubyGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rubygeneralaudience",
+  "creationDate": "2020-06-30T02:37:51.801Z",
+  "lastModifiedDate": "2020-07-30T13:41:29.584Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
+    "name": "Techland"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "9c08879965884032b380e03b49b34656"
+    }
+  ],
+  "catalogNs": null
+}
