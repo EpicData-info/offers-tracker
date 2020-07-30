@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-07-30T14:23:47.363Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1395",
       "name": "NARRATION",
@@ -51,8 +62,30 @@
       "referenceCount": 22,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-30T14:23:47.280Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-30T15:52:08.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
@@ -63,6 +96,18 @@
       "updated": "2020-07-30T15:00:42.216Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-07-30T15:01:50.719Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
       "comment": null
     }
   ],
