@@ -62,30 +62,8 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1336",
-      "name": "ACTION-ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2020-07-29T20:17:15.201Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
-      "comment": null
-    },
-    {
-      "id": "1129",
-      "name": "MUSIC",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:22.582Z",
-      "updated": "2020-06-30T13:03:17.664Z",
-      "status": "ACTIVE",
-      "referenceCount": 0,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -108,18 +86,6 @@
       "updated": "2020-07-30T21:58:54.060Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
       "comment": null
     }
   ],
