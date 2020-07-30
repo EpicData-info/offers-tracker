@@ -29,8 +29,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-30T06:08:44.122Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-29T20:05:22.197Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "SURVIVAL",
