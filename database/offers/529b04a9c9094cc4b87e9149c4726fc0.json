@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:49:28.077Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1216",
       "name": "ACTION",
@@ -74,18 +63,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:49:28.334Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
@@ -96,18 +74,6 @@
       "updated": "2020-07-31T02:49:28.281Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1294",
-      "name": "FIRST-PERSON",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-07-31T02:49:19.419Z",
-      "status": "ACTIVE",
-      "referenceCount": 24,
       "comment": null
     }
   ],
