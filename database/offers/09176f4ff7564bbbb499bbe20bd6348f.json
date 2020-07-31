@@ -38,19 +38,19 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "1156",
-      "name": "BATTLE ROYALE",
+      "id": "1203",
+      "name": "MULTIPLAYER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T11:59:36.154Z",
-      "updated": "2020-06-17T07:17:15.650Z",
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-30T22:54:44.372Z",
       "status": "ACTIVE",
-      "referenceCount": 2,
+      "referenceCount": 46,
       "comment": null
     },
+    null,
     {
       "id": "1141",
       "name": "FREE TO PLAY",
@@ -87,16 +87,19 @@
       "referenceCount": 259,
       "comment": null
     },
+    null,
     {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
+      "id": "10719",
+      "name": "MAC OS",
       "namespace": "epic",
-      "aliases": [],
+      "aliases": [
+        "OSX"
+      ],
       "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-30T21:58:54.039Z",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-30T15:46:25.449Z",
       "status": "ACTIVE",
-      "referenceCount": 103,
+      "referenceCount": 19,
       "comment": null
     }
   ],

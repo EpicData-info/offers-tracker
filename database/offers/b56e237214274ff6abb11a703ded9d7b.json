@@ -39,33 +39,22 @@
   ],
   "tags": [
     null,
-    null,
-    null,
-    null,
     {
-      "id": "1289",
-      "name": "CRAFTING",
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:00:42.141Z",
-      "updated": "2020-06-11T15:54:59.315Z",
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-30T15:52:08.134Z",
       "status": "ACTIVE",
-      "referenceCount": 0,
+      "referenceCount": 43,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-30T22:54:44.395Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
+    null,
+    null,
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -76,6 +65,19 @@
       "updated": "2020-07-30T21:58:54.060Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    null,
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-30T15:46:25.481Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     }
   ],
