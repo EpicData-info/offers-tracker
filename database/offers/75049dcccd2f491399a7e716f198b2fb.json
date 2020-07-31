@@ -1,0 +1,137 @@
+{
+  "id": "75049dcccd2f491399a7e716f198b2fb",
+  "namespace": "8b8fd2fe87a04bbab2eca292e71b5e2c",
+  "title": "Desperados III - Season Pass",
+  "description": "The Season Pass gives you: 3 new missions that tell the story of a new adventure, taking place after the events of the main game.",
+  "longDescription": "Get access to the expanding world of Desperados III for one neat bundle price. \n\nThe Season Pass gives you:\n\n3 new missions that tell the story of a new adventure, taking place after the events of the main game. \nAll items will be released post launch of Desperados III, over the course of 3 DLC packs.\n\n",
+  "status": "ACTIVE",
+  "productSlug": "desperados-3/season-pass",
+  "urlSlug": "desperados-3--season-pass",
+  "creationDate": "2020-06-09T19:25:30.632Z",
+  "lastModifiedDate": "2020-07-31T20:08:27.591Z",
+  "effectiveDate": "2020-06-16T17:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T20:08:27.747Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T20:08:36.435Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-31T20:08:27.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "Mimimi Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "desperados-3/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Image-Logo-1920x1080-deaadeab97234c4f41f81df42468d0e9.png",
+      "md5": "deaadeab97234c4f41f81df42468d0e9",
+      "size": 3345181,
+      "uploadedDate": "2020-06-10T18:20:16.605Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-SP-Portrait-1539x1829-6cbbe6cd387de1ef2ead826b53d54e8b.png",
+      "md5": "6cbbe6cd387de1ef2ead826b53d54e8b",
+      "size": 3449992,
+      "uploadedDate": "2020-06-10T18:20:25.556Z",
+      "width": 1539,
+      "height": 1829
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-SP-Portrait-1539x1829-6cbbe6cd387de1ef2ead826b53d54e8b.png",
+      "md5": "6cbbe6cd387de1ef2ead826b53d54e8b",
+      "size": 3449992,
+      "uploadedDate": "2020-06-10T18:20:37.246Z",
+      "width": 1539,
+      "height": 1829
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8b8fd2fe87a04bbab2eca292e71b5e2c/offer/Desperados3-SP-Portrait-1539x1829-6cbbe6cd387de1ef2ead826b53d54e8b.png",
+      "md5": "6cbbe6cd387de1ef2ead826b53d54e8b",
+      "size": 3449992,
+      "uploadedDate": "2020-06-10T18:20:46.596Z",
+      "width": 1539,
+      "height": 1829
+    }
+  ],
+  "items": [
+    {
+      "id": "814179ab148044acbea7d5a36e0cf6b6"
+    }
+  ],
+  "catalogNs": null
+}
