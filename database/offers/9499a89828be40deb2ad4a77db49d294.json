@@ -38,34 +38,46 @@
     }
   ],
   "tags": [
+    null,
     {
-      "id": "1264",
-      "name": "CO-OP",
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:49:28.077Z",
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-31T21:21:03.400Z",
       "status": "ACTIVE",
-      "referenceCount": 27,
+      "referenceCount": 43,
       "comment": null
     },
     null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T22:59:01.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
     {
-      "id": "1294",
-      "name": "FIRST-PERSON",
+      "id": "9548",
+      "name": "OSX",
       "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-07-31T02:49:19.419Z",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-31T13:39:17.516Z",
       "status": "ACTIVE",
-      "referenceCount": 24,
+      "referenceCount": 48,
       "comment": null
     }
   ],
