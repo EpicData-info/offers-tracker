@@ -53,8 +53,30 @@
       "referenceCount": 4,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T02:49:28.315Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-07-31T02:49:18.576Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",

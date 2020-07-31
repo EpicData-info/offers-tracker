@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-07-31T02:48:40.777Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -54,7 +65,18 @@
       "referenceCount": 195,
       "comment": null
     },
-    null,
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-07-31T02:49:18.615Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
