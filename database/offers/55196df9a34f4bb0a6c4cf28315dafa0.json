@@ -50,18 +50,7 @@
       "referenceCount": 20,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T13:39:17.501Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1151",
       "name": "PLATFORMER",
@@ -84,20 +73,6 @@
       "updated": "2020-07-31T02:48:54.031Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-31T02:48:28.982Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],
