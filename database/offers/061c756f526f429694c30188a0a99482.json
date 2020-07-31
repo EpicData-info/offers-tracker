@@ -8,7 +8,7 @@
   "productSlug": "kill-it-with-fire",
   "urlSlug": "kill-it-with-fire",
   "creationDate": "2020-06-27T01:17:37.076Z",
-  "lastModifiedDate": "2020-07-31T16:52:09.594Z",
+  "lastModifiedDate": "2020-07-31T17:19:56.425Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": "2020-07-30T17:00:00.000Z",
   "developer": null,
@@ -38,11 +38,66 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T17:19:56.549Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1400",
+      "name": "PHYSICS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:37.307Z",
+      "updated": "2020-07-31T17:19:56.607Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T17:19:56.565Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T17:19:56.581Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-31T17:19:56.594Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
