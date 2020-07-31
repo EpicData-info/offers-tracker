@@ -2,13 +2,13 @@
   "id": "dc76fe38eea54e9f851a3e728b5ad366",
   "namespace": "9cf250606722448887fa1447b1d9da06",
   "title": "WRC 9 Toyota Corolla 1999",
-  "description": "WRC 9 Toyota Corolla 1999",
-  "longDescription": null,
+  "description": "The 1999 champion Toyota Corolla WRC has had the most prestigious drivers behind the wheel and reached the podium in 95% of the races it took part in! A genuine 90s icon!",
+  "longDescription": "The 1999 champion Toyota Corolla WRC has had the most prestigious drivers behind the wheel and reached the podium in 95% of the races it took part in! A genuine 90s icon!",
   "status": "ACTIVE",
-  "productSlug": "wrc-9",
-  "urlSlug": "kagutoyota",
+  "productSlug": null,
+  "urlSlug": "wrc-9--wrc-9-toyota-corolla1999",
   "creationDate": "2020-06-29T22:43:34.819Z",
-  "lastModifiedDate": "2020-07-29T19:13:24.163Z",
+  "lastModifiedDate": "2020-07-31T02:38:52.217Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,8 +35,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T02:38:52.965Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-07-31T02:38:52.981Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -44,12 +66,23 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-30T22:54:44.372Z",
+      "updated": "2020-07-31T02:45:29.440Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T02:38:53.000Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -57,9 +90,21 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-30T21:58:54.060Z",
+      "updated": "2020-07-31T02:45:29.456Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-31T02:38:53.054Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
       "comment": null
     }
   ],
@@ -75,10 +120,6 @@
     {
       "key": "developerName",
       "value": "KT Racing"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "wrc-9"
     }
   ],
   "keyImages": [

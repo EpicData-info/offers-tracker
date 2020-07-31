@@ -2,13 +2,13 @@
   "id": "fa2b76f94cc94dbd986bbe1b9d6e6692",
   "namespace": "9cf250606722448887fa1447b1d9da06",
   "title": "WRC 9 Barcelona SSS",
-  "description": "WRC 9 Barcelona SSS",
-  "longDescription": null,
+  "description": "In the heart of Barcelona, this Super Special Stage is one of the season's most technical. With its very narrow roads and tight bends, drivers have to display extreme concentration.",
+  "longDescription": "In the heart of Barcelona, this Super Special Stage is one of the season's most technical. With its very narrow roads and tight bends, drivers have to display extreme concentration.",
   "status": "ACTIVE",
-  "productSlug": "wrc-9",
-  "urlSlug": "kagubarcelona",
+  "productSlug": null,
+  "urlSlug": "wrc-9--wrc-9-barcelona-sss",
   "creationDate": "2020-06-29T22:50:55.790Z",
-  "lastModifiedDate": "2020-07-29T19:13:38.548Z",
+  "lastModifiedDate": "2020-07-31T02:38:52.510Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T02:38:52.965Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1283",
       "name": "SPORTS",
@@ -43,7 +54,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2020-07-29T19:13:57.783Z",
+      "updated": "2020-07-31T02:38:52.981Z",
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
@@ -55,12 +66,47 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-30T22:54:44.372Z",
+      "updated": "2020-07-31T02:45:29.440Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
     },
-    null
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T02:38:53.000Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T02:45:29.456Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-07-31T02:38:53.054Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -74,10 +120,6 @@
     {
       "key": "developerName",
       "value": "KT Racing"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "wrc-9"
     }
   ],
   "keyImages": [
