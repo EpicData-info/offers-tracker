@@ -1,0 +1,127 @@
+{
+  "id": "061c756f526f429694c30188a0a99482",
+  "namespace": "23aa88cfbedf4dceb1c6a41e2c0eafc0",
+  "title": "Kill it With Fire",
+  "description": "Kill it With Fire",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "kill-it-with-fire",
+  "urlSlug": "kill-it-with-fire",
+  "creationDate": "2020-06-27T01:17:37.076Z",
+  "lastModifiedDate": "2020-07-31T16:52:09.594Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-07-30T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
+    "name": "tinyBuild Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "tinyBuild"
+    },
+    {
+      "key": "developerName",
+      "value": "Casey Donnellan Games LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kill-it-with-fire"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_G1C_00-1920x1080-b89f2df7c62416d74eca5d2d9297cac3.jpg",
+      "md5": "b89f2df7c62416d74eca5d2d9297cac3",
+      "size": 531298,
+      "uploadedDate": "2020-07-30T17:12:00.385Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_S2-1200x1600-d823eaff0ee5cec418f2c205387f189a.jpg",
+      "md5": "d823eaff0ee5cec418f2c205387f189a",
+      "size": 419285,
+      "uploadedDate": "2020-07-30T17:12:08.396Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_G1C_00-1920x1080-b89f2df7c62416d74eca5d2d9297cac3.jpg",
+      "md5": "b89f2df7c62416d74eca5d2d9297cac3",
+      "size": 531298,
+      "uploadedDate": "2020-07-30T17:12:16.491Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_S2-1200x1600-d823eaff0ee5cec418f2c205387f189a.jpg",
+      "md5": "d823eaff0ee5cec418f2c205387f189a",
+      "size": 419285,
+      "uploadedDate": "2020-07-30T17:12:22.431Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_S2-1200x1600-d823eaff0ee5cec418f2c205387f189a.jpg",
+      "md5": "d823eaff0ee5cec418f2c205387f189a",
+      "size": 419285,
+      "uploadedDate": "2020-07-30T17:12:34.822Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/23aa88cfbedf4dceb1c6a41e2c0eafc0/offer/EGS_KillItWithFire_CaseyDonnellanGamesLLC_S2-1200x1600-d823eaff0ee5cec418f2c205387f189a.jpg",
+      "md5": "d823eaff0ee5cec418f2c205387f189a",
+      "size": 419285,
+      "uploadedDate": "2020-07-30T17:12:38.642Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "ba18d43eb31145629d7c802b7465c2ab"
+    }
+  ],
+  "catalogNs": null
+}
