@@ -62,66 +62,11 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-31T17:19:56.549Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-07-31T02:48:50.497Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-31T14:28:59.979Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1110",
-      "name": "PARTY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:13.150Z",
-      "updated": "2020-07-31T02:48:39.495Z",
-      "status": "ACTIVE",
-      "referenceCount": 12,
-      "comment": null
-    },
-    {
-      "id": "1400",
-      "name": "PHYSICS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:37.307Z",
-      "updated": "2020-07-31T17:19:56.607Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
-    },
+    null,
+    null,
+    null,
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -144,18 +89,6 @@
       "updated": "2020-07-31T17:19:56.581Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1116",
-      "name": "COMEDY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-07-24T13:47:11.859Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
       "comment": null
     }
   ],
