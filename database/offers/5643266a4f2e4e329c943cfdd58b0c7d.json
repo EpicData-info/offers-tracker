@@ -1,0 +1,147 @@
+{
+  "id": "5643266a4f2e4e329c943cfdd58b0c7d",
+  "namespace": "conanexiles",
+  "title": "Year 2 DLC Bundle",
+  "description": "Conan Exiles – Year 2 DLC Bundle contains:",
+  "longDescription": "Ride around on exclusive mounts and equip them with unique armors, build opulent Turanian palaces, construct your very own gladiatorial arena, dress yourself in ostentatious outfits and perform unique emotes.\n\nConan Exiles – Year 2 DLC Bundle contains:\n+ Treasures of Turan Pack\n+ Riders of Hyboria Pack\n+ Blood and Sand Pack\n+ Debaucheries of Derketo Pack\n",
+  "status": "ACTIVE",
+  "productSlug": "conan-exiles/year-2-dlc-bundle",
+  "urlSlug": "conan-exiles--year-2-dlc-bundle",
+  "creationDate": "2020-06-12T01:59:12.684Z",
+  "lastModifiedDate": "2020-07-31T20:05:20.595Z",
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fyyejcaw8f65b74sfwudhays6t3cuz",
+    "name": "Funcom"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-31T20:06:26.882Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    null,
+    null,
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-31T20:06:26.851Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T20:06:26.902Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-07-31T20:06:26.815Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Funcom"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "conan-exiles/year-2-dlc-bundle"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesyear2dlcbundle-funcom-bundles-s1-2560x1440-121345767-2560x1440-d203b96c11d9e7faf2dec6269bb1fdbc.jpg",
+      "md5": "d203b96c11d9e7faf2dec6269bb1fdbc",
+      "size": 355166,
+      "uploadedDate": "2020-06-12T15:56:38.611Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesyear2dlcbundle-funcom-bundles-s2-1200x1600-121347385-1200x1600-930d3cf150e2752f988092e14548d6ad.jpg",
+      "md5": "930d3cf150e2752f988092e14548d6ad",
+      "size": 184629,
+      "uploadedDate": "2020-06-12T15:56:47.568Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesyear2dlcbundle-funcom-bundles-s2-1200x1600-121347385-1200x1600-930d3cf150e2752f988092e14548d6ad.jpg",
+      "md5": "930d3cf150e2752f988092e14548d6ad",
+      "size": 184629,
+      "uploadedDate": "2020-06-12T15:56:59.435Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/conanexiles/offer/egs-conanexilesyear2dlcbundle-funcom-bundles-s2-1200x1600-121347385-1200x1600-930d3cf150e2752f988092e14548d6ad.jpg",
+      "md5": "930d3cf150e2752f988092e14548d6ad",
+      "size": 184629,
+      "uploadedDate": "2020-06-12T15:57:10.796Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "3d3eccb3206a4bab8247d8994f1fd560"
+    }
+  ],
+  "catalogNs": null
+}

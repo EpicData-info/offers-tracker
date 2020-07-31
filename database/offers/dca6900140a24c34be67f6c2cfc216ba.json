@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:49:28.077Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1367",
       "name": "RPG",
@@ -69,7 +58,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-07-31T14:28:59.928Z",
+      "updated": "2020-07-31T20:00:41.262Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -81,50 +70,14 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T17:19:56.565Z",
+      "updated": "2020-07-31T20:06:26.836Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T19:29:10.111Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-31T13:39:17.516Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-31T13:18:24.996Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
+    null,
+    null,
+    null,
     {
       "id": "1294",
       "name": "FIRST-PERSON",
