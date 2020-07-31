@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-31T20:06:54.136Z",
+      "updated": "2020-07-31T23:23:00.767Z",
       "status": "ACTIVE",
       "referenceCount": 11,
       "comment": null
@@ -62,7 +62,18 @@
       "referenceCount": 9,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T23:23:00.840Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "STRATEGY",
@@ -75,8 +86,33 @@
       "referenceCount": 33,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T23:23:00.821Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-31T13:39:17.516Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
