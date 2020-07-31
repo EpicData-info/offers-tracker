@@ -41,18 +41,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:49:28.077Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1298",
       "name": "PUZZLE",
@@ -65,18 +54,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T17:19:56.565Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -113,18 +91,6 @@
       "updated": "2020-07-31T02:48:28.982Z",
       "status": "ACTIVE",
       "referenceCount": 19,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-31T17:19:56.594Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
