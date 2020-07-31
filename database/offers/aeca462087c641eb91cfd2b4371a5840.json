@@ -62,8 +62,30 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1258",
+      "name": "ROGUE-LIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2020-07-31T20:08:00.168Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-07-31T21:21:03.438Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -74,6 +96,18 @@
       "updated": "2020-07-31T21:21:03.457Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-07-30T21:58:54.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
       "comment": null
     }
   ],
