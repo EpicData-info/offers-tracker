@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1381",
-      "name": "EXPLORATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-07-29T20:03:22.142Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1080",
       "name": "SURVIVAL",
@@ -96,18 +85,6 @@
       "updated": "2020-07-21T19:36:27.165Z",
       "status": "ACTIVE",
       "referenceCount": 0,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-30T15:46:25.481Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
