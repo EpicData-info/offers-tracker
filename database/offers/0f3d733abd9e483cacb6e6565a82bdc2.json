@@ -2,13 +2,13 @@
   "id": "0f3d733abd9e483cacb6e6565a82bdc2",
   "namespace": "badb0ee71b474ed591ec43212547cfc8",
   "title": "Dragon Rider Pack",
-  "description": "Dragon Rider Pack",
-  "longDescription": "Dragon Rider Pack",
+  "description": "Ride into battle atop the ferocious Winged Drake, the scourge of the Paladins battlefield!",
+  "longDescription": "Ride into battle atop the ferocious Winged Drake, the scourge of the Paladins battlefield!\n\n# The Dragon Rider Pack contains:\nThe Winged Drake Mount\n5 Million Battle Pass XP\n200 Crystals",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "dragon-rider-pack",
+  "productSlug": "paladins/dragon-rider-pack",
+  "urlSlug": "paladins--dragon-rider-pack",
   "creationDate": "2020-03-18T02:55:57.416Z",
-  "lastModifiedDate": "2020-05-27T02:02:19.161Z",
+  "lastModifiedDate": "2020-07-31T02:48:23.111Z",
   "effectiveDate": "2020-05-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "paladins/dragon-rider-pack"
     }
   ],
   "keyImages": [

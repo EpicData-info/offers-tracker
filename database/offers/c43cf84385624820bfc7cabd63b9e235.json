@@ -2,13 +2,13 @@
   "id": "c43cf84385624820bfc7cabd63b9e235",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
   "title": "WRC 8 Legendary Car Pack",
-  "description": "WRC 8 Legendary Car Pack",
-  "longDescription": null,
+  "description": "Pack of 3 legendary WRC models from the 70s, 80s, and 90s. All of these cars left their mark on the history of the WRC. The Alpine A110, the Ford Escort MkII 1800, and the Lancia Delta HF Integrale each have unique driving characteristics.",
+  "longDescription": "Pack of 3 legendary WRC models from the 70s, 80s, and 90s. All of these cars left their mark on the history of the WRC. The Alpine A110, the Ford Escort MkII 1800, and the Lancia Delta HF Integrale each have unique driving characteristics.\n",
   "status": "ACTIVE",
-  "productSlug": "wrc-8",
-  "urlSlug": "legendary-car-pack",
+  "productSlug": null,
+  "urlSlug": "wrc-8--wrc-8-legendary-car-pack",
   "creationDate": "2019-08-21T22:13:24.453Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "lastModifiedDate": "2020-07-31T02:48:54.075Z",
   "effectiveDate": "2019-08-30T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-31T02:45:29.440Z",
+      "updated": "2020-07-31T02:49:25.562Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2020-07-31T02:38:53.054Z",
+      "updated": "2020-07-31T02:48:55.267Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -87,10 +87,6 @@
     {
       "key": "developerName",
       "value": "Kylotonn"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "wrc-8"
     }
   ],
   "keyImages": [

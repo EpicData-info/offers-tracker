@@ -2,13 +2,13 @@
   "id": "49c527e2e06e45a29e24cb7874d47233",
   "namespace": "d759128018124dcabb1fbee9bb28e178",
   "title": "Surviving Mars - Space Race",
-  "description": "Surviving Mars - Space Race",
-  "longDescription": null,
+  "description": "Citizens unite! The race to stake your place in space has begun. Surviving Mars: Space Race, the first major expansion from the survival management game Surviving Mars, is blasting off with a focus on mission sponsors and rival colonies. Pitting Earth’s greatest countries and...",
+  "longDescription": "Citizens unite! The race to stake your place in space has begun. Surviving Mars: Space Race, the first major expansion from the survival management game Surviving Mars, is blasting off with a focus on mission sponsors and rival colonies. Pitting Earth’s greatest countries and most powerful companies against each other, Space Race encourages players to choose their sponsor wisely as each has its own benefits and objectives, and other colonies are competing for the limited resources on the red planet.",
   "status": "ACTIVE",
-  "productSlug": "surviving-mars",
-  "urlSlug": "surviving-mars-space-race",
+  "productSlug": null,
+  "urlSlug": "surviving-mars--surviving-mars-space-race",
   "creationDate": "2019-10-02T02:59:22.403Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "lastModifiedDate": "2020-07-31T02:48:51.197Z",
   "effectiveDate": "2019-10-10T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
+      "updated": "2020-07-31T02:49:27.761Z",
       "status": "ACTIVE",
       "referenceCount": 11,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2020-07-29T20:14:32.149Z",
+      "updated": "2020-07-31T02:49:11.898Z",
       "status": "ACTIVE",
       "referenceCount": 9,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-30T22:54:44.382Z",
+      "updated": "2020-07-31T02:49:18.576Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -108,7 +108,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-30T15:52:08.149Z",
+      "updated": "2020-07-31T02:49:18.407Z",
       "status": "ACTIVE",
       "referenceCount": 48,
       "comment": null
@@ -120,7 +120,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-31T02:45:29.427Z",
+      "updated": "2020-07-31T02:49:28.281Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -138,10 +138,6 @@
     {
       "key": "developerName",
       "value": "Haemimont Games AD"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "surviving-mars"
     }
   ],
   "keyImages": [

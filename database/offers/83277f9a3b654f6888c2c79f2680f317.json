@@ -2,13 +2,13 @@
   "id": "83277f9a3b654f6888c2c79f2680f317",
   "namespace": "d759128018124dcabb1fbee9bb28e178",
   "title": "Surviving Mars - Green Planet",
-  "description": "Surviving Mars - Green Planet",
-  "longDescription": null,
+  "description": "Make Mars habitable and build a second home for humanity in Surviving Mars: Green Planet.",
+  "longDescription": "Make Mars habitable and build a second home for humanity in Surviving Mars: Green Planet.",
   "status": "ACTIVE",
-  "productSlug": "surviving-mars",
-  "urlSlug": "surviving-mars-green-planet",
+  "productSlug": null,
+  "urlSlug": "surviving-mars--surviving-mars-green-planet",
   "creationDate": "2019-10-02T02:07:32.645Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "lastModifiedDate": "2020-07-31T02:48:50.954Z",
   "effectiveDate": "2019-10-10T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
+      "updated": "2020-07-31T02:49:27.761Z",
       "status": "ACTIVE",
       "referenceCount": 11,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2020-07-29T20:14:32.149Z",
+      "updated": "2020-07-31T02:49:11.898Z",
       "status": "ACTIVE",
       "referenceCount": 9,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-30T22:54:44.382Z",
+      "updated": "2020-07-31T02:49:18.576Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -108,7 +108,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-30T15:52:08.149Z",
+      "updated": "2020-07-31T02:49:18.407Z",
       "status": "ACTIVE",
       "referenceCount": 48,
       "comment": null
@@ -120,7 +120,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-31T02:45:29.427Z",
+      "updated": "2020-07-31T02:49:28.281Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -138,10 +138,6 @@
     {
       "key": "developerName",
       "value": "Haemimont Games AD"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "surviving-mars"
     }
   ],
   "keyImages": [

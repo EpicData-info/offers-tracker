@@ -2,13 +2,13 @@
   "id": "b7d22930cd75421ea48395d33b8313fa",
   "namespace": "b04882669b2e495e9f747c8560488c93",
   "title": "Standard Access - 1 Year",
-  "description": "Standard Access - 1 Year",
-  "longDescription": null,
+  "description": "A complete Trackmania experience",
+  "longDescription": "# LET FREE YOUR CREATIVITY\nCreate tracks and have it tested on dedicated servers.\n\n# LIVE EVENTS\nPlay community-made campaigns live in the Arcade Channel and the club rooms.\nCompete in casual tournaments or in international, top level leagues.\n\n# A CURATED CONTENT AVAILABLE SOLO OR ONLINE.\nThe best of player's made tracks in the daily Track of the Day selection.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "standardaccessoneyear",
+  "productSlug": "trackmania/standard-access-one-year",
+  "urlSlug": "trackmania--standard-access-one-year",
   "creationDate": "2020-06-11T20:41:39.467Z",
-  "lastModifiedDate": "2020-07-01T22:01:18.404Z",
+  "lastModifiedDate": "2020-07-31T02:48:11.548Z",
   "effectiveDate": "2020-07-01T15:00:00.000Z",
   "viewableDate": "2020-07-01T15:00:00.000Z",
   "developer": null,
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Ubisoft Nadeo"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trackmania/standard-access-one-year"
     }
   ],
   "keyImages": [

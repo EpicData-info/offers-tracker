@@ -2,13 +2,13 @@
   "id": "cf6f3f919d2748ac8f5f189d57200129",
   "namespace": "wren",
   "title": "Nightstorm Isle - DLC",
-  "description": "Nightstorm Isle - DLC",
-  "longDescription": null,
+  "description": "The wanderer accompanies a mother on a quest to find her lost daughter. Venturing far from familiar ash covered shores, players descend into the perilous depths of Nightstorm Isle.",
+  "longDescription": "The wanderer accompanies a mother on a quest to find her lost daughter. Venturing far from familiar ash covered shores, players descend into the perilous depths of Nightstorm Isle. Countless horrors lurk below, yet nothing will prepare you for the ancient evil they imprison.",
   "status": "ACTIVE",
   "productSlug": "ashen/dlc1",
-  "urlSlug": "ashendlcgeneralaudience",
+  "urlSlug": "ashen--dlc1",
   "creationDate": "2019-09-03T17:08:45.735Z",
-  "lastModifiedDate": "2020-04-10T14:35:22.948Z",
+  "lastModifiedDate": "2020-07-31T02:49:27.918Z",
   "effectiveDate": "2019-09-03T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,42 +38,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:45:29.391Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:52:08.134Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

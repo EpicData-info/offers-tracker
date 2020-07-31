@@ -2,13 +2,13 @@
   "id": "4c1454a300de4397b74b22a69c6d256c",
   "namespace": "d759128018124dcabb1fbee9bb28e178",
   "title": "Surviving Mars - Mysteries Resupply Pack",
-  "description": "Surviving Mars - Mysteries Resupply Pack",
-  "longDescription": null,
+  "description": "Just when you think you have a handle on your resource management, the weird and wonderful mysteries of space travel come knocking at your dome: Mysteries Resupply Pack, the new free content pack for Surviving Mars, adds three new mysteries for players to investigate and survi...",
+  "longDescription": "Just when you think you have a handle on your resource management, the weird and wonderful mysteries of space travel come knocking at your dome: Mysteries Resupply Pack, the new free content pack for Surviving Mars, adds three new mysteries for players to investigate and survive. ",
   "status": "ACTIVE",
-  "productSlug": "surviving-mars",
-  "urlSlug": "surviving-mars-mysteries-resupply-pack",
+  "productSlug": null,
+  "urlSlug": "surviving-mars--surviving-mars-mysteries-resupply-pack",
   "creationDate": "2019-10-02T02:02:46.026Z",
-  "lastModifiedDate": "2020-05-13T20:37:04.388Z",
+  "lastModifiedDate": "2020-07-31T02:48:50.558Z",
   "effectiveDate": "2019-10-10T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
+      "updated": "2020-07-31T02:49:27.761Z",
       "status": "ACTIVE",
       "referenceCount": 11,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2020-07-29T20:14:32.149Z",
+      "updated": "2020-07-31T02:49:11.898Z",
       "status": "ACTIVE",
       "referenceCount": 9,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-30T22:54:44.382Z",
+      "updated": "2020-07-31T02:49:18.576Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -108,7 +108,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-30T15:52:08.149Z",
+      "updated": "2020-07-31T02:49:18.407Z",
       "status": "ACTIVE",
       "referenceCount": 48,
       "comment": null
@@ -120,7 +120,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-31T02:45:29.427Z",
+      "updated": "2020-07-31T02:49:28.281Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -138,10 +138,6 @@
     {
       "key": "developerName",
       "value": "Haemimont Games AD"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "surviving-mars"
     }
   ],
   "keyImages": [

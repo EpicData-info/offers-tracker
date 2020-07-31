@@ -2,13 +2,13 @@
   "id": "19d333757fc7497ab364841603d2e410",
   "namespace": "ark",
   "title": "ARK Genesis Season Pass",
-  "description": "ARK Genesis Season Pass",
-  "longDescription": null,
+  "description": "Continue your quest for survival and unlock the next chapter in the saga of ARK: Survival Evolved with the ARK: Genesis Season Pass! Two new huge expansions: ARK: Genesis Part 1, ARK: Genesis Part 2 and one exclusive in-game robotic AI companion.",
+  "longDescription": "Unlock a whole new chapter in ARK: Survival Evolved! This Season Pass gives access to two huge expansion packs that further the ARK storyline while adventuring through exotic new worlds with your robotic AI companion HLN-A’ in all-new mission-based gameplay.",
   "status": "ACTIVE",
   "productSlug": "ark/genesis-season-pass",
-  "urlSlug": "apatitegenesissp-01",
+  "urlSlug": "ark--genesis-season-pass",
   "creationDate": "2020-05-11T23:31:26.315Z",
-  "lastModifiedDate": "2020-06-11T15:11:21.627Z",
+  "lastModifiedDate": "2020-07-31T02:49:26.421Z",
   "effectiveDate": "2020-06-11T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -32,66 +32,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:52:08.134Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

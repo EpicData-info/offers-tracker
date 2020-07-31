@@ -2,13 +2,13 @@
   "id": "8ac6d0d755914f39bc20d040c562d2cd",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "title": "SMITE Season Pass 2020",
-  "description": "SMITE Season Pass 2020",
-  "longDescription": null,
+  "description": "Get incredible content for every new God, all-year long, with the SMITE Season Pass 2020.  Plus: Immediately unlock the Limited Eternal Tormentor Zeus Skin, Eternal Tormentor Loading Screen, Godslayer Title and 1000 Gems!",
+  "longDescription": "You’ll get all of the following incredible content for each God as they are released in 2020:\n\n- Voice Pack\n- Season Pass Limited Skin\n- Additional Tier 1 Skin\n- Emotes (Wave and Clap)\n\nPlus, you’ll get 1000 Gems to unlock the newest Battle Pass, a favorite Skin, or an Event bundle -- the choice is yours!\n\nBest of all: Instantly unlock three cosmetics you can only get in the Season Pass: The Limited Eternal Tormentor Zeus skin, Eternal Tormentor Loading Screen, and the Godslayer Title.\n\n(If you don’t own the God Pack, you’ll also unlock all new Season 7 Gods.)",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "season-pass",
+  "productSlug": "smite/season-pass-2020",
+  "urlSlug": "smite--season-pass",
   "creationDate": "2020-02-18T02:41:12.754Z",
-  "lastModifiedDate": "2020-05-12T15:56:22.955Z",
+  "lastModifiedDate": "2020-07-31T02:48:16.083Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "smite/season-pass-2020"
     }
   ],
   "keyImages": [

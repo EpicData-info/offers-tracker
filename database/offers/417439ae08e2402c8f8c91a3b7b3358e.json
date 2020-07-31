@@ -2,13 +2,13 @@
   "id": "417439ae08e2402c8f8c91a3b7b3358e",
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "title": "Gas Mask Headgear Bundle",
-  "description": "Gas Mask Headgear Bundle",
-  "longDescription": "DLC00029",
+  "description": "Now that the legions of the undead have laid waste to Europe, fears of poisonous gasses are a thing of the past. However, the masks themselves have been repurposed as protective headgear – strong enough to withstand a bite or two!",
+  "longDescription": "Now that the legions of the undead have laid waste to Europe, fears of poisonous gasses are a thing of the past. \n\nHowever, the masks themselves have been repurposed as protective headgear – strong enough to withstand a bite or two!\n\nThis Bundle contains 4 Gas Masks, usable by all characters.\n",
   "status": "ACTIVE",
   "productSlug": "zombie-army-4-dead-war/gas-mask-headgear-bundle",
-  "urlSlug": "dlc-09",
+  "urlSlug": "zombie-army-4-dead-war--gas-mask-headgear-bundle",
   "creationDate": "2020-03-30T18:58:04.664Z",
-  "lastModifiedDate": "2020-05-12T13:50:31.687Z",
+  "lastModifiedDate": "2020-07-31T02:49:01.187Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,12 +38,78 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-31T02:49:28.262Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-31T02:49:03.766Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-31T02:49:25.562Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-31T02:49:22.940Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T02:49:28.334Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-31T02:49:22.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

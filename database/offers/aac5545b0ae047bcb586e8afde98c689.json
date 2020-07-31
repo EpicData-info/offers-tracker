@@ -2,13 +2,13 @@
   "id": "aac5545b0ae047bcb586e8afde98c689",
   "namespace": "ark",
   "title": "ARK Aberration",
-  "description": "ARK Aberration",
-  "longDescription": null,
+  "description": "A derelict, malfunctioning ARK, survivors face exotic new challenges unlike anything before. On Aberration, survivors will uncover the ultimate secrets of the ARKs, and discover what the future holds in store for those strong and clever enough to survive!",
+  "longDescription": "Waking up on a derelict, malfunctioning ARK, survivors face new challenges along with a stable of extraordinary new creatures within the mysterious lands. Beware the unrelenting, Element-infused humanoids which roam this elaborate underground biome system!",
   "status": "ACTIVE",
   "productSlug": "ark/aberration",
-  "urlSlug": "ark-aberration",
+  "urlSlug": "ark--aberration",
   "creationDate": "2020-05-11T23:35:22.203Z",
-  "lastModifiedDate": "2020-06-11T15:11:52.315Z",
+  "lastModifiedDate": "2020-07-31T02:49:26.686Z",
   "effectiveDate": "2020-06-11T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,66 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:52:08.134Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {

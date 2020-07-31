@@ -2,13 +2,13 @@
   "id": "1c2cc5ef7619434bb58f9d92ef3f1b67",
   "namespace": "e8882546f28e4832af823c646aed232e",
   "title": "Offworld Trading Company: Soundtrack DLC",
-  "description": "Offworld Trading Company: Soundtrack DLC",
-  "longDescription": null,
+  "description": "With a rich, unique, and otherworldly sound, Grammy award winning composer Christopher Tin (Baba Yetu, Civilization IV) will take you Offworld with this original soundtrack.",
+  "longDescription": "With a rich, unique, and otherworldly sound, Grammy award winning composer Christopher Tin (Baba Yetu, Civilization IV) will take you Offworld with this original soundtrack.",
   "status": "ACTIVE",
-  "productSlug": "offworld-trading-company",
-  "urlSlug": "snappersoundtrack",
+  "productSlug": null,
+  "urlSlug": "offworld-trading-company--soundtrack",
   "creationDate": "2020-02-26T15:27:40.660Z",
-  "lastModifiedDate": "2020-04-14T14:01:57.243Z",
+  "lastModifiedDate": "2020-07-31T02:48:26.578Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -55,10 +55,6 @@
     {
       "key": "SupportedPlatforms",
       "value": "Windows"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "offworld-trading-company"
     }
   ],
   "keyImages": [

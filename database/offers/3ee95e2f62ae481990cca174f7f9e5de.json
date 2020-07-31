@@ -2,13 +2,13 @@
   "id": "3ee95e2f62ae481990cca174f7f9e5de",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
   "title": "Just Cause 4 Expansion Pass",
-  "description": "Just Cause 4 Expansion Pass",
-  "longDescription": null,
+  "description": "Expand your Just Cause 4 experience with the Expansion Pass. Includes Dare Devils of Destruction, Los Demonios and Danger Rising Downloadable Content!",
+  "longDescription": "Expand your Just Cause 4 experience with the Expansion Pass. Includes new weapons, missions, gear and gameplay! Includes: - Dare Devils of Destruction - Los Demonios - Danger Rising",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "expansion-pass",
+  "productSlug": "just-cause-4/expansion-pass",
+  "urlSlug": "just-cause-4--expansion-pass",
   "creationDate": "2019-11-05T02:33:01.135Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "lastModifiedDate": "2020-07-31T02:48:32.569Z",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
+      "updated": "2020-07-31T02:49:28.262Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:37.307Z",
-      "updated": "2020-07-24T13:47:11.917Z",
+      "updated": "2020-07-31T02:48:36.001Z",
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-07-29T20:17:15.239Z",
+      "updated": "2020-07-31T02:49:25.537Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -107,6 +107,10 @@
     {
       "key": "developerName",
       "value": "Avalanche Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "just-cause-4/expansion-pass"
     }
   ],
   "keyImages": [

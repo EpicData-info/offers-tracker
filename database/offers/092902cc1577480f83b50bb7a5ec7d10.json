@@ -2,13 +2,13 @@
   "id": "092902cc1577480f83b50bb7a5ec7d10",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
   "title": "Just Cause 4 Reloaded  Content Pack",
-  "description": "Just Cause 4 Reloaded  Content Pack",
-  "longDescription": null,
+  "description": "Upgrade to Just Cause 4 Reloaded with the Reloaded Content Pack. Includes all additional content included with Just Cause 4 Reloaded: - Skystriker Weaponized Wingsuit",
+  "longDescription": "# Includes a series of weapons, vehicles and skins for your wingsuit and parachute:\n\n- ‘Skystriker’ Weaponized Wingsuit\n- Black Hand Stealth Micro Jet\n- Neon Racer Pack \n- Deathstalker Scorpion Pack\n- Renegade Pack",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "reloaded-content-pack",
+  "productSlug": "just-cause-4/reloaded-content-pack",
+  "urlSlug": "just-cause-4--reloaded-content-pack",
   "creationDate": "2019-11-05T02:28:36.615Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "lastModifiedDate": "2020-07-31T02:48:32.806Z",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
+      "updated": "2020-07-31T02:49:28.262Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:37.307Z",
-      "updated": "2020-07-24T13:47:11.917Z",
+      "updated": "2020-07-31T02:48:36.001Z",
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-07-29T20:17:15.239Z",
+      "updated": "2020-07-31T02:49:25.537Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -107,6 +107,10 @@
     {
       "key": "developerName",
       "value": "Avalanche Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "just-cause-4/reloaded-content-pack"
     }
   ],
   "keyImages": [

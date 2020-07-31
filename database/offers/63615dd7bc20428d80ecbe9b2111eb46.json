@@ -2,13 +2,13 @@
   "id": "63615dd7bc20428d80ecbe9b2111eb46",
   "namespace": "ba8062bdcc1342c0b78743e3c6242575",
   "title": "Just Cause 4 Gold Gear Pack",
-  "description": "Just Cause 4 Gold Gear Pack",
-  "longDescription": null,
+  "description": "Grab the premium Golden Gear Pack and receive the coveted Golden Gear Shotgun featuring ricochet tracer secondary fire, plus the Golden Gear Wingsuit and Golden Gear Parachute.",
+  "longDescription": "Grab the premium Golden Gear Pack and receive the coveted Golden Gear Shotgun featuring ricochet tracer secondary fire, plus the Golden Gear Wingsuit and Golden Gear Parachute.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "kakopo-gold-gear-pack",
+  "productSlug": "just-cause-4/golden-gear-pack",
+  "urlSlug": "just-cause-4--golden-gear-pack",
   "creationDate": "2020-04-07T16:27:54.400Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "lastModifiedDate": "2020-07-31T02:48:33.099Z",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
+      "updated": "2020-07-31T02:49:28.262Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:37.307Z",
-      "updated": "2020-07-24T13:47:11.917Z",
+      "updated": "2020-07-31T02:48:36.001Z",
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-07-29T20:17:15.239Z",
+      "updated": "2020-07-31T02:49:25.537Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -107,6 +107,10 @@
     {
       "key": "developerName",
       "value": "Avalanche Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "just-cause-4/golden-gear-pack"
     }
   ],
   "keyImages": [

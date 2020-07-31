@@ -2,13 +2,13 @@
   "id": "13774284e1c04f9bb389c7b36ed49fb8",
   "namespace": "f6dcd5bf17c0469789292d1166bf91a1",
   "title": "WRC 8 Alpine A110",
-  "description": "WRC 8 Alpine A110",
-  "longDescription": null,
+  "description": "The Alpine A110 is none other than the first car to win the World Rally Championship in the modern era. Many top drivers were successful in the 1970s at the wheel of this Berlinette.",
+  "longDescription": "The Alpine A110 is none other than the first car to win the World Rally Championship in the modern era. Many top drivers were successful in the 1970s at the wheel of this Berlinette.\n",
   "status": "ACTIVE",
-  "productSlug": "wrc-8",
-  "urlSlug": "wrc-8-alpine-a110",
+  "productSlug": null,
+  "urlSlug": "wrc-8--wrc-8-alpine-a110",
   "creationDate": "2019-08-30T20:33:44.398Z",
-  "lastModifiedDate": "2020-05-11T18:29:40.756Z",
+  "lastModifiedDate": "2020-07-31T02:48:54.294Z",
   "effectiveDate": "2019-08-30T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-31T02:45:29.440Z",
+      "updated": "2020-07-31T02:49:25.562Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2020-07-31T02:38:53.054Z",
+      "updated": "2020-07-31T02:48:55.267Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -87,10 +87,6 @@
     {
       "key": "developerName",
       "value": "Kylotonn"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "wrc-8"
     }
   ],
   "keyImages": [

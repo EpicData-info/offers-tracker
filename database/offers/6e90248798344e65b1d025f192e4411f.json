@@ -2,13 +2,13 @@
   "id": "6e90248798344e65b1d025f192e4411f",
   "namespace": "b04882669b2e495e9f747c8560488c93",
   "title": "Club Access - 1 Year",
-  "description": "Club Access - 1 Year",
-  "longDescription": null,
+  "description": "Access all trackmania features",
+  "longDescription": "# ACCESS TO CUSTOMIZATION\nCreate skins and customize your game.\n\n# INTERACT WITH OTHERS\nJoin any club you like, find friends with similar interests to play with, and enjoy exclusive content.\n\n# CREATE YOUR OWN CLUB, CONTENT AND ACTIVITIES\nShare your replays, ghosts, campaigns, competitions, skins. You can offer your club a never-ending entertainment.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "clubaccessoneyear",
+  "productSlug": "trackmania/club-access-one-year",
+  "urlSlug": "trackmania--club-access-one-year",
   "creationDate": "2020-06-11T20:43:51.888Z",
-  "lastModifiedDate": "2020-07-01T22:01:18.422Z",
+  "lastModifiedDate": "2020-07-31T02:48:11.744Z",
   "effectiveDate": "2020-07-01T15:00:00.000Z",
   "viewableDate": "2020-07-01T15:00:00.000Z",
   "developer": null,
@@ -47,6 +47,10 @@
     {
       "key": "developerName",
       "value": "Ubisoft Nadeo"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "trackmania/club-access-one-year"
     }
   ],
   "keyImages": [

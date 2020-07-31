@@ -2,13 +2,13 @@
   "id": "f79a8c87acdc4bedad0b7aa9ab6393a7",
   "namespace": "4c7117cadb714722950338f02850fd8d",
   "title": "Hawk Character DLC",
-  "description": "Hawk Character DLC",
-  "longDescription": null,
+  "description": "This DLC introduces Hawk, a powerful playable Contractor capable of using 20XX's awesome Powers to the fullest.",
+  "longDescription": "This DLC introduces Hawk, a powerful playable Contractor capable of using 20XX's awesome Powers to the fullest.\n\nHawk wields the sinister Siphon, a whip-like Primary Weapon capable of stealing energy from foes to fuel her Powers.\n\nHawk also has five unique Powers that only she can wield - from the self-aiming Seeking Striker to the high-flying Blastjump, mastery of these Powers pushes Hawk to heights previously not seen in 20XX.\n\n(NOTE: The Hawk DLC enables Hawk for your play. When playing online, you'll be able to use Hawk, even if your partner doesn't have this DLC.)",
   "status": "ACTIVE",
-  "productSlug": "20xx",
-  "urlSlug": "quailhawkaudience",
+  "productSlug": "20xx/hawk-character",
+  "urlSlug": "20xx--hawk-character",
   "creationDate": "2020-07-23T18:35:43.479Z",
-  "lastModifiedDate": "2020-07-30T03:54:58.935Z",
+  "lastModifiedDate": "2020-07-31T02:48:07.245Z",
   "effectiveDate": "2020-07-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:45:29.391Z",
+      "updated": "2020-07-31T02:49:28.077Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
@@ -54,7 +54,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -66,7 +66,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2020-07-30T03:55:01.874Z",
+      "updated": "2020-07-31T02:48:07.994Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -78,7 +78,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-07-30T15:46:25.465Z",
+      "updated": "2020-07-31T02:48:08.675Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -95,7 +95,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "20xx"
+      "value": "20xx/hawk-character"
     }
   ],
   "keyImages": [

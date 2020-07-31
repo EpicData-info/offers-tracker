@@ -2,13 +2,13 @@
   "id": "4f8838ca351542429afb419f8c86b73b",
   "namespace": "oregano",
   "title": "Bright Harvest - DLC",
-  "description": "Bright Harvest - DLC",
-  "longDescription": null,
+  "description": "Take your empire’s farming efforts to the next level with innovations such as tractors in Anno 1800's Bright Harvest.",
+  "longDescription": "Massively increase productivity across all your farms in the Old and New World, featuring new innovations such as tractors. These new innovations will work across all game sessions.\n\nCarefully plan your network of oil refineries and farms to make sure your tractors don’t run out of fuel.\n\nNew fodder silos increase the efficiency of animal farms in all corners of your empire. \n\nMake your cities even more lifelike with a selection of new agricultural and industrial ornaments. \n\nProve your farming prowess with five new Challenges and three new Ubisoft Club Rewards to unlock.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "bh-dlc",
+  "productSlug": "anno-1800/bright-harvest",
+  "urlSlug": "anno-1800--bright-harvest",
   "creationDate": "2020-03-07T05:23:41.889Z",
-  "lastModifiedDate": "2020-06-02T15:01:32.179Z",
+  "lastModifiedDate": "2020-07-31T02:49:08.447Z",
   "effectiveDate": "2020-06-02T15:00:00.000Z",
   "viewableDate": "2020-06-02T15:00:00.000Z",
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "Blue Byte"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/bright-harvest"
     }
   ],
   "keyImages": [

@@ -2,13 +2,13 @@
   "id": "616d8e1ff26b4a65b14794e612da00c4",
   "namespace": "b9def67e597b4be7a16146146a044d02",
   "title": "Mechwarrior 5 Modding Toolkit",
-  "description": "Mechwarrior 5 Modding Toolkit",
-  "longDescription": null,
+  "description": "Welcome to the Inner Sphere, Mercenaries. The MechWarrior 5: Mercenaries Mod Editor empowers you to imagine and create Mods using the full potential of Unreal Engine 4 and the MechWarrior 5: Mercenaries development project!",
+  "longDescription": "Welcome to the Inner Sphere, Mercenaries. The MechWarrior 5: Mercenaries Mod Editor empowers you to imagine and create Mods using the full potential of Unreal Engine 4 and the MechWarrior 5: Mercenaries development project!",
   "status": "ACTIVE",
-  "productSlug": "mechwarrior-5/home",
-  "urlSlug": "hoopoegeneralaudience-02",
+  "productSlug": null,
+  "urlSlug": "mechwarrior-5--mechwarrior-5-modding-toolkit",
   "creationDate": "2020-05-22T14:55:49.320Z",
-  "lastModifiedDate": "2020-06-08T12:19:12.699Z",
+  "lastModifiedDate": "2020-07-31T02:48:55.718Z",
   "effectiveDate": "2019-12-09T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
+      "updated": "2020-07-31T02:49:28.262Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-31T02:38:52.965Z",
+      "updated": "2020-07-31T02:49:11.945Z",
       "status": "ACTIVE",
       "referenceCount": 20,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-31T02:45:29.440Z",
+      "updated": "2020-07-31T02:49:25.562Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-07-29T21:49:44.146Z",
+      "updated": "2020-07-31T02:49:22.940Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -105,7 +105,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -117,7 +117,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-07-29T19:49:20.612Z",
+      "updated": "2020-07-31T02:49:22.892Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
@@ -131,10 +131,6 @@
     {
       "key": "developerName",
       "value": "Piranha Games"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "mechwarrior-5/home"
     }
   ],
   "keyImages": [

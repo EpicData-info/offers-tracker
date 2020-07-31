@@ -2,13 +2,13 @@
   "id": "9934e44b7e1f4861aa5d06693c901d22",
   "namespace": "076207fa2b5c4803a636af606c3c28b7",
   "title": "SMITE Digital Deluxe Edition 2020",
-  "description": "SMITE Digital Deluxe Edition 2020",
-  "longDescription": null,
+  "description": "Go Ahead. Play God! The SMITE Digital Deluxe Edition is the premier way to join the Battleground of the Gods.   This amazing bundle includes the Ultimate God Pack and the Season Pass 2020 at an instant savings over buying them separately.",
+  "longDescription": "This amazing bundle includes the Ultimate God Pack and the Season Pass 2020 at an instant savings over buying them separately.\n\nFor each new God released in 2020, you’ll get the following Exclusive content: \n\n- Voice Pack\n- Recolor\n- Season Pass Limited Recolor\n- Emotes (Wave and Clap)\n\nThat’s not all! The SMITE Digital Deluxe Edition also includes three cosmetics you can only get in the Season Pass: The Limited Eternal Tormentor Zeus skin, Eternal Tormentor Loading Screen, and the Godslayer Title.\n\n**Plus:** As a special bonus, you’ll receive 1000 Gems to unlock the newest Battle Pass, a favorite skin, and more -- the choice is yours!",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "digital-deluxe",
+  "productSlug": "smite/deluxe-edition-2020",
+  "urlSlug": "smite--deluxe-edition",
   "creationDate": "2020-02-18T02:56:21.601Z",
-  "lastModifiedDate": "2020-05-26T15:00:00.286Z",
+  "lastModifiedDate": "2020-07-31T02:48:16.606Z",
   "effectiveDate": "2020-04-28T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "{}"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "smite/deluxe-edition-2020"
     }
   ],
   "keyImages": [

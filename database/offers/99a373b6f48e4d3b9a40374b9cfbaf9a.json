@@ -2,13 +2,13 @@
   "id": "99a373b6f48e4d3b9a40374b9cfbaf9a",
   "namespace": "f5d58106a0e143758ddf2bb30dd72ae2",
   "title": "Wheels of Aurelia OST",
-  "description": "Wheels of Aurelia OST",
-  "longDescription": null,
+  "description": "Including four songs written, composed, and performed for the game in the style of Italian 70s music.",
+  "longDescription": "Including four songs written, composed, and performed for the game in the style of Italian 70s music.\n\n Full track list:\n\nWheels of Aurelia – Opening Theme 03:51\nPreludio 03:52\nFandango 01:37\nPreferivo Stare Sola 03:33\nRiccardo 03:52\nI Limoni 03:21\nGoldberg Variation 4 01:05",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "escolarsoundtrackgeneralaudience-01",
+  "productSlug": "wheels-of-aurelia/ost",
+  "urlSlug": "wheels-of-aurelia--ost",
   "creationDate": "2020-02-10T20:01:10.012Z",
-  "lastModifiedDate": "2020-05-11T16:48:09.269Z",
+  "lastModifiedDate": "2020-07-31T02:48:17.255Z",
   "effectiveDate": "2020-04-16T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-07-29T20:05:22.197Z",
+      "updated": "2020-07-31T02:48:17.477Z",
       "status": "ACTIVE",
       "referenceCount": 22,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2020-07-31T02:38:53.054Z",
+      "updated": "2020-07-31T02:48:55.267Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-30T15:46:25.481Z",
+      "updated": "2020-07-31T02:48:54.031Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -95,7 +95,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-30T15:46:25.449Z",
+      "updated": "2020-07-31T02:48:28.982Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
@@ -109,6 +109,10 @@
     {
       "key": "publisherName",
       "value": "Santa Ragione"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wheels-of-aurelia/ost"
     }
   ],
   "keyImages": [

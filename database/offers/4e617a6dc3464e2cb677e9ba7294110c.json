@@ -2,13 +2,13 @@
   "id": "4e617a6dc3464e2cb677e9ba7294110c",
   "namespace": "dfd2530e80e4425d801913b0879be444",
   "title": "M1 Semi-auto Carbine Bundle",
-  "description": "Zombie Army 4: M1 Semi-auto Carbine Bundle",
-  "longDescription": "Zombie Army 4: M1 Semi-auto Carbine Bundle",
+  "description": "Blast foes with a new semi-auto carbine, charms and skins!",
+  "longDescription": "Lightweight and easy to use, the M1 Semi-auto Carbine lets you shred the dead and stave off dread! This American-made extinction event is perfect for close-range combat, taking down enemies in seconds!\n\nThis weapon bundle contains: \n+ The M1 Carbine \n+ 2 charms (Uncle Sam Hat + Baseball Bat)\n+ 2 bespoke weapon skins (Painted US Flag + Baseball Leather).\n",
   "status": "ACTIVE",
   "productSlug": "zombie-army-4-dead-war/m1-semi-auto-carbine",
-  "urlSlug": "dlc-02",
+  "urlSlug": "zombie-army-4-dead-war--m1-semi-auto-carbine",
   "creationDate": "2020-02-20T18:27:17.889Z",
-  "lastModifiedDate": "2020-05-12T13:50:31.686Z",
+  "lastModifiedDate": "2020-07-31T02:48:59.541Z",
   "effectiveDate": "2020-03-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,12 +38,78 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-07-31T02:49:28.262Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-07-31T02:49:03.766Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-07-31T02:49:25.562Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-07-31T02:49:22.940Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-07-31T02:49:28.334Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-07-31T02:49:22.892Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

@@ -2,13 +2,13 @@
   "id": "1079068ba1144d60967b171b446492b2",
   "namespace": "springbok",
   "title": "Darksiders III DLC - Keepers of the Void",
-  "description": "Darksiders III DLC - Keepers of the Void",
-  "longDescription": "Darksiders III DLC - Keepers of the Void",
+  "description": "On a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there.  All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the...",
+  "longDescription": "On a quest from Vulgrim, Fury must travel into the Serpent Holes to remove an ancient threat that resides there.  All new locations, puzzles, and enemies await the chance to test Fury’s abilities. As a reward, she can unlock all new weapon forms for the Hollows as well as the biggest prize of them all: The Abyssal Armor.",
   "status": "ACTIVE",
   "productSlug": "darksiders3/dlc-2",
-  "urlSlug": "darksiders-dlc2",
+  "urlSlug": "darksiders3--dlc",
   "creationDate": "2019-07-15T20:21:44.582Z",
-  "lastModifiedDate": "2020-05-11T18:34:34.275Z",
+  "lastModifiedDate": "2020-07-31T02:49:22.149Z",
   "effectiveDate": "2019-07-15T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-07-31T02:45:29.414Z",
+      "updated": "2020-07-31T02:49:28.262Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
+      "updated": "2020-07-31T02:49:28.315Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-07-31T02:45:29.427Z",
+      "updated": "2020-07-31T02:49:28.281Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
+      "updated": "2020-07-31T02:49:27.775Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
@@ -113,12 +113,12 @@
       "value": "Gunfire Games"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "darksiders3/dlc-2"
-    },
-    {
       "key": "SupportedPlatforms",
       "value": "Windows"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "darksiders3/dlc-2"
     }
   ],
   "keyImages": [

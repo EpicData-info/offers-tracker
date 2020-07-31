@@ -2,13 +2,13 @@
   "id": "3202ef1e4a174772bb317fbc0ca8abf9",
   "namespace": "ca4058f18b0a4a9e9e2ccc28f7f33000",
   "title": "HD Voice Pack - German",
-  "description": "HD Voice Pack - German",
-  "longDescription": "Classic DLC",
+  "description": "Enjoy the Kingdom Come: Deliverance with better quality voice overs! Kingdom Come: Deliverance is a story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire.",
+  "longDescription": "Enjoy the Kingdom Come: Deliverance with better quality voice overs! Kingdom Come: Deliverance is a story-driven open-world RPG that immerses you in an epic adventure in the Holy Roman Empire.",
   "status": "ACTIVE",
-  "productSlug": "kingdom-come-deliverance/home#editions",
-  "urlSlug": "hd-voice-pack-german",
+  "productSlug": null,
+  "urlSlug": "kingdom-come-deliverance--hd-voice-pack-german",
   "creationDate": "2020-01-04T06:04:52.381Z",
-  "lastModifiedDate": "2020-05-13T20:58:39.605Z",
+  "lastModifiedDate": "2020-07-31T02:48:43.866Z",
   "effectiveDate": "2020-02-13T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:52:08.134Z",
+      "updated": "2020-07-31T02:49:28.043Z",
       "status": "ACTIVE",
       "referenceCount": 43,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-07-29T20:17:15.239Z",
+      "updated": "2020-07-31T02:49:25.537Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
+      "updated": "2020-07-31T02:49:27.775Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
@@ -91,10 +91,6 @@
     {
       "key": "publisherName",
       "value": "Warhorse Studios"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "kingdom-come-deliverance/home#editions"
     }
   ],
   "keyImages": [

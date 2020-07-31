@@ -2,13 +2,13 @@
   "id": "5c30321a26b54969a8e3ea9762ca96a7",
   "namespace": "4c7117cadb714722950338f02850fd8d",
   "title": "Draco Character DLC",
-  "description": "Draco Character DLC",
-  "longDescription": null,
+  "description": "This DLC introduces Draco, a powerful playable Contractor whose endless arsenal of unique Weapons decimates his foes.",
+  "longDescription": "This DLC introduces Draco, a powerful playable Contractor whose endless arsenal of unique Weapons decimates his foes.\n\nDraco wields multiple Primary Weapons at once, and stores charges at all times instead of manually charging his weapons.\n\nIn addition to being able to find and use Ace and Nina's weapons, Draco has six unique Primary Weapons that only he can use. Each has a unique Charged Attack property - by mastering weapons like the shadow-dashing Vega Claws and the platform-creating Rapture Bubble, Draco is able to pull off plays as-yet unseen in 20XX.\n\n(NOTE: The Draco DLC enables Draco for your play. When playing online, you'll be able to use Draco, even if your partner doesn't have this DLC.)",
   "status": "ACTIVE",
-  "productSlug": "20xx",
-  "urlSlug": "quaildracoaudience",
+  "productSlug": "20xx/draco-character",
+  "urlSlug": "20xx--draco-character",
   "creationDate": "2020-07-23T18:34:04.851Z",
-  "lastModifiedDate": "2020-07-30T03:55:01.692Z",
+  "lastModifiedDate": "2020-07-31T02:48:07.495Z",
   "effectiveDate": "2020-07-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-07-31T02:45:29.391Z",
+      "updated": "2020-07-31T02:49:28.077Z",
       "status": "ACTIVE",
       "referenceCount": 27,
       "comment": null
@@ -54,7 +54,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
+      "updated": "2020-07-31T02:49:28.334Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -66,7 +66,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:58:59.720Z",
-      "updated": "2020-07-30T03:55:01.874Z",
+      "updated": "2020-07-31T02:48:07.994Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -78,7 +78,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-07-30T15:46:25.465Z",
+      "updated": "2020-07-31T02:48:08.675Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -95,7 +95,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "20xx"
+      "value": "20xx/draco-character"
     }
   ],
   "keyImages": [

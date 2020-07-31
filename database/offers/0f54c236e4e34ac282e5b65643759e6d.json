@@ -2,13 +2,13 @@
   "id": "0f54c236e4e34ac282e5b65643759e6d",
   "namespace": "ark",
   "title": "ARK Scorched Earth",
-  "description": "ARK Scorched Earth",
-  "longDescription": null,
+  "description": "Stranded naked, parched and starving in a vast desert, even seasoned ARK survivors must use all their skills to stand a chance of survival. Tame, breed, and ride the desert’s mysterious new creatures including... DRAGONS!",
+  "longDescription": "Scorched Earth takes ARK players to an entirely new land, composed of six unique, desert themed biomes – dunes, high desert, mountains, canyons, badlands and oasis – each with their own ecosystem. Littered with ruins, geysers, ancient caves, & DRAGONS to ride!",
   "status": "ACTIVE",
   "productSlug": "ark/scorched-earth",
-  "urlSlug": "ark-scortched-earth",
+  "urlSlug": "ark--scorched-earth",
   "creationDate": "2020-05-11T23:33:26.891Z",
-  "lastModifiedDate": "2020-06-11T15:11:12.627Z",
+  "lastModifiedDate": "2020-07-31T02:49:27.168Z",
   "effectiveDate": "2020-06-11T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,66 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-07-30T15:52:08.134Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-29T20:14:32.096Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T02:38:53.000Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-07-31T02:45:29.456Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-07-30T15:01:50.751Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
