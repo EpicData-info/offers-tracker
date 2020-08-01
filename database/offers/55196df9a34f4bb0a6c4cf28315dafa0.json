@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-07-31T20:09:49.386Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -62,18 +51,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1151",
-      "name": "PLATFORMER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-07-31T20:08:00.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1263",
       "name": "INDIE",
@@ -84,20 +62,6 @@
       "updated": "2020-07-31T17:19:56.594Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-31T20:08:36.463Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],
