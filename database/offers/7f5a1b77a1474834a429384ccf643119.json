@@ -62,18 +62,7 @@
       "referenceCount": 14,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-01T00:20:13.111Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -84,30 +73,6 @@
       "updated": "2020-08-01T00:28:29.310Z",
       "status": "ACTIVE",
       "referenceCount": 28,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-01T00:29:13.267Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-01T00:20:13.096Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
