@@ -38,44 +38,21 @@
     }
   ],
   "tags": [
+    null,
+    null,
+    null,
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
+      "id": "1307",
+      "name": "OPEN WORLD",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-07-31T20:06:54.148Z",
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-31T22:59:02.066Z",
       "status": "ACTIVE",
-      "referenceCount": 46,
+      "referenceCount": 32,
       "comment": null
     },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-07-31T23:23:00.767Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-07-31T23:23:00.840Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    null,
-    null,
     null
   ],
   "customAttributes": [

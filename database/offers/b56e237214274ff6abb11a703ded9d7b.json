@@ -39,14 +39,36 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-07-31T23:23:00.801Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     null,
     null,
     null,
     null,
     null,
     null,
-    null,
-    null
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-07-31T17:19:56.594Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
