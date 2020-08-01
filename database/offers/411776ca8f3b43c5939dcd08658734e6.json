@@ -8,7 +8,7 @@
   "productSlug": "the-crew-2/season-pass",
   "urlSlug": "the-crew-2--season-pass",
   "creationDate": "2019-11-27T21:39:23.342Z",
-  "lastModifiedDate": "2020-07-31T02:49:06.239Z",
+  "lastModifiedDate": "2020-08-01T00:26:48.924Z",
   "effectiveDate": "2019-12-04T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"

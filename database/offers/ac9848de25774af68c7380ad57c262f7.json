@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/season-pass",
   "urlSlug": "anno-1800--season-pass",
   "creationDate": "2019-04-15T22:02:21.793Z",
-  "lastModifiedDate": "2020-07-31T02:49:06.550Z",
+  "lastModifiedDate": "2020-08-01T00:27:21.590Z",
   "effectiveDate": "2019-04-15T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
