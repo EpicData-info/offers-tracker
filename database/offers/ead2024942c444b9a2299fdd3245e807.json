@@ -35,8 +35,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-07-31T02:48:15.635Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-01T00:20:13.111Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1386",
       "name": "TURN-BASED",
@@ -49,8 +71,30 @@
       "referenceCount": 14,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-01T00:28:48.553Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-01T00:29:13.267Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "STRATEGY",
@@ -61,6 +105,18 @@
       "updated": "2020-07-31T20:08:27.782Z",
       "status": "ACTIVE",
       "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-07-31T02:48:15.658Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
       "comment": null
     }
   ],
