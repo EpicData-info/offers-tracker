@@ -8,7 +8,7 @@
   "productSlug": "watch-dogs/season-pass",
   "urlSlug": "watch-dogs--season-pass",
   "creationDate": "2020-03-10T19:40:12.849Z",
-  "lastModifiedDate": "2020-07-31T02:48:21.034Z",
+  "lastModifiedDate": "2020-08-01T00:20:37.903Z",
   "effectiveDate": "2020-03-19T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"

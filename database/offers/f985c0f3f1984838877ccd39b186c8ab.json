@@ -8,7 +8,7 @@
   "productSlug": "paladins/season-pass-2019-and-2020",
   "urlSlug": "paladins--season-pass-2019-and",
   "creationDate": "2020-02-17T20:54:06.752Z",
-  "lastModifiedDate": "2020-07-31T02:48:22.856Z",
+  "lastModifiedDate": "2020-08-01T00:21:24.224Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"

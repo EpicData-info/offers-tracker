@@ -8,7 +8,7 @@
   "productSlug": "paladins/digital-deluxe-edition-2019-and-2020",
   "urlSlug": "paladins--digital-deluxe-edition-2019-and",
   "creationDate": "2020-02-17T21:08:06.135Z",
-  "lastModifiedDate": "2020-07-31T02:48:22.315Z",
+  "lastModifiedDate": "2020-08-01T00:21:02.888Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"

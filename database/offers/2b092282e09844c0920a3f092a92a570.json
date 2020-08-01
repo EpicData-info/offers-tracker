@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-syndicate/season-pass",
   "urlSlug": "assassins-creed-syndicate--season-pass",
   "creationDate": "2019-12-04T18:27:15.989Z",
-  "lastModifiedDate": "2020-07-31T02:48:26.775Z",
+  "lastModifiedDate": "2020-08-01T00:21:43.592Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "bundles"
+      "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "bundles/addons"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
