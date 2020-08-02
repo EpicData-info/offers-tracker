@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-01T00:20:13.111Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "SURVIVAL",
@@ -60,7 +71,18 @@
       "referenceCount": 195,
       "comment": null
     },
-    null,
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-07-31T22:59:02.066Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
