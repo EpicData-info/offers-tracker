@@ -62,18 +62,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-07-31T02:49:18.615Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -120,18 +109,6 @@
       "updated": "2020-07-31T02:48:15.658Z",
       "status": "ACTIVE",
       "referenceCount": 1,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-01T00:20:13.096Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
