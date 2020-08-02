@@ -50,18 +50,7 @@
       "referenceCount": 11,
       "comment": null
     },
-    {
-      "id": "1146",
-      "name": "CITY BUILDER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2020-07-31T02:49:11.898Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -86,18 +75,7 @@
       "referenceCount": 33,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-01T18:44:08.746Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "9548",
       "name": "OSX",
@@ -111,18 +89,6 @@
       "updated": "2020-08-01T18:44:08.726Z",
       "status": "ACTIVE",
       "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-01T18:44:08.764Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
       "comment": null
     }
   ],
