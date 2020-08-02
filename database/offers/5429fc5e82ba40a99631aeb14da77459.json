@@ -39,21 +39,31 @@
   ],
   "tags": [
     null,
+    null,
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
+      "id": "1146",
+      "name": "CITY BUILDER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-01T00:20:13.111Z",
+      "created": "2019-06-20T11:59:31.235Z",
+      "updated": "2020-07-31T02:49:11.898Z",
       "status": "ACTIVE",
-      "referenceCount": 46,
+      "referenceCount": 9,
       "comment": null
     },
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-01T18:44:08.698Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
