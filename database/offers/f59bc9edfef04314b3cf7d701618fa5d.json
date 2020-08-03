@@ -35,8 +35,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-08-01T18:35:56.054Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1129",
+      "name": "MUSIC",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:22.582Z",
+      "updated": "2020-08-01T15:00:11.341Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -49,7 +71,30 @@
       "referenceCount": 195,
       "comment": null
     },
-    null
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-01T18:44:08.746Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-08-01T18:35:56.070Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
