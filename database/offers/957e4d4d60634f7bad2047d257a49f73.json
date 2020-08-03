@@ -8,7 +8,7 @@
   "productSlug": "before-we-leave",
   "urlSlug": "salmongeneralaudience",
   "creationDate": "2019-10-17T05:19:15.398Z",
-  "lastModifiedDate": "2020-05-08T23:02:51.829Z",
+  "lastModifiedDate": "2020-08-03T15:34:49.737Z",
   "effectiveDate": "2020-05-07T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:31.235Z",
-      "updated": "2020-07-31T02:49:11.898Z",
+      "updated": "2020-08-03T15:34:49.946Z",
       "status": "ACTIVE",
       "referenceCount": 9,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-03T14:10:39.686Z",
+      "updated": "2020-08-03T15:34:49.962Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-07-31T20:08:27.782Z",
+      "updated": "2020-08-03T15:34:49.933Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-03T14:10:39.711Z",
+      "updated": "2020-08-03T15:34:49.980Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-07-31T17:19:56.594Z",
+      "updated": "2020-08-03T15:34:49.993Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -103,10 +103,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
-    },
-    {
-      "key": "publisherName",
-      "value": "Balancing Monkey Games"
     },
     {
       "key": "developerName",
