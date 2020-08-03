@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-08-01T18:44:08.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     {
       "id": "1386",
       "name": "TURN-BASED",
@@ -51,7 +62,18 @@
       "referenceCount": 14,
       "comment": null
     },
-    null,
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-03T15:34:49.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
