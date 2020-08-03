@@ -90,7 +90,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:15.641Z",
-    "updated": "2020-07-31T20:08:27.782Z",
+    "updated": "2020-08-03T15:34:49.933Z",
     "status": "ACTIVE",
     "referenceCount": 33,
     "comment": null
@@ -139,6 +139,18 @@
     "operator": null,
     "created": "2019-06-20T11:59:22.582Z",
     "updated": "2020-08-01T15:00:11.341Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
+  "1131": {
+    "id": "1131",
+    "name": "SURVIVAL HORROR",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:23.560Z",
+    "updated": "2020-07-31T02:48:16.021Z",
     "status": "ACTIVE",
     "referenceCount": 0,
     "comment": null
@@ -263,6 +275,18 @@
     "referenceCount": 2,
     "comment": null
   },
+  "1187": {
+    "id": "1187",
+    "name": "THIRD-PERSON SHOOTER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:51.351Z",
+    "updated": "2020-07-31T02:48:45.587Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1203": {
     "id": "1203",
     "name": "MULTIPLAYER",
@@ -323,6 +347,18 @@
     "referenceCount": 14,
     "comment": null
   },
+  "1220": {
+    "id": "1220",
+    "name": "ZOMBIES",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:07.628Z",
+    "updated": "2020-07-31T02:48:15.977Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1233": {
     "id": "1233",
     "name": "BASE-BUILDING",
@@ -378,7 +414,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:29.190Z",
-    "updated": "2020-07-31T17:19:56.594Z",
+    "updated": "2020-08-03T15:34:49.993Z",
     "status": "ACTIVE",
     "referenceCount": 46,
     "comment": null
@@ -527,6 +563,18 @@
     "referenceCount": 32,
     "comment": null
   },
+  "1310": {
+    "id": "1310",
+    "name": "EARLY ACCESS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:52.671Z",
+    "updated": "2020-07-21T19:36:27.165Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1318": {
     "id": "1318",
     "name": "TRIVIA",
@@ -585,6 +633,18 @@
     "updated": "2020-08-01T00:20:13.084Z",
     "status": "ACTIVE",
     "referenceCount": 8,
+    "comment": null
+  },
+  "1347": {
+    "id": "1347",
+    "name": "ALIENS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:10.791Z",
+    "updated": "2020-07-31T13:18:24.963Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1367": {
@@ -678,7 +738,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-08-03T14:10:39.711Z",
+    "updated": "2020-08-03T15:34:49.980Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
