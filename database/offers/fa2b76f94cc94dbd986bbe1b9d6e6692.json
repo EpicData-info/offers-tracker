@@ -36,11 +36,31 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-07-31T02:48:10.140Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-03T15:34:49.962Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
