@@ -2,14 +2,14 @@
   "id": "28367358052b4e128ee7dab493ef5c3a",
   "namespace": "6fa08ca4ba92438495dfec53fb88118e",
   "title": "Chest of Gems",
-  "description": "Chest of Gems- 6500 gems",
-  "longDescription": null,
+  "description": "Contains 6500 gems.",
+  "longDescription": "Contains 6500 gems.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "tiramisu-chest-of-gems",
+  "urlSlug": "chestofgems",
   "creationDate": "2020-07-27T21:59:20.318Z",
-  "lastModifiedDate": "2020-07-28T19:56:52.522Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-08-03T22:59:05.949Z",
+  "effectiveDate": "2020-08-04T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -44,31 +44,22 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
-      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
-      "size": 259761,
-      "uploadedDate": "2020-07-28T01:07:59.391Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S5-1920x1080-0762ba45318067adfdac48ce44e4e25c.jpg",
-      "md5": "0762ba45318067adfdac48ce44e4e25c",
-      "size": 306195,
-      "uploadedDate": "2020-07-28T01:08:06.294Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemChest-300x300-5badc3e920bcb7fb5f0aecbec1afa734.png",
+      "md5": "5badc3e920bcb7fb5f0aecbec1afa734",
+      "size": 86425,
+      "uploadedDate": "2020-08-03T22:47:51.296Z",
+      "width": 300,
+      "height": 300
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
-      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
-      "size": 259761,
-      "uploadedDate": "2020-07-28T01:08:16.849Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemChest-300x300-5badc3e920bcb7fb5f0aecbec1afa734.png",
+      "md5": "5badc3e920bcb7fb5f0aecbec1afa734",
+      "size": 86425,
+      "uploadedDate": "2020-08-03T22:48:02.158Z",
+      "width": 300,
+      "height": 300
     }
   ],
   "items": [

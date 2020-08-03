@@ -2,14 +2,14 @@
   "id": "91f8b07ba0a0408f9f8068380c0a7bd3",
   "namespace": "6fa08ca4ba92438495dfec53fb88118e",
   "title": "Crate of Gems",
-  "description": "Crate of Gems- 2500 gems",
-  "longDescription": null,
+  "description": "Contains 2500 gems.",
+  "longDescription": "Contains 2500 gems.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "tiramisu-crate-of-gems",
+  "urlSlug": "crateofgems",
   "creationDate": "2020-07-27T21:57:18.632Z",
-  "lastModifiedDate": "2020-07-28T19:56:36.385Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-08-03T22:59:05.944Z",
+  "effectiveDate": "2020-08-04T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -44,31 +44,22 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
-      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
-      "size": 259761,
-      "uploadedDate": "2020-07-28T01:06:15.780Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S5-1920x1080-0762ba45318067adfdac48ce44e4e25c.jpg",
-      "md5": "0762ba45318067adfdac48ce44e4e25c",
-      "size": 306195,
-      "uploadedDate": "2020-07-28T01:06:23.469Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemCrate-300x300-9b266c5c293393b6fbd30546c64a82c4.png",
+      "md5": "9b266c5c293393b6fbd30546c64a82c4",
+      "size": 84911,
+      "uploadedDate": "2020-08-03T22:49:58.551Z",
+      "width": 300,
+      "height": 300
     },
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
-      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
-      "size": 259761,
-      "uploadedDate": "2020-07-28T01:06:34.942Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemCrate-300x300-9b266c5c293393b6fbd30546c64a82c4.png",
+      "md5": "9b266c5c293393b6fbd30546c64a82c4",
+      "size": 84911,
+      "uploadedDate": "2020-08-03T22:50:06.706Z",
+      "width": 300,
+      "height": 300
     }
   ],
   "items": [

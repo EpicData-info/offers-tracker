@@ -2,14 +2,14 @@
   "id": "9bda8c41b30348ff868119f3806bee23",
   "namespace": "6fa08ca4ba92438495dfec53fb88118e",
   "title": "Sacks of Gems",
-  "description": "Sacks of Gems- 1125 gems",
-  "longDescription": null,
+  "description": "Contains 1125 gems.",
+  "longDescription": "Contains 1125 gems.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "tiramisu-sacks-of-gems",
+  "urlSlug": "sacksofgems",
   "creationDate": "2020-07-27T21:56:01.066Z",
-  "lastModifiedDate": "2020-07-28T19:56:21.874Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-08-03T22:59:05.940Z",
+  "effectiveDate": "2020-08-04T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -44,22 +44,22 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
-      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
-      "size": 259761,
-      "uploadedDate": "2020-07-28T01:00:07.278Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemBags-300x300-57617898523f094972f1d2c2543dcd11.png",
+      "md5": "57617898523f094972f1d2c2543dcd11",
+      "size": 86251,
+      "uploadedDate": "2020-08-03T22:43:24.866Z",
+      "width": 300,
+      "height": 300
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S5-1920x1080-0762ba45318067adfdac48ce44e4e25c.jpg",
-      "md5": "0762ba45318067adfdac48ce44e4e25c",
-      "size": 306195,
-      "uploadedDate": "2020-07-28T01:00:17.600Z",
-      "width": 1920,
-      "height": 1080
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/IAPGemBags-300x300-57617898523f094972f1d2c2543dcd11.png",
+      "md5": "57617898523f094972f1d2c2543dcd11",
+      "size": 86251,
+      "uploadedDate": "2020-08-03T22:43:35.457Z",
+      "width": 300,
+      "height": 300
     }
   ],
   "items": [
