@@ -52,20 +52,31 @@
       "referenceCount": 0,
       "comment": null
     },
+    null,
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
+      "id": "1210",
+      "name": "SHOOTER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-01T00:20:13.111Z",
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-01T18:44:08.681Z",
       "status": "ACTIVE",
-      "referenceCount": 46,
+      "referenceCount": 28,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-03T22:59:06.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "STRATEGY",
@@ -88,6 +99,18 @@
       "updated": "2020-08-03T22:59:06.031Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-08-01T18:44:08.712Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
       "comment": null
     }
   ],

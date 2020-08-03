@@ -38,10 +38,32 @@
     }
   ],
   "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T20:09:49.386Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     null,
     null,
-    null,
-    null
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-08-03T15:34:49.993Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
