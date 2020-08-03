@@ -330,7 +330,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:05.613Z",
-    "updated": "2020-08-01T18:35:56.054Z",
+    "updated": "2020-08-03T14:10:39.732Z",
     "status": "ACTIVE",
     "referenceCount": 110,
     "comment": null
@@ -491,18 +491,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-06-11T15:54:59.315Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1294": {
     "id": "1294",
     "name": "FIRST-PERSON",
@@ -558,21 +546,9 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:51.191Z",
-    "updated": "2020-07-31T22:59:02.066Z",
+    "updated": "2020-08-03T14:10:39.662Z",
     "status": "ACTIVE",
     "referenceCount": 32,
-    "comment": null
-  },
-  "1310": {
-    "id": "1310",
-    "name": "EARLY ACCESS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:52.671Z",
-    "updated": "2020-07-21T19:36:27.165Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1318": {
@@ -666,7 +642,7 @@
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:01:22.169Z",
-    "updated": "2020-08-01T18:44:08.698Z",
+    "updated": "2020-08-03T14:10:39.686Z",
     "status": "ACTIVE",
     "referenceCount": 195,
     "comment": null
@@ -738,7 +714,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-08-01T18:44:08.746Z",
+    "updated": "2020-08-03T14:10:39.711Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -794,18 +770,6 @@
     "updated": "2020-07-31T20:08:36.463Z",
     "status": "ACTIVE",
     "referenceCount": 19,
-    "comment": null
-  },
-  "10842": {
-    "id": "10842",
-    "name": "SEAQA TAG",
-    "namespace": "SeaQA",
-    "aliases": [],
-    "operator": "cristina.wang",
-    "created": "2020-02-11T00:58:06.679Z",
-    "updated": "2020-07-03T21:24:39.384Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
     "comment": null
   },
   "11631": {
