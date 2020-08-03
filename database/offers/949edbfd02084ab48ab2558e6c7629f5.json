@@ -35,13 +35,35 @@
     }
   ],
   "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-01T00:24:58.102Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     null,
     null,
     null,
     null,
     null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-08-01T18:44:08.764Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
