@@ -35,13 +35,37 @@
     }
   ],
   "tags": [
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-01T00:24:58.102Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     null,
     null,
     null,
     null,
-    null,
-    null,
-    null
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-01T18:44:08.726Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
