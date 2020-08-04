@@ -41,9 +41,33 @@
     null,
     null,
     null,
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-03T15:34:49.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     null,
-    null,
-    null
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-31T20:08:36.463Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
