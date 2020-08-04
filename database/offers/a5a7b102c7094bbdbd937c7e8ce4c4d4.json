@@ -1,16 +1,16 @@
 {
   "id": "a5a7b102c7094bbdbd937c7e8ce4c4d4",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "Crossbow Rifle Audience",
-  "description": "Crossbow Rifle Audience",
-  "longDescription": "Crossbow Rifle Audience",
+  "title": "Crossbow Rifle Bundle",
+  "description": "Crossbow Rifle Bundle",
+  "longDescription": "Crossbow Rifle Bundle",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/crossbow-rifle-bundle",
+  "productSlug": null,
   "urlSlug": "m1895-rifle-bundle-01",
   "creationDate": "2020-06-29T17:54:01.079Z",
-  "lastModifiedDate": "2020-07-29T14:27:50.990Z",
-  "effectiveDate": "2020-08-04T15:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-08-04T13:38:28.832Z",
+  "effectiveDate": "2020-08-04T14:00:00.000Z",
+  "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -53,10 +53,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/crossbow-rifle-bundle"
     }
   ],
   "keyImages": [
@@ -68,6 +64,42 @@
       "uploadedDate": "2020-05-05T14:34:37.380Z",
       "width": 842,
       "height": 485
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_CrossbowRifleBundle-900x450-1ee9c3c50b10c90095f0d8197484cae5.png",
+      "md5": "1ee9c3c50b10c90095f0d8197484cae5",
+      "size": 212569,
+      "uploadedDate": "2020-07-29T14:57:29.847Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CROSSBOWRIFLEBUNDLE_REDEMPTIONIMAGE-860x1180-c49982ad9898e205c57bfcbed55c64ea.jpg",
+      "md5": "c49982ad9898e205c57bfcbed55c64ea",
+      "size": 818607,
+      "uploadedDate": "2020-07-29T14:57:39.227Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CROSSBOWRIFLEBUNDLE_REDEMPTIONIMAGE-860x1180-c49982ad9898e205c57bfcbed55c64ea.jpg",
+      "md5": "c49982ad9898e205c57bfcbed55c64ea",
+      "size": 818607,
+      "uploadedDate": "2020-07-29T14:57:49.062Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CROSSBOWRIFLEBUNDLE_REDEMPTIONIMAGE-860x1180-c49982ad9898e205c57bfcbed55c64ea.jpg",
+      "md5": "c49982ad9898e205c57bfcbed55c64ea",
+      "size": 818607,
+      "uploadedDate": "2020-07-29T14:57:56.335Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

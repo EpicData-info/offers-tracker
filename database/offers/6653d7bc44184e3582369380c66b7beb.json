@@ -1,16 +1,16 @@
 {
   "id": "6653d7bc44184e3582369380c66b7beb",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "Flags Charm Audience",
-  "description": "Flags Charm Audience",
-  "longDescription": "Flags Charm Audience",
+  "title": "Flags Charm Pack",
+  "description": "Flags Charm Pack",
+  "longDescription": "Flags Charm Pack",
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "m1895-rifle-bundle-04",
   "creationDate": "2020-06-29T17:56:35.173Z",
-  "lastModifiedDate": "2020-07-29T14:28:06.115Z",
-  "effectiveDate": "2020-08-04T15:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-08-04T13:38:28.900Z",
+  "effectiveDate": "2020-08-04T14:00:00.000Z",
+  "viewableDate": "2020-08-04T13:59:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -64,6 +64,42 @@
       "uploadedDate": "2020-05-05T14:34:37.380Z",
       "width": 842,
       "height": 485
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_LoneWolfJunOutfit-900x450-972fd46efe8f98260aac77210d8dcdab.jpg",
+      "md5": "972fd46efe8f98260aac77210d8dcdab",
+      "size": 295458,
+      "uploadedDate": "2020-07-29T15:07:26.527Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LoneWolfJunOutfit_REDEMPTIONIMAGE-860x1180-286eceae0f9777d1c7ae1b23a5a7e36a.jpg",
+      "md5": "286eceae0f9777d1c7ae1b23a5a7e36a",
+      "size": 705394,
+      "uploadedDate": "2020-07-29T15:07:34.133Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LoneWolfJunOutfit_REDEMPTIONIMAGE-860x1180-286eceae0f9777d1c7ae1b23a5a7e36a.jpg",
+      "md5": "286eceae0f9777d1c7ae1b23a5a7e36a",
+      "size": 705394,
+      "uploadedDate": "2020-07-29T15:07:42.028Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_LoneWolfJunOutfit_REDEMPTIONIMAGE-860x1180-286eceae0f9777d1c7ae1b23a5a7e36a.jpg",
+      "md5": "286eceae0f9777d1c7ae1b23a5a7e36a",
+      "size": 705394,
+      "uploadedDate": "2020-07-29T15:07:49.876Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [
