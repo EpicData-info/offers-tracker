@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-07-31T02:48:45.613Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
     {
       "id": "1233",
       "name": "BASE-BUILDING",
@@ -54,7 +65,18 @@
       "referenceCount": 4,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-04T18:09:30.433Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -67,7 +89,18 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-08-04T15:30:13.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
     {
       "id": "1294",
       "name": "FIRST-PERSON",
