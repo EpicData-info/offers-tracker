@@ -38,15 +38,79 @@
     }
   ],
   "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-08-04T13:38:28.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-07-31T02:48:45.613Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1187",
+      "name": "THIRD-PERSON SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:51.351Z",
+      "updated": "2020-07-31T02:48:45.587Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-04T13:38:28.970Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-04T13:38:29.005Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-03T15:34:49.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
