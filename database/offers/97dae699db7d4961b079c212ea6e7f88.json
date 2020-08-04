@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-08-04T13:38:28.988Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
     {
       "id": "1333",
       "name": "ACTION RPG",
@@ -70,7 +81,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T12:02:40.358Z",
+      "updated": "2020-08-04T15:05:46.301Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -82,9 +93,21 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T13:38:28.955Z",
+      "updated": "2020-08-04T15:05:46.318Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-08-03T15:34:49.993Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     }
   ],

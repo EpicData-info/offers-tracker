@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-08-04T13:38:28.937Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "SURVIVAL",
@@ -58,9 +69,21 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T12:02:40.358Z",
+      "updated": "2020-08-04T15:05:46.301Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-04T15:05:46.318Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
