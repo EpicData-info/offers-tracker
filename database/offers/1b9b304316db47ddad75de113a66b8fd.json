@@ -38,44 +38,9 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-04T15:16:10.664Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T18:09:30.367Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-31T20:08:36.463Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
