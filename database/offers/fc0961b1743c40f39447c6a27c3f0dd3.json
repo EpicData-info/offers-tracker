@@ -41,18 +41,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-08-04T19:02:50.434Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -65,18 +54,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T18:09:30.433Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -124,7 +102,9 @@
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
