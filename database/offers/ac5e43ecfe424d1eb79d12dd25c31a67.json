@@ -41,30 +41,8 @@
       "referenceCount": 14,
       "comment": null
     },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-08-01T00:24:58.102Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-03T22:59:06.058Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -75,18 +53,6 @@
       "updated": "2020-08-03T22:59:06.031Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-08-03T15:34:49.993Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],

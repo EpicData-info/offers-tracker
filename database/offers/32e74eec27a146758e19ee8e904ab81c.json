@@ -50,18 +50,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1218",
-      "name": "HORROR",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2020-08-01T00:24:58.115Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -84,30 +73,6 @@
       "updated": "2020-08-03T22:59:06.031Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-01T18:44:08.764Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-03T22:59:06.002Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
       "comment": null
     }
   ],
