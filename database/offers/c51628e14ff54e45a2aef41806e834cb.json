@@ -1,20 +1,20 @@
 {
-  "id": "d8618f47119940fb8e5c38eb0421c752",
-  "namespace": "7c53d7dc86494d5abcdc974b0ef0a843",
-  "title": "Kena: Bridge of Spirits",
-  "description": "Kena: Bridge of Spirits",
+  "id": "c51628e14ff54e45a2aef41806e834cb",
+  "namespace": "6fa08ca4ba92438495dfec53fb88118e",
+  "title": "Wizards: Wand of Epicosity",
+  "description": "Wizards: Wand of Epicosity",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "kena-bridge-of-spirits",
-  "urlSlug": "kena-bridge-of-spirits",
-  "creationDate": "2020-06-03T00:21:44.665Z",
-  "lastModifiedDate": "2020-06-15T14:49:05.273Z",
-  "effectiveDate": "2099-01-01T15:00:00.000Z",
+  "productSlug": "wizards-wand-of-epicosity",
+  "urlSlug": "wizards-wand-of-epicosity",
+  "creationDate": "2020-07-15T19:53:14.999Z",
+  "lastModifiedDate": "2020-08-04T12:02:40.200Z",
+  "effectiveDate": "2020-08-04T05:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-4xa8vpghs27nav2w3z3h6z4f6f4fyd",
-    "name": "Ember Lab"
+    "id": "o-uf3lq93jd32ezc5vrxta8zeqflldqu",
+    "name": "Game Mechanic Studios Noho"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,10 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/edition/base"
+      "path": "games/edition"
     },
     {
-      "path": "games/edition"
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -51,15 +51,15 @@
       "comment": null
     },
     {
-      "id": "1381",
-      "name": "EXPLORATION",
+      "id": "1367",
+      "name": "RPG",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-07-31T02:49:13.553Z",
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-08-04T12:02:40.341Z",
       "status": "ACTIVE",
-      "referenceCount": 14,
+      "referenceCount": 43,
       "comment": null
     },
     {
@@ -114,76 +114,76 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "Ember Lab"
+      "value": "Game Mechanic Studios"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "kena-bridge-of-spirits"
+      "value": "wizards-wand-of-epicosity"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S5-1920x1080-450356496c568d85ecc7319a202b99b7.jpg",
-      "md5": "450356496c568d85ecc7319a202b99b7",
-      "size": 547546,
-      "uploadedDate": "2020-06-10T23:17:09.143Z",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S5-1920x1080-0762ba45318067adfdac48ce44e4e25c.jpg",
+      "md5": "0762ba45318067adfdac48ce44e4e25c",
+      "size": 306195,
+      "uploadedDate": "2020-08-03T22:27:43.730Z",
       "width": 1920,
       "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg",
-      "md5": "e701bd947727ee14b81626c7f9757e4f",
-      "size": 504486,
-      "uploadedDate": "2020-06-10T23:17:16.024Z",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
+      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
+      "size": 259761,
+      "uploadedDate": "2020-08-03T22:27:53.714Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg",
-      "md5": "e701bd947727ee14b81626c7f9757e4f",
-      "size": 504486,
-      "uploadedDate": "2020-06-10T23:17:23.306Z",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
+      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
+      "size": 259761,
+      "uploadedDate": "2020-08-03T22:28:21.895Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg",
-      "md5": "e701bd947727ee14b81626c7f9757e4f",
-      "size": 504486,
-      "uploadedDate": "2020-06-10T23:17:31.579Z",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
+      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
+      "size": 259761,
+      "uploadedDate": "2020-08-03T22:28:56.417Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S2-1200x1600-1f0bf5ed714355e97f8327fc72fbbd73.jpg",
+      "md5": "1f0bf5ed714355e97f8327fc72fbbd73",
+      "size": 259761,
+      "uploadedDate": "2020-08-03T22:28:51.206Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S5-1920x1080-450356496c568d85ecc7319a202b99b7.jpg",
-      "md5": "450356496c568d85ecc7319a202b99b7",
-      "size": 547546,
-      "uploadedDate": "2020-06-10T23:17:40.602Z",
+      "url": "https://cdn1.epicgames.com/6fa08ca4ba92438495dfec53fb88118e/offer/EGS_WizardsWandofEpicosity_GameMechanicStudios_S5-1920x1080-0762ba45318067adfdac48ce44e4e25c.jpg",
+      "md5": "0762ba45318067adfdac48ce44e4e25c",
+      "size": 306195,
+      "uploadedDate": "2020-08-03T22:28:39.698Z",
       "width": 1920,
       "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg",
-      "md5": "e701bd947727ee14b81626c7f9757e4f",
-      "size": 504486,
-      "uploadedDate": "2020-06-10T23:17:48.820Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
     {
-      "id": "4721a42f29a44f639f036cfcd7bb6744"
+      "id": "831318b0be8b498e97d7a5ea9229929e"
     }
   ],
   "catalogNs": null
