@@ -8,7 +8,7 @@
   "productSlug": "diabotical/home",
   "urlSlug": "honeycreepergeneralaudience-04",
   "creationDate": "2020-03-31T19:36:44.849Z",
-  "lastModifiedDate": "2020-06-02T00:39:24.950Z",
+  "lastModifiedDate": "2020-08-04T15:14:13.353Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
-    },
-    {
-      "path": "addons/consumable"
+      "path": "applications"
     }
   ],
   "tags": [
@@ -39,7 +36,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T15:05:46.318Z",
+      "updated": "2020-08-04T15:20:58.367Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -51,7 +48,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-04T12:02:40.297Z",
+      "updated": "2020-08-04T15:20:58.421Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null

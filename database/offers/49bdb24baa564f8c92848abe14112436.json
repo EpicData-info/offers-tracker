@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T15:05:46.301Z",
+      "updated": "2020-08-04T15:20:58.346Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,35 +69,13 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T15:05:46.318Z",
+      "updated": "2020-08-04T15:20:58.367Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-01T18:44:08.764Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1151",
-      "name": "PLATFORMER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:33.743Z",
-      "updated": "2020-07-31T20:08:00.147Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1263",
       "name": "INDIE",

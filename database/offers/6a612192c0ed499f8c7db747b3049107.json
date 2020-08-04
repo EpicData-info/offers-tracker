@@ -45,23 +45,12 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-04T15:05:46.330Z",
+      "updated": "2020-08-04T15:16:10.664Z",
       "status": "ACTIVE",
       "referenceCount": 20,
       "comment": null
     },
-    {
-      "id": "1400",
-      "name": "PHYSICS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:37.307Z",
-      "updated": "2020-07-31T17:19:56.607Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -69,7 +58,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T15:05:46.301Z",
+      "updated": "2020-08-04T15:20:58.346Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -81,36 +70,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-08-04T15:05:46.274Z",
+      "updated": "2020-08-04T15:17:19.930Z",
       "status": "ACTIVE",
       "referenceCount": 33,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T15:05:46.318Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-01T18:44:08.726Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
       "comment": null
     }
   ],

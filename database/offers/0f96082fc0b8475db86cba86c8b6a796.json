@@ -45,35 +45,13 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-04T13:38:28.988Z",
+      "updated": "2020-08-04T15:20:58.406Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1344",
-      "name": "FIGHTING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-08-01T00:20:13.084Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T15:05:46.301Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -81,21 +59,9 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T15:05:46.318Z",
+      "updated": "2020-08-04T15:20:58.367Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1084",
-      "name": "STEALTH",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:00.299Z",
-      "updated": "2020-07-30T21:58:54.110Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
       "comment": null
     }
   ],
