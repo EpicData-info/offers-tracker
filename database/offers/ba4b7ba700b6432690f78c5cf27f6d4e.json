@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1264",
-      "name": "CO-OP",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-08-04T15:17:19.918Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -87,18 +76,6 @@
       "updated": "2020-08-04T16:01:45.452Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-04T15:30:13.058Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
       "comment": null
     }
   ],

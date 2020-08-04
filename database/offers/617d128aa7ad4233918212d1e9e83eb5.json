@@ -29,30 +29,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1299",
-      "name": "COMPETITIVE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2020-08-04T15:16:46.398Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-08-04T15:41:40.312Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -75,20 +53,6 @@
       "updated": "2020-08-03T15:34:49.993Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-07-31T20:08:36.463Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],
