@@ -50,18 +50,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-08-03T22:59:06.042Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -84,18 +73,6 @@
       "updated": "2020-08-04T00:31:42.488Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-03T22:59:06.002Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
       "comment": null
     }
   ],
