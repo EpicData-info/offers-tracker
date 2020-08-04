@@ -42,8 +42,18 @@
     null,
     null,
     null,
-    null,
-    null,
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-04T00:31:42.530Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     null
   ],
   "customAttributes": [
