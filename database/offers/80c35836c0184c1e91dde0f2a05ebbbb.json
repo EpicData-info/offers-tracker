@@ -38,8 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T20:09:49.386Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-01T00:24:58.102Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -52,8 +74,30 @@
       "referenceCount": 195,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-03T15:34:49.933Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-04T12:02:40.329Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
     {
       "id": "9548",
       "name": "OSX",
@@ -67,6 +111,18 @@
       "updated": "2020-08-01T18:44:08.726Z",
       "status": "ACTIVE",
       "referenceCount": 48,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-08-01T18:44:08.764Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
       "comment": null
     }
   ],
