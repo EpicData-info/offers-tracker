@@ -131,6 +131,18 @@
     "referenceCount": 4,
     "comment": null
   },
+  "1131": {
+    "id": "1131",
+    "name": "SURVIVAL HORROR",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:23.560Z",
+    "updated": "2020-07-31T02:48:16.021Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1141": {
     "id": "1141",
     "name": "FREE TO PLAY",
@@ -251,6 +263,18 @@
     "referenceCount": 2,
     "comment": null
   },
+  "1187": {
+    "id": "1187",
+    "name": "THIRD-PERSON SHOOTER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:51.351Z",
+    "updated": "2020-07-31T02:48:45.587Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1203": {
     "id": "1203",
     "name": "MULTIPLAYER",
@@ -258,7 +282,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:59.171Z",
-    "updated": "2020-08-04T00:31:42.501Z",
+    "updated": "2020-08-04T13:38:28.970Z",
     "status": "ACTIVE",
     "referenceCount": 46,
     "comment": null
@@ -270,7 +294,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:02.690Z",
-    "updated": "2020-08-04T00:31:42.530Z",
+    "updated": "2020-08-04T13:38:29.005Z",
     "status": "ACTIVE",
     "referenceCount": 28,
     "comment": null
@@ -294,7 +318,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:05.613Z",
-    "updated": "2020-08-04T12:02:40.282Z",
+    "updated": "2020-08-04T13:38:28.988Z",
     "status": "ACTIVE",
     "referenceCount": 110,
     "comment": null
@@ -306,9 +330,21 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:06.599Z",
-    "updated": "2020-08-04T00:31:42.468Z",
+    "updated": "2020-08-04T13:38:28.937Z",
     "status": "ACTIVE",
     "referenceCount": 14,
+    "comment": null
+  },
+  "1220": {
+    "id": "1220",
+    "name": "ZOMBIES",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:07.628Z",
+    "updated": "2020-07-31T02:48:15.977Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1233": {
@@ -402,7 +438,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:37.207Z",
-    "updated": "2020-08-04T00:31:42.542Z",
+    "updated": "2020-08-04T13:38:29.019Z",
     "status": "ACTIVE",
     "referenceCount": 3,
     "comment": null
@@ -441,18 +477,6 @@
     "updated": "2020-05-12T16:32:19.369Z",
     "status": "ACTIVE",
     "referenceCount": 1,
-    "comment": null
-  },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-06-11T15:54:59.315Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1294": {
@@ -575,6 +599,18 @@
     "referenceCount": 8,
     "comment": null
   },
+  "1347": {
+    "id": "1347",
+    "name": "ALIENS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:10.791Z",
+    "updated": "2020-07-31T13:18:24.963Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1367": {
     "id": "1367",
     "name": "RPG",
@@ -666,7 +702,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-08-04T12:02:40.329Z",
+    "updated": "2020-08-04T13:38:28.955Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -722,18 +758,6 @@
     "updated": "2020-07-31T20:08:36.463Z",
     "status": "ACTIVE",
     "referenceCount": 19,
-    "comment": null
-  },
-  "10842": {
-    "id": "10842",
-    "name": "SEAQA TAG",
-    "namespace": "SeaQA",
-    "aliases": [],
-    "operator": "cristina.wang",
-    "created": "2020-02-11T00:58:06.679Z",
-    "updated": "2020-07-03T21:24:39.384Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
     "comment": null
   },
   "11631": {

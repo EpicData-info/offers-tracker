@@ -41,7 +41,18 @@
       "referenceCount": 27,
       "comment": null
     },
-    null,
+    {
+      "id": "1395",
+      "name": "NARRATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:34.825Z",
+      "updated": "2020-07-31T02:48:17.477Z",
+      "status": "ACTIVE",
+      "referenceCount": 22,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -73,7 +84,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T12:02:40.329Z",
+      "updated": "2020-08-04T13:38:28.955Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

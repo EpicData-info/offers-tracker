@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-08-01T00:23:58.559Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -49,7 +60,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T12:02:40.329Z",
+      "updated": "2020-08-04T13:38:28.955Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
