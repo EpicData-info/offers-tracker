@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-08-04T15:16:10.664Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1159",
       "name": "ARCADE",
@@ -49,7 +60,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-04T16:01:45.505Z",
+      "updated": "2020-08-04T17:22:02.515Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -61,7 +72,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T16:01:45.452Z",
+      "updated": "2020-08-04T17:22:02.467Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
