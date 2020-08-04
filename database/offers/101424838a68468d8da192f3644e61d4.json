@@ -50,69 +50,10 @@
       "referenceCount": 18,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-04T19:02:50.404Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1318",
-      "name": "TRIVIA",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:56.576Z",
-      "updated": "2020-05-13T23:47:14.117Z",
-      "status": "ACTIVE",
-      "referenceCount": 9,
-      "comment": null
-    },
-    {
-      "id": "1110",
-      "name": "PARTY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:13.150Z",
-      "updated": "2020-08-04T15:41:40.322Z",
-      "status": "ACTIVE",
-      "referenceCount": 12,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T21:07:54.559Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-01T18:44:08.726Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
