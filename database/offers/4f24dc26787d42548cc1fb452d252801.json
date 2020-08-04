@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-07-31T20:09:49.386Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -51,7 +62,30 @@
       "referenceCount": 259,
       "comment": null
     },
-    null
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-08-03T14:10:39.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-08-01T18:44:08.712Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
