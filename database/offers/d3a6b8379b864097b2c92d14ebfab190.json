@@ -38,69 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-04T18:09:30.396Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-04T18:09:30.367Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-01T18:44:08.726Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-04T15:30:13.058Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-08-03T15:34:49.993Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
