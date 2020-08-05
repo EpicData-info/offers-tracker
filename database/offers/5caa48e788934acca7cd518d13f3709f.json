@@ -8,7 +8,7 @@
   "productSlug": "steep/season-pass",
   "urlSlug": "steep--season-pass",
   "creationDate": "2019-12-09T19:51:31.398Z",
-  "lastModifiedDate": "2020-08-01T00:25:55.953Z",
+  "lastModifiedDate": "2020-08-05T19:30:07.339Z",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -47,15 +47,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_1920x1080_SEASONPASS-1920x1080-cdbfe54273e341ac4d91c1e6279c3ca5.jpg",
-      "md5": "cdbfe54273e341ac4d91c1e6279c3ca5",
-      "size": 470108,
-      "uploadedDate": "2019-12-20T21:35:21.687Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_1920x1080_SEASONPASS-1920x1080-e6c7ecc9006102b36a382523665d5bc944e5a578.jpg",
       "md5": "fbae81ae74de2d68f9ad00d59c81e14a",
@@ -63,6 +54,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:29:24.338Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:29:34.330Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:29:43.018Z",
+      "width": 640,
+      "height": 854
     }
   ],
   "items": [

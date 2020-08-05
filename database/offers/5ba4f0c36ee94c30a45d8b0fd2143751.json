@@ -8,7 +8,7 @@
   "productSlug": "steep/rocket-wings-dlc",
   "urlSlug": "steep--rocket-wings-dlc",
   "creationDate": "2019-12-09T19:56:07.459Z",
-  "lastModifiedDate": "2020-07-31T02:49:05.070Z",
+  "lastModifiedDate": "2020-08-05T19:28:08.344Z",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,24 +46,6 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg",
-      "md5": "ce74db257a9e6b55d6375adaefb97213",
-      "size": 518351,
-      "uploadedDate": "2019-12-20T22:35:01.194Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROCKETWINGS_1920x1080-1920x1080-f8866a1a3349a34dbf584a501852bb2a.jpg",
-      "md5": "f8866a1a3349a34dbf584a501852bb2a",
-      "size": 455662,
-      "uploadedDate": "2019-12-20T22:35:25.502Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/DLC_ROCKETWINGS_1920x1080-1920x1080-7028997fa0ecf8573fc069807ec1420a38dd99c4.jpg",
       "md5": "d0d6a1fb3c76ee0d42496cd1afa4dc07",
@@ -71,6 +53,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:26:51.339Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:27:02.770Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:27:10.927Z",
+      "width": 640,
+      "height": 854
     }
   ],
   "items": [
