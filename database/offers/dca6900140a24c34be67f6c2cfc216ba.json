@@ -41,11 +41,34 @@
     null,
     null,
     null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-05T20:50:05.570Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-05T03:29:25.754Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
