@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-odyssey/dlc-1",
   "urlSlug": "assassins-creed-odyssey--dlc-01",
   "creationDate": "2019-08-08T20:39:11.775Z",
-  "lastModifiedDate": "2020-07-31T02:49:17.077Z",
+  "lastModifiedDate": "2020-08-05T16:19:41.054Z",
   "effectiveDate": "2019-10-22T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -54,31 +54,40 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_LOTFB-330x440-85b47f83b92570e76a40f8b2f8f0d0e5.jpg",
-      "md5": "85b47f83b92570e76a40f8b2f8f0d0e5",
-      "size": 68565,
-      "uploadedDate": "2019-08-17T01:16:24.036Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-66dc48728678f248118975d2cde84aff.jpg",
-      "md5": "66dc48728678f248118975d2cde84aff",
-      "size": 44833,
-      "uploadedDate": "2019-08-17T01:16:53.819Z",
-      "width": 355,
-      "height": 150
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACD_UCS14057_EGST_FirstBlade_Store_Portrait_1200x1600-1200x1600-1d90eca778b441437d881cb4282890fa.jpg",
+      "md5": "1d90eca778b441437d881cb4282890fa",
+      "size": 724425,
+      "uploadedDate": "2020-08-05T16:18:24.379Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/clary/offer/ACOD_LegacyDLC_Capsule-1920x1080-0331952cbc7e0202659089c44f3842d437a4d69f.jpg",
-      "md5": "21bd22e89d4f7032b674e90f0d5d7228",
-      "size": 62714,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/clary/offer/ACD_UCS14057_EGST_FirstBlade_Store_Landscape_2560x1440-2560x1440-117efdc423cf30743a8fa724a048fcc8.jpg",
+      "md5": "117efdc423cf30743a8fa724a048fcc8",
+      "size": 1007031,
+      "uploadedDate": "2020-08-05T16:18:36.646Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACD_UCS14057_EGST_FirstBlade_Store_Portrait_1200x1600-1200x1600-1d90eca778b441437d881cb4282890fa.jpg",
+      "md5": "1d90eca778b441437d881cb4282890fa",
+      "size": 724425,
+      "uploadedDate": "2020-08-05T16:18:52.909Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/clary/offer/ACD_UCS14057_EGST_FirstBlade_Store_Portrait_1200x1600-1200x1600-1d90eca778b441437d881cb4282890fa.jpg",
+      "md5": "1d90eca778b441437d881cb4282890fa",
+      "size": 724425,
+      "uploadedDate": "2020-08-05T16:19:00.225Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
