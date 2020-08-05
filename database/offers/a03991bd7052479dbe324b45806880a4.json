@@ -39,7 +39,18 @@
   ],
   "tags": [
     null,
-    null,
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-08-04T15:44:30.846Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -64,17 +75,16 @@
       "referenceCount": 28,
       "comment": null
     },
-    null,
     {
-      "id": "1279",
-      "name": "VAMPIRE",
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-04T19:02:50.387Z",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-04T21:07:54.559Z",
       "status": "ACTIVE",
-      "referenceCount": 3,
+      "referenceCount": 259,
       "comment": null
     }
   ],
