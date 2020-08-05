@@ -102,7 +102,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:59:16.126Z",
-    "updated": "2020-07-24T13:47:11.859Z",
+    "updated": "2020-08-05T18:47:54.589Z",
     "status": "ACTIVE",
     "referenceCount": 8,
     "comment": null
@@ -273,6 +273,18 @@
     "updated": "2020-07-31T02:48:45.613Z",
     "status": "ACTIVE",
     "referenceCount": 2,
+    "comment": null
+  },
+  "1187": {
+    "id": "1187",
+    "name": "THIRD-PERSON SHOOTER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:51.351Z",
+    "updated": "2020-07-31T02:48:45.587Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1203": {
@@ -479,18 +491,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1289": {
-    "id": "1289",
-    "name": "CRAFTING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:42.141Z",
-    "updated": "2020-06-11T15:54:59.315Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1294": {
     "id": "1294",
     "name": "FIRST-PERSON",
@@ -623,18 +623,6 @@
     "referenceCount": 8,
     "comment": null
   },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-07-31T13:18:24.963Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1367": {
     "id": "1367",
     "name": "RPG",
@@ -642,7 +630,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:01:20.701Z",
-    "updated": "2020-08-05T06:49:45.844Z",
+    "updated": "2020-08-05T18:47:54.602Z",
     "status": "ACTIVE",
     "referenceCount": 43,
     "comment": null
@@ -654,7 +642,7 @@
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:01:22.169Z",
-    "updated": "2020-08-05T16:35:12.074Z",
+    "updated": "2020-08-05T18:47:54.560Z",
     "status": "ACTIVE",
     "referenceCount": 195,
     "comment": null
@@ -678,7 +666,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:01:30.372Z",
-    "updated": "2020-07-31T02:49:18.615Z",
+    "updated": "2020-08-05T18:47:54.615Z",
     "status": "ACTIVE",
     "referenceCount": 14,
     "comment": null
@@ -726,7 +714,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-08-05T16:35:12.092Z",
+    "updated": "2020-08-05T18:47:54.577Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -753,7 +741,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:42.533Z",
-    "updated": "2020-08-05T14:18:21.273Z",
+    "updated": "2020-08-05T18:47:54.542Z",
     "status": "ACTIVE",
     "referenceCount": 103,
     "comment": null
@@ -782,18 +770,6 @@
     "updated": "2020-07-31T20:08:36.463Z",
     "status": "ACTIVE",
     "referenceCount": 19,
-    "comment": null
-  },
-  "10842": {
-    "id": "10842",
-    "name": "SEAQA TAG",
-    "namespace": "SeaQA",
-    "aliases": [],
-    "operator": "cristina.wang",
-    "created": "2020-02-11T00:58:06.679Z",
-    "updated": "2020-07-03T21:24:39.384Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
     "comment": null
   },
   "11631": {

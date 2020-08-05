@@ -8,7 +8,7 @@
   "productSlug": "south-park-the-stick-of-truth/home",
   "urlSlug": "alligatorgeneralaudience",
   "creationDate": "2019-10-28T21:42:57.050Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "lastModifiedDate": "2020-08-05T18:47:54.516Z",
   "effectiveDate": "2019-12-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-08-05T06:49:45.844Z",
+      "updated": "2020-08-05T18:47:54.602Z",
       "status": "ACTIVE",
       "referenceCount": 43,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-05T16:35:12.074Z",
+      "updated": "2020-08-05T18:47:54.560Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-07-31T02:49:18.615Z",
+      "updated": "2020-08-05T18:47:54.615Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T16:35:12.092Z",
+      "updated": "2020-08-05T18:47:54.577Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-07-24T13:47:11.859Z",
+      "updated": "2020-08-05T18:47:54.589Z",
       "status": "ACTIVE",
       "referenceCount": 8,
       "comment": null
@@ -105,7 +105,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-05T14:18:21.273Z",
+      "updated": "2020-08-05T18:47:54.542Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -127,58 +127,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
-      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
-      "size": 407085,
-      "uploadedDate": "2019-11-19T02:14:56.194Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
-      "md5": "36d981676a51f199c0c7206b3cd33c09",
-      "size": 504756,
-      "uploadedDate": "2019-11-19T02:15:05.401Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Landscape_2560x1440-2560x1440-8d6eafe86af3809a541e6aa16e828924.jpg",
+      "md5": "8d6eafe86af3809a541e6aa16e828924",
+      "size": 901711,
+      "uploadedDate": "2020-08-04T21:56:01.238Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/SPTSOT_Logo_Color_1000x375-1000x375-14e92c2c7de77f23e3fca026bf84b903.png",
-      "md5": "14e92c2c7de77f23e3fca026bf84b903",
-      "size": 245010,
-      "uploadedDate": "2019-12-20T16:20:20.021Z",
-      "width": 1000,
-      "height": 375
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S2-1280x1440-ac13fddfbc2831c64fb3e5896c9ab82b.jpg",
-      "md5": "ac13fddfbc2831c64fb3e5896c9ab82b",
-      "size": 407085,
-      "uploadedDate": "2019-11-19T02:14:56.194Z",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:56:10.584Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Landscape_2560x1440-2560x1440-8d6eafe86af3809a541e6aa16e828924.jpg",
+      "md5": "8d6eafe86af3809a541e6aa16e828924",
+      "size": 901711,
+      "uploadedDate": "2020-08-04T21:56:21.230Z",
+      "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:56:31.054Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:56:44.236Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SoT-S1_BakedLogo-2560x1440-a0f25b8dce42e511dcecffe665f2e75c.jpg",
-      "md5": "a0f25b8dce42e511dcecffe665f2e75c",
-      "size": 1254096,
-      "uploadedDate": "2019-12-16T18:45:52.899Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/SoT-S1-2560x1440-36d981676a51f199c0c7206b3cd33c09.jpg",
-      "md5": "36d981676a51f199c0c7206b3cd33c09",
-      "size": 504756,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/8f8bddb3ff464536984ce8e945cb5f8c/offer/SPRK_Store_Portrait_1200x1600-1200x1600-2207f4307a22a4fc55bd08ee807c674d.jpg",
+      "md5": "2207f4307a22a4fc55bd08ee807c674d",
+      "size": 781645,
+      "uploadedDate": "2020-08-04T21:57:15.020Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

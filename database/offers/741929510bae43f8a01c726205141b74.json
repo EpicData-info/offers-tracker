@@ -8,7 +8,7 @@
   "productSlug": "far-cry-5/season-pass",
   "urlSlug": "far-cry-5--season-pass",
   "creationDate": "2019-10-21T18:19:27.202Z",
-  "lastModifiedDate": "2020-08-01T00:23:31.380Z",
+  "lastModifiedDate": "2020-08-05T18:47:02.095Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,22 +51,40 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/coriander/offer/S2-FAR-CRY-5-1280x1440-bf654f75ea93df59ba8e51c8463415cc.jpg",
+      "md5": "bf654f75ea93df59ba8e51c8463415cc",
+      "size": 851790,
+      "uploadedDate": "2020-08-05T18:45:21.357Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/coriander/offer/SP_Image_Hero_Carrousel-3840x2160-126d1dad33284501b87a1b603682369c.jpg",
-      "md5": "126d1dad33284501b87a1b603682369c",
-      "size": 6055729,
-      "uploadedDate": "2020-02-10T02:39:21.116Z",
-      "width": 3840,
-      "height": 2160
+      "url": "https://cdn1.epicgames.com/coriander/offer/S2-FAR-CRY-5-1280x1440-bf654f75ea93df59ba8e51c8463415cc.jpg",
+      "md5": "bf654f75ea93df59ba8e51c8463415cc",
+      "size": 851790,
+      "uploadedDate": "2020-08-05T18:45:34.577Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/coriander/offer/S2-FAR-CRY-5-1280x1440-bf654f75ea93df59ba8e51c8463415cc.jpg",
+      "md5": "bf654f75ea93df59ba8e51c8463415cc",
+      "size": 851790,
+      "uploadedDate": "2020-08-05T18:45:45.172Z",
+      "width": 1280,
+      "height": 1440
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/coriander/offer/FCZ_Edition_Capsule_1920X1080-1920x1080-89d289097aaf95ba9232d0d89a2d289fcb48f696.jpg",
-      "md5": "c5c1d04637edb1ee84fc0f72f0cd00e5",
-      "size": 178198,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/coriander/offer/SP_Image_Hero_Carrousel-3840x2160-126d1dad33284501b87a1b603682369c-3840x2160-126d1dad33284501b87a1b603682369c.jpg",
+      "md5": "126d1dad33284501b87a1b603682369c",
+      "size": 6055729,
+      "uploadedDate": "2020-08-05T18:46:22.949Z",
+      "width": 3840,
+      "height": 2160
     }
   ],
   "items": [

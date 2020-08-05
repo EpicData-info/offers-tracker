@@ -75,7 +75,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-05T16:35:12.074Z",
+      "updated": "2020-08-05T18:47:54.560Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -87,35 +87,13 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T16:35:12.092Z",
+      "updated": "2020-08-05T18:47:54.577Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1116",
-      "name": "COMEDY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-07-24T13:47:11.859Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-04T19:02:50.387Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {
