@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/holiday-pack",
   "urlSlug": "anno-1800--holiday-pack",
   "creationDate": "2019-12-07T00:13:45.572Z",
-  "lastModifiedDate": "2020-07-31T02:49:07.806Z",
+  "lastModifiedDate": "2020-08-05T16:34:02.184Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,22 +50,40 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Edition_Capsule_1920X1080-1920x1080-d2e8ccad74c01e26a1e67f5f6dd52f66.jpg",
-      "md5": "d2e8ccad74c01e26a1e67f5f6dd52f66",
-      "size": 452484,
-      "uploadedDate": "2019-12-10T16:32:57.217Z",
-      "width": 1920,
-      "height": 1080
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Portrait_1200x1600-1200x1600-8c2b93c45c40fafe1c06389406538be9.jpg",
+      "md5": "8c2b93c45c40fafe1c06389406538be9",
+      "size": 2015561,
+      "uploadedDate": "2020-08-05T16:31:23.335Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_HolidayPack_Wide-1920x1080-9c77f9c650091237daad174a508fdd01.jpg",
-      "md5": "9c77f9c650091237daad174a508fdd01",
-      "size": 272308,
-      "uploadedDate": "2020-03-06T17:09:00.990Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Landscape_2560x1440-2560x1440-d4662e130a1f7d1d59c18b84eb76fee7.jpg",
+      "md5": "d4662e130a1f7d1d59c18b84eb76fee7",
+      "size": 4032038,
+      "uploadedDate": "2020-08-05T16:31:32.164Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Portrait_1200x1600-1200x1600-8c2b93c45c40fafe1c06389406538be9.jpg",
+      "md5": "8c2b93c45c40fafe1c06389406538be9",
+      "size": 2015561,
+      "uploadedDate": "2020-08-05T16:31:51.720Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS15139_Store_Portrait_1200x1600-1200x1600-8c2b93c45c40fafe1c06389406538be9.jpg",
+      "md5": "8c2b93c45c40fafe1c06389406538be9",
+      "size": 2015561,
+      "uploadedDate": "2020-08-05T16:32:01.051Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

@@ -1,14 +1,14 @@
 {
   "id": "3fe5b913c08142629e3db7a1cff1d4b0",
   "namespace": "calluna",
-  "title": "Control DLC 3 - A",
+  "title": "AWE: Expansion 2",
   "description": "The Bureau studied its most dangerous Altered World Events in this lost sector. The records were sealed, the objects contained, and their powers abandoned. Now, the sector is breached and the objects are loose…",
   "longDescription": "The Bureau studied its most dangerous Altered World Events in this lost sector. The records were sealed, the objects contained, and their powers abandoned. Now, the sector is breached and the objects are loose…\n\nAWE brings new story content and side missions as well as new weapons and mods to the world of Control.",
   "status": "ACTIVE",
   "productSlug": "control/awe",
   "urlSlug": "control--awe",
   "creationDate": "2020-01-27T21:15:14.509Z",
-  "lastModifiedDate": "2020-08-05T15:41:42.984Z",
+  "lastModifiedDate": "2020-08-05T16:35:12.040Z",
   "effectiveDate": "2050-07-08T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-05T15:59:51.074Z",
+      "updated": "2020-08-05T16:35:12.124Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-05T15:59:51.090Z",
+      "updated": "2020-08-05T16:35:12.074Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,21 +69,9 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T16:17:14.883Z",
+      "updated": "2020-08-05T16:35:12.092Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1341",
-      "name": "SUPERNATURAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:07.859Z",
-      "updated": "2020-08-05T15:41:43.292Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
       "comment": null
     },
     {
@@ -93,9 +81,21 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-05T15:41:43.325Z",
+      "updated": "2020-08-05T16:35:12.136Z",
       "status": "ACTIVE",
       "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1341",
+      "name": "SUPERNATURAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:07.859Z",
+      "updated": "2020-08-05T16:35:12.108Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
       "comment": null
     }
   ],

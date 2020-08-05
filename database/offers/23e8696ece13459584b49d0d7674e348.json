@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/the-passage",
   "urlSlug": "anno-1800--the-passage",
   "creationDate": "2019-09-04T16:29:54.334Z",
-  "lastModifiedDate": "2020-07-31T02:49:07.562Z",
+  "lastModifiedDate": "2020-08-05T16:38:14.195Z",
   "effectiveDate": "2019-12-10T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,22 +50,40 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-2951d54df90e12e0ac676bef94ed5ee1.jpg",
+      "md5": "2951d54df90e12e0ac676bef94ed5ee1",
+      "size": 451648,
+      "uploadedDate": "2020-08-05T16:36:54.184Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC3_Logo_Color_747x375-747x375-ebd3a15879b7e5b490cb5052c5efdd92.png",
-      "md5": "ebd3a15879b7e5b490cb5052c5efdd92",
-      "size": 56252,
-      "uploadedDate": "2019-12-10T02:12:13.731Z",
-      "width": 747,
-      "height": 375
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-2951d54df90e12e0ac676bef94ed5ee1.jpg",
+      "md5": "2951d54df90e12e0ac676bef94ed5ee1",
+      "size": 451648,
+      "uploadedDate": "2020-08-05T16:37:06.838Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-2951d54df90e12e0ac676bef94ed5ee1.jpg",
+      "md5": "2951d54df90e12e0ac676bef94ed5ee1",
+      "size": 451648,
+      "uploadedDate": "2020-08-05T16:37:15.869Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_ThePassage_Wide-2580x1450-65274a27500ae6bfe00b2cf34f10b528.jpg",
-      "md5": "65274a27500ae6bfe00b2cf34f10b528",
-      "size": 487936,
-      "uploadedDate": "2020-03-06T17:08:15.134Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Landscape_2560x1440-2560x1440-d3eae224bc0f741cb6b4dea0b720f1d7.jpg",
+      "md5": "d3eae224bc0f741cb6b4dea0b720f1d7",
+      "size": 847617,
+      "uploadedDate": "2020-08-05T16:38:08.876Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
