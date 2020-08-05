@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/conspicuous-comsumption",
   "urlSlug": "offworld-trading-company--conspicuous-comsumption",
   "creationDate": "2020-02-25T13:51:45.745Z",
-  "lastModifiedDate": "2020-08-05T15:50:40.970Z",
+  "lastModifiedDate": "2020-08-05T16:10:09.975Z",
   "effectiveDate": "2020-03-04T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-05T16:11:20.135Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

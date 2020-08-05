@@ -8,7 +8,7 @@
   "productSlug": "far-cry-5/dead-living-zombies-dlc",
   "urlSlug": "far-cry-5--dead-living-zombies-dlc",
   "creationDate": "2019-10-21T18:13:21.383Z",
-  "lastModifiedDate": "2020-07-31T02:48:48.473Z",
+  "lastModifiedDate": "2020-08-05T16:13:09.541Z",
   "effectiveDate": "2020-02-07T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,15 +50,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/coriander/offer/FC5-DLC3_Edition_Capsule_1920X1080-1920x1080-0b49171392aab878d6bd201b7a068b80.jpg",
-      "md5": "0b49171392aab878d6bd201b7a068b80",
-      "size": 139381,
-      "uploadedDate": "2020-02-10T02:45:02.638Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/coriander/offer/FC5-DLC3_Edition_Capsule_1920X1080-1920x1080-c539244047706367712360498335bbe5f64f712b.jpg",
       "md5": "0b49171392aab878d6bd201b7a068b80",
@@ -66,6 +57,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_DLC_3_ZOMBIES_Generic_Packshot_2D_1700x2227_Agnostic2-1700x2227-efe9737cbdcb6fc5b67b266ffed5413f.png",
+      "md5": "efe9737cbdcb6fc5b67b266ffed5413f",
+      "size": 5110912,
+      "uploadedDate": "2020-08-05T16:07:09.530Z",
+      "width": 1700,
+      "height": 2227
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_DLC_3_ZOMBIES_Generic_Packshot_2D_1700x2227_Agnostic2-1700x2227-efe9737cbdcb6fc5b67b266ffed5413f.png",
+      "md5": "efe9737cbdcb6fc5b67b266ffed5413f",
+      "size": 5110912,
+      "uploadedDate": "2020-08-05T16:08:56.044Z",
+      "width": 1700,
+      "height": 2227
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/coriander/offer/FC5_DLC_3_ZOMBIES_Generic_Packshot_2D_1700x2227_Agnostic2-1700x2227-efe9737cbdcb6fc5b67b266ffed5413f.png",
+      "md5": "efe9737cbdcb6fc5b67b266ffed5413f",
+      "size": 5110912,
+      "uploadedDate": "2020-08-05T16:09:49.767Z",
+      "width": 1700,
+      "height": 2227
     }
   ],
   "items": [

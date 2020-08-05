@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/the-europa-wager",
   "urlSlug": "offworld-trading-company--the-europa-wager",
   "creationDate": "2020-02-24T21:31:10.568Z",
-  "lastModifiedDate": "2020-08-05T15:48:51.161Z",
+  "lastModifiedDate": "2020-08-05T16:10:23.943Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-05T16:11:20.135Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
