@@ -2,13 +2,13 @@
   "id": "dd3d7baaf5654413ad11b58adf5cf7ac",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
   "title": "Season Pass",
-  "description": "Season Pass",
-  "longDescription": null,
+  "description": "You are under arrest on suspicion of escaping from prison! You have the right to remain silent and to go and enjoy The Escapists 2 Season Pass. Including three of the series most notorious prisons; Dungeons & Duct Tape, Wicked Ward and Big Top Breakout!",
+  "longDescription": "STOP! Yes, you there. You are under arrest on suspicion of escaping from prison! You have the right to remain silent and no right to go and enjoy The Escapists 2 Season Pass. Including three of the series most notorious prisons like Dungeons & Duct Tape, Wicked Ward and Big Top Breakout!\n\n# Wicked Ward!\n\nWhat possessed the guards to lock you up in an abandoned hospital ward? Things are getting scary, but fear not, escaping is sure to lift those spirits! This haunting and daunting prison will test even the most seasoned Escapists. Can you escape the undead guards, or will you stay locked in the spooky supernatural slammer?\n\n#  Big Top Break Out!\n\nIt’s time to put the whack in wacky in the craziest prison yet, wield a squirty flower as a weapon, juggle as a job and avoid those vicious guard poodles at all costs! You’ll need your wits as escaping is no small feat and there’s absolutely no time to clown around! Make your escape and make it quick…or face a life-time imprisoned in a traveling circus!\n\n# Dungeons and Duct Tape!\n\nHear ye, hear ye! For your crimes against the crown you have been sentenced to spend the rest of your days in the dungeon…Unless you can put the craft in crafty and unlock castle Locke! With a medley of medieval outfits, jobs and items, escape however floats your boat, along as it gets you over that dastardly moat!\n\n#  Note: The Glorious Regime prison is NOT included in the Season Pass.\n\nGet access to exciting additional content for The Escapists 2 with the season pass. Test your escaping expertise by breaking out of three exhilarating new prisons with extra items, customisations and thrilling new ways to escape!",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "season-pass",
+  "productSlug": "the-escapists-2/season-pass",
+  "urlSlug": "the-escapists-2--season-pass",
   "creationDate": "2019-10-22T01:22:57.318Z",
-  "lastModifiedDate": "2020-08-05T03:11:14.576Z",
+  "lastModifiedDate": "2020-08-05T03:39:18.812Z",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,7 +35,16 @@
     }
   ],
   "tags": [],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Team17 and Mouldy Toof Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists-2/season-pass"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageWide",

@@ -2,13 +2,13 @@
   "id": "b42bfda0f28446c0a0e93e74911e4379",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
   "title": "Wicked Ward",
-  "description": "Wicked Ward",
-  "longDescription": null,
+  "description": "Things have taken a strange turn in the locked off wings of an abandoned hospital. A mad scientist and his hoard of undead guard their territory. Once again, you’ll have to craft, fight and scheme your way to freedom from this eerie supernatural slammer.",
+  "longDescription": "Things have taken a strange turn in the locked off wings of an abandoned hospital.\n\nA mad scientist and his hoard of undead guard their territory within the gothic halls. Outside an ominous sky of thunder, rain and lightning blankets the surrounding woods.\n\nOnce again, you’ll have to craft, fight and scheme your way to freedom from this eerie supernatural slammer.\n\nFeaturing:\n- A brand-new horror themed map to escape from\n- New Halloween themed customisations\n- New items and craftable recipes\n\nYour goal is to escape at all costs!",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "wicked-ward",
+  "productSlug": "the-escapists-2/wicked-ward",
+  "urlSlug": "the-escapists-2--wicked-ward",
   "creationDate": "2019-10-22T01:20:30.144Z",
-  "lastModifiedDate": "2020-07-02T14:27:03.532Z",
+  "lastModifiedDate": "2020-08-05T03:39:18.753Z",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,7 +35,16 @@
     }
   ],
   "tags": [],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Team17 and Mouldy Toof Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists-2/wicked-ward"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageWide",

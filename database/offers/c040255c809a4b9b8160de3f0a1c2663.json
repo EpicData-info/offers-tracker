@@ -2,13 +2,13 @@
   "id": "c040255c809a4b9b8160de3f0a1c2663",
   "namespace": "115577f4ef1e4055aaf0da534fdfe81e",
   "title": "The Glorious Regime Prison",
-  "description": "The Glorious Regime Prison",
-  "longDescription": null,
+  "description": "Despite the towering walls, electric fences and the fact that you can’t leave, you should be thankful to be serving time here. The Glorious Leader sees and hears all. Every day you must attend roll call in the shadow of his almighty monument!",
+  "longDescription": "Quiver before The Glorious Regime!\n\nDespite the towering walls, electric fences and the fact that you can’t leave, you should be thankful to be serving time here. The Glorious Leader sees and hears all. Every day you must attend roll call in the shadow of his almighty monument!\n\nExperience the thrill of escaping the hidden compound deep in the jungle. You’ll need determination and drive to avoid the unquestioningly devoted guards, constant surveillance, and the illustrious Leader himself, in your bid for freedom.\n\nAnd remember to praise your Glorious Leader!",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "the-glorious-regime-prison",
+  "productSlug": "the-escapists-2/glorious-regime-prison",
+  "urlSlug": "the-escapists-2--glorious-regime-prison",
   "creationDate": "2019-10-22T01:16:36.476Z",
-  "lastModifiedDate": "2020-07-09T14:16:48.408Z",
+  "lastModifiedDate": "2020-08-05T03:39:18.738Z",
   "effectiveDate": "2020-07-09T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,7 +35,16 @@
     }
   ],
   "tags": [],
-  "customAttributes": [],
+  "customAttributes": [
+    {
+      "key": "developerName",
+      "value": "Team17 and Mouldy Toof Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-escapists-2/glorious-regime-prison"
+    }
+  ],
   "keyImages": [
     {
       "type": "OfferImageWide",
