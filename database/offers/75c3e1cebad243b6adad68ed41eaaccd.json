@@ -8,7 +8,7 @@
   "productSlug": "far-cry-4/season-pass",
   "urlSlug": "far-cry-4--season-pass",
   "creationDate": "2020-01-29T00:06:25.576Z",
-  "lastModifiedDate": "2020-08-01T00:22:19.471Z",
+  "lastModifiedDate": "2020-08-05T19:58:30.552Z",
   "effectiveDate": "2020-02-04T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,29 +51,56 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_SeaPass_Edition_Capsule_1920X1080-1920x1080-6406c5954b3ec0c06960ce4be1e913f5.png",
-      "md5": "6406c5954b3ec0c06960ce4be1e913f5",
-      "size": 4557527,
-      "uploadedDate": "2020-02-03T17:44:05.636Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Store_Portrait_Promo_1280x1420-1280x1420-e360ecdd12735b75de7be92a8e337db2.jpg",
-      "md5": "e360ecdd12735b75de7be92a8e337db2",
-      "size": 1328777,
-      "uploadedDate": "2020-02-03T17:50:53.483Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_SeaPass_Edition_Capsule_1920X1080-1920x1080-5e404a7bc124cc966507bacd398b872830f8f67f.png",
       "md5": "4e7e0d69c22f67340a99b86ebe378838",
       "size": 1090274,
       "uploadedDate": "2020-02-12T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-ef947495f4f038b45023a66cd79e5083.jpg",
+      "md5": "ef947495f4f038b45023a66cd79e5083",
+      "size": 862929,
+      "uploadedDate": "2020-08-05T19:57:08.338Z",
+      "width": 708,
+      "height": 1000
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-ef947495f4f038b45023a66cd79e5083.jpg",
+      "md5": "ef947495f4f038b45023a66cd79e5083",
+      "size": 862929,
+      "uploadedDate": "2020-08-05T19:57:13.695Z",
+      "width": 708,
+      "height": 1000
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-ef947495f4f038b45023a66cd79e5083.jpg",
+      "md5": "ef947495f4f038b45023a66cd79e5083",
+      "size": 862929,
+      "uploadedDate": "2020-08-05T19:57:18.792Z",
+      "width": 708,
+      "height": 1000
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/Boxart_708x1000-708x1000-ef947495f4f038b45023a66cd79e5083.jpg",
+      "md5": "ef947495f4f038b45023a66cd79e5083",
+      "size": 862929,
+      "uploadedDate": "2020-08-05T19:57:22.222Z",
+      "width": 708,
+      "height": 1000
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/cf87285950ba492bbdc370b9d265ea36/offer/FC4_SeaPass_Edition_Capsule_1920X1080-1920x1080-4e7e0d69c22f67340a99b86ebe378838.png",
+      "md5": "4e7e0d69c22f67340a99b86ebe378838",
+      "size": 1090274,
+      "uploadedDate": "2020-08-05T19:58:22.721Z",
       "width": 1920,
       "height": 1080
     }

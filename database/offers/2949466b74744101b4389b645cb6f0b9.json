@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-origins/season-pass",
   "urlSlug": "assassins-creed-origins--season-pass",
   "creationDate": "2019-10-28T15:23:25.778Z",
-  "lastModifiedDate": "2020-08-05T01:09:45.625Z",
+  "lastModifiedDate": "2020-08-05T20:01:56.354Z",
   "effectiveDate": "2019-11-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -69,15 +69,6 @@
       "height": 440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-97c0d9d4c980c68224008cc1ac1b503b.jpg",
-      "md5": "97c0d9d4c980c68224008cc1ac1b503b",
-      "size": 156173,
-      "uploadedDate": "2019-11-26T18:01:01.534Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/camellia/offer/ACH_UCS12468_EGST_BannerBundle_SP_US_Edition_Capsule_1920X1080-1920x1080-b2d5a70b5c01dbd90c3891bc32a35f3abbf8a136.jpg",
       "md5": "97c0d9d4c980c68224008cc1ac1b503b",
@@ -85,6 +76,24 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACOrigins_SeasonPass-330x440-330x440-a26b5f86e4b2ddad5bf5c1b1388aa8ef.jpg",
+      "md5": "a26b5f86e4b2ddad5bf5c1b1388aa8ef",
+      "size": 137061,
+      "uploadedDate": "2020-08-05T20:01:03.836Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/camellia/offer/ACOrigins_SeasonPass-330x440-330x440-a26b5f86e4b2ddad5bf5c1b1388aa8ef.jpg",
+      "md5": "a26b5f86e4b2ddad5bf5c1b1388aa8ef",
+      "size": 137061,
+      "uploadedDate": "2020-08-05T20:01:26.777Z",
+      "width": 330,
+      "height": 440
     }
   ],
   "items": [
