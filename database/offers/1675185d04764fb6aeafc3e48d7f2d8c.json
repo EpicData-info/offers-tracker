@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/real-mars-map-pack",
   "urlSlug": "offworld-trading-company--real-mars-map-pack",
   "creationDate": "2020-02-24T20:57:50.109Z",
-  "lastModifiedDate": "2020-07-31T02:48:24.439Z",
+  "lastModifiedDate": "2020-08-05T15:51:43.625Z",
   "effectiveDate": "2020-03-04T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T15:48:51.306Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -63,22 +52,31 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-realmarsmappackdlc-portrait-img-1200x1600-1200x1600-f16f0132686bb9ab9f16cab73a482e6e.jpg",
+      "md5": "f16f0132686bb9ab9f16cab73a482e6e",
+      "size": 856410,
+      "uploadedDate": "2020-08-05T15:51:16.439Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyRealMarsMapPack_MohawkGames_DLC_IC1_A-320x180-c5e620ae3740ba780a962e4c1f9e8c08.jpg",
-      "md5": "c5e620ae3740ba780a962e4c1f9e8c08",
-      "size": 75139,
-      "uploadedDate": "2020-03-05T15:34:23.512Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-realmarsmappackdlc-portrait-img-1200x1600-1200x1600-f16f0132686bb9ab9f16cab73a482e6e.jpg",
+      "md5": "f16f0132686bb9ab9f16cab73a482e6e",
+      "size": 856410,
+      "uploadedDate": "2020-08-05T15:51:25.654Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyRealMarsMapPack_MohawkGames_DLC_IC1_A-320x180-c5e620ae3740ba780a962e4c1f9e8c08.jpg",
-      "md5": "c5e620ae3740ba780a962e4c1f9e8c08",
-      "size": 75139,
-      "uploadedDate": "2020-03-05T15:35:10.645Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-realmarsmappackdlc-landscape-img-2560x1440-462c70519e21dcb57415e9473098fc24.jpg",
+      "md5": "462c70519e21dcb57415e9473098fc24",
+      "size": 892008,
+      "uploadedDate": "2020-08-05T15:51:33.707Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

@@ -6,7 +6,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T11:58:58.070Z",
-    "updated": "2020-08-05T03:29:25.700Z",
+    "updated": "2020-08-05T15:59:51.054Z",
     "status": "ACTIVE",
     "referenceCount": 11,
     "comment": null
@@ -330,7 +330,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:05.613Z",
-    "updated": "2020-08-05T15:41:43.309Z",
+    "updated": "2020-08-05T15:59:51.074Z",
     "status": "ACTIVE",
     "referenceCount": 110,
     "comment": null
@@ -558,7 +558,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:51.191Z",
-    "updated": "2020-08-05T06:49:45.894Z",
+    "updated": "2020-08-05T15:59:51.040Z",
     "status": "ACTIVE",
     "referenceCount": 32,
     "comment": null
@@ -635,18 +635,6 @@
     "referenceCount": 8,
     "comment": null
   },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-07-31T13:18:24.963Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1367": {
     "id": "1367",
     "name": "RPG",
@@ -666,7 +654,7 @@
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:01:22.169Z",
-    "updated": "2020-08-05T15:41:43.253Z",
+    "updated": "2020-08-05T15:59:51.090Z",
     "status": "ACTIVE",
     "referenceCount": 195,
     "comment": null
@@ -738,7 +726,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-08-05T15:48:51.306Z",
+    "updated": "2020-08-05T15:59:51.110Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -794,18 +782,6 @@
     "updated": "2020-07-31T20:08:36.463Z",
     "status": "ACTIVE",
     "referenceCount": 19,
-    "comment": null
-  },
-  "10842": {
-    "id": "10842",
-    "name": "SEAQA TAG",
-    "namespace": "SeaQA",
-    "aliases": [],
-    "operator": "cristina.wang",
-    "created": "2020-02-11T00:58:06.679Z",
-    "updated": "2020-07-03T21:24:39.384Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
     "comment": null
   },
   "11631": {

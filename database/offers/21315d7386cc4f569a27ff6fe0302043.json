@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/blue-chip-ventures",
   "urlSlug": "offworld-trading-company--blue-chip-ventures",
   "creationDate": "2020-02-24T21:02:03.216Z",
-  "lastModifiedDate": "2020-07-31T02:48:24.937Z",
+  "lastModifiedDate": "2020-08-05T15:49:50.763Z",
   "effectiveDate": "2020-03-04T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T15:48:51.306Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -63,22 +52,31 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-bluechipventuresdlc-portrait-img-1200x1600-1200x1600-3fe15d31f4e70b4e73a8452798e8d5d0.jpg",
+      "md5": "3fe15d31f4e70b4e73a8452798e8d5d0",
+      "size": 877407,
+      "uploadedDate": "2020-08-05T15:49:20.661Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyBlueChipVentures_MohawkGames_DLC_IC1_A-320x180-e40fec507eb5f1807bf41cec2248df16.jpg",
-      "md5": "e40fec507eb5f1807bf41cec2248df16",
-      "size": 75894,
-      "uploadedDate": "2020-03-05T15:33:37.571Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-bluechipventuresdlc-portrait-img-1200x1600-1200x1600-3fe15d31f4e70b4e73a8452798e8d5d0.jpg",
+      "md5": "3fe15d31f4e70b4e73a8452798e8d5d0",
+      "size": 877407,
+      "uploadedDate": "2020-08-05T15:49:29.837Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyBlueChipVentures_MohawkGames_DLC_IC1_A-320x180-e40fec507eb5f1807bf41cec2248df16.jpg",
-      "md5": "e40fec507eb5f1807bf41cec2248df16",
-      "size": 75894,
-      "uploadedDate": "2020-03-05T15:33:46.626Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-bluechipventuresdlc-landscape-img-2560x1440-825d393e2783773d4bc6321f9ac7425c.jpg",
+      "md5": "825d393e2783773d4bc6321f9ac7425c",
+      "size": 1014216,
+      "uploadedDate": "2020-08-05T15:49:38.226Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

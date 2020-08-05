@@ -8,7 +8,7 @@
   "productSlug": "far-cry-primal/apex-edition",
   "urlSlug": "larkspurapexaudience",
   "creationDate": "2019-02-13T17:29:29.835Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.594Z",
+  "lastModifiedDate": "2020-08-05T16:01:44.295Z",
   "effectiveDate": "2019-06-06T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,31 +51,58 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FarCryPrimal_CodeRedemption-340x440-ab6537c717444fd634071e443e28b46c.jpg",
-      "md5": "ab6537c717444fd634071e443e28b46c",
-      "size": 56648,
-      "uploadedDate": "2019-03-15T21:49:45.707Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_Packshot_APEX-520x790-35f5ea4301cbac929161688226aa29ba.jpg",
-      "md5": "35f5ea4301cbac929161688226aa29ba",
-      "size": 111580,
-      "uploadedDate": "2019-04-24T14:23:41.129Z",
-      "width": 520,
-      "height": 790
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "size": 694719,
+      "uploadedDate": "2020-08-05T16:01:00.531Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "size": 365849,
-      "uploadedDate": "2020-02-27T15:08:50.834Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Landscape_2560x1440-2560x1440-003650ebe3fdf82ec11f5b69d3adca00.jpg",
+      "md5": "003650ebe3fdf82ec11f5b69d3adca00",
+      "size": 859770,
+      "uploadedDate": "2020-08-05T16:01:12.103Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "size": 694719,
+      "uploadedDate": "2020-08-05T16:01:20.827Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Landscape_2560x1440-2560x1440-003650ebe3fdf82ec11f5b69d3adca00.jpg",
+      "md5": "003650ebe3fdf82ec11f5b69d3adca00",
+      "size": 859770,
+      "uploadedDate": "2020-08-05T16:01:28.003Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "size": 694719,
+      "uploadedDate": "2020-08-05T16:01:33.336Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_APEX_Store_Portrait_1200x1600-1200x1600-83dc7dac87d1279eed092bef7b877477.jpg",
+      "md5": "83dc7dac87d1279eed092bef7b877477",
+      "size": 694719,
+      "uploadedDate": "2020-08-05T16:01:38.971Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

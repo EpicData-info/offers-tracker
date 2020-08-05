@@ -8,7 +8,7 @@
   "productSlug": "far-cry-primal",
   "urlSlug": "larkspurgeneralaudience",
   "creationDate": "2019-02-10T17:15:15.486Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.596Z",
+  "lastModifiedDate": "2020-08-05T15:59:50.883Z",
   "effectiveDate": "2019-06-06T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,66 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-05T15:41:43.309Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-08-05T03:29:25.700Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-05T15:41:43.253Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-08-05T06:49:45.894Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T15:48:51.306Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -115,76 +60,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "size": 365849,
-      "uploadedDate": "2019-03-15T21:39:40.197Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/FarCryPrimal_PortraitPromo-974x1080-ca1f52250a6e09cd81e3d89949090f1e.jpg",
-      "md5": "ca1f52250a6e09cd81e3d89949090f1e",
-      "size": 229476,
-      "uploadedDate": "2019-03-15T21:39:49.133Z",
-      "width": 974,
-      "height": 1080
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/FarCryPrimal_Logo-1850x975-181a9a1426a15776018770f13e6b47b0.png",
-      "md5": "181a9a1426a15776018770f13e6b47b0",
-      "size": 138647,
-      "uploadedDate": "2019-08-02T19:26:34.234Z",
-      "width": 1850,
-      "height": 975
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/FarCryPrimal_PortraitPromo-974x1080-ca1f52250a6e09cd81e3d89949090f1e.jpg",
-      "md5": "ca1f52250a6e09cd81e3d89949090f1e",
-      "size": 229476,
-      "uploadedDate": "2019-03-15T21:39:49.133Z",
-      "width": 974,
-      "height": 1080
-    },
-    {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "size": 365849,
-      "uploadedDate": "2019-02-13T15:36:41.910Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/farcryprimal_coderedemption-340x440-ab6537c717444fd634071e443e28b46c.jpg",
-      "md5": "ab6537c717444fd634071e443e28b46c",
-      "size": 56648,
-      "uploadedDate": "2019-02-13T15:37:00.957Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_Standard-520x734-868e8cf45f955a2ed8b509b99b223062.jpg",
-      "md5": "868e8cf45f955a2ed8b509b99b223062",
-      "size": 105686,
-      "uploadedDate": "2019-04-24T14:23:02.417Z",
-      "width": 520,
-      "height": 734
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:58:40.547Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/larkspur/offer/FarCryPrimal_PrimaryPromo-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9-1920x1080-438d745acb4826ddeeee4f4b5ac96bc9.jpg",
-      "md5": "438d745acb4826ddeeee4f4b5ac96bc9",
-      "size": 365849,
-      "uploadedDate": "2020-02-27T15:06:25.046Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Landscape_2560x1440-2560x1440-7d928100112e95b33030b81c65e632d3.jpg",
+      "md5": "7d928100112e95b33030b81c65e632d3",
+      "size": 960914,
+      "uploadedDate": "2020-08-05T15:58:47.776Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:58:52.905Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Landscape_2560x1440-2560x1440-7d928100112e95b33030b81c65e632d3.jpg",
+      "md5": "7d928100112e95b33030b81c65e632d3",
+      "size": 960914,
+      "uploadedDate": "2020-08-05T15:59:00.958Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:59:06.163Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/larkspur/offer/FCP_UCS17665_Store_Portrait_1200x1600-1200x1600-1069539bdf73f4ca48f7f64027a6e921.jpg",
+      "md5": "1069539bdf73f4ca48f7f64027a6e921",
+      "size": 934330,
+      "uploadedDate": "2020-08-05T15:59:27.038Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

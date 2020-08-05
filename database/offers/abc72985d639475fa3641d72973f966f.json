@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/conspicuous-comsumption",
   "urlSlug": "offworld-trading-company--conspicuous-comsumption",
   "creationDate": "2020-02-25T13:51:45.745Z",
-  "lastModifiedDate": "2020-07-31T02:48:24.213Z",
+  "lastModifiedDate": "2020-08-05T15:50:40.970Z",
   "effectiveDate": "2020-03-04T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T15:48:51.306Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    }
+    null
   ],
   "customAttributes": [
     {
@@ -63,22 +52,31 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ccdlc-portrait-img-1200x1600-1200x1600-486adeca6b24655bdcbad708edcdc1e3.jpg",
+      "md5": "486adeca6b24655bdcbad708edcdc1e3",
+      "size": 947559,
+      "uploadedDate": "2020-08-05T15:50:16.632Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg",
-      "md5": "083973ff7c24c39c202634917dc68af9",
-      "size": 72711,
-      "uploadedDate": "2020-03-05T15:32:39.726Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ccdlc-portrait-img-1200x1600-1200x1600-486adeca6b24655bdcbad708edcdc1e3.jpg",
+      "md5": "486adeca6b24655bdcbad708edcdc1e3",
+      "size": 947559,
+      "uploadedDate": "2020-08-05T15:50:25.041Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyConspicuousConsumption_MohawkGames_DLC_IC1_A-320x180-083973ff7c24c39c202634917dc68af9.jpg",
-      "md5": "083973ff7c24c39c202634917dc68af9",
-      "size": 72711,
-      "uploadedDate": "2020-03-05T15:32:57.145Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ccdlc-landscape-img-2560x1440-2be31186ff09a653f931ecbb0925daa1.jpg",
+      "md5": "2be31186ff09a653f931ecbb0925daa1",
+      "size": 935289,
+      "uploadedDate": "2020-08-05T15:50:32.396Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
