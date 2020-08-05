@@ -8,7 +8,7 @@
   "productSlug": "south-park-the-fractured-but-whole/danger-deck",
   "urlSlug": "south-park-the-fractured-but-whole--danger-deck",
   "creationDate": "2019-11-20T20:48:40.586Z",
-  "lastModifiedDate": "2020-07-31T02:48:47.648Z",
+  "lastModifiedDate": "2020-08-05T19:13:28.169Z",
   "effectiveDate": "2019-12-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,15 +50,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-3e14ed88ee749bfd69722aef6db536e8.jpg",
-      "md5": "3e14ed88ee749bfd69722aef6db536e8",
-      "size": 1247012,
-      "uploadedDate": "2019-12-16T19:02:05.922Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SPFB_UCS14952_EGST_BannerBundle_US_Edition_Capsule_1920X1080-1920x1080-bb80217aa5a910ef34ca8e9ba74ba8ab302804e2.jpg",
       "md5": "4c3673353bdba1bfe4f823c7c6249572",
@@ -66,6 +57,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "size": 467198,
+      "uploadedDate": "2020-08-05T19:13:02.594Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "size": 467198,
+      "uploadedDate": "2020-08-05T19:13:11.777Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/764eb429792649e4a606413cd649de2c/offer/SFBW-S2-1280x1440-6a3160fdcb57839f73332ede6564e19e-1280x1440-6a3160fdcb57839f73332ede6564e19e.jpg",
+      "md5": "6a3160fdcb57839f73332ede6564e19e",
+      "size": 467198,
+      "uploadedDate": "2020-08-05T19:13:20.595Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
   "items": [
