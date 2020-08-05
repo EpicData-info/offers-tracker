@@ -50,7 +50,18 @@
       "referenceCount": 110,
       "comment": null
     },
-    null,
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-05T02:50:42.461Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
     {
       "id": "1367",
       "name": "RPG",
@@ -63,7 +74,18 @@
       "referenceCount": 43,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-05T03:29:25.809Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -99,9 +121,7 @@
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
