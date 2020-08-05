@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-04T19:02:50.349Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1333",
       "name": "ACTION RPG",
@@ -62,18 +51,7 @@
       "referenceCount": 3,
       "comment": null
     },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-08-04T18:09:30.349Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -96,18 +74,6 @@
       "updated": "2020-08-04T21:07:54.559Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-08-03T15:34:49.993Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
