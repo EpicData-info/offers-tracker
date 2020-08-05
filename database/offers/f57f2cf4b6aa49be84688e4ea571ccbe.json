@@ -38,9 +38,42 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-04T23:26:17.905Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-08-04T15:16:46.398Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-04T21:07:54.559Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
