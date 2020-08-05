@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/sunken-treasures",
   "urlSlug": "anno-1800--sunken-treasures",
   "creationDate": "2019-07-26T00:04:21.974Z",
-  "lastModifiedDate": "2020-07-31T02:49:07.182Z",
+  "lastModifiedDate": "2020-08-05T16:56:38.049Z",
   "effectiveDate": "2019-07-30T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -58,24 +58,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS13609_EGST_BannerBundle_US_Edition_Capsule_355x150-355x150-fe8af44b9327d56fb3656c3ce34601ea.png",
-      "md5": "fe8af44b9327d56fb3656c3ce34601ea",
-      "size": 73141,
-      "uploadedDate": "2019-07-26T01:00:27.752Z",
-      "width": 355,
-      "height": 150
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2.jpg",
-      "md5": "3232a49057263a619bf31a0d399932a2",
-      "size": 110698,
-      "uploadedDate": "2019-07-26T01:02:29.699Z",
-      "width": 330,
-      "height": 440
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/oregano/offer/Anno_SunkenTreasure_wide-355x150-0953ffe8b4daea0205683620b78e2ad7.png",
       "md5": "0953ffe8b4daea0205683620b78e2ad7",
@@ -83,6 +65,33 @@
       "uploadedDate": "2020-03-06T17:01:48.327Z",
       "width": 355,
       "height": 150
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2-330x440-3232a49057263a619bf31a0d399932a2.jpg",
+      "md5": "3232a49057263a619bf31a0d399932a2",
+      "size": 110698,
+      "uploadedDate": "2020-08-05T16:55:19.477Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2-330x440-3232a49057263a619bf31a0d399932a2.jpg",
+      "md5": "3232a49057263a619bf31a0d399932a2",
+      "size": 110698,
+      "uploadedDate": "2020-08-05T16:55:31.485Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemptionSunkenTreasures-330x440-3232a49057263a619bf31a0d399932a2-330x440-3232a49057263a619bf31a0d399932a2.jpg",
+      "md5": "3232a49057263a619bf31a0d399932a2",
+      "size": 110698,
+      "uploadedDate": "2020-08-05T16:55:44.564Z",
+      "width": 330,
+      "height": 440
     }
   ],
   "items": [

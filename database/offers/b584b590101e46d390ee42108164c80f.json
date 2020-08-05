@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/season-pass-2",
   "urlSlug": "anno-1800--season-pass-01",
   "creationDate": "2020-03-07T03:53:04.949Z",
-  "lastModifiedDate": "2020-08-01T00:28:08.512Z",
+  "lastModifiedDate": "2020-08-05T16:58:10.676Z",
   "effectiveDate": "2020-03-09T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -55,15 +55,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg",
-      "md5": "c01314045d2c9caf7f9856af4e2e3321",
-      "size": 483395,
-      "uploadedDate": "2020-03-09T03:35:33.351Z",
-      "width": 3840,
-      "height": 2160
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEASON_2_PASS_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-c01314045d2c9caf7f9856af4e2e3321.jpg",
       "md5": "c01314045d2c9caf7f9856af4e2e3321",
@@ -71,6 +62,33 @@
       "uploadedDate": "2020-03-09T03:35:42.869Z",
       "width": 3840,
       "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:57:43.969Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:57:52.934Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:58:03.704Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

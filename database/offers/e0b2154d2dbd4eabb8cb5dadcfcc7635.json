@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-odyssey/dlc-2",
   "urlSlug": "assassins-creed-odyssey--dlc",
   "creationDate": "2019-08-08T20:42:42.595Z",
-  "lastModifiedDate": "2020-07-31T02:49:16.741Z",
+  "lastModifiedDate": "2020-08-05T17:04:01.671Z",
   "effectiveDate": "2019-10-22T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -63,15 +63,6 @@
       "height": 440
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/clary/offer/GameName_Edition_Capsule_355x150-355x150-c50b20cc92ef288ac201dd2700c5232e.jpg",
-      "md5": "c50b20cc92ef288ac201dd2700c5232e",
-      "size": 78382,
-      "uploadedDate": "2019-08-17T01:17:15.826Z",
-      "width": 355,
-      "height": 150
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/clary/offer/ACOD_AtlantisDLC_Capsule-1920x1080-4b074ba17063694754ffde6c62fd723ca45c5f09.jpg",
       "md5": "81c0727f0aec95d6ac3b0ebbacb005bc",
@@ -79,6 +70,24 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_TFOA-330x440-1d470445cce631fc8f402803c9536022-330x440-1d470445cce631fc8f402803c9536022.jpg",
+      "md5": "1d470445cce631fc8f402803c9536022",
+      "size": 97387,
+      "uploadedDate": "2020-08-05T17:02:43.513Z",
+      "width": 330,
+      "height": 440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/clary/offer/CodeRedemption_ACOD_TFOA-330x440-1d470445cce631fc8f402803c9536022-330x440-1d470445cce631fc8f402803c9536022.jpg",
+      "md5": "1d470445cce631fc8f402803c9536022",
+      "size": 97387,
+      "uploadedDate": "2020-08-05T17:02:51.935Z",
+      "width": 330,
+      "height": 440
     }
   ],
   "items": [
