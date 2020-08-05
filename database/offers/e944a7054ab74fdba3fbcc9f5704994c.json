@@ -40,9 +40,31 @@
   "tags": [
     null,
     null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-05T03:29:25.809Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-05T03:29:25.715Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
