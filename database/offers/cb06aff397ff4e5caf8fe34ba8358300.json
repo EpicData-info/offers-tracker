@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-syndicate/the-last-maharaja",
   "urlSlug": "assassins-creed-syndicate--the-last-maharaja",
   "creationDate": "2019-12-04T18:28:35.557Z",
-  "lastModifiedDate": "2020-07-31T02:48:27.495Z",
+  "lastModifiedDate": "2020-08-05T20:35:22.420Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -54,13 +54,40 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:34:44.363Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC5_Edition_Capsule_1920X1080-1920x1080-8974cd5bb323bc4a2ad91a93db7b6e4e05f7d068.jpg",
-      "md5": "4d84d2780ac1f5cb57ba206783d5c88f",
-      "size": 73344,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC5_Store_Landscape_2580x1450-2580x1450-434475cae74e07be7acb197b2247cef1.jpg",
+      "md5": "434475cae74e07be7acb197b2247cef1",
+      "size": 196410,
+      "uploadedDate": "2020-08-05T20:34:49.637Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:35:03.794Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:35:10.207Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
   "items": [

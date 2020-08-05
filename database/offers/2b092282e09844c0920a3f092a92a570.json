@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-syndicate/season-pass",
   "urlSlug": "assassins-creed-syndicate--season-pass",
   "creationDate": "2019-12-04T18:27:15.989Z",
-  "lastModifiedDate": "2020-08-01T00:21:43.592Z",
+  "lastModifiedDate": "2020-08-05T20:31:44.027Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,13 +51,40 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:29:19.265Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:29:31.187Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:30:05.400Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/GameName_Edition_Capsule_1920X1080-1920x1080-63e40458ab21d3eeaa0f29b2f556a765d3b6715b.jpg",
-      "md5": "7e2444394de6a43cbed36ead4cc61e81",
-      "size": 82654,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/GameName_Store_Landscape_2580x1450 (1)-2580x1450-1199b98b90afa36e9fadcce5afda1a4a.jpg",
+      "md5": "1199b98b90afa36e9fadcce5afda1a4a",
+      "size": 484684,
+      "uploadedDate": "2020-08-05T20:30:37.523Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
   "items": [

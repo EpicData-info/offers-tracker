@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-syndicate/jack-the-ripper",
   "urlSlug": "assassins-creed-syndicate--jack-the-ripper",
   "creationDate": "2019-12-04T18:27:53.055Z",
-  "lastModifiedDate": "2020-07-31T02:48:27.285Z",
+  "lastModifiedDate": "2020-08-05T20:26:08.111Z",
   "effectiveDate": "2020-02-20T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -55,12 +55,39 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC3_Edition_Capsule_1920X1080-1920x1080-fecc7d13f23c46d1a24e626ecbc32a72940bda47.jpg",
-      "md5": "46dd754c7be009f35210125336efc309",
-      "size": 66216,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/ACV_DLC3_Store_Landscape_2580x1450-2580x1450-91890e7f2a7b8626af397c2a6a4831f5.jpg",
+      "md5": "91890e7f2a7b8626af397c2a6a4831f5",
+      "size": 119445,
+      "uploadedDate": "2020-08-05T20:22:02.140Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:25:50.963Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:25:42.643Z",
+      "width": 1280,
+      "height": 1420
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c9be94273fe244c08032ca493ad87434/offer/AC_Syndicate_Portrait-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0-1280x1420-b74c2aa94670d9e97cc6ddab0a5d4dd0.png",
+      "md5": "b74c2aa94670d9e97cc6ddab0a5d4dd0",
+      "size": 4086781,
+      "uploadedDate": "2020-08-05T20:26:00.155Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
   "items": [
