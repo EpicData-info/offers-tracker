@@ -8,7 +8,7 @@
   "productSlug": "journey-to-the-savage-planet/hot-garbage",
   "urlSlug": "journey-to-the-savage-planet--hot-garbage",
   "creationDate": "2020-03-16T17:47:20.912Z",
-  "lastModifiedDate": "2020-07-31T19:59:27.894Z",
+  "lastModifiedDate": "2020-08-05T01:50:38.978Z",
   "effectiveDate": "2020-04-15T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,24 +51,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/oleander/offer/JTTSP_HotGarbage_Landscape_2560x1440-2560x1440-fd74eb90cba5e167624013734151860b.jpg",
-      "md5": "fd74eb90cba5e167624013734151860b",
-      "size": 408721,
-      "uploadedDate": "2020-04-14T19:22:12.872Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/oleander/offer/JTTSP_PortraitImage_860x1148-860x1148-688ae9ac141d7b2046dc176f1391e61a.jpg",
-      "md5": "688ae9ac141d7b2046dc176f1391e61a",
-      "size": 357812,
-      "uploadedDate": "2020-04-14T19:22:30.437Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/oleander/offer/JTTSP_PortraitImage_860x1148-860x1148-688ae9ac141d7b2046dc176f1391e61a.jpg",
       "md5": "688ae9ac141d7b2046dc176f1391e61a",
@@ -76,6 +58,24 @@
       "uploadedDate": "2020-04-14T19:22:40.043Z",
       "width": 860,
       "height": 1148
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oleander/offer/JTTSP_PortraitImage_860x1148-860x1148-688ae9ac141d7b2046dc176f1391e61a.jpg",
+      "md5": "1cac17dfeb840604f7ea757548a7c377",
+      "size": 357812,
+      "uploadedDate": "2020-08-05T01:47:17.117Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oleander/offer/JTTSP_HotGarbage_Landscape_2560x1440-2560x1440-fd74eb90cba5e167624013734151860b.jpg",
+      "md5": "3feaa66c7c61b469de5a1f080f83d72e",
+      "size": 408721,
+      "uploadedDate": "2020-08-05T01:47:53.532Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
