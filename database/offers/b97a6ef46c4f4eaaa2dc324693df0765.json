@@ -45,12 +45,23 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-05T19:08:28.748Z",
+      "updated": "2020-08-05T20:48:29.145Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
     },
-    null,
+    {
+      "id": "1347",
+      "name": "ALIENS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:10.791Z",
+      "updated": "2020-07-31T13:18:24.963Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
     {
       "id": "1336",
       "name": "ACTION-ADVENTURE",
@@ -70,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-08-05T15:59:51.040Z",
+      "updated": "2020-08-05T20:48:29.127Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -82,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T19:08:28.728Z",
+      "updated": "2020-08-05T20:48:29.096Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -106,7 +117,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-05T19:08:28.651Z",
+      "updated": "2020-08-05T20:48:29.056Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
