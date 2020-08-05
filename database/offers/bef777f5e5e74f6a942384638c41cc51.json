@@ -38,8 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-05T02:21:33.652Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-07-31T20:08:00.147Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
