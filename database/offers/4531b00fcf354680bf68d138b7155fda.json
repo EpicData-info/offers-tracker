@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/home",
   "urlSlug": "snappergeneralaudience",
   "creationDate": "2020-01-23T07:07:21.130Z",
-  "lastModifiedDate": "2020-05-04T19:23:01.921Z",
+  "lastModifiedDate": "2020-08-05T15:38:18.993Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2020-08-04T15:16:46.398Z",
+      "updated": "2020-08-05T15:38:19.178Z",
       "status": "ACTIVE",
       "referenceCount": 4,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-08-05T03:29:25.715Z",
+      "updated": "2020-08-05T15:38:19.162Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-08-03T15:34:49.993Z",
+      "updated": "2020-08-05T15:38:19.193Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -125,15 +125,6 @@
       "height": 766
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EGS_MohawkGames_OffworldTradingCompany_S4-510x680-5c715e53a4447c2dc5429fc0c76d74f6.jpg",
-      "md5": "5c715e53a4447c2dc5429fc0c76d74f6",
-      "size": 179934,
-      "uploadedDate": "2020-02-24T15:45:13.300Z",
-      "width": 510,
-      "height": 680
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/Diesel_productv2_offworld-trading-company_home_EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-39bc30160411f389f1547f9a254b934bcfd901d4-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg",
       "md5": "836395b78496a58a1e2b2ce21f9084a0",
@@ -143,13 +134,22 @@
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-portrait-img-1200x1600-1200x1600-fe9ec1695e7785c3285add90a79a755a.jpg",
+      "md5": "fe9ec1695e7785c3285add90a79a755a",
+      "size": 501735,
+      "uploadedDate": "2020-08-05T15:37:15.538Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_MohawkGames_OffworldTradingCompany_S1-2560x1440-2560x1440-836395b78496a58a1e2b2ce21f9084a0.jpg",
-      "md5": "836395b78496a58a1e2b2ce21f9084a0",
-      "size": 143942,
-      "uploadedDate": "2020-03-05T15:43:22.143Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-portrait-img-1200x1600-1200x1600-fe9ec1695e7785c3285add90a79a755a.jpg",
+      "md5": "fe9ec1695e7785c3285add90a79a755a",
+      "size": 501735,
+      "uploadedDate": "2020-08-05T15:37:56.659Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/soundtrack",
   "urlSlug": "offworld-trading-company--soundtrack",
   "creationDate": "2020-02-26T15:27:40.660Z",
-  "lastModifiedDate": "2020-08-05T02:44:34.135Z",
+  "lastModifiedDate": "2020-08-05T15:40:31.544Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -61,21 +61,30 @@
   "keyImages": [
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg",
-      "md5": "cf8031f2b372f12329cfb768a0a2ba61",
-      "size": 48952,
-      "uploadedDate": "2020-03-05T15:42:25.423Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-soundtrack-portrait-img-1200x1600-1200x1600-9eb878b4f0738128e8ad489a36bfa8ad.jpg",
+      "md5": "9eb878b4f0738128e8ad489a36bfa8ad",
+      "size": 496621,
+      "uploadedDate": "2020-08-05T15:39:57.241Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-soundtrack-portrait-img-1200x1600-1200x1600-9eb878b4f0738128e8ad489a36bfa8ad.jpg",
+      "md5": "9eb878b4f0738128e8ad489a36bfa8ad",
+      "size": 496621,
+      "uploadedDate": "2020-08-05T15:40:09.150Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyOfficialSoundtrack_MohawkGames_DLC_IC1_A-320x180-cf8031f2b372f12329cfb768a0a2ba61.jpg",
-      "md5": "cf8031f2b372f12329cfb768a0a2ba61",
-      "size": 48952,
-      "uploadedDate": "2020-03-05T15:42:33.842Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-soundtrack-landscape-img-2560x1440-c6a69a0a9c17881600993ce6714396af.jpg",
+      "md5": "c6a69a0a9c17881600993ce6714396af",
+      "size": 521061,
+      "uploadedDate": "2020-08-05T15:40:20.378Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

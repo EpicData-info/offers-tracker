@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/limited-supply",
   "urlSlug": "offworld-trading-company--limited-supply",
   "creationDate": "2020-02-24T21:22:05.110Z",
-  "lastModifiedDate": "2020-07-31T02:48:25.472Z",
+  "lastModifiedDate": "2020-08-05T15:45:23.783Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -63,22 +63,31 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg",
-      "md5": "8be0096e5d7b66a58ff889f42a1e00fa",
-      "size": 68342,
-      "uploadedDate": "2020-03-05T15:36:38.835Z",
-      "width": 320,
-      "height": 180
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-limitedsupplydlc-portrait-img-1200x1600-1200x1600-4a0f9bd8a0dbd305a90f83ef3dd21f80.jpg",
+      "md5": "4a0f9bd8a0dbd305a90f83ef3dd21f80",
+      "size": 850106,
+      "uploadedDate": "2020-08-05T15:44:44.395Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyLimitedSupply_MohawkGames_DLC_IC1_A-320x180-8be0096e5d7b66a58ff889f42a1e00fa.jpg",
-      "md5": "8be0096e5d7b66a58ff889f42a1e00fa",
-      "size": 68342,
-      "uploadedDate": "2020-03-05T15:36:48.752Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-limitedsupplydlc-portrait-img-1200x1600-1200x1600-4a0f9bd8a0dbd305a90f83ef3dd21f80.jpg",
+      "md5": "4a0f9bd8a0dbd305a90f83ef3dd21f80",
+      "size": 850106,
+      "uploadedDate": "2020-08-05T15:44:55.403Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-limitedsupplydlc-landscape-img-2560x1440-fa680ec6f8c73f56f668f0bc01183aac.jpg",
+      "md5": "fa680ec6f8c73f56f668f0bc01183aac",
+      "size": 775655,
+      "uploadedDate": "2020-08-05T15:45:05.244Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

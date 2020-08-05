@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/the-ceres-initiative",
   "urlSlug": "offworld-trading-company--the-ceres-initiative",
   "creationDate": "2020-02-25T13:54:21.225Z",
-  "lastModifiedDate": "2020-07-31T02:48:26.147Z",
+  "lastModifiedDate": "2020-08-05T15:46:20.126Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -63,22 +63,31 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg",
-      "md5": "f4cd6ee626fc88793e4dcb90a517fd10",
-      "size": 66293,
-      "uploadedDate": "2020-03-05T15:37:31.910Z",
-      "width": 320,
-      "height": 180
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ceresinitiativedlc-portrait-img-1200x1600-1200x1600-b0a2f2e134e681474f808e5f9449f587.jpg",
+      "md5": "b0a2f2e134e681474f808e5f9449f587",
+      "size": 761615,
+      "uploadedDate": "2020-08-05T15:45:52.409Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyTheCeresInitiative_MohawkGames_DLC_IC1_A-320x180-f4cd6ee626fc88793e4dcb90a517fd10.jpg",
-      "md5": "f4cd6ee626fc88793e4dcb90a517fd10",
-      "size": 66293,
-      "uploadedDate": "2020-03-05T15:37:39.976Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ceresinitiativedlc-portrait-img-1200x1600-1200x1600-b0a2f2e134e681474f808e5f9449f587.jpg",
+      "md5": "b0a2f2e134e681474f808e5f9449f587",
+      "size": 761615,
+      "uploadedDate": "2020-08-05T15:46:02.948Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-ceresinitiativedlc-landscape-img-2560x1440-95fc78a4cc4f3b3a77bb2a5d8c6aa315.jpg",
+      "md5": "95fc78a4cc4f3b3a77bb2a5d8c6aa315",
+      "size": 991348,
+      "uploadedDate": "2020-08-05T15:46:11.920Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

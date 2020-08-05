@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/market-corrections",
   "urlSlug": "offworld-trading-company--market-corrections",
   "creationDate": "2020-02-24T21:23:46.587Z",
-  "lastModifiedDate": "2020-07-31T02:48:26.395Z",
+  "lastModifiedDate": "2020-08-05T15:42:01.083Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -63,22 +63,31 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-marketcorrectionsdlc-portrait-img-1200x1600-1200x1600-2b81ebd000b9a45881ace332a86623bf.jpg",
+      "md5": "2b81ebd000b9a45881ace332a86623bf",
+      "size": 865916,
+      "uploadedDate": "2020-08-05T15:41:16.075Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyMarketCorrections_MohawkGames_DLC_IC1_A-320x180-493ed4c4e4def942230c44af5f5b021e.jpg",
-      "md5": "493ed4c4e4def942230c44af5f5b021e",
-      "size": 78608,
-      "uploadedDate": "2020-03-05T15:39:01.196Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-marketcorrectionsdlc-landscape-img-2560x1440-39f48eebb446bc317a9072e51ac80943.jpg",
+      "md5": "39f48eebb446bc317a9072e51ac80943",
+      "size": 981036,
+      "uploadedDate": "2020-08-05T15:41:29.754Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyMarketCorrections_MohawkGames_DLC_IC1_A-320x180-493ed4c4e4def942230c44af5f5b021e.jpg",
-      "md5": "493ed4c4e4def942230c44af5f5b021e",
-      "size": 78608,
-      "uploadedDate": "2020-03-05T15:39:15.690Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-marketcorrectionsdlc-portrait-img-1200x1600-1200x1600-2b81ebd000b9a45881ace332a86623bf.jpg",
+      "md5": "2b81ebd000b9a45881ace332a86623bf",
+      "size": 865916,
+      "uploadedDate": "2020-08-05T15:41:44.906Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

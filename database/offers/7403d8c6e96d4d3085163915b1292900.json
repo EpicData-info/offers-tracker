@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/jupiters-forge",
   "urlSlug": "offworld-trading-company--jupiters-forge",
   "creationDate": "2020-02-24T21:34:04.377Z",
-  "lastModifiedDate": "2020-07-31T02:48:25.836Z",
+  "lastModifiedDate": "2020-08-05T15:43:11.922Z",
   "effectiveDate": "2020-03-05T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T14:18:21.252Z",
+      "updated": "2020-08-05T15:48:51.306Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -63,22 +63,31 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyJupitersForge_MohawkGames_Expansion_IC1_A-320x180-28b7a9d792c0f292effafd2743fc0605.jpg",
-      "md5": "28b7a9d792c0f292effafd2743fc0605",
-      "size": 31776,
-      "uploadedDate": "2020-03-05T15:41:22.855Z",
-      "width": 320,
-      "height": 180
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-jupitersforge-portrait-img-1200x1600-1200x1602-9cafb22d74d3e4233328d8a5cabd31c4.jpg",
+      "md5": "9cafb22d74d3e4233328d8a5cabd31c4",
+      "size": 639730,
+      "uploadedDate": "2020-08-05T15:42:41.198Z",
+      "width": 1200,
+      "height": 1602
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/EGS_OffworldTradingCompanyJupitersForge_MohawkGames_Expansion_IC1_A-320x180-28b7a9d792c0f292effafd2743fc0605.jpg",
-      "md5": "28b7a9d792c0f292effafd2743fc0605",
-      "size": 31776,
-      "uploadedDate": "2020-03-05T15:41:44.037Z",
-      "width": 320,
-      "height": 180
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-jupitersforge-portrait-img-1200x1600-1200x1602-9cafb22d74d3e4233328d8a5cabd31c4.jpg",
+      "md5": "9cafb22d74d3e4233328d8a5cabd31c4",
+      "size": 639730,
+      "uploadedDate": "2020-08-05T15:42:51.022Z",
+      "width": 1200,
+      "height": 1602
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-jupitersforge-landscape-img-2560x1440-331ad929d37dd08f9013e124387e3c35.jpg",
+      "md5": "331ad929d37dd08f9013e124387e3c35",
+      "size": 476838,
+      "uploadedDate": "2020-08-05T15:43:02.759Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

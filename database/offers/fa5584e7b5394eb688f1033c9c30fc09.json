@@ -8,7 +8,7 @@
   "productSlug": "offworld-trading-company/gold-edition",
   "urlSlug": "snappergoldaudience",
   "creationDate": "2020-02-26T19:54:29.559Z",
-  "lastModifiedDate": "2020-06-15T14:37:21.960Z",
+  "lastModifiedDate": "2020-08-05T15:36:11.789Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,13 +51,22 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-goldedition-portrait-img-1200x1600-1200x1600-23b569318158616d5d3c3e10a253af4f.jpg",
+      "md5": "23b569318158616d5d3c3e10a253af4f",
+      "size": 494490,
+      "uploadedDate": "2020-08-05T15:35:47.150Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/item/EGS_OffworldTradingCompanyGoldEdition_MohawkGames_Editions_G1A_00-1920x1080-2180130f614c4eca833e84ad105d9201-1920x1080-2180130f614c4eca833e84ad105d9201.jpg",
-      "md5": "2180130f614c4eca833e84ad105d9201",
-      "size": 552007,
-      "uploadedDate": "2020-03-10T23:44:21.835Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/e8882546f28e4832af823c646aed232e/offer/otc-goldedition-landscape-img-2560x1440-7c5c85c17931da0b61d0fc7122db313d.jpg",
+      "md5": "7c5c85c17931da0b61d0fc7122db313d",
+      "size": 757298,
+      "uploadedDate": "2020-08-05T15:35:56.838Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
