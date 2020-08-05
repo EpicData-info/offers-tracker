@@ -73,7 +73,18 @@
       "referenceCount": 9,
       "comment": null
     },
-    null,
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-08-04T15:41:40.322Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -84,6 +95,21 @@
       "updated": "2020-08-05T20:50:05.590Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-05T03:29:25.754Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
       "comment": null
     }
   ],
