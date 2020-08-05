@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/seat-of-power",
   "urlSlug": "anno-1800--seat-of-power",
   "creationDate": "2020-03-07T05:22:55.995Z",
-  "lastModifiedDate": "2020-07-31T02:49:08.256Z",
+  "lastModifiedDate": "2020-08-05T16:53:38.160Z",
   "effectiveDate": "2020-03-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -55,13 +55,31 @@
       "height": 1080
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:50:42.782Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_SEAT_OF_POWER_DLC_EPIC_DLC_Capsule_1920x1080-1920x1080-a38ba4166f46460ac8358988e25095df.jpg",
-      "md5": "a38ba4166f46460ac8358988e25095df",
-      "size": 472337,
-      "uploadedDate": "2020-03-24T02:00:26.931Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:50:57.721Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:51:06.858Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

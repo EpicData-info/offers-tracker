@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/botanica",
   "urlSlug": "anno-1800--botanica",
   "creationDate": "2019-09-04T01:09:03.141Z",
-  "lastModifiedDate": "2020-07-31T02:49:07.344Z",
+  "lastModifiedDate": "2020-08-05T16:41:45.929Z",
   "effectiveDate": "2019-09-04T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -46,31 +46,40 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_UCS14167_EGST_Edition_Capsule_355x150-355x150-838e9dafa55d72783d4cb4656ec9df8e.jpg",
-      "md5": "838e9dafa55d72783d4cb4656ec9df8e",
-      "size": 52353,
-      "uploadedDate": "2019-09-10T00:04:39.471Z",
-      "width": 355,
-      "height": 150
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/CodeRedemption_Botanica-340x440-14d5a9fd73a633c501f152ae1c2e5b3e.jpg",
-      "md5": "14d5a9fd73a633c501f152ae1c2e5b3e",
-      "size": 210958,
-      "uploadedDate": "2019-09-10T00:08:48.284Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC2_Store_Portrait_1200x1600-1200x1600-05178c390cd7325309b6f73bfc003026.jpg",
+      "md5": "05178c390cd7325309b6f73bfc003026",
+      "size": 406555,
+      "uploadedDate": "2020-08-05T16:41:14.746Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno_Botanica_Wide-355x150-24752bb81d68eca874f94b4836e01058.jpg",
-      "md5": "24752bb81d68eca874f94b4836e01058",
-      "size": 38249,
-      "uploadedDate": "2020-03-06T17:18:06.672Z",
-      "width": 355,
-      "height": 150
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC2_Store_Landscape_2560x1440-2560x1440-0fc4c39f11ea5365c894baf30eb5e4dd.jpg",
+      "md5": "0fc4c39f11ea5365c894baf30eb5e4dd",
+      "size": 845484,
+      "uploadedDate": "2020-08-05T16:41:22.633Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC2_Store_Portrait_1200x1600-1200x1600-05178c390cd7325309b6f73bfc003026.jpg",
+      "md5": "05178c390cd7325309b6f73bfc003026",
+      "size": 406555,
+      "uploadedDate": "2020-08-05T16:41:30.178Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_DLC2_Store_Portrait_1200x1600-1200x1600-05178c390cd7325309b6f73bfc003026.jpg",
+      "md5": "05178c390cd7325309b6f73bfc003026",
+      "size": 406555,
+      "uploadedDate": "2020-08-05T16:41:37.066Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

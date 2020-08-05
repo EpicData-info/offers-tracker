@@ -8,7 +8,7 @@
   "productSlug": "anno-1800/season-pass",
   "urlSlug": "anno-1800--season-pass",
   "creationDate": "2019-04-15T22:02:21.793Z",
-  "lastModifiedDate": "2020-08-01T00:27:21.590Z",
+  "lastModifiedDate": "2020-08-05T16:53:22.735Z",
   "effectiveDate": "2019-04-15T12:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -55,24 +55,6 @@
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_CodeRedemptionImage-330x440-08e0d0789e1d2be92dbc0b8527d68cb5.png",
-      "md5": "08e0d0789e1d2be92dbc0b8527d68cb5",
-      "size": 344999,
-      "uploadedDate": "2019-04-16T00:23:37.262Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_GameIcon_400x400-400x400-bda1437aa4ea0f532b819ec99f238723.jpg",
-      "md5": "bda1437aa4ea0f532b819ec99f238723",
-      "size": 40119,
-      "uploadedDate": "2019-04-16T00:23:47.108Z",
-      "width": 400,
-      "height": 400
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/oregano/offer/Anno1800_SeasonPass_Landscape_2580x1450-2580x1450-2580x1450-6148699817169d44dac204774c629842.jpg",
       "md5": "6148699817169d44dac204774c629842",
@@ -80,6 +62,33 @@
       "uploadedDate": "2020-03-06T17:25:49.570Z",
       "width": 2580,
       "height": 1450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:53:00.143Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:53:06.416Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-fe7774bb1563f584b97142f0b202d209.jpg",
+      "md5": "fe7774bb1563f584b97142f0b202d209",
+      "size": 865324,
+      "uploadedDate": "2020-08-05T16:53:14.086Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
