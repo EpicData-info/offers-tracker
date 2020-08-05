@@ -8,7 +8,7 @@
   "productSlug": "steep/x-games-dlc",
   "urlSlug": "steep--x-games-dlc",
   "creationDate": "2019-12-09T19:53:27.974Z",
-  "lastModifiedDate": "2020-07-31T02:49:04.824Z",
+  "lastModifiedDate": "2020-08-05T19:30:54.228Z",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,24 +50,6 @@
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION CAPSULE_1920x1080_XGAMES_DLC-1920x1080-ff74f6bf877ee5fe9c46e5fcce513b77.jpg",
-      "md5": "ff74f6bf877ee5fe9c46e5fcce513b77",
-      "size": 431821,
-      "uploadedDate": "2019-12-20T22:05:07.964Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/S2_BANNER_1280x1440-1280x1440-ce74db257a9e6b55d6375adaefb97213.jpg",
-      "md5": "ce74db257a9e6b55d6375adaefb97213",
-      "size": 518351,
-      "uploadedDate": "2019-12-20T22:05:28.114Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/EDITION-CAPSULE_1920x1080_XGAMES_DLC-1920x1080-a6e7e05f62cff56b04e1806cfe2bd7e4318a81cd.jpg",
       "md5": "e8a1478e7f5d3e299165416671b53826",
@@ -75,6 +57,33 @@
       "uploadedDate": "2020-02-12T09:41:44.790Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:30:30.916Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:30:39.867Z",
+      "width": 640,
+      "height": 854
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a646020cb93b4ea995cda70647bbe001/offer/KEY_ART_LOGO_640x854-640x854-d7402c9d56f9fc6d90d5e8550420e30b.jpg",
+      "md5": "d7402c9d56f9fc6d90d5e8550420e30b",
+      "size": 663789,
+      "uploadedDate": "2020-08-05T19:30:48.218Z",
+      "width": 640,
+      "height": 854
     }
   ],
   "items": [
