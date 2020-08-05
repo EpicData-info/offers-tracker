@@ -5,10 +5,10 @@
   "description": "The Audi Quattro A2 was the most iconic car of the 80s. It was a two-time Driver and Manufacturer World Champion from 82 to 84, and the most popular car of the decade. The undisputed star of Group B!",
   "longDescription": "The Audi Quattro A2 was the most iconic car of the 80s. It was a two-time Driver and Manufacturer World Champion from 82 to 84, and the most popular car of the decade. The undisputed star of Group B!",
   "status": "ACTIVE",
-  "productSlug": "wrc-9",
+  "productSlug": null,
   "urlSlug": "wrc-9--wrc-9-audi-quattro-a21984",
   "creationDate": "2020-06-29T22:59:35.582Z",
-  "lastModifiedDate": "2020-08-05T02:21:33.430Z",
+  "lastModifiedDate": "2020-08-05T02:30:43.836Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -35,78 +35,12 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-05T02:21:33.591Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
-    {
-      "id": "1283",
-      "name": "SPORTS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2020-08-05T02:21:33.603Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-05T02:21:33.634Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-05T02:21:33.620Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T02:21:33.652Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1212",
-      "name": "RACING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:03.663Z",
-      "updated": "2020-08-05T02:21:33.665Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
-      "comment": null
-    }
+    null,
+    null,
+    null,
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
@@ -120,10 +54,6 @@
     {
       "key": "developerName",
       "value": "KT Racing"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "wrc-9"
     }
   ],
   "keyImages": [

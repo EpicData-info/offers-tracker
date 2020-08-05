@@ -5,10 +5,10 @@
   "description": "Immerse yourself in the apocalypse with this selection of music composed for State of Decay 2. This two-disc set contains the original May 2018 soundtrack as well as 24 brand new tracks, carefully arranged for two and a half hours of listening enjoyment.",
   "longDescription": "Immerse yourself in the apocalypse with this selection of music composed for State of Decay 2. This two-disc set contains the original May 2018 soundtrack as well as 24 brand new tracks, carefully arranged for two and a half hours of listening enjoyment.",
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "state-of-decay-2-juggernaut-edition/state-of-decay-2-juggernaut-edition-soundtrack",
   "urlSlug": "state-of-decay-2-juggernaut-edition--state-of-decay-2-juggernaut-edition-soundtrack",
   "creationDate": "2020-03-12T23:44:59.062Z",
-  "lastModifiedDate": "2020-07-31T02:48:23.318Z",
+  "lastModifiedDate": "2020-08-05T02:33:41.326Z",
   "effectiveDate": "2020-03-16T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "developerName",
       "value": "Undead Labs"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "state-of-decay-2-juggernaut-edition/state-of-decay-2-juggernaut-edition-soundtrack"
     }
   ],
   "keyImages": [

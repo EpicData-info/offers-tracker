@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-05T02:21:33.652Z",
+      "updated": "2020-08-05T02:30:56.390Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -85,6 +85,20 @@
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-07-31T20:08:36.463Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
