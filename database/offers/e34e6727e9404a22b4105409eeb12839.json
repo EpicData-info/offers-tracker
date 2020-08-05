@@ -1,15 +1,15 @@
 {
   "id": "e34e6727e9404a22b4105409eeb12839",
   "namespace": "newt",
-  "title": "Gold Pack 01",
-  "description": "Gold Pack 01",
+  "title": "Pouch of Gold",
+  "description": "Pouch of Gold",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "newtalphabattlemage-01",
   "urlSlug": "newtalphabattlemage-05",
   "creationDate": "2020-04-09T14:56:47.871Z",
-  "lastModifiedDate": "2020-08-04T15:25:03.814Z",
-  "effectiveDate": "2019-02-04T12:29:00.000Z",
+  "lastModifiedDate": "2020-08-05T14:47:20.801Z",
+  "effectiveDate": "2020-08-27T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "bundles"
     },
     {
-      "path": "applications"
+      "path": "games"
     }
   ],
   "tags": [],
