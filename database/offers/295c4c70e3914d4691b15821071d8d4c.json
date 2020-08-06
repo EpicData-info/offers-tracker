@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-05T02:50:42.461Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1141",
       "name": "FREE TO PLAY",
@@ -65,18 +54,7 @@
       "referenceCount": 33,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T02:08:49.025Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1181",
       "name": "CARD GAME",
@@ -88,7 +66,9 @@
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
