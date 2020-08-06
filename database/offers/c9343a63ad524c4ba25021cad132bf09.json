@@ -35,7 +35,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-08-05T20:50:05.639Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
     {
       "id": "1299",
       "name": "COMPETITIVE",
@@ -72,7 +83,18 @@
       "referenceCount": 6,
       "comment": null
     },
-    null,
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-05T14:18:21.306Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -83,6 +105,18 @@
       "updated": "2020-08-06T02:08:49.025Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-08-04T19:02:50.387Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
