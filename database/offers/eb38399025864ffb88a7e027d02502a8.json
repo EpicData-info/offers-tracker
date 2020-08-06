@@ -1,20 +1,20 @@
 {
   "id": "eb38399025864ffb88a7e027d02502a8",
   "namespace": "d9090f3f39f64d5bb827c6e44b95cff0",
-  "title": "FlounderGeneralAudience",
-  "description": "FlounderGeneralAudience",
+  "title": "3 Out of 10 Ep 1 Welcome to Shovelworks",
+  "description": "3 Out of 10 Ep 1 Welcome to Shovelworks",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "3-out-of-10-ep-1",
   "urlSlug": "floundergeneralaudience",
   "creationDate": "2020-02-07T20:11:27.352Z",
-  "lastModifiedDate": "2020-08-06T14:27:18.710Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-08-06T15:00:23.471Z",
+  "effectiveDate": "2020-08-06T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
+    "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "name": "Terrible Posture Games, Inc."
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -25,13 +25,27 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -39,14 +53,69 @@
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Terrible Posture Games, Inc."
     },
     {
-      "key": "developerName",
-      "value": "[]"
+      "key": "com.epicgames.app.productSlug",
+      "value": "3-out-of-10-ep-1"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S1-2560x1440-82ce419df8719fc5a3ddc7c5ea166f38.jpg",
+      "md5": "82ce419df8719fc5a3ddc7c5ea166f38",
+      "size": 1038754,
+      "uploadedDate": "2020-08-06T04:10:44.931Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+      "md5": "d5637e28fee4033bda8efa62bee5dc3b",
+      "size": 513475,
+      "uploadedDate": "2020-08-06T04:11:06.736Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+      "md5": "d5637e28fee4033bda8efa62bee5dc3b",
+      "size": 513475,
+      "uploadedDate": "2020-08-06T04:11:22.994Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+      "md5": "d5637e28fee4033bda8efa62bee5dc3b",
+      "size": 513475,
+      "uploadedDate": "2020-08-06T04:11:40.149Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S2-1200x1600-d5637e28fee4033bda8efa62bee5dc3b.jpg",
+      "md5": "d5637e28fee4033bda8efa62bee5dc3b",
+      "size": 513475,
+      "uploadedDate": "2020-08-06T04:11:55.201Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d9090f3f39f64d5bb827c6e44b95cff0/offer/EGS_3outof10EP1WelcomeToShovelworks_TerriblePostureGamesInc_S1-2560x1440-82ce419df8719fc5a3ddc7c5ea166f38.jpg",
+      "md5": "82ce419df8719fc5a3ddc7c5ea166f38",
+      "size": 1038754,
+      "uploadedDate": "2020-08-06T04:12:13.592Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "e9b1ff9048fb4424806353fa863c0ca4"

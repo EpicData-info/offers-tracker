@@ -1,0 +1,129 @@
+{
+  "id": "754412e3df444c0c84653ea7aa047fe6",
+  "namespace": "b4e95103463b491ab34b29e616404325",
+  "title": "The Alto Collection",
+  "description": "The Alto Collection",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-alto-collection",
+  "urlSlug": "hornbillgeneralaudience",
+  "creationDate": "2019-07-12T21:29:01.025Z",
+  "lastModifiedDate": "2020-08-06T14:37:35.152Z",
+  "effectiveDate": "2020-08-13T15:00:00.000Z",
+  "viewableDate": "2020-08-06T14:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-z3ekfrqrj66t7w5jnrxdjhknzm826c",
+    "name": "Snowman"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Noodlecake Studios"
+    },
+    {
+      "key": "developerName",
+      "value": "Snowman"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-alto-collection"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S1-2560x1440-1c4fd72f79235c3fc4f49754e73d81da.jpg",
+      "md5": "1c4fd72f79235c3fc4f49754e73d81da",
+      "size": 997073,
+      "uploadedDate": "2020-08-06T14:28:52.865Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S1-2560x1440-1c4fd72f79235c3fc4f49754e73d81da.jpg",
+      "md5": "1c4fd72f79235c3fc4f49754e73d81da",
+      "size": 997073,
+      "uploadedDate": "2020-08-06T14:29:00.145Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S2-1200x1600-82ee011b09e3e9f191366d2cdc6575f0.jpg",
+      "md5": "82ee011b09e3e9f191366d2cdc6575f0",
+      "size": 470429,
+      "uploadedDate": "2020-08-06T14:29:08.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S2-1200x1600-82ee011b09e3e9f191366d2cdc6575f0.jpg",
+      "md5": "82ee011b09e3e9f191366d2cdc6575f0",
+      "size": 470429,
+      "uploadedDate": "2020-08-06T14:29:15.295Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S2-1200x1600-82ee011b09e3e9f191366d2cdc6575f0.jpg",
+      "md5": "82ee011b09e3e9f191366d2cdc6575f0",
+      "size": 470429,
+      "uploadedDate": "2020-08-06T14:29:24.565Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b4e95103463b491ab34b29e616404325/offer/EGS_TheAltoCollection_TeamAlto_S2-1200x1600-82ee011b09e3e9f191366d2cdc6575f0.jpg",
+      "md5": "82ee011b09e3e9f191366d2cdc6575f0",
+      "size": 470429,
+      "uploadedDate": "2020-08-06T14:29:34.863Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "640716c09b0d45ee8b9c496a14b38355"
+    }
+  ],
+  "catalogNs": null
+}

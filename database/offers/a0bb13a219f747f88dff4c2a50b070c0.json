@@ -1,20 +1,20 @@
 {
   "id": "a0bb13a219f747f88dff4c2a50b070c0",
   "namespace": "663e521f2a444199be58152fd93fa66e",
-  "title": "ZirconGeneralAudience",
-  "description": "ZirconGeneralAudience",
+  "title": "Remnant: From the Ashes",
+  "description": "Remnant: From the Ashes",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "zircongeneralaudience",
+  "productSlug": "remnant-from-the-ashes",
+  "urlSlug": "remnant-from-the-ashes",
   "creationDate": "2020-05-27T21:28:54.750Z",
-  "lastModifiedDate": "2020-08-06T04:41:44.209Z",
+  "lastModifiedDate": "2020-08-06T15:00:44.503Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -25,28 +25,101 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    null,
+    null,
+    null,
+    null
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     },
     {
+      "key": "publisherName",
+      "value": "Perfect World Entertainment Inc."
+    },
+    {
       "key": "developerName",
-      "value": "[]"
+      "value": "Gunfire Games"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "remnant-from-the-ashes"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg",
+      "md5": "7263019d76982af81d67ed2c1c0e7c7b",
+      "size": 889862,
+      "uploadedDate": "2020-08-06T04:32:49.693Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:32:58.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:33:18.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:33:31.699Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S2-1200x1600-394c6f196cf496047862762b3cc0c2a9.jpg",
+      "md5": "394c6f196cf496047862762b3cc0c2a9",
+      "size": 578304,
+      "uploadedDate": "2020-08-06T04:33:52.059Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshes_GunfireGames_S1-2560x1440-7263019d76982af81d67ed2c1c0e7c7b.jpg",
+      "md5": "7263019d76982af81d67ed2c1c0e7c7b",
+      "size": 889862,
+      "uploadedDate": "2020-08-06T04:34:11.665Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "d3c7800dc39e43feb762472e8e849f2c"

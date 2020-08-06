@@ -1,0 +1,125 @@
+{
+  "id": "4d5a7cd6f04a4d1fbb8ba0136c9ce988",
+  "namespace": "663e521f2a444199be58152fd93fa66e",
+  "title": "Remnant: From the Ashes – Swamps of Corsus",
+  "description": "Remnant: From the Ashes – Swamps of Corsus",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "remnant-from-the-ashes/swamps-of-corsus",
+  "urlSlug": "swamps-of-corsus",
+  "creationDate": "2020-07-31T17:57:29.448Z",
+  "lastModifiedDate": "2020-08-06T15:00:44.533Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-9nw6gkw2c9xlz6dk6z8vt7h5nbgm5w",
+    "name": "Perfect World"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    null,
+    null,
+    null
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Perfect World Entertainment Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Gunfire Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "remnant-from-the-ashes/swamps-of-corsus"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S1-2560x1440-65f94727248c989dd791682d378dadde.jpg",
+      "md5": "65f94727248c989dd791682d378dadde",
+      "size": 485072,
+      "uploadedDate": "2020-08-06T14:20:01.282Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S2-1200x1600-eddf1d73ca4be31ab46aa597ac0156e5.jpg",
+      "md5": "eddf1d73ca4be31ab46aa597ac0156e5",
+      "size": 419742,
+      "uploadedDate": "2020-08-06T14:20:10.300Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S2-1200x1600-eddf1d73ca4be31ab46aa597ac0156e5.jpg",
+      "md5": "eddf1d73ca4be31ab46aa597ac0156e5",
+      "size": 419742,
+      "uploadedDate": "2020-08-06T14:20:24.702Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S2-1200x1600-eddf1d73ca4be31ab46aa597ac0156e5.jpg",
+      "md5": "eddf1d73ca4be31ab46aa597ac0156e5",
+      "size": 419742,
+      "uploadedDate": "2020-08-06T14:20:38.186Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S2-1200x1600-eddf1d73ca4be31ab46aa597ac0156e5.jpg",
+      "md5": "eddf1d73ca4be31ab46aa597ac0156e5",
+      "size": 419742,
+      "uploadedDate": "2020-08-06T14:20:53.956Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/663e521f2a444199be58152fd93fa66e/offer/EGS_RemnantFromtheAshesSwampsofCorsus_GunfireGames_AddOn_S1-2560x1440-65f94727248c989dd791682d378dadde.jpg",
+      "md5": "65f94727248c989dd791682d378dadde",
+      "size": 485072,
+      "uploadedDate": "2020-08-06T14:21:09.274Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "14d1517dbd7242bcb5cb94881ca1c28f"
+    }
+  ],
+  "catalogNs": null
+}
