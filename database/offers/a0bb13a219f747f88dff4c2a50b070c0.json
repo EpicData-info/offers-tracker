@@ -1,20 +1,20 @@
 {
-  "id": "9fd5168913d04eb2b9afdd722cfe7929",
-  "namespace": "36336ee97ec543bbae85abaca618182b",
-  "title": "1000 coins",
-  "description": "1000 coins",
+  "id": "a0bb13a219f747f88dff4c2a50b070c0",
+  "namespace": "663e521f2a444199be58152fd93fa66e",
+  "title": "ZirconGeneralAudience",
+  "description": "ZirconGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "diabotical/home",
-  "urlSlug": "honeycreepergeneralaudience-01",
-  "creationDate": "2020-03-31T19:35:04.178Z",
-  "lastModifiedDate": "2020-08-04T15:13:48.870Z",
+  "productSlug": "[]",
+  "urlSlug": "zircongeneralaudience",
+  "creationDate": "2020-05-27T21:28:54.750Z",
+  "lastModifiedDate": "2020-08-06T04:41:44.209Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-376adequh7aazkj2cky8h6aezvju5h",
-    "name": "The GD Studio"
+    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
+    "name": "Epic Dev Test Account"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -25,31 +25,31 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "games"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [
-    null,
-    null
-  ],
+  "tags": [],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
       "value": "[]"
     },
     {
-      "key": "publisherName",
-      "value": "The GD Studio"
+      "key": "developerName",
+      "value": "[]"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "diabotical/home"
+      "value": "[]"
     }
   ],
   "keyImages": [],
   "items": [
     {
-      "id": "a553dd3d30e94afab9acb0b8d2346d04"
+      "id": "d3c7800dc39e43feb762472e8e849f2c"
     }
   ],
   "catalogNs": null
