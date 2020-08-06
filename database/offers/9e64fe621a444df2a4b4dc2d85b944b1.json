@@ -31,10 +31,30 @@
   "tags": [
     null,
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-05T20:50:05.570Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-05T14:18:21.306Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
