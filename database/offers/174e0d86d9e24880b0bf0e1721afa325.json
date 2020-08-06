@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-08-05T19:00:01.159Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1159",
       "name": "ARCADE",
@@ -42,7 +53,18 @@
       "referenceCount": 2,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-05T20:50:05.570Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
