@@ -29,30 +29,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-08-05T02:50:42.448Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-05T02:30:56.331Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
