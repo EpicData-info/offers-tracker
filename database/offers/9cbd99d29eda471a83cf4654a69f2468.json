@@ -8,7 +8,7 @@
   "productSlug": "diabotical/home",
   "urlSlug": "honeycreepergeneralaudience-02",
   "creationDate": "2020-03-31T19:35:36.698Z",
-  "lastModifiedDate": "2020-08-04T15:15:32.138Z",
+  "lastModifiedDate": "2020-08-06T13:21:35.366Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,6 +25,9 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "games"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -36,7 +39,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T12:11:00.206Z",
+      "updated": "2020-08-06T13:21:35.514Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -48,7 +51,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-05T19:08:28.768Z",
+      "updated": "2020-08-06T13:21:35.492Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
