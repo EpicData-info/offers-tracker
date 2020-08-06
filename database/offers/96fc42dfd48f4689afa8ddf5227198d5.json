@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1395",
-      "name": "NARRATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:34.825Z",
-      "updated": "2020-07-31T02:48:17.477Z",
-      "status": "ACTIVE",
-      "referenceCount": 22,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -62,30 +51,8 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T02:08:49.025Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-05T19:08:28.768Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
