@@ -62,7 +62,18 @@
       "referenceCount": 43,
       "comment": null
     },
-    null,
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-08-06T11:46:58.178Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -82,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T02:08:49.025Z",
+      "updated": "2020-08-06T11:46:58.140Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -112,6 +123,18 @@
       "updated": "2020-08-05T20:50:05.551Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-08-05T01:44:15.415Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
       "comment": null
     }
   ],

@@ -8,7 +8,7 @@
   "productSlug": "zombie-army-4-dead-war/bloodsoaked-weapon-skins",
   "urlSlug": "zombie-army-4-dead-war--bloodsoaked-weapon-skins",
   "creationDate": "2020-03-30T18:57:25.438Z",
-  "lastModifiedDate": "2020-07-31T02:49:01.762Z",
+  "lastModifiedDate": "2020-08-06T11:46:57.938Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,8 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-08-06T11:46:58.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-08-06T11:46:58.120Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -47,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-05T02:50:42.461Z",
+      "updated": "2020-08-06T11:46:58.152Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -59,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-08-05T14:18:21.306Z",
+      "updated": "2020-08-06T11:46:58.178Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -71,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T02:08:49.025Z",
+      "updated": "2020-08-06T11:46:58.140Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -83,7 +105,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-04T19:02:50.387Z",
+      "updated": "2020-08-06T11:46:58.189Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
@@ -111,21 +133,21 @@
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
-      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
-      "size": 85825,
-      "uploadedDate": "2020-04-22T18:08:47.905Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_BLOODSOAKEDWEAPONS_REDEMPTIONIMAGE_-860x1180-6448e28f6a83eda60bba180956f1155d.jpg",
+      "md5": "6448e28f6a83eda60bba180956f1155d",
+      "size": 1084753,
+      "uploadedDate": "2020-08-06T11:46:44.884Z",
+      "width": 860,
+      "height": 1180
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/CodeRedemption_Zombie4-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3-330x440-3102dff3377403c09f5bd5c9e43a3ad3.jpg",
-      "md5": "3102dff3377403c09f5bd5c9e43a3ad3",
-      "size": 85825,
-      "uploadedDate": "2020-04-22T18:09:00.033Z",
-      "width": 330,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_BLOODSOAKEDWEAPONS_REDEMPTIONIMAGE_-860x1180-6448e28f6a83eda60bba180956f1155d.jpg",
+      "md5": "6448e28f6a83eda60bba180956f1155d",
+      "size": 1084753,
+      "uploadedDate": "2020-08-06T11:46:53.499Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [
