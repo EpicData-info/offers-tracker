@@ -39,18 +39,28 @@
   ],
   "tags": [
     null,
-    null,
-    null,
     {
-      "id": "9547",
-      "name": "WINDOWS",
+      "id": "1110",
+      "name": "PARTY",
       "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-12T16:55:34.478Z",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-08-04T15:41:40.322Z",
       "status": "ACTIVE",
-      "referenceCount": 259,
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-11T17:31:51.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
       "comment": null
     }
   ],
