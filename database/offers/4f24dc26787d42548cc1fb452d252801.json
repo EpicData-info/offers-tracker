@@ -8,7 +8,7 @@
   "productSlug": "satisfactory",
   "urlSlug": "satisfactoryearlyaccess",
   "creationDate": "2019-02-26T16:06:54.063Z",
-  "lastModifiedDate": "2020-06-19T17:09:58.603Z",
+  "lastModifiedDate": "2020-08-11T17:31:24.401Z",
   "effectiveDate": "2019-03-05T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-05T02:30:56.331Z",
+      "updated": "2020-08-11T17:31:51.863Z",
       "status": "ACTIVE",
       "referenceCount": 20,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-06T15:56:42.916Z",
+      "updated": "2020-08-12T16:55:34.478Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -69,9 +69,21 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-08-05T20:50:05.621Z",
+      "updated": "2020-08-11T17:32:17.027Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-08-11T17:32:17.079Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
       "comment": null
     },
     {
@@ -81,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-08-06T15:01:13.379Z",
+      "updated": "2020-08-12T16:55:34.445Z",
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null

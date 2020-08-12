@@ -1,0 +1,113 @@
+{
+  "id": "975832273800447ea0f421a31718ceeb",
+  "namespace": "oregano",
+  "title": "Anno 1800: Amusements DLC",
+  "description": "Anno 1800: Amusements DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "anno-1800/amusements-pack",
+  "urlSlug": "amusement-dlc",
+  "creationDate": "2020-07-30T20:23:01.464Z",
+  "lastModifiedDate": "2020-08-11T14:59:47.021Z",
+  "effectiveDate": "2020-08-11T15:00:00.000Z",
+  "viewableDate": "2020-08-10T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/amusements-pack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Landscape_2560x1440 (3)-2560x1440-8138486493a56a0779f3e2ae92a2aaf4.jpg",
+      "md5": "8138486493a56a0779f3e2ae92a2aaf4",
+      "size": 999011,
+      "uploadedDate": "2020-08-10T20:21:32.234Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-7554c2eb24fb34d9ac1573cc5a1b30a7.jpg",
+      "md5": "7554c2eb24fb34d9ac1573cc5a1b30a7",
+      "size": 920099,
+      "uploadedDate": "2020-08-10T20:21:25.203Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Edition_Thumbnail_1920X1080-1920x1080-5a42b386510371942fe7e3d3a532f220.jpg",
+      "md5": "5a42b386510371942fe7e3d3a532f220",
+      "size": 839208,
+      "uploadedDate": "2020-08-10T20:21:15.236Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-7554c2eb24fb34d9ac1573cc5a1b30a7.jpg",
+      "md5": "7554c2eb24fb34d9ac1573cc5a1b30a7",
+      "size": 920099,
+      "uploadedDate": "2020-08-10T20:21:05.526Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-7554c2eb24fb34d9ac1573cc5a1b30a7.jpg",
+      "md5": "7554c2eb24fb34d9ac1573cc5a1b30a7",
+      "size": 920099,
+      "uploadedDate": "2020-08-10T20:20:55.744Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/GameName_Store_Portrait_1200x1600-1200x1600-7554c2eb24fb34d9ac1573cc5a1b30a7.jpg",
+      "md5": "7554c2eb24fb34d9ac1573cc5a1b30a7",
+      "size": 920099,
+      "uploadedDate": "2020-08-10T20:20:50.615Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "dd95e6509ce5439583639f34b3938177"
+    }
+  ],
+  "catalogNs": null
+}

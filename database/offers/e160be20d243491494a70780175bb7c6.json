@@ -1,16 +1,16 @@
 {
   "id": "e160be20d243491494a70780175bb7c6",
   "namespace": "015763e579d4479cb1ef7780bf91804f",
-  "title": "Lorikeet Soundtrack",
+  "title": "Manifold Garden Soundtrack",
   "description": "Lorikeet Soundtrack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "manifold-garden/soundtrack",
   "urlSlug": "lorikeetsoundtrack",
   "creationDate": "2020-03-16T15:45:18.722Z",
-  "lastModifiedDate": "2020-03-16T17:23:13.398Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-08-11T16:19:50.560Z",
+  "effectiveDate": "2020-08-12T15:00:00.000Z",
+  "viewableDate": "2020-08-12T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-9j6lnh9adzvfntd9d8ypjc39wb9d3k",
@@ -18,14 +18,20 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -40,26 +46,66 @@
     {
       "key": "developerName",
       "value": "William Chyr Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "manifold-garden/soundtrack"
     }
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
-      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
-      "size": 232757,
-      "uploadedDate": "2019-08-28T15:04:42.366Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-g1a-00-1920x1080-621799797-1920x1080-76637c077693feb2081161a8e09efe09.jpg",
+      "md5": "76637c077693feb2081161a8e09efe09",
+      "size": 372274,
+      "uploadedDate": "2020-08-06T17:25:59.987Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-s2-1200x1600-621798261-1200x1600-a9593f8360de8318cbdd9306bc72c07f.jpg",
+      "md5": "a9593f8360de8318cbdd9306bc72c07f",
+      "size": 380097,
+      "uploadedDate": "2020-08-06T17:26:07.622Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/CodeRedemption_ManifoldGarden-340x440-5cfad92fc2eb5a69ed9600b3964b8e53.jpg",
-      "md5": "5cfad92fc2eb5a69ed9600b3964b8e53",
-      "size": 232757,
-      "uploadedDate": "2019-08-28T15:04:49.616Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-s2-1200x1600-621798261-1200x1600-a9593f8360de8318cbdd9306bc72c07f.jpg",
+      "md5": "a9593f8360de8318cbdd9306bc72c07f",
+      "size": 380097,
+      "uploadedDate": "2020-08-06T17:26:26.441Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-s2-1200x1600-621798261-1200x1600-a9593f8360de8318cbdd9306bc72c07f.jpg",
+      "md5": "a9593f8360de8318cbdd9306bc72c07f",
+      "size": 380097,
+      "uploadedDate": "2020-08-06T17:26:39.437Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-s2-1200x1600-621798261-1200x1600-a9593f8360de8318cbdd9306bc72c07f.jpg",
+      "md5": "a9593f8360de8318cbdd9306bc72c07f",
+      "size": 380097,
+      "uploadedDate": "2020-08-06T17:26:51.108Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/015763e579d4479cb1ef7780bf91804f/offer/egs-manifoldgardenoriginalsoundtrack-williamchyrstudio-digitalextras-g1a-00-1920x1080-621799797-1920x1080-76637c077693feb2081161a8e09efe09.jpg",
+      "md5": "76637c077693feb2081161a8e09efe09",
+      "size": 372274,
+      "uploadedDate": "2020-08-06T17:26:59.164Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

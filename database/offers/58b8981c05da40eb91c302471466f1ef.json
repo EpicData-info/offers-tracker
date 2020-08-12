@@ -1,0 +1,152 @@
+{
+  "id": "58b8981c05da40eb91c302471466f1ef",
+  "namespace": "53310576ce1d4446b20dbbdac4f09f2d",
+  "title": "Total War Saga: TROY - AMAZONS",
+  "description": "Total War Saga: TROY - AMAZONS",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "a-total-war-saga-troy/amazons",
+  "urlSlug": "total-war-saga-troy-amazons",
+  "creationDate": "2020-07-03T15:32:59.468Z",
+  "lastModifiedDate": "2020-08-07T14:10:43.190Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": true,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-11T14:10:05.674Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-12T16:55:34.429Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-11T17:31:51.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-12T16:55:34.478Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA"
+    },
+    {
+      "key": "developerName",
+      "value": "CREATIVE ASSEMBLY"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "a-total-war-saga-troy/amazons"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/troyDLCTall-1200x1600-ffabb6426cdc962efef42414edf61a47.jpg",
+      "md5": "ffabb6426cdc962efef42414edf61a47",
+      "size": 195596,
+      "uploadedDate": "2020-08-05T14:03:57.019Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/troyDLCWide-2560x1440-ad55a7cd9febaabf0ad3c169f7df7f32.jpg",
+      "md5": "ad55a7cd9febaabf0ad3c169f7df7f32",
+      "size": 301439,
+      "uploadedDate": "2020-08-05T14:04:06.189Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/troyDLCTall-1200x1600-ffabb6426cdc962efef42414edf61a47.jpg",
+      "md5": "ffabb6426cdc962efef42414edf61a47",
+      "size": 195596,
+      "uploadedDate": "2020-08-05T14:04:18.271Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/53310576ce1d4446b20dbbdac4f09f2d/offer/troyDLCTall-1200x1600-ffabb6426cdc962efef42414edf61a47.jpg",
+      "md5": "ffabb6426cdc962efef42414edf61a47",
+      "size": 195596,
+      "uploadedDate": "2020-08-05T14:04:29.466Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "7b3da8950f8043d3864cb35649acd2be"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2154736fee8b413b907ed9d69906cb59",
+  "namespace": "fbab831cc1c94385b4e311f47f6fdc4f",
+  "title": "CaracalGeneralAudience",
+  "description": "CaracalGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "caracalgeneralaudience",
+  "creationDate": "2020-05-08T16:47:02.715Z",
+  "lastModifiedDate": "2020-08-10T13:55:57.889Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-l69v3ppj5zgdpwtuvq6sgjew5yjt5w",
+    "name": "Stardock Entertainment, Inc"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "df2081018fb941ee8d6260a512328a14"
+    }
+  ],
+  "catalogNs": null
+}
