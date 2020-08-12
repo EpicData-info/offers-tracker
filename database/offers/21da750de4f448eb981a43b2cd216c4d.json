@@ -41,9 +41,42 @@
       "referenceCount": 18,
       "comment": null
     },
-    null,
-    null,
-    null,
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-08-11T14:10:05.674Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-08-04T15:41:40.322Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1318",
+      "name": "TRIVIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:56.576Z",
+      "updated": "2020-05-13T23:47:14.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -56,10 +89,18 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-08-10T14:10:22.274Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
