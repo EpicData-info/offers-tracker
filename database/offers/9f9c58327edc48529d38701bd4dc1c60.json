@@ -50,7 +50,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-08-06T15:16:14.412Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -63,17 +74,16 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
     {
-      "id": "1279",
-      "name": "VAMPIRE",
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
       "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-10T14:10:22.274Z",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-08-12T16:55:34.496Z",
       "status": "ACTIVE",
-      "referenceCount": 3,
+      "referenceCount": 103,
       "comment": null
     }
   ],
