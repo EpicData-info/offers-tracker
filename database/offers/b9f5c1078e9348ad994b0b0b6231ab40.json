@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-08-05T02:50:42.448Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -51,7 +62,30 @@
       "referenceCount": 46,
       "comment": null
     },
-    null
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-11T17:31:51.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-08-12T23:34:15.586Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
