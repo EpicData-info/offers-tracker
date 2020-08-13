@@ -41,8 +41,30 @@
       "referenceCount": 110,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-08-06T18:01:45.703Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-12T16:55:34.429Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -92,9 +114,7 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
-    },
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
