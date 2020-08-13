@@ -35,30 +35,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-08-05T02:50:42.448Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-12T23:34:15.572Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1110",
       "name": "PARTY",
@@ -95,20 +73,9 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-05T19:00:01.039Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
-      "comment": null
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
