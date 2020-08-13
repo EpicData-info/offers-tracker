@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-12T23:34:15.599Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1336",
       "name": "ACTION-ADVENTURE",
@@ -89,18 +78,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-08-11T17:32:17.040Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
