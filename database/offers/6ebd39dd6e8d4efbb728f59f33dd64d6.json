@@ -40,9 +40,34 @@
   "tags": [
     null,
     null,
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-08-11T17:31:51.824Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
     null,
-    null,
-    null
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-12T16:55:34.459Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
