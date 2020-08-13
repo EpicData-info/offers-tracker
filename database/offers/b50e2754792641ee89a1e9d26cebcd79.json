@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-08-11T17:31:51.863Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1159",
       "name": "ARCADE",
@@ -42,7 +53,18 @@
       "referenceCount": 2,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-08-12T16:55:34.429Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -53,6 +75,18 @@
       "updated": "2020-08-12T23:34:15.586Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-08-06T14:37:35.176Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     }
   ],
