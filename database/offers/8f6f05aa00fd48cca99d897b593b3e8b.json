@@ -1,16 +1,16 @@
 {
   "id": "8f6f05aa00fd48cca99d897b593b3e8b",
   "namespace": "ceaa24233cdb4b678a1cf515e3a912e8",
-  "title": "RubyGeneralAudience",
-  "description": "RubyGeneralAudience",
+  "title": "God's Trigger",
+  "description": "God's Trigger",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "rubygeneralaudience",
+  "productSlug": "gods-trigger",
+  "urlSlug": "gods-trigger",
   "creationDate": "2020-06-30T02:37:51.801Z",
-  "lastModifiedDate": "2020-07-30T13:41:29.584Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-08-27T15:46:52.402Z",
+  "effectiveDate": "2020-08-20T15:00:00.000Z",
+  "viewableDate": "2020-08-13T14:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-2j5hh2gww8vepy62sf9dvqelweczxj",
@@ -28,25 +28,139 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1258",
+      "name": "ROGUE-LIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2020-08-27T15:46:52.564Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-01T16:23:22.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Techland"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "One More Level"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "gods-trigger"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S1-2560x1440-ba2bd3504ffc2b9e55271a60e177972a.jpg",
+      "md5": "ba2bd3504ffc2b9e55271a60e177972a",
+      "size": 384907,
+      "uploadedDate": "2020-08-12T22:05:03.909Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+      "md5": "f358d6781c0b38616e6cad865a427f13",
+      "size": 397046,
+      "uploadedDate": "2020-08-12T22:05:11.162Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S1-2560x1440-ba2bd3504ffc2b9e55271a60e177972a.jpg",
+      "md5": "ba2bd3504ffc2b9e55271a60e177972a",
+      "size": 384907,
+      "uploadedDate": "2020-08-12T22:05:26.289Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+      "md5": "f358d6781c0b38616e6cad865a427f13",
+      "size": 397046,
+      "uploadedDate": "2020-08-12T22:05:39.082Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+      "md5": "f358d6781c0b38616e6cad865a427f13",
+      "size": 397046,
+      "uploadedDate": "2020-08-12T22:05:47.187Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ceaa24233cdb4b678a1cf515e3a912e8/offer/EGS_GodsTrigger_OneMoreLevel_S2-1200x1600-f358d6781c0b38616e6cad865a427f13.jpg",
+      "md5": "f358d6781c0b38616e6cad865a427f13",
+      "size": 397046,
+      "uploadedDate": "2020-08-12T22:05:56.285Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "9c08879965884032b380e03b49b34656"

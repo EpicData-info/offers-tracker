@@ -6,9 +6,9 @@
   "longDescription": "Welcome to the Inner Sphere, Mercenaries. The MechWarrior 5: Mercenaries Mod Editor empowers you to imagine and create Mods using the full potential of Unreal Engine 4 and the MechWarrior 5: Mercenaries development project!",
   "status": "ACTIVE",
   "productSlug": "mechwarrior-5/modding-toolkit",
-  "urlSlug": "mechwarrior-5--mechwarrior-5-modding-toolkit",
+  "urlSlug": "mechwarrior-5--modding-toolkit",
   "creationDate": "2020-05-22T14:55:49.320Z",
-  "lastModifiedDate": "2020-07-31T14:28:59.722Z",
+  "lastModifiedDate": "2020-08-14T18:47:59.111Z",
   "effectiveDate": "2019-12-09T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "mods"
-    },
-    {
-      "path": "games"
+      "path": "addons"
     },
     {
       "path": "editors"
@@ -45,7 +42,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-12T23:34:15.599Z",
+      "updated": "2020-09-01T17:36:52.182Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +54,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-08-11T17:31:51.863Z",
+      "updated": "2020-09-01T17:53:45.117Z",
       "status": "ACTIVE",
       "referenceCount": 20,
       "comment": null
@@ -69,7 +66,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-12T23:34:15.572Z",
+      "updated": "2020-09-01T17:36:52.237Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -81,7 +78,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-08-12T16:55:34.409Z",
+      "updated": "2020-09-01T14:28:50.656Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -93,7 +90,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-08-12T16:55:34.429Z",
+      "updated": "2020-09-01T17:53:45.080Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -105,7 +102,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-12T23:34:15.586Z",
+      "updated": "2020-09-01T17:53:45.101Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -117,7 +114,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-08-12T23:34:15.557Z",
+      "updated": "2020-09-01T17:36:52.219Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
@@ -139,75 +136,66 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
-      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
-      "size": 580997,
-      "uploadedDate": "2020-05-22T14:54:08.837Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
-      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
-      "size": 558123,
-      "uploadedDate": "2020-05-22T14:54:27.936Z",
-      "width": 1280,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+      "md5": "d6fc9fca58586de5b9d250d60e09e698",
+      "size": 230668,
+      "uploadedDate": "2019-07-24T21:02:11.900Z",
+      "width": 340,
+      "height": 440
     },
     {
-      "type": "DieselGameBox",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
-      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
-      "size": 558123,
-      "uploadedDate": "2020-05-22T14:54:45.584Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
-      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
-      "size": 580997,
-      "uploadedDate": "2020-05-22T14:55:02.140Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
+      "md5": "63a6927ce47a68280cc8a55efe70a710",
+      "size": 1123460,
+      "uploadedDate": "2020-02-28T13:55:19.972Z",
       "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Mod-editor-icon-200x200-18ddd1e690c834a781ef4bfe09b92450.png",
-      "md5": "18ddd1e690c834a781ef4bfe09b92450",
-      "size": 8264,
-      "uploadedDate": "2020-05-22T14:55:12.700Z",
-      "width": 200,
-      "height": 200
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-2560x1440-e3debd3eb6b2af0a0ca82abbb8b4d21d.jpg",
-      "md5": "e3debd3eb6b2af0a0ca82abbb8b4d21d",
-      "size": 580997,
-      "uploadedDate": "2020-05-22T14:55:31.711Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
-      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
-      "size": 558123,
-      "uploadedDate": "2020-05-22T14:55:41.297Z",
-      "width": 1280,
       "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/Editor-Library-Photo-half-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d-1280x1440-d4defd0be40ba0d77de9c9ee3e0f168d.jpg",
-      "md5": "d4defd0be40ba0d77de9c9ee3e0f168d",
-      "size": 558123,
-      "uploadedDate": "2020-06-08T12:19:06.196Z",
-      "width": 1280,
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+      "md5": "d6fc9fca58586de5b9d250d60e09e698",
+      "size": 230668,
+      "uploadedDate": "2020-04-20T22:57:30.855Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+      "md5": "d6fc9fca58586de5b9d250d60e09e698",
+      "size": 230668,
+      "uploadedDate": "2020-04-20T22:58:01.913Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/CodeRedemption_MechWarrior5-340x440-d6fc9fca58586de5b9d250d60e09e698-340x440-d6fc9fca58586de5b9d250d60e09e698.jpg",
+      "md5": "d6fc9fca58586de5b9d250d60e09e698",
+      "size": 230668,
+      "uploadedDate": "2020-04-20T22:58:37.610Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
+      "md5": "63a6927ce47a68280cc8a55efe70a710",
+      "size": 1123460,
+      "uploadedDate": "2020-04-20T22:58:58.569Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBox",
+      "url": "https://cdn1.epicgames.com/b9def67e597b4be7a16146146a044d02/offer/landscape-offer-img-w-logo-2560x1440-63a6927ce47a68280cc8a55efe70a710-2560x1440-63a6927ce47a68280cc8a55efe70a710.jpg",
+      "md5": "63a6927ce47a68280cc8a55efe70a710",
+      "size": 1123460,
+      "uploadedDate": "2020-04-21T16:01:28.068Z",
+      "width": 2560,
       "height": 1440
     }
   ],

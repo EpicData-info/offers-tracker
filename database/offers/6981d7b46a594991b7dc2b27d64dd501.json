@@ -1,0 +1,158 @@
+{
+  "id": "6981d7b46a594991b7dc2b27d64dd501",
+  "namespace": "71f938f91f0a4ccfaba0be708a930e8a",
+  "title": "Far Cry",
+  "description": "Far Cry",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "far-cry",
+  "urlSlug": "farcry",
+  "creationDate": "2020-06-17T20:09:14.723Z",
+  "lastModifiedDate": "2020-08-18T14:55:55.915Z",
+  "effectiveDate": "2020-08-18T15:00:00.000Z",
+  "viewableDate": "2020-08-17T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-01T14:28:50.640Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Crytek Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Landscape_2560x1440-2560x1440-83f5fc72a43aa3aaec79d56b094b8505.jpg",
+      "md5": "83f5fc72a43aa3aaec79d56b094b8505",
+      "size": 954334,
+      "uploadedDate": "2020-07-30T16:46:52.772Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg",
+      "md5": "cecdc41b252a33e1b1bc357863a5a1a1",
+      "size": 804642,
+      "uploadedDate": "2020-07-30T16:46:56.770Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Landscape_2560x1440-2560x1440-83f5fc72a43aa3aaec79d56b094b8505.jpg",
+      "md5": "83f5fc72a43aa3aaec79d56b094b8505",
+      "size": 954334,
+      "uploadedDate": "2020-07-30T16:47:02.612Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg",
+      "md5": "cecdc41b252a33e1b1bc357863a5a1a1",
+      "size": 804642,
+      "uploadedDate": "2020-07-30T16:47:08.741Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg",
+      "md5": "cecdc41b252a33e1b1bc357863a5a1a1",
+      "size": 804642,
+      "uploadedDate": "2020-07-30T16:47:55.659Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/71f938f91f0a4ccfaba0be708a930e8a/offer/GameName_Store_Portrait_1200x1600-1200x1600-cecdc41b252a33e1b1bc357863a5a1a1.jpg",
+      "md5": "cecdc41b252a33e1b1bc357863a5a1a1",
+      "size": 804642,
+      "uploadedDate": "2020-07-30T16:48:00.771Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "c3679e0de7ca465e88becf7580004399"
+    }
+  ],
+  "catalogNs": null
+}

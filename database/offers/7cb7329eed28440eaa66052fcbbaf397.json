@@ -1,0 +1,191 @@
+{
+  "id": "7cb7329eed28440eaa66052fcbbaf397",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "title": "WRC 9 Deluxe Edition",
+  "description": "WRC 9 Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "wrc-9/deluxe-edition",
+  "urlSlug": "kagudeluxe",
+  "creationDate": "2020-06-29T22:38:07.921Z",
+  "lastModifiedDate": "2020-09-01T14:17:24.028Z",
+  "effectiveDate": "2020-09-01T14:55:00.000Z",
+  "viewableDate": "2020-09-01T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-01T17:53:45.117Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-01T17:36:52.237Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-09-01T16:02:48.494Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-01T17:53:45.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-09-01T16:02:48.557Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "KT Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-9/deluxe-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S1-2560x1440-f47a0bf374d0650ef9ae3cf1d4e5846c.jpg",
+      "md5": "f47a0bf374d0650ef9ae3cf1d4e5846c",
+      "size": 205065,
+      "uploadedDate": "2020-06-29T22:46:31.335Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S2-1200x1600-0b73844935f4be2e6bc0cdb245774ad7.jpg",
+      "md5": "0b73844935f4be2e6bc0cdb245774ad7",
+      "size": 134248,
+      "uploadedDate": "2020-06-29T22:46:42.992Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S2-1200x1600-0b73844935f4be2e6bc0cdb245774ad7.jpg",
+      "md5": "0b73844935f4be2e6bc0cdb245774ad7",
+      "size": 134248,
+      "uploadedDate": "2020-06-29T22:46:51.634Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S2-1200x1600-0b73844935f4be2e6bc0cdb245774ad7.jpg",
+      "md5": "0b73844935f4be2e6bc0cdb245774ad7",
+      "size": 134248,
+      "uploadedDate": "2020-06-29T22:47:07.386Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S1-2560x1440-f47a0bf374d0650ef9ae3cf1d4e5846c-2560x1440-f47a0bf374d0650ef9ae3cf1d4e5846c.jpg",
+      "md5": "f47a0bf374d0650ef9ae3cf1d4e5846c",
+      "size": 205065,
+      "uploadedDate": "2020-08-26T15:24:48.858Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9DeluxeEditionFIAWorldRallyChampionship_KTRacing_Bundles_S2-1200x1600-0b73844935f4be2e6bc0cdb245774ad7-1200x1600-0b73844935f4be2e6bc0cdb245774ad7.jpg",
+      "md5": "0b73844935f4be2e6bc0cdb245774ad7",
+      "size": 134248,
+      "uploadedDate": "2020-08-26T15:24:57.991Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "9ed68abb725d44be9908ed103cfda03f"
+    }
+  ],
+  "catalogNs": null
+}

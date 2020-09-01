@@ -1,0 +1,158 @@
+{
+  "id": "d7346eea46ef4d109b459ef71ddc09e9",
+  "namespace": "a0b8d4482f3d4f939f35f87a3f367865",
+  "title": "Far Cry 2: Fortune's Edition",
+  "description": "Far Cry 2: Fortune's Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "far-cry-2",
+  "urlSlug": "farcry2",
+  "creationDate": "2020-06-17T20:39:55.107Z",
+  "lastModifiedDate": "2020-08-18T14:56:26.270Z",
+  "effectiveDate": "2020-08-18T15:00:00.000Z",
+  "viewableDate": "2020-08-17T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-01T14:28:50.640Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "developerName",
+      "value": "Ubisoft Montreal"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "far-cry-2"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Landscape_2560x1440-2560x1440-ce43469cd4ebf6e168b727243fbe5d39.jpg",
+      "md5": "ce43469cd4ebf6e168b727243fbe5d39",
+      "size": 918416,
+      "uploadedDate": "2020-07-30T17:32:34.356Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
+      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "size": 995066,
+      "uploadedDate": "2020-07-30T17:32:38.536Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Landscape_2560x1440-2560x1440-ce43469cd4ebf6e168b727243fbe5d39.jpg",
+      "md5": "ce43469cd4ebf6e168b727243fbe5d39",
+      "size": 918416,
+      "uploadedDate": "2020-07-30T17:32:43.347Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
+      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "size": 995066,
+      "uploadedDate": "2020-07-30T17:32:48.701Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
+      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "size": 995066,
+      "uploadedDate": "2020-07-30T17:32:55.391Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a0b8d4482f3d4f939f35f87a3f367865/offer/FC_FC2_Store_Portrait_1200x1600-1200x1600-8e5fc0a55113b7eaa91781c61563ccd1.jpg",
+      "md5": "8e5fc0a55113b7eaa91781c61563ccd1",
+      "size": 995066,
+      "uploadedDate": "2020-07-30T17:33:00.160Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "6ed04216936f42a68a86f41744f061bf"
+    }
+  ],
+  "catalogNs": null
+}

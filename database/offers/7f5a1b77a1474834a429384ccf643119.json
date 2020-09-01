@@ -1,16 +1,16 @@
 {
   "id": "7f5a1b77a1474834a429384ccf643119",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "Crossbow Pistol Audience",
-  "description": "Crossbow Pistol Audience",
-  "longDescription": "Crossbow Pistol Audience",
+  "title": "Crossbow Pistol Bundle",
+  "description": "Sometimes, all you need is something precise and powerful! The Crossbow Pistol is tiny, deadly and fires bolts so fast your enemies won’t even have time to react. For those moments where you want to smash off an enemy’s limbs, and pin them to walls!",
+  "longDescription": "Sometimes, all you need is something precise and powerful! The Crossbow Pistol is tiny, deadly and fires bolts so fast your enemies won’t even have time to react. For those moments where you want to smash off an enemy’s limbs, and pin them to walls!",
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "zombie-army-4-dead-war/crossbow-pistol-bundle",
   "urlSlug": "m1895-rifle-bundle-05",
   "creationDate": "2020-06-29T17:56:54.393Z",
-  "lastModifiedDate": "2020-08-04T15:44:30.723Z",
-  "effectiveDate": "2020-09-01T15:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-09-01T14:08:08.247Z",
+  "effectiveDate": "2020-09-01T14:00:00.000Z",
+  "viewableDate": "2020-09-01T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,6 +25,12 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
       "path": "games"
     },
     {
@@ -32,12 +38,78 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-09-01T14:27:12.789Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-01T17:36:52.237Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-01T14:28:50.656Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-01T17:36:52.219Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
@@ -47,6 +119,10 @@
     {
       "key": "developerName",
       "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/crossbow-pistol-bundle"
     }
   ],
   "keyImages": [
@@ -58,6 +134,60 @@
       "uploadedDate": "2020-05-05T14:34:37.380Z",
       "width": 842,
       "height": 485
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_CrossbowPistolBundle-900x450-4df05fb772dd65fdbe43c78105f149de.png",
+      "md5": "4df05fb772dd65fdbe43c78105f149de",
+      "size": 661953,
+      "uploadedDate": "2020-08-12T18:06:33.748Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/ZOMBIEARMY4_WISHLIST-LANDSCAPE_CrossbowPistolBundle-2560x1440-8ccfeafbf2d3455af5a5e423c07e4e62.jpg",
+      "md5": "8ccfeafbf2d3455af5a5e423c07e4e62",
+      "size": 1017651,
+      "uploadedDate": "2020-08-12T18:07:01.858Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+      "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+      "size": 895022,
+      "uploadedDate": "2020-08-12T18:18:54.622Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+      "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+      "size": 895022,
+      "uploadedDate": "2020-08-12T18:19:05.333Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+      "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+      "size": 895022,
+      "uploadedDate": "2020-08-12T18:19:13.929Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_CrossbowPistolBundle_REDEMPTIONIMAGE-860x1180-7294e2ad5bf714a4f078a39ffc95d43c.jpg",
+      "md5": "7294e2ad5bf714a4f078a39ffc95d43c",
+      "size": 895022,
+      "uploadedDate": "2020-08-12T18:19:27.092Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

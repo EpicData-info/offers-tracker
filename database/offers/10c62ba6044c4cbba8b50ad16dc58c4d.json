@@ -1,0 +1,170 @@
+{
+  "id": "10c62ba6044c4cbba8b50ad16dc58c4d",
+  "namespace": "ff8c96d781824ba1ae62d18d207fc52e",
+  "title": "Mortal Shell",
+  "description": "Mortal Shell",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "mortal-shell",
+  "urlSlug": "spinellaunchaudience",
+  "creationDate": "2020-06-13T06:54:41.985Z",
+  "lastModifiedDate": "2020-08-18T11:52:06.507Z",
+  "effectiveDate": "2020-08-18T12:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-fwcegrmgnhg9bjn597f2ywf3gvrvqw",
+    "name": "Playstack Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-08-28T12:11:52.391Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-01T17:53:45.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-01T16:23:22.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Playstack Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Cold Symmetry"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mortal-shell"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S5-1920x1080-1fcd12cd44634371bbf1f1861bd9e13b.jpg",
+      "md5": "1fcd12cd44634371bbf1f1861bd9e13b",
+      "size": 607036,
+      "uploadedDate": "2020-05-28T22:53:02.988Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg",
+      "md5": "10607273626b5c7b4e07dd999d9fcad4",
+      "size": 691601,
+      "uploadedDate": "2020-05-28T22:53:11.330Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg",
+      "md5": "10607273626b5c7b4e07dd999d9fcad4",
+      "size": 691601,
+      "uploadedDate": "2020-05-28T22:53:25.965Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg",
+      "md5": "10607273626b5c7b4e07dd999d9fcad4",
+      "size": 691601,
+      "uploadedDate": "2020-05-28T22:53:34.977Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S5-1920x1080-1fcd12cd44634371bbf1f1861bd9e13b.jpg",
+      "md5": "1fcd12cd44634371bbf1f1861bd9e13b",
+      "size": 607036,
+      "uploadedDate": "2020-05-28T22:53:46.460Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ff8c96d781824ba1ae62d18d207fc52e/offer/EGS_MortalShell_ColdSymmetry_S6-1200x1600-10607273626b5c7b4e07dd999d9fcad4.jpg",
+      "md5": "10607273626b5c7b4e07dd999d9fcad4",
+      "size": 691601,
+      "uploadedDate": "2020-05-28T22:53:59.991Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "85e2cfb26a6a4031b7c3c6ca35ef502d"
+    }
+  ],
+  "catalogNs": null
+}

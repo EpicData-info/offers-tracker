@@ -1,0 +1,119 @@
+{
+  "id": "59394b881542422b84ea096c0f8ba45b",
+  "namespace": "0d66818e2304485f8dc3ae90c8b622b4",
+  "title": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "description": "Shadowrun Hong Kong - Extended Edition Deluxe DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "shadowrun-hong-kong/extended-edition-deluxe-dlc",
+  "urlSlug": "cotingaextendededitiondlcupgradeaudience",
+  "creationDate": "2020-08-17T22:28:32.955Z",
+  "lastModifiedDate": "2020-08-27T14:46:21.968Z",
+  "effectiveDate": "2020-08-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-08-28T12:11:52.391Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-01T13:12:38.561Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-01T16:23:22.662Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Harebrained Schemes"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shadowrun-hong-kong/extended-edition-deluxe-dlc"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/offer/EGS_ShadowrunHongKongExtendedEditionDeluxeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-81c36e411cbf598de99ae1671044878c.jpg",
+      "md5": "81c36e411cbf598de99ae1671044878c",
+      "size": 846398,
+      "uploadedDate": "2020-08-27T03:53:51.931Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0d66818e2304485f8dc3ae90c8b622b4/offer/EGS_ShadowrunHongKongExtendedEditionDeluxeDLC_HarebrainedSchemes_AddOn_S1-2560x1440-81c36e411cbf598de99ae1671044878c.jpg",
+      "md5": "81c36e411cbf598de99ae1671044878c",
+      "size": 846398,
+      "uploadedDate": "2020-08-27T03:54:04.061Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "d81ad517bf4546ffbe44c3288197a9ac"
+    }
+  ],
+  "catalogNs": null
+}

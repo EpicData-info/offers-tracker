@@ -8,7 +8,7 @@
   "productSlug": "fortnite",
   "urlSlug": "fortnite-free-audience",
   "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2020-06-17T07:17:15.598Z",
+  "lastModifiedDate": "2020-08-27T08:58:46.638Z",
   "effectiveDate": "2017-09-20T13:00:00.000Z",
   "viewableDate": "2017-09-20T13:00:00.000Z",
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-12T23:34:15.572Z",
+      "updated": "2020-09-01T17:36:52.237Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:36.154Z",
-      "updated": "2020-08-06T20:13:06.437Z",
+      "updated": "2020-08-28T12:11:52.442Z",
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:28.688Z",
-      "updated": "2020-08-06T15:16:14.412Z",
+      "updated": "2020-08-31T21:10:03.655Z",
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-08-12T16:55:34.409Z",
+      "updated": "2020-09-01T14:28:50.656Z",
       "status": "ACTIVE",
       "referenceCount": 28,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-12T23:34:15.586Z",
+      "updated": "2020-09-01T17:53:45.101Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -105,7 +105,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-08-12T16:55:34.496Z",
+      "updated": "2020-09-01T12:45:12.651Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
@@ -119,7 +119,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-05T19:00:01.039Z",
+      "updated": "2020-08-27T08:58:46.675Z",
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
@@ -138,46 +138,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S3_2560x1440-2560x1440-d86c767e553abfe463f0451a18afbd16.jpg",
-      "md5": "d86c767e553abfe463f0451a18afbd16",
-      "size": 5137444,
-      "uploadedDate": "2020-06-16T19:59:03.939Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_S1_2560x1440-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
+      "md5": "051f34e4a0536fdd01ba728521b6afae",
+      "size": 2320983,
+      "uploadedDate": "2020-08-27T07:41:51.598Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S4_1200x1600-1200x1600-2f8962a1b58ac78537cb85bb5bc033c1.jpg",
-      "md5": "2f8962a1b58ac78537cb85bb5bc033c1",
-      "size": 3782114,
-      "uploadedDate": "2020-06-16T19:59:20.718Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_S2_1200x1600-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-08-27T07:42:06.612Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_Thumbnail-576x576-78a4c2140ed2fa633c0df9ee3dcbca39.jpg",
-      "md5": "78a4c2140ed2fa633c0df9ee3dcbca39",
-      "size": 2914195,
-      "uploadedDate": "2020-06-16T19:59:37.643Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_Thumbnail-576x576-a2c6ce10efabc1f4b9fd17ac4960f074.jpg",
+      "md5": "a2c6ce10efabc1f4b9fd17ac4960f074",
+      "size": 348802,
+      "uploadedDate": "2020-08-27T07:42:30.275Z",
+      "width": 576,
+      "height": 576
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_Thumbnail-576x576-a2c6ce10efabc1f4b9fd17ac4960f074.jpg",
+      "md5": "a2c6ce10efabc1f4b9fd17ac4960f074",
+      "size": 348802,
+      "uploadedDate": "2020-08-27T07:42:39.961Z",
       "width": 576,
       "height": 576
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S1_2560x1440-2560x1440-8a072649c6998da7f046ddfa8ba92995.jpg",
-      "md5": "8a072649c6998da7f046ddfa8ba92995",
-      "size": 5137444,
-      "uploadedDate": "2020-06-16T20:00:14.237Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_S1_2560x1440-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
+      "md5": "051f34e4a0536fdd01ba728521b6afae",
+      "size": 2320983,
+      "uploadedDate": "2020-08-27T07:42:57.253Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/13BR_BPLaunch_EGS_S2_1200x1600-1200x1600-a39a6070e97ea0938d60ca3b19cbbe7b.jpg",
-      "md5": "a39a6070e97ea0938d60ca3b19cbbe7b",
-      "size": 3782114,
-      "uploadedDate": "2020-06-16T20:00:50.520Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/14BR_BPLaunch_EGS_S2_1200x1600-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-08-27T07:43:11.774Z",
       "width": 1200,
       "height": 1600
     }

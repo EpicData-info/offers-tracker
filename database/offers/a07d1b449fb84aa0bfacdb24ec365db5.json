@@ -8,7 +8,7 @@
   "productSlug": "phoenix-point",
   "urlSlug": "phoenix-point",
   "creationDate": "2019-08-30T14:48:59.755Z",
-  "lastModifiedDate": "2020-07-30T15:52:07.967Z",
+  "lastModifiedDate": "2020-08-26T15:35:57.832Z",
   "effectiveDate": "2019-12-02T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-08-12T16:55:34.370Z",
+      "updated": "2020-08-28T12:11:52.391Z",
       "status": "ACTIVE",
       "referenceCount": 43,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-08-11T17:30:09.061Z",
+      "updated": "2020-09-01T13:12:38.561Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-08-11T17:31:51.824Z",
+      "updated": "2020-09-01T17:53:45.044Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-12T23:34:15.586Z",
+      "updated": "2020-09-01T17:53:45.101Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -96,7 +96,7 @@
       ],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-12T16:55:34.459Z",
+      "updated": "2020-08-27T15:45:36.069Z",
       "status": "ACTIVE",
       "referenceCount": 48,
       "comment": null
@@ -118,58 +118,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
-      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
-      "size": 417349,
-      "uploadedDate": "2020-07-30T15:51:15.534Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 horizontal-2560x1440-f0df241248094d55d612251f627a72f2.jpg",
+      "md5": "f0df241248094d55d612251f627a72f2",
+      "size": 865696,
+      "uploadedDate": "2020-08-26T15:34:51.462Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 vertical-860x1148-83cfbf90639b34eef7ff9551f73b6b8c.jpg",
+      "md5": "83cfbf90639b34eef7ff9551f73b6b8c",
+      "size": 424013,
+      "uploadedDate": "2020-08-26T15:35:00.473Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 horizontal-2560x1440-05af4101b6b4a515b1e8caf86bf36479.jpg",
-      "md5": "05af4101b6b4a515b1e8caf86bf36479",
-      "size": 859507,
-      "uploadedDate": "2020-07-30T15:51:25.464Z",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 horizontal-2560x1440-f0df241248094d55d612251f627a72f2.jpg",
+      "md5": "f0df241248094d55d612251f627a72f2",
+      "size": 865696,
+      "uploadedDate": "2020-08-26T15:35:16.085Z",
       "width": 2560,
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 vertical-860x1148-83cfbf90639b34eef7ff9551f73b6b8c.jpg",
+      "md5": "83cfbf90639b34eef7ff9551f73b6b8c",
+      "size": 424013,
+      "uploadedDate": "2020-08-26T15:35:23.487Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
-      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
-      "size": 417349,
-      "uploadedDate": "2020-07-30T15:51:33.074Z",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 vertical-860x1148-83cfbf90639b34eef7ff9551f73b6b8c.jpg",
+      "md5": "83cfbf90639b34eef7ff9551f73b6b8c",
+      "size": 424013,
+      "uploadedDate": "2020-08-26T15:35:36.472Z",
       "width": 860,
       "height": 1148
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
-      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
-      "size": 417349,
-      "uploadedDate": "2020-07-30T15:51:41.921Z",
+      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 7 vertical-860x1148-83cfbf90639b34eef7ff9551f73b6b8c.jpg",
+      "md5": "83cfbf90639b34eef7ff9551f73b6b8c",
+      "size": 424013,
+      "uploadedDate": "2020-08-26T15:35:43.982Z",
       "width": 860,
       "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 vertical-860x1148-b493bcc16afadfcfc5bba0a9ea7994ff.jpg",
-      "md5": "b493bcc16afadfcfc5bba0a9ea7994ff",
-      "size": 417349,
-      "uploadedDate": "2020-07-30T15:51:52.499Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/iris/offer/PP key art EGS Update 6 horizontal-2560x1440-05af4101b6b4a515b1e8caf86bf36479.jpg",
-      "md5": "05af4101b6b4a515b1e8caf86bf36479",
-      "size": 859507,
-      "uploadedDate": "2020-07-30T15:52:00.977Z",
-      "width": 2560,
-      "height": 1440
     }
   ],
   "items": [

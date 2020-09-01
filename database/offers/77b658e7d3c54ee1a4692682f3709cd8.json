@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "chivalry-2/home",
-  "urlSlug": "peppermintgeneralaudience",
+  "urlSlug": "chivalry",
   "creationDate": "2019-06-04T08:53:38.829Z",
-  "lastModifiedDate": "2020-04-02T01:41:12.313Z",
+  "lastModifiedDate": "2020-08-20T00:10:37.779Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,27 +39,27 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-08-12T23:34:15.599Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
       "id": "1344",
       "name": "FIGHTING",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-08-06T18:01:45.703Z",
+      "updated": "2020-08-27T16:43:46.341Z",
       "status": "ACTIVE",
       "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
       "comment": null
     },
     {
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-08-12T23:34:15.572Z",
+      "updated": "2020-09-01T17:36:52.237Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-08-12T23:34:15.586Z",
+      "updated": "2020-09-01T17:53:45.101Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:44.596Z",
-      "updated": "2020-08-12T16:55:34.445Z",
+      "updated": "2020-09-01T13:53:52.424Z",
       "status": "ACTIVE",
       "referenceCount": 24,
       "comment": null
@@ -119,65 +119,56 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg",
-      "md5": "159c4b1186699491cb232b6eb002606b",
-      "size": 146238,
-      "uploadedDate": "2019-06-07T14:33:10.604Z",
-      "width": 1288,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg",
-      "md5": "e143f2de31873eccc51c47e9d493787e",
-      "size": 244630,
-      "uploadedDate": "2019-06-07T14:33:28.692Z",
-      "width": 2580,
-      "height": 1456
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/Chivalry-2-Full-Brand-Colour (2)-1746x594-88f5ba869080f7b0fa7a11c13e7cf05e.png",
-      "md5": "88f5ba869080f7b0fa7a11c13e7cf05e",
-      "size": 750142,
-      "uploadedDate": "2019-09-17T02:41:42.806Z",
-      "width": 1746,
-      "height": 594
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/2560x1440a-2560x1440-deb871e88d1526d7281b4bab641abe24.jpg",
+      "md5": "deb871e88d1526d7281b4bab641abe24",
+      "size": 788734,
+      "uploadedDate": "2020-08-20T00:08:17.818Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Chivalry2_PortraitPromo-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg",
-      "md5": "159c4b1186699491cb232b6eb002606b",
-      "size": 146238,
-      "uploadedDate": "2019-06-07T14:33:10.604Z",
-      "width": 1288,
-      "height": 1450
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Diesel_product_peppermint_home_Chivalry2_PortraitPromo-1288x1450-9248cb8cbd654b3065c796f5a76c7e45bb5fa682-1288x1450-159c4b1186699491cb232b6eb002606b.jpeg",
-      "md5": "159c4b1186699491cb232b6eb002606b",
-      "size": 146238,
-      "uploadedDate": "2020-02-25T14:32:48.008Z",
-      "width": 1288,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
+      "md5": "d2045ec65147297d8a7cebd13cd68d4b",
+      "size": 518202,
+      "uploadedDate": "2020-08-20T00:08:43.225Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Chivalry2_PrimaryPromo-2580x1456-e143f2de31873eccc51c47e9d493787e-2580x1456-e143f2de31873eccc51c47e9d493787e.jpeg",
-      "md5": "e143f2de31873eccc51c47e9d493787e",
-      "size": 244630,
-      "uploadedDate": "2020-02-25T14:33:13.310Z",
-      "width": 2580,
-      "height": 1456
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
+      "md5": "d2045ec65147297d8a7cebd13cd68d4b",
+      "size": 518202,
+      "uploadedDate": "2020-08-20T00:08:57.448Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/Wishlist-Landscape-2560x1440-a48745f2dde9b492b4100291e23bba10.jpg",
-      "md5": "a48745f2dde9b492b4100291e23bba10",
-      "size": 2043381,
-      "uploadedDate": "2020-02-24T20:36:18.184Z",
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
+      "md5": "d2045ec65147297d8a7cebd13cd68d4b",
+      "size": 518202,
+      "uploadedDate": "2020-08-20T00:09:13.295Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/1200x600b-1200x1600-d2045ec65147297d8a7cebd13cd68d4b.jpg",
+      "md5": "d2045ec65147297d8a7cebd13cd68d4b",
+      "size": 518202,
+      "uploadedDate": "2020-08-20T00:09:27.686Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/bd46d4ce259349e5bd8b3ded20274737/offer/2560x1440a-2560x1440-deb871e88d1526d7281b4bab641abe24.jpg",
+      "md5": "deb871e88d1526d7281b4bab641abe24",
+      "size": 788734,
+      "uploadedDate": "2020-08-20T00:09:43.182Z",
       "width": 2560,
       "height": 1440
     }

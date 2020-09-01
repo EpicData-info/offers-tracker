@@ -1,0 +1,166 @@
+{
+  "id": "4537d64c0c5748ae901163cfb53573eb",
+  "namespace": "f4bbbc20a6b74295ac82b7c258739bff",
+  "title": "3 out of 10, EP 3: \"Pivot Like A Champion\"",
+  "description": "3 out of 10, EP 3: \"Pivot Like A Champion\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "3-out-of-10-ep-3/home",
+  "urlSlug": "3-out-of-10-ep",
+  "creationDate": "2020-06-23T02:44:32.444Z",
+  "lastModifiedDate": "2020-08-24T14:27:55.449Z",
+  "effectiveDate": "2020-08-20T15:00:00.000Z",
+  "viewableDate": "2020-08-20T14:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "name": "Terrible Posture Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-08-27T17:09:44.506Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-08-27T15:58:24.124Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-01T17:04:12.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Terrible Posture Games, Inc"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "3-out-of-10-ep-3/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S3-2560x1440-7015c90901b6e3dfe9decc37d8967e3b.jpg",
+      "md5": "7015c90901b6e3dfe9decc37d8967e3b",
+      "size": 826636,
+      "uploadedDate": "2020-08-20T02:03:43.820Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
+      "md5": "417d1f1a3b308912028818b6cb0834cb",
+      "size": 561944,
+      "uploadedDate": "2020-08-20T02:04:17.460Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_G1A_01-1920x1080-f7d8f80df28667c85ffd563d637ce18b.jpg",
+      "md5": "f7d8f80df28667c85ffd563d637ce18b",
+      "size": 565248,
+      "uploadedDate": "2020-08-20T02:04:32.698Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
+      "md5": "417d1f1a3b308912028818b6cb0834cb",
+      "size": 561944,
+      "uploadedDate": "2020-08-20T02:04:41.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
+      "md5": "417d1f1a3b308912028818b6cb0834cb",
+      "size": 561944,
+      "uploadedDate": "2020-08-20T02:04:55.563Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f4bbbc20a6b74295ac82b7c258739bff/offer/EGS_3outof10EP3PivotLikeAChampion_TerriblePostureGamesInc_S2-1200x1600-417d1f1a3b308912028818b6cb0834cb.jpg",
+      "md5": "417d1f1a3b308912028818b6cb0834cb",
+      "size": 561944,
+      "uploadedDate": "2020-08-20T02:05:13.564Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b70165fc37bb447d8f1d7449cdded91f"
+    }
+  ],
+  "catalogNs": null
+}

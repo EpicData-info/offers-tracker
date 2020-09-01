@@ -1,0 +1,56 @@
+{
+  "id": "aafbe6800d9f4e50aa896139ed45554a",
+  "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
+  "title": "CopenhagenGeneralAudience",
+  "description": "CopenhagenGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "copenhagengeneralaudience",
+  "creationDate": "2020-07-01T18:09:49.734Z",
+  "lastModifiedDate": "2020-09-01T16:35:07.340Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
+    "name": "Headup Gmbh"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "bea809c73675401b82f38d9ed72443dc"
+    }
+  ],
+  "catalogNs": null
+}

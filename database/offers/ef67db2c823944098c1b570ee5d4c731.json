@@ -8,7 +8,7 @@
   "productSlug": "3-out-of-10-ep-1/soundtrack",
   "urlSlug": "floundersoundtrack",
   "creationDate": "2020-07-29T18:52:19.168Z",
-  "lastModifiedDate": "2020-08-06T15:16:37.617Z",
+  "lastModifiedDate": "2020-08-24T14:15:47.663Z",
   "effectiveDate": "2020-08-06T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -44,8 +44,30 @@
     }
   ],
   "tags": [
-    null,
-    null
+    {
+      "id": "1321",
+      "name": "GREAT SOUNDTRACK",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:58.050Z",
+      "updated": "2020-08-24T14:15:47.741Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-01T17:53:45.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

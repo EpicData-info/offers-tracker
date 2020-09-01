@@ -1,0 +1,193 @@
+{
+  "id": "fc589c4813fc447280d432bc8c39081a",
+  "namespace": "17a1f8585f9246808597b30780aaf4fb",
+  "title": "Crysis Remastered",
+  "description": "Crysis Remastered Pre-Purchase",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "crysis-remastered",
+  "urlSlug": "crysis-remastered",
+  "creationDate": "2020-06-29T13:36:49.041Z",
+  "lastModifiedDate": "2020-09-01T14:28:50.530Z",
+  "effectiveDate": "2020-09-18T15:00:00.000Z",
+  "viewableDate": "2020-09-01T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3vwngp9neexv58akmmcd67srxym3a4",
+    "name": "Crytek"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-01T14:28:50.640Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-01T17:36:52.237Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-01T14:28:50.656Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-01T17:53:45.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "Crytek"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "crysis-remastered"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S1-2560x1440-4f8d106c1c528b43836bcf6b9f52f0cf.jpg",
+      "md5": "4f8d106c1c528b43836bcf6b9f52f0cf",
+      "size": 959911,
+      "uploadedDate": "2020-06-30T22:29:33.264Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S4-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
+      "md5": "45e894b4daa06064cf2ae91bccf6221b",
+      "size": 473426,
+      "uploadedDate": "2020-06-30T22:29:48.324Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
+      "md5": "45e894b4daa06064cf2ae91bccf6221b",
+      "size": 473426,
+      "uploadedDate": "2020-06-30T22:30:14.799Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
+      "md5": "45e894b4daa06064cf2ae91bccf6221b",
+      "size": 473426,
+      "uploadedDate": "2020-06-30T22:30:30.384Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S2-1200x1600-45e894b4daa06064cf2ae91bccf6221b.jpg",
+      "md5": "45e894b4daa06064cf2ae91bccf6221b",
+      "size": 473426,
+      "uploadedDate": "2020-06-30T22:30:41.830Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/17a1f8585f9246808597b30780aaf4fb/offer/EGS_CrysisRemastered_Crytek_S1-2560x1440-4f8d106c1c528b43836bcf6b9f52f0cf.jpg",
+      "md5": "4f8d106c1c528b43836bcf6b9f52f0cf",
+      "size": 959911,
+      "uploadedDate": "2020-06-30T22:30:58.050Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "cf59831426664cd0ad8a2148c4bd627b"
+    },
+    {
+      "id": "0f3a79560c854fc1aa215dc7f3072e84"
+    }
+  ],
+  "catalogNs": null
+}

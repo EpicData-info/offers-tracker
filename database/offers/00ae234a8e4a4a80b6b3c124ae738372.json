@@ -1,0 +1,181 @@
+{
+  "id": "00ae234a8e4a4a80b6b3c124ae738372",
+  "namespace": "d6a3cae34c5d4562832610b5b8664576",
+  "title": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
+  "description": "3 out of 10, EP 4: \"Thank You For Being An Asset\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "3-out-of-10-ep-4",
+  "urlSlug": "3-out-of-10-ep",
+  "creationDate": "2020-06-23T03:00:44.014Z",
+  "lastModifiedDate": "2020-08-27T04:00:08.191Z",
+  "effectiveDate": "2020-08-27T15:00:00.000Z",
+  "viewableDate": "2020-08-27T14:50:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "name": "Terrible Posture Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-08-27T17:09:44.506Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-08-27T15:58:24.124Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-01T12:45:12.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-01T17:04:12.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Terrible Posture Games, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "3-out-of-10-ep-4"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
+      "md5": "fcaf73701007096c6abc01415788d4c3",
+      "size": 881840,
+      "uploadedDate": "2020-08-25T22:38:28.072Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:38:37.756Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:38:50.494Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S1-2560x1440-fcaf73701007096c6abc01415788d4c3.jpg",
+      "md5": "fcaf73701007096c6abc01415788d4c3",
+      "size": 881840,
+      "uploadedDate": "2020-08-25T22:39:03.613Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:39:13.835Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d6a3cae34c5d4562832610b5b8664576/offer/EGS_3outof10EP4ThankYouForBeingAnAsset_TerriblePostureGamesInc_S2-1200x1600-1a465a21d91318bd7d0f6a7b968d4797.jpg",
+      "md5": "1a465a21d91318bd7d0f6a7b968d4797",
+      "size": 541020,
+      "uploadedDate": "2020-08-25T22:39:23.627Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "821516f0ed8448b89b7fe0e1e4628e03"
+    }
+  ],
+  "catalogNs": null
+}

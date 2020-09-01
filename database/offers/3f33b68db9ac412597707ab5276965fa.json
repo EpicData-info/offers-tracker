@@ -1,0 +1,202 @@
+{
+  "id": "3f33b68db9ac412597707ab5276965fa",
+  "namespace": "d3288d6aaf794eb4821bab4c5ba08a0a",
+  "title": "New Super Lucky's Tale",
+  "description": "New Super Lucky's Tale",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "new-super-luckys-tale",
+  "urlSlug": "peterbaldgeneralaudience",
+  "creationDate": "2020-05-09T02:25:03.887Z",
+  "lastModifiedDate": "2020-08-21T11:49:32.883Z",
+  "effectiveDate": "2020-08-21T12:00:00.000Z",
+  "viewableDate": "2020-08-21T12:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-gf6fqdtucpxrnnl5nzhfagm8lbavrs",
+    "name": "Playful Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-01T17:36:52.182Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-08-28T11:58:21.230Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-01T17:53:45.080Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-01T17:04:12.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-01T12:45:12.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-08-21T11:49:32.951Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Playful Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "new-super-luckys-tale"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S5-1920x1080-87e8ef98b49a1fe926a9d83639de0a3a.jpg",
+      "md5": "87e8ef98b49a1fe926a9d83639de0a3a",
+      "size": 850197,
+      "uploadedDate": "2020-06-03T16:38:33.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S6-1200x1600-d4890c3b4a3f59cbf3fcf8af73f233a3.jpg",
+      "md5": "d4890c3b4a3f59cbf3fcf8af73f233a3",
+      "size": 662171,
+      "uploadedDate": "2020-06-03T16:38:41.232Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S6-1200x1600-d4890c3b4a3f59cbf3fcf8af73f233a3.jpg",
+      "md5": "d4890c3b4a3f59cbf3fcf8af73f233a3",
+      "size": 662171,
+      "uploadedDate": "2020-06-03T16:38:49.381Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S6-1200x1600-d4890c3b4a3f59cbf3fcf8af73f233a3.jpg",
+      "md5": "d4890c3b4a3f59cbf3fcf8af73f233a3",
+      "size": 662171,
+      "uploadedDate": "2020-06-03T16:38:59.055Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S5-1920x1080-87e8ef98b49a1fe926a9d83639de0a3a.jpg",
+      "md5": "87e8ef98b49a1fe926a9d83639de0a3a",
+      "size": 850197,
+      "uploadedDate": "2020-06-03T16:39:20.795Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d3288d6aaf794eb4821bab4c5ba08a0a/offer/EGS_NewSuperLuckysTale_PlayfulStudios_S6-1200x1600-d4890c3b4a3f59cbf3fcf8af73f233a3.jpg",
+      "md5": "d4890c3b4a3f59cbf3fcf8af73f233a3",
+      "size": 662171,
+      "uploadedDate": "2020-06-03T16:39:29.441Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "3b1f681e4fff4278bdb27bc5ff7056f6"
+    }
+  ],
+  "catalogNs": null
+}

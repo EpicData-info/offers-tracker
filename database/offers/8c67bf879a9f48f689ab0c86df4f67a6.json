@@ -1,0 +1,158 @@
+{
+  "id": "8c67bf879a9f48f689ab0c86df4f67a6",
+  "namespace": "a8400ce7530e4479b32dcaf0e92fce57",
+  "title": "Shadowrun Returns",
+  "description": "Shadowrun Returns",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "shadowrun-returns/home",
+  "urlSlug": "shadowrun-returns",
+  "creationDate": "2020-06-18T23:30:57.234Z",
+  "lastModifiedDate": "2020-08-27T14:42:59.929Z",
+  "effectiveDate": "2020-08-27T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-08-28T12:11:52.391Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-01T13:12:38.561Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Harebrained Schemes"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "shadowrun-returns/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S1-2560x1440-f0d27c470f5a97f4304c7feac6317c5f.jpg",
+      "md5": "f0d27c470f5a97f4304c7feac6317c5f",
+      "size": 955622,
+      "uploadedDate": "2020-08-20T02:14:08.402Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S2-1200x1600-1b2d163bea47f6b25415762e78aa0376.jpg",
+      "md5": "1b2d163bea47f6b25415762e78aa0376",
+      "size": 970182,
+      "uploadedDate": "2020-08-20T02:14:14.977Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S1-2560x1440-f0d27c470f5a97f4304c7feac6317c5f.jpg",
+      "md5": "f0d27c470f5a97f4304c7feac6317c5f",
+      "size": 955622,
+      "uploadedDate": "2020-08-20T02:14:25.640Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S2-1200x1600-1b2d163bea47f6b25415762e78aa0376.jpg",
+      "md5": "1b2d163bea47f6b25415762e78aa0376",
+      "size": 970182,
+      "uploadedDate": "2020-08-20T02:14:42.954Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S2-1200x1600-1b2d163bea47f6b25415762e78aa0376.jpg",
+      "md5": "1b2d163bea47f6b25415762e78aa0376",
+      "size": 970182,
+      "uploadedDate": "2020-08-20T02:14:53.000Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a8400ce7530e4479b32dcaf0e92fce57/offer/EGS_ShadowrunReturns_HarebrainedSchemes_S2-1200x1600-1b2d163bea47f6b25415762e78aa0376.jpg",
+      "md5": "1b2d163bea47f6b25415762e78aa0376",
+      "size": 970182,
+      "uploadedDate": "2020-08-20T02:15:07.491Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "be5db329712c4b4f8b4094a4c0003408"
+    }
+  ],
+  "catalogNs": null
+}

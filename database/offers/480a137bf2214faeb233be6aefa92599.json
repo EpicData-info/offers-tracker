@@ -1,0 +1,81 @@
+{
+  "id": "480a137bf2214faeb233be6aefa92599",
+  "namespace": "36336ee97ec543bbae85abaca618182b",
+  "title": "3750 coins",
+  "description": "3750 coins",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "diabotical/home",
+  "urlSlug": "honeycreepergeneralaudience-08",
+  "creationDate": "2020-08-24T12:57:12.234Z",
+  "lastModifiedDate": "2020-08-28T18:11:51.740Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-376adequh7aazkj2cky8h6aezvju5h",
+    "name": "The GD Studio"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-01T17:04:12.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "The GD Studio"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "diabotical/home"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "2bdc9ae1e23b47da9c1379079257e824"
+    }
+  ],
+  "catalogNs": null
+}

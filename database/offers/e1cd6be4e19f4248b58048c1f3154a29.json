@@ -8,7 +8,7 @@
   "productSlug": "wrc-8/home",
   "urlSlug": "woodpeckergeneralaudience",
   "creationDate": "2019-08-07T18:06:40.446Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.597Z",
+  "lastModifiedDate": "2020-09-01T14:56:01.318Z",
   "effectiveDate": "2019-01-01T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -38,9 +38,54 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-01T17:36:52.237Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-09-01T16:02:48.557Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-01T17:36:52.219Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

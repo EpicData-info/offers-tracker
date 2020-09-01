@@ -1,0 +1,118 @@
+{
+  "id": "3066be83ddf44541b9d6d7b05f09485f",
+  "namespace": "f312bc218b1d46f7921619cc9f3bf3c7",
+  "title": "Iron Harvest Deluxe Edition",
+  "description": "Iron Harvest Deluxe Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "iron-harvest/deluxe-edition",
+  "urlSlug": "iron-harvest-deluxe",
+  "creationDate": "2020-06-09T19:13:47.330Z",
+  "lastModifiedDate": "2020-09-01T17:36:52.117Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-09-01T17:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Deep Silver"
+    },
+    {
+      "key": "developerName",
+      "value": "King Art Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "iron-harvest/deluxe-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/IHDex_tall-510x680-e32ca30b792ec25c6eee5cf866a86ab5.jpg",
+      "md5": "e32ca30b792ec25c6eee5cf866a86ab5",
+      "size": 408883,
+      "uploadedDate": "2020-07-29T15:25:50.401Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/IHDex_wide-1160x866-86d034da9d61cf2f0a1d82002e527601.jpg",
+      "md5": "86d034da9d61cf2f0a1d82002e527601",
+      "size": 1027725,
+      "uploadedDate": "2020-07-29T15:25:58.729Z",
+      "width": 1160,
+      "height": 866
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Free_Games_Desktop_vertical-510x680-e32ca30b792ec25c6eee5cf866a86ab5.jpg",
+      "md5": "e32ca30b792ec25c6eee5cf866a86ab5",
+      "size": 408883,
+      "uploadedDate": "2020-09-01T16:29:03.548Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Free_Games_Desktop_horizontal-1060x596-c4d0e4209ee6092e5b284572db83fbe4.jpg",
+      "md5": "c4d0e4209ee6092e5b284572db83fbe4",
+      "size": 699824,
+      "uploadedDate": "2020-09-01T16:29:13.389Z",
+      "width": 1060,
+      "height": 596
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Free_Games_Desktop_vertical-510x680-e32ca30b792ec25c6eee5cf866a86ab5.jpg",
+      "md5": "e32ca30b792ec25c6eee5cf866a86ab5",
+      "size": 408883,
+      "uploadedDate": "2020-09-01T16:29:24.231Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f312bc218b1d46f7921619cc9f3bf3c7/offer/Free_Games_Desktop_vertical-510x680-e32ca30b792ec25c6eee5cf866a86ab5.jpg",
+      "md5": "e32ca30b792ec25c6eee5cf866a86ab5",
+      "size": 408883,
+      "uploadedDate": "2020-09-01T16:29:31.883Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "46808e6c06cd4f0fa17732c56c17ad16"
+    }
+  ],
+  "catalogNs": null
+}
