@@ -39,18 +39,7 @@
   ],
   "tags": [
     null,
-    {
-      "id": "1344",
-      "name": "FIGHTING",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:09.322Z",
-      "updated": "2020-08-27T16:43:46.341Z",
-      "status": "ACTIVE",
-      "referenceCount": 8,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -97,20 +86,6 @@
       "updated": "2020-09-01T16:23:22.662Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "10719",
-      "name": "MAC OS",
-      "namespace": "epic",
-      "aliases": [
-        "OSX"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-27T08:58:46.675Z",
-      "status": "ACTIVE",
-      "referenceCount": 19,
       "comment": null
     }
   ],

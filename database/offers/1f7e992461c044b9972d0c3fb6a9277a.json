@@ -38,34 +38,23 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "1233",
-      "name": "BASE-BUILDING",
+      "id": "1185",
+      "name": "FPS",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:00:14.176Z",
-      "updated": "2020-05-13T21:05:17.873Z",
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-01T14:28:50.640Z",
       "status": "ACTIVE",
-      "referenceCount": 1,
+      "referenceCount": 2,
       "comment": null
     },
     null,
     null,
     null,
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-01T12:45:12.651Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {
