@@ -5,10 +5,10 @@
   "description": "Maverick Pack",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "thecycle/maverick-pack",
   "urlSlug": "test-pack",
   "creationDate": "2020-04-10T21:50:11.434Z",
-  "lastModifiedDate": "2020-08-19T11:55:26.353Z",
+  "lastModifiedDate": "2020-09-02T18:24:32.671Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -40,6 +40,10 @@
     {
       "key": "developerName",
       "value": "YAGER"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thecycle/maverick-pack"
     }
   ],
   "keyImages": [
@@ -60,6 +64,42 @@
       "uploadedDate": "2020-07-08T12:29:04.093Z",
       "width": 2149,
       "height": 2756
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/EGS_MaverickStarterPack_YAGER_AddOn_S2-1200x1600-a716219db29069d5e7ce467dc105beb0.jpg",
+      "md5": "a716219db29069d5e7ce467dc105beb0",
+      "size": 591400,
+      "uploadedDate": "2020-09-02T18:22:32.608Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/EGS_MaverickStarterPack_YAGER_AddOn_S2-1200x1600-a716219db29069d5e7ce467dc105beb0.jpg",
+      "md5": "a716219db29069d5e7ce467dc105beb0",
+      "size": 591400,
+      "uploadedDate": "2020-09-02T18:22:45.212Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/EGS_MaverickStarterPack_YAGER_AddOn_S1-2560x1440-87f77497045b2639b1652bdde77da962.jpg",
+      "md5": "87f77497045b2639b1652bdde77da962",
+      "size": 974192,
+      "uploadedDate": "2020-09-02T18:22:58.404Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/EGS_MaverickStarterPack_YAGER_AddOn_S1-2560x1440-87f77497045b2639b1652bdde77da962.jpg",
+      "md5": "87f77497045b2639b1652bdde77da962",
+      "size": 974192,
+      "uploadedDate": "2020-09-02T18:23:21.539Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [

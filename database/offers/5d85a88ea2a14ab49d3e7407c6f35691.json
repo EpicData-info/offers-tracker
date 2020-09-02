@@ -5,10 +5,10 @@
   "description": "Most Wanted Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "thecycle/most-wanted-pack",
   "urlSlug": "founders-pack-05",
   "creationDate": "2020-02-21T16:20:27.569Z",
-  "lastModifiedDate": "2020-08-19T11:55:26.348Z",
+  "lastModifiedDate": "2020-09-02T18:35:11.297Z",
   "effectiveDate": "2019-06-14T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -40,6 +40,10 @@
     {
       "key": "developerName",
       "value": "YAGER"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thecycle/most-wanted-pack"
     }
   ],
   "keyImages": [
@@ -69,6 +73,42 @@
       "uploadedDate": "2020-02-26T02:40:23.946Z",
       "width": 672,
       "height": 1104
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_L-672x1104-fd25f77240266cd3a804cf4ede33a52e-672x1104-fd25f77240266cd3a804cf4ede33a52e.png",
+      "md5": "fd25f77240266cd3a804cf4ede33a52e",
+      "size": 1097200,
+      "uploadedDate": "2020-09-02T18:32:52.841Z",
+      "width": 672,
+      "height": 1104
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/c633f19f-8a8f-4563-8c7d-b34353ccf4c5-1920x1080-0f10531e8f4028c85bed61fee5245aed.jpg",
+      "md5": "0f10531e8f4028c85bed61fee5245aed",
+      "size": 724886,
+      "uploadedDate": "2020-09-02T18:33:16.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_L-672x1104-fd25f77240266cd3a804cf4ede33a52e-672x1104-fd25f77240266cd3a804cf4ede33a52e.png",
+      "md5": "fd25f77240266cd3a804cf4ede33a52e",
+      "size": 1097200,
+      "uploadedDate": "2020-09-02T18:33:47.335Z",
+      "width": 672,
+      "height": 1104
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/c633f19f-8a8f-4563-8c7d-b34353ccf4c5-1920x1080-0f10531e8f4028c85bed61fee5245aed.jpg",
+      "md5": "0f10531e8f4028c85bed61fee5245aed",
+      "size": 724886,
+      "uploadedDate": "2020-09-02T18:34:25.263Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [

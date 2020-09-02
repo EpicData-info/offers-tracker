@@ -5,10 +5,10 @@
   "description": "Gunslinger Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "thecycle/gunslinger-pack",
   "urlSlug": "founders-pack-04",
   "creationDate": "2020-02-21T16:19:42.554Z",
-  "lastModifiedDate": "2020-08-19T11:55:26.343Z",
+  "lastModifiedDate": "2020-09-02T18:31:10.522Z",
   "effectiveDate": "2019-06-14T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -40,6 +40,10 @@
     {
       "key": "developerName",
       "value": "YAGER"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "thecycle/gunslinger-pack"
     }
   ],
   "keyImages": [
@@ -69,6 +73,42 @@
       "uploadedDate": "2020-02-26T02:39:17.408Z",
       "width": 672,
       "height": 1104
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png",
+      "md5": "6891fea57cfa2f8d73f903dba3d8f8fd",
+      "size": 928701,
+      "uploadedDate": "2020-09-02T18:28:46.018Z",
+      "width": 672,
+      "height": 1104
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/7aefa1ed-c1b8-47ed-ae28-21b4df3a9de9-2560x1440-146fd33632cf707e10b6f01a321b2aa6.jpg",
+      "md5": "146fd33632cf707e10b6f01a321b2aa6",
+      "size": 679939,
+      "uploadedDate": "2020-09-02T18:29:18.293Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/azalea/offer/UI_Art_StarterPacks_M-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd-672x1104-6891fea57cfa2f8d73f903dba3d8f8fd.png",
+      "md5": "6891fea57cfa2f8d73f903dba3d8f8fd",
+      "size": 928701,
+      "uploadedDate": "2020-09-02T18:29:56.633Z",
+      "width": 672,
+      "height": 1104
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/azalea/offer/983c5dac-0c40-487c-918b-fc71b9278763-1920x1080-049a74b8974b95c1fb0ceca3ffde0e2a.jpg",
+      "md5": "049a74b8974b95c1fb0ceca3ffde0e2a",
+      "size": 947953,
+      "uploadedDate": "2020-09-02T18:30:17.463Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
