@@ -36,23 +36,33 @@
   ],
   "tags": [
     null,
+    null,
+    null,
+    null,
     {
-      "id": "1080",
-      "name": "SURVIVAL",
+      "id": "9547",
+      "name": "WINDOWS",
       "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-08-28T11:58:21.217Z",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-01T17:53:45.101Z",
       "status": "ACTIVE",
-      "referenceCount": 11,
+      "referenceCount": 259,
       "comment": null
     },
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-01T12:45:12.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
