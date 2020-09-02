@@ -47,18 +47,7 @@
       "referenceCount": 46,
       "comment": null
     },
-    {
-      "id": "1080",
-      "name": "SURVIVAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:58:58.070Z",
-      "updated": "2020-08-28T11:58:21.217Z",
-      "status": "ACTIVE",
-      "referenceCount": 11,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -95,18 +84,8 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-01T12:45:12.651Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    }
+    null,
+    null
   ],
   "customAttributes": [
     {
