@@ -1,0 +1,193 @@
+{
+  "id": "c07da5bf3aeb4e529b95c6a2fb7c0891",
+  "namespace": "newt",
+  "title": "Mage Pack",
+  "description": "Add the Mage Pack to your existing Spellbreak access.",
+  "longDescription": "Add the Mage Pack to your existing Spellbreak access.",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "spellbreak--mage-dlc-pack-01",
+  "creationDate": "2020-08-13T16:53:35.744Z",
+  "lastModifiedDate": "2020-09-02T15:33:58.641Z",
+  "effectiveDate": "2020-08-27T15:00:00.000Z",
+  "viewableDate": "2020-08-27T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-umuuzpzyfsw8wvcn4xpyh7ksmyhflg",
+    "name": "Proletariat, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-02T15:33:58.700Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-02T15:33:58.711Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-09-02T15:33:58.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-02T15:33:58.722Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-02T15:33:58.739Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-02T15:33:58.750Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Proletariat Inc"
+    },
+    {
+      "key": "SupportedPlatforms",
+      "value": "Windows"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S1-2560x1440-eca91747ec743f05c2c97305208113ba.jpg",
+      "md5": "eca91747ec743f05c2c97305208113ba",
+      "size": 897959,
+      "uploadedDate": "2020-08-25T12:40:33.840Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S2-1200x1600-82261547563bf9062ec41dc258f76a30.jpg",
+      "md5": "82261547563bf9062ec41dc258f76a30",
+      "size": 906542,
+      "uploadedDate": "2020-08-25T12:40:58.427Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S1-2560x1440-eca91747ec743f05c2c97305208113ba.jpg",
+      "md5": "eca91747ec743f05c2c97305208113ba",
+      "size": 897959,
+      "uploadedDate": "2020-08-25T12:41:14.483Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S2-1200x1600-82261547563bf9062ec41dc258f76a30.jpg",
+      "md5": "82261547563bf9062ec41dc258f76a30",
+      "size": 906542,
+      "uploadedDate": "2020-08-25T12:41:22.146Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S2-1200x1600-82261547563bf9062ec41dc258f76a30.jpg",
+      "md5": "82261547563bf9062ec41dc258f76a30",
+      "size": 906542,
+      "uploadedDate": "2020-08-25T12:41:33.401Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/newt/offer/EGS_MagePack_ProletariatInc_DLC_S2-1200x1600-82261547563bf9062ec41dc258f76a30.jpg",
+      "md5": "82261547563bf9062ec41dc258f76a30",
+      "size": 906542,
+      "uploadedDate": "2020-08-25T12:42:21.044Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "82bc49fddfb244c899377f0b431e6495"
+    },
+    {
+      "id": "ea1a14d12a8c4d77b91efb9ef9b598ca"
+    }
+  ],
+  "catalogNs": null
+}
