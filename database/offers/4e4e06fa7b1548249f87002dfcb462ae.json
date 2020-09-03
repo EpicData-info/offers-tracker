@@ -29,11 +29,66 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-08-27T15:58:24.114Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-03T22:04:55.406Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-03T22:04:55.423Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-09-03T15:08:30.761Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1084",
+      "name": "STEALTH",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:00.299Z",
+      "updated": "2020-09-03T15:00:19.194Z",
+      "status": "ACTIVE",
+      "referenceCount": 9,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
