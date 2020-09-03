@@ -1,0 +1,194 @@
+{
+  "id": "2c328a34978546a487861d442713a8e0",
+  "namespace": "9cf250606722448887fa1447b1d9da06",
+  "title": "WRC 9 FIA World Rally Championship",
+  "description": "WRC 9 FIA World Rally Championship WRC9",
+  "longDescription": "",
+  "status": "ACTIVE",
+  "productSlug": "wrc-9",
+  "urlSlug": "kagugeneralaudience",
+  "creationDate": "2019-09-12T18:24:30.808Z",
+  "lastModifiedDate": "2020-09-03T14:26:23.518Z",
+  "effectiveDate": "2020-09-03T14:55:00.000Z",
+  "viewableDate": "2020-09-03T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-03T15:08:08.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-03T15:08:08.219Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-09-03T15:08:08.181Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-03T15:08:08.204Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-03T15:08:30.708Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1212",
+      "name": "RACING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:03.663Z",
+      "updated": "2020-09-03T15:08:08.257Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nacon"
+    },
+    {
+      "key": "developerName",
+      "value": "KT Racing"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "wrc-9"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg",
+      "md5": "02b75e7bdcabd1addc129dcb3ab1d16d",
+      "size": 913835,
+      "uploadedDate": "2020-06-28T18:38:31.927Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "size": 257507,
+      "uploadedDate": "2020-06-28T18:38:40.605Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "size": 257507,
+      "uploadedDate": "2020-06-28T18:38:52.359Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "size": 257507,
+      "uploadedDate": "2020-06-28T18:39:01.962Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S1-2560x1440-02b75e7bdcabd1addc129dcb3ab1d16d.jpg",
+      "md5": "02b75e7bdcabd1addc129dcb3ab1d16d",
+      "size": 913835,
+      "uploadedDate": "2020-06-28T18:39:26.352Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9cf250606722448887fa1447b1d9da06/offer/EGS_WRC9FIAWorldRallyChampionship_KTRacing_S2-1200x1600-2e92991d2eb3440be53f4c41a53d1b3b.jpg",
+      "md5": "2e92991d2eb3440be53f4c41a53d1b3b",
+      "size": 257507,
+      "uploadedDate": "2020-06-28T18:39:49.172Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "b11f7f28d936465791a08d2f88c394cf"
+    }
+  ],
+  "catalogNs": null
+}

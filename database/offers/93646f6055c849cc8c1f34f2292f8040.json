@@ -8,7 +8,7 @@
   "productSlug": "3-out-of-10-ep-5",
   "urlSlug": "empanadageneralaudience",
   "creationDate": "2020-06-23T03:14:58.892Z",
-  "lastModifiedDate": "2020-09-03T14:29:08.062Z",
+  "lastModifiedDate": "2020-09-03T15:08:30.546Z",
   "effectiveDate": "2020-09-03T15:00:00.000Z",
   "viewableDate": "2020-09-03T14:20:00.000Z",
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -48,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-09-03T14:29:08.099Z",
+      "updated": "2020-09-03T15:08:30.688Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -60,7 +57,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-03T14:48:15.163Z",
+      "updated": "2020-09-03T15:08:30.708Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -72,21 +69,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.126Z",
-      "updated": "2020-09-03T14:29:08.156Z",
+      "updated": "2020-09-03T15:08:30.761Z",
       "status": "ACTIVE",
       "referenceCount": 8,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-03T14:29:08.144Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
       "comment": null
     },
     {
@@ -96,9 +81,21 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-03T14:29:08.131Z",
+      "updated": "2020-09-03T15:08:30.728Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-03T15:08:30.744Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
       "comment": null
     }
   ],
