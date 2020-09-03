@@ -1,0 +1,181 @@
+{
+  "id": "93646f6055c849cc8c1f34f2292f8040",
+  "namespace": "6a70006d598948bfa6c71ceb334ad635",
+  "title": "3 out of 10, EP 5: \"The Rig Is Up!\"",
+  "description": "3 out of 10, EP 5: \"The Rig Is Up!\"",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "3-out-of-10-ep-5",
+  "urlSlug": "empanadageneralaudience",
+  "creationDate": "2020-06-23T03:14:58.892Z",
+  "lastModifiedDate": "2020-09-03T14:29:08.062Z",
+  "effectiveDate": "2020-09-03T15:00:00.000Z",
+  "viewableDate": "2020-09-03T14:20:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "name": "Terrible Posture Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-09-03T14:29:08.099Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-03T14:31:09.525Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1116",
+      "name": "COMEDY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.126Z",
+      "updated": "2020-09-03T14:29:08.156Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-03T14:29:08.144Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-03T14:29:08.131Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Terrible Posture Games, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "3-out-of-10-ep-5"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S1-2560x1440-90a716d5080e7d7f9aefd3bd647c3b6d.jpg",
+      "md5": "90a716d5080e7d7f9aefd3bd647c3b6d",
+      "size": 766217,
+      "uploadedDate": "2020-09-02T20:18:13.796Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+      "md5": "230f1086d959795ef3df6ce69f915cc6",
+      "size": 481236,
+      "uploadedDate": "2020-09-02T20:18:22.441Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+      "md5": "230f1086d959795ef3df6ce69f915cc6",
+      "size": 481236,
+      "uploadedDate": "2020-09-02T20:18:50.295Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S1-2560x1440-90a716d5080e7d7f9aefd3bd647c3b6d.jpg",
+      "md5": "90a716d5080e7d7f9aefd3bd647c3b6d",
+      "size": 766217,
+      "uploadedDate": "2020-09-02T20:19:04.809Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+      "md5": "230f1086d959795ef3df6ce69f915cc6",
+      "size": 481236,
+      "uploadedDate": "2020-09-02T20:19:15.596Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6a70006d598948bfa6c71ceb334ad635/offer/EGS_3outof10EP5TheRigIsUp_TerriblePostureGamesInc_S2-1200x1600-230f1086d959795ef3df6ce69f915cc6.jpg",
+      "md5": "230f1086d959795ef3df6ce69f915cc6",
+      "size": 481236,
+      "uploadedDate": "2020-09-02T20:19:25.546Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "70a9d1c7268d478fb68015081cc109b3"
+    }
+  ],
+  "catalogNs": null
+}
