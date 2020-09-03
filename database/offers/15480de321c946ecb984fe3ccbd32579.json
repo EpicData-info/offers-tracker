@@ -40,10 +40,32 @@
   "tags": [
     null,
     null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-02T20:25:16.036Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     null,
     null,
-    null,
-    null
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-01T12:45:12.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

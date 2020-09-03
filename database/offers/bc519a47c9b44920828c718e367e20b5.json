@@ -38,10 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1281",
+      "name": "SPACE SIM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2020-04-02T01:42:00.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-02T20:25:16.036Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     null
   ],
   "customAttributes": [

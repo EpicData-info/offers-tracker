@@ -38,10 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1265",
+      "name": "DUNGEON CRAWLER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:30.259Z",
+      "updated": "2020-08-06T15:01:13.322Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-08-27T17:09:44.506Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     null,
     null
   ],
