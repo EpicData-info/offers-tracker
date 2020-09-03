@@ -78,7 +78,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-03T13:00:31.863Z",
+      "updated": "2020-09-03T14:11:53.269Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -90,12 +90,23 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-03T13:38:25.585Z",
+      "updated": "2020-09-03T14:11:53.298Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
     },
-    null
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-01T13:53:52.424Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
