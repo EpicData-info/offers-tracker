@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-03T15:06:04.472Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1264",
       "name": "CO-OP",
@@ -53,18 +42,7 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-03T15:08:08.219Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -77,18 +55,7 @@
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-09-03T17:05:54.684Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -99,30 +66,6 @@
       "updated": "2020-09-03T17:05:54.657Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-03T17:05:54.673Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-03T13:38:25.596Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
