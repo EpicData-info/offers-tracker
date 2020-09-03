@@ -62,8 +62,30 @@
       "referenceCount": 27,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-01T14:28:50.640Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-09-01T14:27:12.789Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -76,7 +98,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1220",
+      "name": "ZOMBIES",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:07.628Z",
+      "updated": "2020-07-31T02:48:15.977Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
     {
       "id": "1080",
       "name": "SURVIVAL",
@@ -113,8 +146,30 @@
       "referenceCount": 0,
       "comment": null
     },
-    null,
-    null,
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-02T20:25:16.058Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-01T13:53:52.424Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    },
     {
       "id": "1279",
       "name": "VAMPIRE",
@@ -126,12 +181,7 @@
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
-    },
-    null,
-    null,
-    null,
-    null,
-    null
+    }
   ],
   "customAttributes": [
     {
