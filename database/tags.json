@@ -59,18 +59,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1102": {
-    "id": "1102",
-    "name": "PROGRAMMING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:09.264Z",
-    "updated": "2020-04-02T01:41:35.676Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
-    "comment": null
-  },
   "1110": {
     "id": "1110",
     "name": "PARTY",
@@ -251,18 +239,6 @@
     "referenceCount": 5,
     "comment": null
   },
-  "1183": {
-    "id": "1183",
-    "name": "LOCAL MULTIPLAYER",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:49.408Z",
-    "updated": "2020-05-14T19:35:51.519Z",
-    "status": "ACTIVE",
-    "referenceCount": 1,
-    "comment": null
-  },
   "1185": {
     "id": "1185",
     "name": "FPS",
@@ -318,7 +294,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:02.690Z",
-    "updated": "2020-09-03T15:00:19.154Z",
+    "updated": "2020-09-03T17:05:54.684Z",
     "status": "ACTIVE",
     "referenceCount": 28,
     "comment": null
@@ -371,18 +347,6 @@
     "referenceCount": 0,
     "comment": null
   },
-  "1233": {
-    "id": "1233",
-    "name": "BASE-BUILDING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:14.176Z",
-    "updated": "2020-05-13T21:05:17.873Z",
-    "status": "ACTIVE",
-    "referenceCount": 1,
-    "comment": null
-  },
   "1247": {
     "id": "1247",
     "name": "METROIDVANIA",
@@ -426,7 +390,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:29.700Z",
-    "updated": "2020-09-03T13:00:31.897Z",
+    "updated": "2020-09-03T17:05:54.697Z",
     "status": "ACTIVE",
     "referenceCount": 27,
     "comment": null
@@ -453,18 +417,6 @@
     "updated": "2020-09-03T13:38:25.596Z",
     "status": "ACTIVE",
     "referenceCount": 3,
-    "comment": null
-  },
-  "1281": {
-    "id": "1281",
-    "name": "SPACE SIM",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:00:38.182Z",
-    "updated": "2020-04-02T01:42:00.031Z",
-    "status": "ACTIVE",
-    "referenceCount": 4,
     "comment": null
   },
   "1283": {
@@ -558,7 +510,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:51.191Z",
-    "updated": "2020-08-28T21:25:29.096Z",
+    "updated": "2020-09-03T17:05:54.623Z",
     "status": "ACTIVE",
     "referenceCount": 32,
     "comment": null
@@ -659,18 +611,6 @@
     "referenceCount": 8,
     "comment": null
   },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
-    "comment": null
-  },
   "1349": {
     "id": "1349",
     "name": "FAST-PACED",
@@ -702,7 +642,7 @@
     "aliases": [],
     "operator": null,
     "created": "2019-06-20T12:01:22.169Z",
-    "updated": "2020-09-03T15:08:08.204Z",
+    "updated": "2020-09-03T17:05:54.641Z",
     "status": "ACTIVE",
     "referenceCount": 195,
     "comment": null
@@ -774,7 +714,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:18.435Z",
-    "updated": "2020-09-03T15:08:30.708Z",
+    "updated": "2020-09-03T17:05:54.657Z",
     "status": "ACTIVE",
     "referenceCount": 259,
     "comment": null
@@ -801,7 +741,7 @@
     "aliases": [],
     "operator": "kimberly.rodatos",
     "created": "2019-10-11T02:43:42.533Z",
-    "updated": "2020-09-03T15:08:30.728Z",
+    "updated": "2020-09-03T17:05:54.673Z",
     "status": "ACTIVE",
     "referenceCount": 103,
     "comment": null
