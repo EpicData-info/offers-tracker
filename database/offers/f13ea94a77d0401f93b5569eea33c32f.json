@@ -5,12 +5,12 @@
   "description": "Fan pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "diabotical/home",
+  "productSlug": "diabotical/fan-pack",
   "urlSlug": "honeycreepergeneralaudience-03",
   "creationDate": "2020-03-31T19:36:08.184Z",
-  "lastModifiedDate": "2020-09-01T17:03:51.806Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-09-03T12:34:47.313Z",
+  "effectiveDate": "2020-09-03T13:00:00.000Z",
+  "viewableDate": "2020-09-03T13:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-376adequh7aazkj2cky8h6aezvju5h",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -33,13 +39,73 @@
   ],
   "tags": [
     {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-03T12:46:32.757Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-03T12:46:32.691Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-09-03T12:46:32.773Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1349",
+      "name": "FAST-PACED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:11.761Z",
+      "updated": "2020-09-03T12:46:32.706Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-03T12:46:32.791Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "WINDOWS",
       "namespace": "epic",
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-02T20:25:16.058Z",
+      "updated": "2020-09-03T13:00:31.882Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -51,7 +117,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-01T17:04:12.782Z",
+      "updated": "2020-09-03T13:00:31.947Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
@@ -60,7 +126,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -68,10 +134,65 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "diabotical/home"
+      "value": "diabotical/fan-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S1-2560x1440-8070b669daed35eeaa39060084cf11a2.jpg",
+      "md5": "8070b669daed35eeaa39060084cf11a2",
+      "size": 621225,
+      "uploadedDate": "2020-08-31T13:35:00.762Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S2-1200x1600-e6a764aba32f226509222875058b53bb.jpg",
+      "md5": "e6a764aba32f226509222875058b53bb",
+      "size": 407223,
+      "uploadedDate": "2020-08-31T13:35:08.701Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S1-2560x1440-8070b669daed35eeaa39060084cf11a2.jpg",
+      "md5": "8070b669daed35eeaa39060084cf11a2",
+      "size": 621225,
+      "uploadedDate": "2020-08-31T13:35:16.990Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S2-1200x1600-e6a764aba32f226509222875058b53bb.jpg",
+      "md5": "e6a764aba32f226509222875058b53bb",
+      "size": 407223,
+      "uploadedDate": "2020-08-31T13:35:24.360Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S2-1200x1600-e6a764aba32f226509222875058b53bb.jpg",
+      "md5": "e6a764aba32f226509222875058b53bb",
+      "size": 407223,
+      "uploadedDate": "2020-08-31T13:35:32.853Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/36336ee97ec543bbae85abaca618182b/offer/EGS_FanPack_TheGDStudio_AddOn_S2-1200x1600-e6a764aba32f226509222875058b53bb.jpg",
+      "md5": "e6a764aba32f226509222875058b53bb",
+      "size": 407223,
+      "uploadedDate": "2020-08-31T13:35:41.737Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "37afb12542de456292c9ff075675eaa9"

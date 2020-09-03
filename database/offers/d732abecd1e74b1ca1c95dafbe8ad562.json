@@ -1,0 +1,170 @@
+{
+  "id": "d732abecd1e74b1ca1c95dafbe8ad562",
+  "namespace": "7ea93ab093004226baa70ca2c0ca1d25",
+  "title": "Recompile",
+  "description": "Recompile",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "recompile",
+  "urlSlug": "nicosiageneralaudience",
+  "creationDate": "2020-08-13T14:40:22.890Z",
+  "lastModifiedDate": "2020-09-03T12:51:27.758Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-09-03T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-03T13:00:31.932Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-03T13:00:31.882Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-03T13:00:31.947Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-03T12:51:27.802Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Dear Villagers"
+    },
+    {
+      "key": "developerName",
+      "value": "Phigames"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "recompile"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S5-1920x1080-86439e9b76ad4a6d06079f253feb0e06.jpg",
+      "md5": "86439e9b76ad4a6d06079f253feb0e06",
+      "size": 585648,
+      "uploadedDate": "2020-08-28T14:48:02.361Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
+      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "size": 365711,
+      "uploadedDate": "2020-08-28T14:48:27.968Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
+      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "size": 365711,
+      "uploadedDate": "2020-08-28T14:48:37.156Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
+      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "size": 365711,
+      "uploadedDate": "2020-08-28T14:48:46.163Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S5-1920x1080-86439e9b76ad4a6d06079f253feb0e06.jpg",
+      "md5": "86439e9b76ad4a6d06079f253feb0e06",
+      "size": 585648,
+      "uploadedDate": "2020-08-28T14:49:00.691Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7ea93ab093004226baa70ca2c0ca1d25/offer/EGS_Recompile_Phigames_S6-1200x1600-a4cbd205628c6caa57e9222fe5543ba5.jpg",
+      "md5": "a4cbd205628c6caa57e9222fe5543ba5",
+      "size": 365711,
+      "uploadedDate": "2020-08-28T14:49:09.661Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "3aa34ba5064a48d68f290b73d2b82b11"
+    }
+  ],
+  "catalogNs": null
+}
