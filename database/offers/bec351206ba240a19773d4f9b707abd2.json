@@ -29,13 +29,90 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-03T12:46:32.757Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1233",
+      "name": "BASE-BUILDING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2020-05-13T21:05:17.873Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1258",
+      "name": "ROGUE-LIKE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:26.599Z",
+      "updated": "2020-09-03T12:47:51.252Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-03T13:00:31.863Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-03T13:38:25.585Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-01T12:45:12.651Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-01T13:53:52.424Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

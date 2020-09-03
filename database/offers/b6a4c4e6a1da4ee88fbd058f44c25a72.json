@@ -6,9 +6,9 @@
   "longDescription": "Add the Battlemage Pack to your existing Spellbreak access.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "spellbreak--mage-dlc-pack-02",
+  "urlSlug": "spellbreak--battlemage-pack",
   "creationDate": "2020-08-13T16:54:56.548Z",
-  "lastModifiedDate": "2020-09-02T20:25:08.419Z",
+  "lastModifiedDate": "2020-09-03T13:37:40.617Z",
   "effectiveDate": "2020-08-27T15:00:00.000Z",
   "viewableDate": "2020-08-27T15:00:00.000Z",
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -39,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-03T13:00:31.932Z",
+      "updated": "2020-09-03T13:38:25.531Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -51,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-03T12:46:32.691Z",
+      "updated": "2020-09-03T13:38:25.556Z",
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
@@ -63,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:36.154Z",
-      "updated": "2020-09-02T20:25:16.088Z",
+      "updated": "2020-09-03T13:38:25.606Z",
       "status": "ACTIVE",
       "referenceCount": 2,
       "comment": null
@@ -75,7 +81,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-09-02T20:25:16.036Z",
+      "updated": "2020-09-03T13:38:25.570Z",
       "status": "ACTIVE",
       "referenceCount": 43,
       "comment": null
@@ -87,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-03T13:00:31.882Z",
+      "updated": "2020-09-03T13:38:25.585Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -99,7 +105,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-02T20:25:16.074Z",
+      "updated": "2020-09-03T13:38:25.596Z",
       "status": "ACTIVE",
       "referenceCount": 3,
       "comment": null
