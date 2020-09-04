@@ -40,19 +40,19 @@
   "tags": [
     null,
     null,
+    null,
     {
-      "id": "1210",
-      "name": "SHOOTER",
+      "id": "1370",
+      "name": "SINGLEPLAYER",
       "namespace": "epic",
-      "aliases": null,
+      "aliases": [],
       "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-09-03T17:05:54.684Z",
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-04T01:18:13.251Z",
       "status": "ACTIVE",
-      "referenceCount": 28,
+      "referenceCount": 195,
       "comment": null
     },
-    null,
     null,
     {
       "id": "9548",
@@ -67,18 +67,6 @@
       "updated": "2020-08-27T15:45:36.069Z",
       "status": "ACTIVE",
       "referenceCount": 48,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-03T22:04:55.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
       "comment": null
     }
   ],

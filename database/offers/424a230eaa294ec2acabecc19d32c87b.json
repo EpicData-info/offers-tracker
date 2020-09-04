@@ -35,19 +35,29 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
     {
-      "id": "1307",
-      "name": "OPEN WORLD",
+      "id": "1203",
+      "name": "MULTIPLAYER",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-09-03T17:05:54.623Z",
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-04T15:29:09.458Z",
       "status": "ACTIVE",
-      "referenceCount": 32,
+      "referenceCount": 46,
+      "comment": null
+    },
+    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-04T01:18:13.251Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     null
