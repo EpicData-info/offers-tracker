@@ -38,8 +38,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-03T15:08:08.167Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-28T11:58:21.217Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -76,7 +98,21 @@
       "referenceCount": 259,
       "comment": null
     },
-    null,
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-27T15:45:36.069Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    },
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
