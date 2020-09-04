@@ -29,18 +29,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-03T15:06:04.472Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1264",
       "name": "CO-OP",
@@ -53,30 +42,8 @@
       "referenceCount": 27,
       "comment": null
     },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-03T15:08:08.219Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1110",
-      "name": "PARTY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:13.150Z",
-      "updated": "2020-08-27T15:58:24.091Z",
-      "status": "ACTIVE",
-      "referenceCount": 12,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1367",
       "name": "RPG",
