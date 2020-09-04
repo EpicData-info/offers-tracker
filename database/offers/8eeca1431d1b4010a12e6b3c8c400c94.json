@@ -5,11 +5,11 @@
   "description": "GuppyDeluxeAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "guppydeluxeaudience",
+  "productSlug": "tony-hawks-pro-skater-1-and-2/deluxe-edition",
+  "urlSlug": "tony-hawks-pro-skater-deluxe",
   "creationDate": "2020-05-11T19:11:49.282Z",
-  "lastModifiedDate": "2020-09-04T00:09:35.141Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-04T01:00:27.721Z",
+  "effectiveDate": "2020-09-04T01:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,10 +28,74 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-04T01:00:28.138Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-09-04T01:00:28.094Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1160",
+      "name": "SKATEBOARDING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:38.103Z",
+      "updated": "2020-09-04T01:00:28.056Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-04T01:00:28.072Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-04T01:00:28.110Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -44,6 +108,10 @@
     {
       "key": "developerName",
       "value": "Vicarious Visions"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tony-hawks-pro-skater-1-and-2/deluxe-edition"
     }
   ],
   "keyImages": [
