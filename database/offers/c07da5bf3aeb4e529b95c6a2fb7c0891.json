@@ -40,10 +40,30 @@
   "tags": [
     null,
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1156",
+      "name": "BATTLE ROYALE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:36.154Z",
+      "updated": "2020-09-04T15:29:09.513Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-04T15:29:09.471Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
