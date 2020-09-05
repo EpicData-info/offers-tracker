@@ -143,6 +143,18 @@
     "referenceCount": 0,
     "comment": null
   },
+  "1131": {
+    "id": "1131",
+    "name": "SURVIVAL HORROR",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:23.560Z",
+    "updated": "2020-07-31T02:48:16.021Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1141": {
     "id": "1141",
     "name": "FREE TO PLAY",
@@ -251,18 +263,6 @@
     "referenceCount": 5,
     "comment": null
   },
-  "1183": {
-    "id": "1183",
-    "name": "LOCAL MULTIPLAYER",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:49.408Z",
-    "updated": "2020-05-14T19:35:51.519Z",
-    "status": "ACTIVE",
-    "referenceCount": 1,
-    "comment": null
-  },
   "1185": {
     "id": "1185",
     "name": "FPS",
@@ -357,6 +357,18 @@
     "updated": "2020-09-01T14:27:12.789Z",
     "status": "ACTIVE",
     "referenceCount": 14,
+    "comment": null
+  },
+  "1220": {
+    "id": "1220",
+    "name": "ZOMBIES",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:07.628Z",
+    "updated": "2020-07-31T02:48:15.977Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1233": {
