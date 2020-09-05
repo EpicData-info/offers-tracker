@@ -47,6 +47,30 @@
     "referenceCount": 1,
     "comment": null
   },
+  "1090": {
+    "id": "1090",
+    "name": "TACTICAL",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:03.235Z",
+    "updated": "2020-07-29T19:51:10.784Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": null
+  },
+  "1102": {
+    "id": "1102",
+    "name": "PROGRAMMING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:09.264Z",
+    "updated": "2020-04-02T01:41:35.676Z",
+    "status": "ACTIVE",
+    "referenceCount": 3,
+    "comment": null
+  },
   "1110": {
     "id": "1110",
     "name": "PARTY",
@@ -657,18 +681,6 @@
     "updated": "2020-08-27T16:43:46.341Z",
     "status": "ACTIVE",
     "referenceCount": 8,
-    "comment": null
-  },
-  "1347": {
-    "id": "1347",
-    "name": "ALIENS",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T12:01:10.791Z",
-    "updated": "2020-08-11T16:55:50.964Z",
-    "status": "ACTIVE",
-    "referenceCount": 0,
     "comment": null
   },
   "1349": {
