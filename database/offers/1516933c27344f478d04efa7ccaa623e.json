@@ -38,44 +38,11 @@
     }
   ],
   "tags": [
-    {
-      "id": "1296",
-      "name": "CASUAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:45.644Z",
-      "updated": "2020-09-01T17:36:52.266Z",
-      "status": "ACTIVE",
-      "referenceCount": 18,
-      "comment": null
-    },
     null,
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-04T01:18:13.251Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
     null,
-    {
-      "id": "11631",
-      "name": "REQUIRES 2FA",
-      "namespace": null,
-      "aliases": [],
-      "operator": "Jason Savage",
-      "created": "2020-04-29T16:18:12.784Z",
-      "updated": "2020-07-29T19:40:33.650Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
-    }
+    null,
+    null,
+    null
   ],
   "customAttributes": [
     {
