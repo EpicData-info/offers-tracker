@@ -40,8 +40,30 @@
   "tags": [
     null,
     null,
-    null,
-    null
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-03T15:04:03.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-04T15:29:09.488Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
