@@ -31,11 +31,31 @@
   "tags": [
     null,
     null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-04T15:29:09.471Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     null,
-    null,
-    null,
-    null,
-    null,
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-09-03T15:04:02.998Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
     null
   ],
   "customAttributes": [

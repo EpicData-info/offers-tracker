@@ -30,10 +30,32 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-08-31T21:10:03.655Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
     null,
     null,
-    null,
-    null
+    {
+      "id": "1181",
+      "name": "CARD GAME",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:48.401Z",
+      "updated": "2020-08-27T12:00:04.032Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
