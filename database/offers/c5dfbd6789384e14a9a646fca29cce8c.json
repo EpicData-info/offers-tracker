@@ -62,7 +62,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-09-03T12:46:32.773Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
     {
       "id": "1141",
       "name": "FREE TO PLAY",
@@ -75,7 +86,18 @@
       "referenceCount": 6,
       "comment": null
     },
-    null,
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-03T17:05:54.684Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -86,6 +108,18 @@
       "updated": "2020-09-04T15:29:09.488Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-04T15:29:09.501Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
