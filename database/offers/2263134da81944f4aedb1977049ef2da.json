@@ -39,12 +39,47 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-28T11:58:21.217Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-04T01:18:13.251Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-27T15:45:36.069Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {

@@ -39,11 +39,31 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-09-01T14:27:12.789Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-03T17:05:54.684Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
