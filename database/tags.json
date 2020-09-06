@@ -59,18 +59,6 @@
     "referenceCount": 1,
     "comment": null
   },
-  "1102": {
-    "id": "1102",
-    "name": "PROGRAMMING",
-    "namespace": "epic",
-    "aliases": null,
-    "operator": null,
-    "created": "2019-06-20T11:59:09.264Z",
-    "updated": "2020-04-02T01:41:35.676Z",
-    "status": "ACTIVE",
-    "referenceCount": 3,
-    "comment": null
-  },
   "1110": {
     "id": "1110",
     "name": "PARTY",
@@ -503,6 +491,18 @@
     "referenceCount": 1,
     "comment": null
   },
+  "1289": {
+    "id": "1289",
+    "name": "CRAFTING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:42.141Z",
+    "updated": "2020-08-28T11:58:21.202Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1294": {
     "id": "1294",
     "name": "FIRST-PERSON",
@@ -587,6 +587,18 @@
     "referenceCount": 9,
     "comment": null
   },
+  "1321": {
+    "id": "1321",
+    "name": "GREAT SOUNDTRACK",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:58.050Z",
+    "updated": "2020-09-04T01:18:13.319Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1333": {
     "id": "1333",
     "name": "ACTION RPG",
@@ -655,6 +667,18 @@
     "operator": null,
     "created": "2019-06-20T12:01:10.791Z",
     "updated": "2020-08-11T16:55:50.964Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
+  "1349": {
+    "id": "1349",
+    "name": "FAST-PACED",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:11.761Z",
+    "updated": "2020-09-05T13:11:46.586Z",
     "status": "ACTIVE",
     "referenceCount": 0,
     "comment": null
