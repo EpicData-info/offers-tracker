@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1299",
-      "name": "COMPETITIVE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:47.106Z",
-      "updated": "2020-09-05T13:11:46.661Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-09-03T15:04:03.061Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -85,7 +63,9 @@
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {
