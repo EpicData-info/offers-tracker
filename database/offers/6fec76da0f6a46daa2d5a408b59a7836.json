@@ -29,7 +29,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-04T15:29:09.471Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
     {
       "id": "1386",
       "name": "TURN-BASED",
@@ -52,6 +63,33 @@
       "updated": "2020-09-03T15:04:03.061Z",
       "status": "ACTIVE",
       "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-05T13:11:46.627Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9548",
+      "name": "OSX",
+      "namespace": "epic",
+      "aliases": [
+        "OS X",
+        "MAC OS"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-08-27T15:45:36.069Z",
+      "status": "ACTIVE",
+      "referenceCount": 48,
       "comment": null
     }
   ],
