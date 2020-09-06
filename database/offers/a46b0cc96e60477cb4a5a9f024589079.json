@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-04T15:29:09.445Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -96,18 +85,6 @@
       "updated": "2020-08-21T11:49:32.951Z",
       "status": "ACTIVE",
       "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1247",
-      "name": "METROIDVANIA",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:21.277Z",
-      "updated": "2020-05-14T19:40:40.953Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
