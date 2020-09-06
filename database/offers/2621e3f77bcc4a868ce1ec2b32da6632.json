@@ -30,11 +30,32 @@
   ],
   "tags": [
     null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-04T01:18:13.251Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     null,
     null,
-    null,
-    null,
-    null
+    {
+      "id": "1102",
+      "name": "PROGRAMMING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:09.264Z",
+      "updated": "2020-04-02T01:41:35.676Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
