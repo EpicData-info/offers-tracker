@@ -119,6 +119,18 @@
     "referenceCount": 84,
     "comment": null
   },
+  "1127": {
+    "id": "1127",
+    "name": "INVESTIGATION",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:21.604Z",
+    "updated": "2020-07-23T12:39:37.178Z",
+    "status": "ACTIVE",
+    "referenceCount": 4,
+    "comment": null
+  },
   "1129": {
     "id": "1129",
     "name": "MUSIC",
@@ -191,6 +203,30 @@
     "referenceCount": 2,
     "comment": null
   },
+  "1159": {
+    "id": "1159",
+    "name": "ARCADE",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:37.620Z",
+    "updated": "2020-07-29T19:47:49.823Z",
+    "status": "ACTIVE",
+    "referenceCount": 2,
+    "comment": null
+  },
+  "1160": {
+    "id": "1160",
+    "name": "SKATEBOARDING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:38.103Z",
+    "updated": "2020-09-04T01:18:13.226Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1166": {
     "id": "1166",
     "name": "4X",
@@ -227,6 +263,18 @@
     "referenceCount": 5,
     "comment": null
   },
+  "1183": {
+    "id": "1183",
+    "name": "LOCAL MULTIPLAYER",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T11:59:49.408Z",
+    "updated": "2020-05-14T19:35:51.519Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": null
+  },
   "1185": {
     "id": "1185",
     "name": "FPS",
@@ -261,6 +309,18 @@
     "updated": "2020-09-07T12:44:17.417Z",
     "status": "ACTIVE",
     "referenceCount": 46,
+    "comment": null
+  },
+  "1205": {
+    "id": "1205",
+    "name": "DRIVING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:00.267Z",
+    "updated": "2020-08-20T17:37:37.403Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1210": {
@@ -438,9 +498,33 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:00:39.226Z",
-    "updated": "2020-08-05T02:30:56.343Z",
+    "updated": "2020-09-04T01:18:13.267Z",
     "status": "ACTIVE",
     "referenceCount": 2,
+    "comment": null
+  },
+  "1287": {
+    "id": "1287",
+    "name": "FANTASY",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:41.164Z",
+    "updated": "2020-05-12T16:32:19.369Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": null
+  },
+  "1289": {
+    "id": "1289",
+    "name": "CRAFTING",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:42.141Z",
+    "updated": "2020-08-28T11:58:21.202Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1294": {
@@ -503,6 +587,18 @@
     "referenceCount": 32,
     "comment": null
   },
+  "1310": {
+    "id": "1310",
+    "name": "EARLY ACCESS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:52.671Z",
+    "updated": "2020-08-14T13:04:37.222Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
   "1318": {
     "id": "1318",
     "name": "TRIVIA",
@@ -513,6 +609,18 @@
     "updated": "2020-05-13T23:47:14.117Z",
     "status": "ACTIVE",
     "referenceCount": 9,
+    "comment": null
+  },
+  "1321": {
+    "id": "1321",
+    "name": "GREAT SOUNDTRACK",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:00:58.050Z",
+    "updated": "2020-09-04T01:18:13.319Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1333": {
@@ -558,7 +666,7 @@
     "aliases": null,
     "operator": null,
     "created": "2019-06-20T12:01:08.345Z",
-    "updated": "2020-09-03T14:31:09.461Z",
+    "updated": "2020-09-03T15:00:19.167Z",
     "status": "ACTIVE",
     "referenceCount": 0,
     "comment": null
@@ -573,6 +681,30 @@
     "updated": "2020-08-27T16:43:46.341Z",
     "status": "ACTIVE",
     "referenceCount": 8,
+    "comment": null
+  },
+  "1347": {
+    "id": "1347",
+    "name": "ALIENS",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:10.791Z",
+    "updated": "2020-08-11T16:55:50.964Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
+    "comment": null
+  },
+  "1349": {
+    "id": "1349",
+    "name": "FAST-PACED",
+    "namespace": "epic",
+    "aliases": null,
+    "operator": null,
+    "created": "2019-06-20T12:01:11.761Z",
+    "updated": "2020-09-05T13:11:46.586Z",
+    "status": "ACTIVE",
+    "referenceCount": 0,
     "comment": null
   },
   "1367": {
@@ -723,5 +855,29 @@
     "status": "ACTIVE",
     "referenceCount": 19,
     "comment": null
+  },
+  "10842": {
+    "id": "10842",
+    "name": "SEAQA TAG",
+    "namespace": "SeaQA",
+    "aliases": [],
+    "operator": "cristina.wang",
+    "created": "2020-02-11T00:58:06.679Z",
+    "updated": "2020-08-13T03:56:33.378Z",
+    "status": "ACTIVE",
+    "referenceCount": 4,
+    "comment": null
+  },
+  "11631": {
+    "id": "11631",
+    "name": "REQUIRES 2FA",
+    "namespace": null,
+    "aliases": [],
+    "operator": "Jason Savage",
+    "created": "2020-04-29T16:18:12.784Z",
+    "updated": "2020-07-29T19:40:33.650Z",
+    "status": "ACTIVE",
+    "referenceCount": 5,
+    "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
   }
 }
