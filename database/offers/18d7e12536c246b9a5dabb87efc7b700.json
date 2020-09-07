@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-09-04T01:18:13.282Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
     {
       "id": "1210",
       "name": "SHOOTER",
@@ -85,6 +96,18 @@
       "updated": "2020-09-07T12:44:17.449Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-03T22:04:55.389Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
       "comment": null
     }
   ],
