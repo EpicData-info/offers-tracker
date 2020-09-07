@@ -29,19 +29,19 @@
     }
   ],
   "tags": [
-    null,
     {
-      "id": "1381",
-      "name": "EXPLORATION",
+      "id": "1296",
+      "name": "CASUAL",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-09-03T15:08:30.688Z",
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-09-01T17:36:52.266Z",
       "status": "ACTIVE",
-      "referenceCount": 14,
+      "referenceCount": 18,
       "comment": null
     },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -52,6 +52,18 @@
       "updated": "2020-09-04T01:18:13.251Z",
       "status": "ACTIVE",
       "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-05T13:11:46.627Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
