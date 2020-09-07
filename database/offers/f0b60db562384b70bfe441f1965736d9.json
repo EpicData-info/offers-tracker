@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-08-27T15:58:24.114Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -111,18 +100,6 @@
       "updated": "2020-09-03T22:04:55.389Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-09-03T12:51:27.802Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
