@@ -29,12 +29,80 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-08-25T14:58:02.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-03T15:06:04.453Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-03T15:04:03.061Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-05T13:11:46.627Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1166",
+      "name": "4X",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:41.019Z",
+      "updated": "2020-08-11T17:30:09.076Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-03T12:47:51.236Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
