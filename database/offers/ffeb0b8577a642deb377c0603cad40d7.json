@@ -29,31 +29,21 @@
     }
   ],
   "tags": [
+    null,
+    null,
+    null,
     {
-      "id": "1264",
-      "name": "CO-OP",
+      "id": "1115",
+      "name": "STRATEGY",
       "namespace": "epic",
       "aliases": null,
       "operator": null,
-      "created": "2019-06-20T12:00:29.700Z",
-      "updated": "2020-09-04T01:18:13.282Z",
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-03T15:04:03.061Z",
       "status": "ACTIVE",
-      "referenceCount": 27,
+      "referenceCount": 33,
       "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-05T13:11:46.571Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
