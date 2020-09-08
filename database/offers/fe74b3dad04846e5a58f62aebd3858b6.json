@@ -38,30 +38,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1088",
-      "name": "TURN-BASED STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:02.267Z",
-      "updated": "2020-08-25T14:58:02.782Z",
-      "status": "ACTIVE",
-      "referenceCount": 1,
-      "comment": null
-    },
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-08T10:55:28.954Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1386",
       "name": "TURN-BASED",
