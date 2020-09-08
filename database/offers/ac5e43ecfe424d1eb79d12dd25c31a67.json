@@ -29,8 +29,30 @@
     }
   ],
   "tags": [
-    null,
-    null,
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-09-03T15:08:30.688Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "1080",
+      "name": "SURVIVAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:58.070Z",
+      "updated": "2020-08-28T11:58:21.217Z",
+      "status": "ACTIVE",
+      "referenceCount": 11,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
