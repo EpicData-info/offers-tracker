@@ -1,0 +1,121 @@
+{
+  "id": "3971a9b9ba1343f7b548c1199117ba19",
+  "namespace": "0f86606a1622460898a7874d488f288a",
+  "title": "Kingdoms of Amalur Re-Reckoning",
+  "description": "Kingdoms of Amalur Re-Reckoning",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "kingdoms-of-amalur-re-reckoning/home",
+  "urlSlug": "radishgeneralaudience",
+  "creationDate": "2020-08-21T13:42:42.095Z",
+  "lastModifiedDate": "2020-09-03T18:19:13.884Z",
+  "effectiveDate": "2020-09-08T14:00:00.000Z",
+  "viewableDate": "2020-09-08T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "THQ Nordic"
+    },
+    {
+      "key": "developerName",
+      "value": "KAIKO, Big Huge Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "kingdoms-of-amalur-re-reckoning/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/LandscapeProductImage-2560x1440-6251eb442278a4aeef78cdf315da330a.png",
+      "md5": "6251eb442278a4aeef78cdf315da330a",
+      "size": 3291891,
+      "uploadedDate": "2020-08-31T16:19:21.441Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:19:29.826Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/LandscapeProductImage-2560x1440-6251eb442278a4aeef78cdf315da330a.png",
+      "md5": "6251eb442278a4aeef78cdf315da330a",
+      "size": 3291891,
+      "uploadedDate": "2020-08-31T16:19:42.541Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:19:53.861Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:20:04.328Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0f86606a1622460898a7874d488f288a/offer/Portrait_Product_Image-1200x1600-9f98edc40c24f96c10fb38316ad8860d.png",
+      "md5": "9f98edc40c24f96c10fb38316ad8860d",
+      "size": 2249777,
+      "uploadedDate": "2020-08-31T16:20:15.098Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "f5d672ee07684a99b9f3dd5538b36ddd"
+    }
+  ],
+  "catalogNs": null
+}
