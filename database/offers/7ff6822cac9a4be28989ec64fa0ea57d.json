@@ -38,9 +38,42 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
+    {
+      "id": "1088",
+      "name": "TURN-BASED STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:02.267Z",
+      "updated": "2020-08-25T14:58:02.782Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-08T17:25:43.333Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-03T15:06:04.453Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -60,7 +93,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-08T16:54:16.825Z",
+      "updated": "2020-09-08T17:25:43.304Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -72,7 +105,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-09-03T15:04:03.061Z",
+      "updated": "2020-09-08T17:25:43.345Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null

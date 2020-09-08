@@ -42,7 +42,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-08T16:49:45.997Z",
+      "updated": "2020-09-08T17:25:43.321Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -59,7 +59,18 @@
       "referenceCount": 195,
       "comment": null
     },
-    null,
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-08T10:55:28.981Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -67,7 +78,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-08T16:54:16.825Z",
+      "updated": "2020-09-08T17:25:43.304Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

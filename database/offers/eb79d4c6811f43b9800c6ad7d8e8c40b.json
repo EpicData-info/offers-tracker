@@ -6,9 +6,9 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "castlestorm2/home",
-  "urlSlug": "dovegeneralaudience",
+  "urlSlug": "castle-storm-2-prepurchase",
   "creationDate": "2019-06-03T18:28:26.931Z",
-  "lastModifiedDate": "2020-04-02T01:41:11.251Z",
+  "lastModifiedDate": "2020-09-08T17:25:43.180Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-08T16:49:45.997Z",
+      "updated": "2020-09-08T17:25:43.321Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,21 +57,9 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-08T12:54:55.581Z",
+      "updated": "2020-09-08T17:25:43.333Z",
       "status": "ACTIVE",
       "referenceCount": 46,
-      "comment": null
-    },
-    {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-09-03T15:04:03.061Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
       "comment": null
     },
     {
@@ -81,9 +69,21 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-08T16:54:16.825Z",
+      "updated": "2020-09-08T17:25:43.304Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-08T17:25:43.345Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
       "comment": null
     }
   ],
@@ -103,65 +103,56 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
-      "md5": "833c50d1ef9112b04192df46afe41802",
-      "size": 196869,
-      "uploadedDate": "2019-06-04T14:39:31.705Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-09-08T17:24:18.315Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
+      "size": 419520,
+      "uploadedDate": "2020-09-08T17:24:25.861Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg",
-      "md5": "bed5781dffbc9a57df5d92810ed0c1c9",
-      "size": 109595,
-      "uploadedDate": "2019-06-04T14:39:41.181Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/CastleStorm2_GameLogo-1850x706-0c4673550637f453f2ca3d2f854371f9.png",
-      "md5": "0c4673550637f453f2ca3d2f854371f9",
-      "size": 56361,
-      "uploadedDate": "2019-08-02T19:39:19.312Z",
-      "width": 1850,
-      "height": 706
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_S3_PortraitPromo-1280x1440-bed5781dffbc9a57df5d92810ed0c1c9.jpg",
-      "md5": "bed5781dffbc9a57df5d92810ed0c1c9",
-      "size": 109595,
-      "uploadedDate": "2019-06-04T14:39:41.181Z",
-      "width": 1280,
-      "height": 1440
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-09-08T17:24:39.243Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png",
-      "md5": "d825cb8e1d1cff1f6e05bd722d42a07e",
-      "size": 163143,
-      "uploadedDate": "2019-06-03T18:59:02.238Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-09-08T17:24:49.018Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/CodeRedemption_CastleStorm2-340x440-d825cb8e1d1cff1f6e05bd722d42a07e.png",
-      "md5": "d825cb8e1d1cff1f6e05bd722d42a07e",
-      "size": 163143,
-      "uploadedDate": "2019-06-03T18:59:13.926Z",
-      "width": 340,
-      "height": 440
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-09-08T17:24:59.232Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_ZenStudios_CastleStorm2_Carousel_2560x1440-2560x1440-833c50d1ef9112b04192df46afe41802.jpg",
-      "md5": "833c50d1ef9112b04192df46afe41802",
-      "size": 196869,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
+      "md5": "d4f530905cc10785c1a6d2b459fe77c0",
+      "size": 419520,
+      "uploadedDate": "2020-09-08T17:25:10.833Z",
       "width": 2560,
       "height": 1440
     }
