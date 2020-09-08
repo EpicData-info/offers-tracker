@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-08T10:55:28.954Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "1141",
       "name": "FREE TO PLAY",
@@ -72,30 +61,6 @@
       "updated": "2020-09-08T10:55:28.943Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "9549",
-      "name": "CONTROLLER SUPPORT",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-03T22:04:55.389Z",
-      "status": "ACTIVE",
-      "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-08T10:55:28.991Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
