@@ -1,0 +1,56 @@
+{
+  "id": "9fc33e99abf342138323856854e745ec",
+  "namespace": "b829cfd910554ad3ad2eb3b314e2b1ef",
+  "title": "MooncakeGeneralAudience",
+  "description": "MooncakeGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mooncakegeneralaudience",
+  "creationDate": "2020-09-08T21:58:00.563Z",
+  "lastModifiedDate": "2020-09-08T23:03:51.039Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-2yllrrr7vufkhal9nk3cswwgug977c",
+    "name": "Terrible Posture Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "0a8ad6d224e649bb84fd54c2e08159da"
+    }
+  ],
+  "catalogNs": null
+}
