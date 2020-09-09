@@ -38,11 +38,68 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-09-08T10:55:28.926Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-09T12:06:16.290Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-01T13:53:52.424Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "11631",
+      "name": "REQUIRES 2FA",
+      "namespace": null,
+      "aliases": [],
+      "operator": "Jason Savage",
+      "created": "2020-04-29T16:18:12.784Z",
+      "updated": "2020-07-29T19:40:33.650Z",
+      "status": "ACTIVE",
+      "referenceCount": 5,
+      "comment": "Tag used to denote that this product will require the user to have 2 factor authentication enabled"
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-08T16:54:16.795Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
