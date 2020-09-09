@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "castlestorm2/home",
-  "urlSlug": "castle-storm-2-prepurchase",
+  "urlSlug": "castlestorm-2-prepurchase",
   "creationDate": "2019-06-03T18:28:26.931Z",
-  "lastModifiedDate": "2020-09-08T17:25:43.180Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-09T14:57:07.812Z",
+  "effectiveDate": "2020-09-09T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -38,15 +38,71 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-09T14:57:08.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-09T14:57:08.060Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-09T14:57:08.012Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-09T14:57:08.075Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-09T14:57:08.045Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
@@ -59,29 +115,29 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
-      "md5": "213900280aebee003c51430ec685c436",
-      "size": 397706,
-      "uploadedDate": "2020-09-08T17:24:18.315Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
       "type": "OfferImageWide",
       "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
       "md5": "d4f530905cc10785c1a6d2b459fe77c0",
       "size": 419520,
-      "uploadedDate": "2020-09-08T17:24:25.861Z",
+      "uploadedDate": "2020-06-08T15:25:56.436Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-06-08T15:26:04.643Z",
+      "width": 860,
+      "height": 1148
     },
     {
       "type": "Thumbnail",
       "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
       "md5": "213900280aebee003c51430ec685c436",
       "size": 397706,
-      "uploadedDate": "2020-09-08T17:24:39.243Z",
+      "uploadedDate": "2020-06-08T15:26:16.996Z",
       "width": 860,
       "height": 1148
     },
@@ -90,16 +146,7 @@
       "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
       "md5": "213900280aebee003c51430ec685c436",
       "size": 397706,
-      "uploadedDate": "2020-09-08T17:24:49.018Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
-      "md5": "213900280aebee003c51430ec685c436",
-      "size": 397706,
-      "uploadedDate": "2020-09-08T17:24:59.232Z",
+      "uploadedDate": "2020-06-08T15:26:25.193Z",
       "width": 860,
       "height": 1148
     },
@@ -108,14 +155,26 @@
       "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S1-2560x1440-d4f530905cc10785c1a6d2b459fe77c0.jpg",
       "md5": "d4f530905cc10785c1a6d2b459fe77c0",
       "size": 419520,
-      "uploadedDate": "2020-09-08T17:25:10.833Z",
+      "uploadedDate": "2020-06-08T15:26:39.911Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ed355406eacb4633a648f682ddb492b8/offer/EGS_CastleStormII_ZenStudios_S2-860x1148-213900280aebee003c51430ec685c436.jpg",
+      "md5": "213900280aebee003c51430ec685c436",
+      "size": 397706,
+      "uploadedDate": "2020-06-08T15:26:50.714Z",
+      "width": 860,
+      "height": 1148
     }
   ],
   "items": [
     {
       "id": "9f132621250b4718a3adbb81ea8b478a"
+    },
+    {
+      "id": "5fc5d8f420a84529993378e00bc62527"
     }
   ],
   "catalogNs": null
