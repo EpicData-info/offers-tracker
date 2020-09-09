@@ -1,0 +1,170 @@
+{
+  "id": "7b841d00f8fd46f4bd420df6fb129191",
+  "namespace": "rosemallow",
+  "title": "The Outer Worlds Expansion Pass",
+  "description": "The Outer Worlds Expansion Pass",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-outer-worlds/expansion-pass",
+  "urlSlug": "tow-expansion-pass",
+  "creationDate": "2020-09-03T22:01:33.548Z",
+  "lastModifiedDate": "2020-09-09T22:05:35.459Z",
+  "effectiveDate": "2020-09-09T21:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-09T22:05:35.577Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-09T22:05:35.606Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-09T22:05:35.621Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-09T22:05:35.590Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Private Division"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-outer-worlds/expansion-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Wide-2560x1440-7264ce0c8f74f6947cfca57ed13b4087.jpg",
+      "md5": "7264ce0c8f74f6947cfca57ed13b4087",
+      "size": 4865453,
+      "uploadedDate": "2020-09-03T22:00:40.563Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
+      "md5": "87a0d14a0ca4d1b2c2e518c4d6f0e0bd",
+      "size": 2442429,
+      "uploadedDate": "2020-09-03T22:00:43.417Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
+      "md5": "87a0d14a0ca4d1b2c2e518c4d6f0e0bd",
+      "size": 2442429,
+      "uploadedDate": "2020-09-03T22:00:46.628Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
+      "md5": "87a0d14a0ca4d1b2c2e518c4d6f0e0bd",
+      "size": 2442429,
+      "uploadedDate": "2020-09-03T22:00:50.585Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Wide-2560x1440-7264ce0c8f74f6947cfca57ed13b4087.jpg",
+      "md5": "7264ce0c8f74f6947cfca57ed13b4087",
+      "size": 4865453,
+      "uploadedDate": "2020-09-03T22:01:06.214Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_XP_Tall-1200x1600-87a0d14a0ca4d1b2c2e518c4d6f0e0bd.jpg",
+      "md5": "87a0d14a0ca4d1b2c2e518c4d6f0e0bd",
+      "size": 2442429,
+      "uploadedDate": "2020-09-03T22:01:12.530Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "41bd6d6ae42e4580a9688250e565030c"
+    }
+  ],
+  "catalogNs": null
+}

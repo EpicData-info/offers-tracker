@@ -1,15 +1,15 @@
 {
   "id": "8f1b329b2c584644aa0684ceecc8c4d1",
   "namespace": "rosemallow",
-  "title": "Rosemallow DLC01",
-  "description": "Rosemallow DLC01",
+  "title": "The Outer Worlds Peril on Gorgon",
+  "description": "The Outer Worlds Peril on Gorgon",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "rosemallowgeneralaudience-01",
+  "productSlug": "the-outer-worlds/peril-on-gorgon",
+  "urlSlug": "tow--peril-on-gorgon",
   "creationDate": "2020-02-10T17:43:25.008Z",
-  "lastModifiedDate": "2020-02-10T17:43:25.008Z",
-  "effectiveDate": "2050-12-23T03:00:00.000Z",
+  "lastModifiedDate": "2020-09-09T22:04:31.502Z",
+  "effectiveDate": "2020-09-09T21:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,16 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
     }
   ],
   "tags": [],
@@ -41,35 +50,66 @@
     {
       "key": "developerName",
       "value": "Obsidian Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-outer-worlds/peril-on-gorgon"
     }
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Wide-2560x1440-32bb2fac601020a530483cc4c1c564ab.png",
+      "md5": "32bb2fac601020a530483cc4c1c564ab",
+      "size": 8250826,
+      "uploadedDate": "2020-09-03T21:42:02.840Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
+      "md5": "0fbe15c004f62671d7c1eca86e78d4c1",
+      "size": 4254204,
+      "uploadedDate": "2020-09-03T21:41:43.112Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:19.754Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
+      "md5": "0fbe15c004f62671d7c1eca86e78d4c1",
+      "size": 4254204,
+      "uploadedDate": "2020-09-03T21:41:52.407Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:31.030Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
+      "md5": "0fbe15c004f62671d7c1eca86e78d4c1",
+      "size": 4254204,
+      "uploadedDate": "2020-09-03T21:42:10.490Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "DieselGameBoxWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg",
-      "md5": "116966cde61a85e23878e43b37e3d364",
-      "size": 304561,
-      "uploadedDate": "2020-01-13T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Wide-2560x1440-32bb2fac601020a530483cc4c1c564ab.png",
+      "md5": "32bb2fac601020a530483cc4c1c564ab",
+      "size": 8250826,
+      "uploadedDate": "2020-09-03T21:43:10.447Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_DLC1_Tall-1200x1600-0fbe15c004f62671d7c1eca86e78d4c1.png",
+      "md5": "0fbe15c004f62671d7c1eca86e78d4c1",
+      "size": 4254204,
+      "uploadedDate": "2020-09-03T21:43:08.823Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
