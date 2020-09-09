@@ -1,0 +1,62 @@
+{
+  "id": "11b1ba21431341c0a832789b6b1c4bb9",
+  "namespace": "dfd2530e80e4425d801913b0879be444",
+  "title": "DLC00024 Audience",
+  "description": "DLC00024 Audience",
+  "longDescription": "DLC00024 Audience",
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "sparrowdevaudience-17",
+  "creationDate": "2020-09-04T12:21:42.592Z",
+  "lastModifiedDate": "2020-09-09T16:33:59.058Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-01-01T00:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
+    "name": "Rebellion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "developerName",
+      "value": "Rebellion"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "ESRB",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
+      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
+      "size": 109719,
+      "uploadedDate": "2020-05-05T14:37:11.413Z",
+      "width": 842,
+      "height": 485
+    }
+  ],
+  "items": [
+    {
+      "id": "0bf2a17f1cc042348d68f81c3da563f9"
+    }
+  ],
+  "catalogNs": null
+}

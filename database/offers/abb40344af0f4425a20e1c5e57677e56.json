@@ -74,18 +74,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1179",
-      "name": "VR",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:47.428Z",
-      "updated": "2020-04-09T17:11:19.127Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
     {
       "id": "1116",
       "name": "COMEDY",
@@ -108,18 +97,6 @@
       "updated": "2020-09-09T14:11:21.107Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-09-08T16:54:16.809Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
       "comment": null
     }
   ],
