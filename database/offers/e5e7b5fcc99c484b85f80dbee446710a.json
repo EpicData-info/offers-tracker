@@ -41,18 +41,7 @@
       "referenceCount": 110,
       "comment": null
     },
-    {
-      "id": "1336",
-      "name": "ACTION-ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:05.439Z",
-      "updated": "2020-09-03T15:06:04.486Z",
-      "status": "ACTIVE",
-      "referenceCount": 6,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -60,7 +49,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-09T13:13:20.355Z",
+      "updated": "2020-09-09T13:32:15.855Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -77,18 +66,7 @@
       "referenceCount": 32,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-09T13:13:20.394Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "1117",
       "name": "ADVENTURE",
@@ -108,7 +86,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-09T13:13:20.380Z",
+      "updated": "2020-09-09T13:15:20.748Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null

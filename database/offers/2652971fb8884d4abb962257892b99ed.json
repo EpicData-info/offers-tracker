@@ -29,30 +29,8 @@
     }
   ],
   "tags": [
-    {
-      "id": "1298",
-      "name": "PUZZLE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:46.616Z",
-      "updated": "2020-09-09T02:28:11.779Z",
-      "status": "ACTIVE",
-      "referenceCount": 27,
-      "comment": null
-    },
-    {
-      "id": "1381",
-      "name": "EXPLORATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-09-08T16:54:16.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -60,35 +38,13 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-09T13:13:20.355Z",
+      "updated": "2020-09-09T13:32:15.855Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-09T13:13:20.394Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-08T16:54:16.850Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
@@ -96,7 +52,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-09T13:13:20.380Z",
+      "updated": "2020-09-09T13:15:20.748Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null

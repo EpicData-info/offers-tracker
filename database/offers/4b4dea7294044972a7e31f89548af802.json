@@ -32,18 +32,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1218",
-      "name": "HORROR",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:06.599Z",
-      "updated": "2020-09-08T10:55:28.926Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
+    null,
     {
       "id": "1127",
       "name": "INVESTIGATION",
@@ -63,7 +52,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-09T13:13:20.394Z",
+      "updated": "2020-09-09T13:15:20.767Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null

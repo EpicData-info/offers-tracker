@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-09T12:06:16.273Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
+    null,
     {
       "id": "1218",
       "name": "HORROR",
@@ -71,18 +60,7 @@
       "referenceCount": 43,
       "comment": null
     },
-    {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-09T13:13:20.355Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -90,7 +68,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-09T13:13:20.394Z",
+      "updated": "2020-09-09T13:15:20.767Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -102,7 +80,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:42.533Z",
-      "updated": "2020-09-09T13:13:20.380Z",
+      "updated": "2020-09-09T13:15:20.748Z",
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
