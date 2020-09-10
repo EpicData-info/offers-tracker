@@ -8,8 +8,8 @@
   "productSlug": "as-far-as-the-eye",
   "urlSlug": "lolitegeneralaudience",
   "creationDate": "2020-04-07T03:21:58.555Z",
-  "lastModifiedDate": "2020-09-01T13:12:38.429Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-10T15:42:41.257Z",
+  "effectiveDate": "2020-09-10T16:00:00.000Z",
   "viewableDate": "2020-07-24T12:56:00.000Z",
   "developer": null,
   "seller": {
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-09-10T14:19:45.453Z",
+      "updated": "2020-09-10T15:42:41.464Z",
       "status": "ACTIVE",
       "referenceCount": 20,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-09-03T15:06:04.453Z",
+      "updated": "2020-09-10T15:42:41.425Z",
       "status": "ACTIVE",
       "referenceCount": 14,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-09-10T14:19:45.505Z",
+      "updated": "2020-09-10T15:42:41.407Z",
       "status": "ACTIVE",
       "referenceCount": 33,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-10T14:19:45.489Z",
+      "updated": "2020-09-10T15:44:03.778Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -90,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -116,33 +116,6 @@
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
-      "md5": "54d45d0a4e42603f0bceea6290da5a02",
-      "size": 360116,
-      "uploadedDate": "2020-07-15T00:16:57.738Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
-      "md5": "54d45d0a4e42603f0bceea6290da5a02",
-      "size": 360116,
-      "uploadedDate": "2020-07-15T00:17:06.938Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
-      "md5": "54d45d0a4e42603f0bceea6290da5a02",
-      "size": 360116,
-      "uploadedDate": "2020-07-15T00:17:15.308Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "DieselStoreFrontWide",
       "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S1-2560x1440-f353c656014a53a08f05e7ea4be76a2d.jpg",
       "md5": "f353c656014a53a08f05e7ea4be76a2d",
@@ -152,11 +125,38 @@
       "height": 1440
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/38507319-7a4f-4c39-af64-3a9ae145b1a3-1200x1600-1fd9ae91fa3cf0dcc72c122ef8d2fdf0.jpg",
+      "md5": "1fd9ae91fa3cf0dcc72c122ef8d2fdf0",
+      "size": 415359,
+      "uploadedDate": "2020-09-09T15:42:02.405Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/38507319-7a4f-4c39-af64-3a9ae145b1a3-1200x1600-1fd9ae91fa3cf0dcc72c122ef8d2fdf0.jpg",
+      "md5": "1fd9ae91fa3cf0dcc72c122ef8d2fdf0",
+      "size": 415359,
+      "uploadedDate": "2020-09-09T15:42:10.565Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/38507319-7a4f-4c39-af64-3a9ae145b1a3-1200x1600-1fd9ae91fa3cf0dcc72c122ef8d2fdf0.jpg",
+      "md5": "1fd9ae91fa3cf0dcc72c122ef8d2fdf0",
+      "size": 415359,
+      "uploadedDate": "2020-09-09T15:42:17.506Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/EGS_AsFarAsTheEye_UnexpectedStudio_S2-1200x1600-54d45d0a4e42603f0bceea6290da5a02.jpg",
-      "md5": "54d45d0a4e42603f0bceea6290da5a02",
-      "size": 360116,
-      "uploadedDate": "2020-07-15T00:17:36.742Z",
+      "url": "https://cdn1.epicgames.com/c14dd3d3c8214149b27477dd4619f029/offer/38507319-7a4f-4c39-af64-3a9ae145b1a3-1200x1600-1fd9ae91fa3cf0dcc72c122ef8d2fdf0.jpg",
+      "md5": "1fd9ae91fa3cf0dcc72c122ef8d2fdf0",
+      "size": 415359,
+      "uploadedDate": "2020-09-09T15:42:25.941Z",
       "width": 1200,
       "height": 1600
     }

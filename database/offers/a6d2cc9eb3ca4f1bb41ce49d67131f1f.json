@@ -1,15 +1,15 @@
 {
-  "id": "7fff0ce99ec541a4b9c00fc02fbe131e",
+  "id": "a6d2cc9eb3ca4f1bb41ce49d67131f1f",
   "namespace": "catnip",
-  "title": "Borderlands 3 - Neon Cosmetic Pack",
-  "description": "The Neon Cosmetic Pack includes a Neon Vault Hunter head and skin, Echo Device skin and weapon trinket. This content is included in the Borderlands 3 Deluxe Edition and Super Deluxe Edition.",
-  "longDescription": "The Neon Cosmetic Pack includes the following content, for use in Borderlands 3:\n \n• Neon Vault Hunter head \n• Neon Vault Hunter skin\n• Neon Echo Device skin\n• Neon weapon trinket\n\nThis content is included in the Borderlands 3 Deluxe Edition and Super Deluxe Edition.",
+  "title": "Borderlands 3 - Psycho Krieg and the Fantastic Fustercluck",
+  "description": "Borderlands 3 - Psycho Krieg and the Fantastic Fustercluck \nDLC 4",
+  "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "borderlands-3/neon-cosmetic-pack",
-  "urlSlug": "borderlands-3--neon-cosmetic-pack",
-  "creationDate": "2019-10-18T18:22:11.559Z",
-  "lastModifiedDate": "2020-07-31T02:49:10.089Z",
-  "effectiveDate": "2019-10-18T10:00:00.000Z",
+  "productSlug": "borderlands-3/psycho-krieg-and-the-fantastic-fustercluck",
+  "urlSlug": "borderlands-3--dlc4",
+  "creationDate": "2020-09-03T22:36:13.267Z",
+  "lastModifiedDate": "2020-09-10T15:41:23.711Z",
+  "effectiveDate": "2020-09-10T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -99,21 +99,6 @@
       "comment": null
     },
     {
-      "id": "9548",
-      "name": "OSX",
-      "namespace": "epic",
-      "aliases": [
-        "OS X",
-        "MAC OS"
-      ],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:27.812Z",
-      "updated": "2020-08-27T15:45:36.069Z",
-      "status": "ACTIVE",
-      "referenceCount": 48,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
       "namespace": "epic",
@@ -141,7 +126,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -153,50 +138,68 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "borderlands-3/neon-cosmetic-pack"
+      "value": "borderlands-3/psycho-krieg-and-the-fantastic-fustercluck"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_NEONPACK_EPIC_SOCIAL_490X276-490x276-b5f500ee8adbaf2dee7bd03f2dfa8989dc858837.jpg",
-      "md5": "c323cae37a041c5fcf2ac318238c122f",
-      "size": 77921,
-      "uploadedDate": "2020-02-12T09:41:44.790Z",
-      "width": 490,
-      "height": 276
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_LANDSCAPE_2560x1440-2560x1440-017eb8bce37bda1a18736efd6eb6b3f9.jpg",
+      "md5": "017eb8bce37bda1a18736efd6eb6b3f9",
+      "size": 2174560,
+      "uploadedDate": "2020-09-10T14:11:05.028Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg",
-      "md5": "58be14c3e086e3a85bedcc21c08ab5cb",
-      "size": 684906,
-      "uploadedDate": "2020-05-14T21:42:49.298Z",
-      "width": 560,
-      "height": 760
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+      "md5": "a39fe34e83c26f466a9c0fd50a231904",
+      "size": 942145,
+      "uploadedDate": "2020-09-10T14:11:23.434Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg",
-      "md5": "58be14c3e086e3a85bedcc21c08ab5cb",
-      "size": 684906,
-      "uploadedDate": "2020-05-14T21:43:00.033Z",
-      "width": 560,
-      "height": 760
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+      "md5": "a39fe34e83c26f466a9c0fd50a231904",
+      "size": 942145,
+      "uploadedDate": "2020-09-10T14:11:36.254Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/catnip/offer/EGS_Borderlands3_Takeover_Mobile-560x760-58be14c3e086e3a85bedcc21c08ab5cb-560x760-58be14c3e086e3a85bedcc21c08ab5cb.jpg",
-      "md5": "58be14c3e086e3a85bedcc21c08ab5cb",
-      "size": 684906,
-      "uploadedDate": "2020-05-14T21:43:14.435Z",
-      "width": 560,
-      "height": 760
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+      "md5": "a39fe34e83c26f466a9c0fd50a231904",
+      "size": 942145,
+      "uploadedDate": "2020-09-10T14:11:52.420Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
+      "md5": "a39fe34e83c26f466a9c0fd50a231904",
+      "size": 942145,
+      "uploadedDate": "2020-09-10T14:12:07.302Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_LANDSCAPE_2560x1440-2560x1440-017eb8bce37bda1a18736efd6eb6b3f9.jpg",
+      "md5": "017eb8bce37bda1a18736efd6eb6b3f9",
+      "size": 2174560,
+      "uploadedDate": "2020-09-10T14:12:27.256Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
     {
-      "id": "5ea1981df8cc49c68f4fe086b70f7bd8"
+      "id": "ff8e1152ddf742b68f9ac0cecd378917"
     }
   ],
   "catalogNs": null
