@@ -8,7 +8,7 @@
   "productSlug": "control/home",
   "urlSlug": "control",
   "creationDate": "2019-02-28T14:15:02.157Z",
-  "lastModifiedDate": "2020-08-27T15:12:07.760Z",
+  "lastModifiedDate": "2020-09-09T23:58:42.149Z",
   "effectiveDate": "2019-08-26T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-09T21:58:01.345Z",
+      "updated": "2020-09-09T23:59:30.536Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-09T22:05:35.606Z",
+      "updated": "2020-09-09T23:59:30.498Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,21 +69,9 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-09T22:05:35.621Z",
+      "updated": "2020-09-09T23:59:30.513Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1341",
-      "name": "SUPERNATURAL",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:07.859Z",
-      "updated": "2020-09-09T20:54:39.120Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
       "comment": null
     },
     {
@@ -93,9 +81,21 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-09T20:54:39.144Z",
+      "updated": "2020-09-09T23:59:30.546Z",
       "status": "ACTIVE",
       "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1341",
+      "name": "SUPERNATURAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:07.859Z",
+      "updated": "2020-09-09T23:59:30.522Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
       "comment": null
     }
   ],
