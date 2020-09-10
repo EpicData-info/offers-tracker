@@ -8,7 +8,7 @@
   "productSlug": "immortals-fenyx-rising/home",
   "urlSlug": "immortalsfenyxrisinggeneralaudience",
   "creationDate": "2019-06-08T17:13:02.610Z",
-  "lastModifiedDate": "2020-09-10T19:57:35.329Z",
+  "lastModifiedDate": "2020-09-10T20:38:16.404Z",
   "effectiveDate": "2019-06-14T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1307",
-      "name": "OPEN WORLD",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-09-10T19:57:35.438Z",
-      "status": "ACTIVE",
-      "referenceCount": 32,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "WINDOWS",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "updated": "2020-09-10T19:57:35.422Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-09-10T19:57:35.438Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
       "comment": null
     },
     {
@@ -110,7 +110,7 @@
     },
     {
       "key": "availableDate",
-      "value": "1551106800"
+      "value": "1607007600"
     },
     {
       "key": "developerName",

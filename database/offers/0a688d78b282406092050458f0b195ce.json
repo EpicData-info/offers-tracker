@@ -8,7 +8,7 @@
   "productSlug": "prince-of-persia-sands-of-time/home",
   "urlSlug": "princeofpersiageneralaudience",
   "creationDate": "2019-08-24T04:50:32.803Z",
-  "lastModifiedDate": "2020-09-10T19:54:06.625Z",
+  "lastModifiedDate": "2020-09-10T20:27:51.272Z",
   "effectiveDate": "2020-09-10T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -50,6 +50,10 @@
     {
       "key": "availableDate",
       "value": "1611241200"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "com.epicgames.app.productSlug",
