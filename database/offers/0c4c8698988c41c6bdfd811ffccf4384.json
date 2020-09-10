@@ -1,0 +1,170 @@
+{
+  "id": "0c4c8698988c41c6bdfd811ffccf4384",
+  "namespace": "5c99f4b1cded415592255a53c1cad617",
+  "title": "The Unfinished Swan",
+  "description": "The Unfinished Swan",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-unfinished-swan",
+  "urlSlug": "mojitogeneralaudience",
+  "creationDate": "2020-08-17T22:34:54.598Z",
+  "lastModifiedDate": "2020-09-10T13:49:32.713Z",
+  "effectiveDate": "2020-09-10T16:00:00.000Z",
+  "viewableDate": "2020-09-10T16:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-bmeb3ztlbxkjc8vvpydava38yvmxlm",
+    "name": "Annapurna Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-10T16:00:33.432Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-10T15:44:03.758Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-10T16:00:33.411Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Annapurna Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Giant Sparrow"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-unfinished-swan"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S1-2560x1440-91343600983fb3667ba8d04e26d54196.jpg",
+      "md5": "91343600983fb3667ba8d04e26d54196",
+      "size": 159340,
+      "uploadedDate": "2020-08-25T21:21:16.837Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
+      "md5": "9950b20d20f362a591ace024949a43cc",
+      "size": 116684,
+      "uploadedDate": "2020-08-25T21:21:23.940Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
+      "md5": "9950b20d20f362a591ace024949a43cc",
+      "size": 116684,
+      "uploadedDate": "2020-08-25T21:21:33.074Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
+      "md5": "9950b20d20f362a591ace024949a43cc",
+      "size": 116684,
+      "uploadedDate": "2020-08-25T21:21:41.549Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S1-2560x1440-91343600983fb3667ba8d04e26d54196.jpg",
+      "md5": "91343600983fb3667ba8d04e26d54196",
+      "size": 159340,
+      "uploadedDate": "2020-08-25T21:21:50.295Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/5c99f4b1cded415592255a53c1cad617/offer/EGS_TheUnfinishedSwan_GiantSparrow_S2-1200x1600-9950b20d20f362a591ace024949a43cc.jpg",
+      "md5": "9950b20d20f362a591ace024949a43cc",
+      "size": 116684,
+      "uploadedDate": "2020-08-25T21:21:59.141Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "57786708ee3d4e6c94a8e0ea92c487a1"
+    }
+  ],
+  "catalogNs": null
+}
