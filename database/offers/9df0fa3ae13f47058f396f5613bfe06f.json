@@ -1,0 +1,117 @@
+{
+  "id": "9df0fa3ae13f47058f396f5613bfe06f",
+  "namespace": "a443faa3d6304a7dacd7456e0f6b0fa6",
+  "title": "Scott Pilgrim vs. The World: The Game",
+  "description": "Scott Pilgrim vs. The World: The Game",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "scott-pilgrim-vs-the-world-the-game/home",
+  "urlSlug": "universitygeneralaudience",
+  "creationDate": "2020-09-08T08:26:59.331Z",
+  "lastModifiedDate": "2020-09-10T19:54:19.210Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,CU,IR,KP,SD,SY,HK,MO,TW"
+    },
+    {
+      "key": "publisherName",
+      "value": "Ubisoft"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "scott-pilgrim-vs-the-world-the-game/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Landscape_2560x1440-2560x1440-c87d3a0dd1df8ab6e735021cf0d5c472.jpg",
+      "md5": "c87d3a0dd1df8ab6e735021cf0d5c472",
+      "size": 928409,
+      "uploadedDate": "2020-09-09T16:57:42.094Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
+      "md5": "2767857f71a9289f14c0f79a48977428",
+      "size": 789597,
+      "uploadedDate": "2020-09-09T16:57:33.474Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Landscape_2560x1440-2560x1440-c87d3a0dd1df8ab6e735021cf0d5c472.jpg",
+      "md5": "c87d3a0dd1df8ab6e735021cf0d5c472",
+      "size": 928409,
+      "uploadedDate": "2020-09-09T16:57:38.098Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
+      "md5": "2767857f71a9289f14c0f79a48977428",
+      "size": 789597,
+      "uploadedDate": "2020-09-09T16:57:30.171Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
+      "md5": "2767857f71a9289f14c0f79a48977428",
+      "size": 789597,
+      "uploadedDate": "2020-09-09T16:57:27.503Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a443faa3d6304a7dacd7456e0f6b0fa6/offer/ScottPilgrim_Store_Portrait_1200x1600-1200x1600-2767857f71a9289f14c0f79a48977428.jpg",
+      "md5": "2767857f71a9289f14c0f79a48977428",
+      "size": 789597,
+      "uploadedDate": "2020-09-09T16:57:23.599Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "37e2b68d76244e3e837ff6477d20b124"
+    }
+  ],
+  "catalogNs": null
+}

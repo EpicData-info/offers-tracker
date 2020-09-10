@@ -1,0 +1,122 @@
+{
+  "id": "ca18504a397548d5a3c4d79ab540a0c4",
+  "namespace": "83d6990f16444655866b04be562bf589",
+  "title": "Riders Republic: Ultimate Edition",
+  "description": "Riders Republic: Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ridersrepublicultimateaudience",
+  "creationDate": "2020-09-08T08:21:39.661Z",
+  "lastModifiedDate": "2020-09-10T19:54:29.647Z",
+  "effectiveDate": "2020-09-10T20:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Landscape_2560x1440-2560x1440-21dee61ed5e3ee1789f9c1fcb37ff24a.jpg",
+      "md5": "21dee61ed5e3ee1789f9c1fcb37ff24a",
+      "size": 848212,
+      "uploadedDate": "2020-09-09T15:42:42.644Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
+      "md5": "bc41d7f2d90ec8fafb1a0cb8f1e1943d",
+      "size": 777431,
+      "uploadedDate": "2020-09-09T15:42:39.340Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Landscape_2560x1440-2560x1440-21dee61ed5e3ee1789f9c1fcb37ff24a.jpg",
+      "md5": "21dee61ed5e3ee1789f9c1fcb37ff24a",
+      "size": 848212,
+      "uploadedDate": "2020-09-09T15:42:35.591Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
+      "md5": "bc41d7f2d90ec8fafb1a0cb8f1e1943d",
+      "size": 777431,
+      "uploadedDate": "2020-09-09T15:42:46.296Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
+      "md5": "bc41d7f2d90ec8fafb1a0cb8f1e1943d",
+      "size": 777431,
+      "uploadedDate": "2020-09-09T15:42:49.706Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/83d6990f16444655866b04be562bf589/offer/MAD_ULT_Store_Portrait_1200x1600-1200x1600-bc41d7f2d90ec8fafb1a0cb8f1e1943d.jpg",
+      "md5": "bc41d7f2d90ec8fafb1a0cb8f1e1943d",
+      "size": 777431,
+      "uploadedDate": "2020-09-09T15:42:52.525Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "3326b200b9db451da58afd8560791609"
+    },
+    {
+      "id": "16dc438a962c459a82a91bb52ed0dede"
+    },
+    {
+      "id": "c1043415b5ee4ee0bd8e192f5e92fa70"
+    },
+    {
+      "id": "799b914915d245349dc85ccaae89e16f"
+    },
+    {
+      "id": "65de87bdb55945eb9b75d82729aeded6"
+    }
+  ],
+  "catalogNs": null
+}

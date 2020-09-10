@@ -1,14 +1,14 @@
 {
   "id": "e42093ff3c434f618b8f2c50039eaece",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "Gods & Monsters",
-  "description": "Gods & Monsters - Standard Edition",
+  "title": "Immortals: Fenyx Rising",
+  "description": "Immortals: Fenyx Rising - Standard Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "gods-and-monsters",
-  "urlSlug": "pheasantgeneralaudience",
+  "productSlug": "immortals-fenyx-rising/home",
+  "urlSlug": "immortalsfenyxrisinggeneralaudience",
   "creationDate": "2019-06-08T17:13:02.610Z",
-  "lastModifiedDate": "2020-04-02T01:41:30.563Z",
+  "lastModifiedDate": "2020-09-10T19:57:35.329Z",
   "effectiveDate": "2019-06-14T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -45,7 +45,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-10T14:16:13.652Z",
+      "updated": "2020-09-10T19:57:35.384Z",
       "status": "ACTIVE",
       "referenceCount": 110,
       "comment": null
@@ -57,7 +57,7 @@
       "aliases": [],
       "operator": null,
       "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-10T16:00:33.394Z",
+      "updated": "2020-09-10T19:57:35.458Z",
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
@@ -69,7 +69,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T12:00:51.191Z",
-      "updated": "2020-09-03T17:05:54.623Z",
+      "updated": "2020-09-10T19:57:35.438Z",
       "status": "ACTIVE",
       "referenceCount": 32,
       "comment": null
@@ -81,7 +81,7 @@
       "aliases": [],
       "operator": "kimberly.rodatos",
       "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-10T16:00:33.432Z",
+      "updated": "2020-09-10T19:57:35.422Z",
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
@@ -93,7 +93,7 @@
       "aliases": null,
       "operator": null,
       "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-10T15:44:03.758Z",
+      "updated": "2020-09-10T19:57:35.401Z",
       "status": "ACTIVE",
       "referenceCount": 84,
       "comment": null
@@ -118,72 +118,63 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "gods-and-monsters"
+      "value": "immortals-fenyx-rising/home"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Orpheus_Epic_Library_Primary_Promo_2580x1450-2580x1450-1d54a9e3d3595a646e7bf477499e50c7.jpg",
-      "md5": "1d54a9e3d3595a646e7bf477499e50c7",
-      "size": 258670,
-      "uploadedDate": "2019-06-12T13:58:33.030Z",
-      "width": 2580,
-      "height": 1450
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
-      "md5": "3c052689f4d8c008ef7c10594d1fe895",
-      "size": 195445,
-      "uploadedDate": "2019-06-12T13:58:46.569Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Game_Logo_Color_1000x375-1000x375-f06242470286a2db34d7015ad8fc65f7.png",
-      "md5": "f06242470286a2db34d7015ad8fc65f7",
-      "size": 33259,
-      "uploadedDate": "2019-06-12T13:58:54.888Z",
-      "width": 1000,
-      "height": 375
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Landscape_2560x1440_UK-2560x1440-4586f116e7b9be1c051793647b3dea3d.jpg",
+      "md5": "4586f116e7b9be1c051793647b3dea3d",
+      "size": 436670,
+      "uploadedDate": "2020-09-09T15:49:02.009Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Store_Portrait_Promo_1280x1420-1280x1420-3c052689f4d8c008ef7c10594d1fe895.jpg",
-      "md5": "3c052689f4d8c008ef7c10594d1fe895",
-      "size": 195445,
-      "uploadedDate": "2019-06-12T13:58:46.569Z",
-      "width": 1280,
-      "height": 1420
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "size": 278775,
+      "uploadedDate": "2020-09-09T15:49:06.183Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Landscape_2560x1440_UK-2560x1440-4586f116e7b9be1c051793647b3dea3d.jpg",
+      "md5": "4586f116e7b9be1c051793647b3dea3d",
+      "size": 436670,
+      "uploadedDate": "2020-09-09T15:49:09.373Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "size": 278775,
+      "uploadedDate": "2020-09-09T15:49:12.320Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Newsfeed_Game_Icon_400x400-400x400-53845fa2d36286c108e141f0e2afe136.png",
-      "md5": "53845fa2d36286c108e141f0e2afe136",
-      "size": 6729,
-      "uploadedDate": "2019-06-12T13:52:50.087Z",
-      "width": 400,
-      "height": 400
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "size": 278775,
+      "uploadedDate": "2020-09-09T15:49:16.169Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/CodeRedemptionGodsAndMonsters-330x440-4d093fe9f9ca3f8b85bfc4e3991e2c21.jpg",
-      "md5": "4d093fe9f9ca3f8b85bfc4e3991e2c21",
-      "size": 110194,
-      "uploadedDate": "2019-06-12T13:56:05.933Z",
-      "width": 330,
-      "height": 440
-    },
-    {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/Orpheus_Epic_Library_Primary_Promo_2580x1450-2580x1450-1d54a9e3d3595a646e7bf477499e50c7.jpg",
-      "md5": "1d54a9e3d3595a646e7bf477499e50c7",
-      "size": 258670,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_STD_Store_Portrait_1200x1600_UK-1200x1600-160024289fd98b6a67a4dec9fadf9774.jpg",
+      "md5": "160024289fd98b6a67a4dec9fadf9774",
+      "size": 278775,
+      "uploadedDate": "2020-09-09T15:49:19.087Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

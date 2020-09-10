@@ -1,15 +1,15 @@
 {
   "id": "346b156c865c49da9ffbb9523105fcb1",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "Pheasant Gold Edition",
-  "description": "Pheasant Gold Edition",
+  "title": "Immortals: Fenyx Rising Gold Edition",
+  "description": "Immortals: Fenyx Rising Gold Edition",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "pheasantgoldaudience",
   "creationDate": "2019-06-08T17:50:01.744Z",
-  "lastModifiedDate": "2020-09-10T19:03:21.107Z",
-  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-10T19:57:35.356Z",
+  "effectiveDate": "2020-09-10T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,6 +28,9 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
@@ -36,9 +39,50 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_GOLD_Store_Landscape_2560x1440_UK-2560x1440-103badaae14b1dbdac139fe1a924a577.jpg",
+      "md5": "103badaae14b1dbdac139fe1a924a577",
+      "size": 506714,
+      "uploadedDate": "2020-09-09T16:22:20.794Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_GOLD_Store_Portrait_1200x1600_UK-1200x1600-49ffaa4564bf9ceff393d20d5333dbde.jpg",
+      "md5": "49ffaa4564bf9ceff393d20d5333dbde",
+      "size": 311559,
+      "uploadedDate": "2020-09-09T16:22:23.773Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_GOLD_Store_Portrait_1200x1600_UK-1200x1600-49ffaa4564bf9ceff393d20d5333dbde.jpg",
+      "md5": "49ffaa4564bf9ceff393d20d5333dbde",
+      "size": 311559,
+      "uploadedDate": "2020-09-09T16:22:26.803Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/IFR_EPIC_GOLD_Store_Portrait_1200x1600_UK-1200x1600-49ffaa4564bf9ceff393d20d5333dbde.jpg",
+      "md5": "49ffaa4564bf9ceff393d20d5333dbde",
+      "size": 311559,
+      "uploadedDate": "2020-09-09T16:22:29.852Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "b2aaf50259434c8c9e5aaf8a00354414"
