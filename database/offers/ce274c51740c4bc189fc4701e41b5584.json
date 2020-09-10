@@ -8,7 +8,7 @@
   "productSlug": "rune-2",
   "urlSlug": "rune-ii-warrior-pack",
   "creationDate": "2019-07-26T17:45:31.843Z",
-  "lastModifiedDate": "2020-09-09T21:58:00.884Z",
+  "lastModifiedDate": "2020-09-10T18:11:25.836Z",
   "effectiveDate": "2019-07-26T11:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -117,8 +117,12 @@
       "value": "[]"
     },
     {
-      "key": "developerName",
+      "key": "publisherName",
       "value": "Ragnarok Game, LLC"
+    },
+    {
+      "key": "developerName",
+      "value": "Studio 369"
     },
     {
       "key": "com.epicgames.app.productSlug",
