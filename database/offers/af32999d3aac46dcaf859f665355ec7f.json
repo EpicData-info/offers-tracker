@@ -1,0 +1,182 @@
+{
+  "id": "af32999d3aac46dcaf859f665355ec7f",
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "title": "Railway Empire - Germany DLC",
+  "description": "Persian DLC 5",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "railway-empire/germany",
+  "urlSlug": "persiandlc5audience",
+  "creationDate": "2020-06-18T21:54:07.347Z",
+  "lastModifiedDate": "2020-09-09T13:12:21.418Z",
+  "effectiveDate": "2020-09-10T15:00:00.000Z",
+  "viewableDate": "2020-09-10T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-10T14:19:45.453Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-10T14:19:45.436Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-10T14:19:45.505Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-10T14:19:45.489Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-09T22:05:35.590Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Gaming Minds Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "railway-empire/germany"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S1-2560x1440-d2eab4ff724e7f1c2e29b42702bb3956.jpg",
+      "md5": "d2eab4ff724e7f1c2e29b42702bb3956",
+      "size": 897581,
+      "uploadedDate": "2020-08-27T15:54:51.792Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S2-1200x1600-d3f12a64bbac484a23bc7eac28a3790e.jpg",
+      "md5": "d3f12a64bbac484a23bc7eac28a3790e",
+      "size": 686515,
+      "uploadedDate": "2020-08-27T15:54:59.125Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S1-2560x1440-d2eab4ff724e7f1c2e29b42702bb3956.jpg",
+      "md5": "d2eab4ff724e7f1c2e29b42702bb3956",
+      "size": 897581,
+      "uploadedDate": "2020-08-27T15:55:05.835Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S2-1200x1600-d3f12a64bbac484a23bc7eac28a3790e.jpg",
+      "md5": "d3f12a64bbac484a23bc7eac28a3790e",
+      "size": 686515,
+      "uploadedDate": "2020-08-27T15:55:13.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S2-1200x1600-d3f12a64bbac484a23bc7eac28a3790e.jpg",
+      "md5": "d3f12a64bbac484a23bc7eac28a3790e",
+      "size": 686515,
+      "uploadedDate": "2020-08-27T15:55:20.359Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Germany_GamingMindsStudios_DLC_S2-1200x1600-d3f12a64bbac484a23bc7eac28a3790e.jpg",
+      "md5": "d3f12a64bbac484a23bc7eac28a3790e",
+      "size": 686515,
+      "uploadedDate": "2020-08-27T15:55:27.845Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "1b6f8fc33995487a98c0524f51c8bd6c"
+    }
+  ],
+  "catalogNs": null
+}

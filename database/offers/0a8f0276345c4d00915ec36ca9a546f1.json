@@ -1,0 +1,182 @@
+{
+  "id": "0a8f0276345c4d00915ec36ca9a546f1",
+  "namespace": "93b333eb973b45b582f3bdf68dfc1dc9",
+  "title": "Railway Empire - The Great Lakes DLC",
+  "description": "Railway Empire - The Great Lakes DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "railway-empire/the-great-lakes",
+  "urlSlug": "persiandlc2audience",
+  "creationDate": "2020-06-18T21:30:28.524Z",
+  "lastModifiedDate": "2020-09-09T13:12:51.192Z",
+  "effectiveDate": "2020-09-10T15:00:00.000Z",
+  "viewableDate": "2020-09-10T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-10T14:19:45.453Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-10T14:19:45.436Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-10T14:19:45.505Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-10T14:19:45.489Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-09T22:05:35.590Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Gaming Minds Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "railway-empire/the-great-lakes"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S1-2560x1440-4e8461b0da5fe9d8454b2a86afa7d86f.jpg",
+      "md5": "4e8461b0da5fe9d8454b2a86afa7d86f",
+      "size": 861215,
+      "uploadedDate": "2020-08-27T15:24:50.704Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
+      "md5": "b64aec4edd4a659dbe094b4ddf4e6629",
+      "size": 730445,
+      "uploadedDate": "2020-08-27T15:24:58.464Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S1-2560x1440-4e8461b0da5fe9d8454b2a86afa7d86f.jpg",
+      "md5": "4e8461b0da5fe9d8454b2a86afa7d86f",
+      "size": 861215,
+      "uploadedDate": "2020-08-27T15:25:06.717Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
+      "md5": "b64aec4edd4a659dbe094b4ddf4e6629",
+      "size": 730445,
+      "uploadedDate": "2020-08-27T15:25:14.491Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
+      "md5": "b64aec4edd4a659dbe094b4ddf4e6629",
+      "size": 730445,
+      "uploadedDate": "2020-08-27T15:25:22.161Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/93b333eb973b45b582f3bdf68dfc1dc9/offer/EGS_Mexico_KalypsoMedia_DLC_S2-1200x1600-b64aec4edd4a659dbe094b4ddf4e6629.jpg",
+      "md5": "b64aec4edd4a659dbe094b4ddf4e6629",
+      "size": 730445,
+      "uploadedDate": "2020-08-27T15:25:30.240Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "25f58434252e4a9fb1294fdc5b1d2dfc"
+    }
+  ],
+  "catalogNs": null
+}

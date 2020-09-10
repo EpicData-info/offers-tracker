@@ -8,7 +8,7 @@
   "productSlug": "stick-it-to-the-man",
   "urlSlug": "stick-it-to-the-man",
   "creationDate": "2020-01-23T22:55:11.967Z",
-  "lastModifiedDate": "2020-09-10T14:41:17.614Z",
+  "lastModifiedDate": "2020-09-10T15:00:00.747Z",
   "effectiveDate": "2020-09-17T15:00:00.000Z",
   "viewableDate": "2020-09-10T14:20:00.000Z",
   "developer": null,
@@ -29,6 +29,12 @@
     },
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
