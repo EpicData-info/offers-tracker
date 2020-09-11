@@ -8,7 +8,7 @@
   "productSlug": "star-wars-squadrons/home",
   "urlSlug": "bobcatgeneralaudience",
   "creationDate": "2020-04-16T20:33:06.845Z",
-  "lastModifiedDate": "2020-06-15T14:54:24.933Z",
+  "lastModifiedDate": "2020-09-11T12:52:53.038Z",
   "effectiveDate": "2020-05-03T15:00:00.000Z",
   "viewableDate": "2020-05-03T15:00:00.000Z",
   "developer": null,
@@ -37,7 +37,56 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1121",
+      "name": "SPACE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:18.640Z",
+      "updated": "2020-09-11T12:52:53.234Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-11T12:52:53.292Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-11T12:52:53.257Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-11T12:52:53.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
