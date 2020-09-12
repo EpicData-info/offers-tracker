@@ -8,8 +8,8 @@
   "productSlug": "castlestorm2/demo",
   "urlSlug": "castlestorm-2-demo",
   "creationDate": "2020-04-02T21:15:24.698Z",
-  "lastModifiedDate": "2020-06-12T21:20:50.030Z",
-  "effectiveDate": "2020-06-12T20:00:00.000Z",
+  "lastModifiedDate": "2020-09-12T14:56:24.905Z",
+  "effectiveDate": "2020-09-12T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,6 +28,9 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
       "path": "games/demo"
     },
     {
@@ -35,11 +38,66 @@
     }
   ],
   "tags": [
-    null,
-    null,
-    null,
-    null,
-    null
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-10T19:57:35.384Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-11T12:52:53.292Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1270",
+      "name": "ONLINE CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:32.763Z",
+      "updated": "2020-07-16T20:05:03.264Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-11T12:52:53.275Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-10T20:58:43.751Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    }
   ],
   "customAttributes": [
     {
