@@ -1,0 +1,52 @@
+{
+  "id": "e12ad6eeb886454bb2486ae2dab94bdc",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "50 Point Pack",
+  "description": "50 Point Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pathofexile50pointpack",
+  "creationDate": "2020-09-14T19:42:31.250Z",
+  "lastModifiedDate": "2020-09-14T22:31:50.411Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6f760ba516444604b004aed16e1cf53f"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "7a4a0a2af51d42ea8c7eda7c3540f3f0",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "First Blood Pack",
+  "description": "First Blood Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pathofexilefirstbloodpack",
+  "creationDate": "2020-09-14T22:30:02.173Z",
+  "lastModifiedDate": "2020-09-14T22:30:49.523Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "aab0ed9ab91841a5a6e848a32f759b79"
+    },
+    {
+      "id": "a4865ff93cf248a1809b91d25c03871b"
+    }
+  ],
+  "catalogNs": null
+}
