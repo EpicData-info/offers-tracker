@@ -1,0 +1,52 @@
+{
+  "id": "d79e3248103445809800dc37d0d4d086",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "Crusader Pack",
+  "description": "Crusader Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "path-of-exile--crusader-pack",
+  "creationDate": "2020-09-14T23:22:08.232Z",
+  "lastModifiedDate": "2020-09-14T23:22:08.232Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "49675c6c96e14f97aee71baf81954959"
+    }
+  ],
+  "catalogNs": null
+}
