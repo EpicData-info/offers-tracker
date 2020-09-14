@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "peweestarterpack",
   "creationDate": "2020-04-23T20:29:21.773Z",
-  "lastModifiedDate": "2020-08-17T19:39:42.060Z",
+  "lastModifiedDate": "2020-09-14T15:40:52.994Z",
   "effectiveDate": "2020-07-02T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -117,51 +117,6 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
-      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
-      "size": 430307,
-      "uploadedDate": "2019-09-04T18:48:43.067Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
-      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
-      "size": 257555,
-      "uploadedDate": "2019-09-04T18:48:51.254Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
-      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
-      "size": 3748,
-      "uploadedDate": "2019-09-04T18:49:00.817Z",
-      "width": 200,
-      "height": 200
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:13.858Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:22.926Z",
-      "width": 340,
-      "height": 440
-    },
-    {
       "type": "OfferImageTall",
       "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
       "md5": "0ed0d904996970c2b49ab821379aad22",
@@ -176,6 +131,42 @@
       "md5": "c9349a3be206fd032fb10212b21b78c4",
       "size": 1755723,
       "uploadedDate": "2020-07-22T15:54:00.451Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
+      "md5": "0ed0d904996970c2b49ab821379aad22",
+      "size": 1652175,
+      "uploadedDate": "2020-09-14T15:39:42.952Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
+      "md5": "0ed0d904996970c2b49ab821379aad22",
+      "size": 1652175,
+      "uploadedDate": "2020-09-14T15:39:51.715Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-ba47634c18d527a443ed8695b6dcef0b.jpg",
+      "md5": "ba47634c18d527a443ed8695b6dcef0b",
+      "size": 519372,
+      "uploadedDate": "2020-09-14T15:40:03.009Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_HeroCarousel_1920x1080-1920x1080-c9349a3be206fd032fb10212b21b78c4-1920x1080-c9349a3be206fd032fb10212b21b78c4.jpg",
+      "md5": "c9349a3be206fd032fb10212b21b78c4",
+      "size": 1755723,
+      "uploadedDate": "2020-09-14T15:40:43.064Z",
       "width": 1920,
       "height": 1080
     }
