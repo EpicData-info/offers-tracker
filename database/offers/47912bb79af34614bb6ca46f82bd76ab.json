@@ -1,0 +1,52 @@
+{
+  "id": "47912bb79af34614bb6ca46f82bd76ab",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "Divine Benevolence Pack",
+  "description": "Divine Benevolence Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "path-of-exile--divine-benevolence-pack",
+  "creationDate": "2020-09-14T23:03:28.471Z",
+  "lastModifiedDate": "2020-09-14T23:03:28.471Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "25231f2719a64d8c82d9fe43c02a3f99"
+    }
+  ],
+  "catalogNs": null
+}

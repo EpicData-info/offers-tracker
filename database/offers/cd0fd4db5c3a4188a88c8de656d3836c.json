@@ -1,0 +1,52 @@
+{
+  "id": "cd0fd4db5c3a4188a88c8de656d3836c",
+  "namespace": "7ad5508d382e46228056f1d1a0189ae2",
+  "title": "Eyrie Pack",
+  "description": "Eyrie Pack",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "path-of-exile--eyrie-pack",
+  "creationDate": "2020-09-14T23:17:15.000Z",
+  "lastModifiedDate": "2020-09-14T23:17:15.000Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-hjnk7yyxh7s2pm8k5dhxnubswnbler",
+    "name": "Grinding Gear Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN,TW,HK,MO"
+    },
+    {
+      "key": "publisherName",
+      "value": "Grinding Gear Games"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "3b23adc3df854ac49cd9484250dcb3c3"
+    }
+  ],
+  "catalogNs": null
+}
