@@ -1,14 +1,14 @@
 {
   "id": "eda5d1535af7450fa92b1982d0c4f6dd",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-  "title": "Starter Pack",
-  "description": "Starter Pack",
+  "title": "Endo Starter Pack",
+  "description": "Endo Starter Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "starterpack",
   "creationDate": "2020-03-30T19:04:47.371Z",
-  "lastModifiedDate": "2020-08-10T19:45:41.219Z",
+  "lastModifiedDate": "2020-09-15T15:40:45.419Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,62 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S1-2560x1440-ec6ebd36b12e547d9c546bceebb79b39.jpg",
+      "md5": "ec6ebd36b12e547d9c546bceebb79b39",
+      "size": 656856,
+      "uploadedDate": "2020-09-15T15:39:49.796Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
+      "md5": "8111cf721d861d52599309551801f97d",
+      "size": 358193,
+      "uploadedDate": "2020-09-15T15:39:55.477Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S1-2560x1440-ec6ebd36b12e547d9c546bceebb79b39.jpg",
+      "md5": "ec6ebd36b12e547d9c546bceebb79b39",
+      "size": 656856,
+      "uploadedDate": "2020-09-15T15:40:07.006Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
+      "md5": "8111cf721d861d52599309551801f97d",
+      "size": 358193,
+      "uploadedDate": "2020-09-15T15:40:13.097Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
+      "md5": "8111cf721d861d52599309551801f97d",
+      "size": 358193,
+      "uploadedDate": "2020-09-15T15:40:21.493Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
+      "md5": "8111cf721d861d52599309551801f97d",
+      "size": 358193,
+      "uploadedDate": "2020-09-15T15:40:28.851Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "fe38f7ef3de3439eb9f11044a58815ca"

@@ -1,14 +1,14 @@
 {
   "id": "533cdc006174426fba54c40e6551f62a",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-  "title": "Content Pack",
-  "description": "Content Pack",
+  "title": "Jäger Pack",
+  "description": "Jäger Pack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "contentpack",
   "creationDate": "2020-03-30T19:13:38.597Z",
-  "lastModifiedDate": "2020-08-10T19:45:05.013Z",
+  "lastModifiedDate": "2020-09-15T15:42:26.592Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,62 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S1-2560x1440-506d173c514a03da0c0d6f5a43b56a58.jpg",
+      "md5": "506d173c514a03da0c0d6f5a43b56a58",
+      "size": 723737,
+      "uploadedDate": "2020-09-15T15:41:26.822Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S2-1200x1600-c41989c62a713f0e98c382129cf4cecc.jpg",
+      "md5": "c41989c62a713f0e98c382129cf4cecc",
+      "size": 395768,
+      "uploadedDate": "2020-09-15T15:41:32.179Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S1-2560x1440-506d173c514a03da0c0d6f5a43b56a58.jpg",
+      "md5": "506d173c514a03da0c0d6f5a43b56a58",
+      "size": 723737,
+      "uploadedDate": "2020-09-15T15:41:42.424Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S2-1200x1600-c41989c62a713f0e98c382129cf4cecc.jpg",
+      "md5": "c41989c62a713f0e98c382129cf4cecc",
+      "size": 395768,
+      "uploadedDate": "2020-09-15T15:41:49.037Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S2-1200x1600-c41989c62a713f0e98c382129cf4cecc.jpg",
+      "md5": "c41989c62a713f0e98c382129cf4cecc",
+      "size": 395768,
+      "uploadedDate": "2020-09-15T15:42:05.303Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueJgerPack_PsyonixLLC_DLC_S2-1200x1600-c41989c62a713f0e98c382129cf4cecc.jpg",
+      "md5": "c41989c62a713f0e98c382129cf4cecc",
+      "size": 395768,
+      "uploadedDate": "2020-09-15T15:42:10.804Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c06bc2321cc24fa889bca5c711e34cb7"
