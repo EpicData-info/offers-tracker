@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--50-point-pack",
   "creationDate": "2020-09-14T19:42:31.250Z",
-  "lastModifiedDate": "2020-09-14T22:49:35.333Z",
+  "lastModifiedDate": "2020-09-16T22:04:17.891Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_50PointPack-1920x1080-2bbb0be3543e7d86a58b66ea4932ab33.png",
+      "md5": "2bbb0be3543e7d86a58b66ea4932ab33",
+      "size": 2349177,
+      "uploadedDate": "2020-09-16T22:03:52.078Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_50PointPack-1920x1080-2bbb0be3543e7d86a58b66ea4932ab33.png",
+      "md5": "2bbb0be3543e7d86a58b66ea4932ab33",
+      "size": 2349177,
+      "uploadedDate": "2020-09-16T22:04:06.125Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "6f760ba516444604b004aed16e1cf53f"

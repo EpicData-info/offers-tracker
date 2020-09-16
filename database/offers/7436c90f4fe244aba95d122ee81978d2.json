@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--100-point-pack",
   "creationDate": "2020-09-14T19:52:39.121Z",
-  "lastModifiedDate": "2020-09-14T22:52:21.787Z",
+  "lastModifiedDate": "2020-09-16T22:07:13.627Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_100PointPack-1920x1080-4f4d4b2759d79edbf5a25ce2b8a0913c.png",
+      "md5": "4f4d4b2759d79edbf5a25ce2b8a0913c",
+      "size": 2422447,
+      "uploadedDate": "2020-09-16T22:07:02.578Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_100PointPack-1920x1080-4f4d4b2759d79edbf5a25ce2b8a0913c.png",
+      "md5": "4f4d4b2759d79edbf5a25ce2b8a0913c",
+      "size": 2422447,
+      "uploadedDate": "2020-09-16T22:06:55.583Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "065536a3a5724ffba74f5588b736afe4"

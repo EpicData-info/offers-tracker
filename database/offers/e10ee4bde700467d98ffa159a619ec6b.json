@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--benevolence-pack",
   "creationDate": "2020-09-14T23:07:35.378Z",
-  "lastModifiedDate": "2020-09-14T23:07:35.378Z",
+  "lastModifiedDate": "2020-09-16T22:01:38.028Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Benevolence-1920x1080-8b039d0d0c2ac9210f33bbd109588bc8.png",
+      "md5": "8b039d0d0c2ac9210f33bbd109588bc8",
+      "size": 2549772,
+      "uploadedDate": "2020-09-16T22:01:20.703Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Benevolence-1920x1080-8b039d0d0c2ac9210f33bbd109588bc8.png",
+      "md5": "8b039d0d0c2ac9210f33bbd109588bc8",
+      "size": 2549772,
+      "uploadedDate": "2020-09-16T22:01:34.016Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "84f812f5832949608df96c9cd4be24e3"

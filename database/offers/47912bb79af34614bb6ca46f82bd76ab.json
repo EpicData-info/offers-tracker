@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--divine-benevolence-pack",
   "creationDate": "2020-09-14T23:03:28.471Z",
-  "lastModifiedDate": "2020-09-14T23:03:28.471Z",
+  "lastModifiedDate": "2020-09-16T21:55:56.387Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_DivineBenevolence-1920x1080-6024cb3dc4b21f3e131b2aaa2576c14a.png",
+      "md5": "6024cb3dc4b21f3e131b2aaa2576c14a",
+      "size": 2600784,
+      "uploadedDate": "2020-09-16T21:55:14.920Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_DivineBenevolence-1920x1080-6024cb3dc4b21f3e131b2aaa2576c14a.png",
+      "md5": "6024cb3dc4b21f3e131b2aaa2576c14a",
+      "size": 2600784,
+      "uploadedDate": "2020-09-16T21:55:27.213Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "25231f2719a64d8c82d9fe43c02a3f99"

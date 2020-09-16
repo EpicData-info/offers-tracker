@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--eagle-pack",
   "creationDate": "2020-09-14T22:48:20.309Z",
-  "lastModifiedDate": "2020-09-14T22:48:20.309Z",
+  "lastModifiedDate": "2020-09-16T21:54:19.946Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Eagle-1920x1080-02afeb41df3b9bdd15e0363c454cc495.png",
+      "md5": "02afeb41df3b9bdd15e0363c454cc495",
+      "size": 2285891,
+      "uploadedDate": "2020-09-16T21:53:52.558Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Eagle-1920x1080-02afeb41df3b9bdd15e0363c454cc495.png",
+      "md5": "02afeb41df3b9bdd15e0363c454cc495",
+      "size": 2285891,
+      "uploadedDate": "2020-09-16T21:54:02.154Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "f404bf660c4b4cf986cd1c05bb781bb0"

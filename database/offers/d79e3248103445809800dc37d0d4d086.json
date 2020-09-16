@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--crusader-pack",
   "creationDate": "2020-09-14T23:22:08.232Z",
-  "lastModifiedDate": "2020-09-14T23:22:08.232Z",
+  "lastModifiedDate": "2020-09-16T22:00:42.618Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Crusader-1920x1080-1a2427dbc09d1c29858314ab52cf1e23.png",
+      "md5": "1a2427dbc09d1c29858314ab52cf1e23",
+      "size": 1837337,
+      "uploadedDate": "2020-09-16T21:59:48.370Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Crusader-1920x1080-1a2427dbc09d1c29858314ab52cf1e23.png",
+      "md5": "1a2427dbc09d1c29858314ab52cf1e23",
+      "size": 1837337,
+      "uploadedDate": "2020-09-16T21:59:57.753Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "49675c6c96e14f97aee71baf81954959"

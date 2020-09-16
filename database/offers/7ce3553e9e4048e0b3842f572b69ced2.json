@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--200-point-pack",
   "creationDate": "2020-09-14T19:53:40.192Z",
-  "lastModifiedDate": "2020-09-14T22:45:56.115Z",
+  "lastModifiedDate": "2020-09-16T22:05:57.415Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_200PointPack-1920x1080-30de447b5149f5952e4ff83a869863d4.png",
+      "md5": "30de447b5149f5952e4ff83a869863d4",
+      "size": 2442087,
+      "uploadedDate": "2020-09-16T22:05:39.807Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_200PointPack-1920x1080-30de447b5149f5952e4ff83a869863d4.png",
+      "md5": "30de447b5149f5952e4ff83a869863d4",
+      "size": 2442087,
+      "uploadedDate": "2020-09-16T22:05:31.400Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "2a25770c8be04155b3b9fdc2fdd5bed2"
