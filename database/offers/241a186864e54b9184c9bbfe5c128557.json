@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--imperial-eagle-pack",
   "creationDate": "2020-09-14T22:49:55.098Z",
-  "lastModifiedDate": "2020-09-14T22:49:55.098Z",
+  "lastModifiedDate": "2020-09-16T21:48:19.079Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_ImperialEagle-1920x1080-c30e93a76ac5bfda68be72ef2683c9af.png",
+      "md5": "c30e93a76ac5bfda68be72ef2683c9af",
+      "size": 2417803,
+      "uploadedDate": "2020-09-16T21:47:54.867Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_ImperialEagle-1920x1080-c30e93a76ac5bfda68be72ef2683c9af.png",
+      "md5": "c30e93a76ac5bfda68be72ef2683c9af",
+      "size": 2417803,
+      "uploadedDate": "2020-09-16T21:48:07.603Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "26902a9539a74127b29333bf96866791"

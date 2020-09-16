@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "malice-to-insatiable-malice-upgrade",
   "creationDate": "2020-09-14T22:51:55.723Z",
-  "lastModifiedDate": "2020-09-14T22:53:34.885Z",
+  "lastModifiedDate": "2020-09-16T21:45:26.062Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_InsatiableMalice-1920x1080-b0f00cdd535dc46b05cd3a5560ec3da8.png",
+      "md5": "b0f00cdd535dc46b05cd3a5560ec3da8",
+      "size": 2451705,
+      "uploadedDate": "2020-09-16T21:45:01.148Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_InsatiableMalice-1920x1080-b0f00cdd535dc46b05cd3a5560ec3da8.png",
+      "md5": "b0f00cdd535dc46b05cd3a5560ec3da8",
+      "size": 2451705,
+      "uploadedDate": "2020-09-16T21:45:14.874Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "6cdbf8b83ef14ed3bd7de51a0a02837a"

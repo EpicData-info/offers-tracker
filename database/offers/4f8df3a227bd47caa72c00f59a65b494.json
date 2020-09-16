@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--judicator-pack",
   "creationDate": "2020-09-14T23:11:57.310Z",
-  "lastModifiedDate": "2020-09-14T23:11:57.310Z",
+  "lastModifiedDate": "2020-09-16T21:42:02.014Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Judicator-1920x1080-ffe2b11b15de049b5a7cda901ad56b28.png",
+      "md5": "ffe2b11b15de049b5a7cda901ad56b28",
+      "size": 2065386,
+      "uploadedDate": "2020-09-16T21:41:43.622Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Judicator-1920x1080-ffe2b11b15de049b5a7cda901ad56b28.png",
+      "md5": "ffe2b11b15de049b5a7cda901ad56b28",
+      "size": 2065386,
+      "uploadedDate": "2020-09-16T21:41:57.808Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "02af3d6713d547b59b44ee4f5e722225"

@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "pathofexilefirstbloodpack",
   "creationDate": "2020-09-14T22:30:02.173Z",
-  "lastModifiedDate": "2020-09-14T22:30:49.523Z",
+  "lastModifiedDate": "2020-09-16T21:50:25.087Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_FirstBlood-1920x1080-47627fcf6541459ebade984bc66b75c6.png",
+      "md5": "47627fcf6541459ebade984bc66b75c6",
+      "size": 2344159,
+      "uploadedDate": "2020-09-16T21:49:57.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_FirstBlood-1920x1080-47627fcf6541459ebade984bc66b75c6.png",
+      "md5": "47627fcf6541459ebade984bc66b75c6",
+      "size": 2344159,
+      "uploadedDate": "2020-09-16T21:50:11.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "aab0ed9ab91841a5a6e848a32f759b79"

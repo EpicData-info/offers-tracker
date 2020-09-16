@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--eyrie-pack",
   "creationDate": "2020-09-14T23:17:15.000Z",
-  "lastModifiedDate": "2020-09-14T23:17:15.000Z",
+  "lastModifiedDate": "2020-09-16T21:51:44.251Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Eyrie-1920x1080-f4373bc04f59d53dde2af07f24f5127f.png",
+      "md5": "f4373bc04f59d53dde2af07f24f5127f",
+      "size": 2091709,
+      "uploadedDate": "2020-09-16T21:51:08.351Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Eyrie-1920x1080-f4373bc04f59d53dde2af07f24f5127f.png",
+      "md5": "f4373bc04f59d53dde2af07f24f5127f",
+      "size": 2091709,
+      "uploadedDate": "2020-09-16T21:51:35.085Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "3b23adc3df854ac49cd9484250dcb3c3"

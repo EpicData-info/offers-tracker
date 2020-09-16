@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--insatiable-malice-pack",
   "creationDate": "2020-09-14T23:02:14.796Z",
-  "lastModifiedDate": "2020-09-14T23:02:14.796Z",
+  "lastModifiedDate": "2020-09-16T21:47:13.394Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_InsatiableMalice-1920x1080-b0f00cdd535dc46b05cd3a5560ec3da8.png",
+      "md5": "b0f00cdd535dc46b05cd3a5560ec3da8",
+      "size": 2451705,
+      "uploadedDate": "2020-09-16T21:45:57.823Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_InsatiableMalice-1920x1080-b0f00cdd535dc46b05cd3a5560ec3da8.png",
+      "md5": "b0f00cdd535dc46b05cd3a5560ec3da8",
+      "size": 2451705,
+      "uploadedDate": "2020-09-16T21:46:28.475Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "08f5c741df5a43829418b183b4e6dcd9"

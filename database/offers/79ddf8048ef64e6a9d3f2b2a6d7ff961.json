@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--malice-pack",
   "creationDate": "2020-09-14T22:56:40.705Z",
-  "lastModifiedDate": "2020-09-14T22:56:40.705Z",
+  "lastModifiedDate": "2020-09-16T21:39:05.383Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Malice-1920x1080-2d4f6f4ae5c9a2597f13bbc4421a90f2.png",
+      "md5": "2d4f6f4ae5c9a2597f13bbc4421a90f2",
+      "size": 2403009,
+      "uploadedDate": "2020-09-16T21:38:23.794Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_Malice-1920x1080-2d4f6f4ae5c9a2597f13bbc4421a90f2.png",
+      "md5": "2d4f6f4ae5c9a2597f13bbc4421a90f2",
+      "size": 2403009,
+      "uploadedDate": "2020-09-16T21:38:51.974Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "c5d8dd2d1e774ca696c0f6d2c7f7ca43"

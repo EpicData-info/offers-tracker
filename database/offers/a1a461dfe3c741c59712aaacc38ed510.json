@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "spellblade-to-master-spellblade-upgrade",
   "creationDate": "2020-09-14T22:35:52.970Z",
-  "lastModifiedDate": "2020-09-14T22:43:25.693Z",
+  "lastModifiedDate": "2020-09-16T21:37:33.623Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -42,7 +42,26 @@
       "value": "Grinding Gear Games"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_MasterSpellblade-1920x1080-81c9799be43a004e6b3a7bc6c0a0d129.png",
+      "md5": "81c9799be43a004e6b3a7bc6c0a0d129",
+      "size": 2340966,
+      "uploadedDate": "2020-09-16T21:37:10.661Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_MasterSpellblade-1920x1080-81c9799be43a004e6b3a7bc6c0a0d129.png",
+      "md5": "81c9799be43a004e6b3a7bc6c0a0d129",
+      "size": 2340966,
+      "uploadedDate": "2020-09-16T21:37:21.078Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
   "items": [
     {
       "id": "d8149755b145479aa43c880e6141dc68"
