@@ -1,0 +1,155 @@
+{
+  "id": "4ec50a302f1449b3bf706a199c333ab8",
+  "namespace": "f01b3e0178d448f0b93911e292d8e614",
+  "title": "RollerCoaster Tycoon® 3: Complete Edition",
+  "description": "RollerCoaster Tycoon® 3: Complete Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "rollercoaster-tycoon-3-complete-edition/home",
+  "urlSlug": "mainegeneralaudience",
+  "creationDate": "2020-05-05T16:50:08.150Z",
+  "lastModifiedDate": "2020-09-17T14:04:21.649Z",
+  "effectiveDate": "2020-09-24T15:00:00.000Z",
+  "viewableDate": "2020-09-17T14:20:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "name": "Frontier Developments"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Frontier Foundry"
+    },
+    {
+      "key": "developerName",
+      "value": "Frontier Developments"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rollercoaster-tycoon-3-complete-edition/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "md5": "689d96ca4d5a4e8de183b7a928960c87",
+      "size": 987776,
+      "uploadedDate": "2020-09-15T16:48:45.099Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+      "size": 987354,
+      "uploadedDate": "2020-09-15T16:48:51.490Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
+      "md5": "689d96ca4d5a4e8de183b7a928960c87",
+      "size": 987776,
+      "uploadedDate": "2020-09-15T16:48:59.676Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+      "size": 987354,
+      "uploadedDate": "2020-09-15T16:49:06.760Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+      "size": 987354,
+      "uploadedDate": "2020-09-15T16:49:14.142Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
+      "md5": "591ca93f3bee7bc55a90b77ccc36eb84",
+      "size": 987354,
+      "uploadedDate": "2020-09-15T16:49:21.571Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d666b5e22c58413ebcf10a028d2364ee"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,16 +1,16 @@
 {
-  "id": "4d6f7c738cb6468d8fccce3de8d5d02e",
+  "id": "c5ab3ce9055042149520779a2b353e21",
   "namespace": "456d95ca54814c8d98db2f52346ff5de",
-  "title": "The Dungeon of Naheulbeuk",
-  "description": "The Dungeon of Naheulbeuk",
+  "title": "The Dungeon of Naheulbeuk Deluxe Edition",
+  "description": "The Dungeon of Naheulbeuk Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "the-dungeon-of-naheulbeuk",
-  "urlSlug": "sarajevogeneralaudience",
-  "creationDate": "2020-06-29T16:24:16.749Z",
-  "lastModifiedDate": "2020-09-17T14:18:45.628Z",
+  "productSlug": "the-dungeon-of-naheulbeuk/deluxe-edition",
+  "urlSlug": "sarajevogeneralaudience-01",
+  "creationDate": "2020-08-21T14:48:57.157Z",
+  "lastModifiedDate": "2020-09-17T14:18:45.661Z",
   "effectiveDate": "2020-09-17T15:00:00.000Z",
-  "viewableDate": "2020-07-01T15:00:00.000Z",
+  "viewableDate": "2020-09-17T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
@@ -126,61 +123,61 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "the-dungeon-of-naheulbeuk"
+      "value": "the-dungeon-of-naheulbeuk/deluxe-edition"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
-      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
-      "size": 976796,
-      "uploadedDate": "2020-06-29T19:48:25.425Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_00-1920x1080-9feadf88efdcf55c5133017ccb4be642.jpg",
+      "md5": "9feadf88efdcf55c5133017ccb4be642",
+      "size": 991484,
+      "uploadedDate": "2020-09-16T16:29:26.981Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_00-1920x1080-9feadf88efdcf55c5133017ccb4be642.jpg",
+      "md5": "9feadf88efdcf55c5133017ccb4be642",
+      "size": 991484,
+      "uploadedDate": "2020-09-16T16:29:30.867Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
-      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
-      "size": 872674,
-      "uploadedDate": "2020-06-29T19:48:35.985Z",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_001-1200x1600-611054f50c9438e41999a2dc4c4597fc.jpg",
+      "md5": "611054f50c9438e41999a2dc4c4597fc",
+      "size": 921897,
+      "uploadedDate": "2020-09-16T20:32:28.865Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
-      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
-      "size": 872674,
-      "uploadedDate": "2020-06-29T19:48:57.613Z",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_001-1200x1600-611054f50c9438e41999a2dc4c4597fc.jpg",
+      "md5": "611054f50c9438e41999a2dc4c4597fc",
+      "size": 921897,
+      "uploadedDate": "2020-09-16T20:32:37.490Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
-      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
-      "size": 872674,
-      "uploadedDate": "2020-06-29T19:49:23.685Z",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_001-1200x1600-611054f50c9438e41999a2dc4c4597fc.jpg",
+      "md5": "611054f50c9438e41999a2dc4c4597fc",
+      "size": 921897,
+      "uploadedDate": "2020-09-16T20:32:45.675Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S1-2560x1440-b9f0201b134b1a6a57fe46bc43fdf859.jpg",
-      "md5": "b9f0201b134b1a6a57fe46bc43fdf859",
-      "size": 976796,
-      "uploadedDate": "2020-06-29T19:50:14.626Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_TheDungeonOfNaheulbeukTheAmuletOfChaos_ArtefactsStudio_S2-1200x1600-c6e41542f7fd54417e77bc9ed7eee0e1.jpg",
-      "md5": "c6e41542f7fd54417e77bc9ed7eee0e1",
-      "size": 872674,
-      "uploadedDate": "2020-06-29T19:50:28.038Z",
+      "url": "https://cdn1.epicgames.com/456d95ca54814c8d98db2f52346ff5de/offer/EGS_DeluxeEdition_ArtefactsStudio_Editions_G1A_001-1200x1600-611054f50c9438e41999a2dc4c4597fc.jpg",
+      "md5": "611054f50c9438e41999a2dc4c4597fc",
+      "size": 921897,
+      "uploadedDate": "2020-09-16T20:32:55.026Z",
       "width": 1200,
       "height": 1600
     }
@@ -188,6 +185,15 @@
   "items": [
     {
       "id": "9ef12d1bf8ee4e9296476234a8049ddf"
+    },
+    {
+      "id": "b0342c731fdd4eb08aded1b32cc4e22a"
+    },
+    {
+      "id": "0bc1502287614bf1b99b47ac27a36338"
+    },
+    {
+      "id": "c8f7b853a5774d0a8ccd8b310d2567f7"
     }
   ],
   "catalogNs": null
