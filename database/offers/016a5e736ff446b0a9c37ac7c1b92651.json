@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--insatiable-malice-pack",
   "creationDate": "2020-09-14T23:02:14.796Z",
-  "lastModifiedDate": "2020-09-16T22:50:40.173Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-18T21:09:06.395Z",
+  "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"

@@ -8,7 +8,7 @@
   "productSlug": "hades",
   "urlSlug": "hades",
   "creationDate": "2019-12-09T14:13:28.476Z",
-  "lastModifiedDate": "2020-06-23T17:05:21.304Z",
+  "lastModifiedDate": "2020-09-17T16:16:05.581Z",
   "effectiveDate": "2019-12-09T09:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -106,6 +106,20 @@
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -124,58 +138,58 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_PrimaryPromo_01-2580x1450-49918dc360c98bb4184a106165aa46a4.png",
+      "md5": "49918dc360c98bb4184a106165aa46a4",
+      "size": 2934221,
+      "uploadedDate": "2020-09-11T15:33:45.459Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png",
-      "md5": "66e384b9e4a219f1b951dc86c5af2182",
-      "size": 1184518,
-      "uploadedDate": "2020-06-23T17:02:52.732Z",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
+      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
+      "size": 1228896,
+      "uploadedDate": "2020-09-11T15:33:58.232Z",
       "width": 1280,
       "height": 1420
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_EventCover_01-800x450-6d2dae89e7061a5a191d77875d2661cf-800x450-6d2dae89e7061a5a191d77875d2661cf.png",
-      "md5": "6d2dae89e7061a5a191d77875d2661cf",
-      "size": 324045,
-      "uploadedDate": "2020-06-23T17:02:59.928Z",
-      "width": 800,
-      "height": 450
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png",
-      "md5": "66e384b9e4a219f1b951dc86c5af2182",
-      "size": 1184518,
-      "uploadedDate": "2020-06-23T17:03:09.200Z",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
+      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
+      "size": 1228896,
+      "uploadedDate": "2020-09-11T15:34:10.531Z",
       "width": 1280,
       "height": 1420
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png",
-      "md5": "66e384b9e4a219f1b951dc86c5af2182",
-      "size": 1184518,
-      "uploadedDate": "2020-06-23T17:03:17.458Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_Portrait_Promo_02-1280x1420-66e384b9e4a219f1b951dc86c5af2182-1280x1420-66e384b9e4a219f1b951dc86c5af2182.png",
-      "md5": "66e384b9e4a219f1b951dc86c5af2182",
-      "size": 1184518,
-      "uploadedDate": "2020-06-23T17:03:26.760Z",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
+      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
+      "size": 1228896,
+      "uploadedDate": "2020-09-11T15:34:24.589Z",
       "width": 1280,
       "height": 1420
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/min/offer/blood_EventCover_01-800x450-6d2dae89e7061a5a191d77875d2661cf-800x450-6d2dae89e7061a5a191d77875d2661cf.png",
-      "md5": "6d2dae89e7061a5a191d77875d2661cf",
-      "size": 324045,
-      "uploadedDate": "2020-06-23T17:03:34.909Z",
-      "width": 800,
-      "height": 450
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_PrimaryPromo_01-2580x1450-49918dc360c98bb4184a106165aa46a4.png",
+      "md5": "49918dc360c98bb4184a106165aa46a4",
+      "size": 2934221,
+      "uploadedDate": "2020-09-11T15:34:47.456Z",
+      "width": 2580,
+      "height": 1450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
+      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
+      "size": 1228896,
+      "uploadedDate": "2020-09-11T15:34:59.636Z",
+      "width": 1280,
+      "height": 1420
     }
   ],
   "items": [

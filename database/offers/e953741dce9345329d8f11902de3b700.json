@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "jackalplaytest-audience",
   "creationDate": "2019-10-03T17:25:16.907Z",
-  "lastModifiedDate": "2020-06-11T16:55:23.660Z",
+  "lastModifiedDate": "2020-09-17T16:58:56.719Z",
   "effectiveDate": "2050-08-01T10:05:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -44,13 +44,22 @@
   ],
   "keyImages": [
     {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
+      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
+      "size": 431629,
+      "uploadedDate": "2020-09-15T18:39:25.744Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/CodeRedemption_Dauntless-340x440-8c173f7f695d8f78c3e4f4a798d48d82.png",
-      "md5": "8c173f7f695d8f78c3e4f4a798d48d82",
-      "size": 214147,
-      "uploadedDate": "2019-10-03T17:56:37.048Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
+      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
+      "size": 431629,
+      "uploadedDate": "2020-09-15T18:39:33.603Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

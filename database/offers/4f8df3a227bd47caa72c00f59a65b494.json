@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--judicator-pack",
   "creationDate": "2020-09-14T23:11:57.310Z",
-  "lastModifiedDate": "2020-09-16T22:48:58.824Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-18T21:09:06.494Z",
+  "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"

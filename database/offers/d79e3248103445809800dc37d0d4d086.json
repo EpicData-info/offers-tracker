@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--crusader-pack",
   "creationDate": "2020-09-14T23:22:08.232Z",
-  "lastModifiedDate": "2020-09-16T23:02:30.083Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-18T21:09:06.677Z",
+  "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"

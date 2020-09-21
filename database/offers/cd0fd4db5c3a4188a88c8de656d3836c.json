@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "path-of-exile--eyrie-pack",
   "creationDate": "2020-09-14T23:17:15.000Z",
-  "lastModifiedDate": "2020-09-16T22:59:24.628Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-18T21:09:06.658Z",
+  "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
