@@ -1,0 +1,117 @@
+{
+  "id": "8a2dd95a9fe04bdebde02b46a8f41aed",
+  "namespace": "4751c4f6a96547209a33831d847d2810",
+  "title": "Art of Rally",
+  "description": "Art of Rally",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "art-of-rally/home",
+  "urlSlug": "artofrallygeneralaudience",
+  "creationDate": "2020-09-15T20:53:26.580Z",
+  "lastModifiedDate": "2020-09-22T15:11:16.624Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-t5l49f7rfs5msxanp53yay2r9em4q5",
+    "name": "Funselektor Labs INC"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Funselektor"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "art-of-rally/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s5-1920x1080-071924381-1920x1080-16f6571253181bd6aab8bf408f4dcb9f.jpg",
+      "md5": "16f6571253181bd6aab8bf408f4dcb9f",
+      "size": 200947,
+      "uploadedDate": "2020-09-22T15:01:06.866Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s4-1200x1600-071924356-1200x1600-60dd8cc8362d35e2074074b99756a92a.jpg",
+      "md5": "60dd8cc8362d35e2074074b99756a92a",
+      "size": 137745,
+      "uploadedDate": "2020-09-22T15:01:03.746Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s5-1920x1080-071924381-1920x1080-16f6571253181bd6aab8bf408f4dcb9f.jpg",
+      "md5": "16f6571253181bd6aab8bf408f4dcb9f",
+      "size": 200947,
+      "uploadedDate": "2020-09-22T15:01:00.307Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s4-1200x1600-071924356-1200x1600-60dd8cc8362d35e2074074b99756a92a.jpg",
+      "md5": "60dd8cc8362d35e2074074b99756a92a",
+      "size": 137745,
+      "uploadedDate": "2020-09-22T15:00:57.589Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s4-1200x1600-071924356-1200x1600-60dd8cc8362d35e2074074b99756a92a.jpg",
+      "md5": "60dd8cc8362d35e2074074b99756a92a",
+      "size": 137745,
+      "uploadedDate": "2020-09-22T15:00:53.421Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/4751c4f6a96547209a33831d847d2810/offer/egs-artofrally-funselektor-s4-1200x1600-071924356-1200x1600-60dd8cc8362d35e2074074b99756a92a.jpg",
+      "md5": "60dd8cc8362d35e2074074b99756a92a",
+      "size": 137745,
+      "uploadedDate": "2020-09-22T15:00:51.398Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "da593e0d6cb74c0f8353c05072070c6d"
+    }
+  ],
+  "catalogNs": null
+}
