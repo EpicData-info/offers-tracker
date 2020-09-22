@@ -8,7 +8,7 @@
   "productSlug": "the-solitaire-conspiracy",
   "urlSlug": "the-solitaire-conspiracy",
   "creationDate": "2020-09-15T15:19:01.326Z",
-  "lastModifiedDate": "2020-09-22T14:21:38.260Z",
+  "lastModifiedDate": "2020-09-22T14:29:03.207Z",
   "effectiveDate": "2020-10-06T15:00:00.000Z",
   "viewableDate": "2020-09-22T13:55:00.000Z",
   "developer": null,
@@ -116,7 +116,62 @@
       "value": "the-solitaire-conspiracy"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/p_product-1200x1600-4c049af5e01dddb87f64f783e6246d9e.jpg",
+      "md5": "4c049af5e01dddb87f64f783e6246d9e",
+      "size": 506513,
+      "uploadedDate": "2020-09-22T14:26:43.583Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/LS_featured-1920x1080-2422e6b234be4a179ffa858849006fe1.jpg",
+      "md5": "2422e6b234be4a179ffa858849006fe1",
+      "size": 677404,
+      "uploadedDate": "2020-09-22T14:26:52.166Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/p_product-1200x1600-4c049af5e01dddb87f64f783e6246d9e.jpg",
+      "md5": "4c049af5e01dddb87f64f783e6246d9e",
+      "size": 506513,
+      "uploadedDate": "2020-09-22T14:27:34.148Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/p_product-1200x1600-4c049af5e01dddb87f64f783e6246d9e.jpg",
+      "md5": "4c049af5e01dddb87f64f783e6246d9e",
+      "size": 506513,
+      "uploadedDate": "2020-09-22T14:27:45.681Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/p_product-1200x1600-4c049af5e01dddb87f64f783e6246d9e.jpg",
+      "md5": "4c049af5e01dddb87f64f783e6246d9e",
+      "size": 506513,
+      "uploadedDate": "2020-09-22T14:27:54.798Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/d5ac79ba9e7946908d8e22c002468348/offer/LS_product-2560x1440-89cc395511956ef6cec836b754a33921.jpg",
+      "md5": "89cc395511956ef6cec836b754a33921",
+      "size": 958190,
+      "uploadedDate": "2020-09-22T14:28:06.612Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "5b04ceadf053499ba8aee278f3738beb"
