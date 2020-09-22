@@ -1,0 +1,136 @@
+{
+  "id": "185ab6d416f44faaaeec5abfc36352fd",
+  "namespace": "2744acda6a2e493e9894b389b6564df7",
+  "title": "Clasico DLC",
+  "description": "Clasico DLC",
+  "longDescription": "DLC11 - Chevrolet Apache",
+  "status": "ACTIVE",
+  "productSlug": "snowrunner/clasico-pack",
+  "urlSlug": "mayflower-dlc11",
+  "creationDate": "2020-07-20T21:56:47.937Z",
+  "lastModifiedDate": "2020-09-22T12:56:14.890Z",
+  "effectiveDate": "2020-09-22T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "snowrunner/clasico-pack"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SR-ClasicoPack_EpicGames_Desktop-Horizontal-1360x766-1360x766-59ee9755b009f8c3da8a5ed872ebebfa.jpg",
+      "md5": "59ee9755b009f8c3da8a5ed872ebebfa",
+      "size": 876609,
+      "uploadedDate": "2020-09-03T19:02:15.403Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SR-ClasicoPack_EpicGames_Desktop-Vertical-510x680-510x680-4ca1e95b4e665778108ad3b54744715b.jpg",
+      "md5": "4ca1e95b4e665778108ad3b54744715b",
+      "size": 338706,
+      "uploadedDate": "2020-09-03T19:02:25.071Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SR-ClasicoPack_EpicGames_Desktop-Vertical-510x680-510x680-4ca1e95b4e665778108ad3b54744715b.jpg",
+      "md5": "4ca1e95b4e665778108ad3b54744715b",
+      "size": 338706,
+      "uploadedDate": "2020-09-03T19:02:34.719Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2744acda6a2e493e9894b389b6564df7/offer/SR-ClasicoPack_EpicGames_Desktop-Vertical-510x680-510x680-4ca1e95b4e665778108ad3b54744715b.jpg",
+      "md5": "4ca1e95b4e665778108ad3b54744715b",
+      "size": 338706,
+      "uploadedDate": "2020-09-03T19:02:43.475Z",
+      "width": 510,
+      "height": 680
+    }
+  ],
+  "items": [
+    {
+      "id": "f56b4cde749d4377bf1400b01b9bbfe4"
+    }
+  ],
+  "catalogNs": null
+}
