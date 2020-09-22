@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "impalatrialaudience",
   "creationDate": "2019-10-14T22:57:25.704Z",
-  "lastModifiedDate": "2020-09-22T16:53:31.382Z",
+  "lastModifiedDate": "2020-09-22T18:24:31.599Z",
   "effectiveDate": "2020-09-24T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -56,13 +56,22 @@
       "height": 1080
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
+      "md5": "fce93abc3ae467399de852c3560572aa",
+      "size": 3426320,
+      "uploadedDate": "2020-09-22T18:24:00.642Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_Capsule_1920x1080_UK-1920x1080-b640aa1d45cde4478638cdfbd26e7c06.jpg",
-      "md5": "b640aa1d45cde4478638cdfbd26e7c06",
-      "size": 1126873,
-      "uploadedDate": "2020-09-22T16:53:09.196Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
+      "md5": "fce93abc3ae467399de852c3560572aa",
+      "size": 3426320,
+      "uploadedDate": "2020-09-22T18:24:25.172Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
