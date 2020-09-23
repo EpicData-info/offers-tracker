@@ -1,0 +1,89 @@
+{
+  "id": "649633ef50aa42dc93d389092e2c834a",
+  "namespace": "c3e63401d6ba410493de31ed69a798a1",
+  "title": "SP Anti Tank US",
+  "description": "Soldier Pack: Infantry Anti-Tank US  - 19,99€",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "anti-tank-us",
+  "creationDate": "2020-04-29T03:04:38.612Z",
+  "lastModifiedDate": "2020-09-23T05:15:06.313Z",
+  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5gfjc6842mpumpd4slgddhbhqw7e8l",
+    "name": "RETO MOTO"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-09-14T17:08:09.938Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-10T16:00:33.411Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "RETO MOTO"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "1a39ab5fb07a4026addf6d2e4313eb99"
+    }
+  ],
+  "catalogNs": null
+}
