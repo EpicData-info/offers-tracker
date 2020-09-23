@@ -8,13 +8,13 @@
   "productSlug": null,
   "urlSlug": "1200tokens",
   "creationDate": "2020-03-30T19:57:03.885Z",
-  "lastModifiedDate": "2020-08-10T19:40:31.190Z",
+  "lastModifiedDate": "2020-09-23T00:36:47.115Z",
   "effectiveDate": "2050-03-01T15:32:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-    "name": "My Test Org"
+    "name": "Psyonix LLC"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -42,7 +42,17 @@
       "value": "[]"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
+      "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
+      "size": 267601,
+      "uploadedDate": "2020-09-23T00:36:07.803Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "79d87899ca6946ee9e5ba03850a052d9"
