@@ -8,8 +8,8 @@
   "productSlug": null,
   "urlSlug": "1200tokens",
   "creationDate": "2020-03-30T19:57:03.885Z",
-  "lastModifiedDate": "2020-09-23T00:36:47.115Z",
-  "effectiveDate": "2050-03-01T15:32:00.000Z",
+  "lastModifiedDate": "2020-09-23T14:51:20.840Z",
+  "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -35,11 +35,11 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "CN,HK,MO,TW,KR"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Psyonix LLC"
     }
   ],
   "keyImages": [
@@ -48,7 +48,7 @@
       "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
       "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
       "size": 267601,
-      "uploadedDate": "2020-09-23T00:36:07.803Z",
+      "uploadedDate": "2020-09-23T00:53:25.884Z",
       "width": 1200,
       "height": 1600
     }

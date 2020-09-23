@@ -8,13 +8,13 @@
   "productSlug": "rocket-league",
   "urlSlug": "rocket-league",
   "creationDate": "2019-07-17T15:21:47.960Z",
-  "lastModifiedDate": "2020-09-15T16:22:46.035Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-23T14:51:20.676Z",
+  "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
-    "name": "My Test Org"
+    "name": "Psyonix LLC"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "1283",
-      "name": "SPORTS",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:39.226Z",
-      "updated": "2020-09-16T23:47:27.335Z",
-      "status": "ACTIVE",
-      "referenceCount": 2,
-      "comment": null
-    },
-    {
       "id": "1203",
       "name": "MULTIPLAYER",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2020-09-16T23:47:27.269Z",
       "status": "ACTIVE",
       "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-09-16T23:47:27.335Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
       "comment": null
     },
     {
@@ -133,12 +133,24 @@
       "status": "ACTIVE",
       "referenceCount": 6,
       "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "CN,HK,MO,TW,KR"
     },
     {
       "key": "developerName",
@@ -152,55 +164,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S3-2560x1440-221211d511938910e96f538f1a8a4a8b.jpg",
-      "md5": "221211d511938910e96f538f1a8a4a8b",
-      "size": 375498,
-      "uploadedDate": "2020-09-15T16:21:25.652Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-168fede121381f27fcb8336032835c21.jpg",
+      "md5": "168fede121381f27fcb8336032835c21",
+      "size": 370751,
+      "uploadedDate": "2020-09-22T03:27:08.801Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
       "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
       "size": 267601,
-      "uploadedDate": "2020-09-15T16:21:34.797Z",
+      "uploadedDate": "2020-09-22T03:27:18.223Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S3-2560x1440-221211d511938910e96f538f1a8a4a8b.jpg",
-      "md5": "221211d511938910e96f538f1a8a4a8b",
-      "size": 375498,
-      "uploadedDate": "2020-09-15T16:21:55.237Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S1-2560x1440-168fede121381f27fcb8336032835c21.jpg",
+      "md5": "168fede121381f27fcb8336032835c21",
+      "size": 370751,
+      "uploadedDate": "2020-09-22T03:27:28.552Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
       "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
       "size": 267601,
-      "uploadedDate": "2020-09-15T16:22:13.831Z",
+      "uploadedDate": "2020-09-22T03:27:40.847Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
       "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
       "size": 267601,
-      "uploadedDate": "2020-09-15T16:22:21.789Z",
+      "uploadedDate": "2020-09-22T03:27:50.290Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S4-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeague_PsyonixLLC_S2-1200x1600-2895b4cd6f31b1db2762f6ce39bf3a2e.jpg",
       "md5": "2895b4cd6f31b1db2762f6ce39bf3a2e",
       "size": 267601,
-      "uploadedDate": "2020-09-15T16:22:28.797Z",
+      "uploadedDate": "2020-09-22T03:27:57.430Z",
       "width": 1200,
       "height": 1600
     }

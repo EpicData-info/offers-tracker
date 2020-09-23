@@ -1,14 +1,14 @@
 {
-  "id": "eda5d1535af7450fa92b1982d0c4f6dd",
+  "id": "717ea7b7e6db4619890b4cf48eb11c12",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-  "title": "Endo Starter Pack",
-  "description": "Endo Starter Pack",
+  "title": "Rocket League® Official Game Soundtrack",
+  "description": "Rocket League® Official Game Soundtrack",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "starterpack",
-  "creationDate": "2020-03-30T19:04:47.371Z",
-  "lastModifiedDate": "2020-09-23T14:51:20.733Z",
+  "urlSlug": "official-game-soundtrack",
+  "creationDate": "2020-09-04T03:44:49.592Z",
+  "lastModifiedDate": "2020-09-23T14:51:21.071Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,10 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
+      "path": "digitalextras"
     },
     {
-      "path": "addons/durable"
+      "path": "digitalextras/soundtrack"
     },
     {
       "path": "applications"
@@ -145,62 +145,62 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S1-2560x1440-ec6ebd36b12e547d9c546bceebb79b39.jpg",
-      "md5": "ec6ebd36b12e547d9c546bceebb79b39",
-      "size": 656856,
-      "uploadedDate": "2020-09-15T15:39:49.796Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
-      "md5": "8111cf721d861d52599309551801f97d",
-      "size": 358193,
-      "uploadedDate": "2020-09-15T15:39:55.477Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueOfficialGameSoundtrack_PsyonixLLC_DigitalExtras_G1A_00-1920x1080-089adb3c7dca5af93aa26ac61487c603.jpg",
+      "md5": "089adb3c7dca5af93aa26ac61487c603",
+      "size": 225157,
+      "uploadedDate": "2020-09-22T03:39:57.162Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S1-2560x1440-ec6ebd36b12e547d9c546bceebb79b39.jpg",
-      "md5": "ec6ebd36b12e547d9c546bceebb79b39",
-      "size": 656856,
-      "uploadedDate": "2020-09-15T15:40:07.006Z",
-      "width": 2560,
-      "height": 1440
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueOfficialGameSoundtrack_PsyonixLLC_DigitalExtras_G1A_00-1920x1080-089adb3c7dca5af93aa26ac61487c603.jpg",
+      "md5": "089adb3c7dca5af93aa26ac61487c603",
+      "size": 225157,
+      "uploadedDate": "2020-09-22T03:41:35.206Z",
+      "width": 1920,
+      "height": 1080
     },
     {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
-      "md5": "8111cf721d861d52599309551801f97d",
-      "size": 358193,
-      "uploadedDate": "2020-09-15T15:40:13.097Z",
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/ProductPortrait_ost_vol1-1200x1600-9df0195b6f304a359712723bfcd4f47e.jpg",
+      "md5": "9df0195b6f304a359712723bfcd4f47e",
+      "size": 214690,
+      "uploadedDate": "2020-09-23T00:09:05.105Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
-      "md5": "8111cf721d861d52599309551801f97d",
-      "size": 358193,
-      "uploadedDate": "2020-09-15T15:40:21.493Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/ProductPortrait_ost_vol1-1200x1600-9df0195b6f304a359712723bfcd4f47e.jpg",
+      "md5": "9df0195b6f304a359712723bfcd4f47e",
+      "size": 214690,
+      "uploadedDate": "2020-09-23T00:09:13.269Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeagueEndoStarterPack_PsyonixLLC_DLC_S2-1200x1600-8111cf721d861d52599309551801f97d.jpg",
-      "md5": "8111cf721d861d52599309551801f97d",
-      "size": 358193,
-      "uploadedDate": "2020-09-15T15:40:28.851Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/ProductPortrait_ost_vol1-1200x1600-9df0195b6f304a359712723bfcd4f47e.jpg",
+      "md5": "9df0195b6f304a359712723bfcd4f47e",
+      "size": 214690,
+      "uploadedDate": "2020-09-23T00:09:26.618Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/ProductPortrait_ost_vol1-1200x1600-9df0195b6f304a359712723bfcd4f47e.jpg",
+      "md5": "9df0195b6f304a359712723bfcd4f47e",
+      "size": 214690,
+      "uploadedDate": "2020-09-23T00:10:47.404Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "fe38f7ef3de3439eb9f11044a58815ca"
+      "id": "055c78a11e004a879f1028b0c48f84f3"
     }
   ],
   "catalogNs": null
