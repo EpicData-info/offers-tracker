@@ -6,10 +6,10 @@
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "mafia-iii-definitive-edition",
-  "urlSlug": "ametrinegeneralaudience",
+  "urlSlug": "mafia-iii-definitive-edition",
   "creationDate": "2020-03-13T22:17:12.371Z",
-  "lastModifiedDate": "2020-08-11T19:16:29.371Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T23:31:48.057Z",
+  "effectiveDate": "2020-09-24T23:00:00.000Z",
   "viewableDate": "2020-05-19T16:00:00.000Z",
   "developer": null,
   "seller": {
@@ -90,7 +90,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "CU,IR,SY,VE"
+      "value": "SA,KW,BH,YE,OM,AE"
     },
     {
       "key": "publisherName",
@@ -159,15 +159,6 @@
       "uploadedDate": "2020-05-18T19:09:27.835Z",
       "width": 1200,
       "height": 1600
-    },
-    {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/8ad9396e01f046aaa784a33f7e60dfbe/offer/ESRB_MafiaIII-842x485-3e67dddd6c73d0faf0ba80af0ed5f636.jpg",
-      "md5": "3e67dddd6c73d0faf0ba80af0ed5f636",
-      "size": 151004,
-      "uploadedDate": "2020-05-19T14:56:09.306Z",
-      "width": 842,
-      "height": 485
     }
   ],
   "items": [
