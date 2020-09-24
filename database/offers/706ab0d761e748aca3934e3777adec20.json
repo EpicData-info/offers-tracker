@@ -1,15 +1,15 @@
 {
   "id": "706ab0d761e748aca3934e3777adec20",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "Elite Bundle DE",
-  "description": "Elite Fireteam Bundle DE - 79.97€",
+  "title": "GE Elite Fireteam Bundle",
+  "description": "GE Elite Fireteam Bundle",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "elite-bundle-de",
   "creationDate": "2020-04-29T03:19:35.204Z",
-  "lastModifiedDate": "2020-09-23T05:17:03.469Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T06:21:37.742Z",
+  "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -72,14 +75,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
+    },
+    {
+      "key": "com.epicgames.app,productSlug",
+      "value": "heroes-and-generals-wwii/ge-elite-fireteam"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GEEliteFireteamBundle_RETOMOTO_Bundles_S1-2560x1440-bf268b01fef8973c8be25d911aeb6c2c.jpg",
+      "md5": "bf268b01fef8973c8be25d911aeb6c2c",
+      "size": 875129,
+      "uploadedDate": "2020-09-24T06:19:56.780Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GEEliteFireteamBundle_RETOMOTO_Bundles_S1-2560x1440-bf268b01fef8973c8be25d911aeb6c2c.jpg",
+      "md5": "bf268b01fef8973c8be25d911aeb6c2c",
+      "size": 875129,
+      "uploadedDate": "2020-09-24T06:20:05.889Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T06:20:17.588Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T06:20:26.712Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T06:20:35.745Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T06:20:44.496Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "12711ab2b21f4ddcb5ed5bf8a1fcddf9"
