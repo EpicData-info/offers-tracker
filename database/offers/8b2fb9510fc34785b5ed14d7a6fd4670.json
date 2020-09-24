@@ -5,11 +5,11 @@
   "description": "2.200 Gold",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "heroes-and-generals-wwii/gold-2200",
   "urlSlug": "gold-02",
   "creationDate": "2020-07-02T02:03:38.967Z",
-  "lastModifiedDate": "2020-07-15T22:01:05.150Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T06:33:44.520Z",
+  "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -35,14 +38,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heroes-and-generals-wwii/gold-2200"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S1-2560x1440-585c9c3c5d134d069696de978f0b90d1.jpg",
+      "md5": "585c9c3c5d134d069696de978f0b90d1",
+      "size": 1023737,
+      "uploadedDate": "2020-09-24T06:31:51.793Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S2-1200x1600-ca5bad1c0f0e09bad0e2dda35abc3e0f.jpg",
+      "md5": "ca5bad1c0f0e09bad0e2dda35abc3e0f",
+      "size": 1026419,
+      "uploadedDate": "2020-09-24T06:32:05.315Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S2-1200x1600-ca5bad1c0f0e09bad0e2dda35abc3e0f.jpg",
+      "md5": "ca5bad1c0f0e09bad0e2dda35abc3e0f",
+      "size": 1026419,
+      "uploadedDate": "2020-09-24T06:32:14.462Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S2-1200x1600-ca5bad1c0f0e09bad0e2dda35abc3e0f.jpg",
+      "md5": "ca5bad1c0f0e09bad0e2dda35abc3e0f",
+      "size": 1026419,
+      "uploadedDate": "2020-09-24T06:32:24.229Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S2-1200x1600-ca5bad1c0f0e09bad0e2dda35abc3e0f.jpg",
+      "md5": "ca5bad1c0f0e09bad0e2dda35abc3e0f",
+      "size": 1026419,
+      "uploadedDate": "2020-09-24T06:32:32.662Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_2200GOLD_RETOMOTO_DLC_S1-2560x1440-585c9c3c5d134d069696de978f0b90d1.jpg",
+      "md5": "585c9c3c5d134d069696de978f0b90d1",
+      "size": 1023737,
+      "uploadedDate": "2020-09-24T06:32:43.557Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "a7727492cfc746ea9ba316cd1f33503a"
