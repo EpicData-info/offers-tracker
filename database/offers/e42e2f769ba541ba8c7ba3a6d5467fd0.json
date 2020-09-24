@@ -5,10 +5,10 @@
   "description": "Football Manager 2021",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pampas-pre-purchase",
+  "productSlug": "football-manager-2021",
+  "urlSlug": "football-manager-2021-pre-purchase",
   "creationDate": "2020-09-23T19:43:03.360Z",
-  "lastModifiedDate": "2020-09-24T16:42:56.373Z",
+  "lastModifiedDate": "2020-09-24T17:20:50.188Z",
   "effectiveDate": "2020-09-24T17:00:00.000Z",
   "viewableDate": "2020-09-24T17:00:00.000Z",
   "developer": null,
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -113,15 +116,23 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "BR, KR"
+      "value": "BR"
     },
     {
       "key": "publisherName",
       "value": "SEGA"
     },
     {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
       "key": "developerName",
       "value": "Sports Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "football-manager-2021"
     }
   ],
   "keyImages": [

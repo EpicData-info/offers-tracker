@@ -8,9 +8,9 @@
   "productSlug": "football-manager-2021-touch",
   "urlSlug": "ocean-pre-purchase",
   "creationDate": "2020-09-22T20:30:12.098Z",
-  "lastModifiedDate": "2020-09-24T16:38:01.060Z",
+  "lastModifiedDate": "2020-09-24T17:20:16.651Z",
   "effectiveDate": "2020-09-24T17:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2020-09-24T17:01:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -101,7 +104,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "BR, KR"
+      "value": "BR"
     },
     {
       "key": "publisherName",
