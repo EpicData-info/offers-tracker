@@ -1,0 +1,170 @@
+{
+  "id": "631d2b0a5f204909bf401cb5696c8f42",
+  "namespace": "ee8802651a004c48999169fa32eb4903",
+  "title": "Mafia: Definitive Edition",
+  "description": "Mafia: Definitive Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "mafia-definitive-edition",
+  "urlSlug": "mafia-definitive-edition",
+  "creationDate": "2020-03-13T22:28:51.451Z",
+  "lastModifiedDate": "2020-09-24T23:04:34.348Z",
+  "effectiveDate": "2020-09-24T23:00:00.000Z",
+  "viewableDate": "2020-09-24T23:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-15T15:30:56.538Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "SA,TW,BH,YE,OM"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Hangar 13"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mafia-definitive-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_G1A_00-1920x1080-268b01e611aa17de8caedd662b8462ab.jpg",
+      "md5": "268b01e611aa17de8caedd662b8462ab",
+      "size": 494929,
+      "uploadedDate": "2020-05-18T19:39:37.568Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+      "md5": "3674a5caa0e10eca89feb4dba0484112",
+      "size": 912584,
+      "uploadedDate": "2020-05-18T19:47:13.311Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+      "md5": "3674a5caa0e10eca89feb4dba0484112",
+      "size": 912584,
+      "uploadedDate": "2020-05-18T19:47:22.651Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+      "md5": "3674a5caa0e10eca89feb4dba0484112",
+      "size": 912584,
+      "uploadedDate": "2020-05-18T19:47:40.703Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S1-2560x1440-c7b4e75ecfe9b9e4889fee23dec356e6.jpg",
+      "md5": "c7b4e75ecfe9b9e4889fee23dec356e6",
+      "size": 471034,
+      "uploadedDate": "2020-05-18T19:47:57.078Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ee8802651a004c48999169fa32eb4903/offer/EGS_MafiaDefinitiveEditionPreOrder_Hangar13_S2-1200x1600-3674a5caa0e10eca89feb4dba0484112.jpg",
+      "md5": "3674a5caa0e10eca89feb4dba0484112",
+      "size": 912584,
+      "uploadedDate": "2020-05-18T19:48:12.858Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d09dc19b68664b059989e8ea13ceee3d"
+    }
+  ],
+  "catalogNs": null
+}
