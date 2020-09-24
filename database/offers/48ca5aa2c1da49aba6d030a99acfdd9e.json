@@ -1,15 +1,15 @@
 {
   "id": "48ca5aa2c1da49aba6d030a99acfdd9e",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "SP Infantry Assault SU",
-  "description": "Soldier Pack: Infantry Assault SU - 49,99€",
+  "title": "SU Soldier Pack: Infantry Assault",
+  "description": "SU Soldier Pack: Infantry Assault",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "heroes-and-generals-wwii/su-infantry-assault",
   "urlSlug": "infantry-assault-su",
   "creationDate": "2020-04-29T03:16:31.250Z",
-  "lastModifiedDate": "2020-09-23T05:17:52.641Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T05:24:05.495Z",
+  "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -28,10 +28,7 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "addons/durable"
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -83,9 +80,68 @@
     {
       "key": "publisherName",
       "value": "RETO MOTO"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heroes-and-generals-wwii/su-infantry-assault"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAntiTank_RETOMOTO_Packs_S1-2560x1440-18f141f1bc082f4264a6882a4563dd35.jpg",
+      "md5": "18f141f1bc082f4264a6882a4563dd35",
+      "size": 863646,
+      "uploadedDate": "2020-09-24T05:22:08.951Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_SUSoldierPackInfantryAntiTank_RETOMOTO_Packs_S1-2560x1440-18f141f1bc082f4264a6882a4563dd35.jpg",
+      "md5": "18f141f1bc082f4264a6882a4563dd35",
+      "size": 863646,
+      "uploadedDate": "2020-09-24T05:22:24.226Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:22:33.363Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:22:43.732Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:22:51.072Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:23:11.876Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "a6c8294d6cdd48ed8be1762316dc4551"

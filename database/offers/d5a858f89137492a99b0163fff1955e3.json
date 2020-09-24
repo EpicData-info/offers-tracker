@@ -1,15 +1,15 @@
 {
   "id": "d5a858f89137492a99b0163fff1955e3",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "SP Infantry Medic US",
-  "description": "Soldier Pack: Infantry Medic US - 29,99€",
+  "title": "US Soldier Pack: Infantry Medic",
+  "description": "US Soldier Pack: Infantry Medic",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "heroes-and-generals-wwii/us-infantry-medic",
   "urlSlug": "infantry-medic-us",
   "creationDate": "2020-04-29T03:09:46.347Z",
-  "lastModifiedDate": "2020-09-23T05:13:25.910Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T05:35:51.005Z",
+  "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -72,14 +75,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heroes-and-generals-wwii/us-infantry-medic"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_USSoldierPackInfantryMedic_RETOMOTO_Packs_S1-2560x1440-ca77cb6187d9c1c855369c01048137d5.jpg",
+      "md5": "ca77cb6187d9c1c855369c01048137d5",
+      "size": 936662,
+      "uploadedDate": "2020-09-24T05:33:05.930Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_USSoldierPackInfantryMedic_RETOMOTO_Packs_S1-2560x1440-ca77cb6187d9c1c855369c01048137d5.jpg",
+      "md5": "ca77cb6187d9c1c855369c01048137d5",
+      "size": 936662,
+      "uploadedDate": "2020-09-24T05:33:19.135Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:33:31.080Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:33:39.480Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:33:46.849Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:34:30.150Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "55ff1be3fa2044a8b85c0ce5e2d3a927"

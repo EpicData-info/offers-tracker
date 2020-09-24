@@ -1,15 +1,15 @@
 {
   "id": "1d77994bcc7b4c4d82ebbef561854860",
   "namespace": "c3e63401d6ba410493de31ed69a798a1",
-  "title": "Starter Pack DE",
-  "description": "Starter Pack  DE - 4,99€",
+  "title": "GE Starter Pack",
+  "description": "GE Starter Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "heroes-and-generals-wwii/ge-starter-pack",
   "urlSlug": "starterpack-de",
   "creationDate": "2020-04-29T02:59:37.431Z",
-  "lastModifiedDate": "2020-09-23T05:13:05.061Z",
-  "effectiveDate": "2099-12-31T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-24T05:31:07.553Z",
+  "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/consumable"
     },
     {
       "path": "applications"
@@ -72,14 +75,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "RETO MOTO"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "heroes-and-generals-wwii/ge-starter-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GEStarterPack_RETOMOTO_Packs_S1-2560x1440-97e0019c37b3c564df49f1cd5a74093c.jpg",
+      "md5": "97e0019c37b3c564df49f1cd5a74093c",
+      "size": 862665,
+      "uploadedDate": "2020-09-24T05:29:38.455Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_GEStarterPack_RETOMOTO_Packs_S1-2560x1440-97e0019c37b3c564df49f1cd5a74093c.jpg",
+      "md5": "97e0019c37b3c564df49f1cd5a74093c",
+      "size": 862665,
+      "uploadedDate": "2020-09-24T05:29:48.465Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:29:58.909Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:30:06.117Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:30:13.379Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c3e63401d6ba410493de31ed69a798a1/offer/EGS_HeroesGeneralsWWII_RETOMOTO_S2-1200x1600-1427359bd8c5d59ac8cbf8c07a0ff211.jpg",
+      "md5": "1427359bd8c5d59ac8cbf8c07a0ff211",
+      "size": 985222,
+      "uploadedDate": "2020-09-24T05:30:21.096Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "384c297bbcc542e6ae005d4c8956e226"
