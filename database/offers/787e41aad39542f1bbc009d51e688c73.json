@@ -8,7 +8,7 @@
   "productSlug": "the-division-2/trial",
   "urlSlug": "impalatrialaudiencedemo",
   "creationDate": "2020-04-16T17:44:08.694Z",
-  "lastModifiedDate": "2020-05-27T20:31:34.862Z",
+  "lastModifiedDate": "2020-09-24T16:50:20.215Z",
   "effectiveDate": "2020-04-21T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,6 +29,9 @@
     },
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"

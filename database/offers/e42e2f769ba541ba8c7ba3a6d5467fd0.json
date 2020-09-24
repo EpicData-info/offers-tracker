@@ -1,0 +1,198 @@
+{
+  "id": "e42e2f769ba541ba8c7ba3a6d5467fd0",
+  "namespace": "c2594740866d4be69d38fcf08ef0176d",
+  "title": "Football Manager 2021",
+  "description": "Football Manager 2021",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pampas-pre-purchase",
+  "creationDate": "2020-09-23T19:43:03.360Z",
+  "lastModifiedDate": "2020-09-24T16:42:56.373Z",
+  "effectiveDate": "2020-09-24T17:00:00.000Z",
+  "viewableDate": "2020-09-24T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-09-16T23:47:27.335Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "BR, KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA"
+    },
+    {
+      "key": "developerName",
+      "value": "Sports Interactive"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "/api/image/preview/1f1eebc0c1074542afc27a18be583ca1",
+      "md5": "21f4343c45a407dc4093b911ddc4d792",
+      "size": 943795,
+      "uploadedDate": "2020-09-24T02:13:39.626Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "/api/image/preview/cebe1d1dbdaa469c89d2ce17f9ad6b5c",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:13:46.975Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "/api/image/preview/a7b08d7e3101466599e581cf3a111c7a",
+      "md5": "21f4343c45a407dc4093b911ddc4d792",
+      "size": 943795,
+      "uploadedDate": "2020-09-24T02:13:55.579Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "/api/image/preview/b922ffe6fa2c4d2182d8efc2986458b0",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:14:03.571Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "/api/image/preview/25de8501365247b9badd4917b003581b",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:14:12.147Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "/api/image/preview/c9961bcf27574ea1a84f39ed460f72d0",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:14:22.900Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2e421cd49e464c0dae8a62a0dfe12275"
+    },
+    {
+      "id": "b5f90675572d4c34822ba257ca35a4f9"
+    },
+    {
+      "id": "9c15eb0a58454772a938f997f08a2b63"
+    },
+    {
+      "id": "6d31a3e562f84f2eac3e6f7d0ec9d242"
+    }
+  ],
+  "catalogNs": null
+}
