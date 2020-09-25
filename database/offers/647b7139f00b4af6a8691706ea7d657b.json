@@ -2,13 +2,13 @@
   "id": "647b7139f00b4af6a8691706ea7d657b",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Rocket League® x Monstercat Vol. 5",
-  "description": "Rocket League® x Monstercat Vol. 5",
+  "description": "This final 2018 EP gathers together select cuts made for Rocket League fans by Monstercat Instinct beatsmiths such as Grant, Rogue, Hyper Potions & Nokae, Rootkit, and more!",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rocket-league/rocket-league-x-monstercat-vol-5",
   "urlSlug": "rocket-league-monstercat-vol5",
   "creationDate": "2020-09-04T03:52:08.691Z",
-  "lastModifiedDate": "2020-09-25T17:02:22.515Z",
+  "lastModifiedDate": "2020-09-25T17:17:00.668Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -140,6 +140,10 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rocket-league/rocket-league-x-monstercat-vol-5"
     }
   ],
   "keyImages": [

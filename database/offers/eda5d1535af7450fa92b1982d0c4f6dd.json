@@ -2,13 +2,13 @@
   "id": "eda5d1535af7450fa92b1982d0c4f6dd",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Endo Starter Pack",
-  "description": "Endo Starter Pack",
+  "description": "Hit the field in style with the Endo Starter Pack! Unlock four in-game items including the Endo, plus 500 Credits!",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rocket-league/endo-starter-pack",
   "urlSlug": "starterpack",
   "creationDate": "2020-03-30T19:04:47.371Z",
-  "lastModifiedDate": "2020-09-25T15:32:11.766Z",
+  "lastModifiedDate": "2020-09-25T17:13:41.279Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -140,6 +140,10 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rocket-league/endo-starter-pack"
     }
   ],
   "keyImages": [

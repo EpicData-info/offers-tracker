@@ -2,13 +2,13 @@
   "id": "d56d4f91ad0648729787ace76bfa5874",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Rocket League® x Monstercat Vol. 4",
-  "description": "Rocket League® x Monstercat Vol. 4",
+  "description": "Our ​penultimate collaboration of 2018, this EP is packed with a selection of tunes created specifically for Rocket League by Monstercat Uncaged artists Muzzy, Infected Mushroom, Darren Styles, Gammer ​& Dougal, Tokyo Machine, Bossfight, and Pixel Terror.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rocket-league/rocket-league-x-monstercat-vol-4",
   "urlSlug": "rocket-league-monstercat-vol4",
   "creationDate": "2020-09-04T03:51:35.268Z",
-  "lastModifiedDate": "2020-09-23T14:51:21.042Z",
+  "lastModifiedDate": "2020-09-25T17:17:48.152Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-16T23:47:27.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
       "id": "1283",
       "name": "SPORTS",
       "namespace": "epic",
@@ -69,6 +57,18 @@
       "updated": "2020-09-16T23:47:27.335Z",
       "status": "ACTIVE",
       "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     },
     {
@@ -140,6 +140,10 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rocket-league/rocket-league-x-monstercat-vol-4"
     }
   ],
   "keyImages": [

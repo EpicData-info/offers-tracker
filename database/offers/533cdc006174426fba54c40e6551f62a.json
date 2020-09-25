@@ -2,13 +2,13 @@
   "id": "533cdc006174426fba54c40e6551f62a",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
   "title": "Jäger Pack",
-  "description": "Jäger Pack",
+  "description": "European craftsmanship awaits! Take control of the Titanium White Jäger, plus unlock two additional Titanium White in-game items and 1000 Credits.",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rocket-league/jager-pack",
   "urlSlug": "contentpack",
   "creationDate": "2020-03-30T19:13:38.597Z",
-  "lastModifiedDate": "2020-09-25T15:32:26.037Z",
+  "lastModifiedDate": "2020-09-25T17:14:09.803Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -140,6 +140,10 @@
     {
       "key": "developerName",
       "value": "Psyonix LLC"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rocket-league/jager-pack"
     }
   ],
   "keyImages": [
