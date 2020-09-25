@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "starterpack",
   "creationDate": "2020-03-30T19:04:47.371Z",
-  "lastModifiedDate": "2020-09-23T14:51:20.733Z",
+  "lastModifiedDate": "2020-09-25T15:32:11.766Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -48,18 +48,6 @@
       "comment": null
     },
     {
-      "id": "1203",
-      "name": "MULTIPLAYER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:59.171Z",
-      "updated": "2020-09-16T23:47:27.269Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
-    {
       "id": "1283",
       "name": "SPORTS",
       "namespace": "epic",
@@ -69,6 +57,18 @@
       "updated": "2020-09-16T23:47:27.335Z",
       "status": "ACTIVE",
       "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
       "comment": null
     },
     {
