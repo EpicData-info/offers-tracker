@@ -1,0 +1,56 @@
+{
+  "id": "98be9822fb7d407384cd2f85cba14f88",
+  "namespace": "6daaf10529e94fccaa8ee43b66adbe4a",
+  "title": "AngoraGeneralAudience",
+  "description": "AngoraGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "angorageneralaudience",
+  "creationDate": "2020-04-21T16:50:58.129Z",
+  "lastModifiedDate": "2020-04-21T16:58:19.214Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "fd452f2cd10843bc9003f63e397c679f"
+    }
+  ],
+  "catalogNs": null
+}

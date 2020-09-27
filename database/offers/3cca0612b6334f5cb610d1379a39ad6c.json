@@ -1,0 +1,56 @@
+{
+  "id": "3cca0612b6334f5cb610d1379a39ad6c",
+  "namespace": "d66c34349a054c3ea529726a5687520e",
+  "title": "MargayGeneralAudience",
+  "description": "MargayGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "margaygeneralaudience",
+  "creationDate": "2020-04-30T20:17:42.856Z",
+  "lastModifiedDate": "2020-04-30T20:21:17.138Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-dcl7pwxvcjx2f42g8sexmmbwjcx44t",
+    "name": "Eugen Systems"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "e9f5dfd46ca04210a9eeb910ecb9a772"
+    }
+  ],
+  "catalogNs": null
+}

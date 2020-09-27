@@ -1,0 +1,56 @@
+{
+  "id": "d5a8d607058f4accb71aa406dc8cece0",
+  "namespace": "047392e91d5e4cfdb19e2767440ab206",
+  "title": "ToygerGeneralAudience",
+  "description": "ToygerGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "toygergeneralaudience",
+  "creationDate": "2020-05-05T18:13:40.519Z",
+  "lastModifiedDate": "2020-05-06T00:45:48.411Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
+    "name": "Frontier Developments"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "6a26581b3a1a48f48510e29eb4dadb23"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,81 @@
+{
+  "id": "71e98a06de7741f09cef2c7b753f8594",
+  "namespace": "rosemallow",
+  "title": "Rosemallow DLC02",
+  "description": "Rosemallow DLC02",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "rosemallowdlc02",
+  "creationDate": "2020-04-10T14:28:24.795Z",
+  "lastModifiedDate": "2020-04-10T14:28:24.795Z",
+  "effectiveDate": "2050-12-01T03:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-6emrb2lpzacm9ued3z37u42x56wkaz",
+    "name": "Private Division"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Private Division"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
+      "md5": "68201d88144e1fb2fb55398a0114ea4b",
+      "size": 113481,
+      "uploadedDate": "2019-10-24T00:50:19.754Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
+      "md5": "68201d88144e1fb2fb55398a0114ea4b",
+      "size": 113481,
+      "uploadedDate": "2019-10-24T00:50:31.030Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselGameBoxWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg",
+      "md5": "116966cde61a85e23878e43b37e3d364",
+      "size": 304561,
+      "uploadedDate": "2020-01-13T09:41:44.790Z",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "items": [
+    {
+      "id": "8d58a634be64484c95adc331720f6537"
+    }
+  ],
+  "catalogNs": null
+}

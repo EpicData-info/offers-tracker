@@ -1,0 +1,53 @@
+{
+  "id": "13cc10ad974841a6b0a5c3c23d2d1f22",
+  "namespace": "aa54bad47e504fdca79a3eb77be8c465",
+  "title": "PearlGeneralAudience",
+  "description": "PearlGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "pearlgeneralaudience",
+  "creationDate": "2020-04-16T12:54:39.101Z",
+  "lastModifiedDate": "2020-04-16T12:56:06.213Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-ucsgst2llc3ljpaa66wacnefaewhwp",
+    "name": "Good-Feel Co"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "ad1a6d1c7e234ca5ace226dda42eab73"
+    }
+  ],
+  "catalogNs": null
+}

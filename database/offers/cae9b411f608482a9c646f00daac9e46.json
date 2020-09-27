@@ -1,0 +1,53 @@
+{
+  "id": "cae9b411f608482a9c646f00daac9e46",
+  "namespace": "0dabb0f14acf4fef84bd2b2bf3085dfc",
+  "title": "AmaryllisGeneralAudience",
+  "description": "AmaryllisGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "amaryllisgeneralaudience",
+  "creationDate": "2020-04-15T17:08:42.734Z",
+  "lastModifiedDate": "2020-04-15T17:12:05.072Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-lr4ubnee8h8ya6fjmgfqy63uftabu6",
+    "name": "Hidden Path"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "dd2f150f062f4d9eaea1079022ddc30c"
+    }
+  ],
+  "catalogNs": null
+}

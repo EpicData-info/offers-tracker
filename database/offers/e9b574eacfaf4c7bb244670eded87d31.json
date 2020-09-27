@@ -1,0 +1,56 @@
+{
+  "id": "e9b574eacfaf4c7bb244670eded87d31",
+  "namespace": "8ff186a4415d4ce6b5a287ccfd11cf04",
+  "title": "LykoiGeneralAudience",
+  "description": "LykoiGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "lykoigeneralaudience",
+  "creationDate": "2020-04-03T04:20:12.248Z",
+  "lastModifiedDate": "2020-04-03T04:24:08.282Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-gef9apdv7sv2tr6vrvz6efgfv6p858",
+    "name": "Manticore Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "b0e39838823c471e86bcdba53ff3e1b8"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7f89db821ab1441981adb4daf31c06db",
+  "namespace": "2bda08f9230144a19e98373cc4a6ac2d",
+  "title": "LionGeneralAudience",
+  "description": "LionGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "liongeneralaudience",
+  "creationDate": "2020-04-24T16:05:42.913Z",
+  "lastModifiedDate": "2020-04-24T16:09:21.160Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-tvu5xuu383665htjt4wez2tgl45exq",
+    "name": "Triternion"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "7372d6078a3940498d2944ed7bc1e6b2"
+    }
+  ],
+  "catalogNs": null
+}
