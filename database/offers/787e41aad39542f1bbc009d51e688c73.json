@@ -8,7 +8,7 @@
   "productSlug": "the-division-2/trial",
   "urlSlug": "impalatrialaudiencedemo",
   "creationDate": "2020-04-16T17:44:08.694Z",
-  "lastModifiedDate": "2020-09-24T16:50:20.215Z",
+  "lastModifiedDate": "2020-09-28T14:56:02.268Z",
   "effectiveDate": "2020-04-21T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,13 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/trial"
-    },
-    {
       "path": "games"
-    },
-    {
-      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -42,10 +36,6 @@
     {
       "key": "com.epicgames.app.blacklist",
       "value": "CN"
-    },
-    {
-      "key": "isDemo",
-      "value": "true"
     },
     {
       "key": "developerName",

@@ -5,11 +5,11 @@
   "description": "Tom Clancy's The Division 2 - Trial Weekend",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "the-division-2/trial-weekend",
+  "productSlug": null,
   "urlSlug": "impalatrialaudience",
   "creationDate": "2019-10-14T22:57:25.704Z",
-  "lastModifiedDate": "2020-09-24T16:59:00.306Z",
-  "effectiveDate": "2020-09-24T15:00:00.000Z",
+  "lastModifiedDate": "2020-09-28T14:56:02.232Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -25,16 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games/trial"
-    },
-    {
       "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -49,57 +40,26 @@
     {
       "key": "developerName",
       "value": "Ubisoft"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "the-division-2/trial-weekend"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_Capsule_1920x1080_UK-1920x1080-b640aa1d45cde4478638cdfbd26e7c06.jpg",
-      "md5": "b640aa1d45cde4478638cdfbd26e7c06",
-      "size": 1126873,
-      "uploadedDate": "2020-09-22T16:52:52.160Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
-      "md5": "fce93abc3ae467399de852c3560572aa",
-      "size": 3426320,
-      "uploadedDate": "2020-09-22T18:24:00.642Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
-      "md5": "fce93abc3ae467399de852c3560572aa",
-      "size": 3426320,
-      "uploadedDate": "2020-09-22T18:24:25.172Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_HeroBanner_3840x2160_UK-3840x2160-d1df1b9189c6b9aa878bd78baadab900.jpg",
+      "md5": "d1df1b9189c6b9aa878bd78baadab900",
+      "size": 4880279,
+      "uploadedDate": "2020-02-21T21:41:14.507Z",
+      "width": 3840,
+      "height": 2160
     },
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/impala/offer/TD2_FREEWEEK_Capsule_1920x1080_UK-1920x1080-b640aa1d45cde4478638cdfbd26e7c06.jpg",
-      "md5": "b640aa1d45cde4478638cdfbd26e7c06",
-      "size": 1126873,
-      "uploadedDate": "2020-09-24T16:57:22.681Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/impala/offer/TCTD2_Trial_Weekend_1200x1600-1200x1600-fce93abc3ae467399de852c3560572aa.png",
-      "md5": "fce93abc3ae467399de852c3560572aa",
-      "size": 3426320,
-      "uploadedDate": "2020-09-24T16:57:17.044Z",
-      "width": 1200,
-      "height": 1600
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/epic/offer/Diesel_product_tctd2_tctd2_Primary-Promo-2580x1450-f784f5581ef2409cdf99b44ce7535de5.jpg",
+      "md5": "f784f5581ef2409cdf99b44ce7535de5",
+      "size": 356184,
+      "uploadedDate": "2020-02-11T09:41:44.790Z",
+      "width": 2580,
+      "height": 1450
     }
   ],
   "items": [
