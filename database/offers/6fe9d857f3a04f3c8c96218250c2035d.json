@@ -1,0 +1,182 @@
+{
+  "id": "6fe9d857f3a04f3c8c96218250c2035d",
+  "namespace": "96d9e862cd3947c28ea4206e89c1ea48",
+  "title": "Paper Beast",
+  "description": "Paper Beast",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "paper-beast",
+  "urlSlug": "sofiageneralaudience",
+  "creationDate": "2020-09-03T15:37:03.793Z",
+  "lastModifiedDate": "2020-09-29T14:32:40.984Z",
+  "effectiveDate": "2099-01-01T01:00:00.000Z",
+  "viewableDate": "2020-01-01T01:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-yw5ga5z854qs64ld82qey3dz2d7z32",
+    "name": "Plug In Digital SAS"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Plug In Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Pixel Reef"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "paper-beast"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Wide-2560x1440-dd3aad119372948ba65f39ae704e7910.jpg",
+      "md5": "dd3aad119372948ba65f39ae704e7910",
+      "size": 1016287,
+      "uploadedDate": "2020-09-16T11:51:14.070Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:51:22.020Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Wide-2560x1440-dd3aad119372948ba65f39ae704e7910.jpg",
+      "md5": "dd3aad119372948ba65f39ae704e7910",
+      "size": 1016287,
+      "uploadedDate": "2020-09-16T11:51:29.573Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:51:36.170Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:51:43.148Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/96d9e862cd3947c28ea4206e89c1ea48/offer/Tall-1200x1600-f72389a48bb27dd90bcfa812004a48cb.jpg",
+      "md5": "f72389a48bb27dd90bcfa812004a48cb",
+      "size": 850855,
+      "uploadedDate": "2020-09-16T11:51:51.231Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e96233047a4b4049a890e2d795c8009a"
+    }
+  ],
+  "catalogNs": null
+}
