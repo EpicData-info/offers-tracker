@@ -3,12 +3,12 @@
   "namespace": "min",
   "title": "Hades",
   "description": "Hades",
-  "longDescription": "ACTIVE OFFER on Store Tile",
+  "longDescription": "",
   "status": "ACTIVE",
   "productSlug": "hades",
   "urlSlug": "hades",
   "creationDate": "2019-12-09T14:13:28.476Z",
-  "lastModifiedDate": "2020-09-17T16:16:05.581Z",
+  "lastModifiedDate": "2020-09-29T17:48:03.430Z",
   "effectiveDate": "2019-12-09T09:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -138,58 +138,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_PrimaryPromo_01-2580x1450-49918dc360c98bb4184a106165aa46a4.png",
-      "md5": "49918dc360c98bb4184a106165aa46a4",
-      "size": 2934221,
-      "uploadedDate": "2020-09-11T15:33:45.459Z",
-      "width": 2580,
-      "height": 1450
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/min/offer/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+      "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+      "size": 1012660,
+      "uploadedDate": "2020-09-29T17:47:07.594Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
-      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
-      "size": 1228896,
-      "uploadedDate": "2020-09-11T15:33:58.232Z",
-      "width": 1280,
-      "height": 1420
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/min/offer/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
+      "md5": "5e710b93049cbd2125cf0261dcfbf943",
+      "size": 1001590,
+      "uploadedDate": "2020-09-29T17:47:15.962Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
-      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
-      "size": 1228896,
-      "uploadedDate": "2020-09-11T15:34:10.531Z",
-      "width": 1280,
-      "height": 1420
+      "url": "https://cdn1.epicgames.com/min/offer/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+      "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+      "size": 1012660,
+      "uploadedDate": "2020-09-29T17:47:25.159Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
-      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
-      "size": 1228896,
-      "uploadedDate": "2020-09-11T15:34:24.589Z",
-      "width": 1280,
-      "height": 1420
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_PrimaryPromo_01-2580x1450-49918dc360c98bb4184a106165aa46a4.png",
-      "md5": "49918dc360c98bb4184a106165aa46a4",
-      "size": 2934221,
-      "uploadedDate": "2020-09-11T15:34:47.456Z",
-      "width": 2580,
-      "height": 1450
+      "url": "https://cdn1.epicgames.com/min/offer/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+      "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+      "size": 1012660,
+      "uploadedDate": "2020-09-29T17:47:33.181Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/min/offer/Hades_Portrait_Promo_01-1280x1420-7135bfe84303bd3b74613d5a03c5e58e.png",
-      "md5": "7135bfe84303bd3b74613d5a03c5e58e",
-      "size": 1228896,
-      "uploadedDate": "2020-09-11T15:34:59.636Z",
-      "width": 1280,
-      "height": 1420
+      "url": "https://cdn1.epicgames.com/min/offer/1200x1600-1200x1600-e92fa6b99bb20c9edee19c361b8853b9.jpg",
+      "md5": "e92fa6b99bb20c9edee19c361b8853b9",
+      "size": 1012660,
+      "uploadedDate": "2020-09-29T17:47:43.589Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/min/offer/2560x1440-2560x1440-5e710b93049cbd2125cf0261dcfbf943.jpg",
+      "md5": "5e710b93049cbd2125cf0261dcfbf943",
+      "size": 1001590,
+      "uploadedDate": "2020-09-29T17:47:52.867Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
