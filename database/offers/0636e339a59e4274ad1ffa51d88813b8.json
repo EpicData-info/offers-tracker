@@ -1,0 +1,189 @@
+{
+  "id": "0636e339a59e4274ad1ffa51d88813b8",
+  "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
+  "title": "Free Tough Enough Primary Wrap",
+  "description": "Free Tough Enough Primary Wrap",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "truckbedaddon",
+  "creationDate": "2020-09-02T15:44:38.961Z",
+  "lastModifiedDate": "2020-09-30T15:07:17.082Z",
+  "effectiveDate": "2020-09-30T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-7aklpapnk74p66sqs6hm5byt29wp66",
+    "name": "Hi-Rez Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "This will have a store page.  Item will be free for four weeks.  Does not includes the base game.",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/consumable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1264",
+      "name": "CO-OP",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.700Z",
+      "updated": "2020-09-16T21:22:47.731Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-15T15:30:56.538Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "developerName",
+      "value": "Hi-Rez Studios"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-s2-113x150-098147346-113x150-28a9c5515a1f4dff87c455274bdaa91b.jpg",
+      "md5": "28a9c5515a1f4dff87c455274bdaa91b",
+      "size": 5209,
+      "uploadedDate": "2020-09-30T15:06:22.427Z",
+      "width": 113,
+      "height": 150
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-g1a-00-150x84-098147402-150x84-e1dcb06ffafb548fff647e2d13e5fe78.jpg",
+      "md5": "e1dcb06ffafb548fff647e2d13e5fe78",
+      "size": 4313,
+      "uploadedDate": "2020-09-30T15:06:27.015Z",
+      "width": 150,
+      "height": 84
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-s2-113x150-098147346-113x150-28a9c5515a1f4dff87c455274bdaa91b.jpg",
+      "md5": "28a9c5515a1f4dff87c455274bdaa91b",
+      "size": 5209,
+      "uploadedDate": "2020-09-30T15:06:41.340Z",
+      "width": 113,
+      "height": 150
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-s2-113x150-098147346-113x150-28a9c5515a1f4dff87c455274bdaa91b.jpg",
+      "md5": "28a9c5515a1f4dff87c455274bdaa91b",
+      "size": 5209,
+      "uploadedDate": "2020-09-30T15:06:49.750Z",
+      "width": 113,
+      "height": 150
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-s2-113x150-098147346-113x150-28a9c5515a1f4dff87c455274bdaa91b.jpg",
+      "md5": "28a9c5515a1f4dff87c455274bdaa91b",
+      "size": 5209,
+      "uploadedDate": "2020-09-30T15:07:00.820Z",
+      "width": 113,
+      "height": 150
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/egs-roguecompanyfreetoughenoughprimarywrap-firstwatchgames-addon-g1a-00-150x84-098147402-150x84-e1dcb06ffafb548fff647e2d13e5fe78.jpg",
+      "md5": "e1dcb06ffafb548fff647e2d13e5fe78",
+      "size": 4313,
+      "uploadedDate": "2020-09-30T15:07:09.987Z",
+      "width": 150,
+      "height": 84
+    }
+  ],
+  "items": [
+    {
+      "id": "3ee7806a8c004b4899dad1c418770423"
+    },
+    {
+      "id": "216e2d5aebf54f7ea5b96e66a6fd387d"
+    }
+  ],
+  "catalogNs": null
+}

@@ -1,14 +1,14 @@
 {
   "id": "93e08ea2aed6439ca13245091bd6d15a",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Rogue Company: Standard Founder's Pack",
-  "description": "Rogue Company: Standard Founder's Pack",
+  "title": "Rogue Company: Standard Founder's Pack (old)",
+  "description": "Rogue Company: Standard Founder's Pack (old)",
   "longDescription": "Standard Founder's Pack",
   "status": "ACTIVE",
   "productSlug": "rogue-company/standard-edition",
   "urlSlug": "peweestandardedition",
   "creationDate": "2020-04-23T20:23:07.531Z",
-  "lastModifiedDate": "2020-07-22T21:50:37.646Z",
+  "lastModifiedDate": "2020-09-30T15:08:22.952Z",
   "effectiveDate": "2020-07-20T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -29,9 +29,6 @@
     },
     {
       "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"

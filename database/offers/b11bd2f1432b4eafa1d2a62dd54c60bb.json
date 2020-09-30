@@ -1,14 +1,14 @@
 {
   "id": "b11bd2f1432b4eafa1d2a62dd54c60bb",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Rogue Company | Ultimate Pack",
-  "description": "Rogue Company | Ultimate Pack",
+  "title": "Rogue Company: Ultimate Pack",
+  "description": "Rogue Company: Ultimate Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rogue-company/ultimate-edition",
   "urlSlug": "peweeultimatepack",
   "creationDate": "2020-04-23T20:34:51.643Z",
-  "lastModifiedDate": "2020-08-17T19:02:18.185Z",
+  "lastModifiedDate": "2020-09-30T14:56:44.311Z",
   "effectiveDate": "2020-07-02T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -57,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "SHOOTER",
       "namespace": "epic",
@@ -78,6 +72,18 @@
       "updated": "2020-09-15T15:30:56.538Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -108,76 +114,71 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
       "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rogue-company/ultimate-edition"
     }
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_G1_DESCRIPTION-2560x1440-4979a2c03bf95b992a9ba71086fc7e90.jpg",
-      "md5": "4979a2c03bf95b992a9ba71086fc7e90",
-      "size": 430307,
-      "uploadedDate": "2019-09-04T18:48:43.067Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_S3_DESCRIPTION-1280x1440-b2f263fb7bf7b74e9b761457d9447ac8.jpg",
-      "md5": "b2f263fb7bf7b74e9b761457d9447ac8",
-      "size": 257555,
-      "uploadedDate": "2019-09-04T18:48:51.254Z",
-      "width": 1280,
-      "height": 1440
-    },
-    {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_DEVELOPER_RogueCompany_IC1_DESCRIPTION-200x200-02a2630eadb17cdcd9009ab52f2a1fb5.png",
-      "md5": "02a2630eadb17cdcd9009ab52f2a1fb5",
-      "size": 3748,
-      "uploadedDate": "2019-09-04T18:49:00.817Z",
-      "width": 200,
-      "height": 200
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:13.858Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/CodeRedemption_RogueCompany-340x440-1556563c6bc7bb49090240e42b8ecc68.jpg",
-      "md5": "1556563c6bc7bb49090240e42b8ecc68",
-      "size": 174246,
-      "uploadedDate": "2019-09-04T18:29:22.926Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-HeroCarouselImage-1920x1080-1920x1080-a274eecc6a965a2b4886bf4228dc3076.jpg",
+      "md5": "a274eecc6a965a2b4886bf4228dc3076",
+      "size": 530128,
+      "uploadedDate": "2020-09-30T13:54:53.206Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Ultimate_PortraitOffer_1200x1600-1200x1600-43e27d275a8b4e87b16a78fdf014d935.jpg",
-      "md5": "43e27d275a8b4e87b16a78fdf014d935",
-      "size": 1652549,
-      "uploadedDate": "2020-07-22T15:55:14.791Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-PortraitOfferImage-1200x1600-1200x1600-910a754854fde596deb9fd82d8ce9f5b.jpg",
+      "md5": "910a754854fde596deb9fd82d8ce9f5b",
+      "size": 498306,
+      "uploadedDate": "2020-09-30T13:55:00.745Z",
       "width": 1200,
       "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Ultimate_HeroCarousel_1920x1080-1920x1080-d7594e664a3e9c7b3b92066b55b57229.jpg",
-      "md5": "d7594e664a3e9c7b3b92066b55b57229",
-      "size": 1759359,
-      "uploadedDate": "2020-07-22T15:55:20.934Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-PortraitOfferImage-1200x1600-1200x1600-910a754854fde596deb9fd82d8ce9f5b.jpg",
+      "md5": "910a754854fde596deb9fd82d8ce9f5b",
+      "size": 498306,
+      "uploadedDate": "2020-09-30T13:55:09.235Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-PortraitOfferImage-1200x1600-1200x1600-910a754854fde596deb9fd82d8ce9f5b.jpg",
+      "md5": "910a754854fde596deb9fd82d8ce9f5b",
+      "size": 498306,
+      "uploadedDate": "2020-09-30T13:55:18.482Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-HeroCarouselImage-1920x1080-1920x1080-a274eecc6a965a2b4886bf4228dc3076.jpg",
+      "md5": "a274eecc6a965a2b4886bf4228dc3076",
+      "size": 530128,
+      "uploadedDate": "2020-09-30T13:55:27.723Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-UltimateFoundersPack-PortraitOfferImage-1200x1600-1200x1600-910a754854fde596deb9fd82d8ce9f5b.jpg",
+      "md5": "910a754854fde596deb9fd82d8ce9f5b",
+      "size": 498306,
+      "uploadedDate": "2020-09-30T13:55:37.281Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

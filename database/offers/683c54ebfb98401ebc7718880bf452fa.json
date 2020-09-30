@@ -1,14 +1,14 @@
 {
   "id": "683c54ebfb98401ebc7718880bf452fa",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Rogue Company | Starter Pack",
-  "description": "Rogue Company | Starter Pack",
+  "title": "Rogue Company: Starter Pack",
+  "description": "Rogue Company: Starter Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "rogue-company/starter-edition",
   "urlSlug": "peweestarterpack",
   "creationDate": "2020-04-23T20:29:21.773Z",
-  "lastModifiedDate": "2020-09-14T15:40:52.994Z",
+  "lastModifiedDate": "2020-09-30T14:56:44.269Z",
   "effectiveDate": "2020-07-02T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -57,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "SHOOTER",
       "namespace": "epic",
@@ -78,6 +72,18 @@
       "updated": "2020-09-15T15:30:56.538Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -108,67 +114,71 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
       "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rogue-company/starter-edition"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
-      "md5": "0ed0d904996970c2b49ab821379aad22",
-      "size": 1652175,
-      "uploadedDate": "2020-07-22T15:53:56.090Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_HeroCarousel_1920x1080-1920x1080-c9349a3be206fd032fb10212b21b78c4.jpg",
-      "md5": "c9349a3be206fd032fb10212b21b78c4",
-      "size": 1755723,
-      "uploadedDate": "2020-07-22T15:54:00.451Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-HeroCarouselImage-1920x1080-1920x1080-7421b3df53e7071de033ffd496511aa3.jpg",
+      "md5": "7421b3df53e7071de033ffd496511aa3",
+      "size": 488189,
+      "uploadedDate": "2020-09-30T13:50:59.048Z",
       "width": 1920,
       "height": 1080
     },
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-PortraitOfferImage-1200x1600-1200x1600-a5f8808021ea84462c6d9d45e0699dcf.jpg",
+      "md5": "a5f8808021ea84462c6d9d45e0699dcf",
+      "size": 474338,
+      "uploadedDate": "2020-09-30T13:51:03.023Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
-      "md5": "0ed0d904996970c2b49ab821379aad22",
-      "size": 1652175,
-      "uploadedDate": "2020-09-14T15:39:42.952Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-PortraitOfferImage-1200x1600-1200x1600-a5f8808021ea84462c6d9d45e0699dcf.jpg",
+      "md5": "a5f8808021ea84462c6d9d45e0699dcf",
+      "size": 474338,
+      "uploadedDate": "2020-09-30T13:51:14.936Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_PortraitOffer_1200x1600-1200x1600-0ed0d904996970c2b49ab821379aad22-1200x1600-0ed0d904996970c2b49ab821379aad22.jpg",
-      "md5": "0ed0d904996970c2b49ab821379aad22",
-      "size": 1652175,
-      "uploadedDate": "2020-09-14T15:39:51.715Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_BaseGame_PortraitProduct_1200x1600-1200x1600-ba47634c18d527a443ed8695b6dcef0b.jpg",
-      "md5": "ba47634c18d527a443ed8695b6dcef0b",
-      "size": 519372,
-      "uploadedDate": "2020-09-14T15:40:03.009Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-PortraitOfferImage-1200x1600-1200x1600-a5f8808021ea84462c6d9d45e0699dcf.jpg",
+      "md5": "a5f8808021ea84462c6d9d45e0699dcf",
+      "size": 474338,
+      "uploadedDate": "2020-09-30T13:51:24.945Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo_EGS_Starter_HeroCarousel_1920x1080-1920x1080-c9349a3be206fd032fb10212b21b78c4-1920x1080-c9349a3be206fd032fb10212b21b78c4.jpg",
-      "md5": "c9349a3be206fd032fb10212b21b78c4",
-      "size": 1755723,
-      "uploadedDate": "2020-09-14T15:40:43.064Z",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-HeroCarouselImage-1920x1080-1920x1080-7421b3df53e7071de033ffd496511aa3.jpg",
+      "md5": "7421b3df53e7071de033ffd496511aa3",
+      "size": 488189,
+      "uploadedDate": "2020-09-30T13:51:39.701Z",
       "width": 1920,
       "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/Roco-EGS-0pt50-StarterFoundersPack-PortraitOfferImage-1200x1600-1200x1600-a5f8808021ea84462c6d9d45e0699dcf.jpg",
+      "md5": "a5f8808021ea84462c6d9d45e0699dcf",
+      "size": 474338,
+      "uploadedDate": "2020-09-30T13:51:51.281Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

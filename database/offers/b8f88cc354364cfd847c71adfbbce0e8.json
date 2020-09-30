@@ -1,14 +1,14 @@
 {
   "id": "b8f88cc354364cfd847c71adfbbce0e8",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "Rogue Company: Ultimate Founder's Pack",
-  "description": "Ultimate Founder's Pack",
+  "title": "Rogue Company: Ultimate Founder's Pack (old)",
+  "description": "Rogue Company: Ultimate Founder's Pack (old)",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "rogue-company/ultimate-edition",
   "urlSlug": "peweeultimateedition",
   "creationDate": "2020-04-23T20:23:49.113Z",
-  "lastModifiedDate": "2020-07-23T16:34:36.844Z",
+  "lastModifiedDate": "2020-09-30T14:56:44.327Z",
   "effectiveDate": "2020-07-20T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "SHOOTER",
       "namespace": "epic",
@@ -81,6 +69,18 @@
       "updated": "2020-09-15T15:30:56.538Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
