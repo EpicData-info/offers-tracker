@@ -8,9 +8,9 @@
   "productSlug": "heroes-and-generals-wwii/su-infantry-anti-tank",
   "urlSlug": "anti-tank-su",
   "creationDate": "2020-04-29T03:06:39.917Z",
-  "lastModifiedDate": "2020-09-24T07:08:53.575Z",
-  "effectiveDate": "2020-09-24T14:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-09-25T21:24:04.039Z",
+  "effectiveDate": "2020-10-01T14:00:00.000Z",
+  "viewableDate": "2020-10-01T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-5gfjc6842mpumpd4slgddhbhqw7e8l",
@@ -69,6 +69,18 @@
       "updated": "2020-09-10T16:00:33.411Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
