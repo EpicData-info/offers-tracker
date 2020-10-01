@@ -8194,7 +8194,7 @@
     ],
     "Tripwire Interactive",
     1574376923,
-    1599591142,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -9239,7 +9239,7 @@
     ],
     "Tripwire Interactive",
     1574376575,
-    1599591054,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -17549,7 +17549,7 @@
     ],
     "Tripwire Interactive",
     1574376653,
-    1599591172,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -17856,7 +17856,7 @@
     ],
     "Tripwire Interactive",
     1574376802,
-    1599591025,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -18435,7 +18435,7 @@
     ],
     "Tripwire Interactive",
     1574377120,
-    1599591200,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -21847,14 +21847,15 @@
     "3542a1df211e492bb2abecb7c734f7f9",
     "Digital Deluxe Edition Upgrade",
     [
-      "games",
+      "addons",
+      "addons/durable",
       "applications"
     ],
     "Tripwire Interactive",
     1583261357,
-    1599075879,
-    "",
-    ""
+    1601561256,
+    "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S2-1200x1600-5e3b2f8107e17cc008237e52761d67e5.jpg",
+    "rising-storm-2-vietnam/digital-deluxe-edition-upgrade"
   ],
   [
     "8f837a7f93cb4d0ea1e56c55f277230a",
@@ -23384,7 +23385,7 @@
     ],
     "Tripwire Interactive",
     1574376714,
-    1599591084,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -24638,7 +24639,7 @@
     ],
     "Tripwire Interactive",
     1574376865,
-    1599590997,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -27035,7 +27036,7 @@
     ],
     "Tripwire Interactive",
     1574377501,
-    1599590966,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -27827,6 +27828,22 @@
     1589468400,
     "https://cdn1.epicgames.com/cbbb7e8728a3476f97e44f3856c3cb13/offer/ATTZF_Edition_Capsule_1920X1080-1920x1080-674b207081b22977440cc3dab2f21098.jpg",
     "anno-2205/home"
+  ],
+  [
+    "b19d810d322240e7b37bcf84ffac60ce",
+    "3542a1df211e492bb2abecb7c734f7f9",
+    "Rising Storm 2: Vietnam",
+    [
+      "freegames",
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Tripwire Interactive",
+    1566606938,
+    1601561256,
+    "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/EGS_RisingStorm2Vietnam_AntimatterGamesTripwireInteractive_S4-1200x1600-5e3b2f8107e17cc008237e52761d67e5.jpg",
+    "rising-storm-2-vietnam/home"
   ],
   [
     "b1b202c965ba4e45b75289ae420d088c",
@@ -30107,7 +30124,7 @@
     ],
     "Tripwire Interactive",
     1574377573,
-    1599591231,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -31136,7 +31153,7 @@
     ],
     "Tripwire Interactive",
     1574377299,
-    1599591115,
+    1601561256,
     "https://cdn1.epicgames.com/3542a1df211e492bb2abecb7c734f7f9/offer/rs2v_tall-860x1440-14ca9c8b6a4f9d3c717129356375954e.jpg",
     ""
   ],
@@ -34314,14 +34331,15 @@
     "7af7476ff9eb4a8d9cd9d6486224de76",
     "ABZU",
     [
+      "freegames",
       "games",
       "games/edition/base",
       "games/edition",
       "applications"
     ],
-    "505 Games S.r.l.",
+    "505 Games",
     1559595545,
-    1585791654,
+    1601561807,
     "https://cdn1.epicgames.com/7af7476ff9eb4a8d9cd9d6486224de76/offer/CodeRedemption_ABZU-340x440-4a451766819751980d47951f9563e260.jpg",
     "abzu/home"
   ],
