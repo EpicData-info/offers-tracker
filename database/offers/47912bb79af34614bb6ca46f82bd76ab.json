@@ -5,10 +5,10 @@
   "description": "This league supporter pack includes 550 Points total, the Divine Benevolence Supporter Forum Title, Divine Benevolence Armour Pack, Divine Benevolence Weapon Effect, Divine Benevolence Portrait Frame and everything in the Benevolence Supporter Pack.",
   "longDescription": "This league supporter pack includes 550 Points total, the Divine Benevolence Supporter Forum Title, Divine Benevolence Armour Pack, Divine Benevolence Weapon Effect, Divine Benevolence Portrait Frame and everything in the Benevolence Supporter Pack.",
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "path-of-exile/divine-benevolence-pack",
   "urlSlug": "path-of-exile--divine-benevolence-pack",
   "creationDate": "2020-09-14T23:03:28.471Z",
-  "lastModifiedDate": "2020-09-18T20:32:16.348Z",
+  "lastModifiedDate": "2020-10-01T20:35:10.051Z",
   "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -40,6 +40,10 @@
     {
       "key": "publisherName",
       "value": "Grinding Gear Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "path-of-exile/divine-benevolence-pack"
     }
   ],
   "keyImages": [

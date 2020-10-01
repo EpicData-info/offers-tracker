@@ -5,10 +5,10 @@
   "description": "This starter pack includes 200 Points, an Extra Stash Tab and the First Blood Weapon Effect. Limited to One per Account.",
   "longDescription": "This starter pack includes 200 Points, an Extra Stash Tab and the First Blood Weapon Effect. Limited to One per Account.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "path-of-exile--first-blood-pack",
+  "productSlug": "path-of-exile/first-blood-pack",
+  "urlSlug": "pathofexilefirstbloodpack",
   "creationDate": "2020-09-14T22:30:02.173Z",
-  "lastModifiedDate": "2020-09-28T19:29:46.236Z",
+  "lastModifiedDate": "2020-10-01T20:35:10.117Z",
   "effectiveDate": "2020-09-18T20:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -48,11 +48,66 @@
       "value": "Grinding Gear Games"
     },
     {
-      "key": "developerName",
-      "value": "Grinding Gear Games"
+      "key": "com.epicgames.app.productSlug",
+      "value": "path-of-exile/first-blood-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_FirstBlood-1920x1080-47627fcf6541459ebade984bc66b75c6.png",
+      "md5": "47627fcf6541459ebade984bc66b75c6",
+      "size": 2344159,
+      "uploadedDate": "2020-09-16T21:49:57.227Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1920x1080_FirstBlood-1920x1080-47627fcf6541459ebade984bc66b75c6.png",
+      "md5": "47627fcf6541459ebade984bc66b75c6",
+      "size": 2344159,
+      "uploadedDate": "2020-09-16T21:50:11.790Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_FirstBlood-1200x1600-b4333d4319f91ff0cd27c4a2b70607e1.png",
+      "md5": "b4333d4319f91ff0cd27c4a2b70607e1",
+      "size": 2312903,
+      "uploadedDate": "2020-09-16T22:55:10.829Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_FirstBlood-1200x1600-b4333d4319f91ff0cd27c4a2b70607e1.png",
+      "md5": "b4333d4319f91ff0cd27c4a2b70607e1",
+      "size": 2312903,
+      "uploadedDate": "2020-09-16T22:55:24.049Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_FirstBlood-1200x1600-b4333d4319f91ff0cd27c4a2b70607e1.png",
+      "md5": "b4333d4319f91ff0cd27c4a2b70607e1",
+      "size": 2312903,
+      "uploadedDate": "2020-09-16T22:55:37.864Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/7ad5508d382e46228056f1d1a0189ae2/offer/1200x1600_FirstBlood-1200x1600-b4333d4319f91ff0cd27c4a2b70607e1.png",
+      "md5": "b4333d4319f91ff0cd27c4a2b70607e1",
+      "size": 2312903,
+      "uploadedDate": "2020-09-16T22:56:25.998Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "aab0ed9ab91841a5a6e848a32f759b79"
