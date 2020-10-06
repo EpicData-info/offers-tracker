@@ -8,7 +8,7 @@
   "productSlug": "heroes-and-generals-wwii/home",
   "urlSlug": "heroes-and-general-wwii",
   "creationDate": "2020-03-31T23:32:26.684Z",
-  "lastModifiedDate": "2020-09-25T21:24:03.840Z",
+  "lastModifiedDate": "2020-10-06T14:31:42.855Z",
   "effectiveDate": "2020-09-24T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -39,18 +39,6 @@
   ],
   "tags": [
     {
-      "id": "1216",
-      "name": "ACTION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:05.613Z",
-      "updated": "2020-09-16T21:22:47.774Z",
-      "status": "ACTIVE",
-      "referenceCount": 110,
-      "comment": null
-    },
-    {
       "id": "1264",
       "name": "CO-OP",
       "namespace": "epic",
@@ -60,6 +48,18 @@
       "updated": "2020-09-16T21:22:47.731Z",
       "status": "ACTIVE",
       "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
       "comment": null
     },
     {
@@ -84,6 +84,18 @@
       "updated": "2020-09-16T23:47:27.269Z",
       "status": "ACTIVE",
       "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-09-14T17:08:09.938Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
       "comment": null
     },
     {
