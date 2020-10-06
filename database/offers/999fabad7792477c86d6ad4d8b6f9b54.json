@@ -1,0 +1,60 @@
+{
+  "id": "999fabad7792477c86d6ad4d8b6f9b54",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "title": "Young Dumb and Broke Audience",
+  "description": "Young Dumb and Broke Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "[]",
+  "urlSlug": "youngdumbandbrokeaudience",
+  "creationDate": "2020-09-01T21:03:16.943Z",
+  "lastModifiedDate": "2020-10-06T18:39:54.545Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "c89671f80dd344c3b640de057da14ddc"
+    }
+  ],
+  "catalogNs": null
+}
