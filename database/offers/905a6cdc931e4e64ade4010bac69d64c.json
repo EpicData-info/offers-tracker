@@ -5,12 +5,12 @@
   "description": "Oxygen Not Included General Audience",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "oxygen-not-included/home",
   "urlSlug": "lotusgeneralaudience",
   "creationDate": "2019-02-13T14:52:01.048Z",
-  "lastModifiedDate": "2019-11-26T20:04:07.964Z",
-  "effectiveDate": "2019-05-30T15:58:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-10-06T14:45:58.809Z",
+  "effectiveDate": "2020-10-06T16:00:00.000Z",
+  "viewableDate": "2020-10-05T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-6v5su732w3tnzud9lque2m7s4qzvjx",
@@ -28,10 +28,91 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1233",
+      "name": "BASE-BUILDING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:14.176Z",
+      "updated": "2020-05-13T21:05:17.873Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -40,26 +121,66 @@
     {
       "key": "developerName",
       "value": "Klei Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "oxygen-not-included/home"
     }
   ],
   "keyImages": [
     {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg",
-      "md5": "6a5ecf39084d4e1e876668d7b8eaedc2",
-      "size": 95942,
-      "uploadedDate": "2019-02-19T15:36:39.513Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg",
+      "md5": "9401c73b7b5dd47ea040e7db94615490",
+      "size": 995272,
+      "uploadedDate": "2020-10-02T02:37:34.191Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3.jpg",
+      "md5": "f8fd3fc155826031220cb8f73acf49a3",
+      "size": 962578,
+      "uploadedDate": "2020-10-02T02:37:43.681Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/lotus/offer/OxygenNotIncluded_CodeRedemption-340x440-6a5ecf39084d4e1e876668d7b8eaedc2.jpg",
-      "md5": "6a5ecf39084d4e1e876668d7b8eaedc2",
-      "size": 95942,
-      "uploadedDate": "2019-04-23T20:55:15.603Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3.jpg",
+      "md5": "f8fd3fc155826031220cb8f73acf49a3",
+      "size": 962578,
+      "uploadedDate": "2020-10-02T02:38:12.866Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3.jpg",
+      "md5": "f8fd3fc155826031220cb8f73acf49a3",
+      "size": 962578,
+      "uploadedDate": "2020-10-02T02:38:28.838Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg",
+      "md5": "9401c73b7b5dd47ea040e7db94615490",
+      "size": 995272,
+      "uploadedDate": "2020-10-02T02:39:05.717Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S2-1200x1600-f8fd3fc155826031220cb8f73acf49a3.jpg",
+      "md5": "f8fd3fc155826031220cb8f73acf49a3",
+      "size": 962578,
+      "uploadedDate": "2020-10-02T02:39:25.303Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

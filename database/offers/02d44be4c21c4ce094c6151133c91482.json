@@ -8,7 +8,7 @@
   "productSlug": "rocket-league",
   "urlSlug": "rocket-league",
   "creationDate": "2019-07-17T15:21:47.960Z",
-  "lastModifiedDate": "2020-09-23T14:54:37.375Z",
+  "lastModifiedDate": "2020-10-06T14:39:43.298Z",
   "effectiveDate": "2020-09-23T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -96,6 +96,18 @@
       "updated": "2020-08-20T17:37:37.403Z",
       "status": "ACTIVE",
       "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1141",
+      "name": "FREE TO PLAY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:28.688Z",
+      "updated": "2020-09-14T17:08:09.938Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
       "comment": null
     },
     {
