@@ -1,0 +1,56 @@
+{
+  "id": "03d4680cc79a4030b40e2d7c6bdacbaf",
+  "namespace": "131e306949034972959ca401ca27837e",
+  "title": "VermilionPeakGeneralAudience",
+  "description": "VermilionPeakGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "vermilionpeakgeneralaudience",
+  "creationDate": "2020-10-06T21:22:48.918Z",
+  "lastModifiedDate": "2020-10-06T22:21:42.694Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "1370227204cd4e8089f39ac46a769744"
+    }
+  ],
+  "catalogNs": null
+}
