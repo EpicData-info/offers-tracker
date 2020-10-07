@@ -1,16 +1,16 @@
 {
-  "id": "9eb7cb938e3a493ab0cfa43a8e490aa0",
+  "id": "3990c5bab5184b94a9cfbf28e1377104",
   "namespace": "92546d82a1d043ad8cff2c6c2cd78bb9",
-  "title": "Startup Panic Demo",
-  "description": "Startup Panic Demo",
+  "title": "Startup Panic",
+  "description": "Startup Panic",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "blackpolldemoaudience",
-  "creationDate": "2020-08-10T21:40:00.119Z",
-  "lastModifiedDate": "2020-10-07T21:36:15.931Z",
-  "effectiveDate": "2020-09-10T16:00:00.000Z",
-  "viewableDate": "2020-09-10T16:00:00.000Z",
+  "productSlug": "startup-panic",
+  "urlSlug": "blackpollprepurchaseaudience",
+  "creationDate": "2020-10-07T21:24:30.848Z",
+  "lastModifiedDate": "2020-10-07T21:36:15.947Z",
+  "effectiveDate": "2099-01-08T17:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
@@ -28,7 +28,10 @@
       "path": "games"
     },
     {
-      "path": "games/demo"
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -106,69 +109,77 @@
       "value": "tinyBuild"
     },
     {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
       "key": "developerName",
       "value": "Algo Rocks"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "startup-panic"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_G1A_01-1920x1080-508ff148473d223a3c9b54c1096171fa.jpg",
-      "md5": "508ff148473d223a3c9b54c1096171fa",
-      "size": 613031,
-      "uploadedDate": "2020-09-10T14:05:39.190Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S3-2560x1440-fea9f5ec5651ed2e92cf016c728b73a0.jpg",
+      "md5": "fea9f5ec5651ed2e92cf016c728b73a0",
+      "size": 863412,
+      "uploadedDate": "2020-09-02T21:20:48.551Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_S2-1200x1600-372a2cab43684408abf7f625a7fc6b94.jpg",
-      "md5": "372a2cab43684408abf7f625a7fc6b94",
-      "size": 635689,
-      "uploadedDate": "2020-09-10T14:05:48.566Z",
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S2-1200x1600-195ffbc23a6e0ccef06ea0f632c33295.jpg",
+      "md5": "195ffbc23a6e0ccef06ea0f632c33295",
+      "size": 836806,
+      "uploadedDate": "2020-09-02T21:20:57.215Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_S2-1200x1600-372a2cab43684408abf7f625a7fc6b94.jpg",
-      "md5": "372a2cab43684408abf7f625a7fc6b94",
-      "size": 635689,
-      "uploadedDate": "2020-09-10T14:05:58.684Z",
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S2-1200x1600-195ffbc23a6e0ccef06ea0f632c33295.jpg",
+      "md5": "195ffbc23a6e0ccef06ea0f632c33295",
+      "size": 836806,
+      "uploadedDate": "2020-09-02T21:21:08.906Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_S2-1200x1600-372a2cab43684408abf7f625a7fc6b94.jpg",
-      "md5": "372a2cab43684408abf7f625a7fc6b94",
-      "size": 635689,
-      "uploadedDate": "2020-09-10T14:06:07.287Z",
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S2-1200x1600-195ffbc23a6e0ccef06ea0f632c33295.jpg",
+      "md5": "195ffbc23a6e0ccef06ea0f632c33295",
+      "size": 836806,
+      "uploadedDate": "2020-09-02T21:21:19.264Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_G1A_01-1920x1080-508ff148473d223a3c9b54c1096171fa.jpg",
-      "md5": "508ff148473d223a3c9b54c1096171fa",
-      "size": 613031,
-      "uploadedDate": "2020-09-10T14:06:17.258Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S1-2560x1440-ed63c0c3c2dc76abb3839303a2456432.jpg",
+      "md5": "ed63c0c3c2dc76abb3839303a2456432",
+      "size": 863412,
+      "uploadedDate": "2020-09-02T21:21:29.249Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_StartupPanicDEMO_AlgoRocks_Editions_S2-1200x1600-372a2cab43684408abf7f625a7fc6b94.jpg",
-      "md5": "372a2cab43684408abf7f625a7fc6b94",
-      "size": 635689,
-      "uploadedDate": "2020-09-10T14:06:26.610Z",
+      "url": "https://cdn1.epicgames.com/92546d82a1d043ad8cff2c6c2cd78bb9/offer/EGS_Quityourjobandbuildanexcitingstartup_AlgoRocks_S2-1200x1600-195ffbc23a6e0ccef06ea0f632c33295.jpg",
+      "md5": "195ffbc23a6e0ccef06ea0f632c33295",
+      "size": 836806,
+      "uploadedDate": "2020-09-02T21:21:38.202Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "91bf6f3e3888408f84e6e7ec0105fd70"
+      "id": "be82881ba7b3427d925e590082f172f1"
     }
   ],
   "catalogNs": null
