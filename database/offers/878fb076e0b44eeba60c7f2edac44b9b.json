@@ -1,15 +1,15 @@
 {
-  "id": "8a1b0c496c5440cfa71ba276c75a8aa4",
+  "id": "878fb076e0b44eeba60c7f2edac44b9b",
   "namespace": "65add98d18a64e2ead3b8f05c84cba94",
   "title": "The Red Lantern",
   "description": "The Red Lantern",
-  "longDescription": null,
+  "longDescription": "Pre-Purchase offer",
   "status": "ACTIVE",
   "productSlug": "the-red-lantern/home",
-  "urlSlug": "guillemotgeneralaudience",
-  "creationDate": "2019-10-17T05:24:50.813Z",
-  "lastModifiedDate": "2020-10-07T17:01:25.916Z",
-  "effectiveDate": "2020-10-22T13:00:00.000Z",
+  "urlSlug": "guillemotprepurchaseaudience",
+  "creationDate": "2020-09-10T21:50:27.096Z",
+  "lastModifiedDate": "2020-10-07T17:01:25.949Z",
+  "effectiveDate": "2020-10-08T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -26,6 +26,12 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -99,8 +105,16 @@
       "value": "KR"
     },
     {
+      "key": "releaseDate",
+      "value": "1603371600"
+    },
+    {
       "key": "publisherName",
       "value": "Timberline Studio"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -140,7 +154,7 @@
       "url": "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702 (1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg",
       "md5": "89312f7bf3da012e1606f730d8e14702",
       "size": 215978,
-      "uploadedDate": "2020-10-07T16:54:07.361Z",
+      "uploadedDate": "2020-10-07T16:45:24.347Z",
       "width": 510,
       "height": 680
     },
@@ -149,7 +163,7 @@
       "url": "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702 (1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg",
       "md5": "89312f7bf3da012e1606f730d8e14702",
       "size": 215978,
-      "uploadedDate": "2020-10-07T16:54:18.749Z",
+      "uploadedDate": "2020-10-07T16:45:35.698Z",
       "width": 510,
       "height": 680
     },
@@ -158,7 +172,7 @@
       "url": "https://cdn1.epicgames.com/65add98d18a64e2ead3b8f05c84cba94/offer/EGS_TimberlineStudio_TheRedLantern_S4-510x680-89312f7bf3da012e1606f730d8e14702 (1)-510x680-89312f7bf3da012e1606f730d8e14702.jpg",
       "md5": "89312f7bf3da012e1606f730d8e14702",
       "size": 215978,
-      "uploadedDate": "2020-10-07T16:54:30.836Z",
+      "uploadedDate": "2020-10-07T16:46:03.263Z",
       "width": 510,
       "height": 680
     }
