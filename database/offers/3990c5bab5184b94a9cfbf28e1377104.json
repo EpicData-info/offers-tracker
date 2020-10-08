@@ -8,8 +8,8 @@
   "productSlug": "startup-panic",
   "urlSlug": "blackpollprepurchaseaudience",
   "creationDate": "2020-10-07T21:24:30.848Z",
-  "lastModifiedDate": "2020-10-07T21:36:15.947Z",
-  "effectiveDate": "2099-01-08T17:00:00.000Z",
+  "lastModifiedDate": "2020-10-08T16:55:27.000Z",
+  "effectiveDate": "2020-10-08T17:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1115",
-      "name": "STRATEGY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:15.641Z",
-      "updated": "2020-09-15T18:08:53.862Z",
-      "status": "ACTIVE",
-      "referenceCount": 33,
-      "comment": null
-    },
-    {
       "id": "9547",
       "name": "WINDOWS",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
       "comment": null
     },
     {
