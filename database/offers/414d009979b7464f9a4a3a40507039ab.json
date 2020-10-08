@@ -1,0 +1,158 @@
+{
+  "id": "414d009979b7464f9a4a3a40507039ab",
+  "namespace": "5d24ed888f9542a09dc406f66705631a",
+  "title": "Neighbours back From Hell",
+  "description": "Neighbours back From Hell",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "neighbours-back-from-hell/home",
+  "urlSlug": "eggplantgeneralaudience",
+  "creationDate": "2020-08-21T13:46:02.309Z",
+  "lastModifiedDate": "2020-10-08T15:30:26.252Z",
+  "effectiveDate": "2020-10-08T17:00:00.000Z",
+  "viewableDate": "2020-10-08T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-jywxgemg3dagnv6fymcngq3g29mc4j",
+    "name": "THQ Nordic GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-09-09T02:28:11.779Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "HandyGames"
+    },
+    {
+      "key": "developerName",
+      "value": "Farbworks & THQ Nordic"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "neighbours-back-from-hell/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/LandscapeProdImage-2560x1440-d9113ff23c86c855afb318c7f7e01874.png",
+      "md5": "d9113ff23c86c855afb318c7f7e01874",
+      "size": 4614160,
+      "uploadedDate": "2020-10-01T20:20:43.524Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png",
+      "md5": "c62d577d1522e4a4e9d94b0665b5a16b",
+      "size": 2604629,
+      "uploadedDate": "2020-10-01T20:20:52.844Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/LandscapeProdImage-2560x1440-d9113ff23c86c855afb318c7f7e01874.png",
+      "md5": "d9113ff23c86c855afb318c7f7e01874",
+      "size": 4614160,
+      "uploadedDate": "2020-10-01T20:21:02.604Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png",
+      "md5": "c62d577d1522e4a4e9d94b0665b5a16b",
+      "size": 2604629,
+      "uploadedDate": "2020-10-01T20:21:11.393Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png",
+      "md5": "c62d577d1522e4a4e9d94b0665b5a16b",
+      "size": 2604629,
+      "uploadedDate": "2020-10-01T20:21:20.361Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/5d24ed888f9542a09dc406f66705631a/offer/portraitProductImage-1200x1600-c62d577d1522e4a4e9d94b0665b5a16b.png",
+      "md5": "c62d577d1522e4a4e9d94b0665b5a16b",
+      "size": 2604629,
+      "uploadedDate": "2020-10-01T20:21:28.856Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "ed83a61e43b545ab93636d24b56e331b"
+    }
+  ],
+  "catalogNs": null
+}
