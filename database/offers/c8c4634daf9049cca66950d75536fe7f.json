@@ -1,0 +1,194 @@
+{
+  "id": "c8c4634daf9049cca66950d75536fe7f",
+  "namespace": "ca16315212fe486b96969e8fc6d6faf6",
+  "title": "Disc Room",
+  "description": "Disc Room",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "disc-room/home",
+  "urlSlug": "flutegeneralaudience",
+  "creationDate": "2020-09-22T13:36:24.425Z",
+  "lastModifiedDate": "2020-10-08T12:17:14.003Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-10-08T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-plnhdz2wfx5etjjeh88szjqy2gx8gw",
+    "name": "Devolver Digital, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1336",
+      "name": "ACTION-ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:05.439Z",
+      "updated": "2020-09-12T17:01:53.455Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Devolver Digital"
+    },
+    {
+      "key": "developerName",
+      "value": "Terri, Dose, Kitty and JW"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "disc-room/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S1-2560x1440-f12084f30427a1c1b5b46733f8743eb6.jpg",
+      "md5": "f12084f30427a1c1b5b46733f8743eb6",
+      "size": 442612,
+      "uploadedDate": "2020-10-05T13:14:01.258Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S2-1200x1600-ef6651b44ba0097955baef20291391a1.jpg",
+      "md5": "ef6651b44ba0097955baef20291391a1",
+      "size": 313375,
+      "uploadedDate": "2020-10-05T13:14:15.354Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S1-2560x1440-f12084f30427a1c1b5b46733f8743eb6.jpg",
+      "md5": "f12084f30427a1c1b5b46733f8743eb6",
+      "size": 442612,
+      "uploadedDate": "2020-10-05T13:14:25.658Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S2-1200x1600-ef6651b44ba0097955baef20291391a1.jpg",
+      "md5": "ef6651b44ba0097955baef20291391a1",
+      "size": 313375,
+      "uploadedDate": "2020-10-05T13:14:33.510Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S6-1200x1600-ef6651b44ba0097955baef20291391a1.jpg",
+      "md5": "ef6651b44ba0097955baef20291391a1",
+      "size": 313375,
+      "uploadedDate": "2020-10-05T13:14:41.080Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/ca16315212fe486b96969e8fc6d6faf6/offer/EGS_DiscRoom_TerriDoseKittyandJW_S6-1200x1600-ef6651b44ba0097955baef20291391a1.jpg",
+      "md5": "ef6651b44ba0097955baef20291391a1",
+      "size": 313375,
+      "uploadedDate": "2020-10-05T13:14:49.186Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "0820eab0c5344eacbce7f1f8f230c004"
+    }
+  ],
+  "catalogNs": null
+}

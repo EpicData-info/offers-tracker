@@ -8,7 +8,7 @@
   "productSlug": "the-red-lantern/home",
   "urlSlug": "guillemotprepurchaseaudience",
   "creationDate": "2020-09-10T21:50:27.096Z",
-  "lastModifiedDate": "2020-10-07T17:01:25.949Z",
+  "lastModifiedDate": "2020-10-08T12:58:40.163Z",
   "effectiveDate": "2020-10-08T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -105,16 +105,16 @@
       "value": "KR"
     },
     {
-      "key": "releaseDate",
-      "value": "1603371600"
-    },
-    {
       "key": "publisherName",
       "value": "Timberline Studio"
     },
     {
       "key": "isPrepurchase",
       "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1603371600"
     },
     {
       "key": "com.epicgames.app.productSlug",
