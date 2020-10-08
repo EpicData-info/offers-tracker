@@ -1,15 +1,15 @@
 {
-  "id": "98fe272aa19540dfb4a2359ddb8d24fe",
+  "id": "c5139d9a65c6420eb3196f0a441df0c5",
   "namespace": "c42b08b655c04a64a0535331629d4b6d",
   "title": "Bugsnax",
   "description": "Bugsnax",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "bugsnax",
-  "urlSlug": "bonytailgeneralaudience",
-  "creationDate": "2019-11-29T20:59:18.254Z",
-  "lastModifiedDate": "2020-10-08T14:03:47.566Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "urlSlug": "bugsnax-pre-purchase",
+  "creationDate": "2020-10-07T15:59:06.486Z",
+  "lastModifiedDate": "2020-10-08T14:03:47.545Z",
+  "effectiveDate": "2020-10-08T14:15:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -102,11 +102,19 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
       "value": "Young Horses"
+    },
+    {
+      "key": "isPrepurchase",
+      "value": "true"
+    },
+    {
+      "key": "availableDate",
+      "value": "1605196800"
     },
     {
       "key": "com.epicgames.app.productSlug",
@@ -171,7 +179,7 @@
   ],
   "items": [
     {
-      "id": "e5d50693b8aa4976a3e41db3396eb927"
+      "id": "280ef229e54d454bb0f1289e09207506"
     }
   ],
   "catalogNs": null

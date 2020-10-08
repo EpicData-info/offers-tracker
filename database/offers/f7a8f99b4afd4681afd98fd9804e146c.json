@@ -8,9 +8,9 @@
   "productSlug": "heroes-and-generals-wwii/su-infantry-medic",
   "urlSlug": "infantry-medic-su",
   "creationDate": "2020-04-29T03:11:39.299Z",
-  "lastModifiedDate": "2020-09-24T06:46:03.922Z",
-  "effectiveDate": "2020-09-24T14:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-10-07T16:04:59.255Z",
+  "effectiveDate": "2020-10-08T14:00:00.000Z",
+  "viewableDate": "2020-10-08T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-5gfjc6842mpumpd4slgddhbhqw7e8l",
@@ -69,6 +69,18 @@
       "updated": "2020-09-10T16:00:33.411Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
