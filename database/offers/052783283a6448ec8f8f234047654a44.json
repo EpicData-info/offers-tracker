@@ -1,16 +1,16 @@
 {
   "id": "052783283a6448ec8f8f234047654a44",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00040 Audience",
-  "description": "DLC00040 Audience",
-  "longDescription": "DLC00040 Audience",
+  "title": "Occult Ritual Weapon Skins",
+  "description": "It’s time to use the powers of the occult against your undead foes! Apply a horrifying supernatural glow to your guns with these weapon skins*.\n*Skins apply to all weapons included in the base game, and are not compatible with all weapons.",
+  "longDescription": "It’s time to use the powers of the occult against your undead foes! Apply a horrifying supernatural glow to your guns with these weapon skins*.\n*Skins apply to all weapons included in the base game, and are not compatible with all weapons.",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sparrowdevaudience-23",
+  "productSlug": "zombie-army-4-dead-war/ocult-weapon-skins",
+  "urlSlug": "ocult-weapon-skins",
   "creationDate": "2020-09-04T12:22:33.843Z",
-  "lastModifiedDate": "2020-09-09T16:34:32.035Z",
+  "lastModifiedDate": "2020-10-13T14:04:46.604Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-01-01T00:00:00.000Z",
+  "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -35,22 +35,75 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",
       "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/ocult-weapon-skins"
     }
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_OccultRitualWeaponSkins-900x450-bc2b903f16d629ce68c2db77beb8f961.png",
+      "md5": "bc2b903f16d629ce68c2db77beb8f961",
+      "size": 790526,
+      "uploadedDate": "2020-10-05T18:53:57.090Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_OccultRitualWeaponSkins_REDEMPTIONIMAGE-860x1180-058ae6eb1c6307a58375fa3f1c38bfa9.png",
+      "md5": "058ae6eb1c6307a58375fa3f1c38bfa9",
+      "size": 1270873,
+      "uploadedDate": "2020-10-05T18:54:03.832Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_OccultRitualWeaponSkins-900x450-bc2b903f16d629ce68c2db77beb8f961.png",
+      "md5": "bc2b903f16d629ce68c2db77beb8f961",
+      "size": 790526,
+      "uploadedDate": "2020-10-05T18:54:13.519Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_OccultRitualWeaponSkins_REDEMPTIONIMAGE-860x1180-058ae6eb1c6307a58375fa3f1c38bfa9.png",
+      "md5": "058ae6eb1c6307a58375fa3f1c38bfa9",
+      "size": 1270873,
+      "uploadedDate": "2020-10-05T18:54:20.962Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_OccultRitualWeaponSkins_REDEMPTIONIMAGE-860x1180-058ae6eb1c6307a58375fa3f1c38bfa9.png",
+      "md5": "058ae6eb1c6307a58375fa3f1c38bfa9",
+      "size": 1270873,
+      "uploadedDate": "2020-10-05T18:54:29.303Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_OccultRitualWeaponSkins_REDEMPTIONIMAGE-860x1180-058ae6eb1c6307a58375fa3f1c38bfa9.png",
+      "md5": "058ae6eb1c6307a58375fa3f1c38bfa9",
+      "size": 1270873,
+      "uploadedDate": "2020-10-05T18:54:36.808Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

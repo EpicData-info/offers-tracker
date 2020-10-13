@@ -1,16 +1,16 @@
 {
   "id": "21ccf2727d934750a4b049e20297e73f",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00041 Audience",
-  "description": "DLC00041 Audience",
-  "longDescription": "DLC00041 Audience",
+  "title": "Halloween Charm Pack",
+  "description": "Add some terror to your weaponry! With these Halloween charms, you can add some terror to your weapons!\nThis Charm Pack contains the following charms;\n• Spider\n• Poison Bottle\n• Classic Ghost\n• Cauldron",
+  "longDescription": "Add some terror to your weaponry! With these Halloween charms, you can add some terror to your weapons!\nThis Charm Pack contains the following charms;\n• Spider\n• Poison Bottle\n• Classic Ghost\n• Cauldron",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sparrowdevaudience-25",
+  "productSlug": "zombie-army-4-dead-war/halloween-charm-pack",
+  "urlSlug": "halloween-charm-pack",
   "creationDate": "2020-09-04T12:22:51.861Z",
-  "lastModifiedDate": "2020-09-09T16:48:52.082Z",
+  "lastModifiedDate": "2020-10-13T14:04:35.121Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-01-01T00:00:00.000Z",
+  "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -35,22 +35,75 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",
       "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/halloween-charm-pack"
     }
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Halloween_Charm_Pack-900x450-06c84d925e5352687d2a522b2df1cc48.png",
+      "md5": "06c84d925e5352687d2a522b2df1cc48",
+      "size": 670789,
+      "uploadedDate": "2020-10-05T19:00:50.143Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Charm_Pack_REDEMPTIONIMAGE-860x1180-ccffc21be0cc98edd774daeffc2d1d2c.png",
+      "md5": "ccffc21be0cc98edd774daeffc2d1d2c",
+      "size": 1400746,
+      "uploadedDate": "2020-10-05T19:00:57.048Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Halloween_Charm_Pack-900x450-06c84d925e5352687d2a522b2df1cc48.png",
+      "md5": "06c84d925e5352687d2a522b2df1cc48",
+      "size": 670789,
+      "uploadedDate": "2020-10-05T19:01:03.664Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Charm_Pack_REDEMPTIONIMAGE-860x1180-ccffc21be0cc98edd774daeffc2d1d2c.png",
+      "md5": "ccffc21be0cc98edd774daeffc2d1d2c",
+      "size": 1400746,
+      "uploadedDate": "2020-10-05T19:01:11.524Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Charm_Pack_REDEMPTIONIMAGE-860x1180-ccffc21be0cc98edd774daeffc2d1d2c.png",
+      "md5": "ccffc21be0cc98edd774daeffc2d1d2c",
+      "size": 1400746,
+      "uploadedDate": "2020-10-05T19:01:19.361Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Charm_Pack_REDEMPTIONIMAGE-860x1180-ccffc21be0cc98edd774daeffc2d1d2c.png",
+      "md5": "ccffc21be0cc98edd774daeffc2d1d2c",
+      "size": 1400746,
+      "uploadedDate": "2020-10-05T19:01:27.811Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [
