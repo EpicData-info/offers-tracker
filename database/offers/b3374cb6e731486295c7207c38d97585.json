@@ -1,16 +1,16 @@
 {
   "id": "b3374cb6e731486295c7207c38d97585",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00032 Audience",
-  "description": "DLC00032 Audience",
-  "longDescription": "DLC00032 Audience",
+  "title": "Halloween Headgear Bundle",
+  "description": "\"Who says that just the undead hordes need to be scary? With these items of Halloween Headgear, put the fear into your enemies and maybe even scare your friends! \nThis Bundle contains 4 pieces of Halloween Headgear, usable by all characters.\"",
+  "longDescription": "\"Who says that just the undead hordes need to be scary? With these items of Halloween Headgear, put the fear into your enemies and maybe even scare your friends! \nThis Bundle contains 4 pieces of Halloween Headgear, usable by all characters.\"",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sparrowdevaudience-19",
+  "productSlug": "zombie-army-4-dead-war/halloween-headgear",
+  "urlSlug": "halloween-headgear",
   "creationDate": "2020-09-04T12:21:57.891Z",
-  "lastModifiedDate": "2020-09-09T16:47:54.629Z",
+  "lastModifiedDate": "2020-10-13T14:05:09.658Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-01-01T00:00:00.000Z",
+  "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -35,22 +35,75 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",
       "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/halloween-headgear"
     }
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Halloween_Hat_Pack-900x450-82a80ee8136dd6f02d05e23fff1a9547.png",
+      "md5": "82a80ee8136dd6f02d05e23fff1a9547",
+      "size": 751740,
+      "uploadedDate": "2020-10-05T18:42:49.757Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Hat_Pack_REDEMPTIONIMAGE-860x1180-ffa5357a8a497ed8e59dcdc97cd0993a.png",
+      "md5": "ffa5357a8a497ed8e59dcdc97cd0993a",
+      "size": 1496086,
+      "uploadedDate": "2020-10-05T18:42:56.162Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Halloween_Hat_Pack-900x450-82a80ee8136dd6f02d05e23fff1a9547.png",
+      "md5": "82a80ee8136dd6f02d05e23fff1a9547",
+      "size": 751740,
+      "uploadedDate": "2020-10-05T18:43:03.376Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Hat_Pack_REDEMPTIONIMAGE-860x1180-ffa5357a8a497ed8e59dcdc97cd0993a.png",
+      "md5": "ffa5357a8a497ed8e59dcdc97cd0993a",
+      "size": 1496086,
+      "uploadedDate": "2020-10-05T18:43:10.659Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Hat_Pack_REDEMPTIONIMAGE-860x1180-ffa5357a8a497ed8e59dcdc97cd0993a.png",
+      "md5": "ffa5357a8a497ed8e59dcdc97cd0993a",
+      "size": 1496086,
+      "uploadedDate": "2020-10-05T18:43:19.595Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Halloween_Hat_Pack_REDEMPTIONIMAGE-860x1180-ffa5357a8a497ed8e59dcdc97cd0993a.png",
+      "md5": "ffa5357a8a497ed8e59dcdc97cd0993a",
+      "size": 1496086,
+      "uploadedDate": "2020-10-05T18:43:26.796Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

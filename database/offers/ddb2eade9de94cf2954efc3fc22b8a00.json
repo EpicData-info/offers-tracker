@@ -1,16 +1,16 @@
 {
   "id": "ddb2eade9de94cf2954efc3fc22b8a00",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00038 Audience",
-  "description": "DLC00038 Audience",
-  "longDescription": "DLC00038 Audience",
+  "title": "Lee Enfield Rifle Bundle",
+  "description": "The British Army’s standard-bearer for over 50 years, the Lee Enfield is capable of packing a lethal punch when called upon in battle! This steady-firing powerhouse is best suited at medium to long ranges – slow, but extremely powerful, this is the ultimate Giant Killer!",
+  "longDescription": "\"The British Army’s standard-bearer for over 50 years, the Lee Enfield is capable of packing a lethal punch when called upon in battle! This steady-firing powerhouse is best suited at medium to long ranges – slow, but extremely powerful, this is the ultimate Giant Killer!\nThis Weapon Bundle contains;\n-              The Lee Enfield Rifle\n-              2 Charms (Hector’s Lucky Charm, Pilot Wings)\n-              2 Bespoke Weapon Skins (Ceremonial, Spitfire)\"",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "sparrowdevaudience-21",
+  "productSlug": "zombie-army-4-dead-war/lee-enfield-rifle-bundle",
+  "urlSlug": "lee-enfield-rifle-bundle",
   "creationDate": "2020-09-04T12:22:13.964Z",
-  "lastModifiedDate": "2020-09-09T16:34:19.641Z",
+  "lastModifiedDate": "2020-10-13T14:04:58.798Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-01-01T00:00:00.000Z",
+  "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -35,22 +35,75 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Rebellion"
     },
     {
       "key": "developerName",
       "value": "Rebellion"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "zombie-army-4-dead-war/lee-enfield-rifle-bundle"
     }
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Lee_Enfield_Rifle_Bundle-900x450-73f74e0a2897a5c4d60114e4a0d8280c.png",
+      "md5": "73f74e0a2897a5c4d60114e4a0d8280c",
+      "size": 657612,
+      "uploadedDate": "2020-10-05T18:47:35.013Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-fce1e3fdf27f84115610c3f73d826a4c.png",
+      "md5": "fce1e3fdf27f84115610c3f73d826a4c",
+      "size": 1338969,
+      "uploadedDate": "2020-10-05T18:47:54.156Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Lee_Enfield_Rifle_Bundle-900x450-73f74e0a2897a5c4d60114e4a0d8280c.png",
+      "md5": "73f74e0a2897a5c4d60114e4a0d8280c",
+      "size": 657612,
+      "uploadedDate": "2020-10-05T18:48:03.612Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-fce1e3fdf27f84115610c3f73d826a4c.png",
+      "md5": "fce1e3fdf27f84115610c3f73d826a4c",
+      "size": 1338969,
+      "uploadedDate": "2020-10-05T18:48:21.416Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-fce1e3fdf27f84115610c3f73d826a4c.png",
+      "md5": "fce1e3fdf27f84115610c3f73d826a4c",
+      "size": 1338969,
+      "uploadedDate": "2020-10-05T18:48:27.761Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Lee_Enfield_Rifle_Bundle_REDEMPTIONIMAGE-860x1180-fce1e3fdf27f84115610c3f73d826a4c.png",
+      "md5": "fce1e3fdf27f84115610c3f73d826a4c",
+      "size": 1338969,
+      "uploadedDate": "2020-10-05T18:48:37.204Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [
