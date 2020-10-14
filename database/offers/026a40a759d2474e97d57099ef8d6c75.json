@@ -8,7 +8,7 @@
   "productSlug": "operencia/home",
   "urlSlug": "operencia-the-stolen-sun",
   "creationDate": "2019-03-28T02:44:27.463Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.591Z",
+  "lastModifiedDate": "2020-10-14T17:05:00.462Z",
   "effectiveDate": "2019-03-27T08:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -96,6 +96,18 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1179",
+      "name": "VR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:47.428Z",
+      "updated": "2020-04-09T17:11:19.127Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
       "comment": null
     },
     {
