@@ -1,0 +1,67 @@
+{
+  "id": "efccfccbe6114494af480e2d07a3f5f6",
+  "namespace": "be8e76b808f54c8fa4974e3f516f1960",
+  "title": "GriffinGeneralAudience",
+  "description": "GriffinGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "griffingeneralaudience",
+  "creationDate": "2020-10-14T16:29:46.914Z",
+  "lastModifiedDate": "2020-10-14T19:19:55.461Z",
+  "effectiveDate": "2020-10-28T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-r7rf64mtq3yr8uhhvdf8sba3hpqbj2",
+    "name": "Zen Studios"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "bundles"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "bundles/games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Zen Studios"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "73e5cc00513b4946912f1d34dc89ffef"
+    },
+    {
+      "id": "2e2596b399e54a83b02857c407b75307"
+    },
+    {
+      "id": "30a6eae04e344df993b4e18f154aabe7"
+    },
+    {
+      "id": "96e6c7b23123488ca01755724fe3e540"
+    }
+  ],
+  "catalogNs": null
+}

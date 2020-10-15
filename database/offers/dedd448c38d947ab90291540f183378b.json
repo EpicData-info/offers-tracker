@@ -8,7 +8,7 @@
   "productSlug": "abzu/home",
   "urlSlug": "currygeneralaudience",
   "creationDate": "2019-06-03T20:59:05.412Z",
-  "lastModifiedDate": "2020-10-01T14:16:47.074Z",
+  "lastModifiedDate": "2020-10-15T15:01:43.202Z",
   "effectiveDate": "2019-09-04T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -24,9 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "freegames"
-    },
     {
       "path": "games"
     },
@@ -78,18 +75,6 @@
       "comment": null
     },
     {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-16T21:22:47.792Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
       "namespace": "epic",
@@ -99,6 +84,18 @@
       "updated": "2020-09-10T22:54:46.508Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
       "comment": null
     }
   ],

@@ -1,0 +1,192 @@
+{
+  "id": "2c864736705c48549288f803a113cf96",
+  "namespace": "fcefd39bedb14d6282fe2ac41edbd5f8",
+  "title": "The Jackbox Party Pack 7",
+  "description": "The Jackbox Party Pack 7",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "jackbox-party-pack-7",
+  "urlSlug": "graysgeneralaudience",
+  "creationDate": "2020-08-31T16:26:03.678Z",
+  "lastModifiedDate": "2020-10-15T12:58:18.779Z",
+  "effectiveDate": "2020-10-15T13:00:00.000Z",
+  "viewableDate": "2020-10-15T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-2m9ap45qzvalaepjz6wclpcffeq4aj",
+    "name": "Jackbox Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-09-08T12:54:55.602Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-08-27T15:58:24.091Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Jackbox Games, Inc."
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "jackbox-party-pack-7"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S1-2560x1440-8d6452bbf472084389743fd2d5e853d4.jpg",
+      "md5": "8d6452bbf472084389743fd2d5e853d4",
+      "size": 1009589,
+      "uploadedDate": "2020-10-09T16:13:33.185Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S6-1200x1600-4f431f2e11a3af78ca262c1164e22e45.jpg",
+      "md5": "4f431f2e11a3af78ca262c1164e22e45",
+      "size": 975461,
+      "uploadedDate": "2020-10-09T16:13:43.141Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S6-1200x1600-4f431f2e11a3af78ca262c1164e22e45.jpg",
+      "md5": "4f431f2e11a3af78ca262c1164e22e45",
+      "size": 975461,
+      "uploadedDate": "2020-10-09T16:13:51.350Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S6-1200x1600-4f431f2e11a3af78ca262c1164e22e45.jpg",
+      "md5": "4f431f2e11a3af78ca262c1164e22e45",
+      "size": 975461,
+      "uploadedDate": "2020-10-09T16:13:59.416Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S1-2560x1440-8d6452bbf472084389743fd2d5e853d4.jpg",
+      "md5": "8d6452bbf472084389743fd2d5e853d4",
+      "size": 1009589,
+      "uploadedDate": "2020-10-09T16:14:09.008Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fcefd39bedb14d6282fe2ac41edbd5f8/offer/EGS_TheJackboxPartyPack7_JackboxGamesInc_S6-1200x1600-4f431f2e11a3af78ca262c1164e22e45.jpg",
+      "md5": "4f431f2e11a3af78ca262c1164e22e45",
+      "size": 975461,
+      "uploadedDate": "2020-10-09T16:14:20.105Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "ea07cde83a6b4072a70ca0289e535c86"
+    }
+  ],
+  "catalogNs": null
+}
