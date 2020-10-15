@@ -8,7 +8,7 @@
   "productSlug": "layers-of-fear-2/home",
   "urlSlug": "atnageneralaudience",
   "creationDate": "2020-04-30T19:42:37.037Z",
-  "lastModifiedDate": "2020-10-15T14:05:59.571Z",
+  "lastModifiedDate": "2020-10-15T16:43:20.247Z",
   "effectiveDate": "2020-10-22T15:00:00.000Z",
   "viewableDate": "2020-10-15T14:40:00.000Z",
   "developer": null,
@@ -29,6 +29,12 @@
     },
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
