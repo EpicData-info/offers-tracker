@@ -8,7 +8,7 @@
   "productSlug": "darksiders2/home",
   "urlSlug": "hokigeneralaudience",
   "creationDate": "2019-12-13T02:52:35.631Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.593Z",
+  "lastModifiedDate": "2020-10-19T20:54:41.603Z",
   "effectiveDate": "2020-01-01T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -75,18 +75,6 @@
       "comment": null
     },
     {
-      "id": "1117",
-      "name": "ADVENTURE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:16.622Z",
-      "updated": "2020-09-16T21:22:47.792Z",
-      "status": "ACTIVE",
-      "referenceCount": 84,
-      "comment": null
-    },
-    {
       "id": "9549",
       "name": "CONTROLLER SUPPORT",
       "namespace": "epic",
@@ -96,6 +84,18 @@
       "updated": "2020-09-10T22:54:46.508Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
       "comment": null
     }
   ],
