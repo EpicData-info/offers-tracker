@@ -1,16 +1,16 @@
 {
-  "id": "e24cd7ba0b3343729b68d8134c074528",
+  "id": "86297ebbb27c4bfab8b01aacfe906bed",
   "namespace": "b2df9b20c72446d690718965da41c7ad",
   "title": "Amnesia: Rebirth",
   "description": "Amnesia: Rebirth",
-  "longDescription": "Pre-Purchase offer",
+  "longDescription": null,
   "status": "ACTIVE",
   "productSlug": "amnesia-rebirth",
-  "urlSlug": "onionpre-purchaseaudience",
-  "creationDate": "2020-09-10T19:32:51.242Z",
-  "lastModifiedDate": "2020-10-20T14:59:49.264Z",
-  "effectiveDate": "2099-12-31T12:00:00.000Z",
-  "viewableDate": "2020-09-15T16:00:00.000Z",
+  "urlSlug": "oniongeneralaudience",
+  "creationDate": "2020-08-12T15:44:51.787Z",
+  "lastModifiedDate": "2020-10-20T15:00:57.850Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-aclcw9pm582trqsqg66qfkfp9u9nw7",
@@ -26,6 +26,12 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -117,10 +123,6 @@
       "value": "Frictional Games"
     },
     {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
       "value": "amnesia-rebirth"
     }
@@ -131,7 +133,7 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-7d6c96d8e0ab6bfd7347f6730a7260a1.jpg",
       "md5": "7d6c96d8e0ab6bfd7347f6730a7260a1",
       "size": 1006522,
-      "uploadedDate": "2020-10-19T21:37:38.718Z",
+      "uploadedDate": "2020-10-19T21:35:40.733Z",
       "width": 2560,
       "height": 1440
     },
@@ -140,7 +142,7 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
       "md5": "06261861317a4d878f0391cbcf127a5a",
       "size": 960451,
-      "uploadedDate": "2020-10-19T21:37:46.238Z",
+      "uploadedDate": "2020-10-19T21:35:49.654Z",
       "width": 1200,
       "height": 1600
     },
@@ -149,7 +151,7 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
       "md5": "06261861317a4d878f0391cbcf127a5a",
       "size": 960451,
-      "uploadedDate": "2020-10-19T21:37:57.143Z",
+      "uploadedDate": "2020-10-19T21:36:04.225Z",
       "width": 1200,
       "height": 1600
     },
@@ -158,7 +160,7 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
       "md5": "06261861317a4d878f0391cbcf127a5a",
       "size": 960451,
-      "uploadedDate": "2020-10-19T21:38:05.911Z",
+      "uploadedDate": "2020-10-19T21:36:13.755Z",
       "width": 1200,
       "height": 1600
     },
@@ -167,7 +169,7 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S1-2560x1440-7d6c96d8e0ab6bfd7347f6730a7260a1.jpg",
       "md5": "7d6c96d8e0ab6bfd7347f6730a7260a1",
       "size": 1006522,
-      "uploadedDate": "2020-10-19T21:38:15.600Z",
+      "uploadedDate": "2020-10-19T21:36:23.473Z",
       "width": 2560,
       "height": 1440
     },
@@ -176,14 +178,14 @@
       "url": "https://cdn1.epicgames.com/b2df9b20c72446d690718965da41c7ad/offer/EGS_AmnesiaRebirth_FrictionalGames_S2-1200x1600-06261861317a4d878f0391cbcf127a5a.jpg",
       "md5": "06261861317a4d878f0391cbcf127a5a",
       "size": 960451,
-      "uploadedDate": "2020-10-19T21:38:23.784Z",
+      "uploadedDate": "2020-10-19T21:36:32.251Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "5f9d77772f38491dbf0b642b3b798a8f"
+      "id": "90e5b2308822459d89e089559f95bd59"
     }
   ],
   "catalogNs": null
