@@ -8,7 +8,7 @@
   "productSlug": null,
   "urlSlug": "create-item-for-priceengine-05",
   "creationDate": "2018-09-20T23:36:08.063Z",
-  "lastModifiedDate": "2020-10-20T01:53:53.114Z",
+  "lastModifiedDate": "2020-10-20T07:58:09.693Z",
   "effectiveDate": "2010-01-01T00:02:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -28,20 +28,7 @@
       "path": "testing"
     }
   ],
-  "tags": [
-    {
-      "id": "10842",
-      "name": "SEAQA TAG",
-      "namespace": "SeaQA",
-      "aliases": [],
-      "operator": "cristina.wang",
-      "created": "2020-02-11T00:58:06.679Z",
-      "updated": "2020-10-20T01:47:21.787Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
-      "comment": null
-    }
-  ],
+  "tags": [],
   "customAttributes": [],
   "keyImages": [
     {
@@ -57,6 +44,9 @@
   "items": [
     {
       "id": "f722d5e3f1e84ff1b2fc2c8f032fd35e"
+    },
+    {
+      "id": "4245f08eeca24317a164e17e5782dace"
     }
   ],
   "catalogNs": null
