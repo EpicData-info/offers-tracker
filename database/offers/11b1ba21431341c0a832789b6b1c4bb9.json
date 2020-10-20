@@ -5,12 +5,12 @@
   "description": "A gentleman’s duties never end – even in death! From time to time, Hector does his best to boost morale in the Resistance by putting on his full dress uniform – a stylish getup complete with a full suite of medals!",
   "longDescription": "A gentleman’s duties never end – even in death! From time to time, Hector does his best to boost morale in the Resistance by putting on his full dress uniform – a stylish getup complete with a full suite of medals!",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/zombie-gentleman-uniform",
-  "urlSlug": "zombie-gentleman-uniform",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--zombie-gentleman-uniform",
   "creationDate": "2020-09-04T12:21:42.592Z",
-  "lastModifiedDate": "2020-10-13T14:05:19.135Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.504Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/zombie-gentleman-uniform"
     }
   ],
   "keyImages": [

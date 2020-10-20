@@ -5,12 +5,12 @@
   "description": "It’s time to use the powers of the occult against your undead foes! Apply a horrifying supernatural glow to your guns with these weapon skins*.\n*Skins apply to all weapons included in the base game, and are not compatible with all weapons.",
   "longDescription": "It’s time to use the powers of the occult against your undead foes! Apply a horrifying supernatural glow to your guns with these weapon skins*.\n*Skins apply to all weapons included in the base game, and are not compatible with all weapons.",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/ocult-weapon-skins",
-  "urlSlug": "occult-weapon-skins",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--occult-weapon-skins",
   "creationDate": "2020-09-04T12:22:33.843Z",
-  "lastModifiedDate": "2020-10-14T22:39:06.810Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.559Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/ocult-weapon-skins"
     }
   ],
   "keyImages": [

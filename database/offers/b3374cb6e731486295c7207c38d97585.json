@@ -5,12 +5,12 @@
   "description": "\"Who says that just the undead hordes need to be scary? With these items of Halloween Headgear, put the fear into your enemies and maybe even scare your friends! \nThis Bundle contains 4 pieces of Halloween Headgear, usable by all characters.\"",
   "longDescription": "\"Who says that just the undead hordes need to be scary? With these items of Halloween Headgear, put the fear into your enemies and maybe even scare your friends! \nThis Bundle contains 4 pieces of Halloween Headgear, usable by all characters.\"",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/halloween-headgear",
-  "urlSlug": "halloween-headgear",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--halloween-headgear",
   "creationDate": "2020-09-04T12:21:57.891Z",
-  "lastModifiedDate": "2020-10-13T14:05:09.658Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.521Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/halloween-headgear"
     }
   ],
   "keyImages": [

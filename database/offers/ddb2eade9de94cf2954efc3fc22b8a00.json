@@ -5,12 +5,12 @@
   "description": "The British Army’s standard-bearer for over 50 years, the Lee Enfield is capable of packing a lethal punch when called upon in battle! This steady-firing powerhouse is best suited at medium to long ranges – slow, but extremely powerful, this is the ultimate Giant Killer!",
   "longDescription": "\"The British Army’s standard-bearer for over 50 years, the Lee Enfield is capable of packing a lethal punch when called upon in battle! This steady-firing powerhouse is best suited at medium to long ranges – slow, but extremely powerful, this is the ultimate Giant Killer!\nThis Weapon Bundle contains;\n-              The Lee Enfield Rifle\n-              2 Charms (Hector’s Lucky Charm, Pilot Wings)\n-              2 Bespoke Weapon Skins (Ceremonial, Spitfire)\"",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/lee-enfield-rifle-bundle",
-  "urlSlug": "lee-enfield-rifle-bundle",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--lee-enfield-rifle-bundle",
   "creationDate": "2020-09-04T12:22:13.964Z",
-  "lastModifiedDate": "2020-10-14T14:14:53.675Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.541Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/lee-enfield-rifle-bundle"
     }
   ],
   "keyImages": [

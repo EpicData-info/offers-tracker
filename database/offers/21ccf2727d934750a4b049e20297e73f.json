@@ -5,12 +5,12 @@
   "description": "Add some terror to your weaponry! With these Halloween charms, you can add some terror to your weapons!\nThis Charm Pack contains the following charms;\n• Spider\n• Poison Bottle\n• Classic Ghost\n• Cauldron",
   "longDescription": "Add some terror to your weaponry! With these Halloween charms, you can add some terror to your weapons!\nThis Charm Pack contains the following charms;\n• Spider\n• Poison Bottle\n• Classic Ghost\n• Cauldron",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/halloween-charm-pack",
-  "urlSlug": "halloween-charm-pack",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--halloween-charm-pack",
   "creationDate": "2020-09-04T12:22:51.861Z",
-  "lastModifiedDate": "2020-10-13T14:04:35.121Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.577Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/halloween-charm-pack"
     }
   ],
   "keyImages": [

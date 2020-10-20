@@ -5,12 +5,12 @@
   "description": "Even with the Hell Cult gone, the dead don’t rest in this brand-new Zombie Army 4 campaign mission! Battle your way through the terrifying frozen North towards a new Hell Storm, on the trail of a missing scientist and scout team! Can the deadhunters find their allies in time, or",
   "longDescription": "\"Even with the Hell Cult gone, the dead don’t rest in this brand-new Zombie Army 4 campaign mission! Battle your way through the terrifying frozen North towards a new Hell Storm, on the trail of a missing scientist and scout team! Can the deadhunters find their allies in time, or will the mountain take its toll?\nDamnation Valley is the first mission in Death From Above, a chilling three-part Zombie Army 4: Dead War Campaign!\nAscend to new terrifying heights in this 1-4 player mission, complete with new sinister locations to fight through, collectibles, achievements and more! The Hell Cult may be defeated – but the terror lives on!\"",
   "status": "ACTIVE",
-  "productSlug": "zombie-army-4-dead-war/damnation-valley",
-  "urlSlug": "damnation-valley",
+  "productSlug": null,
+  "urlSlug": "zombie-army-4-dead-war--damnation-valley",
   "creationDate": "2020-05-22T19:00:06.983Z",
-  "lastModifiedDate": "2020-10-13T14:04:22.527Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-10-20T13:33:05.460Z",
+  "effectiveDate": "2020-10-20T14:00:00.000Z",
+  "viewableDate": "2020-10-20T13:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -44,10 +50,6 @@
     {
       "key": "developerName",
       "value": "Rebellion"
-    },
-    {
-      "key": "com.epicgames.app.productSlug",
-      "value": "zombie-army-4-dead-war/damnation-valley"
     }
   ],
   "keyImages": [
