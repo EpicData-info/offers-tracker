@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/deluxe-edition",
   "urlSlug": "borderlands-3-deluxe-edition",
   "creationDate": "2019-08-30T14:29:44.396Z",
-  "lastModifiedDate": "2020-08-01T18:43:17.870Z",
+  "lastModifiedDate": "2020-10-20T15:52:09.701Z",
   "effectiveDate": "2019-09-12T10:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -191,6 +191,24 @@
       "md5": "31f71de05abb9b7564106a3daf2ed717",
       "size": 701451,
       "uploadedDate": "2020-03-12T22:40:17.891Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3_tall-340x440-4b13d7a55e9be289445a789f7b2c5619.jpg",
+      "md5": "4b13d7a55e9be289445a789f7b2c5619",
+      "size": 8424013,
+      "uploadedDate": "2020-10-20T15:50:23.108Z",
+      "width": 340,
+      "height": 440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/BL3_wide-1920x1080-31f71de05abb9b7564106a3daf2ed717.jpg",
+      "md5": "31f71de05abb9b7564106a3daf2ed717",
+      "size": 701451,
+      "uploadedDate": "2020-10-20T15:50:37.962Z",
       "width": 1920,
       "height": 1080
     }
