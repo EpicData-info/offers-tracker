@@ -1,0 +1,178 @@
+{
+  "id": "0357efab61f146289d74880509df7302",
+  "namespace": "1368a7f14c3344bbaededbae528fafed",
+  "title": "Dead Cells",
+  "description": "Dead Cells",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "dead-cells/home",
+  "urlSlug": "flangeneralaudience",
+  "creationDate": "2020-07-27T13:09:17.576Z",
+  "lastModifiedDate": "2020-10-22T14:33:54.950Z",
+  "effectiveDate": "2020-10-22T15:00:00.000Z",
+  "viewableDate": "2020-10-22T14:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-7saqb478dnbhsw9awuk67h7lu2ynua",
+    "name": "Motion Twin"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1083",
+      "name": "ROGUE-LITE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:58:59.720Z",
+      "updated": "2020-09-03T15:04:02.998Z",
+      "status": "ACTIVE",
+      "referenceCount": 6,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1247",
+      "name": "METROIDVANIA",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:21.277Z",
+      "updated": "2020-05-14T19:40:40.953Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Motion Twin"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dead-cells/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S1-2560x1440-87045359c3856ef941959aeeb00dbc7f.jpg",
+      "md5": "87045359c3856ef941959aeeb00dbc7f",
+      "size": 1024033,
+      "uploadedDate": "2020-10-19T20:47:13.068Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:47:38.372Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S1-2560x1440-87045359c3856ef941959aeeb00dbc7f.jpg",
+      "md5": "87045359c3856ef941959aeeb00dbc7f",
+      "size": 1024033,
+      "uploadedDate": "2020-10-19T20:47:48.515Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:47:56.231Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:48:05.033Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/1368a7f14c3344bbaededbae528fafed/offer/EGS_DeadCells_MotionTwin_S2-1200x1600-34d9d5ebca89e17e0a26ddb2cb158b75.jpg",
+      "md5": "34d9d5ebca89e17e0a26ddb2cb158b75",
+      "size": 960985,
+      "uploadedDate": "2020-10-19T20:48:12.622Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "1b65a3d2ea544d699dcbcee550191e14"
+    }
+  ],
+  "catalogNs": null
+}

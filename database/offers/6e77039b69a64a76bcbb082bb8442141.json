@@ -1,0 +1,116 @@
+{
+  "id": "6e77039b69a64a76bcbb082bb8442141",
+  "namespace": "oregano",
+  "title": "Land of Lions - DLC",
+  "description": "Land of Lions - DLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "anno-1800/land-of-lions",
+  "urlSlug": "landoflionsdlc",
+  "creationDate": "2020-10-12T15:41:40.141Z",
+  "lastModifiedDate": "2020-10-22T14:58:23.556Z",
+  "effectiveDate": "2020-10-22T15:00:00.000Z",
+  "viewableDate": "2020-10-22T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "anno-1800/land-of-lions"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_LAND_OF_LIONS_DLC_EPIC_DLC_Capsule_1920x1080-1920x1080-069a7f1a202a9ddc84520e6dfba43702.jpg",
+      "md5": "069a7f1a202a9ddc84520e6dfba43702",
+      "size": 493627,
+      "uploadedDate": "2020-10-20T23:17:26.012Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_LandOfLions_Store_Portrait_1200x1600-1200x1600-a1230fcf48b63b145913d1cd33b2fa06.jpg",
+      "md5": "a1230fcf48b63b145913d1cd33b2fa06",
+      "size": 927363,
+      "uploadedDate": "2020-10-20T23:17:28.348Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_LAND_OF_LIONS_DLC_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-1450ec18b92849f8886d98125194da84.jpg",
+      "md5": "1450ec18b92849f8886d98125194da84",
+      "size": 973715,
+      "uploadedDate": "2020-10-20T23:17:32.555Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_LandOfLions_Store_Portrait_1200x1600-1200x1600-a1230fcf48b63b145913d1cd33b2fa06.jpg",
+      "md5": "a1230fcf48b63b145913d1cd33b2fa06",
+      "size": 927363,
+      "uploadedDate": "2020-10-20T23:17:35.582Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_LandOfLions_Store_Portrait_1200x1600-1200x1600-a1230fcf48b63b145913d1cd33b2fa06.jpg",
+      "md5": "a1230fcf48b63b145913d1cd33b2fa06",
+      "size": 927363,
+      "uploadedDate": "2020-10-20T23:17:38.554Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_LandOfLions_Store_Portrait_1200x1600-1200x1600-a1230fcf48b63b145913d1cd33b2fa06.jpg",
+      "md5": "a1230fcf48b63b145913d1cd33b2fa06",
+      "size": 927363,
+      "uploadedDate": "2020-10-20T23:17:41.541Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e6905d8440334d898ddf0e3bc2686cfb"
+    },
+    {
+      "id": "32562e0fe4b34728bbed5f3a2bdfd372"
+    }
+  ],
+  "catalogNs": null
+}
