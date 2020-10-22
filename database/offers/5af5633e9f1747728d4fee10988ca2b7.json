@@ -8,7 +8,7 @@
   "productSlug": "the-outer-worlds/home",
   "urlSlug": "the-outer-worlds",
   "creationDate": "2019-03-16T06:35:04.064Z",
-  "lastModifiedDate": "2020-07-31T21:21:03.193Z",
+  "lastModifiedDate": "2020-10-20T18:46:22.548Z",
   "effectiveDate": "2019-10-23T03:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -32,6 +32,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
   "tags": [
@@ -104,85 +107,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselGameBoxLogo",
-      "url": "https://cdn1.epicgames.com/epic/offer/TheOuterWorlds-logo-dropshadow (1)-5544x2422-448a144fddbb69f460cb660441011eb9.png",
-      "md5": "448a144fddbb69f460cb660441011eb9",
-      "size": 812312,
-      "uploadedDate": "2019-09-25T23:38:31.507Z",
-      "width": 5544,
-      "height": 2422
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1920x1080 (2)-1920x1080-116966cde61a85e23878e43b37e3d364.jpg",
-      "md5": "116966cde61a85e23878e43b37e3d364",
-      "size": 304561,
-      "uploadedDate": "2019-09-25T23:41:02.633Z",
-      "width": 1920,
-      "height": 1080
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
-      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
-      "size": 241075,
-      "uploadedDate": "2019-09-25T23:42:51.293Z",
-      "width": 1280,
-      "height": 1140
-    },
-    {
-      "type": "TakeoverTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/EG_Store_The_Outer_WorldFeaturedCarousel_Mobile-510x680-d3d2295b4c276285294402d00f62c791.jpg",
-      "md5": "d3d2295b4c276285294402d00f62c791",
-      "size": 517668,
-      "uploadedDate": "2019-10-24T20:23:06.091Z",
-      "width": 510,
-      "height": 680
-    },
-    {
-      "type": "TakeoverWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Outerworlds-1360x766-74c1341fdc70510b1dd3288b58a6d2d7.jpg",
-      "md5": "74c1341fdc70510b1dd3288b58a6d2d7",
-      "size": 1477184,
-      "uploadedDate": "2019-10-25T14:30:38.199Z",
-      "width": 1360,
-      "height": 766
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/epic/offer/ANC_Banner_TOW_NoLogo_1280x1440 (2)-1280x1140-5b445a5bbd0ba31cc63cbcb373ccfaa0.jpg",
-      "md5": "5b445a5bbd0ba31cc63cbcb373ccfaa0",
-      "size": 241075,
-      "uploadedDate": "2019-09-25T23:42:51.293Z",
-      "width": 1280,
-      "height": 1140
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:19.754Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/CodeRedemption_OuterWorlds-340x440-68201d88144e1fb2fb55398a0114ea4b.jpg",
-      "md5": "68201d88144e1fb2fb55398a0114ea4b",
-      "size": 113481,
-      "uploadedDate": "2019-10-24T00:50:31.030Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
+      "md5": "cf974f29088af4a870970a09371a404a",
+      "size": 232189,
+      "uploadedDate": "2020-10-20T18:44:42.129Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeOffer_2560x1440-2560x1440-5d1eae9583dff69cde822c8674d312c5.jpg",
-      "md5": "5d1eae9583dff69cde822c8674d312c5",
-      "size": 4495357,
-      "uploadedDate": "2020-03-12T22:29:22.855Z",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeProductImage_2560x1440-2560x1440-4f2adef2a0292ae2e3a91a7b6b076547.jpg",
+      "md5": "4f2adef2a0292ae2e3a91a7b6b076547",
+      "size": 368481,
+      "uploadedDate": "2020-10-20T18:44:54.799Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
+      "md5": "cf974f29088af4a870970a09371a404a",
+      "size": 232189,
+      "uploadedDate": "2020-10-20T18:45:10.644Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
+      "md5": "cf974f29088af4a870970a09371a404a",
+      "size": 232189,
+      "uploadedDate": "2020-10-20T18:45:45.629Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_LandscapeProductImage_2560x1440-2560x1440-4f2adef2a0292ae2e3a91a7b6b076547.jpg",
+      "md5": "4f2adef2a0292ae2e3a91a7b6b076547",
+      "size": 368481,
+      "uploadedDate": "2020-10-20T18:45:58.938Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/TOW_EGS_PortraitProductImage_1200x1600-1200x1600-cf974f29088af4a870970a09371a404a.jpg",
+      "md5": "cf974f29088af4a870970a09371a404a",
+      "size": 232189,
+      "uploadedDate": "2020-10-20T18:46:11.110Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

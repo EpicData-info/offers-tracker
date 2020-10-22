@@ -1,0 +1,190 @@
+{
+  "id": "5b49e5e38c3848afb71f6825da275047",
+  "namespace": "74b602736d704ed2a5915c31319d99f6",
+  "title": "Democracy 4",
+  "description": "Democracy 4",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "democracy-4/home",
+  "urlSlug": "democracy",
+  "creationDate": "2020-09-24T03:23:30.689Z",
+  "lastModifiedDate": "2020-10-21T15:16:34.333Z",
+  "effectiveDate": "2020-10-21T15:00:00.000Z",
+  "viewableDate": "2020-10-21T15:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-hrszwkzbhb269y9we9tpukac2zxb5e",
+    "name": "Positech Computing Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "developerName",
+      "value": "Positech Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "democracy-4/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S1-2560x1440-33f27e8ec9ac5a10cd1318a5e3d1d591.jpg",
+      "md5": "33f27e8ec9ac5a10cd1318a5e3d1d591",
+      "size": 888103,
+      "uploadedDate": "2020-10-19T06:26:07.445Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+      "md5": "ec91fbed991c7124fb9257b86d57c90b",
+      "size": 512620,
+      "uploadedDate": "2020-10-19T06:26:10.508Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S1-2560x1440-33f27e8ec9ac5a10cd1318a5e3d1d591.jpg",
+      "md5": "33f27e8ec9ac5a10cd1318a5e3d1d591",
+      "size": 888103,
+      "uploadedDate": "2020-10-19T06:26:13.198Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+      "md5": "ec91fbed991c7124fb9257b86d57c90b",
+      "size": 512620,
+      "uploadedDate": "2020-10-19T06:26:16.627Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+      "md5": "ec91fbed991c7124fb9257b86d57c90b",
+      "size": 512620,
+      "uploadedDate": "2020-10-19T06:26:19.828Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/74b602736d704ed2a5915c31319d99f6/offer/EGS_Theultimatepoliticalstrategygameisback_PositechGames_S2-1200x1600-ec91fbed991c7124fb9257b86d57c90b.jpg",
+      "md5": "ec91fbed991c7124fb9257b86d57c90b",
+      "size": 512620,
+      "uploadedDate": "2020-10-19T06:26:22.354Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "fa9ef2e9c3c8415794085af011d29917"
+    }
+  ],
+  "catalogNs": null
+}
