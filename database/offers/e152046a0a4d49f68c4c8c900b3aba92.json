@@ -5,10 +5,10 @@
   "description": "The Outer Worlds: Non-Mandatory Corporate-Sponsored Bundle",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "the-outer-worlds/non-mandatory-corporate-sponsored-bundle",
   "urlSlug": "the-outer-worlds-bundle",
   "creationDate": "2020-09-29T19:03:03.589Z",
-  "lastModifiedDate": "2020-10-23T14:07:59.323Z",
+  "lastModifiedDate": "2020-10-23T14:31:13.671Z",
   "effectiveDate": "2020-10-23T14:00:00.000Z",
   "viewableDate": "2020-10-23T14:00:00.000Z",
   "developer": null,
@@ -99,10 +99,47 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "the-outer-worlds/non-mandatory-corporate-sponsored-bundle"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TWONonMandatoryCorporateSponsored_ObsidianEntertainment_Bundles_S2-1200x1600-2e5e69a0e4536d06fedb7c274fd70fe0.jpg",
+      "md5": "2e5e69a0e4536d06fedb7c274fd70fe0",
+      "size": 249341,
+      "uploadedDate": "2020-10-23T14:14:20.182Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TWONonMandatoryCorporateSponsored_ObsidianEntertainment_Bundles_S1-2560x1440-652c0e8a8181aeae5dc9f456868f2598.jpg",
+      "md5": "652c0e8a8181aeae5dc9f456868f2598",
+      "size": 672902,
+      "uploadedDate": "2020-10-23T14:14:30.011Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TWONonMandatoryCorporateSponsored_ObsidianEntertainment_Bundles_S2-1200x1600-2e5e69a0e4536d06fedb7c274fd70fe0.jpg",
+      "md5": "2e5e69a0e4536d06fedb7c274fd70fe0",
+      "size": 249341,
+      "uploadedDate": "2020-10-23T14:14:45.115Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TWONonMandatoryCorporateSponsored_ObsidianEntertainment_Bundles_S2-1200x1600-2e5e69a0e4536d06fedb7c274fd70fe0.jpg",
+      "md5": "2e5e69a0e4536d06fedb7c274fd70fe0",
+      "size": 249341,
+      "uploadedDate": "2020-10-23T14:14:55.576Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "9d581e6a62ca45808b8a50a0091b9823"

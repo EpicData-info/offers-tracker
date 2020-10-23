@@ -5,10 +5,10 @@
   "description": "The Outer Worlds (Original Soundtrack)",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "the-outer-worlds/original-soundtrack",
   "urlSlug": "the-outer-worlds-ost",
   "creationDate": "2020-09-29T19:05:30.598Z",
-  "lastModifiedDate": "2020-10-23T14:07:39.258Z",
+  "lastModifiedDate": "2020-10-23T14:30:26.534Z",
   "effectiveDate": "2020-10-23T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -102,10 +102,47 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "the-outer-worlds/original-soundtrack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TheOuterWorldsOriginalSoundtrack_ObsidianEntertainment_DigitalExtras_S2-1200x1600-5b29b0b2b6124a7097093dbaa1ee056b.jpg",
+      "md5": "5b29b0b2b6124a7097093dbaa1ee056b",
+      "size": 186137,
+      "uploadedDate": "2020-10-23T14:13:06.929Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TheOuterWorldsOriginalSoundtrack_ObsidianEntertainment_DigitalExtras_S1-2560x1440-6a4491446d6931dec7bc3b8e3d09f503.jpg",
+      "md5": "6a4491446d6931dec7bc3b8e3d09f503",
+      "size": 238196,
+      "uploadedDate": "2020-10-23T14:13:16.877Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TheOuterWorldsOriginalSoundtrack_ObsidianEntertainment_DigitalExtras_S2-1200x1600-5b29b0b2b6124a7097093dbaa1ee056b.jpg",
+      "md5": "5b29b0b2b6124a7097093dbaa1ee056b",
+      "size": 186137,
+      "uploadedDate": "2020-10-23T14:13:28.138Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/rosemallow/offer/EGS_TheOuterWorldsOriginalSoundtrack_ObsidianEntertainment_DigitalExtras_S2-1200x1600-5b29b0b2b6124a7097093dbaa1ee056b.jpg",
+      "md5": "5b29b0b2b6124a7097093dbaa1ee056b",
+      "size": 186137,
+      "uploadedDate": "2020-10-23T14:13:39.150Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "9eb28610d217476a9913e14090b0daa1"
