@@ -1,15 +1,15 @@
 {
-  "id": "df2c02a402b64d419358294da1570372",
+  "id": "91f86f25905346178a83c2e3594733d1",
   "namespace": "0a4fc789eb0143c29296de79df5387ab",
-  "title": "DevCitrineAudience",
-  "description": "DevCitrineAudience",
+  "title": "CitrineArtBookAudience",
+  "description": "CitrineArtBookAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "devcitrineaudience",
-  "creationDate": "2020-06-30T15:50:20.834Z",
-  "lastModifiedDate": "2020-10-23T18:12:10.717Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "productSlug": "[]",
+  "urlSlug": "citrine-soundtrack",
+  "creationDate": "2020-08-03T21:43:57.159Z",
+  "lastModifiedDate": "2020-10-23T18:12:10.754Z",
+  "effectiveDate": "2099-01-01T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -18,14 +18,23 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "digitalextras/book"
+    },
+    {
+      "path": "addons"
+    },
+    {
+      "path": "digitalextras"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,7 +44,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
@@ -44,13 +53,14 @@
     {
       "key": "developerName",
       "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
     }
   ],
   "keyImages": [],
   "items": [
-    {
-      "id": "5bd8700f4889432ca03b0f581844a680"
-    },
     {
       "id": "dd27793d4dc942ffbeec88497376a761"
     }
