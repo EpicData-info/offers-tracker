@@ -8,7 +8,7 @@
   "productSlug": "superhot/home",
   "urlSlug": "dorygeneralaudience",
   "creationDate": "2019-11-25T22:50:55.258Z",
-  "lastModifiedDate": "2020-05-14T15:00:00.592Z",
+  "lastModifiedDate": "2020-10-25T18:06:39.591Z",
   "effectiveDate": "2019-12-21T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -51,18 +51,6 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "SHOOTER",
       "namespace": "epic",
@@ -72,6 +60,18 @@
       "updated": "2020-09-15T15:30:56.538Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -127,58 +127,58 @@
   ],
   "keyImages": [
     {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg",
-      "md5": "50a78bf68aecdf1a565ab646ce463eae",
-      "size": 455697,
-      "uploadedDate": "2019-12-17T21:05:10.053Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg",
-      "md5": "9f728adacf17ff5febefcdcbe0d8fd72",
-      "size": 205054,
-      "uploadedDate": "2019-12-17T21:05:17.647Z",
-      "width": 860,
-      "height": 1148
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_G1C_00-1920x1080-f3479d8895f6c6823ff2f9be12807013.jpg",
+      "md5": "f3479d8895f6c6823ff2f9be12807013",
+      "size": 396163,
+      "uploadedDate": "2020-10-22T17:31:56.311Z",
+      "width": 1920,
+      "height": 1080
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg",
-      "md5": "9f728adacf17ff5febefcdcbe0d8fd72",
-      "size": 205054,
-      "uploadedDate": "2019-12-17T21:05:17.647Z",
-      "width": 860,
-      "height": 1148
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOTTeam_SUPERHOT_S2-860x1148-9f728adacf17ff5febefcdcbe0d8fd72.jpg",
-      "md5": "9f728adacf17ff5febefcdcbe0d8fd72",
-      "size": 205054,
-      "uploadedDate": "2019-12-17T21:09:49.805Z",
-      "width": 860,
-      "height": 1148
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_S2-1200x1600-3e76703f2a0cea3cfd71eb116a27a85d.jpg",
+      "md5": "3e76703f2a0cea3cfd71eb116a27a85d",
+      "size": 412734,
+      "uploadedDate": "2020-10-22T17:32:07.350Z",
+      "width": 1200,
+      "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOTTeam_SUPERHOT_S5-1280x956-43183fb55e0501de25c6da98f46b4730.png",
-      "md5": "43183fb55e0501de25c6da98f46b4730",
-      "size": 199442,
-      "uploadedDate": "2019-12-17T21:10:04.308Z",
-      "width": 1280,
-      "height": 956
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_S2-1200x1600-3e76703f2a0cea3cfd71eb116a27a85d.jpg",
+      "md5": "3e76703f2a0cea3cfd71eb116a27a85d",
+      "size": 412734,
+      "uploadedDate": "2020-10-22T17:32:16.239Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/undefined/offer/EGS_SUPERHOTTeam_SUPERHOT_S1-2560x1440-50a78bf68aecdf1a565ab646ce463eae.jpg",
-      "md5": "50a78bf68aecdf1a565ab646ce463eae",
-      "size": 455697,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 2560,
-      "height": 1440
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_S6-1200x1600-3e76703f2a0cea3cfd71eb116a27a85d.jpg",
+      "md5": "3e76703f2a0cea3cfd71eb116a27a85d",
+      "size": 412734,
+      "uploadedDate": "2020-10-22T17:32:24.896Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_G1C_00-1920x1080-f3479d8895f6c6823ff2f9be12807013.jpg",
+      "md5": "f3479d8895f6c6823ff2f9be12807013",
+      "size": 396163,
+      "uploadedDate": "2020-10-22T17:32:35.132Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/908bed122ba84c4a908ee1e14da401c3/offer/EGS_SUPERHOT_SUPERHOTTeam_S2-1200x1600-3e76703f2a0cea3cfd71eb116a27a85d.jpg",
+      "md5": "3e76703f2a0cea3cfd71eb116a27a85d",
+      "size": 412734,
+      "uploadedDate": "2020-10-22T17:32:43.721Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
