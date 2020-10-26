@@ -1,14 +1,14 @@
 {
-  "id": "06218ff20b43456ea4534d6e8bf55324",
+  "id": "301b0d2fe4004377af8393fda157a12a",
   "namespace": "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
-  "title": "Godfall",
-  "description": "Godfall",
+  "title": "Godfall Ascended Edition",
+  "description": "Godfall Ascended Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "godfall",
-  "urlSlug": "godfall-pre-purchase",
-  "creationDate": "2020-01-13T21:35:14.192Z",
-  "lastModifiedDate": "2020-10-26T19:13:07.869Z",
+  "productSlug": "godfall/ascended-edition",
+  "urlSlug": "godfall-ascended-pre-purchase",
+  "creationDate": "2020-09-11T03:27:02.211Z",
+  "lastModifiedDate": "2020-10-26T19:13:08.150Z",
   "effectiveDate": "2020-09-12T17:00:00.000Z",
   "viewableDate": "2020-09-12T17:00:00.000Z",
   "developer": null,
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "games/edition"
@@ -106,68 +103,68 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "godfall"
+      "value": "godfall/ascended-edition"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-4f3224f838dd8af7e655698d9b36662d.jpg",
-      "md5": "4f3224f838dd8af7e655698d9b36662d",
-      "size": 1014842,
-      "uploadedDate": "2020-06-13T17:41:32.358Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S1-2560x1440-ddb7c2844885fe0131def0679678ffb4.jpg",
+      "md5": "ddb7c2844885fe0131def0679678ffb4",
+      "size": 511296,
+      "uploadedDate": "2020-09-11T23:16:21.733Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:41.201Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+      "md5": "a985b156c62b73e59dac7e287b6bf0c3",
+      "size": 998856,
+      "uploadedDate": "2020-09-11T23:16:29.189Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:50.002Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+      "md5": "a985b156c62b73e59dac7e287b6bf0c3",
+      "size": 998856,
+      "uploadedDate": "2020-09-11T23:16:35.514Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:41:57.762Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+      "md5": "a985b156c62b73e59dac7e287b6bf0c3",
+      "size": 998856,
+      "uploadedDate": "2020-09-11T23:16:41.835Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S1-2560x1440-4f3224f838dd8af7e655698d9b36662d.jpg",
-      "md5": "4f3224f838dd8af7e655698d9b36662d",
-      "size": 1014842,
-      "uploadedDate": "2020-06-13T17:42:06.430Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S1-2560x1440-ddb7c2844885fe0131def0679678ffb4.jpg",
+      "md5": "ddb7c2844885fe0131def0679678ffb4",
+      "size": 511296,
+      "uploadedDate": "2020-09-11T23:16:50.940Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
-      "md5": "ebfebb142ab90bddf35934f0f2ff707e",
-      "size": 938261,
-      "uploadedDate": "2020-06-13T17:42:15.858Z",
+      "url": "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+      "md5": "a985b156c62b73e59dac7e287b6bf0c3",
+      "size": 998856,
+      "uploadedDate": "2020-09-11T23:16:56.996Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "4d495d59eb424fc48d59d4d03f4ded6e"
+      "id": "70998243e79c430f869ff4d1e120c64d"
     },
     {
       "id": "be19daeeede54e63afa4e899092444c1"
