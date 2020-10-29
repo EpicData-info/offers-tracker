@@ -1,0 +1,182 @@
+{
+  "id": "687b64a3e1194e69992f9caea70d77c4",
+  "namespace": "942b65a56ff448f6be529cd07b407bb0",
+  "title": "Hammerting",
+  "description": "Hammerting",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "hammerting",
+  "urlSlug": "hammerting",
+  "creationDate": "2020-10-06T21:06:15.871Z",
+  "lastModifiedDate": "2020-10-27T14:09:58.295Z",
+  "effectiveDate": "2020-10-27T14:00:00.000Z",
+  "viewableDate": "2020-10-27T14:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-uvtztrtfjdn3xgrwyhbuwwb5z42mbv",
+    "name": "Team17 Digital Ltd"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-16T19:19:59.199Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Team17 Digital Ltd"
+    },
+    {
+      "key": "developerName",
+      "value": "Warpzone Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "hammerting"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S5-1920x1080-61223c25719d029e06426d479302da36.jpg",
+      "md5": "61223c25719d029e06426d479302da36",
+      "size": 603796,
+      "uploadedDate": "2020-10-12T19:08:22.430Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S6-1200x1600-6c0a84a1a38078e82730b0ca53fa0c95.jpg",
+      "md5": "6c0a84a1a38078e82730b0ca53fa0c95",
+      "size": 900881,
+      "uploadedDate": "2020-10-12T19:09:19.675Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S6-1200x1600-6c0a84a1a38078e82730b0ca53fa0c95.jpg",
+      "md5": "6c0a84a1a38078e82730b0ca53fa0c95",
+      "size": 900881,
+      "uploadedDate": "2020-10-12T19:09:13.188Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S6-1200x1600-6c0a84a1a38078e82730b0ca53fa0c95.jpg",
+      "md5": "6c0a84a1a38078e82730b0ca53fa0c95",
+      "size": 900881,
+      "uploadedDate": "2020-10-12T19:09:34.834Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S5-1920x1080-61223c25719d029e06426d479302da36.jpg",
+      "md5": "61223c25719d029e06426d479302da36",
+      "size": 603796,
+      "uploadedDate": "2020-10-12T19:09:45.582Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/942b65a56ff448f6be529cd07b407bb0/offer/EGS_Hammerting_WarpzoneStudios_S6-1200x1600-6c0a84a1a38078e82730b0ca53fa0c95.jpg",
+      "md5": "6c0a84a1a38078e82730b0ca53fa0c95",
+      "size": 900881,
+      "uploadedDate": "2020-10-12T19:09:55.079Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "8d37af67b7d6480897c1f3c6a3b6b26a"
+    }
+  ],
+  "catalogNs": null
+}

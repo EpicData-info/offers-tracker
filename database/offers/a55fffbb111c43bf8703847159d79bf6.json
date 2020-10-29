@@ -1,0 +1,56 @@
+{
+  "id": "a55fffbb111c43bf8703847159d79bf6",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "title": "AI_Release_DLC_1_TriggerGeneralAudience",
+  "description": "AI_Release_DLC_1_TriggerGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "ai-release-dlc-1-triggergeneralaudience",
+  "creationDate": "2020-10-26T17:24:10.257Z",
+  "lastModifiedDate": "2020-10-28T01:32:18.810Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "783a9cbaaa404949b2b34a72c8a155a8"
+    }
+  ],
+  "catalogNs": null
+}

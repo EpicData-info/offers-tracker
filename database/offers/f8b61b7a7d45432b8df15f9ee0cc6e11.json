@@ -1,0 +1,60 @@
+{
+  "id": "f8b61b7a7d45432b8df15f9ee0cc6e11",
+  "namespace": "6af58339c2424644988e0fb83dfd9bd5",
+  "title": "Bring Me To Life Audience",
+  "description": "Bring Me To Life Audience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "[]",
+  "urlSlug": "bringmetolifeaudience",
+  "creationDate": "2020-09-26T01:02:08.445Z",
+  "lastModifiedDate": "2020-10-27T15:39:12.121Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-k8ltvz7rz3r7b29xdtafqvdkhnj2ux",
+    "name": "NCSoft"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "88a9f93efe884293979963c0cb2469dd"
+    }
+  ],
+  "catalogNs": null
+}

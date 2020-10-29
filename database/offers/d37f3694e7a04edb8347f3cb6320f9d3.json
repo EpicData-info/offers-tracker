@@ -1,0 +1,56 @@
+{
+  "id": "d37f3694e7a04edb8347f3cb6320f9d3",
+  "namespace": "df37f065c3f14eadbf011177396e2966",
+  "title": "LetheGeneralAudience",
+  "description": "LetheGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "lethegeneralaudience",
+  "creationDate": "2020-10-26T16:28:13.978Z",
+  "lastModifiedDate": "2020-10-28T01:32:18.642Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "4646166ab44c49b0a83e00ab59df5292"
+    }
+  ],
+  "catalogNs": null
+}

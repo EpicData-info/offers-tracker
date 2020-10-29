@@ -8,7 +8,7 @@
   "productSlug": "blair-witch/home",
   "urlSlug": "generalariesaudience",
   "creationDate": "2020-08-27T16:43:14.694Z",
-  "lastModifiedDate": "2020-10-22T14:23:56.122Z",
+  "lastModifiedDate": "2020-10-29T14:15:52.356Z",
   "effectiveDate": "2020-10-29T15:00:00.000Z",
   "viewableDate": "2020-10-22T14:25:00.000Z",
   "developer": null,
@@ -29,6 +29,12 @@
     },
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
