@@ -928,18 +928,6 @@
     "referenceCount": 19,
     "comment": null
   },
-  "10842": {
-    "id": "10842",
-    "name": "SEAQA TAG",
-    "namespace": "SeaQA",
-    "aliases": [],
-    "operator": "cristina.wang",
-    "created": "2020-02-11T00:58:06.679Z",
-    "updated": "2020-10-20T07:57:31.019Z",
-    "status": "ACTIVE",
-    "referenceCount": 4,
-    "comment": null
-  },
   "11631": {
     "id": "11631",
     "name": "REQUIRES 2FA",
@@ -979,5 +967,17 @@
     "status": "ACTIVE",
     "referenceCount": 2,
     "comment": ""
+  },
+  "13790": {
+    "id": "13790",
+    "name": "TEST",
+    "namespace": "SeaQA",
+    "aliases": [],
+    "operator": "jason.ji",
+    "created": "2020-10-29T17:36:31.446Z",
+    "updated": "2020-10-29T17:41:00.815Z",
+    "status": "ACTIVE",
+    "referenceCount": 1,
+    "comment": null
   }
 }
