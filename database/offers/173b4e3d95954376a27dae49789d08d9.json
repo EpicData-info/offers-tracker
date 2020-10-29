@@ -1,0 +1,117 @@
+{
+  "id": "173b4e3d95954376a27dae49789d08d9",
+  "namespace": "021c3558a62a47cca2715d42b2b65593",
+  "title": "Watch Dogs: Legion Ultimate Edition",
+  "description": "Watch Dogs: Legion Ultimate Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "watch-dogs-legion/ultimate-edition",
+  "urlSlug": "watchdogslegionultimateaudience",
+  "creationDate": "2020-10-27T02:30:17.662Z",
+  "lastModifiedDate": "2020-10-29T15:19:18.306Z",
+  "effectiveDate": "2020-10-29T15:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN,JP"
+    },
+    {
+      "key": "availableDate",
+      "value": "1609473600"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "watch-dogs-legion/ultimate-edition"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/undefined/offer/WDL_ULT_Store_Landscape_2560x1440-2560x1440-b2df2af7f11dfee69590a4054e73fa93.jpg",
+      "md5": "b2df2af7f11dfee69590a4054e73fa93",
+      "size": 733421,
+      "uploadedDate": "2020-10-27T02:28:24.715Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/021c3558a62a47cca2715d42b2b65593/offer/WDL_Ultimate-1200x1600-5bc6b7eee393cb6b987b11435646f3d5.jpg",
+      "md5": "5bc6b7eee393cb6b987b11435646f3d5",
+      "size": 663570,
+      "uploadedDate": "2020-10-27T02:48:54.623Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/021c3558a62a47cca2715d42b2b65593/offer/WDL_Ultimate-1200x1600-5bc6b7eee393cb6b987b11435646f3d5.jpg",
+      "md5": "5bc6b7eee393cb6b987b11435646f3d5",
+      "size": 663570,
+      "uploadedDate": "2020-10-27T02:49:01.948Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/021c3558a62a47cca2715d42b2b65593/offer/WDL_Ultimate-1200x1600-5bc6b7eee393cb6b987b11435646f3d5.jpg",
+      "md5": "5bc6b7eee393cb6b987b11435646f3d5",
+      "size": 663570,
+      "uploadedDate": "2020-10-27T02:48:58.645Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "13c200217cf44b9c83b9c5f4a1932eff"
+    },
+    {
+      "id": "89ca33783a0342579c41d5abb3d111cf"
+    },
+    {
+      "id": "d77e53f7886a4c618b9fa6582112330b"
+    },
+    {
+      "id": "1d66b58d6bb14ae1b806c8a5d0da79a8"
+    },
+    {
+      "id": "5da97d9d6bed46a8be8797f818aefea9"
+    },
+    {
+      "id": "1dd6d61f0c364fae972313329495657d"
+    },
+    {
+      "id": "52fe48f721cc4137ac3f2e94e303435d"
+    },
+    {
+      "id": "e18e70614c4e41339cbddcfce2493d48"
+    }
+  ],
+  "catalogNs": null
+}
