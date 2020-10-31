@@ -1,0 +1,182 @@
+{
+  "id": "8b7dff19a7fb4f0dacf38f20824d4c15",
+  "namespace": "a69c5a82682c43148e4e2542fe2fcd0f",
+  "title": "Ruined King: A League of Legends Story™",
+  "description": "Ruined King: A League of Legends Story™",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "ruined-king-a-league-of-legends-story/home",
+  "urlSlug": "emeraldgeneralaudience",
+  "creationDate": "2020-06-29T15:18:57.549Z",
+  "lastModifiedDate": "2020-10-31T12:38:43.306Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": "2020-10-31T12:59:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ch65axjcvgpsutlhlcyvqkx3fkmk44",
+    "name": "Riot Forge"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-16T19:19:59.199Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1386",
+      "name": "TURN-BASED",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-15T18:08:53.923Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Riot Forge"
+    },
+    {
+      "key": "developerName",
+      "value": "Airship Syndicate"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "ruined-king-a-league-of-legends-story/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S1-2560x1440-26d692f282043c14a919e69394e70c95.jpg",
+      "md5": "26d692f282043c14a919e69394e70c95",
+      "size": 761815,
+      "uploadedDate": "2020-10-26T19:02:52.697Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
+      "md5": "7860241c71d96a6a93b610fa41210959",
+      "size": 523664,
+      "uploadedDate": "2020-10-26T19:03:18.126Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S1-2560x1440-26d692f282043c14a919e69394e70c95.jpg",
+      "md5": "26d692f282043c14a919e69394e70c95",
+      "size": 761815,
+      "uploadedDate": "2020-10-26T19:03:28.031Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
+      "md5": "7860241c71d96a6a93b610fa41210959",
+      "size": 523664,
+      "uploadedDate": "2020-10-26T19:03:37.467Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
+      "md5": "7860241c71d96a6a93b610fa41210959",
+      "size": 523664,
+      "uploadedDate": "2020-10-26T19:03:49.238Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/a69c5a82682c43148e4e2542fe2fcd0f/offer/EGS_RuinedKingALeagueofLegendsStory_AirshipSyndicate_S2-1200x1600-7860241c71d96a6a93b610fa41210959.jpg",
+      "md5": "7860241c71d96a6a93b610fa41210959",
+      "size": 523664,
+      "uploadedDate": "2020-10-26T19:03:57.731Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2e929632c20945a1b83232b0c1b7636f"
+    }
+  ],
+  "catalogNs": null
+}
