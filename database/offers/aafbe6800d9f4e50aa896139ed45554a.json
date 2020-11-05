@@ -1,16 +1,16 @@
 {
   "id": "aafbe6800d9f4e50aa896139ed45554a",
   "namespace": "0f7039ef44ad4ee18f16f19d96cf2a6b",
-  "title": "CopenhagenGeneralAudience",
-  "description": "CopenhagenGeneralAudience",
+  "title": "The Textorcist",
+  "description": "The Textorcist",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "the-textorcist/home",
   "urlSlug": "copenhagengeneralaudience",
   "creationDate": "2020-07-01T18:09:49.734Z",
-  "lastModifiedDate": "2020-09-01T16:35:07.340Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-11-05T16:00:07.770Z",
+  "effectiveDate": "2020-11-12T16:00:00.000Z",
+  "viewableDate": "2020-11-05T15:25:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-q5rkzbndnbcwu6t6gbs59pxydk6jn8",
@@ -25,28 +25,147 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Headup GmbH"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "MorbidWare"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-textorcist/home"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S1-2560x1440-1afdc9edc6b8ad5d70e777d1df5f43d9.jpg",
+      "md5": "1afdc9edc6b8ad5d70e777d1df5f43d9",
+      "size": 1044664,
+      "uploadedDate": "2020-11-04T18:30:16.706Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S2-1200x1600-6484f62929a6c900dc30cb13d73acebf.jpg",
+      "md5": "6484f62929a6c900dc30cb13d73acebf",
+      "size": 636932,
+      "uploadedDate": "2020-11-04T18:30:24.024Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S2-1200x1600-6484f62929a6c900dc30cb13d73acebf.jpg",
+      "md5": "6484f62929a6c900dc30cb13d73acebf",
+      "size": 636932,
+      "uploadedDate": "2020-11-04T18:30:41.090Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S2-1200x1600-6484f62929a6c900dc30cb13d73acebf.jpg",
+      "md5": "6484f62929a6c900dc30cb13d73acebf",
+      "size": 636932,
+      "uploadedDate": "2020-11-04T18:30:53.364Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S1-2560x1440-1afdc9edc6b8ad5d70e777d1df5f43d9.jpg",
+      "md5": "1afdc9edc6b8ad5d70e777d1df5f43d9",
+      "size": 1044664,
+      "uploadedDate": "2020-11-04T18:31:00.377Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/0f7039ef44ad4ee18f16f19d96cf2a6b/offer/EGS_TheTextorcistTheStoryofRayBibbia_MorbidWare_S2-1200x1600-6484f62929a6c900dc30cb13d73acebf.jpg",
+      "md5": "6484f62929a6c900dc30cb13d73acebf",
+      "size": 636932,
+      "uploadedDate": "2020-11-04T18:31:08.055Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "bea809c73675401b82f38d9ed72443dc"

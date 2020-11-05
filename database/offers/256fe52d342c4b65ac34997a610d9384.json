@@ -1,20 +1,20 @@
 {
   "id": "256fe52d342c4b65ac34997a610d9384",
   "namespace": "213259527d2f41baa90cbe0ae5555271",
-  "title": "RagdollGeneralAudience",
-  "description": "RagdollGeneralAudience",
+  "title": "Dungeons 3",
+  "description": "Dungeons 3",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "dungeons-3/home",
   "urlSlug": "ragdollgeneralaudience",
   "creationDate": "2020-04-15T18:51:09.261Z",
-  "lastModifiedDate": "2020-04-15T18:52:44.603Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-11-05T12:48:45.693Z",
+  "effectiveDate": "2020-11-05T16:00:00.000Z",
+  "viewableDate": "2020-11-02T20:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-ntj9m7f2v76uksvjujurjfxtjkfawq",
-    "name": "Kalypso Media"
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -25,25 +25,145 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1115",
+      "name": "STRATEGY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:15.641Z",
+      "updated": "2020-09-15T18:08:53.862Z",
+      "status": "ACTIVE",
+      "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Kalypso Media"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Realmforge Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dungeons-3/home"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+      "md5": "21b5fe0f44bc1f4c23a68bf6e159be40",
+      "size": 769264,
+      "uploadedDate": "2020-10-01T17:24:38.972Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:24:45.725Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S3-2560x1440-21b5fe0f44bc1f4c23a68bf6e159be40.jpg",
+      "md5": "21b5fe0f44bc1f4c23a68bf6e159be40",
+      "size": 769264,
+      "uploadedDate": "2020-10-01T17:24:53.074Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:24:59.825Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:25:06.060Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_Dungeons3_RealmforgeStudios_S4-1200x1600-1bd28634e22cae5706b41f0e3ef9cc0c.jpg",
+      "md5": "1bd28634e22cae5706b41f0e3ef9cc0c",
+      "size": 645843,
+      "uploadedDate": "2020-10-01T17:25:13.427Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "b582b50fe82045c8bce722311a593081"

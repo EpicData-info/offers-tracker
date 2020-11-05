@@ -8,7 +8,7 @@
   "productSlug": "fortnite",
   "urlSlug": "fortnite-free-audience",
   "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2020-10-23T19:41:46.143Z",
+  "lastModifiedDate": "2020-11-03T13:59:57.166Z",
   "effectiveDate": "2017-09-20T13:00:00.000Z",
   "viewableDate": "2017-09-20T13:00:00.000Z",
   "developer": null,
@@ -137,58 +137,58 @@
   ],
   "keyImages": [
     {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-11-03T13:54:01.793Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S1-2560x1440-653047c96405c5dfe7efe6b8330f1b35.jpg",
-      "md5": "653047c96405c5dfe7efe6b8330f1b35",
-      "size": 2605495,
-      "uploadedDate": "2020-10-23T19:35:50.928Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
+      "md5": "051f34e4a0536fdd01ba728521b6afae",
+      "size": 2320983,
+      "uploadedDate": "2020-11-03T13:54:17.533Z",
       "width": 2560,
       "height": 1440
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
-      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
-      "size": 1399266,
-      "uploadedDate": "2020-10-23T19:35:53.502Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
-      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
-      "size": 1399266,
-      "uploadedDate": "2020-10-23T19:36:03.286Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
-      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
-      "size": 1399266,
-      "uploadedDate": "2020-10-23T19:36:16.433Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-11-03T13:54:38.482Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S2-1200x1600-c7a1e774a4fb1cd6fec1ac124882027d.jpg",
-      "md5": "c7a1e774a4fb1cd6fec1ac124882027d",
-      "size": 1399266,
-      "uploadedDate": "2020-10-23T19:36:27.335Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-11-03T13:54:55.287Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/EGS_Fortnitemares_S1-2560x1440-653047c96405c5dfe7efe6b8330f1b35.jpg",
-      "md5": "653047c96405c5dfe7efe6b8330f1b35",
-      "size": 2605495,
-      "uploadedDate": "2020-10-23T19:36:41.866Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
+      "md5": "051f34e4a0536fdd01ba728521b6afae",
+      "size": 2320983,
+      "uploadedDate": "2020-11-03T13:55:21.624Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
+      "md5": "d31d390c22d23717659df2b807342d25",
+      "size": 1195283,
+      "uploadedDate": "2020-11-03T13:56:11.817Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [

@@ -1,0 +1,121 @@
+{
+  "id": "53f0dffa202f45f5984fbd5ae7fafb87",
+  "namespace": "213259527d2f41baa90cbe0ae5555271",
+  "title": "Famous Last Words",
+  "description": "Famous Last Words",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "dungeons-3/famous-last-words",
+  "urlSlug": "devragdollaudience-03",
+  "creationDate": "2020-07-28T15:33:00.009Z",
+  "lastModifiedDate": "2020-11-02T20:17:24.191Z",
+  "effectiveDate": "2020-11-05T16:00:00.000Z",
+  "viewableDate": "2020-11-02T20:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37ss7wypkskvyj58j9s7hhltxtujac",
+    "name": "Kalypso Media Group GmbH"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Kalypso Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Realmforge Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "dungeons-3/famous-last-words"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S1-2560x1440-e72cc587df055aa1f9476d3f17768e4e.jpg",
+      "md5": "e72cc587df055aa1f9476d3f17768e4e",
+      "size": 938010,
+      "uploadedDate": "2020-10-01T17:36:36.479Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+      "md5": "4727f1431348f1eea326711907e5b2bc",
+      "size": 751720,
+      "uploadedDate": "2020-10-01T17:36:43.199Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S1-2560x1440-e72cc587df055aa1f9476d3f17768e4e.jpg",
+      "md5": "e72cc587df055aa1f9476d3f17768e4e",
+      "size": 938010,
+      "uploadedDate": "2020-10-01T17:36:49.573Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+      "md5": "4727f1431348f1eea326711907e5b2bc",
+      "size": 751720,
+      "uploadedDate": "2020-10-01T17:36:57.156Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+      "md5": "4727f1431348f1eea326711907e5b2bc",
+      "size": 751720,
+      "uploadedDate": "2020-10-01T17:37:14.200Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/213259527d2f41baa90cbe0ae5555271/offer/EGS_FamousLastWords_RealmforgeStudios_DLC_S2-1200x1600-4727f1431348f1eea326711907e5b2bc.jpg",
+      "md5": "4727f1431348f1eea326711907e5b2bc",
+      "size": 751720,
+      "uploadedDate": "2020-10-01T17:37:29.155Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "8a4577c9d65140bb95f190bea79431d4"
+    }
+  ],
+  "catalogNs": null
+}
