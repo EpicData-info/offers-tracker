@@ -5,10 +5,10 @@
   "description": "This is the fully-remastered, double-album soundtrack for Superliminal, composed by Matt Christensen and with remixes by 2 Mello.",
   "longDescription": "This is the fully-remastered, double-album soundtrack for Superliminal, composed by Matt Christensen and with remixes by 2 Mello.\n\nThe first album is the in-game soundtrack, and covers the full spectrum of the Superliminal experience, from cool jazz piano to dark threatening electronica. The second album is comprised of the remixes by 2 Mello, who created a timeless lo-fi hip-hop sound in his inimitable style.",
   "status": "ACTIVE",
-  "productSlug": "superliminal",
+  "productSlug": "superliminal/double-album-soundtrack",
   "urlSlug": "superliminal--double-album-soundtrack",
   "creationDate": "2020-11-05T15:32:47.434Z",
-  "lastModifiedDate": "2020-11-05T19:19:09.846Z",
+  "lastModifiedDate": "2020-11-05T20:12:06.178Z",
   "effectiveDate": "2020-11-05T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,16 +25,7 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
-    },
-    {
       "path": "digitalextras"
-    },
-    {
-      "path": "games"
-    },
-    {
-      "path": "addons/durable"
     },
     {
       "path": "digitalextras/soundtrack"
@@ -78,7 +69,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "superliminal"
+      "value": "superliminal/double-album-soundtrack"
     }
   ],
   "keyImages": [
