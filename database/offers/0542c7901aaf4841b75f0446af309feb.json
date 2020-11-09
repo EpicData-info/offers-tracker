@@ -1,15 +1,15 @@
 {
-  "id": "74979939bb5a48979b05efa83310c69f",
+  "id": "0542c7901aaf4841b75f0446af309feb",
   "namespace": "catnip",
-  "title": "Borderlands 3 Super Deluxe Edition",
-  "description": "Borderlands 3 Super Deluxe Edition",
+  "title": "Borderlands 3 Ultimate Edition",
+  "description": "Borderlands 3 Ultimate Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "borderlands-3/super-deluxe-edition",
-  "urlSlug": "borderlands-3-super-deluxe-edition-01",
-  "creationDate": "2019-08-30T14:38:58.464Z",
-  "lastModifiedDate": "2020-11-09T13:02:40.210Z",
-  "effectiveDate": "2019-09-12T10:00:00.000Z",
+  "productSlug": "borderlands-3/ultimate-edition",
+  "urlSlug": "borderlands-3-ultimate-edition",
+  "creationDate": "2020-11-05T19:17:04.989Z",
+  "lastModifiedDate": "2020-11-09T13:00:33.491Z",
+  "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -26,9 +26,6 @@
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -154,48 +151,108 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "borderlands-3/super-deluxe-edition"
+      "value": "borderlands-3/ultimate-edition"
     }
   ],
   "keyImages": [
     {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337.jpg",
-      "md5": "46c7ac76071433b32c89be85520c2337",
-      "size": 8417044,
-      "uploadedDate": "2019-09-10T14:04:30.755Z",
-      "width": 340,
-      "height": 440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337.jpg",
-      "md5": "46c7ac76071433b32c89be85520c2337",
-      "size": 8417044,
-      "uploadedDate": "2019-09-10T14:05:01.198Z",
-      "width": 340,
-      "height": 440
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_LANDSCAPE_2560X1440-2560x1440-5196158dfd66c226e9109e4d207a9470.jpg",
+      "md5": "5196158dfd66c226e9109e4d207a9470",
+      "size": 906854,
+      "uploadedDate": "2020-11-05T19:15:03.698Z",
+      "width": 2560,
+      "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/catnip/offer/CodeRedemption_BL_SuperDeluxe-340x440-46c7ac76071433b32c89be85520c2337.jpg",
-      "md5": "46c7ac76071433b32c89be85520c2337",
-      "size": 8417044,
-      "uploadedDate": "2020-03-12T22:38:27.464Z",
-      "width": 340,
-      "height": 440
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
+      "md5": "c040cc358321cd1fb63e6647be0ccb3c",
+      "size": 1057780,
+      "uploadedDate": "2020-11-05T19:15:17.444Z",
+      "width": 860,
+      "height": 1148
     },
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/catnip/offer/Diesel_product_catnip_Oak_SuperDeluxeEdition_N1-2560x1440-7c61d2ea4cd1cb6c22707210660de4c3.jpg",
-      "md5": "7c61d2ea4cd1cb6c22707210660de4c3",
-      "size": 806612,
-      "uploadedDate": "2020-03-12T22:39:27.784Z",
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
+      "md5": "c040cc358321cd1fb63e6647be0ccb3c",
+      "size": 1057780,
+      "uploadedDate": "2020-11-05T19:15:27.816Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
+      "md5": "c040cc358321cd1fb63e6647be0ccb3c",
+      "size": 1057780,
+      "uploadedDate": "2020-11-05T19:15:39.148Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_LANDSCAPE_2560X1440-2560x1440-5196158dfd66c226e9109e4d207a9470.jpg",
+      "md5": "5196158dfd66c226e9109e4d207a9470",
+      "size": 906854,
+      "uploadedDate": "2020-11-05T19:15:50.885Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_UL_ED_EPIC_Portrait_860x1148-860x1148-c040cc358321cd1fb63e6647be0ccb3c.jpg",
+      "md5": "c040cc358321cd1fb63e6647be0ccb3c",
+      "size": 1057780,
+      "uploadedDate": "2020-11-05T19:16:02.719Z",
+      "width": 860,
+      "height": 1148
     }
   ],
   "items": [
+    {
+      "id": "e4dcfb440be94028971f7f6d2f934e79"
+    },
+    {
+      "id": "cd4cceaa96da49bb81aeedfb110f49c5"
+    },
+    {
+      "id": "c8ccbe393545484cae756a6aad7e7e99"
+    },
+    {
+      "id": "ff96eef22b0e4c498e8ed80ac0030325"
+    },
+    {
+      "id": "8c826db6e14f44aeac8816e1bd593632"
+    },
+    {
+      "id": "14c3b4ea8a8d43a796038619c4e944c3"
+    },
+    {
+      "id": "edf571463872475481ee76ba55ee84bb"
+    },
+    {
+      "id": "6a3c06879500496b853726573b896dff"
+    },
+    {
+      "id": "3bf444ec239e4f23bbbb3dff5f769085"
+    },
+    {
+      "id": "5021e93a73374d6db1c1ce6c92234f8f"
+    },
+    {
+      "id": "1ac1731af6c343079815fd18f00e58a2"
+    },
+    {
+      "id": "552f87ec7f474410a213c521ff9d3140"
+    },
+    {
+      "id": "12f2fca1c9304897b581254a0913ac51"
+    },
+    {
+      "id": "e53a6ffdc0fb47c98553da7b54098c2b"
+    },
     {
       "id": "23a8fd6e336c4502bc8549ba1210caa0"
     },
@@ -206,7 +263,7 @@
       "id": "939e660825764e208938ab4f26b4da56"
     },
     {
-      "id": "a026ef5770364885802458f697af698c"
+      "id": "4c43a9a691114ccd91c1884ab18f4e27"
     },
     {
       "id": "3a6a3f9b351b4b599808df3267669b83"
@@ -215,22 +272,16 @@
       "id": "29da568810454587930011b042eb4ebb"
     },
     {
-      "id": "c8ccbe393545484cae756a6aad7e7e99"
-    },
-    {
       "id": "4d089f4488ee4719ae8defeab579c255"
-    },
-    {
-      "id": "8c826db6e14f44aeac8816e1bd593632"
     },
     {
       "id": "c204662afac64acd8a2117590be477da"
     },
     {
-      "id": "14c3b4ea8a8d43a796038619c4e944c3"
+      "id": "e9fdc1a9f47b4a5e8e63841c15de2b12"
     },
     {
-      "id": "e9fdc1a9f47b4a5e8e63841c15de2b12"
+      "id": "fbc46bb6056940d2847ee1e80037a9af"
     },
     {
       "id": "1740410901da40578aa96d5e856bc1c6"
@@ -239,10 +290,10 @@
       "id": "ab030a9f53f3428fb2baf2ddbb0bb5ac"
     },
     {
-      "id": "5ea1981df8cc49c68f4fe086b70f7bd8"
+      "id": "9c0b1eb3265340678dff0fcb106402b1"
     },
     {
-      "id": "552f87ec7f474410a213c521ff9d3140"
+      "id": "5ea1981df8cc49c68f4fe086b70f7bd8"
     }
   ],
   "catalogNs": null
