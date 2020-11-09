@@ -5,10 +5,10 @@
   "description": "Borderlands 3: Multiverse Final Form FL4K Cosmetic Pack",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "borderlands-3/multiverse-final-form-fl4k-cosmetic-pack",
   "urlSlug": "borderlands-3-final-form-fl4k",
   "creationDate": "2020-08-18T22:57:04.760Z",
-  "lastModifiedDate": "2020-11-09T13:23:10.023Z",
+  "lastModifiedDate": "2020-11-09T13:56:27.452Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -147,10 +147,65 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "borderlands-3/multiverse-final-form-fl4k-cosmetic-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
+      "md5": "94d24f8db3c336fbed52a4da39bd586f",
+      "size": 330704,
+      "uploadedDate": "2020-11-09T13:54:34.285Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsflk_wide-2560x1440-6b9f8b32abaf91363e1df1efcb4a2f00.jpg",
+      "md5": "6b9f8b32abaf91363e1df1efcb4a2f00",
+      "size": 404121,
+      "uploadedDate": "2020-11-09T13:54:47.788Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
+      "md5": "94d24f8db3c336fbed52a4da39bd586f",
+      "size": 330704,
+      "uploadedDate": "2020-11-09T13:55:04.098Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
+      "md5": "94d24f8db3c336fbed52a4da39bd586f",
+      "size": 330704,
+      "uploadedDate": "2020-11-09T13:55:17.994Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
+      "md5": "94d24f8db3c336fbed52a4da39bd586f",
+      "size": 330704,
+      "uploadedDate": "2020-11-09T13:55:30.107Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/blsflk_wide-2560x1440-6b9f8b32abaf91363e1df1efcb4a2f00.jpg",
+      "md5": "6b9f8b32abaf91363e1df1efcb4a2f00",
+      "size": 404121,
+      "uploadedDate": "2020-11-09T13:55:44.280Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "4c43a9a691114ccd91c1884ab18f4e27"

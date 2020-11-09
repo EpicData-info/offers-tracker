@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/multiverse-final-form-zane-cosmetic-pack",
   "urlSlug": "borderlands-3-multiverse-final-form-zane-cosmetic-pack",
   "creationDate": "2020-08-18T21:41:34.490Z",
-  "lastModifiedDate": "2020-11-09T13:21:37.038Z",
+  "lastModifiedDate": "2020-11-09T13:47:13.292Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -150,7 +150,62 @@
       "value": "borderlands-3/multiverse-final-form-zane-cosmetic-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
+      "md5": "e8cf8dd4849e4967d78410a383b928a5",
+      "size": 894568,
+      "uploadedDate": "2020-11-09T13:45:46.208Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Landscape_Image_2560x1440-2560x1440-9be7653bedff1af302ad4ffd0456f9d2.jpg",
+      "md5": "9be7653bedff1af302ad4ffd0456f9d2",
+      "size": 928275,
+      "uploadedDate": "2020-11-09T13:46:06.534Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
+      "md5": "e8cf8dd4849e4967d78410a383b928a5",
+      "size": 894568,
+      "uploadedDate": "2020-11-09T13:46:18.285Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
+      "md5": "e8cf8dd4849e4967d78410a383b928a5",
+      "size": 894568,
+      "uploadedDate": "2020-11-09T13:46:29.215Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
+      "md5": "e8cf8dd4849e4967d78410a383b928a5",
+      "size": 894568,
+      "uploadedDate": "2020-11-09T13:46:45.309Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Landscape_Image_2560x1440-2560x1440-9be7653bedff1af302ad4ffd0456f9d2.jpg",
+      "md5": "9be7653bedff1af302ad4ffd0456f9d2",
+      "size": 928275,
+      "uploadedDate": "2020-11-09T13:46:57.266Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "5021e93a73374d6db1c1ce6c92234f8f"

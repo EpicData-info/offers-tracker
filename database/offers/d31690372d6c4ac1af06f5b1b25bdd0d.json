@@ -5,10 +5,10 @@
   "description": "Borderlands 3: Multiverse Final Form Moze Cosmetic Pack",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "borderlands-3/multiverse-final-form-moze-cosmetic-pack",
   "urlSlug": "borderlands-3-final-form-moze",
   "creationDate": "2020-08-18T21:53:41.608Z",
-  "lastModifiedDate": "2020-11-09T13:22:27.764Z",
+  "lastModifiedDate": "2020-11-09T13:51:19.859Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -147,10 +147,29 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "borderlands-3/multiverse-final-form-moze-cosmetic-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Landscape_Image_2560x1440-2560x1440-064f5045b1d4003361f243d2f7470d3f.jpg",
+      "md5": "064f5045b1d4003361f243d2f7470d3f",
+      "size": 952845,
+      "uploadedDate": "2020-11-09T13:51:01.650Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Landscape_Image_2560x1440-2560x1440-064f5045b1d4003361f243d2f7470d3f.jpg",
+      "md5": "064f5045b1d4003361f243d2f7470d3f",
+      "size": 952845,
+      "uploadedDate": "2020-11-09T13:51:12.706Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "ff96eef22b0e4c498e8ed80ac0030325"

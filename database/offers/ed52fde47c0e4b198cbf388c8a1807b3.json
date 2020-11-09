@@ -1,0 +1,115 @@
+{
+  "id": "ed52fde47c0e4b198cbf388c8a1807b3",
+  "namespace": "catnip",
+  "title": "Borderlands 3: Designer's Cut",
+  "description": "Borderlands 3: Designer's Cut",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "borderlands-3/designers-cut",
+  "urlSlug": "borderlands-3-designers-cut",
+  "creationDate": "2020-06-15T20:44:20.286Z",
+  "lastModifiedDate": "2020-11-09T13:40:54.877Z",
+  "effectiveDate": "2020-11-09T13:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "2K"
+    },
+    {
+      "key": "developerName",
+      "value": "Gearbox Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "borderlands-3/designers-cut"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+      "md5": "39934de17bb201a8e1922ef8e2495233",
+      "size": 946101,
+      "uploadedDate": "2020-11-05T20:59:03.961Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_2560x1440-2560x1440-ed4793c55b4a00970c1c751dbc8ecb25.jpg",
+      "md5": "ed4793c55b4a00970c1c751dbc8ecb25",
+      "size": 848807,
+      "uploadedDate": "2020-11-05T20:59:33.720Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+      "md5": "39934de17bb201a8e1922ef8e2495233",
+      "size": 946101,
+      "uploadedDate": "2020-11-05T20:59:44.218Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+      "md5": "39934de17bb201a8e1922ef8e2495233",
+      "size": 946101,
+      "uploadedDate": "2020-11-05T20:59:56.578Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_EPIC_1200X1600-1200x1600-39934de17bb201a8e1922ef8e2495233.jpg",
+      "md5": "39934de17bb201a8e1922ef8e2495233",
+      "size": 946101,
+      "uploadedDate": "2020-11-05T21:00:09.776Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC5_DESIGNERSCUT_2560x1440-2560x1440-ed4793c55b4a00970c1c751dbc8ecb25.jpg",
+      "md5": "ed4793c55b4a00970c1c751dbc8ecb25",
+      "size": 848807,
+      "uploadedDate": "2020-11-05T21:00:22.425Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
+  "items": [
+    {
+      "id": "6a3c06879500496b853726573b896dff"
+    }
+  ],
+  "catalogNs": null
+}
