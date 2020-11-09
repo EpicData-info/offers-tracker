@@ -1,14 +1,14 @@
 {
   "id": "2e9976c279114c91b38a0ccabb15d02a",
   "namespace": "2744acda6a2e493e9894b389b6564df7",
-  "title": "SnowRunner Season Pass",
+  "title": "SnowRunner - Season Pass",
   "description": "Get ready for the next-generation off-road experience!",
   "longDescription": "Save money on content for this game by purchasing the Season Pass. Content can be downloaded from the Epic Games Store or in-game upon release.\n\nThe Season Pass grants you access to the exclusive Sabertooth skin for the Heavy Duty Derry Longhorn 4520, as well as the 4 phases of new content to be released in the future, including new trucks, new maps, add-ons and more!\n\nAlready available: \n• Derry Longhorn 4520 Sabertooth Livery\n• High Roller Pack\n• Loaded Dice Vinyl Wrap\n• Scorched Vinyl Wrap\n• True Colors Vinyl Wrap\n• Season 1 “Search & Recover”\n\nComing Soon:\n• Season 2 “Explore & Expand”\n• Season 3 “Locate & Deliver”\n• Season 4: New expansion\"",
   "status": "ACTIVE",
   "productSlug": "snowrunner/season-pass",
   "urlSlug": "snowrunner--season-pass",
   "creationDate": "2020-01-09T23:03:34.833Z",
-  "lastModifiedDate": "2020-07-31T02:48:27.664Z",
+  "lastModifiedDate": "2020-11-09T15:30:06.968Z",
   "effectiveDate": "2020-04-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -37,7 +37,46 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
