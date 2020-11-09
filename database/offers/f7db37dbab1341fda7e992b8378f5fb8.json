@@ -1,14 +1,14 @@
 {
   "id": "f7db37dbab1341fda7e992b8378f5fb8",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
-  "title": "Anderson Group Equipment Pack DLC",
+  "title": "Farming Simulator 19 - Anderson Group Equipment Pack",
   "description": "Expand your gaming experience with the new official extension for Farming Simulator 19! This DLC contains 13 new implements from Anderson Group.",
   "longDescription": "Expand your gaming experience with the new official extension for Farming Simulator 19! \n\nThe DLC 13 new implements from Anderson Group:\n• Anderson Group A700 – Mixer\n• Anderson Group A950 – Mixer\n• Anderson Group BioBaler WB-55 – Wood Baler\n• Anderson Group Bumper – BioBaler WB-55 attachment \n• Anderson Group HYBRID X XTRACTOR – Bale Wrapper (round and square bales)\n• Anderson Group IFX720 XTRACTOR – Bale Wrapper (round bales)\n• Anderson Group M160 – Log Loader\n• Anderson Group PRO-CHOP150 – Bale Processor (round bales/square bales)\n• Anderson Group RB580 – Bale Wrapper (round bales)\n• Anderson Group RBM2000 –Bale Mover (round bales)\n• Anderson Group RBMPRO 2000 – Silage Wrap Bale Mover (round bales)\n•Anderson Group STACKPRO7200 – Bale Stacker (square bales)\n• Anderson Group TSR3450 – Bale Mover (square bales)\n\nOnce downloaded, the additional content will be available through the in-game shop. Be sure to have sufficient in-game currency to buy them!",
   "status": "ACTIVE",
   "productSlug": "farming-simulator-19/anderson-group-equipment-pack",
   "urlSlug": "farming-simulator-19--anderson-group-equipment-pack",
   "creationDate": "2020-01-06T20:22:44.462Z",
-  "lastModifiedDate": "2020-10-15T14:59:26.540Z",
+  "lastModifiedDate": "2020-11-09T15:55:47.342Z",
   "effectiveDate": "2020-01-30T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -34,7 +34,56 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.productSlug",

@@ -1,14 +1,14 @@
 {
   "id": "382d4d89673f47a784b28a4ee8ffa736",
   "namespace": "493e9ad801e8487497fe7840cb8404bb",
-  "title": "Bourgault DLC",
+  "title": "Farming Simulator 19 - Bourgault DLC",
   "description": "Expand your farming experience with the new official extension for Farming Simulator 19! This DLC contains 7 pieces of equipment from the brand Bourgault, and one new John Deere tractor.",
   "longDescription": "Expand your farming experience with the new official extension for Farming Simulator 19! \n\nThis DLC contains 7 pieces of equipment from the brand Bourgault, and one new John Deere tractor:\n+ 3320-76 Paralink Hoe Drill – Seeder\n+ 3420-100 Paralink Hoe Drill - Seeder\n+ 7950 Air Cart - Seeder\n+ 71300 Air Cart - Seeder\n+ SPS360-50 - Cultivator\n+ XR770 Harrow - Weeder\n+ FMS CD872-8 - Seeder\n+ John Deere 9RX Series - Large tractor\n\nOnce downloaded, the additional content will be available through the in-game shop. Be sure to have sufficient in-game currency to buy them!\n\n",
   "status": "ACTIVE",
   "productSlug": "farming-simulator-19/bourgault-dlc",
   "urlSlug": "farming-simulator-19--bourgault-dlc",
   "creationDate": "2020-01-06T20:29:12.113Z",
-  "lastModifiedDate": "2020-10-15T14:59:26.575Z",
+  "lastModifiedDate": "2020-11-09T15:59:52.034Z",
   "effectiveDate": "2020-03-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -34,7 +34,56 @@
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.productSlug",
