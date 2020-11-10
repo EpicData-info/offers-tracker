@@ -1,0 +1,58 @@
+{
+  "id": "25fc0f3619e44833a7b3e2909d88b064",
+  "namespace": "oregano",
+  "title": "OreganoDLC7",
+  "description": "OreganoDLC7",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "[]",
+  "urlSlug": "oreganodlc7",
+  "creationDate": "2020-11-10T02:40:43.487Z",
+  "lastModifiedDate": "2020-11-10T02:45:38.182Z",
+  "effectiveDate": "2020-11-12T16:00:00.000Z",
+  "viewableDate": "2020-08-10T15:55:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
+    "name": "Ubisoft Entertainment"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": "",
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "dd95e6509ce5439583639f34b3938177"
+    }
+  ],
+  "catalogNs": null
+}
