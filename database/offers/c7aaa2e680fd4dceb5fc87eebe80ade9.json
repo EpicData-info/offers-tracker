@@ -1,16 +1,16 @@
 {
   "id": "c7aaa2e680fd4dceb5fc87eebe80ade9",
   "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
-  "title": "AquariusGeneralAudience",
-  "description": "AquariusGeneralAudience",
+  "title": "Observer: System Redux",
+  "description": "Observer: System Redux",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "aquariusgeneralaudience",
+  "productSlug": "observer-system-redux/home",
+  "urlSlug": "aquariuslaunchaudience",
   "creationDate": "2020-08-31T23:39:19.822Z",
-  "lastModifiedDate": "2020-09-22T15:33:25.163Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-11-10T16:56:28.084Z",
+  "effectiveDate": "2020-11-10T17:00:00.000Z",
+  "viewableDate": "2020-11-10T16:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
@@ -28,29 +28,135 @@
       "path": "games"
     },
     {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1218",
+      "name": "HORROR",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:06.599Z",
+      "updated": "2020-09-15T15:54:08.302Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1294",
+      "name": "FIRST-PERSON",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:44.596Z",
+      "updated": "2020-09-10T16:00:33.411Z",
+      "status": "ACTIVE",
+      "referenceCount": 24,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "KR"
     },
     {
       "key": "publisherName",
-      "value": "[]"
-    },
-    {
-      "key": "developerName",
-      "value": "[]"
+      "value": "Bloober Team"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "observer-system-redux/home"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S1-2560x1440-c933335b5dcacc809dcfcf5bbff47a67.jpg",
+      "md5": "c933335b5dcacc809dcfcf5bbff47a67",
+      "size": 1009989,
+      "uploadedDate": "2020-10-09T16:38:52.202Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+      "md5": "9a24fc78d36d88f8a4217ac75e353539",
+      "size": 956540,
+      "uploadedDate": "2020-10-09T16:38:59.799Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+      "md5": "9a24fc78d36d88f8a4217ac75e353539",
+      "size": 956540,
+      "uploadedDate": "2020-10-09T16:39:08.925Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+      "md5": "9a24fc78d36d88f8a4217ac75e353539",
+      "size": 956540,
+      "uploadedDate": "2020-10-09T16:39:17.097Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S1-2560x1440-c933335b5dcacc809dcfcf5bbff47a67.jpg",
+      "md5": "c933335b5dcacc809dcfcf5bbff47a67",
+      "size": 1009989,
+      "uploadedDate": "2020-10-09T16:39:33.083Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+      "md5": "9a24fc78d36d88f8a4217ac75e353539",
+      "size": 956540,
+      "uploadedDate": "2020-10-09T16:39:45.578Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "0a8fcfb6905349dcab7f136ce44c5890"

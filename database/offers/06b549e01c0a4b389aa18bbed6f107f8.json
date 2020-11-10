@@ -5,10 +5,10 @@
   "description": "Borderlands 3: Multiverse Final Form Amara Cosmetic Pack",
   "longDescription": "",
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "borderlands-3/multiverse-final-form-amara-cosmetic-pack",
   "urlSlug": "borderlands-3-final-form-amara",
   "creationDate": "2020-08-18T21:40:32.680Z",
-  "lastModifiedDate": "2020-11-09T13:23:47.841Z",
+  "lastModifiedDate": "2020-11-10T17:07:35.676Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -147,10 +153,65 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "borderlands-3/multiverse-final-form-amara-cosmetic-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
+      "md5": "017cdf09de5360ae0810392a921e8868",
+      "size": 865207,
+      "uploadedDate": "2020-11-10T17:03:12.858Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_2560x1440-2560x1440-05455a80364ea80353a2dabf8051176f.jpg",
+      "md5": "05455a80364ea80353a2dabf8051176f",
+      "size": 740178,
+      "uploadedDate": "2020-11-10T17:03:22.807Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
+      "md5": "017cdf09de5360ae0810392a921e8868",
+      "size": 865207,
+      "uploadedDate": "2020-11-10T17:03:23.281Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
+      "md5": "017cdf09de5360ae0810392a921e8868",
+      "size": 865207,
+      "uploadedDate": "2020-11-10T17:03:33.620Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
+      "md5": "017cdf09de5360ae0810392a921e8868",
+      "size": 865207,
+      "uploadedDate": "2020-11-10T17:03:46.148Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_2560x1440-2560x1440-05455a80364ea80353a2dabf8051176f.jpg",
+      "md5": "05455a80364ea80353a2dabf8051176f",
+      "size": 740178,
+      "uploadedDate": "2020-11-10T17:04:02.379Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "fbc46bb6056940d2847ee1e80037a9af"

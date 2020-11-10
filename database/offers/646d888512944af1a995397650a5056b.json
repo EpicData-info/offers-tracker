@@ -1,16 +1,16 @@
 {
-  "id": "9f69e66cfa244397a2d5600b8cde5d2b",
+  "id": "646d888512944af1a995397650a5056b",
   "namespace": "71e66acf6bb34733bd98514ebf9fcaf8",
-  "title": "Observer: System Redux",
-  "description": "Observer: System Redux",
+  "title": "Observer: System Redux Deluxe Edition",
+  "description": "Observer: System Redux Deluxe Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "observer-system-redux/home",
-  "urlSlug": "aquariusprepurchaseaudience",
-  "creationDate": "2020-10-09T16:42:09.453Z",
-  "lastModifiedDate": "2020-11-10T16:56:27.991Z",
-  "effectiveDate": "2020-10-15T13:00:00.000Z",
-  "viewableDate": "2020-10-15T12:55:00.000Z",
+  "productSlug": "observer-system-redux/deluxe-edition",
+  "urlSlug": "observer-system-redux--deluxe-edition",
+  "creationDate": "2020-11-04T17:01:27.592Z",
+  "lastModifiedDate": "2020-11-10T16:56:27.973Z",
+  "effectiveDate": "2020-11-10T17:00:00.000Z",
+  "viewableDate": "2020-11-10T16:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-8nzuqrvr3dvkn9l7dydvhkekqd3xa9",
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "applications"
@@ -91,16 +94,8 @@
       "value": "Bloober Team"
     },
     {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
-      "key": "availableDate",
-      "value": "1605027600"
-    },
-    {
       "key": "com.epicgames.app.productSlug",
-      "value": "observer-system-redux/home"
+      "value": "observer-system-redux/deluxe-edition"
     }
   ],
   "keyImages": [
@@ -161,10 +156,7 @@
   ],
   "items": [
     {
-      "id": "0a8fcfb6905349dcab7f136ce44c5890"
-    },
-    {
-      "id": "a72bd558522e4fb9bab7a425e46cdd3d"
+      "id": "f1305b19a0154b859fae294dc7db9b72"
     }
   ],
   "catalogNs": null

@@ -304,7 +304,7 @@
     ],
     "Perfect World",
     1602627047,
-    1605021883,
+    1605027755,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_EpicStarterPack_CrypticStudios_Packs_S2-1200x1600-d28cdbf08d422bf48efbece08d08a5d5.jpg",
     ""
   ],
@@ -1015,14 +1015,16 @@
     "catnip",
     "Borderlands 3: Multiverse Final Form Amara Cosmetic Pack",
     [
+      "addons",
       "games",
+      "addons/durable",
       "applications"
     ],
     "2K Games, Inc.",
     1597786832,
-    1604928227,
-    "",
-    "[]"
+    1605028055,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
+    "borderlands-3/multiverse-final-form-amara-cosmetic-pack"
   ],
   [
     "06e1749004c34474b935b493db78e260",
@@ -10156,7 +10158,7 @@
     ],
     "Perfect World",
     1602627432,
-    1605021566,
+    1605027778,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_20000ZEN3000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-c7d256625535d1a0bd2b6f867f4bf8a1.jpg",
     ""
   ],
@@ -12633,7 +12635,7 @@
     ],
     "Perfect World",
     1602627301,
-    1605022199,
+    1605027791,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_1000ZENBundle_CrypticStudios_AddOn_S2-1200x1600-5dbdd1dc575af5b22e6778cff1387e2d.jpg",
     ""
   ],
@@ -16865,6 +16867,21 @@
     "layers-of-fear/home"
   ],
   [
+    "646d888512944af1a995397650a5056b",
+    "71e66acf6bb34733bd98514ebf9fcaf8",
+    "Observer: System Redux Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Bloober Team",
+    1604509287,
+    1605027387,
+    "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+    "observer-system-redux/deluxe-edition"
+  ],
+  [
     "647b7139f00b4af6a8691706ea7d657b",
     "9773aa1aa54f4f7b80e44bef04986cea",
     "Rocket League® x Monstercat Vol. 5",
@@ -20679,7 +20696,7 @@
     ],
     "Perfect World",
     1602627466,
-    1605022440,
+    1605027829,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_5000ZEN300BonusBundle_CrypticStudios_AddOn_S2-1200x1600-daf2c766cf589bf6193377ef897938d3.jpg",
     ""
   ],
@@ -23182,6 +23199,22 @@
     ""
   ],
   [
+    "8d5ac59c73ab4851911b63fbc7bc1b97",
+    "39697c68e46b48d2b75e17bdc417d859",
+    "Bridge Constructor The Walking Dead",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Headup Gmbh",
+    1604950494,
+    1605028122,
+    "https://cdn1.epicgames.com/39697c68e46b48d2b75e17bdc417d859/offer/EGS_BridgeConstructorTheWalkingDead_ClockStoneSoftware_S2-1200x1600-a6fe394eb2f1d31fe4646b1539487ac3.jpg",
+    "bridge-constructor-the-walking-dead/home"
+  ],
+  [
     "8d6b1215009944c3abc8245ed90115ac",
     "a8400ce7530e4479b32dcaf0e92fce57",
     "Shadowrun Returns Deluxe Edition",
@@ -23729,7 +23762,7 @@
     ],
     "Perfect World",
     1602627374,
-    1605022665,
+    1605027817,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_10000ZEN1000BonusBundle_CrypticStudios_AddOn_S2-1200x1600-bcaf91707800df9591aa516b339fdeb7.jpg",
     ""
   ],
@@ -26848,13 +26881,11 @@
     "Observer: System Redux",
     [
       "games",
-      "games/edition",
-      "games/edition/base",
       "applications"
     ],
     "Bloober Team",
     1602261729,
-    1604938336,
+    1605027387,
     "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
     "observer-system-redux/home"
   ],
@@ -32428,7 +32459,7 @@
     ],
     "Headup Gmbh",
     1601486668,
-    1601589520,
+    1605027510,
     "",
     ""
   ],
@@ -33399,16 +33430,18 @@
   [
     "c7aaa2e680fd4dceb5fc87eebe80ade9",
     "71e66acf6bb34733bd98514ebf9fcaf8",
-    "AquariusGeneralAudience",
+    "Observer: System Redux",
     [
       "games",
+      "games/edition",
+      "games/edition/base",
       "applications"
     ],
     "Bloober Team",
     1598917159,
-    1600788805,
-    "",
-    "[]"
+    1605027388,
+    "https://cdn1.epicgames.com/71e66acf6bb34733bd98514ebf9fcaf8/offer/EGS_ObserverSystemRedux_BlooberTeam_S2-1200x1600-9a24fc78d36d88f8a4217ac75e353539.jpg",
+    "observer-system-redux/home"
   ],
   [
     "c7bb1c7334584dc49dc04a20de98a908",
@@ -35035,13 +35068,15 @@
     "catnip",
     "Borderlands 3: Multiverse Final Form Moze Cosmetic Pack",
     [
+      "addons",
       "games",
+      "addons/durable",
       "applications"
     ],
     "2K Games, Inc.",
     1597787621,
-    1604929879,
-    "",
+    1605028013,
+    "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
     "borderlands-3/multiverse-final-form-moze-cosmetic-pack"
   ],
   [
@@ -36303,6 +36338,22 @@
     1589398048,
     "",
     ""
+  ],
+  [
+    "db2d81bb32a845b5bfb1e768e120e2ac",
+    "9a4a6536096c4307bfb235d811f754ce",
+    "Neverwinter",
+    [
+      "games",
+      "games/edition/base",
+      "games/edition",
+      "applications"
+    ],
+    "Perfect World",
+    1593483421,
+    1605028305,
+    "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_Neverwinter_CrypticStudios_S2-1200x1600-f12c4be0ebea98e268175c3ee4f058c4.jpg",
+    "neverwinter"
   ],
   [
     "db30d79fa6cd43c3a9a99bb28a663bb4",
@@ -39299,7 +39350,7 @@
     ],
     "Perfect World",
     1602627177,
-    1605022919,
+    1605027804,
     "https://cdn1.epicgames.com/9a4a6536096c4307bfb235d811f754ce/offer/EGS_2000ZENBundle_CrypticStudios_AddOn_S2-1200x1600-660ca60224c3a46ba825d2b7d2da68cf.jpg",
     ""
   ],

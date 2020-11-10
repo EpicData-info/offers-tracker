@@ -8,7 +8,7 @@
   "productSlug": "borderlands-3/multiverse-final-form-moze-cosmetic-pack",
   "urlSlug": "borderlands-3-final-form-moze",
   "creationDate": "2020-08-18T21:53:41.608Z",
-  "lastModifiedDate": "2020-11-09T13:51:19.859Z",
+  "lastModifiedDate": "2020-11-10T17:06:53.808Z",
   "effectiveDate": "2020-11-09T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -168,6 +174,42 @@
       "uploadedDate": "2020-11-09T13:51:12.706Z",
       "width": 2560,
       "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
+      "md5": "d6c9fd82c57f008d915d9b9f04d23d0a",
+      "size": 753844,
+      "uploadedDate": "2020-11-10T17:05:49.089Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
+      "md5": "d6c9fd82c57f008d915d9b9f04d23d0a",
+      "size": 753844,
+      "uploadedDate": "2020-11-10T17:06:03.658Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
+      "md5": "d6c9fd82c57f008d915d9b9f04d23d0a",
+      "size": 753844,
+      "uploadedDate": "2020-11-10T17:06:22.733Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
+      "md5": "d6c9fd82c57f008d915d9b9f04d23d0a",
+      "size": 753844,
+      "uploadedDate": "2020-11-10T17:06:40.186Z",
+      "width": 1200,
+      "height": 1600
     }
   ],
   "items": [
