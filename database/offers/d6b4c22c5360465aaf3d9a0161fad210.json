@@ -8,7 +8,7 @@
   "productSlug": "assassins-creed-valhalla/home",
   "urlSlug": "kingdomgeneralaudience",
   "creationDate": "2020-04-28T17:48:55.805Z",
-  "lastModifiedDate": "2020-09-10T21:29:39.631Z",
+  "lastModifiedDate": "2020-11-10T16:05:51.325Z",
   "effectiveDate": "2020-04-30T15:00:00.000Z",
   "viewableDate": "2020-04-29T15:00:00.000Z",
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
-    {
       "id": "1307",
       "name": "OPEN WORLD",
       "namespace": "epic",
@@ -84,6 +72,18 @@
       "updated": "2020-09-10T19:57:35.438Z",
       "status": "ACTIVE",
       "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
@@ -99,10 +99,6 @@
     {
       "key": "availableDate",
       "value": "1605020400"
-    },
-    {
-      "key": "isPrepurchase",
-      "value": "true"
     },
     {
       "key": "developerName",
