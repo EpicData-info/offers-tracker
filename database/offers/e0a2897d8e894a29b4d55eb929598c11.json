@@ -1,0 +1,56 @@
+{
+  "id": "e0a2897d8e894a29b4d55eb929598c11",
+  "namespace": "c22a84689e1a4ad083b2b4ba0ee396f4",
+  "title": "MtKeithGeneralAudience",
+  "description": "MtKeithGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mtkeithgeneralaudience",
+  "creationDate": "2020-11-12T21:13:43.293Z",
+  "lastModifiedDate": "2020-11-12T21:23:27.455Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wc3gy6s683brl6424p7kqlrldhy7vd",
+    "name": "Beamdog"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "74edd0442a8c4e1aa9ea298bdad3481f"
+    }
+  ],
+  "catalogNs": null
+}
