@@ -8,7 +8,7 @@
   "productSlug": "elite-dangerous/home",
   "urlSlug": "callistogeneralaudience",
   "creationDate": "2020-05-05T18:13:09.030Z",
-  "lastModifiedDate": "2020-11-12T14:04:48.665Z",
+  "lastModifiedDate": "2020-11-12T16:13:32.611Z",
   "effectiveDate": "2020-11-19T16:00:00.000Z",
   "viewableDate": "2020-11-12T15:20:00.000Z",
   "developer": null,
@@ -29,6 +29,12 @@
     },
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
