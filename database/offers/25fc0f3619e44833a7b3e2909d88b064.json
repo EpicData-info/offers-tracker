@@ -1,16 +1,16 @@
 {
   "id": "25fc0f3619e44833a7b3e2909d88b064",
   "namespace": "oregano",
-  "title": "OreganoDLC7",
-  "description": "OreganoDLC7",
+  "title": "City Lights - DLC",
+  "description": "City Lights - DLC",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "oreganodlc7",
+  "productSlug": "anno-1800/city-lights",
+  "urlSlug": "citylightsdlc",
   "creationDate": "2020-11-10T02:40:43.487Z",
-  "lastModifiedDate": "2020-11-10T02:45:38.182Z",
+  "lastModifiedDate": "2020-11-12T15:42:03.419Z",
   "effectiveDate": "2020-11-12T16:00:00.000Z",
-  "viewableDate": "2020-08-10T15:55:00.000Z",
+  "viewableDate": "2020-11-12T15:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-3efjudxdtgsqnulml4bkeq3v9nec38",
@@ -45,13 +45,71 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "anno-1800/city-lights"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_CITY_LIGHTS_DLC_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-8d20495bec51024a415e0d6152554f5a.png",
+      "md5": "8d20495bec51024a415e0d6152554f5a",
+      "size": 3986099,
+      "uploadedDate": "2020-11-11T18:13:05.458Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/oregano/offer/ANNO_CITY_LIGHTS_DLC_EPIC_Image_Hero_Carrousel_3840x2160-3840x2160-8d20495bec51024a415e0d6152554f5a.png",
+      "md5": "8d20495bec51024a415e0d6152554f5a",
+      "size": 3986099,
+      "uploadedDate": "2020-11-11T18:13:20.575Z",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-1bc64cd026b516311114db43a6ecf484.jpg",
+      "md5": "1bc64cd026b516311114db43a6ecf484",
+      "size": 359439,
+      "uploadedDate": "2020-11-11T18:21:20.298Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-1bc64cd026b516311114db43a6ecf484.jpg",
+      "md5": "1bc64cd026b516311114db43a6ecf484",
+      "size": 359439,
+      "uploadedDate": "2020-11-11T18:22:31.670Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-1bc64cd026b516311114db43a6ecf484.jpg",
+      "md5": "1bc64cd026b516311114db43a6ecf484",
+      "size": 359439,
+      "uploadedDate": "2020-11-11T18:22:41.782Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/oregano/offer/AN18_Store_Portrait_1200x1600-1200x1600-1bc64cd026b516311114db43a6ecf484.jpg",
+      "md5": "1bc64cd026b516311114db43a6ecf484",
+      "size": 359439,
+      "uploadedDate": "2020-11-11T18:22:53.034Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
-      "id": "dd95e6509ce5439583639f34b3938177"
+      "id": "9a9a58d09fb449639e161e781e92a905"
+    },
+    {
+      "id": "89674d09e56a45979aa1e0530130f2cc"
     }
   ],
   "catalogNs": null
