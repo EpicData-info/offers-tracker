@@ -1,0 +1,56 @@
+{
+  "id": "579fbc4c51a44f098bfaff5dc4a31d92",
+  "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
+  "title": "MtAlverstoneDLC",
+  "description": "MtAlverstoneDLC",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "mtalverstonedlcgeneralaudience",
+  "creationDate": "2020-11-11T20:10:52.652Z",
+  "lastModifiedDate": "2020-11-12T19:20:21.691Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-jskfz28ywm2l56px6h9rlxplaysrtl",
+    "name": "Koch Media"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "a44c3817c9c3466d86b472476c93893c"
+    }
+  ],
+  "catalogNs": null
+}
