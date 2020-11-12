@@ -8,7 +8,7 @@
   "productSlug": "farming-simulator-19/bourgault-dlc",
   "urlSlug": "farming-simulator-19--bourgault-dlc",
   "creationDate": "2020-01-06T20:29:12.113Z",
-  "lastModifiedDate": "2020-11-09T15:59:52.034Z",
+  "lastModifiedDate": "2020-11-12T14:02:02.580Z",
   "effectiveDate": "2020-03-09T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -81,6 +81,18 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],

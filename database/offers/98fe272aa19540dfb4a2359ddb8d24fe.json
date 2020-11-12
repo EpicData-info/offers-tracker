@@ -5,12 +5,12 @@
   "description": "Bugsnax",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "bugsnax",
-  "urlSlug": "bonytailgeneralaudience",
+  "productSlug": "bugsnax/home",
+  "urlSlug": "bugsnax",
   "creationDate": "2019-11-29T20:59:18.254Z",
-  "lastModifiedDate": "2020-10-08T14:10:57.529Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-11-12T13:47:11.157Z",
+  "effectiveDate": "2020-11-12T14:00:00.000Z",
+  "viewableDate": "2020-11-12T14:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-k56sdfrwfdbyv3dbp64sa6jpbvz8cy",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -94,12 +97,26 @@
       "status": "ACTIVE",
       "referenceCount": 46,
       "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "[]"
+      "value": "KR"
     },
     {
       "key": "publisherName",
@@ -107,7 +124,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "bugsnax"
+      "value": "bugsnax/home"
     }
   ],
   "keyImages": [
