@@ -1,0 +1,196 @@
+{
+  "id": "e74db1952d344022bb510b8ddbcc4589",
+  "namespace": "b258cb25f6cc4031914256c2d42b2188",
+  "title": "The World Next Door",
+  "description": "The World Next Door",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "the-world-next-door/home",
+  "urlSlug": "the-world-next-door",
+  "creationDate": "2020-08-10T19:20:20.011Z",
+  "lastModifiedDate": "2020-11-12T15:05:57.702Z",
+  "effectiveDate": "2020-11-19T16:00:00.000Z",
+  "viewableDate": "2020-11-12T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-8n8dlrevvlc42rrnbrlzewuwax8yev",
+    "name": "Justechel"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "1263",
+      "name": "INDIE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:29.190Z",
+      "updated": "2020-09-10T15:44:03.720Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "VIZ Media"
+    },
+    {
+      "key": "developerName",
+      "value": "Rose City Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "the-world-next-door/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S1-2560x1440-3ff0e0f1f17c0e0875167f9f7be590c9.jpg",
+      "md5": "3ff0e0f1f17c0e0875167f9f7be590c9",
+      "size": 547734,
+      "uploadedDate": "2020-11-10T23:19:41.927Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+      "md5": "6bfdd2c32ae6b1edd8261e1bcb60d0f3",
+      "size": 263042,
+      "uploadedDate": "2020-11-10T23:19:49.915Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+      "md5": "6bfdd2c32ae6b1edd8261e1bcb60d0f3",
+      "size": 263042,
+      "uploadedDate": "2020-11-10T23:19:58.391Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+      "md5": "6bfdd2c32ae6b1edd8261e1bcb60d0f3",
+      "size": 263042,
+      "uploadedDate": "2020-11-10T23:20:08.283Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S1-2560x1440-3ff0e0f1f17c0e0875167f9f7be590c9.jpg",
+      "md5": "3ff0e0f1f17c0e0875167f9f7be590c9",
+      "size": 547734,
+      "uploadedDate": "2020-11-10T23:20:20.291Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/b258cb25f6cc4031914256c2d42b2188/offer/EGS_TheWorldNextDoor_RoseCityGames_S2-1200x1600-6bfdd2c32ae6b1edd8261e1bcb60d0f3.jpg",
+      "md5": "6bfdd2c32ae6b1edd8261e1bcb60d0f3",
+      "size": 263042,
+      "uploadedDate": "2020-11-10T23:20:29.733Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2090f4be4233473ea8fdba39e9a4237f"
+    }
+  ],
+  "catalogNs": null
+}

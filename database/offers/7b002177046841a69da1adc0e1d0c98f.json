@@ -1,16 +1,16 @@
 {
   "id": "7b002177046841a69da1adc0e1d0c98f",
   "namespace": "3db17abfd650423f993291624b1b2ac1",
-  "title": "CallistoGeneralAudience",
-  "description": "CallistoGeneralAudience",
+  "title": "Elite Dangerous",
+  "description": "Elite Dangerous",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "elite-dangerous/home",
   "urlSlug": "callistogeneralaudience",
   "creationDate": "2020-05-05T18:13:09.030Z",
-  "lastModifiedDate": "2020-05-05T18:19:06.331Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-11-12T14:04:48.665Z",
+  "effectiveDate": "2020-11-19T16:00:00.000Z",
+  "viewableDate": "2020-11-12T15:20:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-mlnjydnrxlmer2ducb6u6ngznq25mx",
@@ -25,28 +25,171 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "freegames"
+    },
+    {
       "path": "games"
     },
     {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1121",
+      "name": "SPACE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:18.640Z",
+      "updated": "2020-09-14T14:01:19.686Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1281",
+      "name": "SPACE SIM",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:38.182Z",
+      "updated": "2020-04-02T01:42:00.031Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "217",
+      "name": "SPACE SIMULATION",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-06-17T16:11:33.574Z",
+      "updated": "2019-10-24T15:50:45.303Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Frontier Developments"
     },
     {
-      "key": "developerName",
-      "value": "[]"
+      "key": "com.epicgames.app.productSlug",
+      "value": "elite-dangerous/home"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S1-2560x1440-ff83482418be695513db5f4adec99a66.jpg",
+      "md5": "ff83482418be695513db5f4adec99a66",
+      "size": 519380,
+      "uploadedDate": "2020-11-02T14:14:53.480Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+      "md5": "112c98adf1ae07b058feb140a08e3872",
+      "size": 398707,
+      "uploadedDate": "2020-11-02T14:15:00.159Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S1-2560x1440-ff83482418be695513db5f4adec99a66.jpg",
+      "md5": "ff83482418be695513db5f4adec99a66",
+      "size": 519380,
+      "uploadedDate": "2020-11-02T14:15:07.475Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+      "md5": "112c98adf1ae07b058feb140a08e3872",
+      "size": 398707,
+      "uploadedDate": "2020-11-02T14:15:15.266Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+      "md5": "112c98adf1ae07b058feb140a08e3872",
+      "size": 398707,
+      "uploadedDate": "2020-11-02T14:15:22.072Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/3db17abfd650423f993291624b1b2ac1/offer/EGS_EliteDangerous_FrontierDevelopments_S2-1200x1600-112c98adf1ae07b058feb140a08e3872.jpg",
+      "md5": "112c98adf1ae07b058feb140a08e3872",
+      "size": 398707,
+      "uploadedDate": "2020-11-02T14:15:28.549Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "eab3575feb67458b9753fe2d8cebf4df"
