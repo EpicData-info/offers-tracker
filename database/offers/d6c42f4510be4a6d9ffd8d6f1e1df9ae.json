@@ -71,18 +71,7 @@
       "referenceCount": 259,
       "comment": null
     },
-    {
-      "id": "1263",
-      "name": "INDIE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:29.190Z",
-      "updated": "2020-09-10T15:44:03.720Z",
-      "status": "ACTIVE",
-      "referenceCount": 46,
-      "comment": null
-    },
+    null,
     {
       "id": "10719",
       "name": "MAC OS",
@@ -96,7 +85,8 @@
       "status": "ACTIVE",
       "referenceCount": 19,
       "comment": null
-    }
+    },
+    null
   ],
   "customAttributes": [
     {
