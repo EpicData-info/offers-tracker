@@ -1,16 +1,16 @@
 {
-  "id": "ce274c51740c4bc189fc4701e41b5584",
+  "id": "192974b940844a308bbeac5d65c0d3ba",
   "namespace": "cosmos",
-  "title": "Rune II",
-  "description": "RUNE II - Warrior Pack",
-  "longDescription": null,
+  "title": "RUNE II: Decapitation Edition - Dragon Armor Set",
+  "description": "RUNE II: Decapitation Edition - Dragon Armor Set",
+  "longDescription": "Forged in the fires deep within caverns of Hel's precipice, reinforced by dark and forbidden runic magic, and assembled by undead Draugr smiths. This Legendary Dragon Armor was made for worthy Vikings to wear in honor of Gunnar, the slayer of dragons",
   "status": "ACTIVE",
-  "productSlug": "rune-2",
-  "urlSlug": "rune-ii-warrior-pack",
-  "creationDate": "2019-07-26T17:45:31.843Z",
-  "lastModifiedDate": "2020-11-13T18:00:49.192Z",
-  "effectiveDate": "2019-07-26T11:00:00.000Z",
-  "viewableDate": null,
+  "productSlug": null,
+  "urlSlug": "rune-2--dragon-armor-set",
+  "creationDate": "2020-11-03T16:41:23.565Z",
+  "lastModifiedDate": "2020-11-13T14:00:36.706Z",
+  "effectiveDate": "2020-11-13T18:00:00.000Z",
+  "viewableDate": "2020-11-13T17:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
@@ -25,13 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
     },
     {
-      "path": "games/edition/base"
-    },
-    {
-      "path": "games/edition"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -129,82 +126,73 @@
       "value": "[]"
     },
     {
-      "key": "developerName",
+      "key": "publisherName",
       "value": "Ragnarok Game, LLC"
     },
     {
-      "key": "com.epicgames.app.productSlug",
-      "value": "rune-2"
+      "key": "developerName",
+      "value": "Studio 369"
     }
   ],
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S1-2560x1440-36ff8d8a9ca5679705db90c06039f359.jpg",
-      "md5": "36ff8d8a9ca5679705db90c06039f359",
-      "size": 911845,
-      "uploadedDate": "2020-11-13T15:47:20.263Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S1-2560x1440-f6c21c3c1a8581c213180e5d69c9700f.jpg",
+      "md5": "f6c21c3c1a8581c213180e5d69c9700f",
+      "size": 762662,
+      "uploadedDate": "2020-11-12T15:06:11.547Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
-      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
-      "size": 632263,
-      "uploadedDate": "2020-11-13T15:47:31.969Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S2-1200x1600-bbbe1ab4e5e074b54b3333cbba62952e.jpg",
+      "md5": "bbbe1ab4e5e074b54b3333cbba62952e",
+      "size": 719824,
+      "uploadedDate": "2020-11-12T15:06:21.214Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S3-2560x1440-36ff8d8a9ca5679705db90c06039f359.jpg",
-      "md5": "36ff8d8a9ca5679705db90c06039f359",
-      "size": 911845,
-      "uploadedDate": "2020-11-13T15:47:49.715Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S1-2560x1440-f6c21c3c1a8581c213180e5d69c9700f.jpg",
+      "md5": "f6c21c3c1a8581c213180e5d69c9700f",
+      "size": 762662,
+      "uploadedDate": "2020-11-12T15:06:29.189Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
-      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
-      "size": 632263,
-      "uploadedDate": "2020-11-13T15:48:01.129Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S2-1200x1600-bbbe1ab4e5e074b54b3333cbba62952e.jpg",
+      "md5": "bbbe1ab4e5e074b54b3333cbba62952e",
+      "size": 719824,
+      "uploadedDate": "2020-11-12T15:06:40.400Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
-      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
-      "size": 632263,
-      "uploadedDate": "2020-11-13T15:48:15.669Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S2-1200x1600-bbbe1ab4e5e074b54b3333cbba62952e.jpg",
+      "md5": "bbbe1ab4e5e074b54b3333cbba62952e",
+      "size": 719824,
+      "uploadedDate": "2020-11-12T15:06:50.084Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEdition_Studio369_S4-1200x1600-e8b6e6b24b07cabec4ea4b78feb6fb2c.jpg",
-      "md5": "e8b6e6b24b07cabec4ea4b78feb6fb2c",
-      "size": 632263,
-      "uploadedDate": "2020-11-13T15:48:41.912Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIDecapitationEditionDragonArmorSet_Studio369_DLC_S2-1200x1600-bbbe1ab4e5e074b54b3333cbba62952e.jpg",
+      "md5": "bbbe1ab4e5e074b54b3333cbba62952e",
+      "size": 719824,
+      "uploadedDate": "2020-11-12T15:07:00.737Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "974e25b4bce6425d9af79cd5ffd64152"
-    },
-    {
-      "id": "cc67628ab455419cb3d4ecc907febbb7"
-    },
-    {
-      "id": "159d92ebec254ecf8373709a99388a62"
-    },
-    {
-      "id": "2f742aa604a441d1a145f70411e9d8d2"
+      "id": "5c6a0a3b883149b9a448ccabe7d06983"
     }
   ],
   "catalogNs": null
