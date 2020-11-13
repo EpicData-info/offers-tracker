@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-09-16T19:19:59.199Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
     {
       "id": "9547",
       "name": "WINDOWS",
@@ -84,18 +73,6 @@
       "updated": "2020-09-16T21:22:47.792Z",
       "status": "ACTIVE",
       "referenceCount": 84,
-      "comment": null
-    },
-    {
-      "id": "1181",
-      "name": "CARD GAME",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T11:59:48.401Z",
-      "updated": "2020-08-27T12:00:04.032Z",
-      "status": "ACTIVE",
-      "referenceCount": 5,
       "comment": null
     }
   ],
