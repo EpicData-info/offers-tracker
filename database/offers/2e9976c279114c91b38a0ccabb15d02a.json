@@ -8,7 +8,7 @@
   "productSlug": "snowrunner/season-pass",
   "urlSlug": "snowrunner--season-pass",
   "creationDate": "2020-01-09T23:03:34.833Z",
-  "lastModifiedDate": "2020-11-09T15:30:06.968Z",
+  "lastModifiedDate": "2020-11-16T14:00:56.221Z",
   "effectiveDate": "2020-04-27T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -48,6 +48,18 @@
       "updated": "2020-09-16T23:47:27.324Z",
       "status": "ACTIVE",
       "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
