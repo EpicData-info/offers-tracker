@@ -5,11 +5,11 @@
   "description": "Phantom Brigade",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "phantom-brigade/home",
+  "productSlug": "phantom-brigade",
   "urlSlug": "chiligeneralaudience",
   "creationDate": "2019-06-08T15:15:16.856Z",
-  "lastModifiedDate": "2020-11-12T23:47:37.982Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-11-16T18:18:05.830Z",
+  "effectiveDate": "2020-11-16T19:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -97,12 +97,24 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
     }
   ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
@@ -110,7 +122,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "phantom-brigade/home"
+      "value": "phantom-brigade"
     }
   ],
   "keyImages": [
@@ -170,12 +182,12 @@
     },
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/epic/offer/Newsfeed_Post_Image_Primary_Faded-1920x1080-a2c55c635c193d4682d5c03066514e5f.jpg",
-      "md5": "a2c55c635c193d4682d5c03066514e5f",
-      "size": 243759,
-      "uploadedDate": "2020-02-11T09:41:44.790Z",
-      "width": 1920,
-      "height": 1080
+      "url": "https://cdn1.epicgames.com/935fa66c485e4c988eb939f86dc458b5/offer/wishlist_landscape-2560x1440-c61a7c8922b4c6ad790b241832cb20ac.jpg",
+      "md5": "c61a7c8922b4c6ad790b241832cb20ac",
+      "size": 1107127,
+      "uploadedDate": "2020-03-09T19:31:49.997Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
