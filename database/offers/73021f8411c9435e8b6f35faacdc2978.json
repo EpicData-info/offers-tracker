@@ -8,7 +8,7 @@
   "productSlug": "inside/home",
   "urlSlug": "marigoldgeneralaudience",
   "creationDate": "2019-06-14T16:20:24.838Z",
-  "lastModifiedDate": "2020-09-25T11:01:24.091Z",
+  "lastModifiedDate": "2020-11-16T14:45:16.525Z",
   "effectiveDate": "2019-08-29T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -108,6 +108,20 @@
       "updated": "2020-09-10T15:44:03.720Z",
       "status": "ACTIVE",
       "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
       "comment": null
     }
   ],
