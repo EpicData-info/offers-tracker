@@ -1,0 +1,56 @@
+{
+  "id": "a400d19a077240729e9944c75f4db31a",
+  "namespace": "d118f9a27e514d98aa25534afd2f35c7",
+  "title": "AlexandriteGeneralAudience",
+  "description": "AlexandriteGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "alexandritegeneralaudience",
+  "creationDate": "2020-06-30T02:31:24.480Z",
+  "lastModifiedDate": "2020-11-17T22:20:29.744Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-5gbgsfvsrt9wlx9gu868mrxmhq6dlv",
+    "name": "Sega of America"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "92941990aa394e888b5ca17b46f5fdd7"
+    }
+  ],
+  "catalogNs": null
+}
