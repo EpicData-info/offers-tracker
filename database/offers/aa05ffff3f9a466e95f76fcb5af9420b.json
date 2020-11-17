@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
     {
       "id": "1203",
       "name": "MULTIPLAYER",
@@ -51,7 +62,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-09-08T12:04:40.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
