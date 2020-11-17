@@ -8,7 +8,7 @@
   "productSlug": "industries-of-titan",
   "urlSlug": "industries-of-titan",
   "creationDate": "2019-03-18T05:25:27.711Z",
-  "lastModifiedDate": "2020-11-03T18:55:33.645Z",
+  "lastModifiedDate": "2020-11-17T18:22:59.436Z",
   "effectiveDate": "2020-04-14T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -96,6 +96,18 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
       "comment": null
     }
   ],
