@@ -62,7 +62,18 @@
       "referenceCount": 46,
       "comment": null
     },
-    null,
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
     {
       "id": "1386",
       "name": "TURN-BASED",
@@ -98,8 +109,7 @@
       "status": "ACTIVE",
       "referenceCount": 5,
       "comment": null
-    },
-    null
+    }
   ],
   "customAttributes": [
     {
