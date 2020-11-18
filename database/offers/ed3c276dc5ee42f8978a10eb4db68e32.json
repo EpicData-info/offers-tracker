@@ -1,0 +1,56 @@
+{
+  "id": "ed3c276dc5ee42f8978a10eb4db68e32",
+  "namespace": "6ae065d071d74979ad62236b71dc11c7",
+  "title": "OncillaGeneralAudience",
+  "description": "OncillaGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "oncillageneralaudience",
+  "creationDate": "2020-06-30T22:22:21.562Z",
+  "lastModifiedDate": "2020-11-18T22:14:03.857Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pae4gppnw39cqfe9mc5xrehtwjbv3s",
+    "name": "Vodeo Games"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "e8ca4c696f994e2e8aad05b0c2f256c8"
+    }
+  ],
+  "catalogNs": null
+}
