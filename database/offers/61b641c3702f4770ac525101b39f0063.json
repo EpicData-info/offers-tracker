@@ -38,18 +38,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1281",
-      "name": "SPACE SIM",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:38.182Z",
-      "updated": "2020-04-02T01:42:00.031Z",
-      "status": "ACTIVE",
-      "referenceCount": 4,
-      "comment": null
-    },
+    null,
     {
       "id": "1258",
       "name": "ROGUE-LIKE",
@@ -86,18 +75,7 @@
       "referenceCount": 33,
       "comment": null
     },
-    {
-      "id": "9547",
-      "name": "WINDOWS",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
-      "status": "ACTIVE",
-      "referenceCount": 259,
-      "comment": null
-    },
+    null,
     {
       "id": "9548",
       "name": "OSX",
