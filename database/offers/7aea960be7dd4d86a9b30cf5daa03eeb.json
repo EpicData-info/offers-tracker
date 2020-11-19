@@ -1,0 +1,158 @@
+{
+  "id": "7aea960be7dd4d86a9b30cf5daa03eeb",
+  "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+  "title": "MudRunner",
+  "description": "MudRunner",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "mudrunner/home",
+  "urlSlug": "bulbulgeneralaudience",
+  "creationDate": "2019-09-10T19:32:38.704Z",
+  "lastModifiedDate": "2020-11-19T15:11:08.767Z",
+  "effectiveDate": "2020-11-26T16:00:00.000Z",
+  "viewableDate": "2020-11-19T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mudrunner/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_LandscapeImage_2560x1440-2560x1440-10de866d83ab0d44774565410c89db45.jpg",
+      "md5": "10de866d83ab0d44774565410c89db45",
+      "size": 384484,
+      "uploadedDate": "2020-02-25T15:32:35.078Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_PortraitImage-860x1148-860x1148-5e2f459f57da398d634ebb3a1349f2bf.jpg",
+      "md5": "5e2f459f57da398d634ebb3a1349f2bf",
+      "size": 446439,
+      "uploadedDate": "2020-02-25T15:32:45.028Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_Desktop-Vertical-510x680-510x680-301a3b7f2d19ea83d770f05abf144ce4.jpg",
+      "md5": "301a3b7f2d19ea83d770f05abf144ce4",
+      "size": 149046,
+      "uploadedDate": "2020-04-22T15:27:34.772Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_Desktop-Horizontal-1360x766-1360x766-366f4bd183d6026397de91668edad816.jpg",
+      "md5": "366f4bd183d6026397de91668edad816",
+      "size": 392324,
+      "uploadedDate": "2020-04-22T15:27:50.110Z",
+      "width": 1360,
+      "height": 766
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_Desktop-Vertical-510x680-510x680-301a3b7f2d19ea83d770f05abf144ce4.jpg",
+      "md5": "301a3b7f2d19ea83d770f05abf144ce4",
+      "size": 149046,
+      "uploadedDate": "2020-04-22T15:28:00.632Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_EpicGames_PortraitImage-860x1148-860x1148-5e2f459f57da398d634ebb3a1349f2bf-860x1148-5e2f459f57da398d634ebb3a1349f2bf.jpg",
+      "md5": "5e2f459f57da398d634ebb3a1349f2bf",
+      "size": 446439,
+      "uploadedDate": "2020-11-18T18:55:03.024Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "ee55ad78565d4f3988a5c52495deffd0"
+    }
+  ],
+  "catalogNs": null
+}

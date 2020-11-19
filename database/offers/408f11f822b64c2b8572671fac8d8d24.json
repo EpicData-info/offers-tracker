@@ -1,0 +1,155 @@
+{
+  "id": "408f11f822b64c2b8572671fac8d8d24",
+  "namespace": "6bff1c13a8884b518bd44acaf691ddba",
+  "title": "MudRunner - American Wilds Expansion",
+  "description": "MudRunner - American Wilds Expansion",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "mudrunner/american-wilds-expansion",
+  "urlSlug": "mudrunner--american-wilds-expansion",
+  "creationDate": "2019-11-19T21:07:06.345Z",
+  "lastModifiedDate": "2020-11-19T15:11:08.811Z",
+  "effectiveDate": "2020-11-26T16:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-wt4zxeetmq6jem7qp4pkssr46aenj5",
+    "name": "Focus Home"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "{}"
+    },
+    {
+      "key": "publisherName",
+      "value": "Focus Home Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Saber Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "mudrunner/american-wilds-expansion"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_LandscapeImage_2560x1440-2560x1440-56e31e6498bb7093b52741daf6a52bce.jpg",
+      "md5": "56e31e6498bb7093b52741daf6a52bce",
+      "size": 401275,
+      "uploadedDate": "2020-02-25T15:34:09.525Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_PortraitImage_860x1148-860x1148-0cacf938502900fad648c641001476c1.jpg",
+      "md5": "0cacf938502900fad648c641001476c1",
+      "size": 535846,
+      "uploadedDate": "2020-02-25T15:34:17.891Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_Desktop-Vertical-510x680-510x680-be7fecb352fadd9d1c4bb897157992ae.jpg",
+      "md5": "be7fecb352fadd9d1c4bb897157992ae",
+      "size": 112688,
+      "uploadedDate": "2020-05-05T21:31:39.911Z",
+      "width": 510,
+      "height": 680
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_PortraitImage_860x1148-860x1148-0cacf938502900fad648c641001476c1-860x1148-0cacf938502900fad648c641001476c1.jpg",
+      "md5": "0cacf938502900fad648c641001476c1",
+      "size": 535846,
+      "uploadedDate": "2020-11-18T18:44:08.249Z",
+      "width": 860,
+      "height": 1148
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_LandscapeImage_2560x1440-2560x1440-56e31e6498bb7093b52741daf6a52bce-2560x1440-56e31e6498bb7093b52741daf6a52bce.jpg",
+      "md5": "56e31e6498bb7093b52741daf6a52bce",
+      "size": 401275,
+      "uploadedDate": "2020-11-18T18:44:24.859Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6bff1c13a8884b518bd44acaf691ddba/offer/MudRunner_AmericanWildsExpansion-EpicGames_PortraitImage_860x1148-860x1148-0cacf938502900fad648c641001476c1-860x1148-0cacf938502900fad648c641001476c1.jpg",
+      "md5": "0cacf938502900fad648c641001476c1",
+      "size": 535846,
+      "uploadedDate": "2020-11-18T18:44:33.995Z",
+      "width": 860,
+      "height": 1148
+    }
+  ],
+  "items": [
+    {
+      "id": "82eb0c0ff3324cd1a30ad1cd84005618"
+    }
+  ],
+  "catalogNs": null
+}
