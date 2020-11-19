@@ -98,18 +98,7 @@
       "referenceCount": 11,
       "comment": null
     },
-    {
-      "id": "1210",
-      "name": "SHOOTER",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:02.690Z",
-      "updated": "2020-09-15T15:30:56.538Z",
-      "status": "ACTIVE",
-      "referenceCount": 28,
-      "comment": null
-    },
+    null,
     {
       "id": "1131",
       "name": "SURVIVAL HORROR",
@@ -132,18 +121,6 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
-      "comment": null
-    },
-    {
-      "id": "1279",
-      "name": "VAMPIRE",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:00:37.207Z",
-      "updated": "2020-09-16T19:19:59.211Z",
-      "status": "ACTIVE",
-      "referenceCount": 3,
       "comment": null
     }
   ],
