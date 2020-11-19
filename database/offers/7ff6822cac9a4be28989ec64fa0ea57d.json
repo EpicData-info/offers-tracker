@@ -8,7 +8,7 @@
   "productSlug": "sid-meiers-civilization-vi/new-frontier-pass",
   "urlSlug": "sid-meiers-civilization-vi--new-frontier-pass",
   "creationDate": "2020-05-13T21:40:49.783Z",
-  "lastModifiedDate": "2020-07-31T02:48:13.869Z",
+  "lastModifiedDate": "2020-11-19T16:28:15.971Z",
   "effectiveDate": "2020-05-21T15:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -63,18 +63,6 @@
       "comment": null
     },
     {
-      "id": "1386",
-      "name": "TURN-BASED",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:30.372Z",
-      "updated": "2020-09-15T18:08:53.923Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
       "id": "1370",
       "name": "SINGLEPLAYER",
       "namespace": "epic",
@@ -87,15 +75,15 @@
       "comment": null
     },
     {
-      "id": "9547",
-      "name": "WINDOWS",
+      "id": "1386",
+      "name": "TURN-BASED",
       "namespace": "epic",
-      "aliases": [],
-      "operator": "kimberly.rodatos",
-      "created": "2019-10-11T02:43:18.435Z",
-      "updated": "2020-09-16T23:47:27.310Z",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:30.372Z",
+      "updated": "2020-09-15T18:08:53.923Z",
       "status": "ACTIVE",
-      "referenceCount": 259,
+      "referenceCount": 14,
       "comment": null
     },
     {
@@ -108,6 +96,18 @@
       "updated": "2020-09-15T18:08:53.862Z",
       "status": "ACTIVE",
       "referenceCount": 33,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     },
     {
