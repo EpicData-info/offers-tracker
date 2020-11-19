@@ -1,16 +1,16 @@
 {
-  "id": "f5469432150e4bfeba1a64f258999161",
+  "id": "8593d4e78b884c20bdcea1024aff09f1",
   "namespace": "3fafb94f3f804d6bbe85da723c90e689",
-  "title": "Football Manager 2021 Touch",
-  "description": "Football Manager 2021 Touch",
+  "title": "DCL 10",
+  "description": "DCL 10",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "football-manager-2021-touch",
-  "urlSlug": "ocean-pre-purchase",
-  "creationDate": "2020-09-22T20:30:12.098Z",
-  "lastModifiedDate": "2020-11-19T23:11:31.473Z",
-  "effectiveDate": "2020-09-24T17:00:00.000Z",
-  "viewableDate": "2020-09-24T17:01:00.000Z",
+  "productSlug": "[]",
+  "urlSlug": "dcl",
+  "creationDate": "2020-10-23T18:11:31.124Z",
+  "lastModifiedDate": "2020-11-19T23:09:44.150Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
@@ -21,17 +21,11 @@
   "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
-  "technicalDetails": null,
+  "technicalDetails": "",
   "recurrence": "ONCE",
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -111,16 +105,12 @@
       "value": "SEGA"
     },
     {
-      "key": "isPrepurchase",
-      "value": "true"
-    },
-    {
       "key": "developerName",
       "value": "Sports Interactive"
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "football-manager-2021-touch"
+      "value": "[]"
     }
   ],
   "keyImages": [
@@ -181,10 +171,7 @@
   ],
   "items": [
     {
-      "id": "2e421cd49e464c0dae8a62a0dfe12275"
-    },
-    {
-      "id": "b5f90675572d4c34822ba257ca35a4f9"
+      "id": "a949eb477a1543839b20ddb95fbe6383"
     }
   ],
   "catalogNs": null
