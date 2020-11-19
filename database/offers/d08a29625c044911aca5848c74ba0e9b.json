@@ -1,0 +1,206 @@
+{
+  "id": "d08a29625c044911aca5848c74ba0e9b",
+  "namespace": "dd7371cb38ea42469d9ba0df57aa394d",
+  "title": "Carnival Games",
+  "description": "Carnival Games",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "carnival-games",
+  "urlSlug": "carnival-games",
+  "creationDate": "2020-09-21T16:16:57.140Z",
+  "lastModifiedDate": "2020-11-19T21:08:13.131Z",
+  "effectiveDate": "2020-11-19T21:00:00.000Z",
+  "viewableDate": "2020-11-19T21:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-37m6jbj5wcvrcvm4wusv7nazdfvbjk",
+    "name": "2K Games, Inc."
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-09-01T17:36:52.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "1110",
+      "name": "PARTY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:13.150Z",
+      "updated": "2020-08-27T15:58:24.091Z",
+      "status": "ACTIVE",
+      "referenceCount": 12,
+      "comment": null
+    },
+    {
+      "id": "1159",
+      "name": "ARCADE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:37.620Z",
+      "updated": "2020-07-29T19:47:49.823Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-10T22:54:46.508Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "2k"
+    },
+    {
+      "key": "developerName",
+      "value": "Mass Media Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "carnival-games"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S1-2560x1440-658314d2d8b02b825469bd735acd0a42.jpg",
+      "md5": "658314d2d8b02b825469bd735acd0a42",
+      "size": 970196,
+      "uploadedDate": "2020-11-16T19:35:51.166Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S1-2560x1440-658314d2d8b02b825469bd735acd0a42.jpg",
+      "md5": "658314d2d8b02b825469bd735acd0a42",
+      "size": 970196,
+      "uploadedDate": "2020-11-16T19:36:05.091Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
+      "md5": "d31a90472d6d46891bb3cf9f4b523e04",
+      "size": 857110,
+      "uploadedDate": "2020-11-16T19:36:11.855Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
+      "md5": "d31a90472d6d46891bb3cf9f4b523e04",
+      "size": 857110,
+      "uploadedDate": "2020-11-16T19:36:22.405Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
+      "md5": "d31a90472d6d46891bb3cf9f4b523e04",
+      "size": 857110,
+      "uploadedDate": "2020-11-16T19:36:29.961Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dd7371cb38ea42469d9ba0df57aa394d/offer/EGS_CarnivalGames_MassMediaGames_S2-1200x1600-d31a90472d6d46891bb3cf9f4b523e04.jpg",
+      "md5": "d31a90472d6d46891bb3cf9f4b523e04",
+      "size": 857110,
+      "uploadedDate": "2020-11-16T19:36:39.902Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "d04eda323b834bd2b91ad93dee94c7a1"
+    }
+  ],
+  "catalogNs": null
+}
