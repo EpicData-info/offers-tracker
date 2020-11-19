@@ -486,6 +486,21 @@
     "dead-cells/home"
   ],
   [
+    "036fb10545a74dfcb2fb791485f45711",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "Godfall Pre-Order Content",
+    [
+      "addons",
+      "addons/durable",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1603739842,
+    1605819191,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/Godfall_Tall-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
+    "godfall/pre-order-content"
+  ],
+  [
     "0394bcc34ee54c13bf1d84590c11fd18",
     "canna",
     "RollerCoaster Tycoon Adventures",
@@ -1046,12 +1061,12 @@
     [
       "addons",
       "games",
-      "addons/durable",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1597786832,
-    1605802830,
+    1605818687,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_FINALFORM_AMARA_EPIC_1200X1600-1200x1600-017cdf09de5360ae0810392a921e8868.jpg",
     "borderlands-3/multiverse-final-form-amara-cosmetic-pack"
   ],
@@ -6487,6 +6502,21 @@
     1588190408,
     "https://cdn1.epicgames.com/ocn/offer/PremiumCurrency_Sm-512x512-d3ca5b410224cbf1d4edc95e8ddb4865.png",
     ""
+  ],
+  [
+    "268135d2b53343ff9a531b6b2c8562fa",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "Godfall Deluxe Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1605736730,
+    1605819269,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallDeluxeEdition_CounterplayGames_Editions_S2-1200x1600-7eca33a68e424e01373f9cf9be9a5828.jpg",
+    "godfall/deluxe-edition"
   ],
   [
     "2694f03c4fc74b62990cc2fd34a005ad",
@@ -17126,7 +17156,7 @@
     ],
     "Gearbox Publishing",
     1603738742,
-    1605127550,
+    1605818846,
     "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
     ""
   ],
@@ -17972,6 +18002,21 @@
     1585252760,
     "https://cdn1.epicgames.com/c0783fd957634390af33808d1a1f56dd/offer/CodeRedemption_NSR-340x440-0547af550ea2d0512d501eeb2404e226.jpg",
     ""
+  ],
+  [
+    "6945e24e8e564f229a13c056643f5f7a",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "Godfall Ascended Edition",
+    [
+      "games",
+      "games/edition",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1605736183,
+    1605819311,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_GodfallAscendedEdition_CounterplayGames_Editions_S2-1200x1600-a985b156c62b73e59dac7e287b6bf0c3.jpg",
+    "godfall/ascended-edition"
   ],
   [
     "6981d7b46a594991b7dc2b27d64dd501",
@@ -20128,12 +20173,14 @@
     "catnip",
     "Borderlands 3: Multiverse Final Form FL4K Cosmetic Pack",
     [
+      "addons",
       "games",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1597791424,
-    1605802830,
+    1605818631,
     "https://cdn1.epicgames.com/catnip/offer/blsFLk_tall-1200x1600-94d24f8db3c336fbed52a4da39bd586f.jpg",
     "borderlands-3/multiverse-final-form-fl4k-cosmetic-pack"
   ],
@@ -28755,12 +28802,11 @@
     [
       "addons",
       "games",
-      "addons/durable",
       "applications"
     ],
     "2K Games, Inc.",
     1599172573,
-    1605802831,
+    1605818899,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_DLC4_KRIEG_EPIC_PORTRAIT_1200x1600-1200x1600-a39fe34e83c26f466a9c0fd50a231904.jpg",
     "borderlands-3/psycho-krieg-and-the-fantastic-fustercluck"
   ],
@@ -32965,6 +33011,22 @@
     ""
   ],
   [
+    "c14fd5ba89fb4d85bb20c7bff542bea2",
+    "b6b2ef0cc19a4adaaa1cf6c7ed000dfa",
+    "Godfall",
+    [
+      "games",
+      "games/edition",
+      "games/edition/base",
+      "applications"
+    ],
+    "Gearbox Publishing",
+    1605735901,
+    1605819292,
+    "https://cdn1.epicgames.com/b6b2ef0cc19a4adaaa1cf6c7ed000dfa/offer/EGS_Godfall_CounterplayGames_S2-1200x1600-ebfebb142ab90bddf35934f0f2ff707e.jpg",
+    "godfall"
+  ],
+  [
     "c17e8d2bed694f37b240a7bcc80fd722",
     "affc33b82405457595a032f00284abd2",
     "Mrs. Foster",
@@ -34424,12 +34486,14 @@
     "catnip",
     "Borderlands 3: Multiverse Final Form Zane Cosmetic Pack",
     [
+      "addons",
       "games",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1597786894,
-    1605802830,
+    1605818600,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Zane_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-e8cf8dd4849e4967d78410a383b928a5.jpg",
     "borderlands-3/multiverse-final-form-zane-cosmetic-pack"
   ],
@@ -35629,12 +35693,12 @@
     [
       "addons",
       "games",
-      "addons/durable",
+      "addons/consumable",
       "applications"
     ],
     "2K Games, Inc.",
     1597787621,
-    1605802830,
+    1605818549,
     "https://cdn1.epicgames.com/catnip/offer/2KGMKT_BL3_Moze_Final_Form_Pack_EPIC_Portrait_Image_1200x1600-1200x1600-d6c9fd82c57f008d915d9b9f04d23d0a.jpg",
     "borderlands-3/multiverse-final-form-moze-cosmetic-pack"
   ],
