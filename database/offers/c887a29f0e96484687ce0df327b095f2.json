@@ -1,15 +1,15 @@
 {
   "id": "c887a29f0e96484687ce0df327b095f2",
   "namespace": "933ada2ec45e4184ae840d64c99e0ba9",
-  "title": "RCSP",
-  "description": "RCSP",
-  "longDescription": null,
+  "title": "Rogue Company - Deadly Apparition Starter Pack",
+  "description": "Gear up for your next mission with the Deadly Apparition Starter Pack.\n\nThis Pack Contains:\n- 600 Rogue Bucks\n- Deadly Apparition Phantom Outfit\n- Star-stuff Primary Weapon Wrap",
+  "longDescription": "Gear up for your next mission with the Deadly Apparition Starter Pack.\n\nThis Pack Contains:\n- 600 Rogue Bucks\n- Deadly Apparition Phantom Outfit\n- Star-stuff Primary Weapon Wrap",
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "rcsp",
+  "productSlug": "rogue-company/deadly-apparition-starter-pack",
+  "urlSlug": "rogue-company--deadly-apparition-starter-pack",
   "creationDate": "2020-10-13T02:36:53.124Z",
-  "lastModifiedDate": "2020-11-19T17:53:40.076Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-11-23T15:15:21.349Z",
+  "effectiveDate": "2020-11-23T13:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -60,18 +60,6 @@
       "comment": null
     },
     {
-      "id": "1370",
-      "name": "SINGLEPLAYER",
-      "namespace": "epic",
-      "aliases": [],
-      "operator": null,
-      "created": "2019-06-20T12:01:22.169Z",
-      "updated": "2020-09-16T23:47:27.291Z",
-      "status": "ACTIVE",
-      "referenceCount": 195,
-      "comment": null
-    },
-    {
       "id": "1210",
       "name": "SHOOTER",
       "namespace": "epic",
@@ -81,6 +69,18 @@
       "updated": "2020-09-15T15:30:56.538Z",
       "status": "ACTIVE",
       "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
       "comment": null
     },
     {
@@ -111,14 +111,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "{}"
+      "value": "KR"
     },
     {
       "key": "developerName",
       "value": "Hi-Rez Studios"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "rogue-company/deadly-apparition-starter-pack"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Feat_Carousel_Image_1920x1080-1920x1080-d89677d532be82382963bcf0825814ed.jpg",
+      "md5": "d89677d532be82382963bcf0825814ed",
+      "size": 214060,
+      "uploadedDate": "2020-11-17T23:06:49.062Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Portrait_Offer_1200x1600-1200x1600-452f36e4ecd9f4f67a563be23a1fa5b6.jpg",
+      "md5": "452f36e4ecd9f4f67a563be23a1fa5b6",
+      "size": 233831,
+      "uploadedDate": "2020-11-17T23:06:58.519Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Portrait_Offer_1200x1600-1200x1600-452f36e4ecd9f4f67a563be23a1fa5b6.jpg",
+      "md5": "452f36e4ecd9f4f67a563be23a1fa5b6",
+      "size": 233831,
+      "uploadedDate": "2020-11-17T23:07:08.627Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Portrait_Offer_1200x1600-1200x1600-452f36e4ecd9f4f67a563be23a1fa5b6.jpg",
+      "md5": "452f36e4ecd9f4f67a563be23a1fa5b6",
+      "size": 233831,
+      "uploadedDate": "2020-11-17T23:07:25.838Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Feat_Carousel_Image_1920x1080-1920x1080-d89677d532be82382963bcf0825814ed.jpg",
+      "md5": "d89677d532be82382963bcf0825814ed",
+      "size": 214060,
+      "uploadedDate": "2020-11-17T23:07:36.841Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/933ada2ec45e4184ae840d64c99e0ba9/offer/RoCo-EGS-DeadlyApparition-Portrait_Offer_1200x1600-1200x1600-452f36e4ecd9f4f67a563be23a1fa5b6.jpg",
+      "md5": "452f36e4ecd9f4f67a563be23a1fa5b6",
+      "size": 233831,
+      "uploadedDate": "2020-11-17T23:07:45.237Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "6549f6948c1a4fcaaf61156a98ef5292"

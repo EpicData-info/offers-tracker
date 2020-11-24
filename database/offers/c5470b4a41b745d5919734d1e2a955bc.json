@@ -1,0 +1,194 @@
+{
+  "id": "c5470b4a41b745d5919734d1e2a955bc",
+  "namespace": "9c7a70d78df948ddaf1b51722b16d6b8",
+  "title": "Evan's Remains",
+  "description": "Evan's Remains",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "evans-remains/home",
+  "urlSlug": "hemerageneralaudience",
+  "creationDate": "2020-10-27T13:13:18.319Z",
+  "lastModifiedDate": "2020-11-23T16:48:26.783Z",
+  "effectiveDate": "2020-11-30T17:00:00.000Z",
+  "viewableDate": "2020-11-23T17:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-v7c8xq9bmhtqhakulz7lrptnz8b628",
+    "name": "White Thorn Digital"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1296",
+      "name": "CASUAL",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:45.644Z",
+      "updated": "2020-09-01T17:36:52.266Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-09-09T02:28:11.779Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1365",
+      "name": "PUZZLE-PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:19.733Z",
+      "updated": "2019-06-20T12:01:19.733Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-09-10T14:16:13.632Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Whitethorn Games"
+    },
+    {
+      "key": "developerName",
+      "value": "Maitan69"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "evans-remains/home"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S1-2560x1440-5b32de6748b603c6bf3aca7e0f3fc714.jpg",
+      "md5": "5b32de6748b603c6bf3aca7e0f3fc714",
+      "size": 431109,
+      "uploadedDate": "2020-11-03T20:20:30.575Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S2-1200x1600-d150e7872c394bbda0879e1998e93b80.jpg",
+      "md5": "d150e7872c394bbda0879e1998e93b80",
+      "size": 221365,
+      "uploadedDate": "2020-11-03T20:20:36.483Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S1-2560x1440-5b32de6748b603c6bf3aca7e0f3fc714.jpg",
+      "md5": "5b32de6748b603c6bf3aca7e0f3fc714",
+      "size": 431109,
+      "uploadedDate": "2020-11-03T20:20:44.279Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S2-1200x1600-d150e7872c394bbda0879e1998e93b80.jpg",
+      "md5": "d150e7872c394bbda0879e1998e93b80",
+      "size": 221365,
+      "uploadedDate": "2020-11-03T20:20:50.489Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S2-1200x1600-d150e7872c394bbda0879e1998e93b80.jpg",
+      "md5": "d150e7872c394bbda0879e1998e93b80",
+      "size": 221365,
+      "uploadedDate": "2020-11-03T20:20:56.988Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9c7a70d78df948ddaf1b51722b16d6b8/offer/EGS_EvansRemains_Maitan69_S2-1200x1600-d150e7872c394bbda0879e1998e93b80.jpg",
+      "md5": "d150e7872c394bbda0879e1998e93b80",
+      "size": 221365,
+      "uploadedDate": "2020-11-03T20:21:03.030Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "e8e3efa953e4414baa0b38f6c5db2ac4"
+    }
+  ],
+  "catalogNs": null
+}

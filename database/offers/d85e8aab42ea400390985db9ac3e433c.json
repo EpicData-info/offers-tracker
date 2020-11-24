@@ -1,16 +1,16 @@
 {
-  "id": "fdc5ed966d7c45169feb7f8c2774cce4",
+  "id": "d85e8aab42ea400390985db9ac3e433c",
   "namespace": "9773aa1aa54f4f7b80e44bef04986cea",
-  "title": "Test 2",
-  "description": "Test 2",
-  "longDescription": null,
+  "title": "Rocket League® x Monstercat Legacy",
+  "description": "The hits of Rocket League x Monstercat have been reimagined for the launch of Rocket League free to play! Get the Rocket League x Monstercat Legacy soundtrack and enjoy remixed versions of classics from the history of the game!",
+  "longDescription": "TRACK LISTING\n\n1) Tokyo Machine — ROCK IT VIP\n2) Bad Computer feat. Skyelle — Silhouette (Feed Me Remix)\n3) CloudNone — From Here (ATTLAS Remix)\n4) Feint feat. MYLK — Outbreak (Fox Stevenson Remix)\n5) Dion Timmer — Shiawase VIP\n6) MUZZ — Horsepower (F.O.O.L. & TOKYO ROSE Remix)\n7) Stonebank — What Are You Waiting For VIP\n8) Infected Mushroom — Walking On The Moon (Bad Computer Remix)",
   "status": "ACTIVE",
-  "productSlug": "[]",
-  "urlSlug": "test2",
-  "creationDate": "2020-11-13T22:11:26.896Z",
-  "lastModifiedDate": "2020-11-24T17:47:11.428Z",
-  "effectiveDate": "2020-12-15T16:00:00.000Z",
-  "viewableDate": null,
+  "productSlug": "rocket-league/rocket-league-x-monstercat-legacy",
+  "urlSlug": "rocket-league-monstercat-legacy",
+  "creationDate": "2020-10-21T19:07:35.204Z",
+  "lastModifiedDate": "2020-11-20T16:56:21.912Z",
+  "effectiveDate": "2020-11-20T17:00:00.000Z",
+  "viewableDate": "2020-11-20T17:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-98larctxyhn55kqjq5xjb9wzjl9hf9",
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "digitalextras"
+    },
+    {
+      "path": "digitalextras/soundtrack"
     },
     {
       "path": "applications"
@@ -140,68 +143,68 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "rocket-league/rocket-league-x-monstercat-legacy"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_2560x1440-2560x1440-f3d512d1ec3e003e609294fd9a9721cb.jpg",
-      "md5": "f3d512d1ec3e003e609294fd9a9721cb",
-      "size": 58266,
-      "uploadedDate": "2020-11-17T18:13:08.780Z",
-      "width": 2560,
-      "height": 1440
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_S2-1200x1600-50ac4ba6cf204396d11ef487c227316a.jpg",
+      "md5": "50ac4ba6cf204396d11ef487c227316a",
+      "size": 369135,
+      "uploadedDate": "2020-10-21T19:05:26.017Z",
+      "width": 1200,
+      "height": 1600
     },
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_1200x1600-1200x1600-ca421551a86455d1231198af4b6370fa.jpg",
-      "md5": "ca421551a86455d1231198af4b6370fa",
-      "size": 30666,
-      "uploadedDate": "2020-11-17T18:13:25.762Z",
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_G1A_00-1920x1080-64c32c0edc46dcb56e3de2c0e200abe7.jpg",
+      "md5": "64c32c0edc46dcb56e3de2c0e200abe7",
+      "size": 383926,
+      "uploadedDate": "2020-10-21T19:05:30.255Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_S2-1200x1600-50ac4ba6cf204396d11ef487c227316a.jpg",
+      "md5": "50ac4ba6cf204396d11ef487c227316a",
+      "size": 369135,
+      "uploadedDate": "2020-10-21T19:05:37.632Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_S2-1200x1600-50ac4ba6cf204396d11ef487c227316a.jpg",
+      "md5": "50ac4ba6cf204396d11ef487c227316a",
+      "size": 369135,
+      "uploadedDate": "2020-10-21T19:05:44.199Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_1200x1600-1200x1600-ca421551a86455d1231198af4b6370fa.jpg",
-      "md5": "ca421551a86455d1231198af4b6370fa",
-      "size": 30666,
-      "uploadedDate": "2020-11-17T18:13:46.361Z",
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_S2-1200x1600-50ac4ba6cf204396d11ef487c227316a.jpg",
+      "md5": "50ac4ba6cf204396d11ef487c227316a",
+      "size": 369135,
+      "uploadedDate": "2020-10-21T19:06:20.948Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_2560x1440-2560x1440-f3d512d1ec3e003e609294fd9a9721cb.jpg",
-      "md5": "f3d512d1ec3e003e609294fd9a9721cb",
-      "size": 58266,
-      "uploadedDate": "2020-11-17T18:14:14.579Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_1200x1600-1200x1600-ca421551a86455d1231198af4b6370fa.jpg",
-      "md5": "ca421551a86455d1231198af4b6370fa",
-      "size": 30666,
-      "uploadedDate": "2020-11-17T18:14:24.352Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/Test_1200x1600-1200x1600-ca421551a86455d1231198af4b6370fa.jpg",
-      "md5": "ca421551a86455d1231198af4b6370fa",
-      "size": 30666,
-      "uploadedDate": "2020-11-17T18:14:39.589Z",
-      "width": 1200,
-      "height": 1600
+      "url": "https://cdn1.epicgames.com/9773aa1aa54f4f7b80e44bef04986cea/offer/EGS_RocketLeaguexMonstercatLegacy_PsyonixLLC_DigitalExtras_G1A_00-1920x1080-64c32c0edc46dcb56e3de2c0e200abe7.jpg",
+      "md5": "64c32c0edc46dcb56e3de2c0e200abe7",
+      "size": 383926,
+      "uploadedDate": "2020-10-21T19:06:28.380Z",
+      "width": 1920,
+      "height": 1080
     }
   ],
   "items": [
     {
-      "id": "2a39dea4aa504c29a139db60f55f675a"
+      "id": "dbe0f945ee094e369fa9a44a82503754"
     }
   ],
   "catalogNs": null

@@ -1,20 +1,20 @@
 {
-  "id": "40bc50e6388e42bfb12317b14b53357e",
-  "namespace": "45baf6c4e5df46f0b21593d5b2268769",
-  "title": "2500 Audience",
-  "description": "2500 Audience",
+  "id": "b4cb868fba164be68c86a2104244dc08",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "Upgrade DLC 5",
+  "description": "Upgrade DLC 5",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "reykjavikgeneralaudience-03",
-  "creationDate": "2020-11-02T14:42:44.452Z",
-  "lastModifiedDate": "2020-11-20T13:39:05.626Z",
+  "urlSlug": "upgradedlc05",
+  "creationDate": "2020-11-20T20:19:41.785Z",
+  "lastModifiedDate": "2020-11-20T20:58:10.282Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-ryelu2twnhbef3b9dncwtqh38emq5n",
-    "name": "Gaijin Distribution KFT"
+    "id": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
+    "name": "Epic Test Organization"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -28,10 +28,7 @@
       "path": "addons"
     },
     {
-      "path": "games"
-    },
-    {
-      "path": "addons/consumable"
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -42,7 +39,7 @@
   "keyImages": [],
   "items": [
     {
-      "id": "b274940f535b42b490c6550d66150f66"
+      "id": "9527c52a3ff34b9cbbe3853b4bd478df"
     }
   ],
   "catalogNs": null

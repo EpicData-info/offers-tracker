@@ -1,14 +1,14 @@
 {
   "id": "579fbc4c51a44f098bfaff5dc4a31d92",
   "namespace": "28d06644e2f84b398c1b7fb96a2b6bd5",
-  "title": "MtAlverstoneDLC",
-  "description": "MtAlverstoneDLC",
-  "longDescription": null,
+  "title": "Gods Will Fall: The Valley of the Dormant Gods",
+  "description": "\"The Valley of the Dormant Gods\" DLC Pack Includes:\n\nThree New Gods,  \nNew Weapon Classes,   \nNew Items, \nNew Skills, \nOverworld Extras,  \nWarriors' Garb",
+  "longDescription": "# You Are The Last Hope For Humanity\nThe gods’ torturous rule over humanity has lasted for millennia.  Bent on cruelty and suffering, they demand to be served with blind worship through an oath of fealty pledged from every man, woman and child. To those who don't submit to the gods’ will; a slow and merciless death awaits.\nExperience the brutal trials of a venturous band of warriors in their desperate plight to sever the gods’ callous grip on humanity. Every man and woman who can muster a blade, having suffered the brutality of the gods’ reign for too long, will be called upon to form your clan of 8 Celtic survivors and rise up to take on the legions of horrific beasts and minions that dwell in each of the gods’ hellish realms.    \nA personal tale emerges with every decision made. Succeed and see legends born. Fail, and watch lives turn to dust.\n\n# \"The Valley of the Dormant Gods\" DLC Pack Includes:\n\n# Three New Gods\nEnter and battle your way through three new infernal god realms. Each of these uncharted hellscapes, inhabited by abominable swarms of minions, will be a grueling test to your mettle.\n\n# New Weapon Classes\nPlay as two new barbarous warrior types, each with their own unique death-dealing style of combat.\n\n# New Items\nA windfall of new gear and provisions to aid your clan in battle and turn the tides of war.\n\n# New Skills\nNew methods of melee to further expand your warriors’ combat system and ensure the apt champion is chosen for the battle that lies ahead.\n\n# Overworld Extras\nAs you traverse the tranquil overworld, keep your eyes peeled and unearth the hidden secrets now spread across this serene landscape.\n\n# Warriors' Garb\nSuit up your clan in the finest battle-ready attire & headgear for extra swagger as they enter the fray.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "mtalverstonedlcgeneralaudience",
+  "urlSlug": "gods-will-fall--valley-of-the-dormant-gods",
   "creationDate": "2020-11-11T20:10:52.652Z",
-  "lastModifiedDate": "2020-11-12T19:35:06.575Z",
+  "lastModifiedDate": "2020-11-24T15:00:34.616Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -25,7 +25,10 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "games"
+      "path": "addons"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
@@ -35,18 +38,73 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Deep Silver"
     },
     {
       "key": "developerName",
-      "value": "[]"
+      "value": "Cleaver Beans"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_1920x1080_Final-1920x1080-26d4daf80d71580bffffe80415d0e447.png",
+      "md5": "26d4daf80d71580bffffe80415d0e447",
+      "size": 2610462,
+      "uploadedDate": "2020-11-20T17:26:42.710Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_1920x1080_Final-1920x1080-26d4daf80d71580bffffe80415d0e447.png",
+      "md5": "26d4daf80d71580bffffe80415d0e447",
+      "size": 2610462,
+      "uploadedDate": "2020-11-20T17:27:12.524Z",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
+      "md5": "5ad71a9c34545441b2d54a10a228fb81",
+      "size": 3882440,
+      "uploadedDate": "2020-11-20T17:27:45.165Z",
+      "width": 1524,
+      "height": 1900
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
+      "md5": "5ad71a9c34545441b2d54a10a228fb81",
+      "size": 3882440,
+      "uploadedDate": "2020-11-20T17:28:46.087Z",
+      "width": 1524,
+      "height": 1900
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
+      "md5": "5ad71a9c34545441b2d54a10a228fb81",
+      "size": 3882440,
+      "uploadedDate": "2020-11-20T17:29:11.734Z",
+      "width": 1524,
+      "height": 1900
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/28d06644e2f84b398c1b7fb96a2b6bd5/offer/GWF_VOTDG_Artwork_Portrait_Final-1524x1900-5ad71a9c34545441b2d54a10a228fb81.png",
+      "md5": "5ad71a9c34545441b2d54a10a228fb81",
+      "size": 3882440,
+      "uploadedDate": "2020-11-20T17:30:01.688Z",
+      "width": 1524,
+      "height": 1900
+    }
+  ],
   "items": [
     {
       "id": "a44c3817c9c3466d86b472476c93893c"

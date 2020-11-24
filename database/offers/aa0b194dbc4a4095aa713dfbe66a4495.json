@@ -1,0 +1,184 @@
+{
+  "id": "aa0b194dbc4a4095aa713dfbe66a4495",
+  "namespace": "f3e8024474e84fd48ed6af08eb89edd0",
+  "title": "Whispers of a Machine",
+  "description": "Whispers of a Machine",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "whispers-of-a-machine",
+  "urlSlug": "akherongeneralaudience",
+  "creationDate": "2020-11-10T19:35:49.875Z",
+  "lastModifiedDate": "2020-11-24T15:51:13.103Z",
+  "effectiveDate": "2020-11-24T13:00:00.000Z",
+  "viewableDate": "2020-11-24T13:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-fay4ghw9hhamujs53rfhy83ffexb7k",
+    "name": "Raw Fury"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1298",
+      "name": "PUZZLE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:46.616Z",
+      "updated": "2020-09-09T02:28:11.779Z",
+      "status": "ACTIVE",
+      "referenceCount": 27,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR"
+    },
+    {
+      "key": "publisherName",
+      "value": "Raw Fury"
+    },
+    {
+      "key": "developerName",
+      "value": "Clifftop Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "whispers-of-a-machine"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/EGS_WhispersofaMachine_ClifftopGames_S1-2560x1440-081771439cdf591553b940a7834bbc32.jpg",
+      "md5": "081771439cdf591553b940a7834bbc32",
+      "size": 565669,
+      "uploadedDate": "2020-11-17T15:20:06.019Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/EGS_WhispersofaMachine_ClifftopGames_S1-2560x1440-081771439cdf591553b940a7834bbc32.jpg",
+      "md5": "081771439cdf591553b940a7834bbc32",
+      "size": 565669,
+      "uploadedDate": "2020-11-17T15:20:22.127Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/4526e932-840a-4da1-a277-a072084bba61-1200x1600-c101dbe6b505a648640116a8a442c547.jfif",
+      "md5": "c101dbe6b505a648640116a8a442c547",
+      "size": 271516,
+      "uploadedDate": "2020-11-24T15:50:16.353Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/4526e932-840a-4da1-a277-a072084bba61-1200x1600-c101dbe6b505a648640116a8a442c547.jfif",
+      "md5": "c101dbe6b505a648640116a8a442c547",
+      "size": 271516,
+      "uploadedDate": "2020-11-24T15:50:28.926Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/4526e932-840a-4da1-a277-a072084bba61-1200x1600-c101dbe6b505a648640116a8a442c547.jfif",
+      "md5": "c101dbe6b505a648640116a8a442c547",
+      "size": 271516,
+      "uploadedDate": "2020-11-24T15:50:55.546Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/f3e8024474e84fd48ed6af08eb89edd0/offer/4526e932-840a-4da1-a277-a072084bba61-1200x1600-c101dbe6b505a648640116a8a442c547.jfif",
+      "md5": "c101dbe6b505a648640116a8a442c547",
+      "size": 271516,
+      "uploadedDate": "2020-11-24T15:51:05.931Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "44c19119720340f99a94102bfc5f7283"
+    }
+  ],
+  "catalogNs": null
+}

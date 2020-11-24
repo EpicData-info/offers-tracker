@@ -1,0 +1,187 @@
+{
+  "id": "b66faa49e8f7433e9a50af053582499c",
+  "namespace": "c2594740866d4be69d38fcf08ef0176d",
+  "title": "Football Manager 2021",
+  "description": "Football Manager 2021",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "football-manager-2021",
+  "urlSlug": "football-manager-03",
+  "creationDate": "2020-05-04T14:47:06.188Z",
+  "lastModifiedDate": "2020-11-23T21:47:13.527Z",
+  "effectiveDate": "2020-11-23T22:00:00.000Z",
+  "viewableDate": "2020-11-23T22:00:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-q3zwbk8kbbbgar9ql3x7d43rjj8bjl",
+    "name": "SEGA of Europe"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1283",
+      "name": "SPORTS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:39.226Z",
+      "updated": "2020-09-16T23:47:27.335Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "10719",
+      "name": "MAC OS",
+      "namespace": "epic",
+      "aliases": [
+        "OSX"
+      ],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:27.812Z",
+      "updated": "2020-09-16T23:47:27.346Z",
+      "status": "ACTIVE",
+      "referenceCount": 19,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "BR"
+    },
+    {
+      "key": "publisherName",
+      "value": "SEGA"
+    },
+    {
+      "key": "developerName",
+      "value": "Sports Interactive"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "football-manager-2021"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S1-2560x1440-21f4343c45a407dc4093b911ddc4d792.jpg",
+      "md5": "21f4343c45a407dc4093b911ddc4d792",
+      "size": 943795,
+      "uploadedDate": "2020-09-24T02:17:46.615Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:17:54.087Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S1-2560x1440-21f4343c45a407dc4093b911ddc4d792.jpg",
+      "md5": "21f4343c45a407dc4093b911ddc4d792",
+      "size": 943795,
+      "uploadedDate": "2020-09-24T02:18:02.118Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:18:08.906Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:18:18.556Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/c2594740866d4be69d38fcf08ef0176d/offer/EGS_FootballManager2021_SportsInteractive_S2-1200x1600-cec283ebf8ed01e535606201721115d5.jpg",
+      "md5": "cec283ebf8ed01e535606201721115d5",
+      "size": 681646,
+      "uploadedDate": "2020-09-24T02:18:28.143Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "2e421cd49e464c0dae8a62a0dfe12275"
+    },
+    {
+      "id": "9c15eb0a58454772a938f997f08a2b63"
+    }
+  ],
+  "catalogNs": null
+}
