@@ -1,0 +1,179 @@
+{
+  "id": "be3de140fc3749b28215da1626cce8bc",
+  "namespace": "78473822f724474d8e436f6bde735623",
+  "title": "Cave Story+",
+  "description": "Cave Story+",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "cave-story-plus",
+  "urlSlug": "laurelgeneralaudience",
+  "creationDate": "2020-06-30T00:23:04.072Z",
+  "lastModifiedDate": "2020-11-26T15:10:26.126Z",
+  "effectiveDate": "2020-12-03T16:00:00.000Z",
+  "viewableDate": "2020-11-26T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ybzxtem8hqs87ahht3w4vtf6eqd2zh",
+    "name": "Nicalis"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-10T22:54:46.508Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1151",
+      "name": "PLATFORMER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:33.743Z",
+      "updated": "2020-09-10T14:16:13.632Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Nicalis Inc."
+    },
+    {
+      "key": "developerName",
+      "value": "Nicalis Inc., Studio Pixel"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "cave-story-plus"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg",
+      "md5": "23b558de8df0be248f4a32654638ca19",
+      "size": 653310,
+      "uploadedDate": "2020-11-25T20:54:20.069Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+      "md5": "fe3f0018e131d715af61f6b2143af331",
+      "size": 439327,
+      "uploadedDate": "2020-11-25T20:54:30.690Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+      "md5": "fe3f0018e131d715af61f6b2143af331",
+      "size": 439327,
+      "uploadedDate": "2020-11-25T20:55:21.852Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+      "md5": "fe3f0018e131d715af61f6b2143af331",
+      "size": 439327,
+      "uploadedDate": "2020-11-25T20:55:32.848Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S1-2560x1440-23b558de8df0be248f4a32654638ca19.jpg",
+      "md5": "23b558de8df0be248f4a32654638ca19",
+      "size": 653310,
+      "uploadedDate": "2020-11-25T20:55:49.685Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/78473822f724474d8e436f6bde735623/offer/EGS_CaveStory_NicalisIncStudioPixel_S2-1200x1600-fe3f0018e131d715af61f6b2143af331.jpg",
+      "md5": "fe3f0018e131d715af61f6b2143af331",
+      "size": 439327,
+      "uploadedDate": "2020-11-25T20:55:59.883Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "ff20d40bde3844ceb4dcdea5e7170124"
+    }
+  ],
+  "catalogNs": null
+}
