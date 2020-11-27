@@ -50,30 +50,8 @@
       "referenceCount": 2,
       "comment": null
     },
-    {
-      "id": "1381",
-      "name": "EXPLORATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:27.799Z",
-      "updated": "2020-09-08T16:54:16.836Z",
-      "status": "ACTIVE",
-      "referenceCount": 14,
-      "comment": null
-    },
-    {
-      "id": "1367",
-      "name": "RPG",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:20.701Z",
-      "updated": "2020-09-16T19:19:59.199Z",
-      "status": "ACTIVE",
-      "referenceCount": 43,
-      "comment": null
-    },
+    null,
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -120,18 +98,6 @@
       "updated": "2020-09-10T22:54:46.508Z",
       "status": "ACTIVE",
       "referenceCount": 103,
-      "comment": null
-    },
-    {
-      "id": "1357",
-      "name": "VR ONLY",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:15.666Z",
-      "updated": "2019-06-20T12:01:15.666Z",
-      "status": "ACTIVE",
-      "referenceCount": null,
       "comment": null
     }
   ],
