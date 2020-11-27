@@ -35,18 +35,7 @@
     }
   ],
   "tags": [
-    {
-      "id": "1393",
-      "name": "SIMULATION",
-      "namespace": "epic",
-      "aliases": null,
-      "operator": null,
-      "created": "2019-06-20T12:01:33.848Z",
-      "updated": "2020-09-16T23:47:27.324Z",
-      "status": "ACTIVE",
-      "referenceCount": 20,
-      "comment": null
-    },
+    null,
     {
       "id": "1370",
       "name": "SINGLEPLAYER",
@@ -58,7 +47,9 @@
       "status": "ACTIVE",
       "referenceCount": 195,
       "comment": null
-    }
+    },
+    null,
+    null
   ],
   "customAttributes": [
     {

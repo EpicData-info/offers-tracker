@@ -50,7 +50,18 @@
       "referenceCount": 2,
       "comment": null
     },
-    null,
+    {
+      "id": "1381",
+      "name": "EXPLORATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:27.799Z",
+      "updated": "2020-09-08T16:54:16.836Z",
+      "status": "ACTIVE",
+      "referenceCount": 14,
+      "comment": null
+    },
     null,
     {
       "id": "1370",
@@ -99,7 +110,20 @@
       "status": "ACTIVE",
       "referenceCount": 103,
       "comment": null
-    }
+    },
+    {
+      "id": "1357",
+      "name": "VR ONLY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:15.666Z",
+      "updated": "2019-06-20T12:01:15.666Z",
+      "status": "ACTIVE",
+      "referenceCount": null,
+      "comment": null
+    },
+    null
   ],
   "customAttributes": [
     {
