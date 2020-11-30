@@ -5,12 +5,12 @@
   "description": "LionGeneralAudience",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "mordhau/home",
   "urlSlug": "liongeneralaudience",
   "creationDate": "2020-04-24T16:05:42.913Z",
-  "lastModifiedDate": "2020-04-24T16:09:21.160Z",
+  "lastModifiedDate": "2020-10-20T01:45:01.612Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2020-11-30T15:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-tvu5xuu383665htjt4wez2tgl45exq",
@@ -35,15 +35,15 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "publisherName",
-      "value": "[]"
+      "value": "Triternion d.o.o."
     },
     {
-      "key": "developerName",
-      "value": "[]"
+      "key": "com.epicgames.app.productSlug",
+      "value": "mordhau/home"
     }
   ],
   "keyImages": [],
