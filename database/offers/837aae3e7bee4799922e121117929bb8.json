@@ -8,7 +8,7 @@
   "productSlug": "football-manager-2021/demo",
   "urlSlug": "football-manager-2021-demo",
   "creationDate": "2020-10-30T20:56:31.604Z",
-  "lastModifiedDate": "2020-11-23T21:31:16.683Z",
+  "lastModifiedDate": "2020-11-30T18:16:12.215Z",
   "effectiveDate": "2020-11-23T22:00:00.000Z",
   "viewableDate": "2020-11-23T22:00:00.000Z",
   "developer": null,
@@ -26,6 +26,9 @@
   "categories": [
     {
       "path": "games"
+    },
+    {
+      "path": "games/edition"
     },
     {
       "path": "games/demo"
