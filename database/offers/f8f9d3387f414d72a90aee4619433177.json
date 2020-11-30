@@ -1,0 +1,56 @@
+{
+  "id": "f8f9d3387f414d72a90aee4619433177",
+  "namespace": "9c39a79dfeb84f98a4bd7c1cac1e4bb3",
+  "title": "LeoGeneralAudience",
+  "description": "LeoGeneralAudience",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "leogeneralaudience",
+  "creationDate": "2020-11-10T20:37:42.208Z",
+  "lastModifiedDate": "2020-11-30T17:46:27.518Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-4vjch4baptvp8ls84kq85l3zjdrgyn",
+    "name": "The Dairymen"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "games"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "e5ba0299d5ff4d49a77b1b54c1a64c0b"
+    }
+  ],
+  "catalogNs": null
+}
