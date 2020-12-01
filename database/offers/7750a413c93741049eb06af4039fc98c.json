@@ -1,0 +1,62 @@
+{
+  "id": "7750a413c93741049eb06af4039fc98c",
+  "namespace": "33956bcb55d4452d8c47e16b94e294bd",
+  "title": "Talons DLC 07",
+  "description": "Talons DLC 07",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "talonsdlc07",
+  "creationDate": "2020-12-01T02:43:59.622Z",
+  "lastModifiedDate": "2020-12-01T03:15:35.354Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
+    "name": "Talons"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "dd8475b63ca54472ada0a43609cc0722"
+    }
+  ],
+  "catalogNs": null
+}

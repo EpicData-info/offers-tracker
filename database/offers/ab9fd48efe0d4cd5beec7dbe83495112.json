@@ -1,0 +1,62 @@
+{
+  "id": "ab9fd48efe0d4cd5beec7dbe83495112",
+  "namespace": "33956bcb55d4452d8c47e16b94e294bd",
+  "title": "Talons DLC 05",
+  "description": "Talons DLC 05",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "talonsdlc05",
+  "creationDate": "2020-12-01T02:42:50.577Z",
+  "lastModifiedDate": "2020-12-01T03:15:35.317Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
+    "name": "Talons"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "eec9467b99b14e69be5e0b2f76b2922c"
+    }
+  ],
+  "catalogNs": null
+}

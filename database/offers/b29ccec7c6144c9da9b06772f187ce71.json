@@ -1,0 +1,62 @@
+{
+  "id": "b29ccec7c6144c9da9b06772f187ce71",
+  "namespace": "33956bcb55d4452d8c47e16b94e294bd",
+  "title": "Talons DLC 08",
+  "description": "Talons DLC 08",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "talonsdlc08",
+  "creationDate": "2020-12-01T02:44:26.999Z",
+  "lastModifiedDate": "2020-12-01T03:15:35.372Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-pngf6jdggxr2b393zxwxev9yjyym44",
+    "name": "Talons"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "addons"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "addons/durable"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "KR,CN"
+    },
+    {
+      "key": "publisherName",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "[]"
+    }
+  ],
+  "keyImages": [],
+  "items": [
+    {
+      "id": "1466a32c62364db5bb73706cabede6dc"
+    }
+  ],
+  "catalogNs": null
+}
