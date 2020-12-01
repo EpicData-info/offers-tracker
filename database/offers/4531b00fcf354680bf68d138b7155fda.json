@@ -38,7 +38,18 @@
     }
   ],
   "tags": [
-    null,
+    {
+      "id": "1299",
+      "name": "COMPETITIVE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:47.106Z",
+      "updated": "2020-09-08T12:54:55.602Z",
+      "status": "ACTIVE",
+      "referenceCount": 4,
+      "comment": null
+    },
     {
       "id": "1115",
       "name": "STRATEGY",
