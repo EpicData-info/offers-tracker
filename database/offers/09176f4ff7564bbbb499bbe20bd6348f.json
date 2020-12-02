@@ -8,7 +8,7 @@
   "productSlug": "fortnite",
   "urlSlug": "fortnite-free-audience",
   "creationDate": "2017-05-16T20:01:43.170Z",
-  "lastModifiedDate": "2020-11-03T13:59:57.166Z",
+  "lastModifiedDate": "2020-12-02T06:05:03.852Z",
   "effectiveDate": "2017-09-20T13:00:00.000Z",
   "viewableDate": "2017-09-20T13:00:00.000Z",
   "developer": null,
@@ -87,6 +87,18 @@
       "comment": null
     },
     {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
       "id": "9547",
       "name": "WINDOWS",
       "namespace": "epic",
@@ -108,6 +120,18 @@
       "updated": "2020-09-10T22:54:46.508Z",
       "status": "ACTIVE",
       "referenceCount": 103,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     },
     {
@@ -137,58 +161,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
-      "size": 1195283,
-      "uploadedDate": "2020-11-03T13:54:01.793Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
-      "md5": "051f34e4a0536fdd01ba728521b6afae",
-      "size": 2320983,
-      "uploadedDate": "2020-11-03T13:54:17.533Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
-      "size": 1195283,
-      "uploadedDate": "2020-11-03T13:54:38.482Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
-      "size": 1195283,
-      "uploadedDate": "2020-11-03T13:54:55.287Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Wide-2560x1440-051f34e4a0536fdd01ba728521b6afae.jpg",
-      "md5": "051f34e4a0536fdd01ba728521b6afae",
-      "size": 2320983,
-      "uploadedDate": "2020-11-03T13:55:21.624Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S1_2560x1440-2560x1440-0e0c8d14d7410423275fa714acfaf41e.jpg",
+      "md5": "0e0c8d14d7410423275fa714acfaf41e",
+      "size": 1030704,
+      "uploadedDate": "2020-12-02T03:52:29.673Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/fn/offer/FN_Tall-1200x1600-d31d390c22d23717659df2b807342d25.jpg",
-      "md5": "d31d390c22d23717659df2b807342d25",
-      "size": 1195283,
-      "uploadedDate": "2020-11-03T13:56:11.817Z",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+      "md5": "3e1ae198f6277d3a99e797e726a83491",
+      "size": 619448,
+      "uploadedDate": "2020-12-02T03:53:46.629Z",
       "width": 1200,
       "height": 1600
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+      "md5": "3e1ae198f6277d3a99e797e726a83491",
+      "size": 619448,
+      "uploadedDate": "2020-12-02T03:54:32.641Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+      "md5": "3e1ae198f6277d3a99e797e726a83491",
+      "size": 619448,
+      "uploadedDate": "2020-12-02T03:54:45.982Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S2_1200x1600-1200x1600-3e1ae198f6277d3a99e797e726a83491.jpg",
+      "md5": "3e1ae198f6277d3a99e797e726a83491",
+      "size": 619448,
+      "uploadedDate": "2020-12-02T03:55:02.816Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/fn/offer/15BR_BPLaunch_EGS_S1_2560x1440-2560x1440-0e0c8d14d7410423275fa714acfaf41e.jpg",
+      "md5": "0e0c8d14d7410423275fa714acfaf41e",
+      "size": 1030704,
+      "uploadedDate": "2020-12-02T03:55:20.346Z",
+      "width": 2560,
+      "height": 1440
     }
   ],
   "items": [
