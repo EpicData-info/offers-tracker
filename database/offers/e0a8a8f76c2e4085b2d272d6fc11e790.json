@@ -8,7 +8,7 @@
   "productSlug": "predator-hunting-grounds/samurai-predator-dlc-pack",
   "urlSlug": "predator-hunting-grounds--samurai-predator-dlc-pack",
   "creationDate": "2020-06-09T01:05:25.093Z",
-  "lastModifiedDate": "2020-07-31T02:48:45.442Z",
+  "lastModifiedDate": "2020-12-02T07:00:40.558Z",
   "effectiveDate": "2020-06-30T09:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -144,6 +144,18 @@
       "updated": "2020-09-10T16:00:33.411Z",
       "status": "ACTIVE",
       "referenceCount": 24,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],

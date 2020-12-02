@@ -8,7 +8,7 @@
   "productSlug": "predator-hunting-grounds/digital-deluxe-edition",
   "urlSlug": "phg-deluxe",
   "creationDate": "2019-12-04T22:32:11.733Z",
-  "lastModifiedDate": "2020-07-29T19:51:10.600Z",
+  "lastModifiedDate": "2020-12-02T07:00:40.422Z",
   "effectiveDate": "2020-04-23T23:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -93,6 +93,18 @@
       "updated": "2020-09-16T23:47:27.310Z",
       "status": "ACTIVE",
       "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1279",
+      "name": "VAMPIRE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:37.207Z",
+      "updated": "2020-09-16T19:19:59.211Z",
+      "status": "ACTIVE",
+      "referenceCount": 3,
       "comment": null
     }
   ],
