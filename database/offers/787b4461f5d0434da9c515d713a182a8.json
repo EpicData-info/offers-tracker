@@ -8,7 +8,7 @@
   "productSlug": "phoenix-point",
   "urlSlug": "iris-year-one-edition-general-audience",
   "creationDate": "2020-09-15T18:08:53.762Z",
-  "lastModifiedDate": "2020-12-03T17:46:41.416Z",
+  "lastModifiedDate": "2020-12-03T18:28:16.389Z",
   "effectiveDate": "2020-12-03T18:00:00.000Z",
   "viewableDate": "2020-12-03T17:55:00.000Z",
   "developer": null,
@@ -101,7 +101,62 @@
       "value": "phoenix-point"
     }
   ],
-  "keyImages": [],
+  "keyImages": [
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S2-1200x1600-57e9b0d179f742732482419746c3f015.jpg",
+      "md5": "57e9b0d179f742732482419746c3f015",
+      "size": 401575,
+      "uploadedDate": "2020-12-03T18:22:42.447Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S1-2560x1440-cb050a11d07296cfc33becde96502a78.jpg",
+      "md5": "cb050a11d07296cfc33becde96502a78",
+      "size": 608766,
+      "uploadedDate": "2020-12-03T18:22:53.111Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S2-1200x1600-57e9b0d179f742732482419746c3f015.jpg",
+      "md5": "57e9b0d179f742732482419746c3f015",
+      "size": 401575,
+      "uploadedDate": "2020-12-03T18:23:04.519Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S2-1200x1600-57e9b0d179f742732482419746c3f015.jpg",
+      "md5": "57e9b0d179f742732482419746c3f015",
+      "size": 401575,
+      "uploadedDate": "2020-12-03T18:23:17.385Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S1-2560x1440-cb050a11d07296cfc33becde96502a78.jpg",
+      "md5": "cb050a11d07296cfc33becde96502a78",
+      "size": 608766,
+      "uploadedDate": "2020-12-03T18:23:31.734Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/iris/offer/EGS_PhoenixPointYearOneEdition_SnapshotGames_Editions_S2-1200x1600-57e9b0d179f742732482419746c3f015.jpg",
+      "md5": "57e9b0d179f742732482419746c3f015",
+      "size": 401575,
+      "uploadedDate": "2020-12-03T18:23:44.939Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
   "items": [
     {
       "id": "c317921a68654b9d88227db58d089aa1"
