@@ -8,7 +8,7 @@
   "productSlug": "pillars-of-eternity",
   "urlSlug": "pillars-of-eternity",
   "creationDate": "2020-09-01T18:40:14.403Z",
-  "lastModifiedDate": "2020-12-03T15:22:02.536Z",
+  "lastModifiedDate": "2020-12-03T16:28:15.753Z",
   "effectiveDate": "2020-12-10T16:00:00.000Z",
   "viewableDate": "2020-12-03T15:25:00.000Z",
   "developer": null,
@@ -32,6 +32,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
