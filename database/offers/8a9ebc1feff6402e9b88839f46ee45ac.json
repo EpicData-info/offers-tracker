@@ -1,0 +1,158 @@
+{
+  "id": "8a9ebc1feff6402e9b88839f46ee45ac",
+  "namespace": "2462202651534bf7b4b4e0ea960be8ac",
+  "title": "Tyranny - Gold Edition",
+  "description": "Tyranny - Gold Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "tyranny",
+  "urlSlug": "tyranny",
+  "creationDate": "2020-09-01T18:39:16.901Z",
+  "lastModifiedDate": "2020-12-03T15:21:41.123Z",
+  "effectiveDate": "2020-12-10T16:00:00.000Z",
+  "viewableDate": "2020-12-03T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-16T19:19:59.199Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "tyranny"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S1-2560x1440-4dcdd4c3b9a8d4bbe4074b78263cc506.jpg",
+      "md5": "4dcdd4c3b9a8d4bbe4074b78263cc506",
+      "size": 994538,
+      "uploadedDate": "2020-12-02T23:30:41.697Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S6-1200x1600-56ee9bea14a929378a232a024cc1bf79.jpg",
+      "md5": "56ee9bea14a929378a232a024cc1bf79",
+      "size": 973434,
+      "uploadedDate": "2020-12-02T23:30:47.141Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S6-1200x1600-56ee9bea14a929378a232a024cc1bf79.jpg",
+      "md5": "56ee9bea14a929378a232a024cc1bf79",
+      "size": 973434,
+      "uploadedDate": "2020-12-02T23:30:53.662Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S6-1200x1600-56ee9bea14a929378a232a024cc1bf79.jpg",
+      "md5": "56ee9bea14a929378a232a024cc1bf79",
+      "size": 973434,
+      "uploadedDate": "2020-12-02T23:31:02.758Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S1-2560x1440-4dcdd4c3b9a8d4bbe4074b78263cc506.jpg",
+      "md5": "4dcdd4c3b9a8d4bbe4074b78263cc506",
+      "size": 994538,
+      "uploadedDate": "2020-12-02T23:31:08.521Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/2462202651534bf7b4b4e0ea960be8ac/offer/EGS_TyrannyGoldEdition_ObsidianEntertainment_S6-1200x1600-56ee9bea14a929378a232a024cc1bf79.jpg",
+      "md5": "56ee9bea14a929378a232a024cc1bf79",
+      "size": 973434,
+      "uploadedDate": "2020-12-02T23:31:13.956Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "46ee1c6b64294266bb7c2e6641755076"
+    }
+  ],
+  "catalogNs": null
+}

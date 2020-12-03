@@ -1,0 +1,158 @@
+{
+  "id": "6238fdbc5a0143ccbc8448a8009bcef5",
+  "namespace": "25e53de2e4ab4da8aa589d881273a11c",
+  "title": "Pillars of Eternity - Definitive Edition",
+  "description": "Pillars of Eternity - Definitive Edition",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "pillars-of-eternity",
+  "urlSlug": "pillars-of-eternity",
+  "creationDate": "2020-09-01T18:40:14.403Z",
+  "lastModifiedDate": "2020-12-03T15:22:02.536Z",
+  "effectiveDate": "2020-12-10T16:00:00.000Z",
+  "viewableDate": "2020-12-03T15:25:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-tjvfg6rejs6h86qa7k9aa64rrgbxxb",
+    "name": "Paradox Interactive"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "freegames"
+    },
+    {
+      "path": "games"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1287",
+      "name": "FANTASY",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:41.164Z",
+      "updated": "2020-09-09T11:26:33.532Z",
+      "status": "ACTIVE",
+      "referenceCount": 1,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-16T19:19:59.199Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "publisherName",
+      "value": "Paradox Interactive"
+    },
+    {
+      "key": "developerName",
+      "value": "Obsidian Entertainment"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "pillars-of-eternity"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S1-2560x1440-63837edb7f15450723236aeb4bb1e7cf.jpg",
+      "md5": "63837edb7f15450723236aeb4bb1e7cf",
+      "size": 983458,
+      "uploadedDate": "2020-12-02T23:25:06.061Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+      "md5": "2f4f12cb53246a87a6798826c9c5544f",
+      "size": 985693,
+      "uploadedDate": "2020-12-02T23:25:13.610Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+      "md5": "2f4f12cb53246a87a6798826c9c5544f",
+      "size": 985693,
+      "uploadedDate": "2020-12-02T23:25:24.258Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+      "md5": "2f4f12cb53246a87a6798826c9c5544f",
+      "size": 985693,
+      "uploadedDate": "2020-12-02T23:25:36.001Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S1-2560x1440-63837edb7f15450723236aeb4bb1e7cf.jpg",
+      "md5": "63837edb7f15450723236aeb4bb1e7cf",
+      "size": 983458,
+      "uploadedDate": "2020-12-02T23:25:45.489Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/25e53de2e4ab4da8aa589d881273a11c/offer/EGS_PillarsofEternityDefinitiveEdition_ObsidianEntertainment_S6-1200x1600-2f4f12cb53246a87a6798826c9c5544f.jpg",
+      "md5": "2f4f12cb53246a87a6798826c9c5544f",
+      "size": 985693,
+      "uploadedDate": "2020-12-02T23:25:52.356Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "4397c5e104854b0fa2b5ad22d71be7e1"
+    }
+  ],
+  "catalogNs": null
+}
