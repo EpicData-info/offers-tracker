@@ -1,16 +1,16 @@
 {
   "id": "5af77661d3264dfabf97f9e42ce12ced",
   "namespace": "cosmos",
-  "title": "RUNE II - God Slayer Upgrade Pack",
-  "description": "Upgrades your existing RUNE II edition to God Slayer. Includes the God Slayer Armor, Ship of the Valkyrie, Sigurd's Axe, and all other Berserker Rage bonuses.",
-  "longDescription": "# REQUIRES RUNE II BASE GAME TO PURCHASE\n\n# GOD SLAYER ARMOR SET\n\n_Legendary Head and Chest Piece_\n\nWear the Head and Chest Piece adorned by only the fiercest of Midgard’s warriors. Rumored to be of divine origin and imbued with runic properties, this legendary armor set will aid you in your fight to take down Loki and save Midgard!\n\n# SIGURD’S AXE\n\n_The Heroic Dragonslayer’s Axe_\n\nA mighty viking needs a powerful axe, and none were more powerful than Sigurd. Previously used by one of Midgard’s greatest warriors, this legendary axe is ready to help you in your epic adventure. Are you strong enough to wield it?\n\n# SHIP OF THE VALKYRIE\n\n_Set sail in style_\n\nRafts are useful for sailing the seas of Jotunheim, but they pale in comparison to a Viking Longship. Make a statement with the Ship of the Valkyrie, a mythical longship capable of withstanding the greatest seas in all the realms.\n\n# PLUS ALL PREVIOUS BONUSES\n\n_Bonus content from the RUNE II Berserker Rage edition_\n\nYou own it all. The Berserker armor set, the Berserker Hammer, the Warrior armor set, the Warrior’s blade, the RUNE II Digital Soundtrack, the RUNE II Digital world map, and more!",
+  "title": "RUNE II: Decapitation Edition - Wolf Gear Set",
+  "description": "RUNE II: Decapitation Edition - Wolf Gear and Weapons set. Don a Wolf Hood as you wield a mighty Iron Wolf Shield and Mace, showing your enemies that you are not a Viking to be trifled with.",
+  "longDescription": "# The Wolf Armor + Weapon Set is available as an in-game recipe.  \n\nFenrir was a monstrous beast born of the trickster god Loki and a giantess named Angrboða, who caused terror throughout Midgard. It was foretold that he would be the cause of Odin’s demise during Ragnarok, but that prophecy did not come to be. Fenrir was smited by Odin’s son Víðarr before he had the chance to swallow Odin whole. \n\nIn honor of Víðarr’s valiant act, weapons and gear were forged by the blacksmith’s of Midgard and are bestowed upon the most worthy of warriors. Don a Wolf Hood as you wield a mighty Iron Wolf Shield and Mace, showing your enemies that you are not a Viking to be trifled with.",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "rune-2--god-slayer-upgrade-pack",
+  "urlSlug": "rune-2--wolf-gear-set",
   "creationDate": "2020-06-12T15:19:45.775Z",
-  "lastModifiedDate": "2020-11-13T13:58:59.237Z",
-  "effectiveDate": "2020-11-13T18:00:00.000Z",
-  "viewableDate": "2020-11-13T17:55:00.000Z",
+  "lastModifiedDate": "2020-12-03T18:14:07.213Z",
+  "effectiveDate": "2020-12-03T18:00:00.000Z",
+  "viewableDate": "2020-12-03T17:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-peysvmw9hg6a5s86ehl8a5dbz8fddp",
@@ -29,6 +29,9 @@
     },
     {
       "path": "addons/durable"
+    },
+    {
+      "path": "games"
     },
     {
       "path": "applications"
@@ -137,62 +140,62 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S1-2560x1440-d2bfa50fac5435cd266b3eb5dd902e00.jpg",
-      "md5": "d2bfa50fac5435cd266b3eb5dd902e00",
-      "size": 828694,
-      "uploadedDate": "2020-11-12T15:09:56.328Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/wide-2560x1440-726cdbc825f1e6c245058862aab0b311.jpg",
+      "md5": "726cdbc825f1e6c245058862aab0b311",
+      "size": 803572,
+      "uploadedDate": "2020-12-01T11:59:02.595Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S2-1200x1600-aff567ad0800e576a9fea787fcfc0653.jpg",
-      "md5": "aff567ad0800e576a9fea787fcfc0653",
-      "size": 902013,
-      "uploadedDate": "2020-11-12T15:10:06.200Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/tall-1200x1600-7b13906fa40ffe80f6870606bad7c9ee.jpg",
+      "md5": "7b13906fa40ffe80f6870606bad7c9ee",
+      "size": 513595,
+      "uploadedDate": "2020-12-01T11:59:09.620Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S1-2560x1440-d2bfa50fac5435cd266b3eb5dd902e00.jpg",
-      "md5": "d2bfa50fac5435cd266b3eb5dd902e00",
-      "size": 828694,
-      "uploadedDate": "2020-11-12T15:10:15.063Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/wide-2560x1440-726cdbc825f1e6c245058862aab0b311.jpg",
+      "md5": "726cdbc825f1e6c245058862aab0b311",
+      "size": 803572,
+      "uploadedDate": "2020-12-01T11:59:17.256Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S2-1200x1600-aff567ad0800e576a9fea787fcfc0653.jpg",
-      "md5": "aff567ad0800e576a9fea787fcfc0653",
-      "size": 902013,
-      "uploadedDate": "2020-11-12T15:10:41.509Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/tall-1200x1600-7b13906fa40ffe80f6870606bad7c9ee.jpg",
+      "md5": "7b13906fa40ffe80f6870606bad7c9ee",
+      "size": 513595,
+      "uploadedDate": "2020-12-01T11:59:24.762Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S2-1200x1600-aff567ad0800e576a9fea787fcfc0653.jpg",
-      "md5": "aff567ad0800e576a9fea787fcfc0653",
-      "size": 902013,
-      "uploadedDate": "2020-11-12T15:10:49.519Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/tall-1200x1600-7b13906fa40ffe80f6870606bad7c9ee.jpg",
+      "md5": "7b13906fa40ffe80f6870606bad7c9ee",
+      "size": 513595,
+      "uploadedDate": "2020-12-01T11:59:31.998Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/cosmos/offer/EGS_RUNEIIGodSlayerUpgradePack_Studio369_Packs_S2-1200x1600-aff567ad0800e576a9fea787fcfc0653.jpg",
-      "md5": "aff567ad0800e576a9fea787fcfc0653",
-      "size": 902013,
-      "uploadedDate": "2020-11-12T15:10:57.130Z",
+      "url": "https://cdn1.epicgames.com/cosmos/offer/tall-1200x1600-7b13906fa40ffe80f6870606bad7c9ee.jpg",
+      "md5": "7b13906fa40ffe80f6870606bad7c9ee",
+      "size": 513595,
+      "uploadedDate": "2020-12-01T11:59:39.850Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "adad0cc1611c4e32b10f33f8628d7e1c"
+      "id": "7abc31213fe543998f5d2032c9af1928"
     }
   ],
   "catalogNs": null
