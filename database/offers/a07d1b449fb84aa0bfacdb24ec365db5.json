@@ -5,10 +5,10 @@
   "description": "Phoenix Point",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "phoenix-point",
+  "productSlug": "[]",
   "urlSlug": "phoenix-point",
   "creationDate": "2019-08-30T14:48:59.755Z",
-  "lastModifiedDate": "2020-12-02T17:55:06.015Z",
+  "lastModifiedDate": "2020-12-03T17:46:41.205Z",
   "effectiveDate": "2019-12-02T18:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -26,12 +26,6 @@
   "categories": [
     {
       "path": "games"
-    },
-    {
-      "path": "games/edition"
-    },
-    {
-      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -98,7 +92,7 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "phoenix-point"
+      "value": "[]"
     }
   ],
   "keyImages": [

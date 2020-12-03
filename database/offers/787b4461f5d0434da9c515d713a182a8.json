@@ -1,16 +1,16 @@
 {
   "id": "787b4461f5d0434da9c515d713a182a8",
   "namespace": "iris",
-  "title": "IrisYearOneEditionGeneralAudience",
-  "description": "IrisYearOneEditionGeneralAudience",
+  "title": "Phoenix Point Year One Edition",
+  "description": "Phoenix Point Year One Edition",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": "[]",
+  "productSlug": "phoenix-point",
   "urlSlug": "iris-year-one-edition-general-audience",
   "creationDate": "2020-09-15T18:08:53.762Z",
-  "lastModifiedDate": "2020-11-05T17:59:54.026Z",
+  "lastModifiedDate": "2020-12-03T17:46:41.416Z",
   "effectiveDate": "2020-12-03T18:00:00.000Z",
-  "viewableDate": "2020-11-05T18:00:00.000Z",
+  "viewableDate": "2020-12-03T17:55:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-dc63tr2khr4scc36nj3htbpmh3gda6",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -95,13 +98,25 @@
     },
     {
       "key": "com.epicgames.app.productSlug",
-      "value": "[]"
+      "value": "phoenix-point"
     }
   ],
   "keyImages": [],
   "items": [
     {
+      "id": "c317921a68654b9d88227db58d089aa1"
+    },
+    {
+      "id": "4a044e0a11704cd2bbc5c7b17530c49b"
+    },
+    {
+      "id": "d975e31b7442474cb97b78fd6b1d2be0"
+    },
+    {
       "id": "fc9924be823744bba6c65bfa1b4b9d19"
+    },
+    {
+      "id": "2d2fec5947924cdebdee37a73fe1c45f"
     }
   ],
   "catalogNs": null
