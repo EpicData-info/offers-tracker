@@ -1,0 +1,184 @@
+{
+  "id": "b164a6b5b5d14b95aa212db202f26852",
+  "namespace": "6fe830287e1244829c9bcdb4cef9fad5",
+  "title": "Post Scriptum SDK",
+  "description": "Post Scriptum SDK",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": "post-scriptum",
+  "urlSlug": "post-scriptum",
+  "creationDate": "2020-10-08T23:59:23.079Z",
+  "lastModifiedDate": "2020-12-03T16:01:16.186Z",
+  "effectiveDate": "2020-12-03T16:00:00.000Z",
+  "viewableDate": "2020-12-03T15:59:00.000Z",
+  "developer": null,
+  "seller": {
+    "id": "o-ff2s24rywqcchllq89bl4uy957altp",
+    "name": "Offworld Industries"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "editors"
+    },
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [
+    {
+      "id": "1393",
+      "name": "SIMULATION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:33.848Z",
+      "updated": "2020-09-16T23:47:27.324Z",
+      "status": "ACTIVE",
+      "referenceCount": 20,
+      "comment": null
+    },
+    {
+      "id": "1203",
+      "name": "MULTIPLAYER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:59.171Z",
+      "updated": "2020-09-16T23:47:27.269Z",
+      "status": "ACTIVE",
+      "referenceCount": 46,
+      "comment": null
+    },
+    {
+      "id": "9559",
+      "name": "EDITORS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T21:11:57.763Z",
+      "updated": "2020-09-08T12:04:40.805Z",
+      "status": "ACTIVE",
+      "referenceCount": 18,
+      "comment": null
+    },
+    {
+      "id": "1210",
+      "name": "SHOOTER",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:02.690Z",
+      "updated": "2020-09-15T15:30:56.538Z",
+      "status": "ACTIVE",
+      "referenceCount": 28,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    }
+  ],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "[]"
+    },
+    {
+      "key": "developerName",
+      "value": "Periscope Games"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "post-scriptum"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s1-2560x1440-2560x1440-dfcda8bcb16cb7bae0287782c08dc37d.jpg",
+      "md5": "dfcda8bcb16cb7bae0287782c08dc37d",
+      "size": 312822,
+      "uploadedDate": "2020-11-20T23:49:47.396Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
+      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
+      "size": 180700,
+      "uploadedDate": "2020-11-20T23:49:51.556Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s1-2560x1440-2560x1440-dfcda8bcb16cb7bae0287782c08dc37d.jpg",
+      "md5": "dfcda8bcb16cb7bae0287782c08dc37d",
+      "size": 312822,
+      "uploadedDate": "2020-11-20T23:50:03.709Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
+      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
+      "size": 180700,
+      "uploadedDate": "2020-11-20T23:50:10.191Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
+      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
+      "size": 180700,
+      "uploadedDate": "2020-11-20T23:50:21.598Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/6fe830287e1244829c9bcdb4cef9fad5/offer/egs-postscriptumisafirstpersonsimulationshooter-periscopegames-s2-1200x1600-1200x1600-52dbfa5b28b9badd7b767dc2677cebd8.jpg",
+      "md5": "52dbfa5b28b9badd7b767dc2677cebd8",
+      "size": 180700,
+      "uploadedDate": "2020-11-20T23:50:25.439Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "47b723ec923144a8800724d5109fbc38"
+    }
+  ],
+  "catalogNs": null
+}

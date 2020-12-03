@@ -1,15 +1,15 @@
 {
   "id": "acd678de481f467a8f7a9f393e87d374",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "Pheasant Season Pass",
-  "description": "Pheasant Season Pass",
+  "title": "Immortals Fenyx Rising Season Pass",
+  "description": "Immortals Fenyx Rising Season Pass",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "immortals-fenyx-rising/season-pass",
   "urlSlug": "pheasantseasonpassaudience",
   "creationDate": "2019-06-08T17:55:48.186Z",
-  "lastModifiedDate": "2019-08-16T23:24:14.143Z",
-  "effectiveDate": "2050-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-12-03T15:45:50.810Z",
+  "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -32,8 +32,36 @@
     }
   ],
   "tags": [],
-  "customAttributes": [],
-  "keyImages": [],
+  "customAttributes": [
+    {
+      "key": "com.epicgames.app.blacklist",
+      "value": "CN"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "immortals-fenyx-rising/season-pass"
+    }
+  ],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_SEASON PASS_EPIC_Store Landscape_2560x1440_EN-2560x1440-f269d2ef6462e312f17c70e1eedf3bc6.png",
+      "md5": "f269d2ef6462e312f17c70e1eedf3bc6",
+      "size": 797686,
+      "uploadedDate": "2020-12-03T15:39:56.506Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/4b35838425c74992ad42e1276b2161ca/offer/Immortals_SEASON PASS_EPIC_Store Landscape_2560x1440_EN-2560x1440-f269d2ef6462e312f17c70e1eedf3bc6.png",
+      "md5": "f269d2ef6462e312f17c70e1eedf3bc6",
+      "size": 797686,
+      "uploadedDate": "2020-12-03T15:40:23.689Z",
+      "width": 2560,
+      "height": 1440
+    }
+  ],
   "items": [
     {
       "id": "b2aaf50259434c8c9e5aaf8a00354414"

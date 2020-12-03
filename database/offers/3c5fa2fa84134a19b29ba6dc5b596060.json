@@ -1,15 +1,15 @@
 {
-  "id": "a69036e75e5445db980d07a2cf7a2e5c",
+  "id": "3c5fa2fa84134a19b29ba6dc5b596060",
   "namespace": "4b35838425c74992ad42e1276b2161ca",
-  "title": "PheasantDevAudience",
-  "description": "PheasantDevAudience",
+  "title": "Ultimate Hero's Pack",
+  "description": "Ultimate Hero's Pack",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "pheasantdevaudience",
-  "creationDate": "2019-06-08T17:13:02.718Z",
-  "lastModifiedDate": "2020-12-03T15:45:50.786Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "productSlug": "immortals-fenyx-rising/ultimate-heroes-pack",
+  "urlSlug": "pheasantultimatepackaudience",
+  "creationDate": "2020-11-19T18:58:28.981Z",
+  "lastModifiedDate": "2020-12-03T15:45:50.823Z",
+  "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -18,7 +18,7 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
@@ -38,14 +38,17 @@
       "value": "CN"
     },
     {
-      "key": "developerName",
-      "value": "Ubisoft"
+      "key": "com.epicgames.app.productSlug",
+      "value": "immortals-fenyx-rising/ultimate-heroes-pack"
     }
   ],
   "keyImages": [],
   "items": [
     {
-      "id": "e8921a38461e4fc59670d8181f1bd59e"
+      "id": "8c267a50f4ad4aacb6706d94e5d572b9"
+    },
+    {
+      "id": "a77d537b988b47659a69499a21347e89"
     }
   ],
   "catalogNs": null

@@ -1,14 +1,14 @@
 {
-  "id": "37f43f939ce040e0bbb672b9eab62bab",
+  "id": "95afe0e3f3dc43e4b9ebab9c6fc8d276",
   "namespace": "2b352b4aea3849bd9519842dda263ac7",
-  "title": "CRSED: F.O.A.D. - Metal Zombie Pack",
-  "description": "This pack includes:\n\n• Louis \"Bokor\" Celine hero unlock;\n• Metal zombie suit;\n• Voodoo staff;\n• 700 Golden Crowns;\n\nRule the dead!",
-  "longDescription": "This pack includes:\n\n• Louis \"Bokor\" Celine hero unlock;\n• Metal zombie suit;\n• Voodoo staff;\n• 700 Golden Crowns;\n\nRule the dead!",
+  "title": "CRSED: F.O.A.D.",
+  "description": "CRSED: F.O.A.D.",
+  "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
-  "urlSlug": "crsed-f-o-a-d--metal-zombie-pack",
-  "creationDate": "2020-12-01T13:58:26.216Z",
-  "lastModifiedDate": "2020-12-03T15:20:50.680Z",
+  "productSlug": "crsed-f-o-a-d/home",
+  "urlSlug": "athensgeneralaudience",
+  "creationDate": "2020-06-12T17:18:35.272Z",
+  "lastModifiedDate": "2020-12-03T15:20:50.570Z",
   "effectiveDate": "2020-12-03T16:00:00.000Z",
   "viewableDate": "2020-12-03T15:55:00.000Z",
   "developer": null,
@@ -25,13 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
-      "path": "addons"
-    },
-    {
       "path": "games"
     },
     {
-      "path": "addons/durable"
+      "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
@@ -123,67 +123,71 @@
     {
       "key": "developerName",
       "value": "Darkflow Software"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "crsed-f-o-a-d/home"
     }
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S1-2560x1440-bcc8ac8ce4100cfac4c39b92a59a9e43.jpg",
-      "md5": "bcc8ac8ce4100cfac4c39b92a59a9e43",
-      "size": 561885,
-      "uploadedDate": "2020-12-01T13:57:39.803Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S2-1200x1600-02e3142b2622292405ad02959af2729f.jpg",
-      "md5": "02e3142b2622292405ad02959af2729f",
-      "size": 373433,
-      "uploadedDate": "2020-12-01T13:57:47.086Z",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
+      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "size": 175738,
+      "uploadedDate": "2020-12-01T13:24:05.874Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S1-2560x1440-befb4f8c87640dd7aca6d234b4a4ab85.jpg",
+      "md5": "befb4f8c87640dd7aca6d234b4a4ab85",
+      "size": 254993,
+      "uploadedDate": "2020-12-01T13:24:16.331Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S1-2560x1440-bcc8ac8ce4100cfac4c39b92a59a9e43.jpg",
-      "md5": "bcc8ac8ce4100cfac4c39b92a59a9e43",
-      "size": 561885,
-      "uploadedDate": "2020-12-01T13:57:53.760Z",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S1-2560x1440-befb4f8c87640dd7aca6d234b4a4ab85.jpg",
+      "md5": "befb4f8c87640dd7aca6d234b4a4ab85",
+      "size": 254993,
+      "uploadedDate": "2020-12-01T13:24:24.731Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S2-1200x1600-02e3142b2622292405ad02959af2729f.jpg",
-      "md5": "02e3142b2622292405ad02959af2729f",
-      "size": 373433,
-      "uploadedDate": "2020-12-01T13:58:00.521Z",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
+      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "size": 175738,
+      "uploadedDate": "2020-12-01T13:24:31.843Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S2-1200x1600-02e3142b2622292405ad02959af2729f.jpg",
-      "md5": "02e3142b2622292405ad02959af2729f",
-      "size": 373433,
-      "uploadedDate": "2020-12-01T13:58:07.444Z",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
+      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "size": 175738,
+      "uploadedDate": "2020-12-01T13:24:40.026Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOADMetalZombiePack_DarkflowSoftware_DLC_S2-1200x1600-02e3142b2622292405ad02959af2729f.jpg",
-      "md5": "02e3142b2622292405ad02959af2729f",
-      "size": 373433,
-      "uploadedDate": "2020-12-01T13:58:14.314Z",
+      "url": "https://cdn1.epicgames.com/2b352b4aea3849bd9519842dda263ac7/offer/EGS_CRSEDFOAD_DarkflowSoftware_S2-1200x1600-8fbde140981a068d2037bbbb2fc4388b.jpg",
+      "md5": "8fbde140981a068d2037bbbb2fc4388b",
+      "size": 175738,
+      "uploadedDate": "2020-12-01T13:24:47.073Z",
       "width": 1200,
       "height": 1600
     }
   ],
   "items": [
     {
-      "id": "12bcdfb70262446a9127eeb9b3fc03b7"
+      "id": "f0dd0b251f7f4a8cba47c21728f77a08"
     }
   ],
   "catalogNs": null
