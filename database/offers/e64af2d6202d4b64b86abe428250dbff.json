@@ -8,7 +8,7 @@
   "productSlug": "dauntless/home",
   "urlSlug": "jackalgeneralaudience",
   "creationDate": "2019-01-28T20:47:51.249Z",
-  "lastModifiedDate": "2020-09-17T16:58:56.607Z",
+  "lastModifiedDate": "2020-12-03T19:02:04.790Z",
   "effectiveDate": "2019-04-30T16:00:00.000Z",
   "viewableDate": "2019-01-30T13:20:00.000Z",
   "developer": null,
@@ -115,58 +115,58 @@
   ],
   "keyImages": [
     {
-      "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
-      "md5": "5eafbc727fe4728c9cb742b03abc6043",
-      "size": 664943,
-      "uploadedDate": "2020-09-15T18:33:47.443Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:34:40.226Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-81f311d2bd9d4b645f8d5440ae96834b.jpg",
+      "md5": "81f311d2bd9d4b645f8d5440ae96834b",
+      "size": 403006,
+      "uploadedDate": "2020-12-03T18:59:53.482Z",
       "width": 1200,
       "height": 1600
     },
     {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-c5b38fdc062b6910db1e4c30eb371d27.jpg",
+      "md5": "c5b38fdc062b6910db1e4c30eb371d27",
+      "size": 784930,
+      "uploadedDate": "2020-12-03T19:00:02.130Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:34:49.538Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-81f311d2bd9d4b645f8d5440ae96834b.jpg",
+      "md5": "81f311d2bd9d4b645f8d5440ae96834b",
+      "size": 403006,
+      "uploadedDate": "2020-12-03T19:00:49.900Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:35:01.870Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-81f311d2bd9d4b645f8d5440ae96834b.jpg",
+      "md5": "81f311d2bd9d4b645f8d5440ae96834b",
+      "size": 403006,
+      "uploadedDate": "2020-12-03T19:01:22.714Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-81f311d2bd9d4b645f8d5440ae96834b.jpg",
+      "md5": "81f311d2bd9d4b645f8d5440ae96834b",
+      "size": 403006,
+      "uploadedDate": "2020-12-03T19:01:47.183Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-5eafbc727fe4728c9cb742b03abc6043.jpg",
-      "md5": "5eafbc727fe4728c9cb742b03abc6043",
-      "size": 664943,
-      "uploadedDate": "2020-09-15T18:35:20.203Z",
+      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S1-2560x1440-c5b38fdc062b6910db1e4c30eb371d27.jpg",
+      "md5": "c5b38fdc062b6910db1e4c30eb371d27",
+      "size": 784930,
+      "uploadedDate": "2020-12-03T19:01:54.386Z",
       "width": 2560,
       "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/jackal/offer/EGS_LIVEFORTHEHUNT_PhoenixLabs_S2-1200x1600-ccc3d7de46f53b47a0574274ecd30a34.jpg",
-      "md5": "ccc3d7de46f53b47a0574274ecd30a34",
-      "size": 431629,
-      "uploadedDate": "2020-09-15T18:35:28.902Z",
-      "width": 1200,
-      "height": 1600
     }
   ],
   "items": [
