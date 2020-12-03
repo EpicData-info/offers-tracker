@@ -8,9 +8,9 @@
   "productSlug": "startup-panic",
   "urlSlug": "blackpollgeneralaudience",
   "creationDate": "2019-09-12T18:24:06.767Z",
-  "lastModifiedDate": "2020-10-07T21:36:15.917Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2020-09-10T16:00:00.000Z",
+  "lastModifiedDate": "2020-12-03T13:04:27.168Z",
+  "effectiveDate": "2020-12-03T13:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-t682p59y2u8tr9bxcm6cmw9w7mmz5t",
@@ -29,6 +29,9 @@
     },
     {
       "path": "games/edition"
+    },
+    {
+      "path": "games/edition/base"
     },
     {
       "path": "applications"
