@@ -8,7 +8,7 @@
   "productSlug": "surviving-the-aftermath/home",
   "urlSlug": "muscovygeneralaudience",
   "creationDate": "2019-09-03T15:22:15.375Z",
-  "lastModifiedDate": "2020-10-22T15:04:22.702Z",
+  "lastModifiedDate": "2020-12-03T14:23:29.327Z",
   "effectiveDate": "2019-10-18T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
@@ -97,6 +97,18 @@
       "status": "ACTIVE",
       "referenceCount": 259,
       "comment": null
+    },
+    {
+      "id": "1310",
+      "name": "EARLY ACCESS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:52.671Z",
+      "updated": "2020-09-10T15:44:03.705Z",
+      "status": "ACTIVE",
+      "referenceCount": 0,
+      "comment": null
     }
   ],
   "customAttributes": [
@@ -120,55 +132,55 @@
   "keyImages": [
     {
       "type": "OfferImageWide",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-32006242217caeb75557e66cd9e2c180.jpg",
-      "md5": "32006242217caeb75557e66cd9e2c180",
-      "size": 989318,
-      "uploadedDate": "2020-10-20T15:23:07.339Z",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-2ca3c43c2ebc127f1513c7b3e1e6faaf.jpg",
+      "md5": "2ca3c43c2ebc127f1513c7b3e1e6faaf",
+      "size": 998519,
+      "uploadedDate": "2020-11-30T18:49:48.826Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-2ca3c43c2ebc127f1513c7b3e1e6faaf.jpg",
+      "md5": "2ca3c43c2ebc127f1513c7b3e1e6faaf",
+      "size": 998519,
+      "uploadedDate": "2020-11-30T18:51:55.904Z",
       "width": 2560,
       "height": 1440
     },
     {
       "type": "OfferImageTall",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-8fba6e1caacc4e22b91c6201e49c6848.jpg",
-      "md5": "8fba6e1caacc4e22b91c6201e49c6848",
-      "size": 906051,
-      "uploadedDate": "2020-10-20T15:23:12.857Z",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-a1d6907066d2b2120d33c02f67f3fa9c.jpg",
+      "md5": "a1d6907066d2b2120d33c02f67f3fa9c",
+      "size": 916763,
+      "uploadedDate": "2020-11-30T18:52:13.494Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "Thumbnail",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-8fba6e1caacc4e22b91c6201e49c6848.jpg",
-      "md5": "8fba6e1caacc4e22b91c6201e49c6848",
-      "size": 906051,
-      "uploadedDate": "2020-10-20T15:23:19.564Z",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-a1d6907066d2b2120d33c02f67f3fa9c.jpg",
+      "md5": "a1d6907066d2b2120d33c02f67f3fa9c",
+      "size": 916763,
+      "uploadedDate": "2020-11-30T18:54:48.765Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-a1d6907066d2b2120d33c02f67f3fa9c.jpg",
+      "md5": "a1d6907066d2b2120d33c02f67f3fa9c",
+      "size": 916763,
+      "uploadedDate": "2020-11-30T19:00:59.984Z",
       "width": 1200,
       "height": 1600
     },
     {
       "type": "CodeRedemption_340x440",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-8fba6e1caacc4e22b91c6201e49c6848.jpg",
-      "md5": "8fba6e1caacc4e22b91c6201e49c6848",
-      "size": 906051,
-      "uploadedDate": "2020-10-20T15:23:27.295Z",
-      "width": 1200,
-      "height": 1600
-    },
-    {
-      "type": "DieselStoreFrontWide",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S1-2560x1440-32006242217caeb75557e66cd9e2c180.jpg",
-      "md5": "32006242217caeb75557e66cd9e2c180",
-      "size": 989318,
-      "uploadedDate": "2020-10-20T15:23:34.831Z",
-      "width": 2560,
-      "height": 1440
-    },
-    {
-      "type": "DieselStoreFrontTall",
-      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-8fba6e1caacc4e22b91c6201e49c6848.jpg",
-      "md5": "8fba6e1caacc4e22b91c6201e49c6848",
-      "size": 906051,
-      "uploadedDate": "2020-10-20T15:23:42.290Z",
+      "url": "https://cdn1.epicgames.com/95b4d5a753d042678f775d5e1eb5ab25/offer/EGS_SurvivingtheAftermath_IceflakeStudiosOy_S2-1200x1600-a1d6907066d2b2120d33c02f67f3fa9c.jpg",
+      "md5": "a1d6907066d2b2120d33c02f67f3fa9c",
+      "size": 916763,
+      "uploadedDate": "2020-11-30T19:01:34.599Z",
       "width": 1200,
       "height": 1600
     }
