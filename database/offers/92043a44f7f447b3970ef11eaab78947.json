@@ -1,0 +1,95 @@
+{
+  "id": "92043a44f7f447b3970ef11eaab78947",
+  "namespace": "244aaaa06bfa49d088205b13b9d2d115",
+  "title": "1000 Platinum",
+  "description": "1000 Platinum",
+  "longDescription": null,
+  "status": "ACTIVE",
+  "productSlug": null,
+  "urlSlug": "1000plat",
+  "creationDate": "2020-11-20T19:55:32.208Z",
+  "lastModifiedDate": "2020-12-04T21:19:58.318Z",
+  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "viewableDate": null,
+  "developer": null,
+  "seller": {
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
+  },
+  "linkedOfferId": null,
+  "isFeatured": false,
+  "ignoreOrder": false,
+  "freeDays": 0,
+  "collectionOfferIds": [],
+  "technicalDetails": null,
+  "recurrence": "ONCE",
+  "categories": [
+    {
+      "path": "applications"
+    }
+  ],
+  "tags": [],
+  "customAttributes": [],
+  "keyImages": [
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_2560x1440-2560x1440-7db652662cd0d290abb681368d94ac5e.jpg",
+      "md5": "7db652662cd0d290abb681368d94ac5e",
+      "size": 2122695,
+      "uploadedDate": "2020-12-03T01:13:42.716Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_1200x1600-1200x1600-7dd9a197a1ccc7f777dca3ea63fbf715.jpg",
+      "md5": "7dd9a197a1ccc7f777dca3ea63fbf715",
+      "size": 1314365,
+      "uploadedDate": "2020-12-03T01:13:56.527Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_1200x1600-1200x1600-7dd9a197a1ccc7f777dca3ea63fbf715.jpg",
+      "md5": "7dd9a197a1ccc7f777dca3ea63fbf715",
+      "size": 1314365,
+      "uploadedDate": "2020-12-03T01:14:17.281Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_1200x1600-1200x1600-7dd9a197a1ccc7f777dca3ea63fbf715.jpg",
+      "md5": "7dd9a197a1ccc7f777dca3ea63fbf715",
+      "size": 1314365,
+      "uploadedDate": "2020-12-03T01:14:34.233Z",
+      "width": 1200,
+      "height": 1600
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_2560x1440-2560x1440-7db652662cd0d290abb681368d94ac5e.jpg",
+      "md5": "7db652662cd0d290abb681368d94ac5e",
+      "size": 2122695,
+      "uploadedDate": "2020-12-03T01:15:05.831Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/244aaaa06bfa49d088205b13b9d2d115/offer/WF_PlatinumPack1000_1200x1600-1200x1600-7dd9a197a1ccc7f777dca3ea63fbf715.jpg",
+      "md5": "7dd9a197a1ccc7f777dca3ea63fbf715",
+      "size": 1314365,
+      "uploadedDate": "2020-12-03T01:15:16.906Z",
+      "width": 1200,
+      "height": 1600
+    }
+  ],
+  "items": [
+    {
+      "id": "629e44328d02420ea88368d4bad6b23e"
+    }
+  ],
+  "catalogNs": null
+}

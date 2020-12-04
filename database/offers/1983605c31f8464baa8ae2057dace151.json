@@ -1,20 +1,20 @@
 {
   "id": "1983605c31f8464baa8ae2057dace151",
   "namespace": "244aaaa06bfa49d088205b13b9d2d115",
-  "title": "DLC 2",
-  "description": "DLC 2",
+  "title": "DLC02",
+  "description": "DLC02",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "dlc02",
   "creationDate": "2020-11-19T21:47:49.652Z",
-  "lastModifiedDate": "2020-11-20T21:20:01.663Z",
+  "lastModifiedDate": "2020-12-04T21:18:23.184Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
-    "name": "Epic Test Organization"
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "addons"
-    },
-    {
-      "path": "addons/durable"
-    },
     {
       "path": "applications"
     }
