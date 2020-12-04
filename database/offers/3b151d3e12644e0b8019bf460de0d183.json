@@ -1,15 +1,15 @@
 {
   "id": "3b151d3e12644e0b8019bf460de0d183",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00025 Audience",
-  "description": "DLC00025 Audience",
-  "longDescription": "DLC00025 Audience",
+  "title": "Berserker Boris Outfit",
+  "description": "While Boris is usually stoic and dry, sometimes he needs to unleash his primal side. After escaping the Gulag into a zombie-infested wilderness, he became a zombie killing wildman, doing whatever it takes to survive!",
+  "longDescription": "While Boris is usually stoic and dry, sometimes he needs to unleash his primal side. After escaping the Gulag into a zombie-infested wilderness, he became a zombie killing wildman, doing whatever it takes to survive!",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "sparrowdevaudience-27",
+  "urlSlug": "zombie-army-4-dead-war--berserker-boris-outfit",
   "creationDate": "2020-09-04T12:23:08.407Z",
-  "lastModifiedDate": "2020-10-30T13:59:48.595Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-12-04T05:10:58.602Z",
+  "effectiveDate": "2020-12-08T14:00:00.000Z",
   "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
@@ -35,7 +35,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "developerName",
@@ -44,13 +44,58 @@
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Berserker Boris Outfit-900x450-a153ac50a0c28fd15b253a1363f48da1.png",
+      "md5": "a153ac50a0c28fd15b253a1363f48da1",
+      "size": 580817,
+      "uploadedDate": "2020-12-01T17:46:41.482Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Berserker_Boris_Outfit_REDEMPTIONIMAGE-860x1180-33062f4ccbb3428fee693650566c30fb.jpg",
+      "md5": "33062f4ccbb3428fee693650566c30fb",
+      "size": 836639,
+      "uploadedDate": "2020-12-01T17:46:48.740Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Berserker_Boris_Outfit_REDEMPTIONIMAGE-860x1180-33062f4ccbb3428fee693650566c30fb.jpg",
+      "md5": "33062f4ccbb3428fee693650566c30fb",
+      "size": 836639,
+      "uploadedDate": "2020-12-01T17:47:08.836Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Berserker_Boris_Outfit_REDEMPTIONIMAGE-860x1180-33062f4ccbb3428fee693650566c30fb.jpg",
+      "md5": "33062f4ccbb3428fee693650566c30fb",
+      "size": 836639,
+      "uploadedDate": "2020-12-01T17:49:53.363Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Berserker Boris Outfit-900x450-a153ac50a0c28fd15b253a1363f48da1.png",
+      "md5": "a153ac50a0c28fd15b253a1363f48da1",
+      "size": 580817,
+      "uploadedDate": "2020-12-01T17:50:14.053Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Berserker_Boris_Outfit_REDEMPTIONIMAGE-860x1180-33062f4ccbb3428fee693650566c30fb.jpg",
+      "md5": "33062f4ccbb3428fee693650566c30fb",
+      "size": 836639,
+      "uploadedDate": "2020-12-01T17:50:23.188Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

@@ -1,15 +1,15 @@
 {
   "id": "0ff0512a61954389a1864efad319087f",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "Mission5Audience",
-  "description": "Mission5Audience",
-  "longDescription": "Mission5Audience",
+  "title": "Mission 5 – Alpine Blitz",
+  "description": "They’ve escaped Damnation Valley, but can the deadhunters survive this brand-new Zombie Army 4 campaign mission? Fight your way through a zombie-infested train carrying precious cargo, but beware – a zombified zeppelin is en route to lay waste to the track!",
+  "longDescription": "They’ve escaped Damnation Valley, but can the deadhunters survive this brand-new Zombie Army 4 campaign mission? Fight your way through a zombie-infested train carrying precious cargo, but beware – a zombified zeppelin is en route to lay waste to the track! Can you get to a nearby Resistance airfield for help, or will the high-flying terror get there first? \n\nAlpine Blitz is the second mission in Death From Above, a chilling new three-part Zombie Army 4: Dead War Campaign!\nRide the rails of fear itself in this 1-4 player mission, complete with new sinister locations to fight through, collectibles, achievements and more! The Hell Cult may be defeated – but the terror lives on!",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "sparrowdevaudience-04",
+  "urlSlug": "zombie-army-4-dead-war--alpine-blitz",
   "creationDate": "2020-05-22T19:00:24.441Z",
-  "lastModifiedDate": "2020-05-22T19:03:30.996Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-12-04T05:10:58.583Z",
+  "effectiveDate": "2020-12-08T14:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
@@ -18,7 +18,7 @@
   },
   "linkedOfferId": null,
   "isFeatured": false,
-  "ignoreOrder": true,
+  "ignoreOrder": false,
   "freeDays": 0,
   "collectionOfferIds": [],
   "technicalDetails": null,
@@ -35,7 +35,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "developerName",
@@ -44,13 +44,58 @@
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:34:37.380Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Alpine_BLitz-900x450-724f4df30e491c61dd22b637f0807da9.png",
+      "md5": "724f4df30e491c61dd22b637f0807da9",
+      "size": 721640,
+      "uploadedDate": "2020-12-01T16:53:31.340Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
+      "md5": "bac11e80702bd088ac83d62c17f5133d",
+      "size": 1495629,
+      "uploadedDate": "2020-12-01T16:53:42.400Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
+      "md5": "bac11e80702bd088ac83d62c17f5133d",
+      "size": 1495629,
+      "uploadedDate": "2020-12-01T16:53:57.891Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-1386043527b64b155987f30901e3b1ae.jpg",
+      "md5": "1386043527b64b155987f30901e3b1ae",
+      "size": 1012373,
+      "uploadedDate": "2020-12-01T16:55:04.334Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Alpine_BLitz-900x450-724f4df30e491c61dd22b637f0807da9.png",
+      "md5": "724f4df30e491c61dd22b637f0807da9",
+      "size": 721640,
+      "uploadedDate": "2020-12-01T16:55:18.825Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_Alpine_BLitz_REDEMPTIONIMAGE-860x1180-bac11e80702bd088ac83d62c17f5133d.png",
+      "md5": "bac11e80702bd088ac83d62c17f5133d",
+      "size": 1495629,
+      "uploadedDate": "2020-12-01T16:55:30.464Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [

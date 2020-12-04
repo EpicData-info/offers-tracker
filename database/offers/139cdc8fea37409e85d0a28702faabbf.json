@@ -1,16 +1,16 @@
 {
   "id": "139cdc8fea37409e85d0a28702faabbf",
   "namespace": "dfd2530e80e4425d801913b0879be444",
-  "title": "DLC00043 Audience",
-  "description": "DLC00043 Audience",
-  "longDescription": "DLC00043 Audience",
+  "title": "Sten MK2 SMG Bundle",
+  "description": "A weapon favored by Marie, the Sten MK2 is cheap, dirty and gets the job done right. This wicked SMG even had a poem written in its honor! In your hands you want to get in close, pull the trigger and let it rip your enemies into shreds. How’s that for British engineering?",
+  "longDescription": "A weapon favored by Marie, the Sten MK2 is cheap, dirty and gets the job done right. This wicked SMG even had a poem written in its honor! In your hands you want to get in close, pull the trigger and let it rip your enemies into shreds. How’s that for British engineering? \n\nThis Weapon Bundle contains;\n-              The Sten MK2 SMG\n-              2 Charms (Poison Ring, Rose)\n-              2 Bespoke Weapon Skins (French Camo, Chrome)",
   "status": "ACTIVE",
   "productSlug": null,
-  "urlSlug": "sparrowdevaudience-26",
+  "urlSlug": "zombie-army-4-dead-war--sten-mk2-smg-bundle",
   "creationDate": "2020-09-04T12:23:57.316Z",
-  "lastModifiedDate": "2020-10-30T13:59:48.620Z",
-  "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-12-04T05:10:58.645Z",
+  "effectiveDate": "2020-12-08T14:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -35,7 +35,7 @@
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
-      "value": "KR,CN"
+      "value": "[]"
     },
     {
       "key": "developerName",
@@ -44,13 +44,58 @@
   ],
   "keyImages": [
     {
-      "type": "ESRB",
-      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/item/ESRB_ZombieArmy4-842x485-a5dfa6a6da7e7dd4b0b2c9e1e5458bf5.jpg",
-      "md5": "a5dfa6a6da7e7dd4b0b2c9e1e5458bf5",
-      "size": 109719,
-      "uploadedDate": "2020-05-05T14:37:11.413Z",
-      "width": 842,
-      "height": 485
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Sten_MK2_SMG_Bundle-900x450-09b59c7c3c2149cbc5dc75db8ac6b0bb.jpg",
+      "md5": "09b59c7c3c2149cbc5dc75db8ac6b0bb",
+      "size": 400279,
+      "uploadedDate": "2020-12-01T17:33:05.628Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_StenMK2SMGBundle_REDEMPTIONIMAGE-860x1180-7cbbe47675c2089500cea4c1a0daa597.jpg",
+      "md5": "7cbbe47675c2089500cea4c1a0daa597",
+      "size": 499871,
+      "uploadedDate": "2020-12-01T17:33:11.289Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "Thumbnail",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_StenMK2SMGBundle_REDEMPTIONIMAGE-860x1180-7cbbe47675c2089500cea4c1a0daa597.jpg",
+      "md5": "7cbbe47675c2089500cea4c1a0daa597",
+      "size": 499871,
+      "uploadedDate": "2020-12-01T17:33:19.603Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "CodeRedemption_340x440",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_StenMK2SMGBundle_REDEMPTIONIMAGE-860x1180-7cbbe47675c2089500cea4c1a0daa597.jpg",
+      "md5": "7cbbe47675c2089500cea4c1a0daa597",
+      "size": 499871,
+      "uploadedDate": "2020-12-01T17:36:11.085Z",
+      "width": 860,
+      "height": 1180
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_DLCCAPSULE_Sten_MK2_SMG_Bundle-900x450-09b59c7c3c2149cbc5dc75db8ac6b0bb.jpg",
+      "md5": "09b59c7c3c2149cbc5dc75db8ac6b0bb",
+      "size": 400279,
+      "uploadedDate": "2020-12-01T17:36:19.956Z",
+      "width": 900,
+      "height": 450
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/dfd2530e80e4425d801913b0879be444/offer/EGS_REBELLION_ZOMBIEARMY4_StenMK2SMGBundle_REDEMPTIONIMAGE-860x1180-7cbbe47675c2089500cea4c1a0daa597.jpg",
+      "md5": "7cbbe47675c2089500cea4c1a0daa597",
+      "size": 499871,
+      "uploadedDate": "2020-12-01T17:36:26.029Z",
+      "width": 860,
+      "height": 1180
     }
   ],
   "items": [
