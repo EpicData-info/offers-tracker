@@ -1,20 +1,20 @@
 {
   "id": "95bed2d706964fc28dd504b9ebe71a03",
   "namespace": "244aaaa06bfa49d088205b13b9d2d115",
-  "title": "Upgrade DLC 3",
-  "description": "Upgrade DLC 3",
+  "title": "upgradedlc03",
+  "description": "upgradedlc03",
   "longDescription": null,
   "status": "ACTIVE",
   "productSlug": null,
   "urlSlug": "upgradedlc03",
   "creationDate": "2020-11-20T20:18:15.711Z",
-  "lastModifiedDate": "2020-11-20T21:20:12.394Z",
+  "lastModifiedDate": "2020-12-08T21:06:34.380Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
   "viewableDate": null,
   "developer": null,
   "seller": {
-    "id": "o-jwuggxrvjq99seqnvcrzckgm6e8jtr",
-    "name": "Epic Test Organization"
+    "id": "o-nvl9gfg7wr3taz2semsy269894sau5",
+    "name": "Digital Extremes"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -24,12 +24,6 @@
   "technicalDetails": null,
   "recurrence": "ONCE",
   "categories": [
-    {
-      "path": "addons"
-    },
-    {
-      "path": "addons/durable"
-    },
     {
       "path": "applications"
     }
