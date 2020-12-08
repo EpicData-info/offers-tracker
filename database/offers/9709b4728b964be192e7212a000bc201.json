@@ -8,13 +8,13 @@
   "productSlug": "werewolf-the-apocalypse-earthblood/home",
   "urlSlug": "tealgeneralaudience",
   "creationDate": "2019-08-24T05:06:19.129Z",
-  "lastModifiedDate": "2020-06-10T12:48:03.973Z",
+  "lastModifiedDate": "2020-12-08T12:15:19.442Z",
   "effectiveDate": "2099-01-01T00:00:00.000Z",
-  "viewableDate": null,
+  "viewableDate": "2019-01-01T00:00:00.000Z",
   "developer": null,
   "seller": {
-    "id": "o-ufmrk5furrrxgsp5tdngefzt5rxdcn",
-    "name": "Epic Dev Test Account"
+    "id": "o-wubu848ps2xcxuwv2m3bhet9gbhdbp",
+    "name": "Bigben Interactive"
   },
   "linkedOfferId": null,
   "isFeatured": false,
@@ -51,6 +51,18 @@
       "comment": null
     },
     {
+      "id": "1344",
+      "name": "FIGHTING",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:09.322Z",
+      "updated": "2020-09-09T11:26:33.513Z",
+      "status": "ACTIVE",
+      "referenceCount": 8,
+      "comment": null
+    },
+    {
       "id": "1367",
       "name": "RPG",
       "namespace": "epic",
@@ -60,6 +72,30 @@
       "updated": "2020-09-16T19:19:59.199Z",
       "status": "ACTIVE",
       "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
       "comment": null
     }
   ],
@@ -149,6 +185,9 @@
   "items": [
     {
       "id": "ad961f9491ca4c34865c732f4a32b917"
+    },
+    {
+      "id": "e96427c095f84eeab66371a0ee47e7a4"
     }
   ],
   "catalogNs": null
