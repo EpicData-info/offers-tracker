@@ -8,9 +8,9 @@
   "productSlug": null,
   "urlSlug": "zombie-army-4-dead-war--berserker-boris-outfit",
   "creationDate": "2020-09-04T12:23:08.407Z",
-  "lastModifiedDate": "2020-12-08T13:48:08.546Z",
-  "effectiveDate": "2020-12-08T18:00:00.000Z",
-  "viewableDate": "2019-01-01T00:00:00.000Z",
+  "lastModifiedDate": "2020-12-08T17:46:19.888Z",
+  "effectiveDate": "2020-12-08T17:00:00.000Z",
+  "viewableDate": null,
   "developer": null,
   "seller": {
     "id": "o-7ytxfydj7f9a2uv4bmg3s5wfl2epsm",
@@ -25,7 +25,13 @@
   "recurrence": "ONCE",
   "categories": [
     {
+      "path": "addons"
+    },
+    {
       "path": "games"
+    },
+    {
+      "path": "addons/durable"
     },
     {
       "path": "applications"
