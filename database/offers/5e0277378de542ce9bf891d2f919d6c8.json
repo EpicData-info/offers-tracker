@@ -5,12 +5,12 @@
   "description": "Cyberpunk 2077",
   "longDescription": null,
   "status": "ACTIVE",
-  "productSlug": null,
+  "productSlug": "cyberpunk-2077",
   "urlSlug": "cyberpunk",
   "creationDate": "2019-06-13T21:04:20.315Z",
-  "lastModifiedDate": "2020-12-07T16:06:39.918Z",
-  "effectiveDate": "2050-06-03T17:00:00.000Z",
-  "viewableDate": null,
+  "lastModifiedDate": "2020-12-09T23:55:33.539Z",
+  "effectiveDate": "2020-12-10T00:00:00.000Z",
+  "viewableDate": "2020-12-10T00:00:00.000Z",
   "developer": null,
   "seller": {
     "id": "o-x2vdjaf7cfakvlsgz8qf2gx8bkplcc",
@@ -28,10 +28,113 @@
       "path": "games"
     },
     {
+      "path": "games/edition/base"
+    },
+    {
+      "path": "games/edition"
+    },
+    {
       "path": "applications"
     }
   ],
-  "tags": [],
+  "tags": [
+    {
+      "id": "1216",
+      "name": "ACTION",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:05.613Z",
+      "updated": "2020-09-16T21:22:47.774Z",
+      "status": "ACTIVE",
+      "referenceCount": 110,
+      "comment": null
+    },
+    {
+      "id": "1185",
+      "name": "FPS",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:50.376Z",
+      "updated": "2020-09-05T13:11:46.644Z",
+      "status": "ACTIVE",
+      "referenceCount": 2,
+      "comment": null
+    },
+    {
+      "id": "1367",
+      "name": "RPG",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:01:20.701Z",
+      "updated": "2020-09-16T19:19:59.199Z",
+      "status": "ACTIVE",
+      "referenceCount": 43,
+      "comment": null
+    },
+    {
+      "id": "1370",
+      "name": "SINGLEPLAYER",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": null,
+      "created": "2019-06-20T12:01:22.169Z",
+      "updated": "2020-09-16T23:47:27.291Z",
+      "status": "ACTIVE",
+      "referenceCount": 195,
+      "comment": null
+    },
+    {
+      "id": "1307",
+      "name": "OPEN WORLD",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T12:00:51.191Z",
+      "updated": "2020-09-10T19:57:35.438Z",
+      "status": "ACTIVE",
+      "referenceCount": 32,
+      "comment": null
+    },
+    {
+      "id": "9547",
+      "name": "WINDOWS",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:18.435Z",
+      "updated": "2020-09-16T23:47:27.310Z",
+      "status": "ACTIVE",
+      "referenceCount": 259,
+      "comment": null
+    },
+    {
+      "id": "1117",
+      "name": "ADVENTURE",
+      "namespace": "epic",
+      "aliases": null,
+      "operator": null,
+      "created": "2019-06-20T11:59:16.622Z",
+      "updated": "2020-09-16T21:22:47.792Z",
+      "status": "ACTIVE",
+      "referenceCount": 84,
+      "comment": null
+    },
+    {
+      "id": "9549",
+      "name": "CONTROLLER SUPPORT",
+      "namespace": "epic",
+      "aliases": [],
+      "operator": "kimberly.rodatos",
+      "created": "2019-10-11T02:43:42.533Z",
+      "updated": "2020-09-10T22:54:46.508Z",
+      "status": "ACTIVE",
+      "referenceCount": 103,
+      "comment": null
+    }
+  ],
   "customAttributes": [
     {
       "key": "com.epicgames.app.blacklist",
@@ -40,6 +143,10 @@
     {
       "key": "developerName",
       "value": "CD PROJEKT RED"
+    },
+    {
+      "key": "com.epicgames.app.productSlug",
+      "value": "cyberpunk-2077"
     }
   ],
   "keyImages": [
@@ -60,6 +167,51 @@
       "uploadedDate": "2019-06-13T21:06:34.615Z",
       "width": 340,
       "height": 440
+    },
+    {
+      "type": "OfferImageWide",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_S2_DESCRIPTION-2560x1440-8411578303f60188c29f79cdbabcbca938bea5a6-2560x1440-91b7c4749a6d55e56e24bc22166092cb-2560x1440-91b7c4749a6d55e56e24bc22166092cb.jpg",
+      "md5": "91b7c4749a6d55e56e24bc22166092cb",
+      "size": 214982,
+      "uploadedDate": "2020-12-09T15:35:39.862Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "OfferImageTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "size": 161300,
+      "uploadedDate": "2020-12-09T15:36:17.209Z",
+      "width": 1280,
+      "height": 1440
+    },
+    {
+      "type": "DieselGameBoxLogo",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_IC1_MAINLOGO-EN-1920x473-86738e995fb8493ddfc36a83d95d3db3-1920x473-86738e995fb8493ddfc36a83d95d3db3.png",
+      "md5": "86738e995fb8493ddfc36a83d95d3db3",
+      "size": 248751,
+      "uploadedDate": "2020-12-09T15:36:32.806Z",
+      "width": 1920,
+      "height": 473
+    },
+    {
+      "type": "DieselStoreFrontWide",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/Diesel_product_ginger_home_EGS_CDPROJEKTRED_CYBERPUNK2077_S2_DESCRIPTION-2560x1440-8411578303f60188c29f79cdbabcbca938bea5a6-2560x1440-91b7c4749a6d55e56e24bc22166092cb-2560x1440-91b7c4749a6d55e56e24bc22166092cb.jpg",
+      "md5": "91b7c4749a6d55e56e24bc22166092cb",
+      "size": 214982,
+      "uploadedDate": "2020-12-09T15:36:45.568Z",
+      "width": 2560,
+      "height": 1440
+    },
+    {
+      "type": "DieselStoreFrontTall",
+      "url": "https://cdn1.epicgames.com/77f2b98e2cef40c8a7437518bf420e47/offer/EGS_CDPROJEKTRED_CYBERPUNK2077_S3_DESCRIPTION-1280x1440-58949bccc0886694cf24d8c0f153d250-1280x1440-58949bccc0886694cf24d8c0f153d250.jpg",
+      "md5": "58949bccc0886694cf24d8c0f153d250",
+      "size": 161300,
+      "uploadedDate": "2020-12-09T15:36:54.560Z",
+      "width": 1280,
+      "height": 1440
     }
   ],
   "items": [
